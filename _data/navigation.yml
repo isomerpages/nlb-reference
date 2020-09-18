@@ -11,7 +11,7 @@ links:
     url: /contact-us/
   - title: About
     url: /about/
-  - title: Categories
-    collection: categories
+  - title: Topics
+    collection: topics
   - title: Guides
     resource_room: true

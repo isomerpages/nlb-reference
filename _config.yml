@@ -20,7 +20,7 @@ colors:
 
 
 collections:
-  categories:
+  topics:
     output: true
 resources_name: guides
 
