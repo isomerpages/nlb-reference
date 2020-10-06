@@ -8,7 +8,7 @@ logo: /images/isomer-logo.svg
 
 links:
   - title: Business
-    url: business/main
+    url: /business/main
   - title: Singapore Biographical Database on Chinese Pioneers 
   - title: Literature
     sublinks:
@@ -19,15 +19,15 @@ links:
       - title: Four Conversations
         url: 
       - title: NL Prominent Speaker Series
-        url:  literature/prominentspeakers/main
+        url:  /literature/prominentspeakers/main
   - title: Arts
     sublinks:
       - title: Literary Arts
-        url: arts/literaryarts/main
+        url: /arts/literaryarts/main
       - title: Performing Arts
-        url: arts/performingarts/main
+        url: /arts/performingarts/main
       - title: Visual Arts
-        url: arts/visualarts/main
+        url: /arts/visualarts/main
   - title: Guides
     resource_room: true
   - title: Contact Us
