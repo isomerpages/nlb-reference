@@ -1,6 +1,6 @@
 ---
 title: Social Sciences and Humanities
-permalink: socialsciencesandhumanities/main
+permalink: /socialsciencesandhumanities/main
 breadcrumb: Social Sciences and Humanities
 ---
 

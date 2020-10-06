@@ -1,6 +1,6 @@
 ---
 title: Singapore and South East Asia
-permalink: singaporeandsoutheastasia/main
+permalink: /singaporeandsoutheastasia/main
 breadcrumb: Singapore and South East Asia
 ---
 
