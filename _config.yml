@@ -22,6 +22,10 @@ colors:
 collections:
   topics:
     output: true
+  literature:
+    output: true
+  arts:
+    output: true
 resources_name: guides
 
 ##################################################################################################################

@@ -12,12 +12,10 @@ links:
   - title: Singapore Biographical Database on Chinese Pioneers 
   - title: Literature
     sublinks:
-      - title: All Guides
-        url:
       - title: Alt Screen In Transit
-        url: 
+        url: /literature/altscreenintransit/alt-screen-main
       - title: Four Conversations
-        url: 
+        url: /literature/fourconversations/conversation-main
       - title: NL Prominent Speaker Series
         url:  /literature/prominentspeakers/main
   - title: Arts

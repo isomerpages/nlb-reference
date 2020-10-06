@@ -2,6 +2,7 @@
 title: NL Prominent Speaker Series Jason Lai
 permalink: /literature/prominentspeakers/speaker-jason-lai
 breadcrumb: NL Prominent Speaker Series Jason Lai
+collection_name: literature
 third_nav_title: Speakers
 ---
 
@@ -73,91 +74,91 @@ For more information, please visit [eresources.nlb.gov.sg/HowDoI.aspx](http://er
 
  
 
-Databases
+<h3><u>Databases</u></h3>
  
 
-Beng, M. (2016, September 12). High-calibre rendition of Mozart and Haydn. The Straits Times. Retrieved from Factiva.
+* **Beng, M. (2016, September 12). [High-calibre rendition of Mozart and Haydn](http://eresources.nlb.gov.sg/Main/Browse?startsWith=F). The Straits Times. Retrieved from Factiva.**
  
 
-Beng, M. (2016, September 26). Strong showing by new blood. The Straits Times. Retrieved from Factiva.
+* **Beng, M. (2016, September 26). [Strong showing by new blood](http://eresources.nlb.gov.sg/Main/Browse?startsWith=F). The Straits Times. Retrieved from Factiva.**
  
 
-Bills-Geddes, G. (2016, August 31). Orchestra of the Swan comes of age with an eye on the next generation. Evesham Journal. Retrieved from Factiva.
+* **Bills-Geddes, G. (2016, August 31). [Orchestra of the Swan comes of age with an eye on the next generation](http://eresources.nlb.gov.sg/Main/Browse?startsWith=F). Evesham Journal. Retrieved from Factiva.**
  
 
-Martin, M. (2015, September 14). Band together; Project Symphony sees 50 ordinary S’poreans come together as an orchestra. Today. Retrieved from Factiva.
+* **Martin, M. (2015, September 14). [Band together; Project Symphony sees 50 ordinary S’poreans come together as an orchestra](http://eresources.nlb.gov.sg/Main/Browse?startsWith=F). Today. Retrieved from Factiva.**
  
 
-Nanda, A. (2015, October 20). Cross talk with Jason Lai and Kelvin Tan; Classical vs self-taught. The Straits Times. Retrieved from Factiva.
+* **Nanda, A. (2015, October 20). [Cross talk with Jason Lai and Kelvin Tan; Classical vs self-taught](http://eresources.nlb.gov.sg/Main/Browse?startsWith=F). The Straits Times. Retrieved from Factiva.**
  
 
-Nur Asyiqin Mohamad Salleh. (2016, July 5). Bringing their own classical touch. The Straits Times. Retrieved from Factiva.
+* **Nur Asyiqin Mohamad Salleh. (2016, July 5). [Bringing their own classical touch](http://eresources.nlb.gov.sg/Main/Browse?startsWith=F). The Straits Times. Retrieved from Factiva.**
  
 
-Nur Asyiqin Mohamad Salleh. (2016, July 26). Relive Harry Potter magic with SSO concert. The Straits Times. Retrieved from Factiva.
+* **Nur Asyiqin Mohamad Salleh. (2016, July 26). [Relive Harry Potter magic with SSO concert](http://eresources.nlb.gov.sg/Main/Browse?startsWith=F). The Straits Times. Retrieved from Factiva.**
  
 
-Rochester, M. (2016, September 26). Impressive debut by chamber orchestra. The Straits Times. Retrieved from Factiva.
+* **Rochester, M. (2016, September 26). [Impressive debut by chamber orchestra](http://eresources.nlb.gov.sg/Main/Browse?startsWith=F). The Straits Times. Retrieved from Factiva.**
  
 
-Tan, B. (2016, September 9). My weekend. The Straits Times. Retrieved from Factiva.
+* **Tan, B. (2016, September 9). [My weekend](http://eresources.nlb.gov.sg/Main/Browse?startsWith=F). The Straits Times. Retrieved from Factiva.**
  
 
-Yeo, W. (2016, May 9). Enterprise: Careers: Orchestral overtures. The Edge Singapore. Retrieved from Factiva.
+* **Yeo, W. (2016, May 9). [Enterprise: Careers: Orchestral overtures](http://eresources.nlb.gov.sg/Main/Browse?startsWith=F). The Edge Singapore. Retrieved from Factiva.**
  
 
-Articles
+<h3><u>Articles</u></h3>
  
 
-Chor, P. C. (2014, March 5). Shui Lan. Singapore Infopedia.
+* **Chor, P. C. (2014, March 5). [Shui Lan](http://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-03-11_160342.html?). Singapore Infopedia.**
  
 
-Koh, A. (2014, March 3). Lynette Seah. Singapore Infopedia.
+* **Koh, A. (2014, March 3). [Lynette Seah](http://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-03-06_161433.html?). Singapore Infopedia.**
  
 
-Koh, A. (2014, March 3). Lim Yau. Singapore Infopedia.
+* **Koh, A. (2014, March 3). [Lim Yau](http://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-03-06_161445.html?). Singapore Infopedia.**
  
 
-Koh, J. (2010, August).  Singapore Symphony Orchestra: Singapore’s first professional orchestra. MusicSG.
+* **Koh, J. (2010, August).  [Singapore Symphony Orchestra: Singapore’s first professional orchestra](http://eresources.nlb.gov.sg/music/Media/PDFs/Article/e92a3c41-9018-49a4-86bb-58ae16fedf). MusicSG.**
  
 
-Neo, T. S. (2010). Choo Hoey. Singapore Infopedia.
+* **Neo, T. S. (2010). [Choo Hoey](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1649_2010-02-25.html). Singapore Infopedia.**
  
 
-Perera, A. (2010, August).  People – Singapore Symphony Orchestra. MusicSG.
+* **Perera, A. (2010, August).  [People – Singapore Symphony Orchestra](http://eresources.nlb.gov.sg/music/Media/PDFs/Article/4e435a60-45f7-4eef-ba6c-aeab574d4a0f.pdf). MusicSG.**
  
 
-Yap, J. (2016). Singapore Symphony Orchestra. Singapore Infopedia.
+* **Yap, J. (2016). [Singapore Symphony Orchestra](http://eresources.nlb.gov.sg/infopedia/articles/SIP_853_2005-01-11.html?). Singapore Infopedia.**
  
 
-Multimedia
+<h3><u>Multimedia</u></h3>
  
 
-Singapore Symphony Orchestra. MusicSG.
+* **[Singapore Symphony Orchestra](http://eresources.nlb.gov.sg/music/music/artist/1667). MusicSG.**
  
 
-Lee, D.; Singapore Symphony Orchestra & Television Corporation of Singapore. (1995). Life story (5.8.95) [Video recording]. Singapore: TCS.
-Call no. : RSING 782.42163095957 LIF
+* **Lee, D.; Singapore Symphony Orchestra & Television Corporation of Singapore. (1995). [Life story (5.8.95)](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7491269) [Video recording]. Singapore: TCS.**
+**Call no. : RSING 782.42163095957 LIF**
  
 
-MediaCorp TV12 Singapore Pte Ltd.  (2003). Art nation. Episode 16 [Video recording]. Singapore: MediaCorp TV 12 Singapore
-Call no.: RSING 700.95957 ART
+* **MediaCorp TV12 Singapore Pte Ltd.  (2003). [Art nation. Episode 16](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12340308) [Video recording]. Singapore: MediaCorp TV 12 Singapore**
+**Call no.: RSING 700.95957 ART**
  
 
-Shostakovich, D. D.; Zhu, H.; Liang, R. & Singapore Symphony Orchestra. (1989). Symphony no. 10 in E minor, op. 93. [Sound recording]. Singapore: Philips Singapore Ltd.
-Call no.: RSING 785.11 SHO
+**Shostakovich, D. D.; Zhu, H.; Liang, R. & Singapore Symphony Orchestra. (1989). [Symphony no. 10 in E minor, op. 93](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5276267). [Sound recording]. Singapore: Philips Singapore Ltd.**
+**Call no.: RSING 785.11 SHO**
  
 
-Stravinsky, I.; Cao, J.; Singapore Symphony Orchestra & Singapore Broadcasting Corporation. (1986). SSO concert and chorus [Video recording]. Singapore: Singapore Broadcasting Corporation.
-Call no.: RSING 780.43 SSO
+**Stravinsky, I.; Cao, J.; Singapore Symphony Orchestra & Singapore Broadcasting Corporation. (1986). [SSO concert and chorus](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4985929) [Video recording]. Singapore: Singapore Broadcasting Corporation.**
+**Call no.: RSING 780.43 SSO**
  
 
-Zhu, H.; Singapore Symphony Orchestra & Singapore Broadcasting Corporation. (1986). Symphony no. 1 in B flat, Op 38 (‘Spring’) [Video recording]. Singapore: Singapore Broadcasting Corporation.
-Call no.: RSING 785.1 SYM
+**Zhu, H.; Singapore Symphony Orchestra & Singapore Broadcasting Corporation. (1986). [Symphony no. 1 in B flat, Op 38 (‘Spring’)](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4799360) [Video recording]. Singapore: Singapore Broadcasting Corporation.**
+**Call no.: RSING 785.1 SYM**
  
 
-Zhu, H.; Singapore Symphony Orchestra & Gazzelloni, Severino. (1986). SSO concert featuring flautist Severino Gazzelloni [Video recording]. Singapore: Singapore Broadcasting Corporation.
-Call no.: RSING 788.51 SSO
+* **Zhu, H.; Singapore Symphony Orchestra & Gazzelloni, Severino. (1986). [SSO concert featuring flautist Severino Gazzelloni](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5276256) [Video recording]. Singapore: Singapore Broadcasting Corporation.**
+**Call no.: RSING 788.51 SSO**
  
 
  

@@ -2,6 +2,7 @@
 title: NL Prominent Speaker Series Chris J Reed
 permalink: /literature/prominentspeakers/speaker-chris-j-reed
 breadcrumb: NL Prominent Speaker Series Chris J Reed
+collection_name: literature
 third_nav_title: Speakers
 ---
 

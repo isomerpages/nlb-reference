@@ -2,6 +2,7 @@
 title: NL Prominent Speaker Series Ismail Gafoor
 permalink: /literature/prominentspeakers/speaker-ismial-gafoor
 breadcrumb: NL Prominent Speaker Series Ismail Gafoor
+collection_name: literature
 third_nav_title: Speakers
 ---
 
