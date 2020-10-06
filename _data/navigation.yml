@@ -7,11 +7,30 @@
 logo: /images/isomer-logo.svg
 
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: About
-    url: /about/
-  - title: Topics
-    collection: topics
+  - title: Business
+    url: business/main
+  - title: Singapore Biographical Database on Chinese Pioneers 
+  - title: Literature
+    sublinks:
+      - title: All Guides
+        url:
+      - title: Alt Screen:\ In Transit
+        url: 
+      - title: Four Conversations
+        url: 
+      - title: NL Prominent Speaker Series
+        url:  literature/prominentspeakers/main
+  - title: Arts
+    sublinks:
+      - title: Literary Arts
+      sublinks:
+        - title: Sastera Melayu Singapura
+          url: literaryarts/sasteramelayusingapura/main
+      - title: Performing Arts
+        url: arts/performingarts/main
+      - title: Visual Arts
+        url: arts/visualarts/main
   - title: Guides
     resource_room: true
+  - title: Contact Us
+    url: /contact-us/

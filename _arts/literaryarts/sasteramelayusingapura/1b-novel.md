@@ -1,6 +1,6 @@
 ---
 title: Sastera Melayu Singapura - Novel
-permalink: literaryarts/sasteramelayusingapura/novel
+permalink: arts/literaryarts/sasteramelayusingapura/novel
 breadcrumb: Sastera Melayu Singapura - Novel
 third_nav_title: Sastera Melayu Singapura
 ---

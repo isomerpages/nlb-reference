@@ -16,11 +16,11 @@ third_nav_title: Speakers
 * eBooks
 * Newspaper Articles
 
-The National Library regularly host renowned speakers from the arts, heritage, technology and social sciences sectors to share with the wider community and to exchange ideas. Organised by the National Library, this event was held on 29 June 2017. This guide accompanied the talk given by Chris J. Reed on the topic “It’s Not What You Know, It’s Who You Know”.
+_The National Library regularly host renowned speakers from the arts, heritage, technology and social sciences sectors to share with the wider community and to exchange ideas. Organised by the National Library, this event was held on 29 June 2017. This guide accompanied the talk given by Chris J. Reed on the topic “It’s Not What You Know, It’s Who You Know”._
 
 <h3><u>Introduction</u></h3>
 
-| **The speaker for the topic is Chris J. Reed, Founder & Global CEO of Black Marketing.** <br><br>Chris J. Reed has grown his company from one person in one country in 2014 to a full listing on NASDAQ in 2016. Crowned as Asia’s Most Influential Digital Media Professional by CMO Asia and Singapore Small Business Rising Star 2015 by the British Chamber of Commerce, Chris was also named as an Official LinkedIn Power Profile 2012-2017, with one of the world’s most-viewed LinkedIn profiles with 55,000 followers. He is also an international bestselling author with his book LinkedIn Mastery for Entrepreneurs. <br><br> These resources are drawn from the collections of the National Library. | ![Chris j reed image](/images/literature/prominentspeakers/Chris-J-Reed-Guide-Pic-2.jpg) | 
+| **The speaker for the topic is Chris J. Reed, Founder & Global CEO of Black Marketing.** <br><br> Chris J. Reed has grown his company from one person in one country in 2014 to a full listing on NASDAQ in 2016. Crowned as Asia’s Most Influential Digital Media Professional by CMO Asia and Singapore Small Business Rising Star 2015 by the British Chamber of Commerce, Chris was also named as an Official LinkedIn Power Profile 2012-2017, with one of the world’s most-viewed LinkedIn profiles with 55,000 followers. He is also an international bestselling author with his book LinkedIn Mastery for Entrepreneurs. <br><br> These resources are drawn from the collections of the National Library. | ![Chris j reed image](/images/literature/prominentspeakers/Chris-J-Reed-Guide-Pic-2.jpg) | 
 
 <h3><u>Book by Chris J. Reed</u></h3>
 
