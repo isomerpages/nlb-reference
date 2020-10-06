@@ -23,9 +23,7 @@ links:
   - title: Arts
     sublinks:
       - title: Literary Arts
-      sublinks:
-        - title: Sastera Melayu Singapura
-          url: literaryarts/sasteramelayusingapura/main
+        url: arts/literaryarts/main
       - title: Performing Arts
         url: arts/performingarts/main
       - title: Visual Arts
