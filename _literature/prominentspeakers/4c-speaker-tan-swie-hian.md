@@ -1,5 +1,5 @@
 ---
-title: NL Prominent Speaker Series Tan Swie Hian
+title: Tan Swie Hian
 permalink: /literature/prominentspeakers/speaker-tan-swie-hian
 breadcrumb: NL Prominent Speaker Series Tan Swie Hian
 collection_name: literature
@@ -29,7 +29,7 @@ _The National Library regularly host renowned speakers from the arts, heritage, 
 
 _These resources are drawn from the collections of the National Library._
 
-<h3><u>Books on Tan Swie Hian</h3></u>
+<h3><u>Books on Tan Swie Hian</u></h3>
  
 
 * **Ch’ng, P. T. (2015). [My friendship with Singapore’s greatest painter](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202365989). Singapore: Zhuang Productions.**

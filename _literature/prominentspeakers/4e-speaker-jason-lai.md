@@ -1,5 +1,5 @@
 ---
-title: NL Prominent Speaker Series Jason Lai
+title: Jason Lai
 permalink: /literature/prominentspeakers/speaker-jason-lai
 breadcrumb: NL Prominent Speaker Series Jason Lai
 collection_name: literature

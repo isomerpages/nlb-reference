@@ -1,5 +1,5 @@
 ---
-title: NL Prominent Speaker Series Low Teck Seng
+title: Low Teck Seng
 permalink: /literature/prominentspeakers/speaker-low-teck-seng
 breadcrumb: NL Prominent Speaker Series Low Teck Seng
 collection_name: literature

@@ -1,5 +1,5 @@
 ---
-title: NL Prominent Speaker Series Ismail Gafoor
+title: Ismail Gafoor
 permalink: /literature/prominentspeakers/speaker-ismial-gafoor
 breadcrumb: NL Prominent Speaker Series Ismail Gafoor
 collection_name: literature
@@ -8,7 +8,7 @@ third_nav_title: Speakers
 
 ## **Ismail Gafoor**
 
-<h3><u>Guide Index</h3></u>
+<h3><u>Guide Index</u></h3>
 
 * <u>Introduction</u>
 * <u>Books by Ismail Gafoor</u>
@@ -17,7 +17,7 @@ third_nav_title: Speakers
 
 _The National Library regularly host renowned speakers from the arts, heritage, technology and social sciences sectors to share with the wider community and to exchange ideas. Organised by the National Library, this event was held on 21 April 2017. This guide accompanied the talk given by Ismail Gafoor on the topic “From Humble Beginnings to CEO of Singapore’s Largest Homegrown Real Estate Agency”._
 
-<h3><u>Introduction</h3></u>
+<h3><u>Introduction</u></h3>
 
 **The speaker for the topic is Ismail Gafoor, CEO of P&N Holdings and PropNex Realty.**
 
@@ -69,7 +69,7 @@ Released to mark the 10th anniversary of PropNex Realty Pte Ltd, this book lays 
 
  
 
-<h3><u>Newspaper Articles</h3></u>
+<h3><u>Newspaper Articles</u></h3>
  
 
 * **Tan, C. (2005, November 23). [Military manoeuvres at PropNex](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20051123-1.2.45.3).**
