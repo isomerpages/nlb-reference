@@ -21,7 +21,7 @@ _The National Library regularly host renowned speakers from the arts, heritage, 
 
 <h3><u>Introduction</u></h3>
 
-| **The speaker for the topic is Chris J. Reed, Founder & Global CEO of Black Marketing.** <div style="width: 70%;"> <br><br> Chris J. Reed has grown his company from one person in one country in 2014 to a full listing on NASDAQ in 2016. Crowned as Asia’s Most Influential Digital Media Professional by CMO Asia and Singapore Small Business Rising Star 2015 by the British Chamber of Commerce, Chris was also named as an Official LinkedIn Power Profile 2012-2017, with one of the world’s most-viewed LinkedIn profiles with 55,000 followers. He is also an international bestselling author with his book LinkedIn Mastery for Entrepreneurs. <br><br> These resources are drawn from the collections of the National Library. </div> | <img src="/images/literature/prominentspeakers/Chris-J-Reed-Guide-Pic-2.jpg" style="width: 30%;"> | 
+| **The speaker for the topic is Chris J. Reed, Founder & Global CEO of Black Marketing.** <br><br> Chris J. Reed has grown his company from one person in one country in 2014 to a full listing on NASDAQ in 2016. Crowned as Asia’s Most Influential Digital Media Professional by CMO Asia and Singapore Small Business Rising Star 2015 by the British Chamber of Commerce, Chris was also named as an Official LinkedIn Power Profile 2012-2017, with one of the world’s most-viewed LinkedIn profiles with 55,000 followers. He is also an international bestselling author with his book LinkedIn Mastery for Entrepreneurs. <br><br> These resources are drawn from the collections of the National Library. | <img src="/images/literature/prominentspeakers/Chris-J-Reed-Guide-Pic-2.jpg" style="width: 100vw;"> | 
 
 <h3><u>Book by Chris J. Reed</u></h3>
 
@@ -36,35 +36,30 @@ In this book, author Chris J. Reed, widely recognised as one of the world’s le
  
 
 * **Alvarez del Blanco, R. (2010). [Personal brands: Manage your life with talent and turn it into a unique experience](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13716013). Basingstoke: Palgrave Macmillan.**
-
 **Call number: RBUS 658.827 ALV**
 
 Personal Brands looks at how one can create a personal brand by identifying his or her strengths and talents and then building on these areas to attain success in life. It covers various aspects of personal branding, such as leadership qualities, creative potential, as well as personal image and grooming.
  
 
 * **Gowel, D. (2012). [The power in a link: Open doors, close deals, and change the way you do business using LinkedIn.](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14256148) Hoboken, New Jersey: John Wiley.**
-
 **Call number: RBUS 658.872 GOW**
 
 In The Power in a Link, author Dave Gowel provides guidance on how LinkedIn can be utilised effectively to enhance business relationships and networks, improve processes and clinch business deals. He also includes tips to demonstrate the practical applications of LinkedIn and real-life success stories that illustrate the benefits of this tool.
  
 
 * **Johnson, M. (2016). [Branding: In five and a half steps.](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202779654) New York: Thames & Hudson.**
-
 **Call number: RBUS 658.827 JOH**
 
 What is the secret to the popularity of some of the world’s most successful brands? Branding in Five and a Half Steps examines some of these brands, breaks them down into their basic components and analyses their success factors to give insights on how companies design their brands.
  
 
 * **Park, C. W., MacInnis, D. J. & Eisingerich, A. B. (2016). [Brand admiration: Building a business people love.](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202690734) Hoboken, New Jersey: John Wiley.**
-
 **Call number: RBUS 658.827 PAR**
 
 How can businesses establish and manage their branding to attract and retain customers? Brand Admiration details in-depth research, frameworks and concrete steps on how companies can build successful brands that are loved and admired by their customers. The book also covers measures and performance metrics designed to anticipate potential risks in building brand admiration.
  
 
 * **Spies, M. (2015). [Branded interactions: Creating the digital experience.](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202203424) London: Thames & Hudson.**
-
 **Call number: RBUS 658.87 SPI**
 
 The exponential growth of mobile devices today has greatly influenced the way in which customers experience and interact with a brand. Branded Interactions is a useful handbook that illustrates a five-step process that companies can use to plan, design and establish an interactive brand.
@@ -92,7 +87,6 @@ This ebook is a comprehensive handbook on how people can present their personal 
  
 
 * **Salenbacher, J. (2013). [Creative personal branding: The strategy to answer: What’s next](http://eresources.nlb.gov.sg/Main/Browse?startsWith=N).**
-
 **Amsterdam: BIS Publishers. Retrieved from NetLibrary (eBooks on EBSCOHost).**
 
 In this ebook, author Jürgen Salenbacher shares how one can use brand positioning methodology to develop creative thinking and thus find success when managing change in the current economy. In addition, he also provides exercises to help readers discover their innate talents and abilities.
