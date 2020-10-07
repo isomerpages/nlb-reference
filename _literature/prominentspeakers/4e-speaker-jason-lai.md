@@ -10,17 +10,17 @@ third_nav_title: Speakers
 
 <h3><u>Guide Index</u></h3>
 
-* Introduction
-* Books and Ephemera
-* Newspaper Articles
-* How to access databases on NLB’s eResources (eresources.nlb.gov.sg)
-* Databases
-* Articles
-* Multimedia
+* [Introduction](#introduction)
+* [Books and Ephemera](#books-and-ephemera)
+* [Newspaper Articles](#newspaper-articles)
+* [How to access eBooks and newspaper articles on NLB’s eResources(eresources.nlb.gov.sg)](#how-to-access-ebooks-and-newspaper-articles-on-nlbs-eresources-eresourcesnlbgovsg)
+* [Databases](#databases)
+* [Articles](#articles)
+* [Multimedia](#multimedia)
 
 _The National Library regularly host renowned speakers from the arts, heritage, technology and social sciences sectors to share with the wider community and to exchange ideas. Organised by the National Library, this event was held on 28 October 2016. This guide accompanied the talk given by Jason Lai on the topic “Musical Passions”._
 
-<h3><u>Introduction</u></h3>
+### <u>Introduction</u>
  
 
 **The speaker for the topic is Jason Lai.**
@@ -31,7 +31,7 @@ These resources are drawn from the collections of the National Library.
 
  
 
-<h3><u>Books and Ephemera</u></h3>
+### <u>Books and Ephemera</u>
  
 
 * **Tribute to senior class of 2008. (2008). [Conservatory: Yong Siew Toh Conservatory of Music newsletter](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/EXPNOS/BIBENQ/13437187/137646994,1). Iss. 25.**
@@ -46,7 +46,7 @@ These resources are drawn from the collections of the National Library.
 Ephemera includes brochures, flyers and booklets on the Yong Siew Toh Conservatory of Music as well as its courses and activities.
  
 
-<h3><u>Newspaper Articles</u></h3>
+### <u>Newspaper Articles</u> 
  
 
 * **Lee, J. (2001, November 27). [NUS ties up with US to form music conservatory](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20011127-1.2.26.22.aspx). The Straits Times, p. 27. NewspaperSG.**
@@ -71,7 +71,7 @@ Ephemera includes brochures, flyers and booklets on the Yong Siew Toh Conservato
 
  
 
-<h3><u>How to access eBooks and newspaper articles on NLB’s eResources (<a href="http://eresources.nlb.gov.sg/">eresources.nlb.gov.sg/</a>)</u></h3>
+### <u>How to access eBooks and newspaper articles on NLB’s eResources (<a href="http://eresources.nlb.gov.sg/">eresources.nlb.gov.sg/</a>)</u> 
  
 
 The National Library Board’s eResources are free for all NLB members. To access the databases listed below, you must log in to the eResources website using a myLibrary ID.
@@ -80,7 +80,7 @@ For more information, please visit [eresources.nlb.gov.sg/HowDoI.aspx](http://er
 
  
 
-<h3><u>Databases</u></h3>
+### <u>Databases</u>
  
 
 * **Beng, M. (2016, September 12). [High-calibre rendition of Mozart and Haydn](http://eresources.nlb.gov.sg/Main/Browse?startsWith=F). The Straits Times. Retrieved from Factiva.**
@@ -113,7 +113,7 @@ For more information, please visit [eresources.nlb.gov.sg/HowDoI.aspx](http://er
 * **Yeo, W. (2016, May 9). [Enterprise: Careers: Orchestral overtures](http://eresources.nlb.gov.sg/Main/Browse?startsWith=F). The Edge Singapore. Retrieved from Factiva.**
  
 
-<h3><u>Articles</u></h3>
+### <u>Articles</u>
  
 
 * **Chor, P. C. (2014, March 5). [Shui Lan](http://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-03-11_160342.html?). Singapore Infopedia.**
@@ -137,7 +137,7 @@ For more information, please visit [eresources.nlb.gov.sg/HowDoI.aspx](http://er
 * **Yap, J. (2016). [Singapore Symphony Orchestra](http://eresources.nlb.gov.sg/infopedia/articles/SIP_853_2005-01-11.html?). Singapore Infopedia.**
  
 
-<h3><u>Multimedia</u></h3>
+### <u>Multimedia</u>
  
 
 * **[Singapore Symphony Orchestra](http://eresources.nlb.gov.sg/music/music/artist/1667). MusicSG.**

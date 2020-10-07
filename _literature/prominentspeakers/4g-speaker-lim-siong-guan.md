@@ -10,16 +10,16 @@ third_nav_title: Speakers
 
 <h3><u>Guide Index</u></h3>
 
-* Introduction
-* Books
-* How to access databases on NLB’s eResources (eresources.nlb.gov.sg)
-* Databases
-* Journal Articles
-* Websites
+* [Introduction](#introduction)
+* [Books](#books)
+* [How to access eBooks and newspaper articles on NLB’s eResources(eresources.nlb.gov.sg)](#how-to-access-ebooks-and-newspaper-articles-on-nlbs-eresources-eresourcesnlbgovsg)
+* [Databases](#databases)
+* [Journal Articles](#journal-articles)
+* [Websites](#websites)
 
 _The National Library regularly host renowned speakers from the arts, heritage, technology and social sciences sectors to share with the wider community and to exchange ideas. Organised by the National Library, this event was held on 19 August 2016. This guide accompanied the talk given by Professor Lim Siong Guan on the topic “Winning in Work and Life”._
 
-<h3><u>Introduction</u></h3>
+### <u>Introduction</u>
  
 **The speaker for the topic is  Professor Lim Siong Guan.**
 
@@ -76,7 +76,7 @@ This book is a collection of speeches by Lim Siong Guan and Peter Ho, former hea
 This book provides an in-depth look at dynamic governance, the key to success in a world of rapid and increasing globalisation as well as unrelenting technological advancement. If bureaucratic public institutions can evolve and embed the culture and capabilities that enable continuous learning and change, their contributions to a country’s socio-economic progress and prosperity would be enormous. The lessons from their efforts in institutionalising culture, capabilities and change provide meaningful and valuable insights for transforming organisations.
  
 
-<h3><u>How to access eBooks and newspaper articles on NLB’s eResources (<a href="http://eresources.nlb.gov.sg/">eresources.nlb.gov.sg/</a>)</u></h3>
+### <u>How to access eBooks and newspaper articles on NLB’s eResources (<a href="http://eresources.nlb.gov.sg/">eresources.nlb.gov.sg/</a>)</u> 
  
 
 The National Library Board’s eResources are free for all NLB members. To access the databases listed below, you must log in to the eResources website using a myLibrary ID.
@@ -85,7 +85,7 @@ For more information, please visit [eresources.nlb.gov.sg/HowDoI.aspx](http://er
 
  
 
-<h3><u>Databases</u></h3>
+### <u>Databases</u>
  
 
 * **[How new leaders can sustain S’pore’s success](http://eresources.nlb.gov.sg/Main/Browse?startsWith=F). (2015, April 6). The Straits Times. Retrieved from Factiva.**
@@ -108,7 +108,7 @@ Besides the many challenges of modern-day living, other aspects of life such as 
 This article explores the concept of Total Defence as one that is applicable during times of peace. Total Defence encompasses five key aspects — military, civil, economic, social and psychological defence. Tang emphasises that Total Defence starts with families and homes, schools and workplaces and not army camps and fire stations. Thus, Total Defence means that maintaining harmony is essential to tackling the threat to peace and security.
  
 
-<h3><u>Journal Articles</u></h3>
+### <u>Journal Articles</u>
  
 
 * **Chuan, C. (2006, October). Being the best that he can be: Interview with Mr Lim Siong Guan. [Challenge: Public Service for the 21st Century](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7470680), 12(9), 14-15.**
@@ -147,7 +147,7 @@ Also available at [http://www.challenge.gov.sg/archives/2005_11/perspectives/per
 This article looks at the resources and tools launched by the Managing for Excellence (MFE) Office at the 5th PS21-MFE Forum on Organisational Excellence held on 9 February 2001. It describes the Singapore Quality Award (SQA) online portal, benefits of inter-agency project teams, the Balanced Scorecard and Six Sigma methodologies, and features an extract of the keynote address by Lim Siong Guan, Head of the Civil Service and reports on the innovation framework developed by the PS21 Office.
  
 
-<h3><u>Websites</u></h3>
+### <u>Websites</u>
  
 
 * **[Close-up of Mr. Lim Siong Guan, Head of Civil Service Description](http://eresources.nlb.gov.sg/printheritage/image.aspx?id=a6690ba7-43a1-4cec-8318-93fc18041820). Retrieved July 25, 2016, from the eResources website.**

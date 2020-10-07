@@ -10,15 +10,15 @@ third_nav_title: Speakers
 
 <h3><u>Guide Index</u></h3>
 
-* Introduction
-* Articles by Dr Shashi Jayakumar
-* Selected Popular Works on Singapore’s National Security
-* Singapore’s National Security
-* RSIS Working Papers & Conference Reports
+* [Introduction](#introduction)
+* [Articles by Dr Shashi Jayakumar](#articles-by-dr-sashi-jayakumar)
+* [Selected Popular Works on Singapore’s National Security](#selected-popular-works-on-singapores-national-security)
+* [Singapore’s National Security](#singapores-national-security)
+* [RSIS Working Papers & Conference Reports](#rsis-working-papers-conference-reports)
 
 _The National Library regularly host renowned speakers from the arts, heritage, technology and social sciences sectors to share with the wider community and to exchange ideas. Organised by the National Library, this event was held on 21 September 2016. This guide accompanied the talk given by Dr Shashi Jayakumar on the topic “State, Society and National Security: Challenges and Opportunities in the 21st Century”._
 
-<h3><u>Introduction</u></h3>
+### <u>Introduction</u>
  
 
 **The speaker for the topic is Dr Shashi Jayakumar.**
@@ -31,7 +31,7 @@ _These resources are drawn from the collections of the National Library._
 
  
 
-<h3><u>Articles by Dr Shashi Jayakumar</u></h3>
+### <u>Articles by Dr Shashi Jayakumar</u>
  
 
 * **Jayakumar, S. (ed.). (2016). [State, society and national security: challenges and opportunities in the 21st century](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/EXPNOS/BIBENQ?BRN=202402030&NAVLVL=SET). Singapore: World Scientific.**
@@ -90,7 +90,7 @@ Dr Jayakumar examines the spread of IS ideology and radicalisation and explores 
 Looking at the phenomena of people joining anti-IS forces to fight the Islamic State, Dr Jayakumar asks who they are and why are they taking up arms. Also published in Thailand’s The Nation the same day.
  
 
-<h3><u>Selected Popular Works on Singapore’s National Security</u></h3>
+### <u>Selected Popular Works on Singapore’s National Security</u></h3>
  
 
 **Nadarajan, B. (2012). [Close watch: A nation’s resolve to secure Singapore](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/EXPNOS/BIBENQ?ENTRY=+Close+watch%3A+A+nation%E2%80%99s+resolve+to+secure+Singapore&ENTRY_NAME=BS&ENTRY_TYPE=K&GQ=+Close+watch%3A+A+nation%E2%80%99s+resolve+to+secure+Singapore&SORTS=SQL_REL_TITLE). Singapore: National Security Coordination Secretariat.**
@@ -107,7 +107,7 @@ Close Watch examines the terror threats faced by Singapore and the efforts to co
 Started in 2006, the objective of the Community Engagement Programme (CEP) was to build a resilient community network to enable Singapore society to recover quickly after disasters. The publication describes the CEP programmes and people’s experiences with them.
  
 
-<h3><u>Singapore’s National Security</u></h3>
+### <u>Singapore’s National Security</u>
  
 
 **Desker, B. and Ang, C. G. (eds.). (2016).  [Perspectives on the security of Singapore: The first 50 years](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/EXPNOS/BIBENQ?ENTRY=Perspectives+on+the+security+of+Singapore%3A+The+first+50+years&ENTRY_NAME=BS&ENTRY_TYPE=K&GQ=Perspectives+on+the+security+of+Singapore%3A+The+first+50+years&SORTS=SQL_REL_TITLE). Singapore: World Scientific & Imperial College Press.**
@@ -132,7 +132,8 @@ These two surveys conducted five years apart look at Singaporean attitudes towar
 Published after the 2007 London Underground bombings, six contributors take a look at the various aspects of societal resilience and examine the state of Singapore’s societal resilience and its mechanisms.
  
 
-<h3><u>RSIS Working Papers & Conference Reports</u></h3>
+### <u>RSIS Working Papers & Conference Reports</u>
+
 A significant portion of the publication output of the S. Rajaratnam School of International Studies is in the form of working papers. They give a sense of the research being conducted and the ideas being explored by the fellows of the school. Here is a sampling of papers with more relevance to Dr Jayakumar’s talk:
 
  

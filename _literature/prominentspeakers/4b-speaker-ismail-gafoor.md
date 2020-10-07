@@ -10,14 +10,14 @@ third_nav_title: Speakers
 
 <h3><u>Guide Index</u></h3>
 
-* <u>Introduction</u>
-* <u>Books by Ismail Gafoor</u>
-* <u>Books on PropNex</u>
-* <u>Newspaper Articles</u>
+* [Introduction](#introduction)
+* [Books by Ismail Gafoor](#books-by-ismail-gafoor)
+* [Books on PropNex](#books-on-propnex)
+* [Newspaper Articles](#newspaper-articles)
 
 _The National Library regularly host renowned speakers from the arts, heritage, technology and social sciences sectors to share with the wider community and to exchange ideas. Organised by the National Library, this event was held on 21 April 2017. This guide accompanied the talk given by Ismail Gafoor on the topic “From Humble Beginnings to CEO of Singapore’s Largest Homegrown Real Estate Agency”._
 
-<h3><u>Introduction</u></h3>
+### <u>Introduction</u>
 
 **The speaker for the topic is Ismail Gafoor, CEO of P&N Holdings and PropNex Realty.**
 
@@ -29,7 +29,7 @@ These resources are drawn from the collections of the National Library.
 
  
 
-<h3><u>Books by Ismail Gafoor</u></h3>
+### <u>Books by Ismail Gafoor</u>
  
 
 * **Mohamed Ismail A. G. (2005). [You can fly: Think, do, and act for greater personal success](http://eservice.nlb.gov.sg/item_holding.aspx?bid=12563083). Singapore: Mohamed Ismail A.G.**
@@ -55,7 +55,7 @@ Real estate investments are big-ticket items that can either lead to riches or a
 
  
 
-<h3><u>Books on PropNex</u></h3>
+### <u>Books on PropNex</u>
  
 
 * **Koh, W. (2012). [Propnex: From novice to market leader](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14631947). Singapore: Cengage Learning Asia.**
@@ -81,7 +81,7 @@ Released to mark the 10th anniversary of PropNex Realty Pte Ltd, this book lays 
 
  
 
-<h3><u>Newspaper Articles</u></h3>
+### <u>Newspaper Articles</u>
  
 
 * **Tan, C. (2005, November 23). [Military manoeuvres at PropNex](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20051123-1.2.45.3).**

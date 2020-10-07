@@ -10,15 +10,15 @@ third_nav_title: Speakers
 
 <h3><u>Guide Index</u></h3>
 
-* Introduction
-* Books on Tan Swie Hian
-* Newspaper Articles
-* Selected Titles on Works by Tan Swie Hian, including Exhibition Catalogues
-* Selected Titles by Tan Swie Hian
+* [Introduction](#introduction)
+* [Books on Tan Swie Hian](#books-on-tan-swie-hian)
+* [Newspaper Articles](#newspaper-articles)
+* [Selected Titles on Works by Tan Swie Hian, including Exhibition Catalogues](#selected-titles-on-works-by-tan-swie-hian-including-exhibition-catalogues)
+* [Selected Titles by Tan Swie Hian](#selected-titles-by-tan-swie-hian)
 
 _The National Library regularly host renowned speakers from the arts, heritage, technology and social sciences sectors to share with the wider community and to exchange ideas. Organised by the National Library, this event was held on 24 Feb 2017. This guide accompanied the talk given by Dr Tan Swie Hian on the topic “A Thousand-Year Debate on the Imagery of a Plantain Tree in Snow”._
 
-<h3><u>Introduction</u></h3>
+### <u>Introduction</u>
  
 
 **The speaker for the topic is the acclaimed artist, Dr Tan Swie Hien.**
@@ -29,7 +29,7 @@ _The National Library regularly host renowned speakers from the arts, heritage, 
 
 _These resources are drawn from the collections of the National Library._
 
-<h3><u>Books on Tan Swie Hian</u></h3>
+### <u>Books on Tan Swie Hian</u>
  
 
 * **Ch’ng, P. T. (2015). [My friendship with Singapore’s greatest painter](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202365989). Singapore: Zhuang Productions.**
@@ -85,7 +85,7 @@ This research publication focuses on the Singapore Chinese modernist literature 
 这本研究著作是通过研究南洋商报副刊以及《蕉风》，探讨新加坡华文现代主义文学运动的发展。其中一章专注讨论华文现代主义文学主要推动者梁明广和陈瑞献所扮演的角色。
  
 
-<h3><u>Newspaper Articles</u></h3>
+### <u>Newspaper Articles</u>
  
 
 * **Barnes, R. (1979, October 20). [A Buddhist’s meditations in black and white](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19791020-1.2.152.9.1). The Straits Times, p. 3. Retrieved from NewspaperSG.**
@@ -123,7 +123,7 @@ This article announced that Tan Swie Hian had received the Officier de l’Ordre
 An interview with Tan Swie Hian, where he talks about his creative process in composing and writing a Chinese couplet.
  
 
-<h3><u>Selected Titles on Works by Tan Swie Hian, including Exhibition Catalogues</u></h3>
+### <u>Selected Titles on Works by Tan Swie Hian, including Exhibition Catalogues</u>
  
 
 * **陈巧篆、陈碧巨、杨伟烈编辑 [Chen, Q. H., Chen, B. J., Yang, W. L. (Eds.).] (2001).  [陈瑞献 = Tan Swie Hian](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11038955). 新加坡：南洋艺术学院.**
@@ -162,7 +162,7 @@ A catalogue of an exhibition of Tan Swie Hian’s works at the Singapore Art Mus
 Instant is a millennium is a multidisciplinary performance performed in May 2003 at the Festival Gala Performance of the Singapore Arts Festival 2003. Tan Swie Hian combined modern poetry, classical verses, fables, sculptures, Chinese wash paintings, oil paintings, stage and costume designs in his dialogue with music for this performance.
  
 
-<h3><u>Selected Titles by Tan Swie Hian</u></h3>
+### <u>Selected Titles by Tan Swie Hian</u></h3>
  
 
 * **陈瑞献 [Tan, S. H.]. (1968). [巨人 [The Giant]](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84470001). 新加坡：五月出版社.**

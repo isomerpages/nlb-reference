@@ -10,14 +10,14 @@ third_nav_title: Speakers
 
 <h3><u>Guide Index</u></h3>
 
-* Introduction
-* Books on Wang Gungwu
-* Newspaper Articles
-* Selected Titles by Wang Gungwu
+* [Introduction](#introduction)
+* [Books on Wang Gungwu](#books-on-wang-gungwu)
+* [Newspaper Articles](#newspaper-articles)
+* [Selected Titles by Wang Gungwu](#selected-titles-by-wang-gungwu)
 
 _The National Library regularly host renowned speakers from the arts, heritage, technology and social sciences sectors to share with the wider community and to exchange ideas. Organised by the National Library, this event was held on 26 July 2016. This guide accompanied the talk given by Professor Wang Gungwu on the topic “Chinese Identity and Loyalty in Singapore in the 19th and 20th Centuries”._
 
-<h3><u>Introduction</u></h3>
+### <u>Introduction</u>
  
 
 **The speaker for the topic is Professor Wang Gungwu, Chairman of the East Asian Institute.**
@@ -30,7 +30,7 @@ _These resources are drawn from the collections of the National Library._
 
  
 
-<h3><u>Books on Wang Gungwu</u></h3>
+### <u>Books on Wang Gungwu</u>
  
 
 * **Benton, G. and Liu, H. (2004). [Diasporic Chinese ventures: the life and work of Wang Gungwu](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11952442). London; New York: Routledge Curzon.**
@@ -54,7 +54,7 @@ This publication commemorates Professor Wang’s contributions to the study of C
 The book has three sections. The first section highlights 24 selected articles written by Professor Wang on higher education from 1971 to 2008.The second section presents a selected list of over 50 books written and edited by Professor Wang, and those written in honour of him. The last section features a detailed chronology of Professor Wang’s life and his illustrious academic career.
  
 
-<h3><u>Newspaper Articles</u></h3>
+### <u>Newspaper Articles</u>
  
 
 * **[Professor Wang returns to his roots, after 40 years](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19960715-1.2.67.2.1.aspx). (1996, July 15). The Straits Times, p. 2. Retrieved from NewspaperSG.**
@@ -82,7 +82,7 @@ The article shares his appointment as the University Professor, the third person
 This is an interview with Professor Wang on his illustrious scholarly life and his latest award of Honorary Doctorate of Letters by Cambridge University.
  
 
-<h3><u>Selected Titles by Wang Gungwu</u></h3>
+### <u>Selected Titles by Wang Gungwu</u>
  
 
 * **Wang, G. (1958).  [The Nanhai trade: a study of the early history of Chinese trade in the South China Sea](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4193576). Kuala Lumpur: Malayan Branch of the Royal Asiatic Society.**
