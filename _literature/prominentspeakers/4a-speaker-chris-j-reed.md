@@ -66,7 +66,7 @@ How can businesses establish and manage their branding to attract and retain cus
 
 The exponential growth of mobile devices today has greatly influenced the way in which customers experience and interact with a brand. Branded Interactions is a useful handbook that illustrates a five-step process that companies can use to plan, design and establish an interactive brand.
  
-# test
+### test
 
 
 <h3><u>How to access eBooks and newspaper articles on NLB’s eResources (<a href="http://eresources.nlb.gov.sg/">eresources.nlb.gov.sg/</a>)</u></h3>
@@ -78,8 +78,6 @@ For more information, please visit [eresources.nlb.gov.sg/HowDoI.aspx.](http://e
 
 
 <h3><u>eBooks</u></h3>
- 
-test2(#test)
 
 * **Fleming, N. (2016). [The customer loyalty loop: The science behind creating great experiences and lasting impressions.](https://singapore.libraryreserve.com/10/50/en/ContentDetails.htm?id=39D20C51-3B16-4C33-90D8-1FCC9BD7E3BB) New Jersey: Career Press. Retrieved from OverDrive.**
 
