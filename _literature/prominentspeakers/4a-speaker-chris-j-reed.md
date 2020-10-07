@@ -11,8 +11,8 @@ third_nav_title: Speakers
 <h2><u>Guide Index</u></h2>
 
 * [Introduction](#test)
-* [Book by Chris J. Reed](#Book-by-Chris J.-Reed)
-* Books on Digital Media
+* [Book by Chris J. Reed](#book-by-chris-j-reed)
+* [Books on Digital Media](#books-on-digital-media)
 * How to access eBooks and newspaper articles on NLB’s eResources(eresources.nlb.gov.sg)
 * eBooks
 * Newspaper Articles
