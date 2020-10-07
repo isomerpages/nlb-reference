@@ -10,16 +10,16 @@ third_nav_title: Speakers
 
 <h2><u>Guide Index</u></h2>
 
-* [Introduction](#test)
+* [Introduction](#introduction)
 * [Book by Chris J. Reed](#book-by-chris-j-reed)
 * [Books on Digital Media](#books-on-digital-media)
 * How to access eBooks and newspaper articles on NLB’s eResources(eresources.nlb.gov.sg)
-* eBooks
-* Newspaper Articles
+* [eBooks](#ebooks)
+* [Newspaper Articles](#newspaper-articles)
 
 _The National Library regularly host renowned speakers from the arts, heritage, technology and social sciences sectors to share with the wider community and to exchange ideas. Organised by the National Library, this event was held on 29 June 2017. This guide accompanied the talk given by Chris J. Reed on the topic “It’s Not What You Know, It’s Who You Know”._
 
-<h3><u>Introduction</u></h3>
+### <u>Introduction</u>
 
 **The speaker for the topic is Chris J. Reed, Founder & Global CEO of Black Marketing.** 
 
@@ -34,7 +34,7 @@ _The National Library regularly host renowned speakers from the arts, heritage, 
 
 In this book, author Chris J. Reed, widely recognised as one of the world’s leading experts on LinkedIn, shares his insights and perspectives on how to use LinkedIn to tailor and develop your personal branding and harness its applications to succeed in the business arena.
 
-<h3><u>Books on Digital Media</u></h3>
+### <u>Books on Digital Media</u>
  
 
 * **Alvarez del Blanco, R. (2010). [Personal brands: Manage your life with talent and turn it into a unique experience](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13716013). Basingstoke: Palgrave Macmillan.**
@@ -66,10 +66,8 @@ How can businesses establish and manage their branding to attract and retain cus
 
 The exponential growth of mobile devices today has greatly influenced the way in which customers experience and interact with a brand. Branded Interactions is a useful handbook that illustrates a five-step process that companies can use to plan, design and establish an interactive brand.
  
-### test
 
-
-<h3><u>How to access eBooks and newspaper articles on NLB’s eResources (<a href="http://eresources.nlb.gov.sg/">eresources.nlb.gov.sg/</a>)</u></h3>
+### <u>How to access eBooks and newspaper articles on NLB’s eResources (<a href="http://eresources.nlb.gov.sg/">eresources.nlb.gov.sg/</a>)</u> 
  
 
 The National Library Board’s eResources are free for all NLB members. To access the ebooks and newspaper articles listed below, you must log in to the eResources website using a myLibrary ID.
@@ -77,7 +75,7 @@ The National Library Board’s eResources are free for all NLB members. To acces
 For more information, please visit [eresources.nlb.gov.sg/HowDoI.aspx.](http://eresources.nlb.gov.sg/HowDoI.aspx)
 
 
-<h3><u>eBooks</u></h3>
+### <u>eBooks</u>
 
 * **Fleming, N. (2016). [The customer loyalty loop: The science behind creating great experiences and lasting impressions.](https://singapore.libraryreserve.com/10/50/en/ContentDetails.htm?id=39D20C51-3B16-4C33-90D8-1FCC9BD7E3BB) New Jersey: Career Press. Retrieved from OverDrive.**
 
@@ -111,7 +109,7 @@ This ebook focuses on the naming aspect of branding, examining the role that nam
 Business Visibility looks at how businesses can enhance their branding visibility so that customers are more likely to notice them online and offline, outlining simple ways that can help to identify and release visibility blocks to attain growth in the business.
  
 
-<h3><u>Newspaper Articles</u></h3>
+### <u>Newspaper Articles</u>
  
 
 * **[Audit your own brand](http://eresources.nlb.gov.sg/Main/Browse?startsWith=F). (2017, January 9). The New Paper. Retrieved from Factiva.**

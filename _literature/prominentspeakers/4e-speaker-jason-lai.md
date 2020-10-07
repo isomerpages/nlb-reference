@@ -71,7 +71,7 @@ Ephemera includes brochures, flyers and booklets on the Yong Siew Toh Conservato
 
  
 
-<h3><u>How to access databases on NLB’s eResources ( [eresources.nlb.gov.sg](http://eresources.nlb.gov.sg/) )</u></h3>
+<h3><u>How to access eBooks and newspaper articles on NLB’s eResources (<a href="http://eresources.nlb.gov.sg/">eresources.nlb.gov.sg/</a>)</u></h3>
  
 
 The National Library Board’s eResources are free for all NLB members. To access the databases listed below, you must log in to the eResources website using a myLibrary ID.

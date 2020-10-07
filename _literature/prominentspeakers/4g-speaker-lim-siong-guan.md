@@ -76,7 +76,7 @@ This book is a collection of speeches by Lim Siong Guan and Peter Ho, former hea
 This book provides an in-depth look at dynamic governance, the key to success in a world of rapid and increasing globalisation as well as unrelenting technological advancement. If bureaucratic public institutions can evolve and embed the culture and capabilities that enable continuous learning and change, their contributions to a country’s socio-economic progress and prosperity would be enormous. The lessons from their efforts in institutionalising culture, capabilities and change provide meaningful and valuable insights for transforming organisations.
  
 
-<h3><u>How to access databases on NLB’s eResources ( [eresources.nlb.gov.sg](http://eresources.nlb.gov.sg/) )</u></h3>
+<h3><u>How to access eBooks and newspaper articles on NLB’s eResources (<a href="http://eresources.nlb.gov.sg/">eresources.nlb.gov.sg/</a>)</u></h3>
  
 
 The National Library Board’s eResources are free for all NLB members. To access the databases listed below, you must log in to the eResources website using a myLibrary ID.
