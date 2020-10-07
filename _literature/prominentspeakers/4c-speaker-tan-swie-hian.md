@@ -65,7 +65,7 @@ This publication focuses on the life of Tan Swie Hian and highlights his achieve
 这部传记性著作除了描述陈瑞献的经历，也描述了他的艺术成就。
  
 
-* **方桂香 [Phoon, K. H.]. (2010). [新加坡华文现代主义文学运动研究：以新加坡南洋商报副刊<文艺>，<文丛>，<咖啡座>，<窗>和马来西亚文学杂志<蕉风月刊>为个案](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11651484) \[A Study of Singapore Chinese Modernist Literature: Case studies of Nanyang Siang Pau Literary Supplements, “Wen Yi”, “Wen Cong”, “Ka Fei Zuo”, “Chuang”and Chao Foon, a Literary Journal in Malaysia\]. 新加坡：创意圈出版社.**
+* **方桂香 [Phoon, K. H.]. (2010). [新加坡华文现代主义文学运动研究：以新加坡南洋商报副刊<文艺>，<文丛>，<咖啡座>，<窗>和马来西亚文学杂志<蕉风月刊>为个案](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11651484) [A Study of Singapore Chinese Modernist Literature: Case studies of Nanyang Siang Pau Literary Supplements, “Wen Yi”, “Wen Cong”, “Ka Fei Zuo”, “Chuang”and Chao Foon, a Literary Journal in Malaysia]. 新加坡：创意圈出版社.**
 **Call Number: RSING C810.072 FGX**
 This research publication focuses on the Singapore Chinese modernist literature Movement through the study of the literary supplements of Nanyang Shang Pau and a literary periodical, Chao Foon. The book also includes a chapter on Liang Mingguang (梁明广) and Tan Swie Hian, who were major advocators of modernism in Singapore Chinese literature.
 这本研究著作是通过研究南洋商报副刊以及《蕉风》，探讨新加坡华文现代主义文学运动的发展。其中一章专注讨论华文现代主义文学主要推动者梁明广和陈瑞献所扮演的角色。

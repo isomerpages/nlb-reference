@@ -21,12 +21,14 @@ _The National Library regularly host renowned speakers from the arts, heritage, 
 
 <h3><u>Introduction</u></h3>
 
-| **The speaker for the topic is Chris J. Reed, Founder & Global CEO of Black Marketing.** <br><br> Chris J. Reed has grown his company from one person in one country in 2014 to a full listing on NASDAQ in 2016. Crowned as Asia’s Most Influential Digital Media Professional by CMO Asia and Singapore Small Business Rising Star 2015 by the British Chamber of Commerce, Chris was also named as an Official LinkedIn Power Profile 2012-2017, with one of the world’s most-viewed LinkedIn profiles with 55,000 followers. He is also an international bestselling author with his book LinkedIn Mastery for Entrepreneurs. <br><br> These resources are drawn from the collections of the National Library. | ![Chris j reed image](/images/literature/prominentspeakers/Chris-J-Reed-Guide-Pic-2.jpg){:width="50%"} | 
+| **The speaker for the topic is Chris J. Reed, Founder & Global CEO of Black Marketing.** <br><br> Chris J. Reed has grown his company from one person in one country in 2014 to a full listing on NASDAQ in 2016. Crowned as Asia’s Most Influential Digital Media Professional by CMO Asia and Singapore Small Business Rising Star 2015 by the British Chamber of Commerce, Chris was also named as an Official LinkedIn Power Profile 2012-2017, with one of the world’s most-viewed LinkedIn profiles with 55,000 followers. He is also an international bestselling author with his book LinkedIn Mastery for Entrepreneurs. <br><br> These resources are drawn from the collections of the National Library. | <img src="/images/literature/prominentspeakers/Chris-J-Reed-Guide-Pic-2.jpg" style="width: 30%;"> | 
 
 <h3><u>Book by Chris J. Reed</u></h3>
 
 * **Reed, C. J. (2016). [LinkedIn mastery for entrepreneurs](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202610081). New South Wales: Evolve Global Publishing.**
+
 **Call number: 658.872 REE**
+
 **Available at selected public libraries.**
 In this book, author Chris J. Reed, widely recognised as one of the world’s leading experts on LinkedIn, shares his insights and perspectives on how to use LinkedIn to tailor and develop your personal branding and harness its applications to succeed in the business arena.
 
@@ -95,7 +97,7 @@ This ebook focuses on the naming aspect of branding, examining the role that nam
 Business Visibility looks at how businesses can enhance their branding visibility so that customers are more likely to notice them online and offline, outlining simple ways that can help to identify and release visibility blocks to attain growth in the business.
  
 
-<h3><u>Newspaper Articles</h3></u>
+<h3><u>Newspaper Articles</u></h3>
  
 
 * **[Audit your own brand](http://eresources.nlb.gov.sg/Main/Browse?startsWith=F). (2017, January 9). The New Paper. Retrieved from Factiva.**

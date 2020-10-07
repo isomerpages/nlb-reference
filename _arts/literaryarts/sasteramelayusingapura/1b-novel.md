@@ -21,10 +21,10 @@ The National Library has compiled a set of bibliographies on Singapore Literatur
 
 Bibliografi Sastera Melayu Singapura (1965-2009) menghimpunkan bahan-bahan karya para penulis Singapura sama ada yang diterbitkan di dalam atau luar negara dan juga karya-karya yang diterbitkan di Singapura dari tahun 1965 – 2015. Ini termasuk novel, koleksi puisi, cerpen, drama dan esei dalam bentuk buku. Kami hanya mengumpulkan bahan-bahan yang terdapat di dalam koleksi Perpustakaan Negara Singapura.
 
-* [Bibliografi Sastera Melayu Singapura: Cerpen](literaryarts/sasteramelayusingapura/cerpen)
-* [Bibliografi Sastera Melayu Singapura: Puisi](literaryarts/sasteramelayusingapura/puisi)
-* [Bibliografi Sastera Melayu Singapura: Esei](literaryarts/sasteramelayusingapura/esei)
-* [Bibliografi Sastera Melayu Singapura: Drama](literaryarts/sasteramelayusingapura/drama)
+* [Bibliografi Sastera Melayu Singapura: Cerpen](/arts/literaryarts/sasteramelayusingapura/cerpen)
+* [Bibliografi Sastera Melayu Singapura: Puisi](/arts/literaryarts/sasteramelayusingapura/puisi)
+* [Bibliografi Sastera Melayu Singapura: Esei](/arts/literaryarts/sasteramelayusingapura/esei)
+* [Bibliografi Sastera Melayu Singapura: Drama](/arts/literaryarts/sasteramelayusingapura/drama)
 * Bibliografi Sastera Melayu Singapura: Novel
 
 Maklumat mengakses bahan di Perpustakaan Rujukan Lee Kong Chian, Perpustakaan Negara Singapura.
@@ -791,7 +791,7 @@ i. The “Status” of the item: the item is <ul>not available</ul> in the libra
 
 ii. Double check that the item is in Lee Kong Chian Reference Library under “Branch”.
 
-iii. Write down the **Location Code** and the **Call Number** of the item. This helps you to locate the item within Lee Kong Chian Reference Library. Please refer to the table below for more information (Note: Please feel free to approach the counter staff for help in locating the books.)
+iii. Write down the <b><u>Location Code</u></b> and the <b><u>Call Number</u></b> of the item. This helps you to locate the item within Lee Kong Chian Reference Library. Please refer to the table below for more information (Note: Please feel free to approach the counter staff for help in locating the books.)
 
 All featured books and periodicals are located at the Lee Kong Chian Reference Library.
 
@@ -799,7 +799,7 @@ All featured books and periodicals are located at the Lee Kong Chian Reference L
 
 The National Library Board (NLB)’s eResources are free for all NLB members. Click [here](http://eresources.nlb.gov.sg/HowDoI.aspx) to find out how to register as a member.
 
-If you’re having problems registering or logging in, please [contact us](http://www.nlb.gov.sg/ContactUs.aspx). If you wish to find information in the databases but am not sure where to begin, or need recommendations on which databases to use, please use the “[Ask A Librarian](http://www.nlb.gov.sg/Research/AskUs.aspx)” function or send an email to [ref@nlb.gov.sg](mailto:ref@nlb.gov.sg) for help. The librarian will get back to you within three working days.
+If you’re having problems registering or logging in, please [contact us](/contact-us/). If you wish to find information in the databases but am not sure where to begin, or need recommendations on which databases to use, please use the “[Ask A Librarian](http://www.nlb.gov.sg/Research/AskUs.aspx)” function or send an email to [ref@nlb.gov.sg](mailto:ref@nlb.gov.sg) for help. The librarian will get back to you within three working days.
 
 ### **Authors**
 

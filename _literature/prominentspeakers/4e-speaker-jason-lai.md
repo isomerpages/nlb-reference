@@ -8,7 +8,7 @@ third_nav_title: Speakers
 
 ## **Jason Lai**
 
-<h3><u>Guide Index</h3></u>
+<h3><u>Guide Index</u></h3>
 
 * Introduction
 * Books and Ephemera
