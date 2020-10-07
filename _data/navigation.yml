@@ -9,7 +9,10 @@ logo: /images/isomer-logo.svg
 links:
   - title: Business
     url: /business/main
-  - title: Singapore Biographical Database on Chinese Pioneers 
+  - title: Database
+    sublinks:
+      - title: Singapore Biographical Database on Chinese Pioneers
+        url: /chinesepioneerdatabase/main
   - title: Literature
     sublinks:
       - title: Alt Screen In Transit

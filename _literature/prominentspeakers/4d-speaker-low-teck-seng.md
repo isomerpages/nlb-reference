@@ -53,7 +53,7 @@ This report outlines the roles in which science, technology and innovation play 
 Are policies always the drivers of innovation in science and technology? This book takes on the common belief that advancements in science and technology are due to various national policies and institutions, and instead proposes that “creative insecurity” is the driving force behind scientific and technological innovation.
  
 
-<h3><u>How to access databases on NLB’s eResources (http://eresources.nlb.gov.sg)</u></h3>
+<h3><u>How to access databases on NLB’s eResources ([http://eresources.nlb.gov.sg](http://eresources.nlb.gov.sg))</u></h3>
 The National Library Board’s eResources are free for all NLB members. To access the databases listed below, you must log in to the eResources website using a myLibrary ID.
 
 For more information, please visit [eresources.nlb.gov.sg/HowDoI.aspx](http://eresources.nlb.gov.sg/HowDoI.aspx).

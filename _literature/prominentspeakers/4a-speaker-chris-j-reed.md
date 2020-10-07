@@ -10,7 +10,7 @@ third_nav_title: Speakers
 
 <h2><u>Guide Index</u></h2>
 
-* Introduction
+* [Introduction](#test)
 * Book by Chris J. Reed
 * Books on Digital Media
 * How to access eBooks and newspaper articles on NLB’s eResources(eresources.nlb.gov.sg)
@@ -21,7 +21,9 @@ _The National Library regularly host renowned speakers from the arts, heritage, 
 
 <h3><u>Introduction</u></h3>
 
-| **The speaker for the topic is Chris J. Reed, Founder & Global CEO of Black Marketing.** <br><br> Chris J. Reed has grown his company from one person in one country in 2014 to a full listing on NASDAQ in 2016. Crowned as Asia’s Most Influential Digital Media Professional by CMO Asia and Singapore Small Business Rising Star 2015 by the British Chamber of Commerce, Chris was also named as an Official LinkedIn Power Profile 2012-2017, with one of the world’s most-viewed LinkedIn profiles with 55,000 followers. He is also an international bestselling author with his book LinkedIn Mastery for Entrepreneurs. <br><br> These resources are drawn from the collections of the National Library. | <img src="/images/literature/prominentspeakers/Chris-J-Reed-Guide-Pic-2.jpg" style="width: 100vw;"> | 
+**The speaker for the topic is Chris J. Reed, Founder & Global CEO of Black Marketing.** 
+
+| Chris J. Reed has grown his company from one person in one country in 2014 to a full listing on NASDAQ in 2016. Crowned as Asia’s Most Influential Digital Media Professional by CMO Asia and Singapore Small Business Rising Star 2015 by the British Chamber of Commerce, Chris was also named as an Official LinkedIn Power Profile 2012-2017, with one of the world’s most-viewed LinkedIn profiles with 55,000 followers. He is also an international bestselling author with his book LinkedIn Mastery for Entrepreneurs. <br><br> These resources are drawn from the collections of the National Library. | <img src="/images/literature/prominentspeakers/Chris-J-Reed-Guide-Pic-2.jpg" style="width: 100vw;"> | 
 
 <h3><u>Book by Chris J. Reed</u></h3>
 
@@ -64,8 +66,9 @@ How can businesses establish and manage their branding to attract and retain cus
 
 The exponential growth of mobile devices today has greatly influenced the way in which customers experience and interact with a brand. Branded Interactions is a useful handbook that illustrates a five-step process that companies can use to plan, design and establish an interactive brand.
  
+#test
 
-<h3><u>How to access eBooks and newspaper articles on NLB’s eResources([eresources.nlb.gov.sg](http://eresources.nlb.gov.sg/))</u></h3>
+<h3><u>How to access eBooks and newspaper articles on NLB’s eResources( [eresources.nlb.gov.sg](http://eresources.nlb.gov.sg/) )</u></h3>
  
 
 The National Library Board’s eResources are free for all NLB members. To access the ebooks and newspaper articles listed below, you must log in to the eResources website using a myLibrary ID.
