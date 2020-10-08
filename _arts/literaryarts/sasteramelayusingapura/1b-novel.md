@@ -8,13 +8,26 @@ third_nav_title: Sastera Melayu Singapura
 
 ## **Novel**
 
+<h3><u>Guide Index</u></h3>
+
+* [Overview of the Singapore Literature Bibliographies (1965 – 2015)](#overview-of-the-singapore-literature-bibliographies-1965-2015)
+* [Mukaddimah](#mukaddimah)
+* [1965 – 1970](#1965-1970)
+* [1971 – 1980](#1971-1980)
+* [1981 – 1990](#1981-1990)
+* [1991 – 2000](#1991-2000)
+* [2001 – 2010](#2001-2010)
+* [2011 – 2015](#2011-2015)
+* [Accessing National Library Board Singapore Resources](#accessing-national-library-board-singapore-resources)
+* [Authors](#authors)
+
 ## **_Overview of the Singapore Literature Bibliographies (1965 – 2015)_**
 
 The National Library has compiled a set of bibliographies on Singapore Literature that covers works published in English, Chinese, Malay and Tamil. These provide a comprehensive listing of literary works by Singapore writers and Singapore literature over the past 50 years from 1965 to 2015. The bibliographies have been updated from the original print versions to include works published from 2010 to 2015. The full listing of works including titles of newspapers and literary periodicals in the four languages can be easily accessed through the Resource Guides platform. More information about the specific language bibliographies including scope and coverage can be found in the respective Singapore Literature Resource Guides.
 
-![banner image](/images/literaryarts/melayusingapura/SGLitbibliobannerML.jpg)
+![banner image](/images/arts/literaryarts/melayusingapura/SGLitbibliobannerML.jpg)
 
-| Search Terms | Call Numbers |
+| **Search Terms** | **Call Numbers** |
 | Malay Fiction | 899.283 |
 
 ### **Mukaddimah**
@@ -773,9 +786,9 @@ Kuala Lumpur: Institut Terjemahan & Buku Malaysia.
 
  
 
-<ul><b>Accessing National Library Board Singapore Resources</b><ul>
+### <u>Accessing National Library Board Singapore Resources</u>
 
-<ul>Accessing the Print Materials</ul>
+<u>Accessing the Print Materials</u>
 
 You can search the library catalogue (for physical materials) in the library and from home ([http://catalogue.nlb.gov.sg](http://catalogue.nlb.gov.sg)). The easy search function allows you to search/browse by author, title, keyword, subject and ISBN/ISSN whereas the advanced search allows you to narrow your searches to specific media types or language holdings. In both instances, you will also be able to limit your search to search only specific libraries by clicking on the “limit by branch” option.
 
