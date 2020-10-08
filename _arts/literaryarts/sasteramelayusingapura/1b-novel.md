@@ -3,7 +3,7 @@ title: Sastera Melayu Singapura - Novel
 permalink: /arts/literaryarts/sasteramelayusingapura/novel
 breadcrumb: Sastera Melayu Singapura - Novel
 collection_name: arts
-third_nav_title: Sastera Melayu Singapura
+third_nav_title: Bibliografi Sastera Melayu Singapura
 ---
 
 ## **Novel**

@@ -3,7 +3,7 @@ title: Sastera Melayu Singapura - Puisi
 permalink: /arts/literaryarts/sasteramelayusingapura/puisi
 breadcrumb: Sastera Melayu Singapura - Puisi
 collection_name: arts
-third_nav_title: Sastera Melayu Singapura
+third_nav_title: Bibliografi Sastera Melayu Singapura
 ---
 
 ## **Puisi**
@@ -25,14 +25,17 @@ third_nav_title: Sastera Melayu Singapura
 
 The National Library has compiled a set of bibliographies on Singapore Literature that covers works published in English, Chinese, Malay and Tamil. These provide a comprehensive listing of literary works by Singapore writers and Singapore literature over the past 50 years from 1965 to 2015. The bibliographies have been updated from the original print versions to include works published from 2010 to 2015. The full listing of works including titles of newspapers and literary periodicals in the four languages can be easily accessed through the Resource Guides platform. More information about the specific language bibliographies including scope and coverage can be found in the respective Singapore Literature Resource Guides.
 
+![banner image](/images/arts/literaryarts/melayusingapura/SGLitbibliobannerML.jpg)
+
 | **search terms** | **Call Numbers** |
 | Malay Poetry | 8992305 |
 
-Mukaddimah
+### <u>Mukaddimah</u>
+
 Bibliografi Sastera Melayu Singapura (1965-2009) menghimpunkan bahan-bahan karya para penulis Singapura sama ada yang diterbitkan di dalam atau luar negara dan juga karya-karya yang diterbitkan di Singapura dari tahun 1965 – 2015. Ini termasuk novel, koleksi puisi, cerpen, drama dan esei dalam bentuk buku. Kami hanya mengumpulkan bahan-bahan yang terdapat di dalam koleksi Perpustakaan Negara Singapura.
 
 * [Bibliografi Sastera Melayu Singapura: Cerpen](/arts/literaryarts/sasteramelayusingapura/cerpen)
-* [Bibliografi Sastera Melayu Singapura: Puisi](/arts/literaryarts/sasteramelayusingapura/puisi)
+* Bibliografi Sastera Melayu Singapura: Puisi
 * [Bibliografi Sastera Melayu Singapura: Esei](/arts/literaryarts/sasteramelayusingapura/esei)
 * [Bibliografi Sastera Melayu Singapura: Drama](/arts/literaryarts/sasteramelayusingapura/drama)
 * [Bibliografi Sastera Melayu Singapura: Novel](/arts/literaryarts/sasteramelayusingapura/novel)

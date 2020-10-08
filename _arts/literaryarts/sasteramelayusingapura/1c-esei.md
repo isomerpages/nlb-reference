@@ -1,9 +1,9 @@
 ---
-title: Sastera Melayu Singapura -Esei
+title: Sastera Melayu Singapura - Esei
 permalink: /arts/literaryarts/sasteramelayusingapura/esei
 breadcrumb: Sastera Melayu Singapura - Esei
 collection_name: arts
-third_nav_title: Sastera Melayu Singapura
+third_nav_title: Bibliografi Sastera Melayu Singapura
 ---
 
 ## **Cerpen**
@@ -37,7 +37,7 @@ Bibliografi Sastera Melayu Singapura (1965-2009) menghimpunkan bahan-bahan karya
 
 * [Bibliografi Sastera Melayu Singapura: Cerpen](literaryarts/sasteramelayusingapura/cerpen)
 * [Bibliografi Sastera Melayu Singapura: Puisi](literaryarts/sasteramelayusingapura/puisi)
-* [Bibliografi Sastera Melayu Singapura: Esei](literaryarts/sasteramelayusingapura/esei)
+* Bibliografi Sastera Melayu Singapura: Esei
 * [Bibliografi Sastera Melayu Singapura: Drama](literaryarts/sasteramelayusingapura/drama)
 * [Bibliografi Sastera Melayu Singapura: Novel](/arts/literaryarts/sasteramelayusingapura/novel)
 
