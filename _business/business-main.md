@@ -1,6 +1,6 @@
 ---
 title: Business
-permalink: business/main
+permalink: /business/main
 breadcrumb: Business
 ---
 
