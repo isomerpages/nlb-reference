@@ -1,5 +1,5 @@
 ---
-title: Chinese Literature - Poetry
+title: Poetry
 permalink: /arts/literaryarts/singaporechineseliterature/poetry
 breadcrumb: Chinese Literature - Poetry
 collection_name: arts

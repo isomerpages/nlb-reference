@@ -1,5 +1,5 @@
 ---
-title: Chinese Literature - Prose and Miscellaneous Writing
+title: Prose and Miscellaneous Writing
 permalink: /arts/literaryarts/singaporechineseliterature/prose-and-miscellaneous-writing
 breadcrumb: Chinese Literature - Prose and Miscellaneous Writing
 collection_name: arts

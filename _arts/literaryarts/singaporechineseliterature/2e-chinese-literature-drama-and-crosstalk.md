@@ -1,5 +1,5 @@
 ---
-title: Chinese Literature - Drama and Crosstalk
+title: Drama and Crosstalk
 permalink: /arts/literaryarts/singaporechineseliterature/drama-and-crosstalk
 breadcrumb: Chinese Literature - Drama and Crosstalk
 collection_name: arts

@@ -1,5 +1,5 @@
 ---
-title: Chinese Literature - Criticism and Research
+title: Criticism and Research
 permalink: /arts/literaryarts/singaporechineseliterature/criticism-and-research
 breadcrumb: Chinese Literature - Criticism and Research
 collection_name: arts

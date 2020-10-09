@@ -1,5 +1,5 @@
 ---
-title: Chinese Literature - Novel
+title: Novel
 permalink: /arts/literaryarts/singaporechineseliterature/novel
 breadcrumb: Chinese Literature - Novel
 collection_name: arts
