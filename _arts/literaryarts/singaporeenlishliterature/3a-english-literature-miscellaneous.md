@@ -14,7 +14,7 @@ third_nav_title: Singapore Literature in English
 * [1970-1979](#1970-1979)
 * [1980-1989](#1980-1989)
 * [2000-2015](#2000-2015)
-* [10 - Accessing National Library Board Singapore Resources](#10-accessing-national-library-board-singapore-resources)
+* [Accessing National Library Board Singapore Resources](#10-accessing-national-library-board-singapore-resources)
 
 ### Overview of the Singapore Literature Bibliographies (1950 – 2015)
 
@@ -47,7 +47,7 @@ This section contains a unique, otherwise unclassifiable form of publication –
 
 **National Library Collection Codes**
 
-*RSING* Adult Reference Singapore
+**RSING** Adult Reference Singapore
 **RDET** Adult Reference Edwin Thumboo
 **RCLOS** Adult Reference Closed Access
 **RRARE** Adult Reference Rare
