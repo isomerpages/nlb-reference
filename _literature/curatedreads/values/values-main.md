@@ -1,0 +1,24 @@
+---
+title: Values
+permalink: /literature/curatedreads/values/values-main
+breadcrumb: Curated Reads - Values
+collection_name: literature
+---
+
+By the National Library, Singapore
+
+## **Values**
+
+<p style="text-align:center;">"Reading Maketh A Full (Wo)Man."
+
+Francis Bacon</p>
+ 
+Reading increases our knowledge and broadens our perspective. It allows us to gain a deeper understanding of our role in society and be inspired to contribute back to our community. Believe it or not, reading also reduces stress when we take a moment to relax and read, and disengage ourselves from the daily demands of life.
+ 
+This set of curated reads focuses on universal values and each reading plan centres on one powerful value. Let us draw from the immense benefits of reading to become more rounded individuals.
+
+| ![Integrity image](/images/literature/curatedreads/Integrity-square.jpg) | ![Inspiration image](/images/literature/curatedreads/Inspiration-square.jpg) | ![Influence image](/images/literature/curatedreads/Influence-square.jpg) | ![Belonging image](/images/literature/curatedreads/Belonging-square.jpg)
+| ![Diversity image](/images/literature/curatedreads/Diversity-square.jpg) | ![Heart image](/images/literature/curatedreads/Heart-square.jpg) | ![Purpose image](/images/literature/curatedreads/Purpose-square.jpg) | ![Courage image](/images/literature/curatedreads/Courage-square.jpg)
+| ![Gratitude image](/images/literature/curatedreads/Gratitude-banner.jpg) | ![Resiliance image](/images/literature/curatedreads/Resilience-banner.jpg) |
+
+![Logos image](/images/literature/curatedreads/logos-updated.jpeg)
