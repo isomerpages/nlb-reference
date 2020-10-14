@@ -17,8 +17,8 @@ Reading increases our knowledge and broadens our perspective. It allows us to ga
  
 This set of curated reads focuses on universal values and each reading plan centres on one powerful value. Let us draw from the immense benefits of reading to become more rounded individuals.
 
-| ![Integrity image](/images/literature/curatedreads/Integrity-square.jpg) | ![Inspiration image](/images/literature/curatedreads/Inspiration-square.jpg) | ![Influence image](/images/literature/curatedreads/Influence-square.jpg) | ![Belonging image](/images/literature/curatedreads/Belonging-square.jpg)
-| ![Diversity image](/images/literature/curatedreads/Diversity-square.jpg) | ![Heart image](/images/literature/curatedreads/Heart-square.jpg) | ![Purpose image](/images/literature/curatedreads/Purpose-square.jpg) | ![Courage image](/images/literature/curatedreads/Courage-square.jpg)
-| ![Gratitude image](/images/literature/curatedreads/Gratitude-banner.jpg) | ![Resiliance image](/images/literature/curatedreads/Resilience-banner.jpg) |
+| ![Integrity image](/images/literature/curatedreads/values/Integrity-square.jpg) | ![Inspiration image](/images/literature/curatedreads/values/Inspiration-square.jpg) | ![Influence image](/images/literature/curatedreads/values/Influence-square.jpg) | ![Belonging image](/images/literature/curatedreads/values/Belonging-square.jpg)
+| ![Diversity image](/images/literature/curatedreads/values/Diversity-square.jpg) | ![Heart image](/images/literature/curatedreads/values/Heart-square.jpg) | ![Purpose image](/images/literature/curatedreads/values/Purpose-square.jpg) | ![Courage image](/images/literature/curatedreads/values/Courage-square.jpg)
+| ![Gratitude image](/images/literature/curatedreads/values/Gratitude-banner.jpg) | ![Resiliance image](/images/literature/curatedreads/values/Resilience-banner.jpg) |
 
 ![Logos image](/images/literature/curatedreads/logos-updated.jpeg)
