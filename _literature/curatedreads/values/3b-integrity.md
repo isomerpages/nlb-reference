@@ -8,7 +8,7 @@ third_nav_title: Values
 
 ## **CORE READ**
 
-| ![Integrity image](/images/literature/curatedreads/values/iStock_43008098_MEDIUM_Resized.jpg) | ## **Success will Come and Go, but Integrity is Forever** <br><br> "_Integrity . . . takes having the courage to do the right thing, no matter what the consequences will be. Building a reputation of integrity takes years, but it takes only a second to lose, so never allow yourself to ever do anything that would damage your integrity. Profit in dollars or power is temporary, but profit in a network of people who trust you as a person of integrity is forever._" | 
+| [![Integrity image](/images/literature/curatedreads/values/iStock_43008098_MEDIUM_Resized.jpg)](https://www.forbes.com/sites/amyanderson/2012/11/28/success-will-come-and-go-but-integrity-is-forever/#5e48434e470f) | ## **Success will Come and Go, but Integrity is Forever** <br><br> "_Integrity . . . takes having the courage to do the right thing, no matter what the consequences will be. Building a reputation of integrity takes years, but it takes only a second to lose, so never allow yourself to ever do anything that would damage your integrity. Profit in dollars or power is temporary, but profit in a network of people who trust you as a person of integrity is forever._" | 
 
 There are many real-life examples of people who take short cuts, misrepresent themselves or cover up their mistakes in order to gain fame, money and power. Unfortunately, success that is built on a foundation of falsehoods often have terrible consequences when the lies are exposed. [Read this Forbes article](http://qr.nlb.sg/creads/integrity8) on the importance of integrity.
 

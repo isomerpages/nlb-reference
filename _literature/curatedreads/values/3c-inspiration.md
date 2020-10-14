@@ -1,7 +1,7 @@
 ---
-title: Integrity
-permalink: /literature/curatedreads/values/integrity
-breadcrumb: Curated Reads - Integrity
+title: Inspiration
+permalink: /literature/curatedreads/values/inspiration
+breadcrumb: Curated Reads - Inspiration
 collection_name: literature
 third_nav_title: Values
 ---
@@ -14,7 +14,7 @@ Without prior mistakes and failures, none of these inventions and innovations wo
 
 ## **CORE READ**
 
-| ![Ideas image](/images/literature/curatedreads/values/iStock_40951996_MEDIUM_Resized-1.jpg) | **Innovations that will Change Your Tomorrow** <br><br> "_The fairytale view of history implies that innovation has an end. It doesn’t. What we want and what we need keep changing. The incandescent light was a 19th-century failure and a 20th-century success. Now it’s a failure again, edged out by new technologies, like LEDs, that were, themselves, failures for many years. That’s what this issue is about: all the little failures, trivialities and not-quite-solved mysteries that make the successes possible._" |
+| [![Ideas image](/images/literature/curatedreads/values/iStock_40951996_MEDIUM_Resized-1.jpg)](https://archive.nytimes.com/www.nytimes.com/interactive/2012/06/03/magazine/innovations-issue.html?_r=2) | **Innovations that will Change Your Tomorrow** <br><br> "_The fairytale view of history implies that innovation has an end. It doesn’t. What we want and what we need keep changing. The incandescent light was a 19th-century failure and a 20th-century success. Now it’s a failure again, edged out by new technologies, like LEDs, that were, themselves, failures for many years. That’s what this issue is about: all the little failures, trivialities and not-quite-solved mysteries that make the successes possible._" |
 
 [Check out](http://qr.nlb.sg/creads/inspiration1) 32 intriguing and fascinating inventions that are primed to improve or add flavor to our everyday routines at home, in the office and at our recreational haunts.
 
