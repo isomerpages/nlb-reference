@@ -1,7 +1,7 @@
 ---
-title: Leadership
-permalink: /literature/curatedreads/values/leadership
-breadcrumb: Curated Reads - Leadership
+title: Communication
+permalink: /literature/curatedreads/values/communication
+breadcrumb: Curated Reads - Communication
 collection_name: literature
 third_nav_title: Skills
 ---

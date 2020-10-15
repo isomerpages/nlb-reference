@@ -1,7 +1,7 @@
 ---
-title: Innovation
-permalink: /literature/curatedreads/values/innovation
-breadcrumb: Curated Reads - Innovation
+title: Collaboration
+permalink: /literature/curatedreads/values/collaboration
+breadcrumb: Curated Reads - Collaboration
 collection_name: literature
 third_nav_title: Skills
 ---
