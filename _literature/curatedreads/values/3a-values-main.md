@@ -3,6 +3,7 @@ title: Values
 permalink: /literature/curatedreads/values/values-main
 breadcrumb: Curated Reads - Values
 collection_name: literature
+third_nav_title: Values
 ---
 
 By the National Library, Singapore
