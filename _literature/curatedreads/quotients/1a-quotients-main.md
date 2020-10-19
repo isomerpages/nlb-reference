@@ -21,7 +21,8 @@ Intelligence and emotional quotients (IQ and EQ) have often traditionally been c
 
 What does it mean to be future-ready? Can we ever be ready for Singapore’s future economy? Check out these articles and discover the variety of quotients we can tap on in order to become future-ready citizens primed to thrive in the new economy.
 
-
-
+| [![Creativity quotient image](/images/literature/curatedreads/quotients/Creativity-sq.jpg)](/literature/curatedreads/quotients/creativity-quotient) | [![Adaptability quotient image](/images/literature/curatedreads/quotients/Adaptability-sq.jpg)](/literature/curatedreads/quotients/adaptability-quotient) | [![Learning quotient image](/images/literature/curatedreads/quotients/Learning-sq.jpg)](/literature/curatedreads/quotients/learning-quotient) | [![Adversity quotient image](/images/literature/curatedreads/quotients/Adversity-sq.jpg)](/literature/curatedreads/quotients/adversity-quotient) |
+| [![Intelligence quotient image](/images/literature/curatedreads/quotients/Intelligence-sq.jpg)](/literature/curatedreads/quotients/intelligence-quotient) | [![Digital quotient image](/images/literature/curatedreads/quotients/Digital-sq.jpg)](/literature/curatedreads/quotients/digital-quotient) | [![Cultural quotient image](/images/literature/curatedreads/quotients/Cultural-sq.jpg)](/literature/curatedreads/quotients/cultural-quotient) | [![Curiosity quotient image](/images/literature/curateadreads/quotients/Curiosity-sq.jpg)](/literature/curatedreads/quotients/curiocsity-quotient) |
+| [![Emotional quotient image](/images/literature/curatedreads/quotients/Emotional-sq.jpg)](/literature/curatedreads/quotients/emotional-quotient) | [![Social quotient image](/images/literature/curatedreads/quotients/Social-sq.jpg)](/literature/curatedreads/quotients/social-quotient) |
 
 ![Logos image](/images/literature/curatedreads/logos-updated.jpeg)
