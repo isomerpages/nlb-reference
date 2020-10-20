@@ -26,6 +26,8 @@ collections:
     output: true
   arts:
     output: true
+  database:
+    output: true
 resources_name: guides
 
 ##################################################################################################################
