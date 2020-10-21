@@ -1,7 +1,7 @@
 ---
-title: Tan Kim Ching
-permalink: /chinesepioneerdatabase/pioneers/tan-kim-ching
-breadcrumb: Pioneers - Tan Kim Ching
+title: Tan Yeok Seong
+permalink: /chinesepioneerdatabase/pioneers/tan-yeok-seong
+breadcrumb: Pioneers - Tan Yeok Seong
 collection_name: database
 third_nav_title: Pioneers
 ---
