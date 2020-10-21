@@ -1,6 +1,6 @@
 ---
 title: Lee Siow Mong
-permalink: /chinesepioneerdatabase/pioneers/lee-siow-mong
+permalink: /database/pioneers/lee-siow-mong
 breadcrumb: Pioneers - Lee Siow Mong
 collection_name: database
 third_nav_title: Pioneers

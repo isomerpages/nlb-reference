@@ -1,6 +1,6 @@
 ---
 title: Zhang Liqian
-permalink: /chinesepioneerdatabase/pioneers/zhang-liqian
+permalink: /database/pioneers/zhang-liqian
 breadcrumb: Pioneers - Zhang Liqian
 collection_name: database
 third_nav_title: Pioneers

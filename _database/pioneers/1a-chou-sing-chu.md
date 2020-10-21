@@ -1,6 +1,6 @@
 ---
 title: Chou Sing Chu
-permalink: /chinesepioneerdatabase/pioneers/chou-sing-chu
+permalink: /database/pioneers/chou-sing-chu
 breadcrumb: Pioneers - Chou Sing Chu
 collection_name: database
 third_nav_title: Pioneers

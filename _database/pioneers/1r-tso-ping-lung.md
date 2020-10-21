@@ -1,6 +1,6 @@
 ---
 title: Tso Ping Lung
-permalink: /chinesepioneerdatabase/pioneers/tso-ping-lung
+permalink: /database/pioneers/tso-ping-lung
 breadcrumb: Pioneers - Tso Ping Lung
 collection_name: database
 third_nav_title: Pioneers

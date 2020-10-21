@@ -1,6 +1,6 @@
 ---
 title: Wee Bin
-permalink: /chinesepioneerdatabase/pioneers/wee-bin
+permalink: /database/pioneers/wee-bin
 breadcrumb: Pioneers - Wee Bin
 collection_name: database
 third_nav_title: Pioneers

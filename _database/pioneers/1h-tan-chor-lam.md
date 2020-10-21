@@ -1,6 +1,6 @@
 ---
 title: Tan Chor Lam
-permalink: /chinesepioneerdatabase/pioneers/tan-chor-lam
+permalink: /database/pioneers/tan-chor-lam
 breadcrumb: Pioneers - Tan Chor Lam
 collection_name: database
 third_nav_title: Pioneers

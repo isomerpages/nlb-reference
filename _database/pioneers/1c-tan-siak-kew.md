@@ -1,6 +1,6 @@
 ---
 title: Tan Siak Kew
-permalink: /chinesepioneerdatabase/pioneers/tan-siak-kew
+permalink: /database/pioneers/tan-siak-kew
 breadcrumb: Pioneers - Tan Siak Kew
 collection_name: database
 third_nav_title: Pioneers

@@ -1,6 +1,6 @@
 ---
 title: Tan Kheam Hock
-permalink: /chinesepioneerdatabase/pioneers/tan-kheam-hock
+permalink: /database/pioneers/tan-kheam-hock
 breadcrumb: Pioneers - Tan Kheam Hock
 collection_name: database
 third_nav_title: Pioneers

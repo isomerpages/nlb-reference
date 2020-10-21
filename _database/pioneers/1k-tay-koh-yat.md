@@ -1,6 +1,6 @@
 ---
 title: Tay Koh Yat
-permalink: /chinesepioneerdatabase/pioneers/tay-koh-yat
+permalink: /database/pioneers/tay-koh-yat
 breadcrumb: Pioneers - Tay Koh Yat
 collection_name: database
 third_nav_title: Pioneers

@@ -1,6 +1,6 @@
 ---
 title: Han Wai Toon
-permalink: /chinesepioneerdatabase/pioneers/han-wai-toon
+permalink: /database/pioneers/han-wai-toon
 breadcrumb: Pioneers - Han Wai Toon
 collection_name: database
 third_nav_title: Pioneers

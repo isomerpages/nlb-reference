@@ -1,6 +1,6 @@
 ---
 title: Teo Eng Hock
-permalink: /chinesepioneerdatabase/pioneers/teo-eng-hock
+permalink: /database/pioneers/teo-eng-hock
 breadcrumb: Pioneers - Teo Eng Hock
 collection_name: database
 third_nav_title: Pioneers

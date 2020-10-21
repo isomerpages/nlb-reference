@@ -1,6 +1,6 @@
 ---
 title: Tan Kim Ching
-permalink: /chinesepioneerdatabase/pioneers/tan-kim-ching
+permalink: /database/pioneers/tan-kim-ching
 breadcrumb: Pioneers - Tan Kim Ching
 collection_name: database
 third_nav_title: Pioneers

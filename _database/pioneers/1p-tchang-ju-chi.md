@@ -1,6 +1,6 @@
 ---
 title: Tchang Ju Chi
-permalink: /chinesepioneerdatabase/pioneers/tchang-ju-chi
+permalink: /database/pioneers/tchang-ju-chi
 breadcrumb: Pioneers - Tchang Ju Chi
 collection_name: database
 third_nav_title: Pioneers

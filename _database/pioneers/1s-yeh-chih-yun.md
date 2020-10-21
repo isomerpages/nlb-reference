@@ -1,6 +1,6 @@
 ---
 title: Yeh Chih Yun
-permalink: /chinesepioneerdatabase/pioneers/yeh-chih-yun
+permalink: /database/pioneers/yeh-chih-yun
 breadcrumb: Pioneers - Yeh Chih Yun
 collection_name: database
 third_nav_title: Pioneers

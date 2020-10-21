@@ -1,6 +1,6 @@
 ---
 title: Wong Nai Siong
-permalink: /chinesepioneerdatabase/pioneers/wong-nai-siong
+permalink: /database/pioneers/wong-nai-siong
 breadcrumb: Pioneers - Wong Nai Siong
 collection_name: database
 third_nav_title: Pioneers

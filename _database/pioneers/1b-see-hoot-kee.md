@@ -1,6 +1,6 @@
 ---
 title: See Hoot Kee
-permalink: /chinesepioneerdatabase/pioneers/see-hoot-kee
+permalink: /database/pioneers/see-hoot-kee
 breadcrumb: Pioneers - See Hoot Kee
 collection_name: database
 third_nav_title: Pioneers

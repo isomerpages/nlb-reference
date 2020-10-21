@@ -1,6 +1,6 @@
 ---
 title: Teng Mah Seng
-permalink: /chinesepioneerdatabase/pioneers/teng-mah-seng
+permalink: /database/pioneers/teng-mah-seng
 breadcrumb: Pioneers - Teng Mah Seng
 collection_name: database
 third_nav_title: Pioneers

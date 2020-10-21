@@ -1,6 +1,6 @@
 ---
 title: Cheang Hong Lim
-permalink: /chinesepioneerdatabase/pioneers/cheang-hong-lim
+permalink: /database/pioneers/cheang-hong-lim
 breadcrumb: Pioneers - Cheang Hong Lim
 collection_name: database
 third_nav_title: Pioneers
@@ -9,8 +9,8 @@ third_nav_title: Pioneers
 ### <u>Guide Index</u>
 
 * [Introduction](#introduction)
-* Selected articles on Cheang Hong Lim
-* Selected newspaper articles on Cheang Hong Lim
+* [Selected articles on Cheang Hong Lim](#selected-articles-on-cheang-hong-lim)
+* [Selected newspaper articles on Cheang Hong Lim](#selected-newspaper-articles-on-cheang-hong-lim)
 
 ### <u>Introduction</u>
 
@@ -22,7 +22,7 @@ In 1876, Cheang donated funds to convert an open space into a public garden know
 
 ### <u>Selected books on Cheang Hong Lim</u>
 
-* 柯木林. (主编). [Ke, M. L. (Ed.).] (1995). 《新华历史人物列传》 [Who’s who in the Chinese community of Singapore]. 新加坡: 教育出版公司, pp. 166–167.
+* 柯木林. (主编). [Ke, M. L. (Ed.).] (1995). [《新华历史人物列传》](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84500628) [Who’s who in the Chinese community of Singapore]. 新加坡: 教育出版公司, pp. 166–167.
 Call no.: RSING Chinese 959.570092 WHO -\[HIS\].
 This book contains the biographies of 1,175 Chinese personalities in Singapore, covering the period from 1819 to 1990. Each biography contains information on the birth and death dates, dialect group, occupation and affiliated organisations of the Chinese personality. Cheang Hong Lim’s biography is also included.
  

@@ -1,6 +1,6 @@
 ---
 title: Yin Suat Chuan
-permalink: /chinesepioneerdatabase/pioneers/yin-suat-chuan
+permalink: /database/pioneers/yin-suat-chuan
 breadcrumb: Pioneers - Yin Suat Chuan
 collection_name: database
 third_nav_title: Pioneers

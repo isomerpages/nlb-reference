@@ -1,6 +1,6 @@
 ---
 title: Tan Yeok Seong
-permalink: /chinesepioneerdatabase/pioneers/tan-yeok-seong
+permalink: /database/pioneers/tan-yeok-seong
 breadcrumb: Pioneers - Tan Yeok Seong
 collection_name: database
 third_nav_title: Pioneers

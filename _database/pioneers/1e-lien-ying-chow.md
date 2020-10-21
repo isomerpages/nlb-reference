@@ -1,6 +1,6 @@
 ---
 title: Lien Ying Chow
-permalink: /chinesepioneerdatabase/pioneers/lien-ying-chow
+permalink: /database/pioneers/lien-ying-chow
 breadcrumb: Pioneers - Lien Ying Chow
 collection_name: database
 third_nav_title: Pioneers
