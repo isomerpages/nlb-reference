@@ -7,8 +7,16 @@
 logo: /images/isomer-logo.svg
 
 links:
-  - title: Business
-    url: /business/main
+  - title: Category
+    sublinks:
+      title: Business
+      url: /category/business/main
+      title: Science and Technology
+      url: /category/scienceandtechnology/main
+      title: Singapore and South East Asia
+      url: /category/singaporeandsoutheastasia
+      title: Social Sciences and Humanities
+      url: /category/socialsciencesandhumanities/main
   - title: Database
     sublinks:
       - title: Singapore Biographical Database on Chinese Pioneers
@@ -33,3 +41,4 @@ links:
     resource_room: true
   - title: Contact Us
     url: /contact-us/
+  # - title: testing

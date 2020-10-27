@@ -28,6 +28,8 @@ collections:
     output: true
   database:
     output: true
+  category:
+    output: true
 resources_name: guides
 
 ##################################################################################################################
