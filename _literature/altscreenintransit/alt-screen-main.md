@@ -10,15 +10,16 @@ collection_name: literature
 ### <u>Guide Index</u>
 
 * [Introduction](#introduction)
-* [How to access eBooks on NLB’s eResources (eresources.nlb.gov.sg)](#how-to-access-ebooks-on-nlbs-eresources-eresources.nlb.gov.sg)
+* [How to access eBooks on NLB’s eResources (eresources.nlb.gov.sg)](#how-to-access-ebooks-on-nlbs-eresources-eresourcesnlbgovsg)
 * [eBooks](#ebooks)
 * [Book](#book)
 
 ### <u>Introduction</u>
  
 
-This resource guide accompanies the programme, <br><br> [Alt Screen: IN TRANSIT – Born in Syria (Singapore Premiere)](http://www.nlb.gov.sg/golibrary2/e/alt-screen-in-transit-12650010). <br><br> Since the onset of the Syrian Civil War in 2011, an estimated nine million Syrians have fled their homes, with children making up half that number. <br><br> **Born in Syria** follows the journeys of seven child refugees escaping from Syria, through refugee camps in the Middle East, to their arrival in Europe. The film premiered at the Seville European Film Festival in 2016 and competed in the Mar Del Plata Film Festival and the Mediterranean Film Festival of Brussels. <br><br> These resources are drawn from the Lee Kong Chian Reference Library collection, located at the National Library. This resource guide was prepared in June 2017 by Hameedah M Ibrahim, Librarian at the Lee Kong Chian Reference Library. | ![Born in syria image](/images/literature/altscreenintransit/Born-In-Syria-Poster.jpg) |
+This resource guide accompanies the programme, <br><br> [Alt Screen: IN TRANSIT – Born in Syria (Singapore Premiere)](http://www.nlb.gov.sg/golibrary2/e/alt-screen-in-transit-12650010). <br><br> Since the onset of the Syrian Civil War in 2011, an estimated nine million Syrians have fled their homes, with children making up half that number. <br><br> **Born in Syria** follows the journeys of seven child refugees escaping from Syria, through refugee camps in the Middle East, to their arrival in Europe. The film premiered at the Seville European Film Festival in 2016 and competed in the Mar Del Plata Film Festival and the Mediterranean Film Festival of Brussels. | <img src="/images/literature/altscreenintransit/Born-In-Syria-Poster.jpg" style="width: 100rem;"> |
 
+These resources are drawn from the Lee Kong Chian Reference Library collection, located at the National Library. This resource guide was prepared in June 2017 by Hameedah M Ibrahim, Librarian at the Lee Kong Chian Reference Library. 
  
 
 ### <u>How to access eBooks on NLB’s eResources (eresources.nlb.gov.sg)</u>

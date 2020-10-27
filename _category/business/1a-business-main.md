@@ -1,6 +1,6 @@
 ---
 title: Business
-permalink: /business/main
+permalink: /category/business/main
 breadcrumb: Business
 collection_name: category
 ---
