@@ -27,7 +27,7 @@ This resource guide lists materials on Singapore public housing that are availab
 
 | Search Terms | Call Number |
 | Factors affecting social behaviour- movement of people | 304.8 |
-| Communities- planning and development	307.1 |
+| Communities- planning and development	| 307.1 |
 | Private law |	346 |
 | Housing- housing and household equipment | 643.1 |
 | Buildings- maps, plans, diagrams | 690.1 |
