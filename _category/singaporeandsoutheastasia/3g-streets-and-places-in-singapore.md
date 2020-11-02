@@ -13,7 +13,7 @@ third_nav_title: Singapore and South East Asia
 * [NLB Databases](#nlb-databases)
 * [NLB Portals](#nlb-portals)
 * [Websites](#websites)
-* [Accessing National Library Board Singapore Resources]
+* [Accessing National Library Board Singapore Resources](#accessing-national-library-board-singapore-resources)
 * [Author](#author)
 
 ### <u>Introduction</u>
@@ -34,7 +34,7 @@ This guide provides a list of resources where you can find information about the
 ### <u>Books</u>
 (listed in alphabetical order)
 
-![A stroll through old singapore image](/images/category/singaporeandsoutheastasia/9810048211.png)
+<img src="/images/category/singaporeandsoutheastasia//images/category/singaporeandsoutheastasia/9810048211.png" alt="A stroll through old singapore image" style="width: 30%;">
 
 [A stroll through old Singapore](http://eservice.nlb.gov.sg/item_holding.aspx?bid=6566193)
 by Pugalenthi Sr.
