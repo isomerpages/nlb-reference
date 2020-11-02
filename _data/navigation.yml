@@ -9,14 +9,14 @@ logo: /images/isomer-logo.svg
 links:
   - title: Category
     sublinks:
-      title: Business
-      url: /category/business/main
-      title: Science and Technology
-      url: /category/scienceandtechnology/main
-      title: Singapore and South East Asia
-      url: /category/singaporeandsoutheastasia/main
-      title: Social Sciences and Humanities
-      url: /category/socialsciencesandhumanities/main
+      - title: Business
+        url: /category/business/main
+      - title: Science and Technology
+        url: /category/scienceandtechnology/main
+      - title: Singapore and South East Asia
+        url: /category/singaporeandsoutheastasia/main
+      - title: Social Sciences and Humanities
+        url: /category/socialsciencesandhumanities/main
   - title: Database
     sublinks:
       - title: Singapore Biographical Database on Chinese Pioneers
