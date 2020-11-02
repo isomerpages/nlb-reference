@@ -24,14 +24,21 @@ Title: Diary of Thomas Otho Travers 1813–1814. Volume I–II
 
 ### <u>1820s</u>	
 
-Author: \[unknown\] Title: Memoranda, with miscellaneous remarks, in connection with the incidents of a voyage to India and China \[manuscript\] : comprehending a brief outline of the principal events which transpired during several years’ occasional intercourse with those countries ; with a view more particularly to the leisure hours of young persons in a series of letters to a lady by visitor
+Author: \[unknown\] 
+Title: Memoranda, with miscellaneous remarks, in connection with the incidents of a voyage to India and China 
+
+\[manuscript\] : comprehending a brief outline of the principal events which transpired during several years’ occasional intercourse with those countries ; with a view more particularly to the leisure hours of young persons in a series of letters to a lady by visitor
+
 \[Manuscript\] Letters by a British missionary describing his travels in Java, Singapore and Canton. Singapore-related content on pp. 70 to 74. Written permission required for physical access.
 
 <img src="/images/category/singaporeandsoutheastasia/landen-zeetogten.jpg" style="width: 30%;">
 
 Author: Johannes Olivier
+
 Title: Land- en zeetogten in Nederland’s Indie : en eenige Britsche etablissementen, gedaan in de jaren 1817 tot 1826
+
 Publisher: Amsterdam: C.G. Sulpke, 1827–1830In Dutch. Account of a civil servant in the Dutch East Indies. Volume 3 includes description Singapore (pp. 46-68).
+
 Access via Google Books: https://books.google.com.sg
 
 
