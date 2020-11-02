@@ -1,7 +1,7 @@
 ---
-title: Development of Education in Singapore
-permalink: /category/singaporeandsoutheastasia/garden-smart
-breadcrumb: Garden Smart
+title: Raffles in South-East Asia
+permalink: /category/singaporeandsoutheastasia/raffles-in-southeast-asia
+breadcrumb: Raffles in South-East Asia
 collection_name: category
 third_nav_title: Singapore and South East Asia
 ---

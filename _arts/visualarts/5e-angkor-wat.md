@@ -1,7 +1,7 @@
 ---
-title: Modern Art in Singapore
-permalink: /category/singaporeandsoutheastasia/modern-art-in-singapore
-breadcrumb: Modern Art in Singapore
+title: Angkor Wat
+permalink: /category/singaporeandsoutheastasia/angkor-wat
+breadcrumb: Angkor Wat
 collection_name: arts
 third_nav_title: Visual Arts
 ---

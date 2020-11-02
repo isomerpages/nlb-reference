@@ -25,7 +25,7 @@ Singapore is hailed as having achieved unparalleled success in providing low-cos
 
 This resource guide lists materials on Singapore public housing that are available at the [Lee Kong Chian Reference Library](http://www.nlb.gov.sg/About/LeeKongChianReferenceLibrary.aspx) and its [electronic databases](http://eresources.nlb.gov.sg/index.aspx).
 
-| Search Terms | Call Number |
+| **Search Terms** | **Call Number** |
 | Factors affecting social behaviour- movement of people | 304.8 |
 | Communities- planning and development	| 307.1 |
 | Private law |	346 |

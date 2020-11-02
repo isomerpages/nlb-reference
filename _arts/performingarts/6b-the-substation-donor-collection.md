@@ -8,7 +8,7 @@ third_nav_title: Performing Arts
 
 ### <u>Guide Index</u>
 
-* [Introduction](#introduction
+* [Introduction](#introduction)
 * [Publications: Periodicals](#publications-periodicals)
 * [Publications: Books, Artist and Exhibition Catalogues](#publications-books-artist-and-exhibition-catalogues)
 * [Ephemera](#ephemera)
