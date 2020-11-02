@@ -34,9 +34,7 @@ Title: Memoranda, with miscellaneous remarks, in connection with the incidents o
 <img src="/images/category/singaporeandsoutheastasia/landen-zeetogten.jpg" style="width: 30%;">
 
 Author: Johannes Olivier
-
 Title: Land- en zeetogten in Nederland’s Indie : en eenige Britsche etablissementen, gedaan in de jaren 1817 tot 1826
-
 Publisher: Amsterdam: C.G. Sulpke, 1827–1830In Dutch. Account of a civil servant in the Dutch East Indies. Volume 3 includes description Singapore (pp. 46-68).
 
 Access via Google Books: https://books.google.com.sg
