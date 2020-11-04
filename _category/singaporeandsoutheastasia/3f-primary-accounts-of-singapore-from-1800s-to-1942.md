@@ -37,7 +37,7 @@ Author: Johannes Olivier <br>
 Title: Land- en zeetogten in Nederland’s Indie : en eenige Britsche etablissementen, gedaan in de jaren 1817 tot 1826 <br>
 Publisher: Amsterdam: C.G. Sulpke, 1827–1830In Dutch. Account of a civil servant in the Dutch East Indies. Volume 3 includes description Singapore (pp. 46-68).
 
-Access via Google Books: https://books.google.com.sg
+Access via Google Books: [https://books.google.com.sg](https://books.google.com.sg)
 
 
 **1822–1823**	
@@ -47,7 +47,8 @@ Access via Google Books: https://books.google.com.sg
 Author: John Crawfurd <br>
 Title: Journal of an embassy from the Governor-General of India to the courts of Siam and Cochin China, exhibiting a view of the actual state of those kingdoms <br>
 Publisher: London: H. Colburn and R. Bentley, 1828 <br>
-Access via BookSG: http://eresources.nlb.gov.sg/printheritage/detail/6dba7a01-c203-41f2-ac3d-e597fd9eb65c.aspx
+Access via BookSG: [http://eresources.nlb.gov.sg/printheritage/detail/6dba7a01-c203-41f2-ac3d-e597fd9eb65c.aspx](http://eresources.nlb.gov.sg/printheritage/detail/6dba7a01-c203-41f2-ac3d-e597fd9eb65c.aspx
+)
 
 **1824**	
 
@@ -57,7 +58,7 @@ Author: Colonel Nahuijs <br>
 Title: Translated extracts from letters about Bencoolen, Padang, Menangkabau, Rhiouw, Singapore and Poelo-Penang <br>
 Edition: 2nd ed. <br>
 Publisher: Breda: Hollinger’s Pijpers, 1827 <br>
-Access via BookSG: http://eresources.nlb.gov.sg/printheritage/detail/c5f17b36-316b-4401-aa01-509d8b6c0018.aspx / Microfilm: NL11201	
+Access via BookSG: [http://eresources.nlb.gov.sg/printheritage/detail/c5f17b36-316b-4401-aa01-509d8b6c0018.aspx](http://eresources.nlb.gov.sg/printheritage/detail/c5f17b36-316b-4401-aa01-509d8b6c0018.aspx) / Microfilm: NL11201	
 
 Author: Walter Scott Duncan <br>
 Title: Singapore sixty years ago: including journal by Walter Scott Duncan, February to June 1824 <br>
@@ -70,14 +71,14 @@ Author: George Windsor Earl <br>
 Title: The Eastern Seas: or, voyages and adventures in the Indian Archipelago, in 1832–33–34, comprising a tour of the island of Java – visits to Borneo, the Malay Peninsula, Siam &c.; also an account of the present state of Singapore with observations on the commercial resources of the Archipelago <br>
 Publisher: London: Wm. H. Allen and Co., 1837 <br>
 The last three chapters are on Singapore, where the author spent nine months. He relates the social, economic and religious situation then. Details include descriptions of the various ethnic groups and their enclaves, trade, administration and the general prosperity of Singapore. <br>
-Access via BookSG: http://eresources.nlb.gov.sg/printheritage/detail/ad9d0845-d805-4ec1-9cec-f26135c14d4a.aspx / Microfilm: NL259, NL25700
+Access via BookSG: [http://eresources.nlb.gov.sg/printheritage/detail/ad9d0845-d805-4ec1-9cec-f26135c14d4a.aspx](http://eresources.nlb.gov.sg/printheritage/detail/ad9d0845-d805-4ec1-9cec-f26135c14d4a.aspx) / Microfilm: NL259, NL25700
 
 **1833**	
 
 Author: George Bennett <br>
 Title: Wanderings in New South Wales, Batavia, Pedir Coast, Singapore, and China: being the journal of a naturalist in those countries, during 1832, 1833, and 1834, in two volumes <br>
 Publisher: London: Richard Bentley, 1834Account of Singapore in volume 2, chapters VII to X. <br>
-Access via BookSG: http://eresources.nlb.gov.sg/printheritage/detail/7e428755-f119-49f7-b78a-987a2ec36ca1.aspx (Vol. 1); http://eresources.nlb.gov.sg/printheritage/detail/1e01ed12-fab7-432c-8743-12b9fc3c93d5.aspx (Vol. 2)
+Access via BookSG: [http://eresources.nlb.gov.sg/printheritage/detail/7e428755-f119-49f7-b78a-987a2ec36ca1.aspx](http://eresources.nlb.gov.sg/printheritage/detail/7e428755-f119-49f7-b78a-987a2ec36ca1.aspx) (Vol. 1); [http://eresources.nlb.gov.sg/printheritage/detail/1e01ed12-fab7-432c-8743-12b9fc3c93d5.aspx](http://eresources.nlb.gov.sg/printheritage/detail/1e01ed12-fab7-432c-8743-12b9fc3c93d5.aspx) (Vol. 2)
 
 **1837**	
 
@@ -85,7 +86,7 @@ Author: Howard Malcolm <br>
 Title: Travels in South-eastern Asia: embracing Hindustan, Malaya, Siam, and China; with notices of numerous missionary stations, and a full account of the Burman empire, with dissertations, tables, etc <br>
 Publisher: Boston \[Mass.\]: Gould, Kendall, and Lincoln, 1839 <br>
 Volume II provides a descriptive account of the population, religious practices and the missionary stations in Calcutta, Madras, Singapore, Melaka and Bangkok. <br>
-Access via BookSG: http://eresources.nlb.gov.sg/printheritage/detail/465cda4f-4f72-4952-bd56-16b36bbfbceb.aspx / Microfilm: NL25741
+Access via BookSG: [http://eresources.nlb.gov.sg/printheritage/detail/465cda4f-4f72-4952-bd56-16b36bbfbceb.aspx](http://eresources.nlb.gov.sg/printheritage/detail/465cda4f-4f72-4952-bd56-16b36bbfbceb.aspx) / Microfilm: NL25741
 
 **1838**	
 
@@ -113,13 +114,13 @@ Microfilm: NL28428, NL27521
 Author: John Turnbull Thomson <br>
 Title: Some glimpses into life in the Far East <br>
 Publisher: London: Richardson & Co., 1865 (2nd ed.; originally published in 1864) <br>
-Access via BookSG: http://eresources.nlb.gov.sg/printheritage/detail/16862810-4ee0-417f-ac05-0d5942b44550.aspx / Microfilm: NL30779
+Access via BookSG: [http://eresources.nlb.gov.sg/printheritage/detail/16862810-4ee0-417f-ac05-0d5942b44550.aspx](http://eresources.nlb.gov.sg/printheritage/detail/16862810-4ee0-417f-ac05-0d5942b44550.aspx) / Microfilm: NL30779
 
 
 Author: John Turnbull Thomson <br>
 Title: Sequel to some glimpses into life in the Far East <br>
 Publisher: London: Richardson & Co., 1865 <br>
-Access via BookSG: http://eresources.nlb.gov.sg/printheritage/detail/0aef19fc-8244-4a50-9132-742025bd1d44.aspx / Microfilm: NL8371
+Access via BookSG: [http://eresources.nlb.gov.sg/printheritage/detail/0aef19fc-8244-4a50-9132-742025bd1d44.aspx](http://eresources.nlb.gov.sg/printheritage/detail/0aef19fc-8244-4a50-9132-742025bd1d44.aspx) / Microfilm: NL8371
 
 See also reprint with annotations by John Hall-Jones: <br>
 John Turnbull Thomson. (1984). Glimpses into life in Malayan lands. Singapore; New York: Oxford University Press. <br>
@@ -130,7 +131,7 @@ Call no: RSING 959.5 THO
 Author: W.H.M. Read
 Title: Play and politics, recollections of Malaya <br>
 Publisher: London: Wells Gardner, Darton & Co., 1901 <br>
-Access via BookSG: http://eresources.nlb.gov.sg/printheritage/detail/ec58bf74-ae9f-454a-9653-e7d0dc4a0d09.aspx
+Access via BookSG: [http://eresources.nlb.gov.sg/printheritage/detail/ec58bf74-ae9f-454a-9653-e7d0dc4a0d09.aspx](http://eresources.nlb.gov.sg/printheritage/detail/ec58bf74-ae9f-454a-9653-e7d0dc4a0d09.aspx)
 
 **1840–1843**
 
@@ -141,7 +142,7 @@ Publisher: Journal of the Malayan Branch of the Royal Asiatic Society, 1955, 28(
 
 Autobiography of Malay scribe and teacher, Abdullah bin Abdul Kadir, who came to Singapore in 1819.
 
-Access via JSTOR: http://eresources.nlb.gov.sg
+Access via JSTOR: [http://eresources.nlb.gov.sg](http://eresources.nlb.gov.sg)
 
 **1840–1844**	
 
@@ -154,14 +155,14 @@ Call no.: RDLKL 910.45 CRE
 
 Author: Charles Wilkes <br>
 Title: Narrative of the United States’ exploring expedition, during the years 1838, 1839, 1840, 1841, 1842. Condensed and abridged <br>
-Publisher: London: Whittaker, \[1845\] Access via BookSG: http://eresources.nlb.gov.sg/printheritage/detail/38a84384-a022-43b2-8369-62176ff2c16a.aspx / Microfilm: NL25780
+Publisher: London: Whittaker, \[1845\] Access via BookSG: [http://eresources.nlb.gov.sg/printheritage/detail/38a84384-a022-43b2-8369-62176ff2c16a.aspx](http://eresources.nlb.gov.sg/printheritage/detail/38a84384-a022-43b2-8369-62176ff2c16a.aspx) / Microfilm: NL25780
 
 **1843–1846**	
 
 Author: Frank S. Marryat <br>
 Title: Borneo and the Indian Archipelago: with drawings of costume and scenery <br>
 Publisher: London: Longman, Brown, Green, and Longmans, 1848 <br>
-Access via BookSG: http://eresources.nlb.gov.sg/printheritage/detail/1241258d-ede5-4447-98a2-0da3bbbbd8d4.aspx / Microfilm: NL7465
+Access via BookSG: [http://eresources.nlb.gov.sg/printheritage/detail/1241258d-ede5-4447-98a2-0da3bbbbd8d4.aspx](http://eresources.nlb.gov.sg/printheritage/detail/1241258d-ede5-4447-98a2-0da3bbbbd8d4.aspx) / Microfilm: NL7465
 
 **1844–1845**	
 
@@ -169,19 +170,19 @@ Author: Jules Itier <br>
 Title: Journal d’un voyage en Chine en 1843, 1844, 1845, 1846 <br>
 Publisher: Paris: Chez Dauvin et Fontaine, 1848–1853 <br>
 In French. Jules Itier took the earliest photographs of Asia, in the form of daguerreotypes. He passed by Singapore four times between 1844 and 1845, and took four known daguerreotypes there.Call nos.: RSING 915.1 ITI-\[TRA\] (Vols. 1, 3) <br>
-Volume 2 access via Archive.org: https://archive.org/details/journaldunvoyage02itie
+Volume 2 access via Archive.org: [https://archive.org/details/journaldunvoyage02itie](https://archive.org/details/journaldunvoyage02itie)
 
 **1846**	
 
 Author: Edward Belcher <br>
 Title: Narrative of the voyage of the H.M.S. Samarang, during the years 1843–46: Employed surveying the islands of the Eastern Archipelago, accompanied by a brief vocabulary of the principal languages <br>
 Publisher: London: Reeve, Benham, and Reeve, 1848 <br>
-Access via BookSG: http://eresources.nlb.gov.sg/printheritage/detail/8f6945d1-c35e-454d-9a36-49d436034765.aspx (Vol. 1); http://eresources.nlb.gov.sg/printheritage/detail/a42f4932-163f-4139-adc2-5e9f26f31476.aspx (Vol. 2) / Microfilm: NL7464
+Access via BookSG: [http://eresources.nlb.gov.sg/printheritage/detail/8f6945d1-c35e-454d-9a36-49d436034765.aspx](http://eresources.nlb.gov.sg/printheritage/detail/8f6945d1-c35e-454d-9a36-49d436034765.aspx) (Vol. 1); [http://eresources.nlb.gov.sg/printheritage/detail/a42f4932-163f-4139-adc2-5e9f26f31476.aspx](http://eresources.nlb.gov.sg/printheritage/detail/a42f4932-163f-4139-adc2-5e9f26f31476.aspx) (Vol. 2) / Microfilm: NL7464
 
 Author: Douglas Hamilton <br>
 Title: Records of sport in southern India: chiefly on te Annamullay, Nielgherry and Pulney mountains, also including notes on Singapore, Java and Labuan, from journals written between 1844 and 1870 <br>
 Publisher: London: R. H. Porter, 1892Chapter IV on Singapore. <br>
-Access via BookSG: http://eresources.nlb.gov.sg/printheritage/detail/b2047fc7-5db9-4ffb-a3fd-b2b7caa54de7.aspx / Microfilm: NL9938
+Access via BookSG: [http://eresources.nlb.gov.sg/printheritage/detail/b2047fc7-5db9-4ffb-a3fd-b2b7caa54de7.aspx](http://eresources.nlb.gov.sg/printheritage/detail/b2047fc7-5db9-4ffb-a3fd-b2b7caa54de7.aspx) / Microfilm: NL9938
 
 Author: Ida Pfeiffer <br>
 Title: A woman’s journey round the world, from Vienna to Brazil, Chili, Tahiti, China, Hindostan, Persia, and Asia Minor <br>
@@ -192,19 +193,19 @@ Publisher: London: Office of the National Illustrated Library, \[1850\] Microfil
 Author: Henry Keppel <br>
 Title: A visit to the Indian Archipelago, in H.M. ship Maeander <br>
 Publisher: London: Richard Bentley, 1853Singapore is spelt ‘Sincapore’ in this book. <br>
-Access via BookSG: http://eresources.nlb.gov.sg/printheritage/detail/90c379fc-076f-493e-9de9-a8e235a72550.aspx (Vol. 1); http://eresources.nlb.gov.sg/printheritage/detail/99f14b64-73e2-4517-be49-6626dde0bcb7.aspx (Vol. 2) / Microfilm: NL8059
+Access via BookSG: [http://eresources.nlb.gov.sg/printheritage/detail/90c379fc-076f-493e-9de9-a8e235a72550.aspx](http://eresources.nlb.gov.sg/printheritage/detail/90c379fc-076f-493e-9de9-a8e235a72550.aspx) (Vol. 1); [http://eresources.nlb.gov.sg/printheritage/detail/99f14b64-73e2-4517-be49-6626dde0bcb7.aspx](http://eresources.nlb.gov.sg/printheritage/detail/99f14b64-73e2-4517-be49-6626dde0bcb7.aspx) (Vol. 2) / Microfilm: NL8059
 
 Author: James Thomas Oxley <br>
 Title: Advice to invalids resorting to Singapore <br>
 Publisher: Journal of Indian Archipelago and Eastern Asia, 1851, 5(3), p. 188 <br>
-Access via BookSG: http://eresources.nlb.gov.sg/printheritage/detail/96e662cb-55ca-48bd-af98-a0a9b5d4eaa5.aspx / Microfilm: NL25793
+Access via BookSG: [http://eresources.nlb.gov.sg/printheritage/detail/96e662cb-55ca-48bd-af98-a0a9b5d4eaa5.aspx](http://eresources.nlb.gov.sg/printheritage/detail/96e662cb-55ca-48bd-af98-a0a9b5d4eaa5.aspx) / Microfilm: NL25793
 
 **1849**	
 
 Author: Dr. Berncastle <br>
 Title: A voyage to China; including a visit to the Bombay presidency; the Mahratta country; the cave temples of western India, Singapore, the straits of Malacca and Sunda, and the Cape of Good Hope <br>
 Publisher: London: W. Shoberl, 1850 <br>
-Access via BookSG: http://eresources.nlb.gov.sg/printheritage/detail/ce6665ed-337c-45a6-833f-c82ecb9a9b2b.aspx (Vol. 1); http://eresources.nlb.gov.sg/printheritage/detail/1fdb8dd8-27f0-4e09-950c-45e5a8e1c3f7.aspx (Vol. 2) / Microfilm: NL31915, NL31916
+Access via BookSG: [http://eresources.nlb.gov.sg/printheritage/detail/ce6665ed-337c-45a6-833f-c82ecb9a9b2b.aspx](http://eresources.nlb.gov.sg/printheritage/detail/ce6665ed-337c-45a6-833f-c82ecb9a9b2b.aspx) (Vol. 1); [http://eresources.nlb.gov.sg/printheritage/detail/1fdb8dd8-27f0-4e09-950c-45e5a8e1c3f7.aspx](http://eresources.nlb.gov.sg/printheritage/detail/1fdb8dd8-27f0-4e09-950c-45e5a8e1c3f7.aspx) (Vol. 2) / Microfilm: NL31915, NL31916
 
 **1850–1853**	
 
@@ -220,13 +221,13 @@ Call no.: RSING 914.404 MER-\[TRA\] (reprint)
 Author: Ida Pfeiffer <br>
 Title: A lady’s second journey round the world : from London to the cape of Good Hope, Borneo, Java, Sumatra, Celebes, Ceram, the Moluccas, etc., California, Panama, Peru, Ecuador, and the United States <br>
 Publisher: New York: Harper & Brothers, 1856 <br>
-Access via Google Books: https://books.google.com.sg
+Access via Google Books: [https://books.google.com.sg](https://books.google.com.sg)
 
 **1852**	
 
 Author: A Bengal Civilian [C. W. Kinloch] Title: De Zieke reiziger or, Rambles in Java and the Straits in 1852 <br>
 Publisher: London: Simpkin, Marshall and Co., 1853 <br>
-Access via BookSG: http://eresources.nlb.gov.sg/printheritage/detail/23dbb3fc-ecdd-4568-91e9-0bf95a1b3599.aspx / Microfilm: NL11154
+Access via BookSG: [http://eresources.nlb.gov.sg/printheritage/detail/23dbb3fc-ecdd-4568-91e9-0bf95a1b3599.aspx](http://eresources.nlb.gov.sg/printheritage/detail/23dbb3fc-ecdd-4568-91e9-0bf95a1b3599.aspx) / Microfilm: NL11154
 
 Author: M.C. Lavollée <br>
 Title: Voyage en Chine : Ténériffe, Rio-Janeiro, Le Cap, Ile Bourbon, Malacca, Singapore, Manille, Macao, Canton, Ports Chinois, Cochinchine, Java <br>
@@ -258,7 +259,7 @@ Call no.: RSING 959.8 ANN
 Author: George Francis Train <br>
 Title: An American merchant in Europe, Asia, and Australia: A series of letters from Java, Singapore, China, Bengal, Egypt, the Holy Land, the Crimea and its battle graunds, England, Melbourne, Sydney, etc., etc <br>
 Publisher: New York: G.P. Putnam & Co., 1857 <br>
-Access via BookSG: http://eresources.nlb.gov.sg/printheritage/detail/565a4253-0018-4261-8403-2c19fd6967ae.aspx / Microfilm: NL18273
+Access via BookSG: [http://eresources.nlb.gov.sg/printheritage/detail/565a4253-0018-4261-8403-2c19fd6967ae.aspx](http://eresources.nlb.gov.sg/printheritage/detail/565a4253-0018-4261-8403-2c19fd6967ae.aspx) / Microfilm: NL18273
 
 **1857–1859**	
 
@@ -278,7 +279,7 @@ Publisher: Hong Kong: Hong Kong University Press, 1974 [Originally published in 
 Author: Fedor Jagor <br>
 Title: Singapore, Malacca, Java: Reiseskizzen <br>
 Publisher: Berlin: Julius Springer, 1866In German. <br>
-Access via BookSG: http://eresources.nlb.gov.sg/printheritage/detail/d5738f62-2080-40af-a320-4af73f9f8856.aspx / Microfilm: NL7466
+Access via BookSG: [http://eresources.nlb.gov.sg/printheritage/detail/d5738f62-2080-40af-a320-4af73f9f8856.aspx](http://eresources.nlb.gov.sg/printheritage/detail/d5738f62-2080-40af-a320-4af73f9f8856.aspx) / Microfilm: NL7466
 
 Author: E. H. Boom <br>
 Title: Nederlandsch-Oost-Indië : Overlandreis naar Batavia, zeereis naar Batavia, Batavia en omstreken, van Batavia naar Padang, naar Singapore, naar Sinkawang, naar Samarang en Soerabaija, naar Banjermassing, naar de Molukken, verschillende landreizen op Java enz. enz., met kaarten en plattegronden <br>
@@ -298,7 +299,7 @@ Microfilm: NL29076
 Author: John Thomson <br>
 Title: The Straits of Malacca, Indo-China, and China; or, Ten years’ travels, adventures,   and residence abroad <br>
 Publisher: London: Sampson Low, Marston, Low, & Searle, 1875 <br>
-Access via BookSG: http://eresources.nlb.gov.sg/printheritage/detail/2e4711f4-b259-4ef1-9826-9386d3e8f12b.aspx / Microfilm: NL7640, NL25417, NL25426, NL25741
+Access via BookSG: [http://eresources.nlb.gov.sg/printheritage/detail/2e4711f4-b259-4ef1-9826-9386d3e8f12b.aspx](http://eresources.nlb.gov.sg/printheritage/detail/2e4711f4-b259-4ef1-9826-9386d3e8f12b.aspx) / Microfilm: NL7640, NL25417, NL25426, NL25741
 
 See also reprint by Oxford University Press (1993): Call no.: RSING 915.9 THO-\[TRA\]
 
@@ -307,7 +308,7 @@ See also reprint by Oxford University Press (1993): Call no.: RSING 915.9 THO-\[
 Author: Tom Cringle <br>
 Title: Jottings of an invalid in search of health: Comprising a run through British India and a visit to Singapore and Java <br>
 Publisher: Bombay: Times of India Office, 1865 <br>
-Access via BookSG: http://eresources.nlb.gov.sg/printheritage/detail/1791ff20-a724-453a-af4c-34d623fa7f78.aspx / Microfilm: NL25750
+Access via BookSG: [http://eresources.nlb.gov.sg/printheritage/detail/1791ff20-a724-453a-af4c-34d623fa7f78.aspx](http://eresources.nlb.gov.sg/printheritage/detail/1791ff20-a724-453a-af4c-34d623fa7f78.aspx) / Microfilm: NL25750
 
 **1863–1868**	
 
@@ -321,7 +322,7 @@ See also microfilm by Bodleian Library, Oxford (1986): A01031803E.
 Author: John Cameron <br>
 Title: Our tropical possessions in Malayan India : being a descriptive account of Singapore, Penang, Province Wellesley, and Malacca ; their peoples, products, commerce, and government <br>
 Publisher: London: Smith, Elder and Co., 1865 <br>
-Access via BookSG: http://eresources.nlb.gov.sg/printheritage/detail/7658c549-f1c5-47c7-b8b6-831f7eb90c58.aspx / Microfilm: NL11224 / Call no.: RSING 959.5 CAM (Reprint)
+Access via BookSG: [http://eresources.nlb.gov.sg/printheritage/detail/7658c549-f1c5-47c7-b8b6-831f7eb90c58.aspx](http://eresources.nlb.gov.sg/printheritage/detail/7658c549-f1c5-47c7-b8b6-831f7eb90c58.aspx) / Microfilm: NL11224 / Call no.: RSING 959.5 CAM (Reprint)
 
 **1866–1867**	
 
@@ -369,7 +370,7 @@ See also reprint by Oxford University Press (1988): Call no.: RSEA 959.303 VIN
 Author: E.K. Laird <br>
 Title: The rambles of a globe trotter in Australasia, Japan, China, Java, India and Cashmere <br>
 Publisher: London: Chapman & Hall, 1875 <br>
-Access via BookSG: http://eresources.nlb.gov.sg/printheritage/detail/fd80956f-cf70-41b1-b2c5-00541f7a7afe.aspx (Vol. 1); http://eresources.nlb.gov.sg/printheritage/detail/5f2c28ce-a8b6-4d21-b67f-429b73e235ba.aspx (Vol. 2) / Microfilm: NL32795 (Vol. 1), NL32796 (Vol. 2)
+Access via BookSG: [http://eresources.nlb.gov.sg/printheritage/detail/fd80956f-cf70-41b1-b2c5-00541f7a7afe.aspx](http://eresources.nlb.gov.sg/printheritage/detail/fd80956f-cf70-41b1-b2c5-00541f7a7afe.aspx) (Vol. 1); [http://eresources.nlb.gov.sg/printheritage/detail/5f2c28ce-a8b6-4d21-b67f-429b73e235ba.aspx](http://eresources.nlb.gov.sg/printheritage/detail/5f2c28ce-a8b6-4d21-b67f-429b73e235ba.aspx) (Vol. 2) / Microfilm: NL32795 (Vol. 1), NL32796 (Vol. 2)
 
 **1875**	
 
@@ -398,19 +399,19 @@ Author: Eugen V. Ransonnet <br>
 Title: Skizzen aus Singapur und Djohor <br>
 Publisher: Braunschweig : Druck und Verlag von George Westermann, 1876 <br>
 In German. <br>
-Access via BookSG: http://eresources.nlb.gov.sg/printheritage/detail/ded5d6df-ed67-4979-9684-2c8ff8b77bb4.aspx / Microfilm: NL7639
+Access via BookSG: [http://eresources.nlb.gov.sg/printheritage/detail/ded5d6df-ed67-4979-9684-2c8ff8b77bb4.aspx](http://eresources.nlb.gov.sg/printheritage/detail/ded5d6df-ed67-4979-9684-2c8ff8b77bb4.aspx) / Microfilm: NL7639
 
 **1877**	
 
 Author: Annie Brassey <br>
 Title: A voyage in the ‘Sunbeam’: Our home on the ocean for eleven months <br>
 Publisher: London: Longmans, Green, 1878 (3rd ed.) <br>
-Access via BookSG: http://eresources.nlb.gov.sg/printheritage/detail/b6878536-e891-40de-8c71-fc331f017d7c.aspx / Microfilm: NL25750
+Access via BookSG: [http://eresources.nlb.gov.sg/printheritage/detail/b6878536-e891-40de-8c71-fc331f017d7c.aspx](http://eresources.nlb.gov.sg/printheritage/detail/b6878536-e891-40de-8c71-fc331f017d7c.aspx) / Microfilm: NL25750
 
 Author: J.D. Vaughan <br>
 Title: The manners and customs, of the Chinese of the Straits Settlements <br>
 Publisher: Singapore: Mission Press, 1879 <br>
-Access via BookSG: http://eresources.nlb.gov.sg/printheritage/detail/d158bcea-eb92-4e6a-8622-e1762c4b4de1.aspx / Microfilm: NL2437
+Access via BookSG: [http://eresources.nlb.gov.sg/printheritage/detail/d158bcea-eb92-4e6a-8622-e1762c4b4de1.aspx](http://eresources.nlb.gov.sg/printheritage/detail/d158bcea-eb92-4e6a-8622-e1762c4b4de1.aspx) / Microfilm: NL2437
 
 **1878**	
 
@@ -461,7 +462,7 @@ Microfilm: NL25448
 Author: John Dill Ross <br>
 Title: The capital of a little empire: Descriptive study of British Crown Colony in the Far East <br>
 Publisher: Singapore: Kelly & Walsh, 1898 <br>
-Access via BookSG: http://eresources.nlb.gov.sg/printheritage/detail/12950fc8-e1d4-4158-aaaa-d04d5358aac1.aspx / Microfilm: NL5829
+Access via BookSG: [http://eresources.nlb.gov.sg/printheritage/detail/12950fc8-e1d4-4158-aaaa-d04d5358aac1.aspx](http://eresources.nlb.gov.sg/printheritage/detail/12950fc8-e1d4-4158-aaaa-d04d5358aac1.aspx) / Microfilm: NL5829
 
 Author: John Dill Ross <br>
 Title: Sixty years: Life and adventure in the Far East <br>
@@ -480,7 +481,7 @@ Microfilm: NL7610 / See also 1984 reprint by Oxford University Press: Call no.: 
 Author: Orfeur Cavenagh <br>
 Title: Reminiscences of an Indian official <br>
 Publisher: London: W.H. Allen, 1884 <br>
-Access via BookSG: http://eresources.nlb.gov.sg/printheritage/detail/092fc455-2884-4436-90cc-8ad102c41e27.aspx / Microfilm: NL3560
+Access via BookSG: [http://eresources.nlb.gov.sg/printheritage/detail/092fc455-2884-4436-90cc-8ad102c41e27.aspx](http://eresources.nlb.gov.sg/printheritage/detail/092fc455-2884-4436-90cc-8ad102c41e27.aspx) / Microfilm: NL3560
 
 **1887**	
 
@@ -493,7 +494,7 @@ Reprint of articles published in The Straits Times in early 1887.Microfilm: NL58
 Author: W.S. Caine <br>
 Title: A trip round the world in 1887–8 <br>
 Publisher: London; New York: George Routledge and Sons, 1888 <br>
-Chapter XVI on Singapore.Access via archive.org: https://archive.org/details/atriproundworld00caingoog/page/n3
+Chapter XVI on Singapore.Access via archive.org: [https://archive.org/details/atriproundworld00caingoog/page/n3](https://archive.org/details/atriproundworld00caingoog/page/n3)
 
 **1888/9**	
 
@@ -507,12 +508,12 @@ Microfilm: NL8058
 Author: Florence Caddy <br>
 Title: To Siam and Malaya: in the Duke of Sutherland’s yacht ‘Sans peur’ <br>
 Publisher: London: Hurst and Blackett, 1889 <br>
-Access via BookSG: http://eresources.nlb.gov.sg/printheritage/detail/0a4a9320-10da-448e-87b1-f749f74252bb.aspx / Microfilm: NL27434
+Access via BookSG: [http://eresources.nlb.gov.sg/printheritage/detail/0a4a9320-10da-448e-87b1-f749f74252bb.aspx](http://eresources.nlb.gov.sg/printheritage/detail/0a4a9320-10da-448e-87b1-f749f74252bb.aspx) / Microfilm: NL27434
 
 Author: Rudyard Kipling <br>
 Title: From sea to sea <br>
 Publisher: London: Macmillan and Co. Ltd., 1900 <br>
-Access via Project Gutenberg: http://www.gutenberg.org/files/32977/32977-h/32977-h.htm
+Access via Project Gutenberg: [http://www.gutenberg.org/files/32977/32977-h/32977-h.htm](http://www.gutenberg.org/files/32977/32977-h/32977-h.htm)
 
 Author: Henry Norman <br>
 Title: The peoples and politics of the far East; travels and studies in the British, French, Spanish and Portuguese colonies, Siberia, China, Japan, Korea, Siam and Malaya <br>
@@ -541,7 +542,7 @@ Written permission required for physical access.
 Author: Julius Hirschberg <br>
 Title: Um die Erde: Eine Reisebeschreibung <br>
 Publisher: G. ThiemeIn German. <br>
-Access via Gutenberg.org: https://www.gutenberg.org/files/52353/52353-h/52353-h.htm
+Access via Gutenberg.org: [https://www.gutenberg.org/files/52353/52353-h/52353-h.htm](https://www.gutenberg.org/files/52353/52353-h/52353-h.htm)
 
 **1893**	
 
@@ -569,7 +570,7 @@ Microfilm: NL26236
 Author: Walter Del Mar <br>
 Title: Around the world through Japan <br>
 Publisher: London: Adam and Charles Black, 1904 <br>
-Access via archive.org: https://archive.org/details/aroundworldthrou00delmiala/page/n7	
+Access via archive.org: [https://archive.org/details/aroundworldthrou00delmiala/page/n7](https://archive.org/details/aroundworldthrou00delmiala/page/n7)	
 
 Author: Fred Riley <br>
 Title: A trip round the world: being jottings made on a tour from London to Liverpool, via Africa, Asia, Australia, and America <br>
@@ -581,7 +582,7 @@ In John Bastin (Comp.). (1994). Travellers’ Singapore: An anthology. Kuala Lum
 Author: J.A. Bethune Cook <br>
 Title: Sunny Singapore: An account of the place and its people, with a sketch of the results of missionary work <br>
 Publisher: London: E. Stock, 1907 <br>
-Access via BookSG: http://eresources.nlb.gov.sg/printheritage/detail/97ea5017-b3c9-4135-acf5-ee7db22364ae.aspx / Microfilm: NL11273
+Access via BookSG: [http://eresources.nlb.gov.sg/printheritage/detail/97ea5017-b3c9-4135-acf5-ee7db22364ae.aspx](http://eresources.nlb.gov.sg/printheritage/detail/97ea5017-b3c9-4135-acf5-ee7db22364ae.aspx) / Microfilm: NL11273
 
 Author: Henri Borel <br>
 Title: Wijsheid en schoonheid uit Indië <br>
@@ -662,7 +663,7 @@ Call no.: RUR 915.04 BLA
 
 Author: James Carter <br>
 Title: In the wake of the setting sun <br>
-Publisher: London: Hurst and Blackett, Ltd., \[1908\] Access via archive.org: https://archive.org/details/inwakeofsettings00cartuoft/page/n9
+Publisher: London: Hurst and Blackett, Ltd., \[1908\] Access via archive.org: [https://archive.org/details/inwakeofsettings00cartuoft/page/n9](https://archive.org/details/inwakeofsettings00cartuoft/page/n9)
 
 Author: Arnold Wright & H.A. Cartwright (Eds.) <br>
 Title: Twentieth century impressions of British Malaya: Its history, people, commerce, industries, and resources <br>
@@ -717,7 +718,7 @@ Microfilm: NL28434
 Author: Bruce Lockhart <br>
 Title: Return to Malaya <br>
 Publisher: New York: G.P. Putnam’s Sons, 1936 <br>
-Call no.: RCLOS 959.57 LOC / Microfilm: NL18264 / Access via archive.org: https://archive.org/details/returntomalaya006324mbp/page/n3
+Call no.: RCLOS 959.57 LOC / Microfilm: NL18264 / Access via archive.org: [https://archive.org/details/returntomalaya006324mbp/page/n3](https://archive.org/details/returntomalaya006324mbp/page/n3)
 
 ### <u>1920s–1942</u>
 
@@ -766,14 +767,14 @@ Call no.: RCLOS 959.3 NOR / Microfilm: NL26040
 Author: Harry L. Foster <br>
 Title: A beachcomber in the orient <br>
 Publisher: London: J. Lane, Bodley Head <br>
-Access via BookSG: http://eresources.nlb.gov.sg/printheritage/detail/d59b1adc-b1d0-49ce-bb43-ddfff539d5c4.aspx
+Access via BookSG: [http://eresources.nlb.gov.sg/printheritage/detail/d59b1adc-b1d0-49ce-bb43-ddfff539d5c4.aspx](http://eresources.nlb.gov.sg/printheritage/detail/d59b1adc-b1d0-49ce-bb43-ddfff539d5c4.aspx)
 
 **1925–1926**	
 
 Author: Horace Bleackley <br>
 Title: A tour in Southern Asia: (Indo-China, Malaya, Java, Sumatra, and Ceylon, 1925–1926) <br>
 Publisher: London: John Lane, 1928Mentions Singapore River; Cavenagh Bridge; Botanical Garden; the Gap; riding a rickshaw or driving a motorcar around Singapore; Europe, Raffles and Sea View hotels; ladies’ and men’s fashion; transport; itinerant hawkers; stereotypes of the races <br>
-Access via BookSG:  http://eresources.nlb.gov.sg/printheritage/detail/236896f8-8b15-4bec-8c7d-d079d877d51f.aspx / Microfilm: NL25416
+Access via BookSG:  [http://eresources.nlb.gov.sg/printheritage/detail/236896f8-8b15-4bec-8c7d-d079d877d51f.aspx](http://eresources.nlb.gov.sg/printheritage/detail/236896f8-8b15-4bec-8c7d-d079d877d51f.aspx) / Microfilm: NL25416
 
 **c.1926**	
 
