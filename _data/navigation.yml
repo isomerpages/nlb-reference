@@ -7,6 +7,28 @@
 logo: /images/isomer-logo.svg
 
 links:
+  - title: Resource Guides
+    sublinks:
+      - title: Singapore
+        url: /guides/singapore/
+      - title: Arts
+        url: /guides/arts/
+      - title: Business
+        url: /guides/business/
+      - title: Science & Technology
+        url: /guides/science-technology/
+      - title: Social Sciences and Humanities
+        url: /guides/socialsciences-humanities/
+  - title: Geting Started
+    sublinks:
+      - title: Using OneSearch
+        url: /getting-started/onesearch/
+      - title: Using eDatabases
+        url: /getting-started/edatabases/
+      - title: Other How-to-use Guides
+        url: /getting-started/other-guides/
+      - title: Fighting Fake News
+        url: /getting-started/fighting-fake-news/
   - title: Category
     sublinks:
       - title: Business
@@ -41,4 +63,5 @@ links:
     resource_room: true
   - title: Contact Us
     url: /contact-us/
+
   # - title: testing

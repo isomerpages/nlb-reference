@@ -18,7 +18,6 @@ colors:
     - title: media-color-five
       color: '#00838f'
 
-
 collections:
   topics:
     output: true
@@ -30,9 +29,22 @@ collections:
     output: true
   category:
     output: true
+  resource guides:
+    output: true
+  getting started:
+    output: true
+  other formats:
+    output: true
+  about us:
+    output: true
+  Singapore:
+    output: true
+  Business:
+    output: true
 resources_name: guides
 
 ##################################################################################################################
+
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
 ##################################################################################################################
 permalink: none
