@@ -1,10 +1,10 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Reference@NLB
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: This site is still in construction, thank you
 sections:
     - hero:
         title: Hero title
