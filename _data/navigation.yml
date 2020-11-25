@@ -29,7 +29,6 @@ links:
         url: /getting-started/other-guides/
       - title: Fighting Fake News
         url: /getting-started/fighting-fake-news/
-<<<<<<< HEAD
   - title: Other Formats
     sublinks:
       - title: Photographs and Images
@@ -48,18 +47,16 @@ links:
         url: /about-us/national-library/
       - title: Lee Kong Chian Reference Library
         url: /about-us/lkcrl/
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<!--
-=======
+
+        <!--
+        =======
 >>>>>>> parent of 7a5bc54... Update navigation.yml
 =======
 <!---
 >>>>>>> parent of 5eb0d85... Update navigation.yml
   - title: Category
 =======
-  <!--- title: Category
+    <!--- title: Category
 >>>>>>> parent of 899c184... Update navigation.yml
 =======
 <!---
@@ -105,6 +102,5 @@ links:
 >>>>>>> parent of 7a5bc54... Update navigation.yml
 =======
     url: /contact-us/-->
->>>>>>> parent of 899c184... Update navigation.yml
 
   # - title: testing
