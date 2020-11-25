@@ -29,6 +29,7 @@ links:
         url: /getting-started/other-guides/
       - title: Fighting Fake News
         url: /getting-started/fighting-fake-news/
+<<<<<<< HEAD
   - title: Other Formats
     sublinks:
       - title: Photographs and Images
@@ -78,6 +79,9 @@ links:
 =======
   <!--- title: Category
 >>>>>>> parent of 899c184... Update navigation.yml
+=======
+  - title: Category
+>>>>>>> parent of 7a5bc54... Update navigation.yml
     sublinks:
       - title: Business
         url: /category/business/main
@@ -112,6 +116,7 @@ links:
   - title: Contact Us
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     url: /contact-us/
 -->
 <<<<<<< HEAD
@@ -124,5 +129,8 @@ links:
 =======
     url: /contact-us/-->
 >>>>>>> parent of 899c184... Update navigation.yml
+=======
+    url: /contact-us/
+>>>>>>> parent of 7a5bc54... Update navigation.yml
 
   # - title: testing
