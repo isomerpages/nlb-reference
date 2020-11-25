@@ -48,10 +48,14 @@ links:
         url: /about-us/national-library/
       - title: Lee Kong Chian Reference Library
         url: /about-us/lkcrl/
+<<<<<<< HEAD
 <!--
 =======
 >>>>>>> parent of 7a5bc54... Update navigation.yml
   - title: Category
+=======
+  <!--- title: Category
+>>>>>>> parent of 899c184... Update navigation.yml
     sublinks:
       - title: Business
         url: /category/business/main
@@ -84,10 +88,14 @@ links:
   - title: Guides
     resource_room: true
   - title: Contact Us
+<<<<<<< HEAD
     url: /contact-us/
 <<<<<<< HEAD
 -->
 =======
 >>>>>>> parent of 7a5bc54... Update navigation.yml
+=======
+    url: /contact-us/-->
+>>>>>>> parent of 899c184... Update navigation.yml
 
   # - title: testing
