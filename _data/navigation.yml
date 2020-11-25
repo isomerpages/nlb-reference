@@ -49,6 +49,7 @@ links:
       - title: Lee Kong Chian Reference Library
         url: /about-us/lkcrl/
 <<<<<<< HEAD
+<<<<<<< HEAD
 <!--
 =======
 >>>>>>> parent of 7a5bc54... Update navigation.yml
@@ -56,6 +57,10 @@ links:
 =======
   <!--- title: Category
 >>>>>>> parent of 899c184... Update navigation.yml
+=======
+<!---
+  -   - title: Category
+>>>>>>> parent of 24b2a23... Update navigation.yml
     sublinks:
       - title: Business
         url: /category/business/main
