@@ -47,6 +47,7 @@ links:
         url: /about-us/national-library/
       - title: Lee Kong Chian Reference Library
         url: /about-us/lkcrl/
+<<<<<<< HEAD
 
         <!--
         =======
@@ -54,6 +55,9 @@ links:
 =======
 <!---
 >>>>>>> parent of 5eb0d85... Update navigation.yml
+=======
+<!--
+>>>>>>> parent of fe0b294... Update navigation.yml
   - title: Category
 =======
     <!--- title: Category
@@ -96,11 +100,13 @@ links:
   - title: Contact Us
 <<<<<<< HEAD
     url: /contact-us/
-<<<<<<< HEAD
 -->
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 7a5bc54... Update navigation.yml
 =======
     url: /contact-us/-->
+=======
+>>>>>>> parent of fe0b294... Update navigation.yml
 
   # - title: testing
