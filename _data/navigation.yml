@@ -29,59 +29,7 @@ links:
         url: /getting-started/other-guides/
       - title: Fighting Fake News
         url: /getting-started/fighting-fake-news/
-<<<<<<< HEAD
-  - title: Other Formats
-    sublinks:
-      - title: Photographs and Images
-        url: /other-formats/photos-images/
-      - title: Maps
-        url: /other-formats/maps/
-      - title: Newspapers and Microfilms
-        url: /other-formats/newspapers-microfilms/
-      - title: Ephemera
-        url: /other-formats/ephemera/
-      - title: Bibliographies
-        url: /other-formats/bibliographies/
-  - title: About Us
-    sublinks:
-      - title: National Library
-        url: /about-us/national-library/
-      - title: Lee Kong Chian Reference Library
-        url: /about-us/lkcrl/
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-        <!--
-        =======
->>>>>>> parent of 7a5bc54... Update navigation.yml
-=======
-<!---
->>>>>>> parent of 5eb0d85... Update navigation.yml
-=======
-<!--
->>>>>>> parent of fe0b294... Update navigation.yml
-=======
-<!---
-<<<<<<< HEAD
->>>>>>> parent of 5eb0d85... Update navigation.yml
   - title: Category
-=======
-    <!--- title: Category
->>>>>>> parent of 899c184... Update navigation.yml
-=======
-<!---
-  -   - title: Category
->>>>>>> parent of 24b2a23... Update navigation.yml
-=======
-  -   - title: Category
->>>>>>> parent of 24b2a23... Update navigation.yml
-=======
-  <!--- title: Category
->>>>>>> parent of 899c184... Update navigation.yml
-=======
-  - title: Category
->>>>>>> parent of 7a5bc54... Update navigation.yml
     sublinks:
       - title: Business
         url: /category/business/main
@@ -113,24 +61,11 @@ links:
         url: /arts/visualarts/main
   - title: Guides
     resource_room: true
-  - title: Contact Us
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-    url: /contact-us/
--->
-<<<<<<< HEAD
-=======
->>>>>>> parent of 7a5bc54... Update navigation.yml
-=======
-    url: /contact-us/-->
-=======
->>>>>>> parent of fe0b294... Update navigation.yml
-=======
-    url: /contact-us/-->
->>>>>>> parent of 899c184... Update navigation.yml
-=======
-    url: /contact-us/
->>>>>>> parent of 7a5bc54... Update navigation.yml
+  - title: About Us
+    sublinks:
+      - title: National Library
+        url: /about-us/national-library/
+      - title: Lee Kong Chian Reference Library
+        url: /about-us/lkcrl/
 
   # - title: testing
