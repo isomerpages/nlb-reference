@@ -47,7 +47,8 @@ links:
         url: /about-us/national-library/
       - title: Lee Kong Chian Reference Library
         url: /about-us/lkcrl/
-  <!--- title: Category
+<!---
+  -   - title: Category
     sublinks:
       - title: Business
         url: /category/business/main
@@ -80,6 +81,7 @@ links:
   - title: Guides
     resource_room: true
   - title: Contact Us
-    url: /contact-us/-->
+    url: /contact-us/
+-->
 
   # - title: testing
