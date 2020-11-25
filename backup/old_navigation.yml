@@ -29,24 +29,28 @@ links:
         url: /getting-started/other-guides/
       - title: Fighting Fake News
         url: /getting-started/fighting-fake-news/
-  - title: Other Formats
+  - title: Category
     sublinks:
-      - title: Photographs and Images
-        url: /other-formats/photos-images/
-      - title: Maps
-        url: /other-formats/maps/
-      - title: Newspapers and Microfilms
-        url: /other-formats/newspapers-microfilms/
-      - title: Ephemera
-        url: /other-formats/ephemera/
-      - title: Bibliographies
-        url: /other-formats/bibliographies/
-  - title: About Us
+      - title: Business
+        url: /category/business/main
+      - title: Science and Technology
+        url: /category/scienceandtechnology/main
+      - title: Singapore and South East Asia
+        url: /category/singaporeandsoutheastasia/main
+      - title: Social Sciences and Humanities
+        url: /category/socialsciencesandhumanities/main
+  - title: Database
     sublinks:
-      - title: National Library
-        url: /about-us/national-library/
-      - title: Lee Kong Chian Reference Library
-        url: /about-us/lkcrl/
+      - title: Singapore Biographical Database on Chinese Pioneers
+        url: /database/main
+  - title: Literature
+    sublinks:
+      - title: Alt Screen In Transit
+        url: /literature/altscreenintransit/alt-screen-main
+      - title: Four Conversations
+        url: /literature/fourconversations/delivering-literacy-to-millions-of-children
+      - title: NL Prominent Speaker Series
+        url:  /literature/prominentspeakers/main
   - title: Arts
     sublinks:
       - title: Literary Arts
@@ -55,5 +59,13 @@ links:
         url: /arts/performingarts/main
       - title: Visual Arts
         url: /arts/visualarts/main
+  - title: Guides
+    resource_room: true
+  - title: About Us
+    sublinks:
+      - title: National Library
+        url: /about-us/national-library/
+      - title: Lee Kong Chian Reference Library
+        url: /about-us/lkcrl/
 
   # - title: testing
