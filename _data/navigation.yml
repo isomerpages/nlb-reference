@@ -49,6 +49,7 @@ links:
         url: /about-us/lkcrl/
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
         <!--
         =======
@@ -74,6 +75,9 @@ links:
 =======
   -   - title: Category
 >>>>>>> parent of 24b2a23... Update navigation.yml
+=======
+  <!--- title: Category
+>>>>>>> parent of 899c184... Update navigation.yml
     sublinks:
       - title: Business
         url: /category/business/main
@@ -107,6 +111,7 @@ links:
     resource_room: true
   - title: Contact Us
 <<<<<<< HEAD
+<<<<<<< HEAD
     url: /contact-us/
 -->
 <<<<<<< HEAD
@@ -116,5 +121,8 @@ links:
     url: /contact-us/-->
 =======
 >>>>>>> parent of fe0b294... Update navigation.yml
+=======
+    url: /contact-us/-->
+>>>>>>> parent of 899c184... Update navigation.yml
 
   # - title: testing
