@@ -7,7 +7,7 @@ permalink: /
 notification: This site is still in construction, thank you
 sections:
     - hero:
-        title: Reference
+        title: Hero title
         subtitle: Hero subtitle
         background: /images/hero-banner.png
         button: Contact Us
