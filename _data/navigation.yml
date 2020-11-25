@@ -47,6 +47,14 @@ links:
         url: /about-us/national-library/
       - title: Lee Kong Chian Reference Library
         url: /about-us/lkcrl/
+  - title: Arts
+    sublinks:
+      - title: Literary Arts
+        url: /arts/literaryarts/main
+      - title: Performing Arts
+        url: /arts/performingarts/main
+      - title: Visual Arts
+        url: /arts/visualarts/main
 
         <!--
         =======
