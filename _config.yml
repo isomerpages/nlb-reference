@@ -41,6 +41,8 @@ collections:
     output: true
   Business:
     output: true
+  temp:
+    output: true
 resources_name: guides
 
 ##################################################################################################################
