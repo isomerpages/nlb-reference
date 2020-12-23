@@ -19,41 +19,6 @@ collection_name: temp
 
 ## <u>Introduction</u>
 
-<style>
-.collapsible {
-  background-color: #777;
-  color: white;
-  cursor: pointer;
-  padding: 18px;
-  width: 100%;
-  border: none;
-  text-align: left;
-  outline: none;
-  font-size: 15px;
-}
-
-.active, .collapsible:hover {
-  background-color: #555;
-}
-
-.content {
-  padding: 0 18px;
-  display: none;
-  overflow: hidden;
-  background-color: #f1f1f1;
-}
-</style>
-</head>
-<body>
-
-<h2>Collapsibles</h2>
-
-<p>A Collapsible:</p>
-<button type="button" class="collapsible">Open Collapsible</button>
-<div class="content">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-</div>
-
 Air pollution is the accumulation in the atmosphere of substances that in sufficient concentrations, degrade ecosystems and endanger human health. Most air pollution is caused by human activities, but certain natural processes such as a forest fire can pollute the air.
 
 <b><u>Pollutants and Sources</u></b>
@@ -551,7 +516,6 @@ CCTV reports that Mexico City’s air pollution has decreased as a result of swi
 ODN (On Demand News). (2015, October 5). Thickening haze in Singapore affects air quality [Video File]. Retrieved February 12, 2016, from: https://youtu.be/4FK4Ev5eyf4
 
 <iframe width="1280" height="360" src="https://www.youtube.com/embed/4FK4Ev5eyf4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 On Demand News (ODN) reports that thousands were treated for respiratory issues in Singapore as haze caused by slash-and-burn fires affects air quality.
 
 
