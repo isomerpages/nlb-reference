@@ -19,10 +19,39 @@ collection_name: temp
 
 ## <u>Introduction</u>
 
-<button data-toggle="collapse" data-target="#demo">Test Collapsible</button>
+<style>
+.collapsible {
+  background-color: #777;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
 
-<div id="demo" class="collapse">
-Air pollution is the accumulation in the atmosphere of substances that in sufficient concentrations, degrade ecosystems and endanger human health. Most air pollution is caused by human activities, but certain natural processes such as a forest fire can pollute the air.
+.active, .collapsible:hover {
+  background-color: #555;
+}
+
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
+}
+</style>
+</head>
+<body>
+
+<h2>Collapsibles</h2>
+
+<p>A Collapsible:</p>
+<button type="button" class="collapsible">Open Collapsible</button>
+<div class="content">
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 </div>
 
 Air pollution is the accumulation in the atmosphere of substances that in sufficient concentrations, degrade ecosystems and endanger human health. Most air pollution is caused by human activities, but certain natural processes such as a forest fire can pollute the air.
