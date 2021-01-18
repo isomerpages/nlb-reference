@@ -156,7 +156,7 @@ http://www.sciencedirect.com/science/article/pii/S2340943617300439
 This research analyses the effectiveness of Say On Pay (SOP) as a mechanism for aligning CEO compensation in the context of Spanish listed companies of corporate governance. It also examines the moderating effect of board monitoring and ownership structure.
  
 
- ### <u>Accessing National Library Board Singapore Resources</u>
+### <u>Accessing National Library Board Singapore Resources</u>
 
 <b><u>Accessing the Print Materials</u></b>
 
