@@ -83,27 +83,27 @@ McCrum examines how English has become the dominant lingua franca in the world t
 ### <u>Websites</u>
 
 * BBC. (2014). Ages of English timeline. Retrieved March 14, 2017, from BBC website:
-http://www.bbc.co.uk/history/british/launch_tl_ages_english.shtml
+[http://www.bbc.co.uk/history/british/launch_tl_ages_english.shtml](http://www.bbc.co.uk/history/british/launch_tl_ages_english.shtml)
 
 This interactive flash timeline application presents the historical evolution of the English language in a fun and attractive manner, as it fleshes out major events that impacted the development of the language.
  
 
-* British Library Board. (n.d.). English timeline. Retrieved March 14, 2017, from British Library website: http://www.bl.uk/learning/langlit/changlang/across/languagetimeline.html
+* British Library Board. (n.d.). English timeline. Retrieved March 14, 2017, from British Library website: [http://www.bl.uk/learning/langlit/changlang/across/languagetimeline.html](http://www.bl.uk/learning/langlit/changlang/across/languagetimeline.html)
 
 This interactive timeline informs visitors of important chapters in the history of the English language, with examples of words that originated from the different time periods.
  
 
-* British Library Board. (n.d.). Language and the written word. Retrieved March 14, 2017, from British Library website: http://www.bl.uk/learning/langlit/changlang/writtenword/writtenwordtimeline.html
+* British Library Board. (n.d.). Language and the written word. Retrieved March 14, 2017, from British Library website: [http://www.bl.uk/learning/langlit/changlang/writtenword/writtenwordtimeline.html](http://www.bl.uk/learning/langlit/changlang/writtenword/writtenwordtimeline.html)
 
 This webpage enables visitors to view sample texts from the Old, Middle and Modern English eras.
  
 
-* Harper, D. (2017). Online etymology dictionary. Retrieved March 14, 2017, from Etymonline website: http://www.etymonline.com/
+* Harper, D. (2017). Online etymology dictionary. Retrieved March 14, 2017, from Etymonline website: [http://www.etymonline.com/](http://www.etymonline.com/)
 
 This website houses a database of English etymology, which is the study of a word’s history and its evolution. Users can search for specific words to learn about their origins, historical usage, and related words.
  
 
-* Towson University. (2010, April 11). Links to history of the English language resources. Retrieved March 14, 2017, from Towson University website: http://pages.towson.edu/duncan/hellinks.html
+* Towson University. (2010, April 11). Links to history of the English language resources. Retrieved March 14, 2017, from Towson University website: [http://pages.towson.edu/duncan/hellinks.html](http://pages.towson.edu/duncan/hellinks.html)
 
 This website contains an extensive directory of resources on the evolution of the English language, from its Indo-European and Germanic roots through Old, Middle, and finally Modern English. There are many audio recordings of the historical English language being spoken.
  
@@ -125,7 +125,7 @@ Call no.: R 421.58 CRU
 This book serves as an essential text for students and teachers of English pronunciation. Contents are divided into three parts: Speech and language, The sound of English, and Words and connected speech.
  
 
-* Ladefoged, P. & Johnson, K. (2011). [A course in phonetics](https://web.archive.org/web/20191231201809/http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13926347). Boston, MA: Wadsworth/Cengage Learning.
+* Ladefoged, P. & Johnson, K. (2011). [A course in phonetics](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13926347). Boston, MA: Wadsworth/Cengage Learning.
 
 Call no.: R 414.8 LAD
 
@@ -134,12 +134,12 @@ This text provides a good foundation to learn about English language phonetics, 
 
 ### <u>Websites</u>
 
-* British Council & BBC World Service. (n.d.). Phonemic chart. Retrieved March 14, 2017, from British Council & BBC World Service website: http://www.teachingenglish.org.uk/activities/phonemic-chart
+* British Council & BBC World Service. (n.d.). Phonemic chart. Retrieved March 14, 2017, from British Council & BBC World Service website: [http://www.teachingenglish.org.uk/activities/phonemic-chart](http://www.teachingenglish.org.uk/activities/phonemic-chart)
 
 Visitors to this website can download the British Council phonemic chart and hear the sounds used in the English language for consonants and vowels by clicking on each of the square tiles on the chart. (Note: Adobe Flash Player is required when downloading the chart to a desktop computer.)
  
 
-* WETA Public Broadcasting. (2011). Top 10 Resources on Phonological and Phonemic Awareness. Retrieved March 14, 2017, from WETA Public Broadcasting website: http://www.readingrockets.org/article/top-10-resources-phonological-and-phonemic-awareness
+* WETA Public Broadcasting. (2011). Top 10 Resources on Phonological and Phonemic Awareness. Retrieved March 14, 2017, from WETA Public Broadcasting website: [http://www.readingrockets.org/article/top-10-resources-phonological-and-phonemic-awareness](http://www.readingrockets.org/article/top-10-resources-phonological-and-phonemic-awareness)
 
 This list of articles focuses on the development of phonological skills, especially in early readers and speakers of the language. With general information about phonology, ideas for phonological games and activities, and a substantial list for further reading in each article, this website is a useful resource for understanding the theoretical and practical aspects of phonology.
  
@@ -163,7 +163,7 @@ This text encourages readers to analyse English grammar while learning about the
 
 Call no.: R 415 LAR
 
-This is a good introductory text to syntax, covering topics such as phrase structure, lexicon and movement rules, as viewed from the perspective of the principles of scientific theorising. The e-version of the preface for this book can be found at this URL: http://mitpress.mit.edu/sites/default/files/titles/content/9780262513036_pre_0001.pdf
+This is a good introductory text to syntax, covering topics such as phrase structure, lexicon and movement rules, as viewed from the perspective of the principles of scientific theorising. The e-version of the preface for this book can be found at this URL: [http://mitpress.mit.edu/sites/default/files/titles/content/9780262513036_pre_0001.pdf](http://mitpress.mit.edu/sites/default/files/titles/content/9780262513036_pre_0001.pdf)
  
 
 * McIntyre, B. T., Cheung, Y. L. (2011). [English style and usage](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13932618). Singapore: Prentice Hall.
@@ -210,27 +210,27 @@ The writer presents English grammar in a humorous way, drawing from his experien
 
 ### <u>Websites</u>
 
-* About, Inc. (2017). English grammar. Retrieved March 14, 2017, from About, Inc. website: https://www.thoughtco.com/english-grammar-4133049 
+* About, Inc. (2017). English grammar. Retrieved March 14, 2017, from About, Inc. website: [https://www.thoughtco.com/english-grammar-4133049](https://www.thoughtco.com/english-grammar-4133049)
 
 This website extensively discusses grammar and other aspects of the language in focused topical articles. The articles are interesting on top of being informative, and the points in them are illustrated by written examples from a wide range of texts and authors.
  
 
-* BBC. (2017). Learning English. Retrieved March 14, 2017, from BBC website: http://www.bbc.co.uk/learningenglish/
+* BBC. (2017). Learning English. Retrieved March 14, 2017, from BBC website: [http://www.bbc.co.uk/learningenglish/](http://www.bbc.co.uk/learningenglish/)
 
 This is a fun and useful website for learning about English grammar, vocabulary, pronunciation and general and business English. Also provides an option for the website to be translated into other languages, such as Portuguese, Russian and Vietnamese.
  
 
-* British Council. (n.d.). English grammar. Retrieved March 14, 2017, from British Council website: http://learnenglish.britishcouncil.org/en/english-grammar
+* British Council. (n.d.). English grammar. Retrieved March 14, 2017, from British Council website: [http://learnenglish.britishcouncil.org/en/english-grammar](http://learnenglish.britishcouncil.org/en/english-grammar)
 
 The British Council website gives a rudimentary introduction to the different elements of grammar with interactive exercises for each section provided to test one’s understanding of the concepts taught.
  
 
-* GrammarBook.com. (2016). Free online English usage rules. Retrieved March 14, 2017, from GrammarBook.com website: http://www.grammarbook.com/
+* GrammarBook.com. (2016). Free online English usage rules. Retrieved March 14, 2017, from GrammarBook.com website: [http://www.grammarbook.com/](http://www.grammarbook.com/)
 
 This website provides English usage rules, covering grammar, punctuation and other rules such as capitalisation, spelling, vocabulary and writing numbers. English usage videos and quizzes are also provided.
  
 
-* Kies, D. (2016, November 17). Modern English grammar. Retrieved March 14, 2017, from HyperTextBooks website: http://papyr.com/hypertextbooks/grammar/
+* Kies, D. (2016, November 17). Modern English grammar. Retrieved March 14, 2017, from HyperTextBooks website: [http://papyr.com/hypertextbooks/grammar/](http://papyr.com/hypertextbooks/grammar/)
 
 This website is used as a supplementary resource for undergraduate students studying English grammar, and contains detailed information ranging from grammatical structure to common errors in language usage and even professional research findings.
  
@@ -241,7 +241,7 @@ This article is about the first Speak Good English campaign in Singapore, which 
  
 
 * Oxford University Press. (2017). Oxford English grammar course online. Retrieved March 14, 2017, from Oxford University Press website:
-http://elt.oup.com/student/oxfordenglishgrammar/?cc=global&selLanguage=en
+[http://elt.oup.com/student/oxfordenglishgrammar/?cc=global&selLanguage=en](http://elt.oup.com/student/oxfordenglishgrammar/?cc=global&selLanguage=en)
 
 This website offers three progressive levels of English Grammar courses – Basic, Intermediate and Advanced, that can aid in learning grammar rules and proper English usage. Each level includes interactive exercises and games to help one to understand grammar in greater detail.
  
@@ -297,12 +297,12 @@ This thesaurus covers a wide range of synonyms with definitions to familiarise r
 
 ### <u>Websites</u>
 
-* Lynch, T. & Anderson, K. (2012). Effective English learning. Unit 6: Vocabulary. Retrieved March 15, 2017, from English Language Teaching Centre, University of Edinburgh website: http://www.ed.ac.uk/files/imports/fileManager/UNIT_6_Vocabulary.pdf
+* Lynch, T. & Anderson, K. (2012). Effective English learning. Unit 6: Vocabulary. Retrieved March 15, 2017, from English Language Teaching Centre, University of Edinburgh website: [http://www.ed.ac.uk/files/imports/fileManager/UNIT_6_Vocabulary.pdf](http://www.ed.ac.uk/files/imports/fileManager/UNIT_6_Vocabulary.pdf)
 
 This is an online self-study guide on how to expand and improve one’s vocabulary capacity. Word exercises and study notes are also included.
  
 
-* UCLES. (2012). Cambridge English: Vocabulary list. Retrieved March 14, 2017, from Cambridge English Language Assessment website: http://www.cambridgeenglish.org/images/84669-vocabulary-list.pdf
+* UCLES. (2012). Cambridge English: Vocabulary list. Retrieved March 14, 2017, from Cambridge English Language Assessment website: [http://www.cambridgeenglish.org/images/84669-vocabulary-list.pdf](http://www.cambridgeenglish.org/images/84669-vocabulary-list.pdf)
 
 This website is a vocabulary guide for teachers who are preparing students for the Preliminary English Test (PET), with reference to the Cambridge Learner Corpus and English Profile Wordlists. Wordsets and topic lists are included in the Appendix.
  
@@ -345,7 +345,7 @@ Call no.: R 398.92103 DOY
 This is a compilation of proverbs that appeared in the English language from 1900 onwards, originating from many parts of the world, such as North America, Britain, Australia, New Zealand, South America and Central America.
  
 
-* Flavell, L. & Flavell, R. (2011). [Dictionary of English down the ages: Words & phrases born out of historical events great & small](https://web.archive.org/web/20191231201809/http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14331307). Singapore: Page One.
+* Flavell, L. & Flavell, R. (2011). [Dictionary of English down the ages: Words & phrases born out of historical events great & small](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14331307). Singapore: Page One.
 
 Call no.: R 422.03 FLA
 
@@ -382,32 +382,32 @@ This concise dictionary is a useful resource for word definitions and includes s
 
 ### <u>Websites</u>
 
-* Cambridge University Press. (2017). Cambridge dictionary. Retrieved March 15, 2017, from Cambridge University Press website: http://dictionary.cambridge.org/
+* Cambridge University Press. (2017). Cambridge dictionary. Retrieved March 15, 2017, from Cambridge University Press website: [http://dictionary.cambridge.org/](http://dictionary.cambridge.org/)
 
 This website provides access to British and American English, Business English and a Learner’s Dictionary. Also includes bilingual translations for English-Spanish and English-Turkish.
  
 
-* Collins. (2017). Collins English dictionary. Retrieved March 15, 2017, from Collins website: http://www.collinsdictionary.com/dictionary/english
+* Collins. (2017). Collins English dictionary. Retrieved March 15, 2017, from Collins website: [http://www.collinsdictionary.com/dictionary/english](http://www.collinsdictionary.com/dictionary/english)
 
 This website provides access to the Collins dictionary, thesaurus, a translator, word games and bilingual French, German, Spanish, Italian, Chinese, Portuguese and Hindi dictionaries.
  
 
-* Dictionary.com. (2016). Dictionary.com. Retrieved March 15, 2017, from Dictionary.com website: http://www.dictionary.com/
+* Dictionary.com. (2016). Dictionary.com. Retrieved March 15, 2017, from Dictionary.com website: [http://www.dictionary.com/](http://www.dictionary.com/)
 
 This website offers access to an online English dictionary, a thesaurus, fascinating word stories and stimulating word quizzes.
  
 
-* Merriam-Webster, Inc. (2017). Merriam-Webster. Retrieved March 15, 2017, from Merriam-Webster website: http://www.merriam-webster.com/
+* Merriam-Webster, Inc. (2017). Merriam-Webster. Retrieved March 15, 2017, from Merriam-Webster website: [http://www.merriam-webster.com/](http://www.merriam-webster.com/)
 
 Besides providing meanings of words, this website includes a thesaurus, games and quizzes, videos and highlights trending new words and slangs.
  
 
-* Oxford University Press. (2017). Oxford dictionaries. Retrieved March 15, 2017, from Oxford Dictionaries website: http://www.oxforddictionaries.com/
+* Oxford University Press. (2017). Oxford dictionaries. Retrieved March 15, 2017, from Oxford Dictionaries website: [http://www.oxforddictionaries.com/](http://www.oxforddictionaries.com/)
 
 This is the online version of the Oxford Dictionary which not only provides definitions of words but also offers dictionaries for languages spoken around the world, such as French, German, Italian, and Spanish.
  
 
-* Pearson ELT. (n.d.). Longman dictionary of contemporary English online. Retrieved March 15, 2017, from Longman dictionary of contemporary English website: http://www.ldoceonline.com/
+* Pearson ELT. (n.d.). Longman dictionary of contemporary English online. Retrieved March 15, 2017, from Longman dictionary of contemporary English website: [http://www.ldoceonline.com/](http://www.ldoceonline.com/)
 
 This online dictionary provides 155,000  examples of common English word usage, highlights of 3,000 most frequent words used in written and spoken English and 4,000 new words and meanings.
  
@@ -418,38 +418,39 @@ This online dictionary provides 155,000  examples of common English word usage, 
 
 Open Access Journals are scholarly journals that are freely available over the Internet without requiring any subscription fee or password. Below are some examples of open access journals that focus on English language.
 
-* Asian Economic and Social Society. (2016). International journal of English language and literature studies. Retrieved March 15, 2017, from Asian Economic and Social Society website: http://www.aessweb.com/journals/5019
+* Asian Economic and Social Society. (2016). International journal of English language and literature studies. Retrieved March 15, 2017, from Asian Economic and Social Society website: [http://www.aessweb.com/journals/5019](http://www.aessweb.com/journals/5019)
 
 This journal is published quarterly, both online and in print by the Asian Economic and Social Society. Its scope covers English linguistics, literatures written in the English language, and English sociolinguistics.
  
 
-* Canadian Center of Science and Education. (2016). English language teaching. Retrieved March 15, 2017, from Canadian Center of Science and Education website: http://www.ccsenet.org/journal/index.php/elt
+* Canadian Center of Science and Education. (2016). English language teaching. Retrieved March 15, 2017, from Canadian Center of Science and Education website: [http://www.ccsenet.org/journal/index.php/elt](http://www.ccsenet.org/journal/index.php/elt)
 
 English language teaching is an international peer-reviewed journal that is published monthly and covers subjects such as “theory and practice in English language teaching and learning, teaching English as a second or foreign language, English language teachers’ training and education”.
  
 
-* Directory of Open Access Journals. (2016). Browse Subjects. Retrieved March 15, 2017, from Directory of Open Access Journals (DOAJ) website: https://doaj.org/subjects
+* Directory of Open Access Journals. (2016). Browse Subjects. Retrieved March 15, 2017, from Directory of Open Access Journals (DOAJ) website: [https://doaj.org/subjects](https://doaj.org/subjects)
 
 DOAJ provides online access to titles of scholarly and academic journals on a wide variety of subjects, ranging from arts and humanities to science and technology. On selecting the “Language and Literature” link at this page, the site will conduct a search to list the journals and articles on the subject. It covers over 200 journals focusing on linguistics. Some examples of these journals published in English include: 1) 3L Language, Linguistics and Literature: the Southeast Asian Journal of English Language Studies; 2) ELTWorldOnline.com; 3) The English Languages: History, Diaspora, Culture and 4) English Language and Literature Studies.
  
 
-* International Journal of English Language and Translation Studies. (2016). International journal of English language and translation studies. Retrieved March 15, 2017, from International Journal of English Language and Translation Studies (IJ-ELTS) website: http://eltsjournal.org/
+* International Journal of English Language and Translation Studies. (2016). International journal of English language and translation studies. Retrieved March 15, 2017, from International Journal of English Language and Translation Studies (IJ-ELTS) website: [http://eltsjournal.org/](http://eltsjournal.org/)
 
 IJ-ELTS is published quarterly and is targeted at students, teachers, researchers and scholars involved in the study of English language, literature, culture and translation studies.
  
 
-* International Journal of English Studies. (2016). International journal of English studies. Retrieved March 15, 2017, from International Journal of English Studies website: http://revistas.um.es/ijes
+* International Journal of English Studies. (2016). International journal of English studies. Retrieved March 15, 2017, from International Journal of English Studies website: [http://revistas.um.es/ijes](http://revistas.um.es/ijes)
 
 The International Journal of English Studies (IJES) is a bi-annual peer-reviewed journal that is published by the University of Murcia, Spain. It focuses on “English Language and Linguistics, Applied English Linguistics, Literature in English and Culture of the English-speaking countries”.
  
 
-* Oxford University Press. (2017). ELT journal. Retrieved March 15, 2017, from Oxford University Press website: http://eltj.oxfordjournals.org/
+* Oxford University Press. (2017). ELT journal. Retrieved March 15, 2017, from Oxford University Press website: [http://eltj.oxfordjournals.org/](http://eltj.oxfordjournals.org/
+)
 
 ELT Journal is published quarterly and is targeted at teachers who teach English as a second language or as a foreign language, covering the principles and practice for how English is taught and learnt globally.
  
 
 * The Journal of English as an International Language. (2017). The journal of English as an international language. Retrieved March 15, 2017, from Journal of English as an 
-International Language website: http://www.eilj.com/
+International Language website: [http://www.eilj.com/](http://www.eilj.com/)
 
 This journal is published twice a year and covers the structure and development of English and its relationship to different cultures and languages.
  

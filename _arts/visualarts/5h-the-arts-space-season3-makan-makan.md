@@ -188,7 +188,7 @@ URL: http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870
 This article features the vanishing trade of selling kacang puteh, a term that colloquially refers to sugar-coated peanuts and assorted snacks, usually packed and sold in circular paper containers on pushcarts.
  
 
-* Kong, L.(2007). [Singapore hawker centres: people places food](https://web.archive.org/web/20200318082042/http://eservice.nlb.gov.sg/item_holding.aspx?bid=12874730). Singapore: National Environment Agency.
+* Kong, L.(2007). [Singapore hawker centres: people places food](http://eservice.nlb.gov.sg/item_holding.aspx?bid=12874730). Singapore: National Environment Agency.
 
 Call no: RSING 381.18095957 KON
 
@@ -301,7 +301,7 @@ Call no.: 791.436559 ZIM
 Food in the past has always been an ever-present yet seldom noticed element in film. Food films as a new genre did not emerge until the late 1980s. Covering over 500 American and British movies of every genre, the authors identify the many prominent roles of food as a prop, transition device, symbol and metaphor through a historical overview of different storylines.
  
 
-* Basker, K. M. (Director) & Salleh Ghani (Screenwriter) (1961). [Sultan Mahmood mangkat di-julang](https://web.archive.org/web/20200318082042/http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?BRN=203799484). \[Videodisc\]. Singapore: Asian Film Archive.
+* Basker, K. M. (Director) & Salleh Ghani (Screenwriter) (1961). [Sultan Mahmood mangkat di-julang](hhttp://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?BRN=203799484). \[Videodisc\]. Singapore: Asian Film Archive.
 
 Call no.: RSING Malay 791.4372 SUL
 

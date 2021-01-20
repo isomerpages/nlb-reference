@@ -36,37 +36,37 @@ This section provides reference sources that discuss how the Cuban Missile Crisi
 (listed in alphabetical order)
 
  
-* [Break-up begins](https://web.archive.org/web/20191222195306/http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19621103.2.2.aspx). (1962, November 3). The Straits Times, p. 1. Retrieved from NewspaperSG.
+* [Break-up begins](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19621103.2.2.aspx). (1962, November 3). The Straits Times, p. 1. Retrieved from NewspaperSG.
 
 Aerial photographs of Cuba show that the dismantling of Soviet missile bases is proceeding. Cuban Prime Minister Fidel Castro confirms that the Soviet missiles are being withdrawn, but remains firm that Cuba has no intention of submitting to external inspection of its defences.
  
 
-* [Crisis over](https://web.archive.org/web/20191222195306/http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19621030-1.2.3.aspx). (1962, October 30). The Straits Times, p. 1. Retrieved from NewspaperSG.
+* [Crisis over](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19621030-1.2.3.aspx). (1962, October 30). The Straits Times, p. 1. Retrieved from NewspaperSG.
 
 President Kennedy and his advisers on the National Security Council consider the prospects of a new US-Soviet understanding, as the tension of the Cuban Missile Crisis slowly defuses and they await Soviet follow-through on Prime Minister Khrushchev’s orders to dismantle the missiles in Cuba.
  
 
-* [Cuba: Russia gives a new warning](https://web.archive.org/web/20191222195306/http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19621108-1.2.18.5.aspx). (1962, November 8). The Straits Times, p. 2. Retrieved from NewspaperSG.
+* [Cuba: Russia gives a new warning](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19621108-1.2.18.5.aspx). (1962, November 8). The Straits Times, p. 2. Retrieved from NewspaperSG.
 
 The Soviet Union warns against foreign intervention in the sovereign affairs of other countries, pointedly referencing American action against Cuba’s military activity. Soviet First Deputy Premier Kosygin states that the Cuban Missile Crisis would have escalated in to nuclear war, and cautions that peaceful coexistence will be impossible if a similar conflict occurs again.
  
 
-* [Cuba: U.S. policy lacks wide support](https://web.archive.org/web/20191222195306/http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630419.2.66.aspx). (1963, April 19). The Straits Times, p. 8. Retrieved from NewspaperSG.
+* [Cuba: U.S. policy lacks wide support](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630419.2.66.aspx). (1963, April 19). The Straits Times, p. 8. Retrieved from NewspaperSG.
 
 The United States meets with resistance from within the Organisation of American States on its plan for intervention in Communist Cuba, deemed by much of Latin America as a nervous and desperate preoccupation.
  
 
-* [Danger still from Soviet bombers](https://web.archive.org/web/20191222195306/http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19621107.2.7.aspx). (1962, November 7). The Straits Times, p. 1. Retrieved from NewspaperSG.
+* [Danger still from Soviet bombers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19621107.2.7.aspx). (1962, November 7). The Straits Times, p. 1. Retrieved from NewspaperSG.
 
 Aerial photographs of Soviet jet bombers still being unpacked and assembled in Cuba poses a direct obstacle to US-Soviet negotiations on the removal of weapons from Cuba. Further negotiations continue on the process of inspection for vessels leaving Cuba with the offensive weapons.
  
 
-* [Eight nations offer aid](https://web.archive.org/web/20191222195306/http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19621026.2.5.aspx). (1962, October 26). The Straits Times, p. 1. Retrieved from NewspaperSG.
+* [Eight nations offer aid](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19621026.2.5.aspx). (1962, October 26). The Straits Times, p. 1. Retrieved from NewspaperSG.
 
 At least eight Latin American nations have offered assistance in the US blockade on offensive arms entering Cuba. The blockade has turned away at least a dozen Soviet vessels carrying “offensive material” since its initiation the previous day.
  
 
-* Freedman, M. (1962, November 15). [The few who faced up to the biggest challenge of all](https://web.archive.org/web/20191222195306/http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19621115.2.51.aspx). The Straits Times, p. 7. Retrieved from NewspaperSG.
+* Freedman, M. (1962, November 15). [The few who faced up to the biggest challenge of all](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19621115.2.51.aspx). The Straits Times, p. 7. Retrieved from NewspaperSG.
 
 This article explains the significance of what the United States achieved in resolving the Cuban Missile Crisis, both in meeting Communist aggression firmly, and in doing so through international cooperation and diplomacy.
  
@@ -183,7 +183,7 @@ If you’re having problems registering or logging in, please [contact us](http:
 
 ### <u>Authors</u>
 
-Sharon Teng
+Sharon Teng<br>
 (Updated by) Nathaniel Chew
 
  

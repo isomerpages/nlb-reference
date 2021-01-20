@@ -54,7 +54,7 @@ _Closed at 5.00 pm on eves of Christmas, New Year and Chinese New Year._<br>
  
 
 <b><u>Singapore and ISO Standards Database</u></b><br>
-http://eresources.nlb.gov.sg/Main/
+[http://eresources.nlb.gov.sg/Main/](http://eresources.nlb.gov.sg/Main/)
 
 This database provides access to the full collection of more than 500 Singapore Standards and selected ISO Standards such as Code of Practices in the Workplace Safety and Health Act and Management Standards. It includes commonly referred standards by users in the industry, academic and government. These standards are available in full-text in this electronic database, except those standards with copyright restriction for e-circulation. 
 
@@ -91,7 +91,7 @@ Call no.: RBUS 620.00218 TAW
 This book gives a broad overview of standardisation and quality management, covering key concepts such as national and international standards, quality management, assessment and certification. It also covers the techniques of quality management systems, such as ISO 9000, and the six sigma approach to quality management.
  
 
-* Asia-Pacific Economic Cooperation and Korean Standards Association. (2014). [APEC guidelines on standards infrastructure](https://eresources.nlb.gov.sg/webarchives/wayback/20190717013834/http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201128810). Singapore: APEC Secretariat.
+* Asia-Pacific Economic Cooperation and Korean Standards Association. (2014). [APEC guidelines on standards infrastructure](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201128810). Singapore: APEC Secretariat.
 
 Call no.: RBUS 389.6095 APE
 
@@ -214,19 +214,19 @@ The development, adaptation and implementation of standards are usually overseen
 <b><u>International Standards Organisations</u></b>
 
 * International Electrotechnical Commission (IEC)<br>
-http://www.iec.ch/
+[http://www.iec.ch/](http://www.iec.ch/)
 
 The world’s leading organisation that prepares and publishes International Standards for all electrical, electronic and related technologies (“electrotechnology”).
  
 
 * International Organisation for Standardisation (ISO)<br>
-http://www.iso.org/
+[http://www.iso.org/](http://www.iso.org/)
 
 A non-governmental organisation that develops and publishes International Standards for Business, Government and Society.
  
 
 * International Telecommunication Union (ITU)<br>
-http://www.itu.int/en/
+[http://www.itu.int/en/](http://www.itu.int/en/)
 
 A leading United Nations agency that develops worldwide standards for information and communication technology issues.
  
@@ -234,7 +234,7 @@ A leading United Nations agency that develops worldwide standards for informatio
 <b><u>Regional Standards Organisation</u></b>
 
 * European Committee for Standardisation (CEN)<br>
-http://www.cen.eu/cen/
+[http://www.cen.eu/cen/](http://www.cen.eu/cen/)
 
 An international non-profit organisation that develops European Standards (ENs) and other consensus documents.
  
@@ -242,55 +242,55 @@ An international non-profit organisation that develops European Standards (ENs) 
 <b><u>National Standards Organisations</u></b>
 
 * American National Standards Institute (ANSI)<br>
-http://www.ansi.org/
+[http://www.ansi.org/](http://www.ansi.org/)
 
 United States: Formed in 1918, with the mission to enhance both the global competitiveness of United States business and the United States quality of life by promoting and facilitating voluntary consensus standards and conformity assessment systems, and safeguarding their integrity.
  
 
 * British Standards Institution (BSI)<br>
-http://www.bsigroup.com/
+[http://www.bsigroup.com/](http://www.bsigroup.com/)
 
 United Kingdom: A National Standards Body of the United Kingdom that helps to develop, publish and market standards and related information products to meet the needs of business and society.
  
 
 * Bureau of Indian Standards (BIS)<br>
-http://www.bis.org.in/
+[http://www.bis.org.in/](http://www.bis.org.in/)
 
 India: Formed in 1987 as the National Standards Body of India to promote and nurture the standardisation movement in India.
  
 
 * Department of Standards Malaysia (DSM)<br>
-http://www.standardsmalaysia.gov.my/
+[http://www.standardsmalaysia.gov.my/](http://www.standardsmalaysia.gov.my/)
 
 Malaysia: An agency under the ambit of Ministry of Science, Technology and Innovation (MOSTI). Its mission is to provide credible standardisation and accreditation services to enhance economic, societal and environmental well-being.
  
 
 * Deutsches Institut für Normung (DIN)<br>
-http://www.din.de/
+[http://www.din.de/](http://www.din.de/)
 
 Germany: A National Standards Body that works closely with its stakeholders to develop consensus-based standards to meet market requirements. It also represents German interests in European and international standards organisations.
  
 
 * Enterprise Singapore<br>
-https://www.enterprisesg.gov.sg/
+[https://www.enterprisesg.gov.sg/](https://www.enterprisesg.gov.sg/)
 
 Singapore: An enterprise development agency with the mission to help Singapore enterprises grow and to build trust in Singapore products and services.
  
 
 * Korean Agency for Technology and Standards (KATS)<br>
-http://www.kats.go.kr/
+[http://www.kats.go.kr/](http://www.kats.go.kr/)
 
 Korea: Formed in 1883, originally known as Analysis and Testing Laboratory of the Mint Office.
  
 
 * South African Bureau of Standards (SABS)<br>
-https://www.sabs.co.za/
+[https://www.sabs.co.za/](https://www.sabs.co.za/)
 
 South Africa: A national institution that promotes and maintains the standards and quality.
  
 
 * Standards New Zealand (SNZ)<br>
-http://www.standards.co.nz/
+[http://www.standards.co.nz/](http://www.standards.co.nz/)
 
 New Zealand: It is New Zealand’s leading developer of Standards and Standards based solutions.
  
@@ -298,139 +298,139 @@ New Zealand: It is New Zealand’s leading developer of Standards and Standards 
 <b><u>Other Internationally Recognised Standardisation Organisations</u></b>
 
 * American Concrete Institute (ACI)<br>
-http://www.concrete.org/general/home.asp
+[http://www.concrete.org/general/home.asp](http://www.concrete.org/general/home.asp)
 
 United States: Formed in 1904 to help in advancing concrete knowledge by conducting seminars, managing certification programs, and publishing technical documents.
  
 
 * American Gear Manufacturers Association (AGMA)<br>
-http://www.agma.org/
+[http://www.agma.org/](http://www.agma.org/)
 
 United States: Formed in 1916 as an association to help set national gearing standards, including the development of ISO gearing standards till today.
  
 
 * American Institute of Aeronautics and Astronautics (AIAA)<br>
-http://www.aiaa.org/
+[http://www.aiaa.org/](http://www.aiaa.org/)
 
 United States: Formed in 1982 as a professional society dedicated to the advancement of engineering and science in aviation, space, and defence.
  
 
 * American Institute of Steel Construction (AISC)<br>
-http://www.aisc.org/
+[http://www.aisc.org/](http://www.aisc.org/)
 
 United States: Formed in 1921 to serve the structural steel design community and construction industry in the United States.
  
 
 * American Iron & Steel Institute (AISI)<br>
-http://www.steel.org/
+[http://www.steel.org/](http://www.steel.org/)
 
 United States: Formed in 1855 as the American Iron Association. It supports American steel industries committed to manufacturing products that meet society’s needs.
  
 
 * American Petroleum Institute (API)<br>
-http://www.api.org
+[http://www.api.org](http://www.api.org)
 
 United States: Formed in 1919 as the only national trade association that represents all aspects of America’s oil and natural gas industry. Currently, it maintains over 500 standards and recommended practices covering all segments of the oil and gas industry.
  
 
 * American Society for Quality (ASQ)<br>
-http://www.asq.org
+[http://www.asq.org](http://www.asq.org)
 
 United States: Formed in 1946 as a global experts community and the leading authority on quality in all fields, organisations, and industries.
  
 
 * American Society of Heating, Refrigerating and Air-Conditioning Engineers (ASHRAE)<br>
-http://www.ashrae.org/
+[http://www.ashrae.org/](http://www.ashrae.org/)
 
 United States: Formed in 1894 as an international organisation devoted to the progress of heating, ventilation, air-conditioning and refrigeration.
  
 
 * American Society of Mechanical Engineers (ASME)<br>
-http://www.asme.org/
+[http://www.asme.org/](http://www.asme.org/)
 
 United States: Formed in 1880 as a professional organisation that promotes the crucial role of the engineer in society.
  
 
 * American Water Works Association (AWWA)<br>
-http://www.awwa.org
+[http://www.awwa.org](http://www.awwa.org)
 
 United States: Formed in 1881 as the authoritative resource on safe water.
  
 
 * American Welding Society (AWS)<br>
-http://www.aws.org
+[http://www.aws.org](http://www.aws.org)
 
 United States: Formed in 1919 as a non-profit organisation in advancing the science, technology and application of welding and related joining disciplines.
  
 
 * ASTM International<br>
-http://www.astm.org
+[http://www.astm.org](http://www.astm.org)
 
 United States: Formed in 1898, originally known as the American Society for Testing and Materials (ASTM). This non- profit organisation publishes standards and test procedures as technical guidelines for product safety, reliability and uniformity.
  
 
 * Institute of Electrical & Electronics Engineers (IEEE)<br>
-http://www.ieee.org
+[http://www.ieee.org](http://www.ieee.org)
 
 United States: Formed in 1963 as a professional association that is dedicated to advancing technological innovation and excellence for the benefit of humanity.
  
 
 * Institute of Transportation Engineers (ITE)<br>
-http://www.ite.org
+[http://www.ite.org](http://www.ite.org)
 
 United States: Formed in 1930 as an international educational and scientific association of transportation professionals who are responsible for meeting mobility and safety needs.
  
 
 * NACE International<br>
-http://www.nace.org/
+[http://www.nace.org/](http://www.nace.org/)
 
 United States: Formed in 1943, originally known as the National Association of Corrosion Engineers. It is the leader in the corrosion engineering and science community, and is the premier authority for corrosion control and prevention.
  
 
 * National Fire Protection Association (NFPA)<br>
-http://www.nfpa.org
+[http://www.nfpa.org](http://www.nfpa.org)
 
 United States: Formed in 1896 as a non- profit organisation that provides codes and standards to reduce the worldwide burden of fire and other hazards.
  
 
 * Society for Experimental Mechanics (SEM)<br>
-http://www.sem.org/
+[http://www.sem.org/](http://www.sem.org/)
 
 United States: Formed in 1943 as a professional society involved in the validation of new designs and materials.
  
 
 * Society of Automotive Engineers (SAE)<br>
-http://www.sae.org/
+[http://www.sae.org/](http://www.sae.org/)
 
 United States: Formed in 1905 as a one-stop portal providing resources on standards development, technical information and expertise in designing, building, maintaining, and operating of vehicles for use on land, sea, air or space.
  
 
 * Society of Manufacturing Engineers (SME)<br>
-http://www.sme.org/
+[http://www.sme.org/](http://www.sme.org/)
 
 United States: Formed in 1932 as a professional society in advancing manufacturing knowledge.
  
 
 * Standardisation Administration of the People’s Republic of China (SAC)<br>
-http://www.sac.gov.cn/sacen/
+[http://www.sac.gov.cn/sacen/](http://www.sac.gov.cn/sacen/)
 
 China: Formed in 2001 as authorised by the State Council to exercise administrative responsibilities by undertaking unified management, supervision and overall coordination of standardisation works in China.
  
 
 * Standards Australia (SAA)<br>
-http://www.standards.org.au/
+[http://www.standards.org.au/](http://www.standards.org.au/)
 
 Australia: It is the nation’s peak non-government Standards organisation, which is responsible for meeting Australia’s need for contemporary, internationally aligned Standards and related services.
  
 
 * Technical Association of the Pulp and Paper Industry (TAPPI)<br>
-http://www.tappi.org/
+[http://www.tappi.org/](http://www.tappi.org/)
 
 United States: Formed in 1915 as a professional association serving the pulp, paper, converting and packaging industries.
  
 
 * Underwriters Laboratories Inc. (UL)<br>
-http://www.ul.com
+[http://www.ul.com](http://www.ul.com)
 
 United States: Formed in 1894 as a non- profit organisation that helps to perform product safety tests and certifications.
  
@@ -438,61 +438,61 @@ United States: Formed in 1894 as a non- profit organisation that helps to perfor
 <b><u>Regulatory Authorities in Singapore</u></b>
 
 * Agri-Food and Veterinary Authority of Singapore (AVA)<br>
-http://www.ava.gov.sg/
+[http://www.ava.gov.sg/](http://www.ava.gov.sg/)
 
 Ensures a resilient supply of safe food; safeguards the health and welfare of animals and plants and facilitates agri-trade for Singapore.
  
 
 * Building & Construction Authority (BCA)<br>
-http://www.bca.gov.sg/
+[http://www.bca.gov.sg/](http://www.bca.gov.sg/)
 
 Champions the development of an excellent “built environment” (buildings, structures and infrastructure in our surroundings that provide the setting for the community’s activities) for Singapore.
  
 
 * Energy Market Authority (EMA)<br>
-http://www.ema.gov.sg/
+[http://www.ema.gov.sg/](http://www.ema.gov.sg/)
 
 Promotes effective competition in the energy market, ensures a reliable and secure energy supply, and develops a dynamic energy sector in Singapore.
  
 
 * Land Transport Authority (LTA)<br>
-http://www.lta.gov.sg/
+[http://www.lta.gov.sg/](http://www.lta.gov.sg/)
 
 Plans, operates, and maintains long-term land transport infrastructure and systems of Singapore.
  
 
 * National Environment Agency (NEA)<br>
-http://www.nea.gov.sg/
+[http://www.nea.gov.sg/](http://www.nea.gov.sg/)
 
 Ensures sustainable development and a quality living environment for Singapore’s present and future generations.
  
 
 * National Parks Board (NParks)<br>
-http://www.nparks.gov.sg/
+[http://www.nparks.gov.sg/](http://www.nparks.gov.sg/)
 
 Conserves, creates, sustains and enhances the green infrastructure of Singapore.
  
 
 * Professional Engineers Board (PEB)<br>
-http://www.peb.gov.sg
+[http://www.peb.gov.sg](http://www.peb.gov.sg)
 
 Regulates and advances the practice of professional engineering.
  
 
 * Public Utilities Board (PUB)<br>
-http://www.pub.gov.sg
+[http://www.pub.gov.sg](http://www.pub.gov.sg)
 
 Responsible for collection, production, distribution and reclamation of water in Singapore.
  
 
 * Singapore Civil Defence Force (SCDF)<br>
-http://www.scdf.gov.sg/
+[http://www.scdf.gov.sg/](http://www.scdf.gov.sg/)
 
 Provides fire-fighting, rescue and emergency ambulance services; mitigates hazardous materials incidents, and formulates, implements and enforces regulations on fire safety and civil defence shelter matters.
  
 
 * Urban Redevelopment Authority (URA)<br>
-http://www.ura.gov.sg
+[http://www.ura.gov.sg](http://www.ura.gov.sg)
 
 Plans and facilitates the physical development of Singapore, to create a vibrant, sustainable and cosmopolitan city of distinction.
  

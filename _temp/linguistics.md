@@ -119,37 +119,37 @@ The author explains the relationship between meaning and culture of the English 
  
 
 * Barker, C. & Lasersohn, P. (2016). semanticsarchive.net. Retrieved February 18, 2016, from the semanticsarchive.net website:
-http://semanticsarchive.net/
+[http://semanticsarchive.net/](http://semanticsarchive.net/)
 
 This is an extensive online archive of published papers on natural language semantics, submitted by authors from institutions all over the world.
  
 
 * Department of Linguistics, Indiana University. (2014). The LINGUIST List: International Linguistics Community Online. Retrieved February 17, 2016, from the LINGUIST List website:
-https://linguistlist.org/
+[https://linguistlist.org/](https://linguistlist.org/)
 
 This website, operated at Indiana University, provides a forum for academic linguists to discuss linguistic issues and exchange linguistic information, and has an extensive list of articles and links for students and researchers.
  
 
 * Department of Linguistics, Max Planck Institute for Evolutionary Anthropology. (2015). Typological Tools for Field Linguistics. Retrieved February 19, 2016, from the Max Planck Institute for Evolutionary Anthropology website:
-http://www.eva.mpg.de/lingua/tools-at-lingboard/tools.php
+[http://www.eva.mpg.de/lingua/tools-at-lingboard/tools.php](http://www.eva.mpg.de/lingua/tools-at-lingboard/tools.php)
 
 This website contains an extensive list of questionnaires and other elicitation tools for field linguists working on describing new languages. The tools also provide systematic insight  into how linguists go about describing languages.
  
 
 * Jones, T. (2016). iLoveLanguages – Your Guide to Languages on the Web iLoveLanguages. Retrieved February 17, 2016, from iLoveLanguages website:
-http://www.ilovelanguages.com
+[http://www.ilovelanguages.com](http://www.ilovelanguages.com)
 
 This is a directory of links to language and linguistics-related websites, containing everything from language learning resources to language identification tools and the websites of linguistics associations.
  
 
 * Lewis, M. P., Simons, G. F. & Fennig, C. D. (Eds.). (2015). Ethnologue: Languages of the World, Eighteenth edition. Dallas, Texas: SIL International. Retrieved February 18, 2016, from the Ethnologue website:
-http://www.ethnologue.com
+[http://www.ethnologue.com](http://www.ethnologue.com)
 
 This website is a catalogue of the world’s known living languages. It displays information on the number of languages and the number of its speakers in a region, or even in a single country. It also contains helpful explanations of the concepts of language development and endangerment.
  
 
 * Speech, Hearing & Phonetic Sciences, University College London. (2015). Educational Resources in Speech, Hearing and Phonetic Sciences. Retrieved February 18, 2016, from the University College London website:
-http://www.phon.ucl.ac.uk/resource/educational.php
+[http://www.phon.ucl.ac.uk/resource/educational.php](http://www.phon.ucl.ac.uk/resource/educational.php)
 
 The University College of London’s site contains online tutorials for education in phonetics and speech communication, covering topics such as voicing, plosives, intonation, loudness, pitch, and even logarithms related to speech and hearing.
  
@@ -160,41 +160,41 @@ To share and disseminate the knowledge they have derived or unearthed, researche
 
  
 
-* Asian Economic and Social Society. (2016). International Journal of English Language and Literature Studies. Retrieved February 19, 2016, from the Asian Economic and Social Society Elsevier website: http://www.aessweb.com/journals/5019
+* Asian Economic and Social Society. (2016). International Journal of English Language and Literature Studies. Retrieved February 19, 2016, from the Asian Economic and Social Society Elsevier website: [http://www.aessweb.com/journals/5019](http://www.aessweb.com/journals/5019)
 
 This journal is published quarterly, both online and in print, by the Asian Economic and Social Society. Its scope covers “English linguistics, literatures written in the English language, and English sociolinguistics”.
  
 
 * De Gruyter Online. (2016). Open Linguistics. Retrieved February 19, 2016, from the De Gruyter Online website:
-http://www.degruyter.com/view/j/opli
+[http://www.degruyter.com/view/j/opli](http://www.degruyter.com/view/j/opli)
 
 Open Linguistics is a new, annually published academic peer-reviewed journal covering a broad spectrum of topics, including descriptive linguistics, theoretical linguistics, and applied linguistics from both diachronic and synchronic perspectives.
  
 
 * Directory of Open Access Journals. (2016). Browse Subjects. Retrieved February 19, 2016, from the DOAJ website:
-https://doaj.org/subjects
+[https://doaj.org/subjects](https://doaj.org/subjects)
 
 DOAJ provides online access to titles of scholarly and academic journals on a wide variety of subjects, ranging from arts and humanities to science and technology. On selecting the “Language and Literature” link at this page, the site will conduct a search to list the journals and articles on the subject. It covers over 300 journals focusing on linguistics. Some examples of these journals published in English include Biolinguistics, Language Documentation and Conservation, and Oslo Studies in Language (OSLa).
  
 
-* Elsevier. (2015). Ampersand: An International Journal of General and Applied Linguistics. Retrieved February 19, 2016, from the Elsevier website: http://www.journals.elsevier.com/ampersand/
+* Elsevier. (2015). Ampersand: An International Journal of General and Applied Linguistics. Retrieved February 19, 2016, from the Elsevier website: [http://www.journals.elsevier.com/ampersand/](http://www.journals.elsevier.com/ampersand/)
 
 Ampersand is an international peer-reviewed journal from Elsevier Science. Its publishing focus lies in applied and historical linguistics, phonetics, phonology, pragmatics, semantics, sociolinguistics and syntax.
  
 
 * The Linguistics Journal. (2016). The Linguistics Journal | TESOL Linguistics. Retrieved February 19, 2016, from the Linguistics Journal website:
-http://www.linguistics-journal.com/
+[http://www.linguistics-journal.com/](http://www.linguistics-journal.com/)
 
 The Linguistics Journal is a refereed online publication that provides access to resources for researching, teaching and learning linguistics. The journal covers phonetics and phonology, semantics, morphology, syntax, semiotics, discourse analysis, pragmatics, language acquisition, psycholinguistics, sociolinguistics, computational and corpus linguistics and more.
  
 
 * Tinnefeld, T. (Ed.). (2016). Journal of Linguistics and Language Teaching. Retrieved February 19, 2016, from the Journal of Linguistics and Language Teaching website:
-https://sites.google.com/site/linguisticsandlanguageteaching/
+[https://sites.google.com/site/linguisticsandlanguageteaching/](https://sites.google.com/site/linguisticsandlanguageteaching/)
 
 This journal is a refereed academic resource that publishes scientific findings in the fields of linguistics and language teaching, which is a wide scope of topics that includes the major linguistic fields, as well as grammaticography, lexicography, intercultural communication, and the methodology of the four basic language skills (speaking, writing, listening, reading).
  
 
-* Universiti Kebangsaan Malaysia. (2015). 3L: Language, Linguistics, Literature: The South East Asian Journal of English Language Studies. Retrieved February 19, 2016, from the UKM e-Journal System website: http://ejournals.ukm.my/3l/index
+* Universiti Kebangsaan Malaysia. (2015). 3L: Language, Linguistics, Literature: The South East Asian Journal of English Language Studies. Retrieved February 19, 2016, from the UKM e-Journal System website: [http://ejournals.ukm.my/3l/index](http://ejournals.ukm.my/3l/index)
 
 Published by The National University of Malaysia Press, 3L is a peer-reviewed international journal which explores issues in the broad areas of English language, linguistics and literature, particularly in the Southeast Asian context.
 

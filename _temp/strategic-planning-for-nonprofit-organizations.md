@@ -126,23 +126,23 @@ http://www.huffingtonpost.com/eugene-fram/strategic-planning-nonprofit-board-orp
 According to a 2015 survey, 35 percent of over 800 nonprofit boards scored poorly in the area of strategic development, as indicated by the absence of long-range policy plans. This article discusses the challenges faced by nonprofit boards, suggests various ways to tackle them and places the onus on the organisation’s chief executive and chairperson to make strategic planning a priority item on the board’s agendas.
  
 
-* National Council of Nonprofits. (2017). Strategic planning for nonprofits. Retrieved May 3, 2017, from National Council of Nonprofits website: https://www.councilofnonprofits.org/tools-resources/strategic-planning-nonprofits
+* National Council of Nonprofits. (2017). Strategic planning for nonprofits. Retrieved May 3, 2017, from National Council of Nonprofits website: [https://www.councilofnonprofits.org/tools-resources/strategic-planning-nonprofits](https://www.councilofnonprofits.org/tools-resources/strategic-planning-nonprofits)
 
 This website provides a quick overview on strategic planning for nonprofits with links to useful resources on the basics of strategic planning, including an example of a strategic plan from the Minnesota Council of Nonprofits.
  
 
 * NYC Service. (2016, April). NYC Good governance blueprint: Best practices, resources, and tools for nonprofit executive directors and board members. Retrieved May 3, 2017, from NYC Nonprofits website:
-http://www1.nyc.gov/assets/nonprofits/downloads/pdf/nyc_good_governance_blueprint.pdf
+[http://www1.nyc.gov/assets/nonprofits/downloads/pdf/nyc_good_governance_blueprint.pdf](http://www1.nyc.gov/assets/nonprofits/downloads/pdf/nyc_good_governance_blueprint.pdf)
 
 Section II of the report focuses on “Strategic planning and management” (pp. 11-25) and details the board’s role in strategic planning as well as the core elements of the planning process and covers performance management, results tracking and management of the organisation life cycle. Also included is a strategic plan jumpstart checklist and an internal assessment guide.
  
 
-* Stern, G. J. (2013). Shaping the future: The board member’s role in nonprofit strategic planning. Retrieved May 3, 2017, from First Nonprofit Foundation website: http://www.firstnonprofit.org/wp-content/uploads/2014/04/Shaping_the_Future.pdf
+* Stern, G. J. (2013). Shaping the future: The board member’s role in nonprofit strategic planning. Retrieved May 3, 2017, from First Nonprofit Foundation website: [http://www.firstnonprofit.org/wp-content/uploads/2014/04/Shaping_the_Future.pdf](http://www.firstnonprofit.org/wp-content/uploads/2014/04/Shaping_the_Future.pdf)
 
 This booklet highlights 10 key areas pertaining to the role of the board in nonprofit strategic planning, such as the need to clarify the specific roles and expectations of board members, being flexible to expect the unexpected and stepping up to accept the challenge of making difficult decisions.
  
 
-* The National Council for Voluntary Organisations (NCVO). Strategy case studies. (2017, April 7). Retrieved May 4, 2017, from NCVO Knowhow Nonprofit website: https://knowhownonprofit.org/organisation/strategy/strategy-case-studies
+* The National Council for Voluntary Organisations (NCVO). Strategy case studies. (2017, April 7). Retrieved May 4, 2017, from NCVO Knowhow Nonprofit website: [https://knowhownonprofit.org/organisation/strategy/strategy-case-studies](https://knowhownonprofit.org/organisation/strategy/strategy-case-studies)
 
 This website provides links to case studies of strategic planning by four nonprofit organisations in the UK — The National Council for Voluntary Organisations, King’s College London Students’ Union, Leeds University Union and Macmillan Cancer Support. The case studies highlight the process and challenges faced in creating and implementing the strategic planning framework.
 

@@ -32,7 +32,8 @@ These are some selected materials on the topic of resources for education and ca
 
 (listed in alphabetical order)
 
-<b><u>101+ careers in public health</u><b> <br>
+<b><u>101+ careers in public health</u><b>
+
 by Beth Seltzer
 
 Call No.: R 362.1023 SEL

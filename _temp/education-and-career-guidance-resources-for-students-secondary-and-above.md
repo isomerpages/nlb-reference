@@ -64,7 +64,7 @@ All rights reserved, Hoboken, NJ : John Wiley & Sons, Inc., 2017.
 
 This title is also available as an ebook on [Overdrive](https://nlb.overdrive.com/media/2970325). myLibrary ID is required to access this ebook.
 
-* <a href="https://web.archive.org/web/20200815110500/http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201317736"><b>How to write a thesis</b></a>
+* <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201317736"><b>How to write a thesis</b></a>
 
 by Umberto Eco
 

@@ -210,34 +210,34 @@ Available at all libraries and from home.
 
 **Electronic Journals/Website**
 
-* Home. (2016). Retrieved October 28, 2016 from the Alternate Music Press website: http://alternatemusicpress.com/
+* Home. (2016). Retrieved October 28, 2016 from the Alternate Music Press website: [http://alternatemusicpress.com/](http://alternatemusicpress.com/)
 
 The Multimedia Journal of New Music is an online archive for the print version of Alternate Music Press.
  
 
-* About. (n.d.). Retrieved October 28, 2016 from the ECHO website: http://www.echo.ucla.edu/about/
+* About. (n.d.). Retrieved October 28, 2016 from the ECHO website: [http://www.echo.ucla.edu/about/](http://www.echo.ucla.edu/about/)
 
 ECHO: : a Music-Centered Journal is an online journal created and edited by graduate students in the Department of Musicology at the University of California, Los Angeles.
  
 
-* Home. (2016). Retrieved October 28, 2016 from the Gramophone website: http://www.gramophone.co.uk
+* Home. (2016). Retrieved October 28, 2016 from the Gramophone website: [http://www.gramophone.co.uk](http://www.gramophone.co.uk)
 
 Gramophone Online is part of the print journal Gramophone magazine. Contents include daily international classical news and services, features on musicians, etc.
  
 
 **Other Websites**
 
-* Music History 102: a Guide to Western Composers and their music. (2012). Retrieved October 28, 2016 from the IPL website: http://www.ipl.org/div/mushist/
+* Music History 102: a Guide to Western Composers and their music. (2012). Retrieved October 28, 2016 from the IPL website: [http://www.ipl.org/div/mushist/](http://www.ipl.org/div/mushist/)
 
 A guide to Western composers and their music, from the Middle Ages to the present.
  
 
-* Home. (2012). Retrieved October 28, 2016 from the Society for Music Theory website: http://www.societymusictheory.org/
+* Home. (2012). Retrieved October 28, 2016 from the Society for Music Theory website: [http://www.societymusictheory.org/](http://www.societymusictheory.org/)
 
 This is a society to promote music theory as both a scholarly and a pedagogical discipline.
  
 
-* About IASPM-US. (n.d.). Retrieved October 28, 2016 from the International Association for the Study of Popular Music – US Branch website: http://iaspm-us.net/about-iaspm-us/
+* About IASPM-US. (n.d.). Retrieved October 28, 2016 from the International Association for the Study of Popular Music – US Branch website: [http://iaspm-us.net/about-iaspm-us/](http://iaspm-us.net/about-iaspm-us/)
 
 This is an international organization established to promote inquiry, scholarship and analysis in the area of popular music.
  
@@ -317,32 +317,32 @@ NORA is a database showcasing over 6,000 digitised works in the literary, perfor
 
 **Websites**
 
-* About. (2008). Retrieved October 28, 2016 from the COMPASS website: http://www.compass.org.sg
+* About. (2008). Retrieved October 28, 2016 from the COMPASS website: [http://www.compass.org.sg](http://www.compass.org.sg)
 
 The Composers and Authors Society of Singapore (COMPASS) deals specifically with music copyright and the usage of musical works. This website provides information on how to seek protection and promote the copyright interests of composers, authors and publishers of musical works and their related lyrics.
  
 
-* Home. (2010). Retrieved October 28, 2016 from the Music Publishers (Singapore) website: http://www.mps.org.sg/
+* Home. (2010). Retrieved October 28, 2016 from the Music Publishers (Singapore) website: [http://www.mps.org.sg/](http://www.mps.org.sg/)
 
 Music Publishers (Singapore) Ltd (MPS) acts as a representative of 12 music publishing companies in Singapore. Information on copyrights and the music publishing companies can be found on this website.
  
 
-* About RIAS. (.n.d.) Retrieved October 28, 2016 from the Recording Industry Association (Singapore) website: http://www.rias.org.sg/
+* About RIAS. (.n.d.) Retrieved October 28, 2016 from the Recording Industry Association (Singapore) website: [http://www.rias.org.sg/](http://www.rias.org.sg/)
 
 Provides information on copyright and piracy in order to support the recording industry in Singapore.
  
 
-* Home. (2009). Retrieved October 28, 2016 from the Recording Industry Performance Singapore website: http://www.rips.com.sg/
+* Home. (2009). Retrieved October 28, 2016 from the Recording Industry Performance Singapore website: [http://www.rips.com.sg/](http://www.rips.com.sg/)
 
 Provides information on how to apply for reproduction rights for sound recordings, and apply for MP3/MP4 licenses and licenses for the public performance of karaoke and/or music videos.
  
 
-* Our News. (.n.d.) Retrieved October 28, 2016 from the Yong Siew Toh Conservatory of Music website: http://music.nus.edu.sg/05_news_media.html
+* Our News. (.n.d.) Retrieved October 28, 2016 from the Yong Siew Toh Conservatory of Music website: [http://music.nus.edu.sg/05_news_media.html](http://music.nus.edu.sg/05_news_media.html)
 
 This website of the National University of Singapore’s Yong Siew Toh Conservatory of Music provides information about the local arts community, with special reference to musical groups and activities.
  
 
-About MRSS: The people and the organisation. (2018) Retrieved October 17, 2019 from the Music Rights (Singapore) Public Limited website: https://www.mrss.com.sg/
+About MRSS: The people and the organisation. (2018) Retrieved October 17, 2019 from the Music Rights (Singapore) Public Limited website: [https://www.mrss.com.sg/](https://www.mrss.com.sg/)
 
 As a Collective Management Organisation (CMO), MRSS represents the majority of music producers in Singapore and collects music and music video copyrights on their behalf.
 

@@ -116,27 +116,27 @@ The article offers tips in measuring the effectiveness of organisational boards.
 (listed in alphabetical order)
 
 * Australian Institute of Company Directors (AICD). (2016). Principle 6: Board Effectiveness.  Retrieved October 13, 2016, from AICD website:
-http://aicd.companydirectors.com.au/resources/not-for-profit-resources/good-governance-principles-and-guidance/good-governance-principles-and-guidance-for-nfp-organisations/principle-6-board-effectiveness
+[http://aicd.companydirectors.com.au/resources/not-for-profit-resources/good-governance-principles-and-guidance/good-governance-principles-and-guidance-for-nfp-organisations/principle-6-board-effectiveness](http://aicd.companydirectors.com.au/resources/not-for-profit-resources/good-governance-principles-and-guidance/good-governance-principles-and-guidance-for-nfp-organisations/principle-6-board-effectiveness)
 
 This website explains that board effectiveness may be greatly enhanced through careful forward planning of board-related activities; board meetings being run in an efficient manner; regular assessments of board performance; having a board succession plan and the effective use of sub-committees.
  
 
-* Chelliah, J., Boersma, M., & Klettner, A. (2016, March). Governance challenges for not-for-profit organisations: Empirical evidence in support of a contingency approach. Contemporary Management Research, 12(1), 3-24. Retrieved October 13, 2016, from Contemporary Management Research website: http://www.cmr-journal.org/article/download/14538/pdf_36
+* Chelliah, J., Boersma, M., & Klettner, A. (2016, March). Governance challenges for not-for-profit organisations: Empirical evidence in support of a contingency approach. Contemporary Management Research, 12(1), 3-24. Retrieved October 13, 2016, from Contemporary Management Research website: [http://www.cmr-journal.org/article/download/14538/pdf_36](http://www.cmr-journal.org/article/download/14538/pdf_36)
 
 This article presents empirical evidence of the governance challenges faced by Australian not-for-profit (NFP) organisations. The study reveals that the effectiveness of governance systems is influenced by internal and external contingencies that NFP organisations face, such as variations in board roles, stakeholder and membership demands, funding arrangements, board member recruitment processes, skills of board members, and resources for training and development.
  
 
-* Floyd, M, (2015). Organizational effectiveness frameworks in public health nonprofit systems: A case study. Retrieved October 13, 2016, from University of Kentucky, UKnowledge website: http://uknowledge.uky.edu/cgi/viewcontent.cgi?article=1067&context=cph_etds
+* Floyd, M, (2015). Organizational effectiveness frameworks in public health nonprofit systems: A case study. Retrieved October 13, 2016, from University of Kentucky, UKnowledge website: [http://uknowledge.uky.edu/cgi/viewcontent.cgi?article=1067&context=cph_etds](http://uknowledge.uky.edu/cgi/viewcontent.cgi?article=1067&context=cph_etds)
 
 This study identifies key organisational effectiveness frameworks that could be used to evaluate nonprofits and use them in practice. Therefore, individuals wishing to become involved with effective nonprofits will be empowered to make good investments of volunteer time and donations.
  
 
-* Maurer, L. L. (2016). Board member perceptions of small nonprofit organization effectiveness. Journal of Social, Behavioral, and Health Sciences, 10(1), 18-30. Retrieved October 13, 2016, from Walden University website: http://scholarworks.waldenu.edu/cgi/viewcontent.cgi?article=1202&context=jsbhs
+* Maurer, L. L. (2016). Board member perceptions of small nonprofit organization effectiveness. Journal of Social, Behavioral, and Health Sciences, 10(1), 18-30. Retrieved October 13, 2016, from Walden University website: [http://scholarworks.waldenu.edu/cgi/viewcontent.cgi?article=1202&context=jsbhs](http://scholarworks.waldenu.edu/cgi/viewcontent.cgi?article=1202&context=jsbhs)
 
 The study examines how board members of small local nonprofits in the focal community perceived nonprofit organisation effectiveness. A review of the literature revealed that nonprofit organisation effectiveness involved the action of contributing to the organisation and the motivation behind the action, both of which were associated with trust and reciprocity. Findings and conclusions, contributes to social change among small American nonprofit organisations by suggesting means to address the stresses that compromise the availability and quality of their programs.
  
 
-* National Council of Nonprofits. (2016). Dashboards for Nonprofits.  Retrieved October 13, 2016, from National Council of Nonprofits website: https://www.councilofnonprofits.org/tools-resources/dashboards-nonprofits
+* National Council of Nonprofits. (2016). Dashboards for Nonprofits.  Retrieved October 13, 2016, from National Council of Nonprofits website: [https://www.councilofnonprofits.org/tools-resources/dashboards-nonprofits](https://www.councilofnonprofits.org/tools-resources/dashboards-nonprofits)
 
 The website created by National Council of Nonprofits offers examples of dashboards, dashboard tools and resources about dashboards that are useful for measuring success in nonprofit organisations.
  

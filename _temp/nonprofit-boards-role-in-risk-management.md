@@ -107,32 +107,32 @@ This article provides an overview of the nonprofit financial environment and ide
 
  
 
-* Bilich, T. (2016, July 13). A call for nonprofit risk management. Retrieved February 14, 2017, from Stanford Social Innovation Review website: https://ssir.org/articles/entry/a_call_for_nonprofit_risk_management
+* Bilich, T. (2016, July 13). A call for nonprofit risk management. Retrieved February 14, 2017, from Stanford Social Innovation Review website: [https://ssir.org/articles/entry/a_call_for_nonprofit_risk_management](https://ssir.org/articles/entry/a_call_for_nonprofit_risk_management)
 
 The author advocates that nonprofits should use risk management principles to enhance sustainability and recommends a basic approach covering when to start and the steps to make risk management a standard operating procedure.
  
 
-* Davidson, C. (2014, June). Community Literacy of Ontario’s Board Governance Resource Guide. Retrieved February 14, 2017, from Community Literacy of Ontario website: http://www.communityliteracyofontario.ca/wp/wp-content/uploads/2014/07/Board-Governance-Manual-June-2014.pdf
+* Davidson, C. (2014, June). Community Literacy of Ontario’s Board Governance Resource Guide. Retrieved February 14, 2017, from Community Literacy of Ontario website: [http://www.communityliteracyofontario.ca/wp/wp-content/uploads/2014/07/Board-Governance-Manual-June-2014.pdf](http://www.communityliteracyofontario.ca/wp/wp-content/uploads/2014/07/Board-Governance-Manual-June-2014.pdf)
 
 This resource guide offers an overview of the effective board governance practices for nonprofit organisations, covering areas such as board roles and responsibilities, governance structures and board development. Chapter seven (pp. 27–34) discusses the roles and responsibilities of the board in relation to risk management, such as indemnification, insurance and financial and human resource management. A risk assessment checklist is also included.
  
 
-* Matan, R. & Hartnett, B. (2011, Summer). How nonprofit organisations manage risk. Retrieved February 14, 2017, from Sobel & Co. website: http://www.sobel-cpa.com/sites/default/files/Summer%202011%20nfp%20white%20papers.pdf
+* Matan, R. & Hartnett, B. (2011, Summer). How nonprofit organisations manage risk. Retrieved February 14, 2017, from Sobel & Co. website: [http://www.sobel-cpa.com/sites/default/files/Summer%202011%20nfp%20white%20papers.pdf](http://www.sobel-cpa.com/sites/default/files/Summer%202011%20nfp%20white%20papers.pdf)
 
 This white paper examines the type of risks faced by nonprofit organisations and suggests ways to effectively manage the risks against potential benefits.
  
 
-* Roberts, D. et al. (2016, March). Risk management for nonprofits. Retrieved February 14, 2017, from Oliver Wyman website: http://www.oliverwyman.com/content/dam/oliver-wyman/global/en/2016/mar/SeaChange-Oliver-Wyman-Risk-Report.pdf
+* Roberts, D. et al. (2016, March). Risk management for nonprofits. Retrieved February 14, 2017, from Oliver Wyman website: [http://www.oliverwyman.com/content/dam/oliver-wyman/global/en/2016/mar/SeaChange-Oliver-Wyman-Risk-Report.pdf](http://www.oliverwyman.com/content/dam/oliver-wyman/global/en/2016/mar/SeaChange-Oliver-Wyman-Risk-Report.pdf)
 
 This report lays out recommendations for nonprofits to adapt private sector risk management practices to better defend their organisations against risks and financial uncertainties.
  
 
-* Spencer, K. & Hyman, V. (2012, September). Risk management: Your role as a board member. Retrieved February 14, 2017, from First Nonprofit Foundation website: http://www.firstnonprofit.org/wp-content/uploads/2014/04/Your-Role-as-a-Board-Member.pdf
+* Spencer, K. & Hyman, V. (2012, September). Risk management: Your role as a board member. Retrieved February 14, 2017, from First Nonprofit Foundation website: [http://www.firstnonprofit.org/wp-content/uploads/2014/04/Your-Role-as-a-Board-Member.pdf](http://www.firstnonprofit.org/wp-content/uploads/2014/04/Your-Role-as-a-Board-Member.pdf)
 
 This briefing paper offers risk management strategies to guide new and seasoned members of non-profit boards to make informed decisions to balance risks against rewards to help nonprofits achieve their mission and to grow and succeed.
  
 
-* Young, D. (2009). How nonprofit organisations manage risk. In Destefanis, S. & Musella, M. (Eds.). Paid and unpaid labour in the social economy. AIEL Series in Labour Economics. Retrieved February 14, 2017, from Springer website: http://www.springer.com/cda/content/document/cda_downloaddocument/9783790821369-c1.pdf?SGWID=0-0-45-722705-p173876675
+* Young, D. (2009). How nonprofit organisations manage risk. In Destefanis, S. & Musella, M. (Eds.). Paid and unpaid labour in the social economy. AIEL Series in Labour Economics. Retrieved February 14, 2017, from Springer website: [http://www.springer.com/cda/content/document/cda_downloaddocument/9783790821369-c1.pdf?SGWID=0-0-45-722705-p173876675](http://www.springer.com/cda/content/document/cda_downloaddocument/9783790821369-c1.pdf?SGWID=0-0-45-722705-p173876675)
 
 This article offers a framework that can help nonprofit organisations to be more effective and strategic in their risk management decisions.
 

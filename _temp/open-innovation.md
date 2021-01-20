@@ -34,7 +34,7 @@ This is a selection of resources on open innovation available from the [NLB cata
 
  
 
-* Chesbrough, H., Vanhaverbeke, W. & West, J. (Eds.). (2014). [New frontiers in open innovation](https://eresources.nlb.gov.sg/webarchives/wayback/20190716173756/http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202651482). Oxford: Oxford University Press.
+* Chesbrough, H., Vanhaverbeke, W. & West, J. (Eds.). (2014). [New frontiers in open innovation](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202651482). Oxford: Oxford University Press.
 
 Call no.: RBUS 658.514 NEW
 
@@ -48,14 +48,14 @@ Call no.: R 005.3 OPE
 In Open Source Innovation, the editors present open innovation from three aspects: the phenomenon, participants’ behaviour and the business impacts and implications. It looks at open innovation from the micro perspective of individuals and the community to the macro perspective of companies and economies.
  
 
-* Huff, A. S., Möslein, K. M. & Reichwald, R. (Eds.). (2013). [Leading open innovation](https://eresources.nlb.gov.sg/webarchives/wayback/20190716173803/http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200132990). Cambridge: MIT Press.
+* Huff, A. S., Möslein, K. M. & Reichwald, R. (Eds.). (2013). [Leading open innovation](20190716173803/http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200132990). Cambridge: MIT Press.
 
 Call no.: RBUS 658.4063 LEA
 
 Leading Open Innovation describes how open innovation can be carried out in a company. Besides looking at open innovation through case studies of international firms such as Siemens, Facebook and Netflix, it also explains the process involved in its implementation and examines some of the trends in open innovation.
  
 
-* Mention, A. & Salampasis, D. (Eds.). (2017). [Open innovation: Unveiling the power of the human element](https://eresources.nlb.gov.sg/webarchives/wayback/20190716173808/http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202902403). Singapore: World Scientific Publishing Co. Pte. Ltd.
+* Mention, A. & Salampasis, D. (Eds.). (2017). [Open innovation: Unveiling the power of the human element](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202902403). Singapore: World Scientific Publishing Co. Pte. Ltd.
 
 Call no.: RBUS 658.4063 OPE
 

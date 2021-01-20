@@ -24,7 +24,7 @@ The 20 titles in this resource guide are listed alphabetically and cover various
 (listed in alphabetical order)
 
  
-[book icon](/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png) 
+![book icon](/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png) 
 
 <b>Adolescent substance abuse: An empirical based group preventive health paradigm</b>
 
@@ -34,7 +34,7 @@ This title is unavailable at NLB.
 
 Multiple forces can push teens towards drugs and alcohol. This title explores and proposes means to change broad societal norms and values regarding substance abuse. It also presents a unique teaching method – Teams-Games-Tournaments – to provide positive peer influence and support. A useful resource with innovative ideas for both beginners and expert practitioners working with teens.
 
-[book icon](/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png) 
+![book icon](/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png) 
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12675694"><b>Balancing juvenile justice</b></a>
 
@@ -46,7 +46,7 @@ How do we strike a balance between holding youths responsible for past behaviour
 
 All rights reserved, New Brunswick, N.J.: Transaction Publishers, 2004.
 
-[book icon](/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png) 
+![book icon](/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png) 
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12639301"><b>Becoming delinquent: young offenders and the correctional process</b></a>
 
@@ -58,7 +58,7 @@ This collection of essays follows the young delinquent offenders from the point 
 
 All rights reserved, New Brunswick, N.J.: Aldine Transaction, 2005.
 
-[book icon](/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png) 
+![book icon](/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png) 
 
 <b>Helping your depressed teenager: A guide for parents and caregivers</b>
 
@@ -68,7 +68,7 @@ This title is unavailable at NLB.
 
 Adolescence is full of peaks and troughs, and some teens may not be able to cope. This comprehensive book helps parents to understand the hidden struggles of teens and their multifaceted problems through loving support to make it through this difficult life passage of their children’s lives.
 
-[book icon](/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png) 
+![book icon](/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png) 
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201372113"><b>Living with self-harm behaviours</b></a>
 
@@ -82,7 +82,7 @@ All rights reserved, Singapore: Marshall Cavendish, 2015.
 
 This title is also available as an ebook on [Overdrive](https://nlb.overdrive.com/media/2472116). myLibrary ID is required to access this ebook.
 
-[book icon](/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png) 
+![book icon](/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png) 
 
 <b>Mental health screening and assessment in juvenile justice</b>
 
@@ -92,7 +92,7 @@ Juveniles in detention centres face mental health issues, either as a cause for 
 
 This title is available as an ebook on Proquest Ebook Central. myLibrary ID is required to access this ebook from the [NLB eResources website](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P).
 
-[book icon](/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png) 
+![book icon](/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png) 
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13349272"><b>Middle school confidential: Real friends vs. the other kind</b></a>
 
@@ -104,7 +104,7 @@ Written for young adults using stories and comic-strips, this book illustrates s
 
 All rights reserved, Minneapolis, MN: Free Spirit Publishing, 2009.
 
-[book icon](/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png) 
+![book icon](/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png) 
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12277698"><b>My brother is a drug addict</b></a>
 
@@ -116,7 +116,7 @@ Based on research viewing drug dependence as a chronic brain disorder, this book
 
 All rights reserved, Singapore: Hope Story, 2004.
 
-[book icon](/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png) 
+![book icon](/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png) 
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13734440"><b>Nurturing pillars of society: Understanding and working with the young generation in Hong Kong</b></a>
 
@@ -130,7 +130,7 @@ All rights reserved, Hong Kong: Hong Kong University Press, 2011.
 
 This title is also available as an ebook on Proquest Ebook Central. myLibrary ID is required to access this ebook from the [NLB eResources website](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P).
 
-[book icon](/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png) 
+![book icon](/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png) 
 
 <b>Persistent young offenders: An evaluation of two projects</b>
 
@@ -140,7 +140,7 @@ Two projects were implemented in Scotland to deal with persistent juvenile offen
 
 This title is available as an ebook on Proquest Ebook Central. myLibrary ID is required to access this ebook from the [NLB eResources website](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P).
 
-[book icon](/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png) 
+![book icon](/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png) 
 
 <b>Practical interventions for young people at risk</b>
 
@@ -150,7 +150,7 @@ This title is unavailable at NLB.
 
 With focus on interventions that practitioners can use in collaboration with young people who are facing various challenges, benefit from hands-on strategies to build resilience and address issues facing youths. Topics include depression, self-harm, mental health, bullying and gangs.
 
-[book icon](/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png) 
+![book icon](/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png) 
 
 <b>Preventing and reducing juvenile delinquency: A comprehensive framework</b>
 
@@ -160,7 +160,7 @@ This title is unavailable at NLB.
 
 This book provides the historical context of the juvenile justice system, and provides the latest research on promising and effective programs at the time. Key myths about juvenile violence and justice are discussed, and developmental theories applied to understand juvenile offender careers. The objective is to provide a comprehensive framework to understand and build programmes combatting juvenile delinquency.
 
-[book icon](/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png) 
+![book icon](/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png) 
 
 <b>Prevention and control of juvenile delinquency</b>
 
@@ -170,7 +170,7 @@ This title is unavailable at NLB.
 
 Covering the pre-delinquent and post-adjudication phases comprehensively, this book analyses neighbourhood and individual-level origins of juvenile delinquency and the various projects that have been applied to juvenile offenders. Offering rigorous and logical justifications of his recommendations, Lundman provocatively argues that we should do less, not more, to juveniles in trouble with the law.
 
-[book icon](/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png) 
+![book icon](/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png) 
 
 <b>Teen gambling: Understanding a growing epidemic</b>
 
@@ -180,7 +180,7 @@ Youth gambling represents a potentially serious public policy and health issue, 
 
 This title is available as an ebook on Proquest Ebook Central. myLibrary ID is required to access this ebook from the [NLB eResources website](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P).
 
-[book icon](/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png) 
+![book icon](/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png) 
 
 <a href="https://aifs.gov.au/sites/default/files/publication-documents/evalrep1.pdf"><b>Valuing young lives: Evaluation of the national youth suicide prevention strategy</b></a>
 
@@ -192,7 +192,7 @@ In response to the rising suicide rate among Australian youths in the 1980s-90s,
 
 Supplementary technical reports can also be accessed from the [Australian Government publication archives](https://aifs.gov.au/publications/valuing-young-lives).
 
-[book icon](/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png) 
+![book icon](/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png) 
 
 <b>Working with gangs and young people: A toolkit for resolving group conflict</b>
 
@@ -202,7 +202,7 @@ This manual, designed around experiential learning, guides facilitators on how t
 
 This title is available as an ebook on Proquest Ebook Central. myLibrary ID is required to access this ebook from the[NLB eResources website](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P).
 
-[book icon](/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png) 
+![book icon](/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png) 
 
 <b>Working with high-risk youth, a relationship-based practice framework</b>
 
@@ -212,7 +212,7 @@ This title is unavailable at NLB.
 
 This book serves as both an evaluation of the High-Risk Youth Initiative (HRYI), as well as looks at the value of implementing a relationship-based framework in the counselling and community work with youths-at-risk. Tackling the core problem of a lack of genuine, caring human connection, the HRYI was able to create lasting change with support from the affected youths.
 
-[book icon](/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png) 
+![book icon](/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png) 
 
 <b>Youth & crime</b>
 
@@ -222,7 +222,7 @@ This title is unavailable at NLB.
 
 Drawing insights from academic disciplines such as cultural, gender and media studies, this publication forms a comprehensive criminology of youth. An indispensable textbook for students of youth and crime, this resource is also of great use to lawyers and those in the justice system dealing with adolescents.
 
-[book icon](/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png) 
+![book icon](/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png) 
 
 <b>Youth justice and social work</b>
 
@@ -232,7 +232,7 @@ by Jane Pickford and Paul Dugmore
 
 It is vital for social work students and practitioners to comprehend the complex nature of the youth justice system. This second edition includes new legislation passed after 2008 with select cases and summarised research for readers to follow often difficult and intricate laws and other legal issues.
 
-[book icon](/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png) 
+![book icon](/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png) 
 
 <b>Youth on trial: A developmental perspective on juvenile justice and related areas</b>
 

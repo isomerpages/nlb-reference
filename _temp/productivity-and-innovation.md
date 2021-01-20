@@ -1,6 +1,6 @@
 ---
-title: Open Innovation
-permalink: /temp/open-innovation
+title: Productivity and Innovation
+permalink: /temp/productivity-and-innovation
 breadcrumb: Open Innovation
 collection_name: temp
 ---
@@ -229,7 +229,7 @@ Call no.: RBUS 658.4063 GAI
 This book takes a look at what innovation is, why it is essential, and how it can be implemented and managed to bring benefits to the organisations. It features a roadmap which can be used to identify and develop the capabilities which are needed for the effective management of innovation and case studies of how international companies have successfully developed innovative environments.
  
 
-* McLaughlin, G. C. & Kennedy, W. R. (2016). [Innovation project management handbook](https://eresources.nlb.gov.sg/webarchives/wayback/20190716173925/http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202847252). Florida: CRC Press.
+* McLaughlin, G. C. & Kennedy, W. R. (2016). [Innovation project management handbook](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202847252). Florida: CRC Press.
 
 Call no.: RBUS 658.404 MAC
 
@@ -243,7 +243,7 @@ Call no.: RBUS 338.926 TAY
 Why are some countries more successful in innovating compared to others? The Politics of Innovation explores whether the rate of innovation in a country is dependent on factors such as national policies and domestic institutions, arguing that the real driver of innovation behind the leaders of science and technology is actually politics.
  
 
-* Thaktor, A. V. (Ed.). (2013). [Innovation and growth: What do we know?](https://eresources.nlb.gov.sg/webarchives/wayback/20190716173933/http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200142044) Singapore: World Scientific.
+* Thaktor, A. V. (Ed.). (2013). [Innovation and growth: What do we know?](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200142044) Singapore: World Scientific.
 
 Call no.: RBUS 658.4012 INN
 

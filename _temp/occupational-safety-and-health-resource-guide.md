@@ -77,7 +77,7 @@ Call No.: R363.11 GOE
 This book is a useful guide to the basics of occupational health and safety. It looks at various OHS concepts including some OSH standards from governmental agencies, emerging trends in the field of OSH, and how safety professionals can play a part in OSH in the workplace.
  
 
-* Goetsch, D. L. (2015). [Occupational safety and health: for technologists, engineers and managers](https://eresources.nlb.gov.sg/webarchives/wayback/20190717013942/http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200911229). Boston: Pearson.
+* Goetsch, D. L. (2015). [Occupational safety and health: for technologists, engineers and managers](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200911229). Boston: Pearson.
 
 Call No.: RBUS 658.408 GOE
 
@@ -142,27 +142,27 @@ A useful guide for management personnel, this ebook outlines steps on how a safe
 
 <b><u>Websites</u></b>
 
-* Berthold, J. (2017, February 15). Supporting a culture of caring can reduce injuries and costs, improve performance. Retrieved March 27, 2017, from EHSToday website: http://ehstoday.com/safety-leadership/supporting-culture-caring-can-reduce-injuries-and-costs-improve-performance
+* Berthold, J. (2017, February 15). Supporting a culture of caring can reduce injuries and costs, improve performance. Retrieved March 27, 2017, from EHSToday website: [http://ehstoday.com/safety-leadership/supporting-culture-caring-can-reduce-injuries-and-costs-improve-performance](http://ehstoday.com/safety-leadership/supporting-culture-caring-can-reduce-injuries-and-costs-improve-performance)
 
 This article describes some ways in which companies have effectively implemented safety practices to reduce the number of injuries in the workplace, improve the morale among staff, and increase cost-savings and production for the organisations.
  
 
-* Braxton, C and Bowles, R. (2017, February 1). Hands-on Safety. Occupational Health & Safety, February 2017. Retrieved March 27, 2017, from Occupational Health & Safety Magazine website: https://ohsonline.com/articles/2017/02/01/hands-on-safety.aspx?admgarea=ht.HandProtection
+* Braxton, C and Bowles, R. (2017, February 1). Hands-on Safety. Occupational Health & Safety, February 2017. Retrieved March 27, 2017, from Occupational Health & Safety Magazine website: [https://ohsonline.com/articles/2017/02/01/hands-on-safety.aspx?admgarea=ht.HandProtection](https://ohsonline.com/articles/2017/02/01/hands-on-safety.aspx?admgarea=ht.HandProtection)
 
 This article, published in the Occupational Health & Safety digital magazine, looks at some measures which employees and employers can take to prevent injuries to the hands, which are the most common site of injury as people do most work with their hands. The website also provides access to other issues of the Occupational Health & Safety, which is free to register and download.
  
 
-* Green, J. (2017, March 27). How safety became all about negatives- and how to do it differently. Retrieved March 27, 2017, from Safety & Health Practitioner website: http://www.shponline.co.uk/how-safety-became-all-about-negatives-and-how-to-do-it-differently/
+* Green, J. (2017, March 27). How safety became all about negatives- and how to do it differently. Retrieved March 27, 2017, from Safety & Health Practitioner website: [http://www.shponline.co.uk/how-safety-became-all-about-negatives-and-how-to-do-it-differently/](http://www.shponline.co.uk/how-safety-became-all-about-negatives-and-how-to-do-it-differently/)
 
 This article examines how OSH has become a negative culture in companies, which has led to the setting of more rules, barriers and limitations, and thus unhappiness in the workplace. It also describes some measures which companies can adopt to avoid such negativity.
  
 
-* Kim, Y., Park, J. and Park, M. (2016). Creating a culture of prevention in occupational safety and health practice. Safety and Health at Work, 7(2), pp. 89–174. Retrieved March 27, 2017, from Safety and Health at Work website: http://www.e-shaw.net/article/S2093-7911(16)00009-3/fulltext
+* Kim, Y., Park, J. and Park, M. (2016). Creating a culture of prevention in occupational safety and health practice. Safety and Health at Work, 7(2), pp. 89–174. Retrieved March 27, 2017, from Safety and Health at Work website: [http://www.e-shaw.net/article/S2093-7911(16)00009-3/fulltext](http://www.e-shaw.net/article/S2093-7911(16)00009-3/fulltext)
 
 This article looks at the importance of a positive safety culture in the workplace, and how such a culture can complement safety management systems. It also proposes some ways to change existing safety cultures in organisations.
  
 
-* Office employees are like top athletes. (2017). Retrieved March 27, 2017, from Bakker Elkhuizen website: https://www.bakkerelkhuizen.co.uk/knowledge-center/infographic-office-employees-are-like-professional-athletes/
+* Office employees are like top athletes. (2017). Retrieved March 27, 2017, from Bakker Elkhuizen website: [https://www.bakkerelkhuizen.co.uk/knowledge-center/infographic-office-employees-are-like-professional-athletes/](https://www.bakkerelkhuizen.co.uk/knowledge-center/infographic-office-employees-are-like-professional-athletes/)
 
 This infographic lists some health and safety issues which workers may face in the workplace, such as work-related stress and fatigue, which might ultimately affect their performance and lead to accidents. It also provides some useful tips for workers to relax and recover from stress and pressure faced at work.
  
@@ -257,14 +257,14 @@ Call No.: R 660.2804 LEE
 This book is a useful guide to the identification of hazards in the workplace, including physical hazards like fires and toxic release, and human factors such as human error. Besides this, it also looks at how measures can be implemented to control or prevent such hazards at the workplace. This book is also available in the electronic format via the ProQuest Ebook Central database.
  
 
-* Pestonjee, D. M. and Pandey, S. \[ed\]. (2013). [Stress and work: Perspectives on understanding and managing stress](https://eresources.nlb.gov.sg/webarchives/wayback/20190717014024/http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200146629). California: Sage Publications.
+* Pestonjee, D. M. and Pandey, S. \[ed\]. (2013). [Stress and work: Perspectives on understanding and managing stress](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200146629). California: Sage Publications.
 
 Call No.: R 158.72 STR
 
 This book provides comprehensive research literature on stress from various angles and perspectives, including study results related to occupational stress and burnout. It also includes information on work-life balance and stress management.
  
 
-* Spellman, F. R. (2011). P[hysical hazard control: preventing injuries in the workplace](https://eresources.nlb.gov.sg/webarchives/wayback/20190717014028/http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14439931). Lanham: Government Institutes.
+* Spellman, F. R. (2011). [Physical hazard control: preventing injuries in the workplace](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14439931). Lanham: Government Institutes.
 
 Call No.: R 363.11 SPE
 
@@ -320,21 +320,21 @@ This ebook gives a comprehensive view of concepts of safety management, includin
 
 <b><u>Websites</u></b>
 
-Are you aware of these 6 types of workplace hazards? (2016, June 29). Retrieved March 27, 2017, from Safety Line website: https://safetylineloneworker.com/blog/workplace-hazards/
+Are you aware of these 6 types of workplace hazards? (2016, June 29). Retrieved March 27, 2017, from Safety Line website: [https://safetylineloneworker.com/blog/workplace-hazards/](https://safetylineloneworker.com/blog/workplace-hazards/)
 In the first part of a series of 5 articles on Workplace Hazards, this article outlines the 6 common types of hazards which workers may face in the workplace- safety, biological, physical, ergonomic, chemical and work organisation.
  
 
-* European Agency for Safety and Health at Work. E-guide to managing stress and psychosocial risks. Retrieved March 27, 2017, from European Agency for Safety and Health at Work website: https://osha.europa.eu/en/tools-and-publications/e-guide-managing-stress-and-psychosocial-risks 
+* European Agency for Safety and Health at Work. E-guide to managing stress and psychosocial risks. Retrieved March 27, 2017, from European Agency for Safety and Health at Work website: [https://osha.europa.eu/en/tools-and-publications/e-guide-managing-stress-and-psychosocial-risks](https://osha.europa.eu/en/tools-and-publications/e-guide-managing-stress-and-psychosocial-risks)
 
 This website contains links to access e-guides produced by the European Agency for Safety and Health at Work to manage stress and psychosocial risks in the workplace. Different versions of e-guides are available for different countries in Europe.
  
 
-* Trotto, S. (2017). Exploring occupational asthma. Health and Safety Magazine, April 2017, pp. 46-48. Retrieved March 27, 2017, from Health and Safety Magazine website: http://www.safetyandhealthmagazine.com/ext/resources/files/current-digital-edition.htm
+* Trotto, S. (2017). Exploring occupational asthma. Health and Safety Magazine, April 2017, pp. 46-48. Retrieved March 27, 2017, from Health and Safety Magazine website: [http://www.safetyandhealthmagazine.com/ext/resources/files/current-digital-edition.htm](http://www.safetyandhealthmagazine.com/ext/resources/files/current-digital-edition.htm)
 
 This article provides insights on asthma caused or triggered by substances like dust, mould and chemicals present in the work environment. It examines some possible causes of occupational asthma, its prevalence in the United States, and how employers can play a part to prevent workers from contracting occupational asthma.
  
 
-* University of California, Irvine. Preventing injuries from ergonomic hazards.Retrieved March 27, 2017, from Worklife and Wellness website: http://www.wellness.uci.edu/toolkit/may/PreventErgonomicInjuries.pdf
+* University of California, Irvine. Preventing injuries from ergonomic hazards.Retrieved March 27, 2017, from Worklife and Wellness website: [http://www.wellness.uci.edu/toolkit/may/PreventErgonomicInjuries.pdf](http://www.wellness.uci.edu/toolkit/may/PreventErgonomicInjuries.pdf)
 
 This series of infographics, designed as a checklist, lists down some simple tips which workers could adopt to prevent injuries due to ergonomic hazards.Besides this tip sheet, the website also provides other useful toolkits and resources relevant to workplace safety.
  
@@ -388,20 +388,24 @@ This Straits Times article reports on the rise of workplace deaths seen since 20
 
 <b><u>Websites</u></b>
 
-Health Promotion Board (HPB), Singapore. (2017). Healthy workplace ecosystem. Retrieved April 5, 2017, from Health Promotion Board website: https://www.hpb.gov.sg/workplace/healthy-workplace-ecosystem
+Health Promotion Board (HPB), Singapore. (2017). Healthy workplace ecosystem. Retrieved April 5, 2017, from Health Promotion Board website: [https://www.hpb.gov.sg/workplace/healthy-workplace-ecosystem](https://www.hpb.gov.sg/workplace/healthy-workplace-ecosystem)
+
 This website by HPB explains its Healthy Workplace Ecosystem initiative, which is a series of health-related programmes and activities for local workers occurring at or near the workplace. It contains links to the various participating organisations and details on how workers can register for these programmes.
  
 
-Ministry of Manpower. (2017). Workplace safety and health. Retrieved April 5, 2017, from Ministry of Manpower website: http://www.mom.gov.sg/workplace-safety-and-health
+Ministry of Manpower. (2017). Workplace safety and health. Retrieved April 5, 2017, from Ministry of Manpower website: [http://www.mom.gov.sg/workplace-safety-and-health](http://www.mom.gov.sg/workplace-safety-and-health)
+
 This website by the Ministry of Manpower provides links to various OSH-related webpages in Singapore, such as information on the requirements for pressure equipment, requirements and resources for Major Hazard Installations, and best practices in OSH etc.
  
 
 Workplace Safety and Health Council. iWSH Newsletter. Retrieved April 5, 2017, from Workplace Safety and Health Council website:
-https://www.wshc.sg/wps/portal/wshc/newsletter?action=publicViewAllNewsletter&newsletterType=I
+[https://www.wshc.sg/wps/portal/wshc/newsletter?action=publicViewAllNewsletter&newsletterType=I](https://www.wshc.sg/wps/portal/wshc/newsletter?action=publicViewAllNewsletter&newsletterType=I)
+
 This WSH website provides access to the iWSH Newsletter published by the Workplace Safety and Health Council. The newsletter, published in various languages like English, Chinese, Tamil and Bengali, contains information to educate workers on OSH issues.
  
 
-Workplace Safety and Health Council. WSH statistics reports. Retrieved April 5, 2017, from Workplace Safety and Health Council website: https://www.wshc.sg/wps/portal/wshc/cms?action=cmsPublicView&cmsId=C-2014091001131&tabId=C-2014091001132
+Workplace Safety and Health Council. WSH statistics reports. Retrieved April 5, 2017, from Workplace Safety and Health Council website: [https://www.wshc.sg/wps/portal/wshc/cms?action=cmsPublicView&cmsId=C-2014091001131&tabId=C-2014091001132](https://www.wshc.sg/wps/portal/wshc/cms?action=cmsPublicView&cmsId=C-2014091001131&tabId=C-2014091001132)
+
 The WSH Council releases workplace safety and health statistics biannually during mid-year and year end, providing the latest findings on workplace safety and health performance in Singapore.
  
 
@@ -414,25 +418,25 @@ Occupational Safety and Health is a widely accepted discipline and there are man
 <b><u>OSH organisations in Singapore</u></b>
 
 * Health Promotion Board (HPB) Workplace<br>
-http://www.hpb.gov.sg/workplace
+[http://www.hpb.gov.sg/workplace](http://www.hpb.gov.sg/workplace)
 
 The Health Promotion Board provides workplaces with the assistance and tools to provide a health promoting environment for workers via company-based and sectoral approaches.
  
 
 * Occupational Safety and Health Division (OSHD), Ministry of Manpower<br>
-http://www.mom.gov.sg/aboutus/divisions-statutory-boards/Pages/occupational-safety-health-division.aspx
+[http://www.mom.gov.sg/aboutus/divisions-statutory-boards/Pages/occupational-safety-health-division.aspx](http://www.mom.gov.sg/aboutus/divisions-statutory-boards/Pages/occupational-safety-health-division.aspx)
 
 The Occupational Safety and Health Division (OSHD) promotes OSH at the national level, working with employers, employees and all other stakeholders to identify, assess, and manage workplace safety and health risks so as to eliminate death, injury and ill-health.
  
 
 * The Workplace Safety and Health (WSH) Council<br>
-https://www.wshc.sg/
+[https://www.wshc.sg/](https://www.wshc.sg/)
 
 The Workplace Safety and Health (WSH) Council works closely with the Ministry of Manpower and other Government agencies, the industry, unions and professional associations to develop strategies to raise WSH standards in Singapore and to realize the national WSH 2018 strategy.
  
 
 * Workplace Safety and Health (WSH) 2018 Plus<br>
-https://www.wshc.sg/wsh2018
+[https://www.wshc.sg/wsh2018](https://www.wshc.sg/wsh2018)
 
 An initiative by the Ministry of Manpower and WSH Council, WSH 2018 aims to bring down the national fatality rate to less than 1.8 per 100,000 workers by 2018 and make the workplace safe and happy for everyone.
  
@@ -440,73 +444,73 @@ An initiative by the Ministry of Manpower and WSH Council, WSH 2018 aims to brin
 <b><u>International and national OSH organisations</u></b>
 
 * Centre for Safety and Health Sustainability
-http://www.centershs.org/
+[http://www.centershs.org/](http://www.centershs.org/)
 
 The Centre for Safety and Health Sustainability (CSHS) is committed to ensuring the safety, health, and sustainability of the global workforce. The Centre engages safety and health partners around the world to establish minimum standards that help reduce workplace injuries and ill health.
  
 
 * Institution of Occupational Safety and Health
-http://www.iosh.co.uk/
+[http://www.iosh.co.uk/](http://www.iosh.co.uk/)
 
 Institution of Occupational Safety and Health (IOSH) is the Chartered body for health and safety professionals. The site provides guidelines for training, certifications etc.
  
 
 * International Network of Safety & Health Practitioner Organisations<br>
-http://www.inshpo.org/about.php
+[http://www.inshpo.org/about.php](http://www.inshpo.org/about.php)
 
 International Network of Safety & Health Practitioner Organisations (INSHPO) is a global alliance of professional occupational safety and health (OSH) organizations dedicated to advancing the OSH profession through the development and promotion of professional standards and the exchange of evidence-based practices. The site incorporates related resources.
  
 
 * Occupational Health and Safety Online<br>
-http://ohsonline.com/home.aspx
+[http://ohsonline.com/home.aspx](http://ohsonline.com/home.aspx)
 
 Occupational Safety and Health Online provides useful, applicable information in the field of workplace safety and health. The website also publishes a digital magazine on OSH, and contains many educational videos related to OSH.
  
 
 * Occupational Safety and Health Administration (OSHA)<br>
-https://www.osha.gov/
+[https://www.osha.gov/](https://www.osha.gov/)
 
 Occupational Safety and Health Administration (OSHA) site, by the United States Department of Labour, is a national advocacy which aims to assure safe and healthful working conditions for working men and women by setting and enforcing standards and by providing training, outreach, education and assistance.
  
 
 * Occupational Safety and Health Net<br>
-http://www.osh.net/
+[http://www.osh.net/](http://www.osh.net/)
 
 Osh.Net is an internet gateway containing useful  resources and information on industries, occupational health and safety, industrial hygiene and governmental regulations.
  
 
 * Safe Work Australia<br>
-http://www.safeworkaustralia.gov.au/sites/SWA
+[http://www.safeworkaustralia.gov.au/sites/SWA](http://www.safeworkaustralia.gov.au/sites/SWA)
 
 Safe Work Australia leads the development of national policy to improve work health and safety and workers’ compensation arrangements across Australia. The official site contains vast resources related to the field.
  
 
 * The Canadian Centre for Occupational Health and Safety (CCOHS)<br>
-http://www.ccohs.ca/
+[http://www.ccohs.ca/](http://www.ccohs.ca/)
 
 The Canadian Centre for Occupational Health and Safety (CCOHS) has a vision of eliminating work-related illnesses and injuries. The site contains various useful, related materials and resources.
  
 
 * The European Agency for Safety and Health at Work (EU-OSHA)<br>
-https://osha.europa.eu/en
+[https://osha.europa.eu/en](https://osha.europa.eu/en)
 
 The European Agency for Safety and Health at Work (EU-OSHA) is official site aiming to make Europe a safer, healthier and more productive place to work through many resources available.
  
 
 * The National Institute for Occupational Safety and Health (NIOSH)<br>
-http://www.cdc.gov/niosh/
+[http://www.cdc.gov/niosh/](http://www.cdc.gov/niosh/)
 
 The National Institute for Occupational Safety and Health (NIOSH) site provides tips, publications, resources on occupational safety and health with objectives to prevent workplace illnesses and injuries.
  
 
 * World Health Organization (WHO) Occupational Health<br>
-http://www.who.int/occupational_health/en/
+[http://www.who.int/occupational_health/en/](http://www.who.int/occupational_health/en/)
 
 This official World Health Organization (WHO) site contains many useful resources on occupational health, including details of a global plan of action to protect workers’ health.
  
 
 * Work Safe New Zealand<br>
-http://www.business.govt.nz/worksafe
+[http://www.business.govt.nz/worksafe](http://www.business.govt.nz/worksafe)
 
 WorkSafe NZ is New Zealand’s workplace health and safety regulator. The portal helps too promote workplace health and safety responsibilities and enforce workplace health and safety legislation.
  
@@ -520,11 +524,11 @@ The Standards Collection can be accessed without any charge at the National Libr
 Please note that all the Standards are strictly for reference only.
 
 <b><u>e-Standards platform</u></b><br>
-http://eresources.nlb.gov.sg/standards/
+[http://eresources.nlb.gov.sg/standards/](http://eresources.nlb.gov.sg/standards/)
 
 Patrons can also search for and view information, as well as short previews, of Singapore standards online. Currently, standards from the International Organisation for Standardisation (ISO) and International Electrotechnical Commission (IEC) are also searchable via this portal.
 
-Additionally, the American Society for Testing and Materials (ASTM) standards are accessible onsite. Patrons can make an appointment to view the standards through the online platform: http://eresources.nlb.gov.sg/standards/onlineform2.aspx
+Additionally, the American Society for Testing and Materials (ASTM) standards are accessible onsite. Patrons can make an appointment to view the standards through the online platform: [http://eresources.nlb.gov.sg/standards/onlineform2.aspx](http://eresources.nlb.gov.sg/standards/onlineform2.aspx)
 
 Both the Standards Collection and the e-Standards platform are housed at:
 
@@ -566,7 +570,7 @@ If you’re having problems registering or logging in, please [contact us](http:
 
 ### <u>Authors</u>
 
-Pattarin Kusolpalin
+Pattarin Kusolpalin<br>
 Goh Lee Kim (Updated by)
 
  

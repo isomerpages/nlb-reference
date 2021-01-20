@@ -28,7 +28,7 @@ As part of Singapore’s digital heritage collection, NORA serves as a source of
 
 The NORA collection of artworks range from ink to oil paintings, ceramic to metal sculptures and images of landscapes to the abstract. Created by Singaporean artists from the mid-20th to 21st century, these provide a brief visual introduction to the development of the Singapore art scene. Video interviews with Cultural Medallion Recipients and Young Artist Award Recipients provide insights to the creative processes, inspiration and challenges of being an artist in Singapore.
 
-For a comprehensive resource guide on Modern Art in Singapore, click [here](http://www.nlb.gov.sg/resourceguides/modern-art-in-singapore/).
+For a comprehensive resource guide on Modern Art in Singapore, click [here](/category/singaporeandsoutheastasia/modern-art-in-singapore).
 
 This guide lists prominent Singapore artists in 3 broad areas: sculpture, painting and photography. In addition, a selection of publications within the Arts Collection available at the National Library is included in this guide for further reading.
 
@@ -55,7 +55,7 @@ Chng Seok Tin (1946– ) is a Singaporean artist who has worked with media such 
 Iskandar Jalil (1940– ) is an eminent local ceramist and master potter who synthesizes Japanese and Islamic artistic practices in his pottery pieces, mainly shaped from fine clay. He received the Cultural Medallion in 1988.
 
 * [Spherical teapot & twig](http://eresources.nlb.gov.sg/arts/web/Contents/ArticleDetails.aspx?Id=58564167-0d81-4f81-9e55-528e37842155). (2005). [Image of sculpture], \[Online\]. Retrieved June 5, 2017.
-* Lotus pods. (2007). [Image of sculpture], \[Online\]. Retrieved June 5, 2017.
+* [Lotus pods](http://eresources.nlb.gov.sg/arts/web/Contents/ArticleDetails.aspx?Id=fe9f5e6e-4660-4182-89a5-9a179bd7a812). (2007). [Image of sculpture], \[Online\]. Retrieved June 5, 2017.
  
 
 **Ng Eng Teng**
@@ -201,7 +201,7 @@ Foo Tee Jun (1935– ) is a distinguished Singaporean salon photographer whose p
 
 **Selected Manuscripts**
 
-* Tan Swie Hian. (2000). [Tan Swie Hian notebook (3)](https://web.archive.org/web/20200223050615/http://eresources.nlb.gov.sg/arts/web/Contents/ArticleDetails.aspx?Id=e3f0bc4b-394a-415c-9ecb-ba7e3bb57a31). [Digitised Manuscript].
+* Tan Swie Hian. (2000). [Tan Swie Hian notebook (3)](http://eresources.nlb.gov.sg/arts/web/Contents/ArticleDetails.aspx?Id=e3f0bc4b-394a-415c-9ecb-ba7e3bb57a31). [Digitised Manuscript].
 * Tan Swie Hian. (2002). [Tan Swie Hian notebook (10)](http://eresources.nlb.gov.sg/arts/web/Contents/ArticleDetails.aspx?Id=59b6a6d9-59b2-4586-afef-9c0f0d830d90).  [Digitised Manuscript].
  
 

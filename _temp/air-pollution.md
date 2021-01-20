@@ -74,49 +74,49 @@ This guide highlights resources on air pollution and haze that are available at 
 
  
 
-* Chiras, Daniel D. (2010). 8th ed. [Environmental Science](https://web.archive.org/web/20200202214136/http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13366474). 8th ed. Sudbury, Mass.; Singapore: Jones and Bartlett Publishers. <br>
+* Chiras, Daniel D. (2010). 8th ed. [Environmental Science](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13366474). 8th ed. Sudbury, Mass.; Singapore: Jones and Bartlett Publishers. <br>
 Call Number: R 363.7 CHI
 
 This book discusses environmental issues such as preserving biological diversity, energy conservation and consumption and environmental protection policies.
 
 
-* Colls, J. (2002). [Air Pollution](https://web.archive.org/web/20200202214136/http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827016). London; New York: Spon Press. <br>
+* Colls, J. (2002). [Air Pollution](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827016). London; New York: Spon Press. <br>
 Call Number: R 363.7392 COL
 
 This edition emphasises on indoor air quality including Air Pollution Control and Measurement of Industrial Emissions. Other topics covered include the sources and sinks of gaseous and particulate air pollutants, dispersion measurement, mobile sources, indoor air pollutants, and the effects on plants, materials, humans and animals. Local case-studies are referred to, demonstrating the application of theory to practice.
 
 
-* Colls, J. (1997). [Air Pollution: an introduction](https://web.archive.org/web/20200202214136/http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=8603123). London: E & FN Spon. <br>
+* Colls, J. (1997). [Air Pollution: an introduction](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=8603123). London: E & FN Spon. <br>
 Call Number: R 363.7392 COL
 
 Air pollution is a universal problem with consequences ranging from the immediate death of plants and people to gradually declining crop yields and damaging buildings.
 
 
-* Godish, T. (2004). [Air Quality](https://web.archive.org/web/20200202214136/http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11874698). Boca Raton, Fla.; Lewis Publishers; London: CRC. <br>
+* Godish, T. (2004). [Air Quality](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11874698). Boca Raton, Fla.; Lewis Publishers; London: CRC. <br>
 Call Number: R 363.7392 GOD
 
 Ozone-destroying chemicals, greenhouse gases, and dangerous airborne substances are the most urgent issues facing air pollution control experts. This book explores these current trends while also covering the fundamental concepts of this emerging discipline.
 
 
-* [Hemispheric transport of air pollution 2007 : interim report of the Task Force on Hemispheric Transport of Air Pollution acting within the framework of the Convention on Long-range Transboundary Air Pollution](https://web.archive.org/web/20200202214136/http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13166957). (2007). New York; Geneva: United Nations. <br>
+* [Hemispheric transport of air pollution 2007 : interim report of the Task Force on Hemispheric Transport of Air Pollution acting within the framework of the Convention on Long-range Transboundary Air Pollution](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13166957). (2007). New York; Geneva: United Nations. <br>
 Call Number: R 363.7392
 
 HEM This assessment report provides a first report from the task force, which was mandated to obtain a better understanding of intercontinental transport of air pollution and to provide estimates of source – receptor relationships for intercontinental air pollution.
 
 
-* [Hots spots and smoke haze as observed by meteorological satellites: Sep 1994-Mar 2000](https://web.archive.org/web/20200202214136/http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9928166). (2000). Singapore: Singapore Meteorological Service. <br>
+* [Hots spots and smoke haze as observed by meteorological satellites: Sep 1994-Mar 2000](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9928166). (2000). Singapore: Singapore Meteorological Service. <br>
 Call Number: RSING 363.3790959 SIN
 
 Covers forest fires, smaze and smog aspects in Southeast Asia.
 
 
-* Qadri, S. T. (Ed.). (2001). [Fire, smoke, and haze : the ASEAN response strategy](https://web.archive.org/web/20200202214136/http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11788971). Manila, Philippines: Asian Development Bank; Jakarta: ASEAN Secretariat. <br>
+* Qadri, S. T. (Ed.). (2001). [Fire, smoke, and haze : the ASEAN response strategy](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11788971). Manila, Philippines: Asian Development Bank; Jakarta: ASEAN Secretariat. <br>
 Call Number: RSEA q634.9618 FIR
 
 The book brings together the current knowledge about land and forest fires, examines their causes and impacts with particular reference to Southeast Asia, and suggests what could happen in the future.
 
 
-* Nishimura, H. (Ed.). (1989). [How to Conquer Air Pollution: a Japanese experience](https://web.archive.org/web/20200202214136/http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5353068). Amsterdam; New York: Elsevier; New York, N.Y., U.S.A.: Distributors for the U.S. and Canada, Elsevier Science Pub. Co. <br>
+* Nishimura, H. (Ed.). (1989). [How to Conquer Air Pollution: a Japanese experience](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5353068). Amsterdam; New York: Elsevier; New York, N.Y., U.S.A.: Distributors for the U.S. and Canada, Elsevier Science Pub. Co. <br>
 Call Number: R 363.739250952 HOW
 
 Based on the successful Japanese experience, this book describes all aspects of the measures necessary to combat air pollution.
@@ -129,43 +129,43 @@ Based on the successful Japanese experience, this book describes all aspects of 
 (listed in alphabetical order)
 
 
-* Bhola R. G., et al. (Eds.). (2010). [Air Pollution: health and environmental impacts](https://web.archive.org/web/20200202214136/http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13600794). Boca Raton, Fla.: CRC Press. <br>
+* Bhola R. G., et al. (Eds.). (2010). [Air Pollution: health and environmental impacts](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13600794). Boca Raton, Fla.: CRC Press. <br>
 Call Number: R 363.7392 AIR
 
 The book examines the effect of air pollution on human health and the environment in different settings around the world. It not only covers general modeling, monitoring, and characterization techniques but also includes field studies and cases that offer valuable insight into region-specific issues.
 
 
-* Cotton, J. (1999). [ASEAN and the Southeast Asian ‘haze’: Challenging the prevailing modes of regional engagement](https://web.archive.org/web/20200202214136/http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9627955). Canberra: Dept. of International Relations, Research School of Pacific and Asian Studies, Australian National University. <br>
+* Cotton, J. (1999). [ASEAN and the Southeast Asian ‘haze’: Challenging the prevailing modes of regional engagement](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9627955). Canberra: Dept. of International Relations, Research School of Pacific and Asian Studies, Australian National University. <br>
 Call Number: RSING 341.2473 COT
 
 Intergovernmental co-operation on environmental conditions in ASEAN and Southeast Asia. The working papers include bibliographical references.
 
 
-* Glover, D. & Jessup, D. (Eds.). (1999). [Indonesia’s fires and haze: The cost of catastrophe](https://web.archive.org/web/20200202214136/http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9455785). Singapore: Institute of Southeast Asian Studies; Ottawa: International Development Research Centre. <br>
+* Glover, D. & Jessup, D. (Eds.). (1999). [Indonesia’s fires and haze: The cost of catastrophe](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9455785). Singapore: Institute of Southeast Asian Studies; Ottawa: International Development Research Centre. <br>
 Call Number: RSING 363.3790959 IND
 
 This book conservatively assesses the damage at US $4.5 billion, more than the Exxon Valdez oil spill and India’s Bhopal chemical spill combined. It looks at the causes of the fires, the physical damages that resulted, and their effects on health, industrial production, and tourism, among others. It explains the methods used to assign a monetary value to the damages and recommends measures that must be taken to prevent a recurrence of this horrific event.
 
 
-* Ho, M. S. & Nielsen, C. P. (Eds.). (2007). [Clearing the air: The health and economic damages of air pollution in China](https://web.archive.org/web/20200202214136/http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12990461). Cambridge, Mass.: MIT. <br>
+* Ho, M. S. & Nielsen, C. P. (Eds.). (2007). [Clearing the air: The health and economic damages of air pollution in China](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12990461). Cambridge, Mass.: MIT. <br>
 Call Number: R 363.73920951 CLE
 
 This book examines the national damage caused by China’s degraded air quality, conducted in a pathbreaking, interdisciplinary U.S.-China collaboration.
 
 
-* McGranahan, G. & Murray, F. (Eds.). (2003). [Air pollution and health in rapidly developing countries](https://web.archive.org/web/20200202214136/http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11807184). London: Earthscan. <br>
+* McGranahan, G. & Murray, F. (Eds.). (2003). [Air pollution and health in rapidly developing countries](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11807184). London: Earthscan. <br>
 Call Number: R 363.7392091724 AIR
 
 The authors discuss strategies, tools and systems that developing countries can use and implement to manage urban air pollution.
 
 
-* Philander, S. G. (Ed.). (2012). [Encyclopedia of global warming & climate change](https://web.archive.org/web/20200202214136/http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14692138). (vols.1-3). Thousand Oaks, Calif.: SAGE Publications, Inc. <br>
+* Philander, S. G. (Ed.). (2012). [Encyclopedia of global warming & climate change](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14692138). (vols.1-3). Thousand Oaks, Calif.: SAGE Publications, Inc. <br>
 Call Number: R 363.7387403 ENC
 
 Philander explores and explains the importance of global warming and climate change and the effects of human activity and greenhouse gases around the world.
 
 
-* Rabl, Ari. [et al.]. (2014). [How much is clean air worth? : calculating the benefits of pollution control](https://web.archive.org/web/20200202214136/http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201295216).  Cambridge, United Kingdom: Cambridge University Press. <br>
+* Rabl, Ari. [et al.]. (2014). [How much is clean air worth? : calculating the benefits of pollution control](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201295216).  Cambridge, United Kingdom: Cambridge University Press. <br>
 Call Number: 363.7392 RAB
 
 The book offers an overview of the core methodologies and tools used to quantify the impacts and damage costs of pollution.
@@ -175,22 +175,22 @@ The book offers an overview of the core methodologies and tools used to quantify
 
 (listed in alphabetical order)
 
-* Glover, D. & Jessup, T. (Eds.). (2006). Indonesia’s fires and haze [electronic resource] : The cost of catastrophe. Retrieved January 22, 2016, from http://www.ebookdb.org/reading/G0GFGDG718583D113E411669/Indonesias-Fires-And-Haze–The-Cost-Of-Catastrophe
+* Glover, D. & Jessup, T. (Eds.). (2006). Indonesia’s fires and haze [electronic resource] : The cost of catastrophe. Retrieved January 22, 2016, from [http://www.ebookdb.org/reading/G0GFGDG718583D113E411669/Indonesias-Fires-And-Haze–The-Cost-Of-Catastrophe](http://www.ebookdb.org/reading/G0GFGDG718583D113E411669/Indonesias-Fires-And-Haze–The-Cost-Of-Catastrophe)
 
 This book assesses the damage caused by the forest fires and haze in 1997. The study’s summary findings were widely quoted and played an important role in policy discussions in the region and the policy recommendation was tabled in 1998.
 
 
-* Kumar, A. (Ed.). (2010). Air Quality. Crotia: Sciyo. Retrieved March 1, 2016, from http://www.intechopen.com/books/air-quality
+* Kumar, A. (Ed.). (2010). Air Quality. Crotia: Sciyo. Retrieved March 1, 2016, from [http://www.intechopen.com/books/air-quality](http://www.intechopen.com/books/air-quality)
 
 The studies examine the management of air pollution involves understanding air pollution sources, monitoring of contaminants, modeling air quality, performing laboratory experiments, the use of satellite images for quantifying air quality levels, indoor air pollution, and elimination of contaminants through control.
 
 
-* Nejadkoorki, F. (Ed.). (2011). Advanced Air Pollution. Croatia: InTech. Retrieved January 22, 2016, from http://www.intechopen.com/books/advanced-air-pollution
+* Nejadkoorki, F. (Ed.). (2011). Advanced Air Pollution. Croatia: InTech. Retrieved January 22, 2016, from [http://www.intechopen.com/books/advanced-air-pollution](http://www.intechopen.com/books/advanced-air-pollution)
 
 The book covers information on four broad areas of interest in the air pollution field: the air pollution monitoring; air quality modeling; the GIS techniques to manage air quality and the new approaches to manage air quality.
 
 
-* Villanyi, V. (Ed.). (2010). Air Pollution. Crotia: Sciyo. Retrieved January 22, 2016, from http://www.intechopen.com/books/air-pollution
+* Villanyi, V. (Ed.). (2010). Air Pollution. Crotia: Sciyo. Retrieved January 22, 2016, from [http://www.intechopen.com/books/air-pollution](http://www.intechopen.com/books/air-pollution)
 
 The book provides an interdisciplinary collection of new studies and findings on air pollution.
 
@@ -202,72 +202,72 @@ The book provides an interdisciplinary collection of new studies and findings on
 (listed in alphabetical order)
 
 
-* Chen, G. (2008). [Clear skies for Beijing Olympics?](https://web.archive.org/web/20200202214136/http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13072179) East Asian Institute, National University of Singapore. <br>
+* Chen, G. (2008). [Clear skies for Beijing Olympics?](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13072179) East Asian Institute, National University of Singapore. <br>
 Call Number: RSING 363.700951156 CHE
 
 Chen details the Chinese government’s successful efforts in tackling the air pollution problem in China’s capital prior to the 1998 Beijing Olympics.
 
 
-* Goh, K. T. (Ed.). (1999). [Health guidelines for vegetation fire events: background papers](https://web.archive.org/web/20200202214136/http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10079849). Singapore: Institute of Environment Epidemiology, Ministry of Environment. <br>
+* Goh, K. T. (Ed.). (1999). [Health guidelines for vegetation fire events: background papers](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10079849). Singapore: Institute of Environment Epidemiology, Ministry of Environment. <br>
 Call Number: RSING 363.379 HEA
 
 These guidelines help to greatly reduce the burden of excess mortality and preventable disability suffered by the poor. They also counter potential threats to health resulting from economic crises, unhealthy environments and risky behavior.
 
 
-* Harris, P.G. (Ed.). (2009). [Climate Change and Foreign Policy: case studies from east to west](https://web.archive.org/web/20200202214136/http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13186202). London; New York: Routledge <br>
+* Harris, P.G. (Ed.). (2009). [Climate Change and Foreign Policy: case studies from east to west](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13186202). London; New York: Routledge <br>
 Call Number: R 363.7387556 CLI
 
 This book examines the problem of global climate change and assesses the manner in which governments and other actors have attempted to deal with it. It presents a series of in-depth international case studies on climate policy in Australia, Japan, China, Turkey, Hungary, Denmark, France, the European Union and the United States.
 
 
-* Ho, M. S. & Nielsen, C. P. (Eds.). (2007). [Clearing the Air: the health and economic damages of air pollution in China](https://web.archive.org/web/20200202214136/http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12990461). Cambridge, Mass.: MIT. <br>
+* Ho, M. S. & Nielsen, C. P. (Eds.). (2007). [Clearing the Air: the health and economic damages of air pollution in China](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12990461). Cambridge, Mass.: MIT. <br>
 Call Number: R 363.73920951 CLE
 
 This is an innovative, quantitative examination of the national damage caused by China’s degraded air quality, conducted in a path breaking, interdisciplinary U.S.- China collaboration.
 
 
-* Hung, Y., et. al. (Eds.). (2012). [Handbook of environment and waste management. [Volume 1], Air and water pollution control](https://web.archive.org/web/20200202214136/http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14323681). World Scientific, Hackensack, NJ. <br>
+* Hung, Y., et. al. (Eds.). (2012). [Handbook of environment and waste management. [Volume 1], Air and water pollution control](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14323681). World Scientific, Hackensack, NJ. <br>
 Call Number: R 363.73926 HAN
 
 Chapters 1-4 of this volume address air pollution problems and control measures that include air quality modelling and prediction and air bio-filtration for odour treatment.
 
 
-* [Mitigation of transboundary air pollution from coal fired power plants in North-East-Asia](https://web.archive.org/web/20200202214136/http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12916775). (2007). \[Manila\]: Asian Development Bank. <br>
+* [Mitigation of transboundary air pollution from coal fired power plants in North-East-Asia](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12916775). (2007). \[Manila\]: Asian Development Bank. <br>
 Call Number: R 363.73095 MIT
 
 This publication reports on the regional, sub-regional and collaborative actions taken to address the transboundary air pollution problems in North-East Asis (Japan, Mongolia, the People’s Republic of China (PRC), and Republic of Korea).
 
 
-* Qadri, S. T. (2001). [Fire, smoke and haze: The ASEAN response strategy](https://web.archive.org/web/20200202214136/http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11788971). Manila, Philippines: Asian Development Bank; ASEAN Secretariat. <br>
+* Qadri, S. T. (2001). [Fire, smoke and haze: The ASEAN response strategy](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11788971). Manila, Philippines: Asian Development Bank; ASEAN Secretariat. <br>
 Call Number: RSEA q634.9618 FIR
 
 Examines land and forest fires, their causes and impacts with particular reference to Southeast Asia, and suggests what could happen in the future.
 
 
-* Schwela, D., et. al. (Eds.). (1999). [Health guidelines for vegetation fire events: teacher’s guide](https://web.archive.org/web/20200202214136/http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10090873). Singapore: Institute of Environment Epidemiology, Ministry of Environment. Call Number: RSING 363.379 HEA <br>
+* Schwela, D., et. al. (Eds.). (1999). [Health guidelines for vegetation fire events: teacher’s guide](hhttp://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10090873). Singapore: Institute of Environment Epidemiology, Ministry of Environment. Call Number: RSING 363.379 HEA <br>
 
 It provides a compilation of materials on vegetation fire events for health professionals and policy makers.
 
 
-* Simioni, D. (Ed.). (2004). [Air pollution and citizen awareness](https://web.archive.org/web/20200202214136/http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12457667). Santiago, Chile: United Nations ECLAC. <br>
+* Simioni, D. (Ed.). (2004). [Air pollution and citizen awareness](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12457667). Santiago, Chile: United Nations ECLAC. <br>
 Call Number: R 363.7392098 AIR
 
 The study presents findings of a project entitled “Enhancement of citizen awareness for the formulation of policies to control air pollution in three metropolitan areas of Latin America”: Mexico City, Sao Paulo and Santiago. The project focused on plans for controlling air pollution and the awareness participation of the inhabitants of the affected Cities.
 
 
-* Sliggers, J. & Kakebeeke, W. (Eds.). (2004). [Clearing the air: 25 years of the Convention on Long-range Transboundary Air Pollution](https://web.archive.org/web/20200202214136/http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12464392). New York; United Nations, Geneva. <br>
+* Sliggers, J. & Kakebeeke, W. (Eds.). (2004). [Clearing the air: 25 years of the Convention on Long-range Transboundary Air Pollution](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12464392). New York; United Nations, Geneva. <br>
 Call Number: R 363.7392 CLE
 
 The publication of this book marks the 25th anniversary of the UNECE Convention on Long-range Transboundary Air Pollution, one of the oldest and more successful multilateral international treaties protecting the environment. It shows the Convention as it is seen through the eyes of experts, delegates, chairmen and members of the secretariat with contributions from many of the leading players in the Convention’s work over the years.
 
 
-* [Strategies and policies for air pollution abatement: 2006 review prepared under the Convention on Long-range Transboundary Air Pollution](https://web.archive.org/web/20200202214136/http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12995488). (2007). New York: United Nations. <br>
+* [Strategies and policies for air pollution abatement: 2006 review prepared under the Convention on Long-range Transboundary Air Pollution](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12995488). (2007). New York: United Nations. <br>
 Call Number: R 363.7392094 STR
 
 This publication is one of a series of reviews prepared under the 1979 Convention on Long-range Transboundary Air Pollution that summarizes the trends in air pollution and effects. It also identifies some of the consequences of the strategies and policies implemented.
 
 
-* Wark, K. (1998). [Air pollution: its origin and control](https://web.archive.org/web/20200202214136/http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=8746341). Menlo Park, Calif.: Addison-Wesley. <br>
+* Wark, K. (1998). [Air pollution: its origin and control](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=8746341). Menlo Park, Calif.: Addison-Wesley. <br>
 Call Number: R 363.7392 WAR
 
 The book emphasises an understanding of the relationship between sources and control of air pollution. It presents information on four broad areas of interest in the air pollution field: the effects of pollutants on health and welfare; the laws and regulations that have been passed in efforts to improve air quality; the modelling of atmospheric dispersion of pollutants and the approaches to the control of emissions.
@@ -424,47 +424,47 @@ These websites provide further information on the topic of air pollution, such a
 
 (listed in alphabetical order)
 
-* Environmental Hazards. (2015, October 20). Retrieved February 2, 2016, from Singapore Government website: http://www.gov.sg/being-prepared/learn/emergency-situations#environmental-hazards
+* Environmental Hazards. (2015, October 20). Retrieved February 2, 2016, from Singapore Government website: [http://www.gov.sg/being-prepared/learn/emergency-situations#environmental-hazards](http://www.gov.sg/being-prepared/learn/emergency-situations#environmental-hazards)
 
 This website provides links to environmental hazards such as Haze, Floods, Radiation Leak, Lightning, Tremors and Landslides.
 
 
-* Environmental Protection Agency. (2016, January 8). Air and Radiation: Air Pollutants. Retrieved February 2, 2016, from Environmental Protection Agency website: http://www3.epa.gov/air/airpollutants.html
+* Environmental Protection Agency. (2016, January 8). Air and Radiation: Air Pollutants. Retrieved February 2, 2016, from Environmental Protection Agency website: [http://www3.epa.gov/air/airpollutants.html](http://www3.epa.gov/air/airpollutants.html)
 
 This website provides links to specific air pollutants, such as Chlorofluorocarbons (CFCs) and Particulate Matter (PM).  
 
 
-* Greenpeace: Reduce Air Pollution. (2016, January 20). Retrieved February 2, 2016, from Greenpeace Organisation website: http://www.greenpeace.org/eastasia/campaigns/air-pollution/
+* Greenpeace: Reduce Air Pollution. (2016, January 20). Retrieved February 2, 2016, from Greenpeace Organisation website: [http://www.greenpeace.org/eastasia/campaigns/air-pollution/](http://www.greenpeace.org/eastasia/campaigns/air-pollution/)
 
 Focuses on Greenpeace campaigns to reduce air pollution in China and Hong Kong.
 
 
-* Haze Information. (2016, January 30). Retrieved February 2, 2016, from Metereological Service of Singapore website: http://www.weather.gov.sg/warning-haze-satellite-image/
+* Haze Information. (2016, January 30). Retrieved February 2, 2016, from Metereological Service of Singapore website: [http://www.weather.gov.sg/warning-haze-satellite-image/](http://www.weather.gov.sg/warning-haze-satellite-image/)
 
 Metereological Service of Singapore provides overview on Latest Satellite Image and Regional Haze Map. 
 
 
-* MedlinePlus. (2016, January 26). Air Pollution. Retrieved February 2, 2016, from the US National Library of Medicine website: http://www.nlm.nih.gov/medlineplus/airpollution.html
+* MedlinePlus. (2016, January 26). Air Pollution. Retrieved February 2, 2016, from the US National Library of Medicine website: [http://www.nlm.nih.gov/medlineplus/airpollution.html](http://www.nlm.nih.gov/medlineplus/airpollution.html)
 
 This website focuses on the health impact of air pollution, providing authoritative information from the US National Library of Medicine. 
 
 
-* National Environment Agency (NEA) – Air Pollution. (2013). Retrieved February 2, 2016, from NEA website: http://www.nea.gov.sg/anti-pollution-radiation-protection/air-pollution-control
+* National Environment Agency (NEA) – Air Pollution. (2013). Retrieved February 2, 2016, from NEA website: [http://www.nea.gov.sg/anti-pollution-radiation-protection/air-pollution-control](http://www.nea.gov.sg/anti-pollution-radiation-protection/air-pollution-control)
 
 Find out about Singapore’s air quality targets, air pollution regulations, how PSI is measured, and read up FAQs on air quality and haze.
 
 
-* National Environment Agency (NEA) – Haze. (2013). Retrieved March 1, 2016, from NEA website: http://www.haze.gov.sg/Home.aspx
+* National Environment Agency (NEA) – Haze. (2013). Retrieved March 1, 2016, from NEA website: [http://www.haze.gov.sg/Home.aspx](http://www.haze.gov.sg/Home.aspx)
 
 This website provides all information about haze in Singapore.  
 
 
-* Natural Resources Defence Council (NRDC). (2016). Retrieved February 2, 2016, from NRDC website: http://www.nrdc.org/air/
+* Natural Resources Defence Council (NRDC). (2016). Retrieved February 2, 2016, from NRDC website: [http://www.nrdc.org/air/](http://www.nrdc.org/air/)
 
 NRDC is an environmental action organisation that tackles environmental issues through public lobbying and partners community groups and businesses for strict enforcement of environmental policies. This section of the website reports on issues impacting the Environmental Protection Agency’s clean air act and the detrimental effect of air pollutants on health.
 
 
-* World Health Organisation (WHO). (2016, January). Air Pollution. Retrieved February 2, 2016, from WHO website: http://www.who.int/topics/air_pollution/en/index.html
+* World Health Organisation (WHO). (2016, January). Air Pollution. Retrieved February 2, 2016, from WHO website: [http://www.who.int/topics/air_pollution/en/index.html](http://www.who.int/topics/air_pollution/en/index.html)
 
 WHO provides facts, technical information and statistics with data analysis on air pollution. 2016, January. 
 

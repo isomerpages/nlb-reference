@@ -45,7 +45,7 @@ Economics is the study of how resources are utilised. It looks at the decisions 
 
 <b><u>Books</u></b>
 
-* Brue, S. L. et al. (2014). [Essentials of economics](https://eresources.nlb.gov.sg/webarchives/wayback/20190716174016/http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200493138). New York: McGraw-Hill Education.
+* Brue, S. L. et al. (2014). [Essentials of economics](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200493138). New York: McGraw-Hill Education.
 
 Call no.: RBUS 330 BRU
 
@@ -73,7 +73,7 @@ Call no.: RBUS 338.064 MAN
 This book looks at the emerging trend of the behaviour economy and how the economic model and value creation methodologies will change in light of new customer behaviour and expectations arising due to the Internet of Things.
  
 
-* O’Connor, D. E. (2014). [Deciphering economics: timely topics explained](https://eresources.nlb.gov.sg/webarchives/wayback/20190716174032/http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201058541). Santa Barbara: Greenwood.
+* O’Connor, D. E. (2014). [Deciphering economics: timely topics explained](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201058541). Santa Barbara: Greenwood.
 
 Call no.: RBUS 330 OCO
 
@@ -118,22 +118,22 @@ This journal article studies whether the use of innovation can lead to improveme
 
 <b><u>Websites</u></b>
 
-* Economic Development Board (EDB), Singapore. (2017). Manufacturing performance: Fourth quarter 2016. Retrieved March 30, 2017 from Economic Development Board website: https://www.edb.gov.sg/content/dam/edb/en/news%20and%20events/News/mthly-manufacturing-report/Mfg-value-added-4Q2016.pdf
+* Economic Development Board (EDB), Singapore. (2017). Manufacturing performance: Fourth quarter 2016. Retrieved March 30, 2017 from Economic Development Board website: [https://www.edb.gov.sg/content/dam/edb/en/news%20and%20events/News/mthly-manufacturing-report/Mfg-value-added-4Q2016.pdf](https://www.edb.gov.sg/content/dam/edb/en/news%20and%20events/News/mthly-manufacturing-report/Mfg-value-added-4Q2016.pdf)
 
 This infographic summarises the overall performance of the manufacturing sector in Singapore in the 4th quarter of 2016, with comparisons of the growth of the sector with the economic growth of Singapore.
  
 
-* Monetary Authority of Singapore (MAS). (2016). Macroeconomic policy. Macroeconomic review, 15(2), pp. 64-76. Retrieved March 30, 2017 from Monetary Authority of Singapore website: http://www.mas.gov.sg/Monetary-Policy-and-Economics/Monetary-Policy/Macroeconomic-Review/2016/Volume-XV-Issue-2-Oct-2016.aspx
+* Monetary Authority of Singapore (MAS). (2016). Macroeconomic policy. Macroeconomic review, 15(2), pp. 64-76. Retrieved March 30, 2017 from Monetary Authority of Singapore website: [http://www.mas.gov.sg/Monetary-Policy-and-Economics/Monetary-Policy/Macroeconomic-Review/2016/Volume-XV-Issue-2-Oct-2016.aspx](http://www.mas.gov.sg/Monetary-Policy-and-Economics/Monetary-Policy/Macroeconomic-Review/2016/Volume-XV-Issue-2-Oct-2016.aspx)
 
 This report, produced and released biannually by MAS, gives up-to-date information about the macroeconomy of Singapore, including statistics, reviews and analysis of the economy.
  
 
-* The World Bank. Data: Singapore. Retrieved March 30, 2017  from The World Bank website:  http://data.worldbank.org/country/singapore 
+* The World Bank. Data: Singapore. Retrieved March 30, 2017  from The World Bank website:  [http://data.worldbank.org/country/singapore](http://data.worldbank.org/country/singapore)
 
 The World Bank Open Data website provides free and open access to global development data, including economic indicators like gross domestic product (GDP), forecasts of global economic prospects etc of various countries in the world, including Singapore.
  
 
-* Townsend, R. (2013). Development Economics: Macroeconomics. Retrieved March 30, 2017 from Massachusetts Institute of Technology (MIT) OpenCourseWare: https://ocw.mit.edu/courses/economics/14-772-development-economics-macroeconomics-spring-2013/index.htm?utm_source=OCWDept&utm_medium=CarouselSm&utm_campaign=FeaturedCourse# 
+* Townsend, R. (2013). Development Economics: Macroeconomics. Retrieved March 30, 2017 from Massachusetts Institute of Technology (MIT) OpenCourseWare: [https://ocw.mit.edu/courses/economics/14-772-development-economics-macroeconomics-spring-2013/index.htm?utm_source=OCWDept&utm_medium=CarouselSm&utm_campaign=FeaturedCourse#](https://ocw.mit.edu/courses/economics/14-772-development-economics-macroeconomics-spring-2013/index.htm?utm_source=OCWDept&utm_medium=CarouselSm&utm_campaign=FeaturedCourse#)
 
 This online course, produced by MIT, covers various aspects of macroeconomics, including migration, modernisation, political economy, income distribution, and banks and credit market institutions in emerging markets. The website also hosts many other useful online e-learning courses on economics which are freely accessible for the public.
  
@@ -215,17 +215,17 @@ This report provides updated information on the investments and securities indus
 
 <b><u>Websites</u></b>
 
-* Capri, A. (2017, March 30). Three reasons why the TPP is still as good as gold. Retrieved March 30, 2017 from Forbes website: https://www.forbes.com/sites/alexcapri/2017/03/30/three-reasons-pp-good/#14ee51fd21b4
+* Capri, A. (2017, March 30). Three reasons why the TPP is still as good as gold. Retrieved March 30, 2017 from Forbes website: [https://www.forbes.com/sites/alexcapri/2017/03/30/three-reasons-pp-good/#14ee51fd21b4](https://www.forbes.com/sites/alexcapri/2017/03/30/three-reasons-pp-good/#14ee51fd21b4)
 
 This article examines the Trans-Pacific Partnership (TPP) agreement after America’s withdrawal, and provides 3 reasons why the TPP will still be useful and relevant even if the agreement does not go through eventually.
  
 
-* Economic Strategies Committee (ESC). Subcommittee on developing a vibrant SME landscape and globally competitive local enterprises. Retrieved March 30, 2017 from Ministry of Finance website: http://www.mof.gov.sg/Resources/Economic-Strategies-Committee-ESC-Recommendations
+* Economic Strategies Committee (ESC). Subcommittee on developing a vibrant SME landscape and globally competitive local enterprises. Retrieved March 30, 2017 from Ministry of Finance website: [http://www.mof.gov.sg/Resources/Economic-Strategies-Committee-ESC-Recommendations](http://www.mof.gov.sg/Resources/Economic-Strategies-Committee-ESC-Recommendations)
 
 This report contains the recommendations by the ESC to the Government to help local companies build their capabilities, establish their networks and nurture talent to become globally competitive.
  
 
-* MoneySense. (2016). Types of investments. Retrieved March 30, 2017 from MoneySense website: http://www.moneysense.gov.sg/Understanding-Financial-Products/Investments/Types-of-Investments.aspx
+* MoneySense. (2016). Types of investments. Retrieved March 30, 2017 from MoneySense website: [http://www.moneysense.gov.sg/Understanding-Financial-Products/Investments/Types-of-Investments.aspx](http://www.moneysense.gov.sg/Understanding-Financial-Products/Investments/Types-of-Investments.aspx)
 
 The website lists down some of the common types of investments available in the market, providing useful information for those who are unfamiliar with investment products and what each means for the investor.
  
@@ -355,27 +355,27 @@ How can incumbent firms sustain their businesses in the modern digital economy? 
 
 <b><u>Websites</u></b>
 
-* Arruda, W. (2016, November 15). 9 differences between a leader and a manager. Retrieved 12 April 2017 from Forbes website: https://www.forbes.com/sites/williamarruda/2016/11/15/9-differences-between-being-a-leader-and-a-manager/#6b8fc5624609
+* Arruda, W. (2016, November 15). 9 differences between a leader and a manager. Retrieved 12 April 2017 from Forbes website: [https://www.forbes.com/sites/williamarruda/2016/11/15/9-differences-between-being-a-leader-and-a-manager/#6b8fc5624609](https://www.forbes.com/sites/williamarruda/2016/11/15/9-differences-between-being-a-leader-and-a-manager/#6b8fc5624609)
 
 This article looks at the differences between a leader and a manager by looking at 9 areas, including the ability to lead change, be unique, take risks and build and cultivate relationships.
  
 
-* Kenny, B. (2016, September 22). Innovation under constraint: Constructing a turnaround at Lego. Retrieved 12 April 2017 from Harvard Business School Working Knowledge website: http://hbswk.hbs.edu/item/innovation-under-constraint-constructing-a-turnaround-at-lego
+* Kenny, B. (2016, September 22). Innovation under constraint: Constructing a turnaround at Lego. Retrieved 12 April 2017 from Harvard Business School Working Knowledge website: [http://hbswk.hbs.edu/item/innovation-under-constraint-constructing-a-turnaround-at-lego](http://hbswk.hbs.edu/item/innovation-under-constraint-constructing-a-turnaround-at-lego)
 
 This website contains a podcast interview conducted with Professor Jan Rivkin, who discusses his case study of the Lego company and how it had responded and adapted to economic changes to avoid bankruptcy. The transcript of the interview is also available via the website.
  
 
-* McAfee, A. and Brynjolfsson, E. (2012, October). Big data: The management revolution. Retrieved 12 April 2017 from Harvard Business Review website: https://hbr.org/2012/10/big-data-the-management-revolution
+* McAfee, A. and Brynjolfsson, E. (2012, October). Big data: The management revolution. Retrieved 12 April 2017 from Harvard Business Review website: [https://hbr.org/2012/10/big-data-the-management-revolution](https://hbr.org/2012/10/big-data-the-management-revolution)
 
 This article gives an overview of business management in the face of the Big Data movement and how businesses can glean key information on market trends and users from big data and turn it into a business advantage.
  
 
-* Samuelson, Chidike. (2016, September 14). 5 tips for dealing better with workplace diversity. Retrieved 12 April 2017 from Entrepreneur website: https://www.entrepreneur.com/article/281480
+* Samuelson, Chidike. (2016, September 14). 5 tips for dealing better with workplace diversity. Retrieved 12 April 2017 from Entrepreneur website: [https://www.entrepreneur.com/article/281480](https://www.entrepreneur.com/article/281480)
 
 This article explores the topic of diversity in the workplace, looking at 5 ways in which workers and leaders can better handle a diverse work environment and diversity amongst the staff.
  
 
-* Young, A. (2016). The art of change management. Retrieved 12 April 2017 from ACCA website: http://www.accaglobal.com/sg/en/member/discover/cpd-articles/business-management/change-management.html
+* Young, A. (2016). The art of change management. Retrieved 12 April 2017 from ACCA website: [http://www.accaglobal.com/sg/en/member/discover/cpd-articles/business-management/change-management.html](http://www.accaglobal.com/sg/en/member/discover/cpd-articles/business-management/change-management.html)
 
 This article examines the management’s role in leading organisational change in their firms, offering pointers which leaders can adopt and how these pointers can help to mitigate the challenges of organisational change.
  
@@ -394,7 +394,7 @@ Call no.: RBUS 659.1 BAR
 This book is a comprehensive guide on planning for an advertisement, looking at various aspects in the conceptualisation of advertisements including copy writing, advertising strategies, interactive and social media advertising, and evaluating advertisements.
  
 
-* Blythe, J. (2013). [Consumer behaviour](https://eresources.nlb.gov.sg/webarchives/wayback/20190716174135/http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200587633) (2nd Ed.). London: Sage.
+* Blythe, J. (2013). [Consumer behaviour](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200587633) (2nd Ed.). London: Sage.
 
 Call no.: RBUS 658.8342 BLY
 
@@ -422,7 +422,7 @@ Call no.: RBUS 658.8 KOT
 This book provides comprehensive discussions of key principles in business marketing, including the trends and relevant impact factors.
  
 
-* Park, C. W. et al. (2016). [Brand admiration: Building a business people love](https://eresources.nlb.gov.sg/webarchives/wayback/20190716174151/http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202690734). Hoboken: Wiley.
+* Park, C. W. et al. (2016). [Brand admiration: Building a business people love](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202690734). Hoboken: Wiley.
 
 Call no.: RBUS 658.827 PAR
 
@@ -483,27 +483,28 @@ This article examines the concept of viral marketing and provides businesses wit
 
 <b><u>Websites</u></b>
 
-* Dod, R. (2017, March 8). Converting search engine traffic to customers. Retrieved March 30, 2017 from Small Business Trends website: https://smallbiztrends.com/2017/03/converting-search-engine-traffic.html?tr=sm
+* Dod, R. (2017, March 8). Converting search engine traffic to customers. Retrieved March 30, 2017 from Small Business Trends website: [https://smallbiztrends.com/2017/03/converting-search-engine-traffic.html?tr=sm](https://smallbiztrends.com/2017/03/converting-search-engine-traffic.html?tr=sm)
 
 This article outlines 6 strategies which businesses can use to convert search engine traffic to website visitorship and sales, including tips to make content more searchable, accessible and friendly for visitors.
  
 
-* French, J. (2017, April 14). Is your brand name limiting your business prospects? Retrieved March 30, 2017 from Entrepreneur website: https://www.entrepreneur.com/article/290906
+* French, J. (2017, April 14). Is your brand name limiting your business prospects? Retrieved March 30, 2017 from Entrepreneur website: [https://www.entrepreneur.com/article/290906](https://www.entrepreneur.com/article/290906
+)
 
 This article looks at company and brand names and examines how an inappropriate name can negatively affect the branding for a business and cause it to lose customers.
  
 
-* Hayzlett, J. (2016, August 4). 4 ways to create a marketing strategy for your small business. Retrieved March 30, 2017 from Fortune website: http://fortune.com/2016/08/04/marketing-strategies/
+* Hayzlett, J. (2016, August 4). 4 ways to create a marketing strategy for your small business. Retrieved March 30, 2017 from Fortune website: [http://fortune.com/2016/08/04/marketing-strategies/](http://fortune.com/2016/08/04/marketing-strategies/)
 
 This article lists 4 strategies which the writer, a former Chief Marketing Officer, has developed during his career to market a business. Although the strategies are useful for small businesses and start-ups, they can be applicable to larger businesses too.
  
 
-* Hendricks, D. (2017, April 14). 4 video advertising hacks powerful enough to change your company. Retrieved March 30, 2017 from Entrepreneur website: https://www.entrepreneur.com/article/290782
+* Hendricks, D. (2017, April 14). 4 video advertising hacks powerful enough to change your company. Retrieved March 30, 2017 from Entrepreneur website: [https://www.entrepreneur.com/article/290782](https://www.entrepreneur.com/article/290782)
 
 This article contains 4 tips which businesses that are looking to embark on video marketing can use to make their video advertisements more engaging and effective.
  
 
-* United States Small Business Administration. (2016). Marketing 101. Retrieved March 30, 2017 from U.S. Small Business Administration website: https://www.sba.gov/managing-business/running-business/marketing/marketing-101
+* United States Small Business Administration. (2016). Marketing 101. Retrieved March 30, 2017 from U.S. Small Business Administration website: [https://www.sba.gov/managing-business/running-business/marketing/marketing-101](https://www.sba.gov/managing-business/running-business/marketing/marketing-101)
 
 This website provides an overview of business marketing for small businesses, looking at various aspects such as conducting market research, target marketing and marketing programmes. It also contains links to other marketing-related pages, including pages on how to develop a marketing plan, and email marketing.
 

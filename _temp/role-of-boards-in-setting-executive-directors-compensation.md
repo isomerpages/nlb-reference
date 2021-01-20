@@ -76,14 +76,14 @@ Call no.: RBUS 658.422 NON
 A guide to good governance for board leaders at all levels of experience and expertise. It offers resources on board governance. The topics includes board structure and process, board member recruitment and orientation, board-staff relations, financial management, risk management and mergers. Part three of the book provides information on board members’ compensation.
  
 
-* Lim, G. S., Mathis, R. L., & Jackson, J. H. (2016). [Human resource management](https://eresources.nlb.gov.sg/webarchives/wayback/20190717032156/http://eservice.nlb.gov.sg/item_holding.aspx?bid=202593627). (Second edition, Asia edition). Singapore: Cengage Learning Asia Pte Ltd.
+* Lim, G. S., Mathis, R. L., & Jackson, J. H. (2016). [Human resource management](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202593627). (Second edition, Asia edition). Singapore: Cengage Learning Asia Pte Ltd.
 
 Call no.: RSING 658.30095 LIM
 
 This book highlights universally usable human resource management theories and practices sourced from leading research and reports in Asia, as well as case studies from countries such as Hong Kong, Malaysia, Singapore, and China. Section four discusses rewards and compensation for employees, executives and board of directors.
  
 
-* Muller, M. (2013). [The manager’s guide to HR: Hiring, firing, performance evaluations, documentation, benefits, and everything else you need to know](https://eresources.nlb.gov.sg/webarchives/wayback/20190717032200/http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200148506).  (Second edition). New York: AMACOM, American Management Association.
+* Muller, M. (2013). [The manager’s guide to HR: Hiring, firing, performance evaluations, documentation, benefits, and everything else you need to know](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200148506).  (Second edition). New York: AMACOM, American Management Association.
 
 Call no.: 658.3 MUL -\[BIZ\] 
 
@@ -97,7 +97,7 @@ Call no.: RBUS 352.60973 PYN
 The book describes how strategic human resources management is essential for managing change in an increasingly complex environment. Includes an overview of recent information on compensation and benefits.
  
 
-* Rose, M. (2014). [Reward management](https://eresources.nlb.gov.sg/webarchives/wayback/20190717032210/http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201051336). London; Philadelphia: Kogan Page.
+* Rose, M. (2014). [Reward management](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201051336). London; Philadelphia: Kogan Page.
 
 Call no.: RBUS 658.3225 ROS
 

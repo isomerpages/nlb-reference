@@ -1,6 +1,6 @@
 ---
-title: Role of Boards in managing Risk
-permalink: /temp/role-of-boards-in-managing-risk
+title: Role of Boards in managing Risks
+permalink: /temp/role-of-boards-in-managing-risks
 breadcrumb: Role of Boards in managing Risk
 collection_name: temp
 ---

@@ -45,7 +45,7 @@ We would like to thank the following for their insights, time and contributions 
 
 * Ms Maria Seda
 * Dr Sharifah Mariam Aljunied, Principal Educational Psychologist, Education Services Division, MOE
-* [Early Childhood Development Agency](/https://www.ecda.gov.sg/pages/default.aspx)
+* [Early Childhood Development Agency](https://www.ecda.gov.sg/pages/default.aspx)
  
 
 ### <u>Child Development</u>
@@ -581,7 +581,7 @@ Combining theory with practical interventions, this book offers educational acti
 This paper offers an overview of how the characteristics of a child are moulded by his parents and how parenting styles can be adjusted to fit children with different personalities.
  
 
-* Weiner, I. B. (Ed.). (2003). [Handbook of psychology, Vol 6](https://web.archive.org/web/20200619225602/http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11780555). New York: Wiley.
+* Weiner, I. B. (Ed.). (2003). [Handbook of psychology, Vol 6](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11780555). New York: Wiley.
 
 Call no.: R 150 HAN
 
