@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Singapore - People
-permalink: /reference-guides/singapore/people/
+permalink: /guides/singapore/people/
 breadcrumb: People
 collection_name: people
 
