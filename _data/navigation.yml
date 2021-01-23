@@ -10,7 +10,7 @@ links:
   - title: Resource Guides
     sublinks:
       - title: Singapore
-        url: /guides/singapore/
+        url: /guides/singapore/people
       - title: Arts
         url: /guides/arts/
       - title: Business
@@ -57,4 +57,5 @@ links:
         url: /arts/visualarts/main
   - title: temp
     collection: temp
+
   # - title: testing
