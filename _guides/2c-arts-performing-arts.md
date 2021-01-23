@@ -1,7 +1,7 @@
 ---
-title: Visual Arts
-permalink: /guides/arts/visual-arts/
-breadcrumb: Visual Arts
+title: Performing Arts
+permalink: /guides/arts/performing-arts/
+breadcrumb: Performing Arts
 collection_name: arts
 third_nav_title: Arts
 ---

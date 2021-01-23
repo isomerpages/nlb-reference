@@ -1,7 +1,7 @@
 ---
-title: Visual Arts
-permalink: /guides/arts/visual-arts/
-breadcrumb: Visual Arts
+title: Literary Arts
+permalink: /guides/arts/literary-arts/
+breadcrumb: Literary Arts
 collection_name: arts
 third_nav_title: Arts
 ---
