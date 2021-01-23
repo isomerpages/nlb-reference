@@ -1,11 +1,11 @@
 ---
-title: History
-permalink: /guides/singapore/history/
-breadcrumb: history
-collection_name: history
-third_nav_title: Singapore
+title: Visual Arts
+permalink: /guides/arts/visual-arts/
+breadcrumb: Visual Arts
+collection_name: visual-arts
+third_nav_title: Arts
 ---
-<img src="/images/category/history.jpg" alt="history banner" style="width:800px;" />
+<img src="/images/category/visual-arts.jpg" alt="visual arts banner" style="width:800px;" />
 
 Insert description here.
 
@@ -35,5 +35,7 @@ Insert description here.
 	</div>
 </div>
 
-<p><p-->
+<p><p>
+
+
 

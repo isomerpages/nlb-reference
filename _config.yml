@@ -51,6 +51,8 @@ collections:
     output: true
   guides:
     output: true
+  visual-arts:
+    output: true
 resources_name: guides
 
 ##################################################################################################################
