@@ -3,7 +3,7 @@ title: People
 permalink: /guides/singapore/people/
 breadcrumb: People
 collection_name: people
-second_nav_title: "singapore"
+third_nav_title: Singapore
 ---
 <img src="/images/category/people.jpg" alt="people banner" style="width:800px;" />
 
