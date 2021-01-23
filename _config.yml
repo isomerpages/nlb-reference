@@ -47,6 +47,8 @@ collections:
     output: true
   places:
     output: true
+  history:
+    output: true
   guides:
     output: true
 resources_name: guides
