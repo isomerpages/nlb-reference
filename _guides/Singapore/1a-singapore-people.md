@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Singapore - People
+title: People
 permalink: /guides/singapore/people/
 breadcrumb: People
 collection_name: people
