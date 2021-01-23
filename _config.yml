@@ -43,6 +43,8 @@ collections:
     output: true
   temp:
     output: true
+  people:
+    output: true
 resources_name: guides
 
 ##################################################################################################################
