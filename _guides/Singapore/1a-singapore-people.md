@@ -1,5 +1,4 @@
 ---
-layout: leftnav-page-content
 title: People
 permalink: /guides/singapore/people/
 breadcrumb: People

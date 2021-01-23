@@ -1,7 +1,6 @@
 ---
-layout: leftnav-page-content
 title: Places
-permalink: /guides/singapore/pplaces/
+permalink: /guides/singapore/places/
 breadcrumb: Places
 collection_name: places
 
