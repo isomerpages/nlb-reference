@@ -45,6 +45,8 @@ collections:
     output: true
   people:
     output: true
+  places:
+    output: true
   guides:
     output: true
 resources_name: guides
