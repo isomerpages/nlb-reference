@@ -1,9 +1,8 @@
 ---
-title: Raffles in South-East Asia
-permalink: /category/singaporeandsoutheastasia/raffles-in-southeast-asia
-breadcrumb: Raffles in South-East Asia
-collection_name: category
-third_nav_title: Singapore and South East Asia
+title: Raffles in Southeast Asia
+permalink: /guides/singapore/people/raffles-in-southeast-asia/
+breadcrumb: Raffles in Southeast Asia
+collection_name: people
 ---
 
 ### <u>Guide Index</u>
@@ -28,7 +27,7 @@ third_nav_title: Singapore and South East Asia
 
 In his first published work, Raffles attempts to unite the diverse elements of the Malays and present the region as one “nationality”. He also sought to rectify the common European misapprehension that the Malays did not preserve any written record of their laws and customs.
 
- 
+
 ![History of java image](/images/category/singaporeandsoutheastasia/Raffles-in-SEA-rare-pic-2.jpg)
 
 **Source: Collection of the National Library Singapore, B03013619A**
@@ -39,7 +38,7 @@ Written on Raffles’s return to England in 1816, this classic work on Javanese 
 
 A modern reprint of this title is also available in: Raffles, S. T. & Bastin, J. S. (author of introduction). (1965). [The history of Java](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5234905). Kuala Lumpur: Oxford University Press. (Call no.: RSEA 959.82 RAF)
 
- 
+
 ![History of java v2 image](/images/category/singaporeandsoutheastasia/Raffles-in-SEA-rare-pic-3-e1548309660557.jpg)
 
 **Source: Collection of the National Library Singapore, B03013619A**
@@ -62,7 +61,7 @@ The National Library of Singapore holds the copy presented by Lady Raffles to Ra
 
 A modern reprint of this title is also available in, Raffles, S. & Bastin, J. S. (author of introduction). (1991). [Memoir of the life and public services of Sir Thomas Stamford Raffles](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6164277). Singapore: Oxford University Press. (Call no.: 959.57021092 RAF -\[HIS\])
 
- 
+
 ![Transactions image](/images/category/singaporeandsoutheastasia/Raffles-in-SEA-rare-pic-5.jpg)
 
 **Source: Collection of the National Library Singapore, B29033550E**
@@ -87,7 +86,7 @@ Edited by Raffles’s cousin Dr Rev. Thomas Raffles, this periodical contains ma
 
 During his term as Lieutenant Governor of Bencoolen (1818–1824), Raffles actively promoted the study of Sumatra. Besides undertaking expeditions, he also supported the work of missionaries among locals and encouraged his aides to write about the island, some of which were published in this periodical, Malayan Miscellanies, the first publication by the Sumatran Mission Press. The press, the very first in Sumatra, was set up by Baptist missionaries at the urging of Raffles.
 
- 
+
 ![instruments image](/images/category/singaporeandsoutheastasia/Raffles-in-SEA-rare-pic-8.jpg)
 
 **Source: Collection of the National Library Singapore, B29032262D**
