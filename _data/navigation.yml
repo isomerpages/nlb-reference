@@ -16,9 +16,9 @@ links:
       - title: Business
         url: /guides/business/career-guidance/
       - title: Science & Technology
-        url: /guides/science-technology/
-      - title: Social Sciences and Humanities
-        url: /guides/socialsciences-humanities/
+        url: /guides/science-technology/technology/
+      - title: Social Sciences & Humanities
+        url: /guides/socialsciences-humanities/social-sciences/
   - title: Geting Started
     sublinks:
       - title: Using OneSearch
