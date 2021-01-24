@@ -1,9 +1,8 @@
 ---
 title: Tan Boo Liat
-permalink: /guides/singapore/people/tan-boo-liat
+permalink: /guides/singapore/people/tan-boo-liat/
 breadcrumb: Tan Boo Liat
-collection_name: people
-third_nav_title: people
+collection_name: singapore-people
 ---
 
 ### <u>Guide Index</u>

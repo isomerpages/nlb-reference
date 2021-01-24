@@ -57,6 +57,12 @@ collections:
     output: true
   socsci-hum:
     output: true
+  singapore-people:
+    output: true
+  singapore-places:
+    output: true
+  singapore-history:
+    output: true
 resources_name: guides
 
 ##################################################################################################################
