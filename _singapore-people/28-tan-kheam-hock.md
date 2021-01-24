@@ -1,9 +1,8 @@
 ---
-title: Tan Kheam Hock
-permalink: /database/pioneers/tan-kheam-hock
-breadcrumb: Pioneers - Tan Kheam Hock
-collection_name: database
-third_nav_title: Pioneers
+title: Tan Kheam Hock 陈谦福
+permalink: /guides/singapore/people/tan-kheam-hock/
+breadcrumb: Tan Kheam Hock
+collection_name: people
 ---
 
 ### <u>Guide Index</u>
@@ -31,7 +30,7 @@ His primary place of residence was a mansion known as Penang Cot, located at Riv
 
 * Song, O. S. (2016). [One hundred years’ history of the Chinese in Singapore: The annotated edition](http://eresources.nlb.gov.sg/printheritage/detail/90de4577-25a7-416f-8ec6-994f1536c40b.aspx) [Original first published 1923; annotated by Kevin Y.L. Tan]. Singapore: National Library Board, pp. 358–362. Retrieved from BookSG.
 This is a biography of Tan and includes a portrait of him.
- 
+
 
 * 柯木林. (主编). [Ke, M. L. (Ed.).] (1995). [《新华历史人物列传》](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84500628) [Who’s who in the Chinese community of Singapore]. 新加坡: 教育出版公司, p. 94.
 Call no.: RSING 959.570092 WHO-\[HIS\].
@@ -41,23 +40,23 @@ This publication includes a brief biography of Tan.
 
 * [An untimely death](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19220422-1.2.40). (1922, April 22). Malaya Tribune, p. 7. Retrieved from NewspaperSG.
 This is an obituary for Tan.
- 
+
 
 * [Half a century ago…](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19580629-1.2.90) (1958, June 29). The Straits Times, p. 10. Retrieved from NewspaperSG.
 This article features Tan’s family portrait taken in 1908 and also describes his large family.
- 
+
 
 * [Late Mr. Tan Kheam Hock](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19220429-1.2.73). (1922, April 29). The Straits Times, p. 9. Retrieved from NewspaperSG.
 This obituary was written by Mr H. B. Leicester, Tan’s business partner and personal friend.
- 
+
 
 * [Late Mr. Tan Kheam Hock](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19220502-1.2.15). (1922, May 2). Malaya Tribune, p. 5. Retrieved from NewspaperSG.
 This is an obituary for Tan.
- 
+
 
 * [Tan Kheam Hock’s estate](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19261111-1.2.89). (1926, November 11). The Singapore Free Press and Mercantile Advertiser, p. 16. Retrieved from NewspaperSG.
 This is a report on a court case about concerning Tan’s sons and his estate.
- 
+
 
 * [The late Mr. Tan Kheam Hock](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19220501-1.2.30). (1922, May 1). The Singapore Free Press and Mercantile Advertiser, p. 7. Retrieved from NewspaperSG.
 This is a report about Tan’s funeral procession.
