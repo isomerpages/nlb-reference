@@ -55,6 +55,8 @@ collections:
     output: true
   sci-tech:
     output: true
+  socsci-hum:
+    output: true
 resources_name: guides
 
 ##################################################################################################################
