@@ -5,7 +5,7 @@ breadcrumb: Performing Arts
 collection_name: arts
 third_nav_title: Arts
 ---
-<img src="/images/category/visual-arts.jpg" alt="visual arts banner" style="width:800px;" />
+<img src="/images/category/performing-arts.jpg" alt="performing arts banner" style="width:800px;" />
 
 Insert description here.
 

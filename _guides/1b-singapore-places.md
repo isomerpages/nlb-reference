@@ -2,7 +2,7 @@
 title: Places
 permalink: /guides/singapore/places/
 breadcrumb: Places
-collection_name: places
+collection_name: singapore
 third_nav_title: Singapore
 ---
 <img src="/images/category/places.jpg" alt="places banner" style="width:800px;" />

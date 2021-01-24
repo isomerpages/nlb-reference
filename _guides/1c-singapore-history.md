@@ -2,7 +2,7 @@
 title: History
 permalink: /guides/singapore/history/
 breadcrumb: history
-collection_name: history
+collection_name: singapore
 third_nav_title: Singapore
 ---
 <img src="/images/category/history.jpg" alt="history banner" style="width:800px;" />
