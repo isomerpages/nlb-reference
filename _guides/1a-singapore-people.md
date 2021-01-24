@@ -5,6 +5,7 @@ breadcrumb: People
 collection_name: singapore
 third_nav_title: Singapore
 ---
+<<<<<<< HEAD
 <script>
 var acc = document.getElementsByClassName("accordion");
 var i;
@@ -22,6 +23,8 @@ for (i = 0; i < acc.length; i++) {
 }
 </script>
 
+=======
+>>>>>>> parent of bf375c1... update
 <img src="/images/category/people.jpg" alt="people banner" style="width:800px;" />
 
 Insert description here.
