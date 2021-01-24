@@ -1,9 +1,8 @@
 ---
-title: Lee Dai Sor
-permalink: /database/pioneers/lee-dai-sor
-breadcrumb: Pioneers - Lee Dai Sor
-collection_name: database
-third_nav_title: Pioneers
+title: Lee Dai Sor 李大傻
+permalink: /guides/singapore/people/lee-dai-sor/
+breadcrumb: Lee Dai Sor
+collection_name: people
 ---
 
 ### <u>Guide Index</u>
@@ -25,12 +24,12 @@ Lee Dai Sor (李大傻or 李福鸿) (1913 – 1989), or Lee Dai Soh, Li Da Sha, 
 * 李大傻 [Li, D. S.]. (1984). [《讲古的一生 : 李大傻自传》](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84473029) [His life as a storyteller: Lee Dai Sor autobiography]. 新加坡: 联邦出版社.
 Call no.: Chinese RSING 790.20924 LDS
 This autobiography of Lee Dai Sor was recorded and compiled through interviews conducted by Chen Huixian, a staff of Times Jurong and a fan of Lee’s storytelling. The book chronicles Lee’s life and experiences as a storyteller, with some mention of his family life.
- 
+
 
 * Lo-Ang, S. G., & Chua, C. H. (1992). [Vanishing trades of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6313327). Singapore: Oral History Department, p. 49-51.
 Call no.: RSING 338.642095957 VAN
 This book features occupations that have vanished or are disappearing due to modernisation and changes in society. Lee Dai Sor is featured in the chapter “Master Storytellers” along with fellow veteran storyteller Lee Yong Khern. The chapter explains the demise of the storytelling trade, which had been normally conducted in dialect, with the promotion of the Speak Mandarin Campaign.
- 
+
 
 * 柯木林. (主编). [Ke, M. L. (Ed.).] (1995). [《新华历史人物列传》](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=85400628) [Who’s who in the Chinese community in Singapore]. 新加坡：教育出版公司, p. 41.
 Call no.: RSING 959.570092 WHO-\[HIS\].
@@ -45,15 +44,15 @@ This article traces the early life of Lee Dai Sor, his family and growing up yea
 
 * Liew, S. C. (1978, May 9). [The storyteller](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19780509-1.2.64). New Nation, pp. 10-11. Retrieved from NewspaperSG.
 This article traces Lee’s life and his career as a storyteller. It notes that Lee changed his name from Lee Fook Hong to Lee Dai Sor so that it could be remembered and easily distinguished by his listeners. Dai Sor is translated as “Big Fool” in English.
- 
+
 
 * [Obituary](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890324.2.49.3). (1989, March 24). The Straits Times, p. 38. Retrieved from NewspaperSG.
 This was an obituary of Lee Dai Sor, who passed away on 23 March 1989 at age 76. He was cremated at Mount Vernon Crematorium.
- 
+
 
 * [《悼念李大傻》](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19890402-1.2.67.2.1) [Remembering Lee Dai Sor]. (1989, April 2).《联合早报》[Lianhe Zaobao], p. 37. Retrieved from NewspaperSG.
 An eulogy to Lee Dai Sor written by an acquaintance. The writer described Lee as a humorous storyteller and regarded him as the best in the trade in Southeast Asia.
- 
+
 
 ### <u>Selected oral history interview on Lee Dai Sor</u>
 
