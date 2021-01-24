@@ -5,6 +5,9 @@ breadcrumb: People
 collection_name: singapore
 third_nav_title: Singapore
 ---
+var acc = document.getElementsByClassName("accordion");
+var i;
+
 <img src="/images/category/people.jpg" alt="people banner" style="width:800px;" />
 
 Insert description here.
