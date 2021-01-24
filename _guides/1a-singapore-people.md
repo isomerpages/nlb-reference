@@ -9,6 +9,44 @@ third_nav_title: Singapore
 
 Insert description here.
 
+<style>
+.container {
+    width: 300px;
+    max-height: 0;
+    background-color: lightblue;
+    text-overflow: ellipsis;
+    transition: max-height 1s ease-out;
+    overflow: hidden;
+}
+
+a.test {
+    cursor: default;
+    text-decoration: none;
+}
+
+a.test:focus ~ div.container{
+    max-height: 1000px;
+    transition: max-height 1s;
+    text-decoration: none;
+    cursor: default;
+    
+}
+
+</style>
+
+<a class="test" href="#">More details here</a>
+<div class="container">
+    <p class="more-info">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam congue mi sed euismod congue.
+        Donec sodales feugiat nisi, vulputate posuere diam. Vestibulum sed malesuada ex, vestibulum congue ex. Fusce id
+        enim elit.
+        Maecenas in purus sed tortor dapibus mollis. Proin congue velit ac augue volutpat interdum. In pellentesque
+        ligula et odio feugiat, vitae gravida lorem rhoncus. Sed vestibulum nisl euismod ligula ornare, eu malesuada
+        urna lobortis.
+        Pellentesque mollis sollicitudin libero, a tincidunt quam lacinia sodales. Mauris ultrices tempor elit, ac
+        pulvinar nibh blandit vel.
+    </p>
+</div>
+
 
 <!--div>
 	<div class="row is-multiline">
