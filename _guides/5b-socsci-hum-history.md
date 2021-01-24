@@ -5,7 +5,7 @@ breadcrumb: History
 collection_name: socsci-hum
 third_nav_title: Social Sciences & Humanities
 ---
-<img src="/images/category/history.jpg" alt="history banner" style="width:800px;" />
+<img src="/images/category/history-2.jpg" alt="history banner" style="width:800px;" />
 
 Insert description here.
 
