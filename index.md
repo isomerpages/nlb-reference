@@ -7,8 +7,8 @@ permalink: /
 notification: This site is still in construction, thank you
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
+        title: Reference@NLB
+        subtitle: Reference guides and more
         background: /images/hero-banner.png
         button: Contact Us
         url: /contact-us/
