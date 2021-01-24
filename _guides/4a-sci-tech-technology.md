@@ -1,11 +1,11 @@
 ---
-title: Innovation
-permalink: /guides/business/innovation/
-breadcrumb: innovation
-collection_name: business
-third_nav_title: Business
+title: Technology
+permalink: /guides/science-technology/technology/
+breadcrumb: Technology
+collection_name: sci-tech
+third_nav_title: Science & Technology
 ---
-<img src="/images/category/innovation.jpg" alt="innovation banner" style="width:800px;" />
+<img src="/images/category/technology.jpg" alt="technology banner" style="width:800px;" />
 
 Insert description here.
 

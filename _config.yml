@@ -53,6 +53,8 @@ collections:
     output: true
   visual-arts:
     output: true
+  sci-tech:
+    output: true
 resources_name: guides
 
 ##################################################################################################################

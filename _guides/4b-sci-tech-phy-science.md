@@ -1,11 +1,11 @@
 ---
-title: Innovation
-permalink: /guides/business/innovation/
-breadcrumb: innovation
+title: Management
+permalink: /guides/business/management/
+breadcrumb: Management
 collection_name: business
 third_nav_title: Business
 ---
-<img src="/images/category/innovation.jpg" alt="innovation banner" style="width:800px;" />
+<img src="/images/category/management.jpg" alt="management banner" style="width:800px;" />
 
 Insert description here.
 
