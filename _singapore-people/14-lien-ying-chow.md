@@ -1,9 +1,8 @@
 ---
-title: Lien Ying Chow
-permalink: /database/pioneers/lien-ying-chow
-breadcrumb: Pioneers - Lien Ying Chow
-collection_name: database
-third_nav_title: Pioneers
+title: Lien Ying Chow 连瀛洲
+permalink: /guides/singapore/people/lien-ying-chow/
+breadcrumb: Lien Ying Chow
+collection_name: people
 ---
 
 ### <u>Guide Index</u>
@@ -32,53 +31,53 @@ Lien was 98 when he passed away on 6 August 2004. He had four wives, four sons a
 * 柯木林主编; 林孝胜 & 张清江副编. [Ke, M. L., Lin, X. S., & Zhang, Q. J. (Eds.).] (2015). [《新加坡华人通史》 [A general history of the Chinese in Singapore]](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202251084). 新加坡: 新加坡宗乡会馆联合总会.
 Call no.: RSING 959.57004951 GEN
 This is a comprehensive account of the Chinese who settled in Singapore since the 13th century. It comprises essays on various topics such as education, economy and politics, and includes an entry on Lien Ying Chow.
- 
+
 
 * 李志贤 [Li, Z. X.] (2011). [《流金岁月: 醉花林俱乐部一六六周年暨新会所开幕双庆纪念特辑, 1845-2011》](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14322127) [The gilded years]. Singapore: 醉花林俱乐部.
 Call no.: RSING 369.25957 LZX
 This is a souvenir publication commemorating the 166th anniversary of the Chui Huay Lim Club and the official opening of a new clubhouse. It includes a write up on Lien Ying Chow.
- 
+
 
 * 区如柏. [Ou, R. B.] (2009). [《先贤的脚印》](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13184168)[In our pioneers’ footsteps]. 新加坡: 新加坡靑年书局.
 Call no.: RSING 920.05957 ORB
 This is a collection of interviews with prominent personalities from various fields, including Lien Ying Chow.
- 
+
 
 * Lim, R., & Overseas Union Bank Ltd. (1999). [Building a Singapore bank: The OUB story](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9351543). Singapore: Overseas Union Bank Limited.
 Call no.: RSING q332.1095957 LIM
 This coffee table book commemorates OUB’s 50th anniversary (1949–1999).
- 
+
 
 * Lien, Y. C. & Kraar, L. (1992). [From Chinese villager to Singapore tycoon: My life story](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6300157). Singapore: Times Books International.
 Call no.: RSING 338.092 LIE
 This is Lien Ying Chow’s biography, which also includes his family tree.
- 
+
 
 ### <u>Selected newspaper articles on Lien Ying Chow</u>
 
 * Heng, J. (2007. February 1). [Ngee Ann honours late Lien Ying Chow](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20070201-1.2.15.8). Business Times, p. 9. Retrieved from NewspaperSG.
 This is a report on the naming ceremony of the Lien Ying Chow Library as well as the opening of the Lien Ying Chow Gallery at Ngee Ann Polytechnic.
- 
+
 
 * Koh, J. (2004, August 9). [Inspiring story of Lien Ying Chow lives on](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20040809-1.2.12.1). Business Times, p. 4. Retrieved from NewspaperSG.
 This article provides a detailed write up on the life of Lien Ying Chow and the major milestones in his life.
- 
+
 
 * [Banker Lien Ying Chow dies, aged 98](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20040807-1.2.8.1). (2004, August 7). The Straits Times, p. 3. Retrieved from NewspaperSG.
 The article announces the death of Lien Ying Chow.
- 
+
 
 * Chuang, P. M. (1992, February 17). [The making of a S’pore tycoon](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19920217-1.2.28.3). Business Times, p. 13. Retrieved from NewspaperSG.
 This article features Lien Ying Chow’s recently published book on his success story as well as his work and business philosophies.
- 
+
 
 * Balan, A. (1989, January 30). [Shrewdness, foresight and a sharp eye for ventures](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19890130-1.2.23.1). Business Times, p. 9. Retrieved from NewspaperSG.
 Learn more about Lien Ying Chow’s life story in this article.
- 
+
 
 * [The ambassador – 2](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19660710-1.2.13.2). (1966, July 10). The Straits Times, p. 2. Retrieved from NewspaperSG.
 This article served as an introduction to Lien Ying Chow as he commenced his role as Singapore’s High Commissioner in Malaysia.
- 
+
 
 ### <u>Selected oral history interviews on Lien Ying Chow</u>
 
