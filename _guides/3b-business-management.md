@@ -3,12 +3,11 @@ title: Management
 permalink: /guides/business/management/
 breadcrumb: Management
 collection_name: business
-third_nav_title: business
+third_nav_title: Business
 ---
 <img src="/images/category/management.jpg" alt="management banner" style="width:800px;" />
 
 Insert description here.
-
 
 <!--div>
 	<div class="row is-multiline">
@@ -33,7 +32,7 @@ Insert description here.
 			</a>
 		</div>
 	</div>
-</div>
+</div-->
 
 <p><p>
 

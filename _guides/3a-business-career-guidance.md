@@ -3,12 +3,11 @@ title: Career Guidance
 permalink: /guides/business/career-guidance/
 breadcrumb: Career Guidance
 collection_name: business
-third_nav_title: business
+third_nav_title: Business
 ---
 <img src="/images/category/career-guidance.jpg" alt="career guidance banner" style="width:800px;" />
 
 Insert description here.
-
 
 <!--div>
 	<div class="row is-multiline">
@@ -33,7 +32,7 @@ Insert description here.
 			</a>
 		</div>
 	</div>
-</div>
+</div-->
 
 <p><p>
 
