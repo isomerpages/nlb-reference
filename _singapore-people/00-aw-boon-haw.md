@@ -1,7 +1,7 @@
 ---
-title: Aw Boon Haw
+title: Aw Boon Haw 胡文虎
 permalink: /guides/singapore/people/aw-boon-haw/
-breadcrumb: Pioneers - Aw Boon Haw
+breadcrumb: Aw Boon Haw
 collection_name: people
 ---
 
