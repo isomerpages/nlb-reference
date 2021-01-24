@@ -1,5 +1,5 @@
 ---
-title: Cheang Hong Lim
+title: Cheang Hong Lim 章芳琳
 permalink: /guides/singapore/people/Cheang Hong Lim/
 breadcrumb: Cheang Hong Lim
 collection_name: people
