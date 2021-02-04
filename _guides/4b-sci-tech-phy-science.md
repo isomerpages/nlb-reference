@@ -13,7 +13,7 @@ Insert description here.
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/guides/science-technology/physical-sciences/climate-change" class="project-link">
-				<img src="/images/sci-tech/temp sci file 1.jpg" alt="ASEAN - A Regional Profile" class="project-image">
+				<img src="/images/sci-tech/temp sci file 1.jpg" alt="Climate Change" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Climate Change</b></h5>
@@ -26,7 +26,7 @@ Insert description here.
 				<img src="/images/sci-tech/temp sci file 2.jpg" alt="Air Pollution" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>ASEAN@50: Historic Milestones</b></h5>
+					<h5><b>Air Pollution</b></h5>
 				</div>
 			</div>
 			</a>

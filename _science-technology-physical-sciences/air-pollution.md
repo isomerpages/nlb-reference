@@ -1,8 +1,10 @@
 ---
+layout: leftnav-page-content
 title: Air Pollution
 permalink: /guides/science-technology/physical-sciences/air-pollution
 breadcrumb: Air Pollution
-collection_name: sci-tech
+collection_name: science-technology-physical-sciences
+third_nav_title: Science & Technology
 ---
 
 ### <u>Guide Index</u>
