@@ -16,6 +16,8 @@ collection_name: science-technology-physical-sciences
 
 ## Introduction
 
+<img src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-rare-pic-2.jpg" style="width:180px;" />
+
 ![Raffles image](/images/category/singaporeandsoutheastasia/Raffles-in-SEA-pic-1.jpg) 
 
 Climate change refers to significant, long-term changes in the global climate. The global climate is the connected system of sun, earth and oceans, wind, rain and snow, forests, deserts and savannas, and everything people do, too. Changes in the global climate and resultant changes to land areas, oceans and coastal regions impact us and all other living creatures on this planet.
