@@ -1,4 +1,4 @@
-title: Title
+title: Lee Kong Chian Reference Library
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /images/favicon-isomer.ico
 
@@ -29,9 +29,9 @@ collections:
     output: true
   category:
     output: true
-  resource guides:
+  resource-guides:
     output: true
-  getting started:
+  getting-started:
     output: true
   other formats:
     output: true

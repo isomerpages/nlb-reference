@@ -23,10 +23,14 @@ links:
     sublinks:
       - title: Using OneSearch
         url: /getting-started/onesearch/
-      - title: Using eDatabases
-        url: /getting-started/edatabases/
-      - title: Other How-to-use Guides
-        url: /getting-started/other-guides/
+      - title: Using ProQuest
+        url: /getting-started/proquest/
+      - title: Using EBSCOHost
+        url: /getting-started/ebscohost/
+      - title: Using Factiva
+        url: /getting-started/factiva/
+      - title: Using JSTOR
+        url: /getting-started/jstor/
       - title: Fighting Fake News
         url: /getting-started/fighting-fake-news/
   - title: Other Formats
