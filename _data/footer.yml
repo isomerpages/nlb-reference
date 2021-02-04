@@ -1,7 +1,7 @@
 contact_us: /contact-us/
 show_reach: true
-feedback: 
-faq: /faq/
+# feedback: 
+# faq: /faq/
 social_media:
     facebook: https://www.facebook.com/NationalLibrarySG
     twitter: https://twitter.com/nlsg
