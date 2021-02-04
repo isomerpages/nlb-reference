@@ -55,7 +55,9 @@ collections:
     output: true
   sci-tech:
     output: true
-  phys-sci:
+  science-technology-physical-sciences:
+    output: true
+  science-technology-technology:
     output: true
   socsci-hum:
     output: true
