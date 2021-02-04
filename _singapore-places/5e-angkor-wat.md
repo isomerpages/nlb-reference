@@ -9,8 +9,8 @@ third_nav_title: Singapore and South East Asia
 ### <u>Guide Index</u>
 
 * [Introduction](#introduction)
-* [Books on Arts & Architecture](#books-on-arts-&-architecture)
-* [Books on History & Culture](#books-on-history-&-culture)
+* [Books on Arts & Architecture](#booksartsarchitecture)
+* [Books on History & Culture](#bookshistoryculture)
 * [Newspaper Articles](#newspaper-articles)
 * [Journal and Periodical Articles (Online)](#journal-and-periodical-articles-online)
 * [Images](#images)
@@ -33,7 +33,7 @@ With a north-south axis that runs 1,300 metres and 1,500 metres on the east-west
 | Relief (Sculpture) – Khmer | 732.409596 |
 | History – Cambodia (Khmer Republic, Kampuchea) | 959.6 |
 
-### <u>Books on Arts & Architecture</u>
+### <a name="booksartsarchitecture"></a><u>Books on Arts & Architecture</u>
 (listed in alphabetical order)
 
 * Bhandari, C. M. (1995). [Saving Angkor](http://eservice.nlb.gov.sg/item_holding.aspx?bid=8674645). Bangkok: White Orchid Press.
@@ -240,7 +240,7 @@ Call no.: English 720.9 WIL (Available only at Public Libraries).
 The construction, visual analysis and key architectural features of Angkor Wat is among the 20 architectural profiles featured in this book.
 
 
-### <u>Books on History & Culture</u>
+### <a name="bookshistoryculture"></a><u>Books on History & Culture</u>
 (listed in alphabetical order)
 
 * Albanese, M. (2013). [Angkor: splendors of the Khmer civilization](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200179680). Novara, Italy: White Star Publishers.
