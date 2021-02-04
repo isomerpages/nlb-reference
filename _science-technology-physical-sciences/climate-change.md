@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Climate Change
 permalink: /guides/science-technology/physical-sciences/climate-change
 breadcrumb: Climate Change
-collection_name: science-technology-physical-sciences
+collection_name: sci-tech
 third_nav_title: Science & Technology
 ---
 
