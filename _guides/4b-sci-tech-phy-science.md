@@ -33,8 +33,28 @@ Insert description here.
 		</div>
 	</div>
 </div>
-
-<p><p>
-
-
+<div>
+	<div class="row is-multiline">
+		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/guides/guides/test" class="project-link">
+				<img src="/images/sci-tech/temp sci file 1.jpg" alt="Test 1" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Test link 1</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<div class="col is-half-tablet padding--bottom--lg">
+			<a href="/guides/guides/test/" class="project-link">
+				<img src="/images/sci-tech/temp sci file 2.jpg" alt="Test 2" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Test link 2</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+	</div>
+</div>
 
