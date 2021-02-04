@@ -2,7 +2,7 @@
 title: Air Pollution
 permalink: /guides/science-technology/physical-sciences/air-pollution
 breadcrumb: Air Pollution
-collection_name: sci-tech
+collection_name: phys-sci
 ---
 
 ### <u>Guide Index</u>

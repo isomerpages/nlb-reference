@@ -39,7 +39,7 @@ collections:
     output: true
   Singapore:
     output: true
-  Business:
+  business:
     output: true
   temp:
     output: true
@@ -54,6 +54,8 @@ collections:
   visual-arts:
     output: true
   sci-tech:
+    output: true
+  phys-sci:
     output: true
   socsci-hum:
     output: true
