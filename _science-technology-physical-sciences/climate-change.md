@@ -1,9 +1,9 @@
 ---
-layout: leftnav-page-content
 title: Climate Change
 permalink: /guides/science-technology/physical-sciences/climate-change
 breadcrumb: Climate Change
 collection_name: sci-tech
+third_nav_title: Science & Technology
 ---
 
 ### <u>Guide Index</u>
@@ -16,6 +16,8 @@ collection_name: sci-tech
 * [Author](#author)
 
 ## Introduction
+
+![Raffles image](/images/category/singaporeandsoutheastasia/Raffles-in-SEA-pic-1.jpg) 
 
 Climate change refers to significant, long-term changes in the global climate. The global climate is the connected system of sun, earth and oceans, wind, rain and snow, forests, deserts and savannas, and everything people do, too. Changes in the global climate and resultant changes to land areas, oceans and coastal regions impact us and all other living creatures on this planet.
 

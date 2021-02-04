@@ -9,31 +9,30 @@ third_nav_title: Singapore
 
 Insert description here.
 
-<!--div>
-	<div class="row is-multiline">
-		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/asean-countries/know/overview-of-asean-countries/asean-a-regional-profile/" class="project-link">
-				<img src="/images/asean-countries/asean-small.jpg" alt="ASEAN - A Regional Profile" class="project-image">
-			<div class="project-card">
-				<div class="project-title margin--bottom--xs">
-					<h5><b>ASEAN: A Regional Profile</b></h5>
-				</div>
+<div>
+<div class="row is-multiline">
+	<div class="col is-half-tablet padding--bottom--lg">
+		<a href="/guides/singapore/people/aw-boon-haw/" class="project-link">
+			<img src="/images/Picture1.PNG" alt="Aw Boon Haw" class="project-image">
+		<div class="project-card">
+			<div class="project-title margin--bottom--xs">
+				<h5><b>Aw Boon Haw</b></h5>
 			</div>
-			</a>
 		</div>
-		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/asean-countries/know/overview-of-asean-countries/asean-50-historic-milestones/" class="project-link">
-				<img src="/images/asean-countries/asean-50.jpg" alt="ASEAN@50 - Historic Milestones" class="project-image">
-			<div class="project-card">
-				<div class="project-title margin--bottom--xs">
-					<h5><b>ASEAN@50: Historic Milestones</b></h5>
-				</div>
+		</a>
+	</div>
+	<div class="col is-half-tablet padding--bottom--lg">
+		<a href="/guides/singapore/people/Cheang-Hong-Lim/" class="project-link">
+			<img src="/images/Picture2.PNG" alt="Cheang Hong Lim" class="project-image">
+		<div class="project-card">
+			<div class="project-title margin--bottom--xs">
+				<h5><b>Cheang Hong Lim</b></h5>
 			</div>
-			</a>
 		</div>
+		</a>
 	</div>
 </div>
-
+</div>
 <p><p>
 
 <div>
