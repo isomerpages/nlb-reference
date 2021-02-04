@@ -1,8 +1,8 @@
 ---
 title: 100 Seminal Books Social Services - Vulnerable Children and Youth
-permalink: /temp/100seminalbooks/vulnerable-children-and-youth
+permalink: /socsci-hum/100seminalbooks/vulnerable-children-and-youth
 breadcrumb: 100 Seminal Books Social Services - Vulnerable Children and Youth
-collection_name: temp
+collection_name: socsci-hum
 # third_nav_title: 100 Seminal Books
 ---
 
@@ -26,7 +26,7 @@ The 14 titles in this resource guide are listed alphabetically and cover various
 ### <u>Books</u>
 
 (listed in alphabetical order)
- 
+
 ![book icon](/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png)
 
 **A child’s journey through placement** 

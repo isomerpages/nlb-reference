@@ -9,8 +9,9 @@ third_nav_title: Social Sciences & Humanities
 
 Insert description here.
 
-<!--div>
+<div>
 	<div class="row is-multiline">
+		<!--Here is one box in one row
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/asean-countries/know/overview-of-asean-countries/asean-a-regional-profile/" class="project-link">
 				<img src="/images/asean-countries/asean-small.jpg" alt="ASEAN - A Regional Profile" class="project-image">
@@ -20,7 +21,8 @@ Insert description here.
 				</div>
 			</div>
 			</a>
-		</div>
+		</div> -->
+		<!-- Here is box two in one row
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/asean-countries/know/overview-of-asean-countries/asean-50-historic-milestones/" class="project-link">
 				<img src="/images/asean-countries/asean-50.jpg" alt="ASEAN@50 - Historic Milestones" class="project-image">
@@ -30,7 +32,7 @@ Insert description here.
 				</div>
 			</div>
 			</a>
-		</div>
+		</div> -->
 	</div>
 </div-->
 

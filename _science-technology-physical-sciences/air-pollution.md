@@ -1,8 +1,8 @@
 ---
 title: Air Pollution
-permalink: /temp/air-pollution
+permalink: /guides/science-technology/physical-sciences/air-pollution
 breadcrumb: Air Pollution
-collection_name: temp
+collection_name: sci-tech
 ---
 
 ### <u>Guide Index</u>
