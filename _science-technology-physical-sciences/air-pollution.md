@@ -5,10 +5,14 @@ breadcrumb: Air Pollution
 collection_name: science-technology-physical-sciences
 ---
 
+![Air Pollution](\images\sci-tech\air-pollution-banner.jpg)
+
+Photo credit: [www.pexels.com](https://www.pexels.com/photo/air-air-pollution-climate-change-dawn-221012/)
+
 ### <u>Guide Index</u>
 
 * [Introduction](#introduction)
-* [Causes of Air Pollution](#causes-of-air-pollution)
+* [Books](#books)
 * [Effects of Air Pollution](#effects-of-air-pollution)
 * [Solutions and Preventive Measures](#solutions-and-preventive-measures)
 * [Databases](#databases)
@@ -19,107 +23,136 @@ collection_name: science-technology-physical-sciences
 
 ## <u>Introduction</u>
 
-Air pollution is the accumulation in the atmosphere of substances that in sufficient concentrations, degrade ecosystems and endanger human health. Most air pollution is caused by human activities, but certain natural processes such as a forest fire can pollute the air.
+Air pollution is the accumulation in the atmosphere of substances that, in sufficient concentrations, degrade ecosystems, damage buildings and endanger human health. Most air pollution is caused by human activities, but there are some natural sources of air pollution such as wildfires or volcanic ash.[^1]
 
-<b><u>Pollutants and Sources</u></b>
+[^1]: Air pollution. (2011, April 4). *National Geographic*. Retrieved February 4, 2021 from https://www.nationalgeographic.org/encyclopedia/air-pollution/
 
-The following substances are common air pollutants:
+Some common air pollutants are soot, smoke, mold, pollen, methane and carbon dioxide. These can reach harmful concentrations both indoors and outdoors. Tiny particles smaller than 10 micrometers (classified as PM10 and PM2.5) can even be breathed into our lungs and into our bloodstream. Air pollution has caused an estimated 4.2 million premature deaths in 2016, about 90% of them in low- and middle-income countries.[^2] Air pollution has been linked to higher rates of cancer, heart disease, stroke, and other respiratory diseases.
 
-* Carbon monoxide, an odorless, colorless gas, is produced by the combustion, or burning, of petroleum products, including heating oil, gasoline, and diesel fuel.
-* Sulfur oxides (SOx) are gases produced by combustion of fuels that contain sulfur, including coals and high-sulfur petroleum products such as heavy fuel oils, and by industrial smelting plants and facilities that manufacture coke, a form of coal used as fuel in blast furnaces.
-* Nitrogen oxides (NOx) are produced by the combustion of fossil fuels, especially gasoline, in automobiles and other vehicles, and in electric power plants.
-Small, airborne particles, called particulates or more commonly known as soot, are formed by the combustion of coal, especially by electric power generators and heavy industry. Particulates also form, to a lesser extent, from combustion of diesel fuel and fuel oil by vehicles and heavy industry. Mixtures of gases with extremely small liquid and solid particles are commonly called smoke.
-* Volatile organic compounds (VOCs) are formed by the evaporation of petroleum-derived chemical products such as gasoline and other fuels, solvents, and oil-based paints. Emissions of unburned fuel by gasoline engines also contribute.
-* Airborne lead is emitted in the exhaust of vehicles that burn leaded gasoline and can also be emitted by lead smelters and lead-processing industries. Lead is a gas when it emerges from the combustion chamber, but as it cools it condenses to particle form.
-* Ammonia gas occurs in industrial emissions and in the volatile emissions from animal wastes, especially at large animal holding facilities such as feedlots. It may collect as a liquid in the field, feedlot, or lagoon, but it evaporates into a gaseous form, especially on hot days.
-* Chlorofluorocarbons (CFCs) are gases that in the past were used as coolants in products such as refrigerators and air conditioners. However, there are still many older air conditioners and refrigerators that contain CFCs.
-* Ozone is a gas that is a dangerous pollutant in some situations and is beneficial in others. In the atmosphere, air containing high levels of ozone is harmful to the health, and exposure to such air can damage plants and many materials. Two major sources of ozone pollution are automobiles and electric power plants.
+[^2]: Ambient (outdoor) air pollution. (2018, May 2). *World Health Organisation*. Retrieved February 4, 2021 from https://www.who.int/en/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health/
 
-NOx and VOCs also combine to form smog, which appears as a dense haze over a city on hot summer days. SOx and NOx pollutants react with water in the atmosphere to form acid rain. A number of primary pollutants including SOx, NOx and ammonia can condense in the atmosphere to form tiny particulates that eventually fall to the Earth in a process known as deposition.
+Beyond individual health, air pollution is known to have direct impacts on our environment. Climate change, global warming, ozone layer depletion, smog and acid rain are some effects of air pollution. Singapore has encountered situations with heavy haze in the past as well.
 
-With the exception of lead and CFCs, all of these compounds also occur as natural constituents of the atmosphere at low concentrations. Natural events or processes that create common pollutants include forest fires, volcanic eruptions, wetlands processes, lightning strikes and the rotting of woodland vegetation (VOCs). Although forest fires and volcanic eruptions can temporarily degrade the local air quality, overall these natural events and processes create far less pollution than modern, human-created technology, especially since the Industrial Revolution.
+Internationally, countries have begun working together to reduce air pollution and improve air quality worldwide. Renewable energy and zero-emission alternatives to vehicles and machines are being developed and implemented. Governments have also made commitments to limit emissions of carbon dioxide and greenhouse gases, through agreements such as the Paris Agreement and the Kigali Agreement.[^3]
 
-<b><u>Effects On Humans</u></b>
-
-People experience a wide range of health effects from being exposed to air pollution such as pneumonia or bronchitis, irritation to the nose, throat, eyes, or skin, headaches, dizziness, and nausea. Bad smells made by factories, garbage, or sewer systems are considered air pollution, too. These odours are less serious but still unpleasant. Other effects from air pollution include heart disease, lung cancer, and respiratory diseases such as emphysema. Air pollution can also cause damage to people’s nerves, brain, kidneys, liver, and other organs. Some scientists suspect air pollutants cause birth defects.
-
-<b><u>Regulation</u></b>
-
-In addition to the international Kyoto Protocol, most developed nations have adopted laws to regulate emissions and reduce air pollution. In the United States, debate is under way about a system called Cap and Trade to limit emissions. This system would cap or place a limit on the amount of pollution a company is allowed. Companies that exceeded their cap would have to pay. Companies that polluted less than their Cap could Trade or sell their remaining pollution allowance to other companies. Cap and Trade would essentially pay companies to limit pollution.
-
-In 2006 the World Health Organization issued new Air Quality Guidelines. The WHOs guidelines are tougher than most individual countries existing guidelines. The WHO guidelines aim to reduce air pollution-related deaths by 15 percent a year.
-
-<b><u>Reduction</u></b>
-
-There are many steps to reduce air pollution such as taking public transportation instead of driving a car, car pool or riding a bike instead of travelling in carbon dioxide-emitting vehicles, avoiding aerosol cans, recycling yard trimmings instead of burning them and not smoking cigarettes.
-
-Source: National Geographic Society. (2011, April 4). Air pollution. Retrieved from National Geographic Society website: http://education.nationalgeographic.com/education/encyclopedia/air-pollution/?ar_a=1
+[^3]: Nunez, Christina. (2019, May 13). Carbon dioxide levels are at a record high. Here's what you need to know. *National Geographic*. Retrieved February 4, 2021 from https://www.nationalgeographic.com/environment/global-warming/greenhouse-gases/
 
 This guide highlights resources on air pollution and haze that are available at the Lee Kong Chian Reference Library as well as on the Internet. As the guide is not intended to be comprehensive, interested readers should search the NLB catalogue or the Internet for more resources.
 
  
 
 | **Search Terms** | **Call Numbers** |
-| Intergovernmental cooperation Southeast Asia, Southeast Asia Environmental conditions | 341.2473 |
-| Forest fires Environmental aspects, Forest fires Research, Smaze Environmental aspects, Smaze Research, Forest ecology | 363.379 |
+| Intergovernmental cooperation (Southeast Asia), Southeast Asia Environmental conditions | 341.2473 |
+| Forest fires (Environmental aspects), Forest fires (Research), Smaze (Environmental aspects), Smaze (Research), Forest ecology | 363.379 |
 | Air Pollution	| 363.7 |
-| Forest fires Southeast Asia Prevention and control, Forests and forestry Fire management Southeast Asia |	634.9618 |
+| Forest fires (Southeast Asia, Prevention and control), Forests and forestry, Fire management (Southeast Asia) |	634.9618 |
 
 
 ### <u>Causes of Air Pollution</u>
-
-<b><u>Books</u></b>
+<a name="books"></a>
+## Books
 
 (listed in alphabetical order)
 
- 
+**Air Pollution: health and environmental impacts**
 
-* Chiras, Daniel D. (2010). 8th ed. [Environmental Science](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13366474). 8th ed. Sudbury, Mass.; Singapore: Jones and Bartlett Publishers. <br>
+<img src="/images/sci-tech/Air pollution health and environmental impacts.jpg" style="width:180px;" />
+
+Bhola R. G., et al. (Eds.). (2010). [*Air Pollution: health and environmental impacts.*](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13600794) Boca Raton, Fla.: CRC Press.
+
+Call Number: R 363.7392 AIR
+
+The book examines the effect of air pollution on human health and the environment in different settings around the world. It not only covers general modeling, monitoring, and characterization techniques but also includes field studies and cases that offer valuable insight into region-specific issues.
+
+**Clearing the air: The beginning and the end of air pollution**
+
+<img src="/images/sci-tech/clearing the air.jpg" style="width:180px;" />
+
+Smedly, T. (2019). [*Clearing the air: The beginning and the end of air pollution*](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203834603)*.* London: Bloomsbury Sigma.
+
+Call number: 363.7392 SME
+
+Sustainability journalist Tim Smedley explores what air pollution is, how it is harmful, where they come from and which cities are battling it. The book also explores some possible solutions to the problem. 
+
+**Encyclopedia of global warming & climate change. (vols.1-3)**
+
+<img src="/images/sci-tech/Encyclopedia of global warming and climate change.jpg" style="width:180px;" />
+
+Philander, S. G. (Ed.). (2012). [*Encyclopedia of global warming & climate change*](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14692138). Thousand Oaks, Calif.: SAGE Publications, Inc.
+
+Call Number: R 363.7387403 ENC
+
+Philander explores and explains the importance of global warming and climate change and the effects of human activity and greenhouse gases around the world.
+
+**Environmental Science**
+
+<img src="/images/sci-tech/Environmental Science.jpg" style="width:180px;" />
+
+Chiras, Daniel D. (2010). 8th ed. [*Environmental Science*](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13366474). 8th ed. Sudbury, Mass.; Singapore: Jones and Bartlett Publishers.
+
 Call Number: R 363.7 CHI
 
 This book discusses environmental issues such as preserving biological diversity, energy conservation and consumption and environmental protection policies.
 
+**Every breath you take: A user's guide to the atmosphere**
 
-* Colls, J. (2002). [Air Pollution](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827016). London; New York: Spon Press. <br>
-Call Number: R 363.7392 COL
+<img src="/images/sci-tech/Every breath you take.jpg" style="width:180px;" />
 
-This edition emphasises on indoor air quality including Air Pollution Control and Measurement of Industrial Emissions. Other topics covered include the sources and sinks of gaseous and particulate air pollutants, dispersion measurement, mobile sources, indoor air pollutants, and the effects on plants, materials, humans and animals. Local case-studies are referred to, demonstrating the application of theory to practice.
+Broomfield, M. (2019). [*Every breath you take: A user's guide to the atmosphere.*](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203945295) London: Duckworth.
 
+Call Number: 363.7392 BRO
 
-* Colls, J. (1997). [Air Pollution: an introduction](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=8603123). London: E & FN Spon. <br>
-Call Number: R 363.7392 COL
+<!-- add description -->
 
-Air pollution is a universal problem with consequences ranging from the immediate death of plants and people to gradually declining crop yields and damaging buildings.
+**The great smog of China : a short event history of air pollution**
 
+<img src="/images/sci-tech/The great smog of China.jpg" style="width:180px;" />
 
-* Godish, T. (2004). [Air Quality](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11874698). Boca Raton, Fla.; Lewis Publishers; London: CRC. <br>
-Call Number: R 363.7392 GOD
+Ahlers, A. L., Hansen, M. H., & Svarverud, R. (2020). [*The great smog of China : a short event history of air pollution*](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=205255789)*.* Ann Arbor, MI: Association for Asian Studies, Inc.
 
-Ozone-destroying chemicals, greenhouse gases, and dangerous airborne substances are the most urgent issues facing air pollution control experts. This book explores these current trends while also covering the fundamental concepts of this emerging discipline.
+Call number: 363.7392 AHL
 
+This book traces the history or air pollution in China over more than 2000 years, how they have been communicated and their impact on society.
 
-* [Hemispheric transport of air pollution 2007 : interim report of the Task Force on Hemispheric Transport of Air Pollution acting within the framework of the Convention on Long-range Transboundary Air Pollution](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13166957). (2007). New York; Geneva: United Nations. <br>
-Call Number: R 363.7392
+**Handbook of environment and waste management. [Volume 1], Air and water pollution**
 
-HEM This assessment report provides a first report from the task force, which was mandated to obtain a better understanding of intercontinental transport of air pollution and to provide estimates of source – receptor relationships for intercontinental air pollution.
+<img src="/images/sci-tech/Handbook of environment and waste management.jpg" style="width:180px;" />
 
+Hung, Y., et. al. (Eds.). (2012). [*Handbook of environment and waste management. [Volume 1], Air and water pollution control*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14323681) Hackensack, NJ: World Scientific.
 
-* [Hots spots and smoke haze as observed by meteorological satellites: Sep 1994-Mar 2000](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9928166). (2000). Singapore: Singapore Meteorological Service. <br>
-Call Number: RSING 363.3790959 SIN
+Call Number: R 363.73926 HAN
 
-Covers forest fires, smaze and smog aspects in Southeast Asia.
+Chapters 1-4 of this volume address air pollution problems and control measures that include air quality modelling and prediction and air bio-filtration for odour treatment.
 
+**How much is clean air worth?: Calculating the benefits of pollution control**
 
-* Qadri, S. T. (Ed.). (2001). [Fire, smoke, and haze : the ASEAN response strategy](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11788971). Manila, Philippines: Asian Development Bank; Jakarta: ASEAN Secretariat. <br>
-Call Number: RSEA q634.9618 FIR
+<img src="/images/sci-tech/How much is clean air worth.jpg" style="width:180px;" />
 
-The book brings together the current knowledge about land and forest fires, examines their causes and impacts with particular reference to Southeast Asia, and suggests what could happen in the future.
+Rabl, Ari. [et al.]. (2014). [*How much is clean air worth? : Calculating the benefits of pollution control*](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201295216). Cambridge, United Kingdom: Cambridge University Press.
 
+Call Number: 363.7392 RAB
 
-* Nishimura, H. (Ed.). (1989). [How to Conquer Air Pollution: a Japanese experience](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5353068). Amsterdam; New York: Elsevier; New York, N.Y., U.S.A.: Distributors for the U.S. and Canada, Elsevier Science Pub. Co. <br>
-Call Number: R 363.739250952 HOW
+The book offers an overview of the core methodologies and tools used to quantify the impacts and damage costs of pollution.
 
-Based on the successful Japanese experience, this book describes all aspects of the measures necessary to combat air pollution.
+**The invisible killer: The rising global threat of air pollution - and how we can fight back**
+
+<img src="/images/sci-tech/The invisible killer the rising global threat of air pollution.jpg" style="width:180px;" />
+
+Fuller, G. (2019). [*The invisible killer: The rising global threat of air pollution - and how we can fight back*](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203791551). London: Melville House UK.
+
+Call number: 363.7392 FUL
+
+Air pollution scientist Gary Fuller explores particle pollution, delving into the science and research of air pollution dating as far back as the 17th century up until today.
+
+**Pollution across borders: Transboundary fire, smoke and haze in Southeast Asia**
+
+<img src="/images/sci-tech/Pollution across borders.jpg" style="width:180px;" />
+
+Quah, E. & Tan, T.S. (2018). [*Pollution across borders: Transboundary fire, smoke and haze in Southeast Asia*](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203143673)*.* Singapore ; Hackensack, NJ : World Scientific Publishing Co. Pte. Ltd.
+
+Call number: 363.73870959 POL
+
+Experts from various fields discuss the recurring haze problem in Southeast Asia, covering its causes, perpetrators & victims, costs & impacts, potential solutions & their effectiveness, and prospects of resolving the pollution.
 
 
 ### <u>Effects of Air Pollution</u>
