@@ -10,7 +10,9 @@ collection_name: science-technology-physical-sciences
 * [Introduction](#introduction)
 * [Books](#books)
 * [Ebooks](#ebooks)
+* [Journal articles](#Journal-articles)
 * [Websites](#websites)
+* [Videos & Podcasts](#videos-&-podcasts)
 * [Accessing National Library Board Singapore Resources](#accessing-national-library-board-singapore-resources)
 * [Author](#author)
 
@@ -37,7 +39,7 @@ This guide consists of a general list of Internet resources, books and Ebooks ab
 
 **A bright future: How some countries have solved climate change and the rest can follow**
 
-Goldstein, J. S. & Qvist, S. A. (2019). *[A bright future: How some countries have solved climate change and the rest can follow](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203813762)*{:target="blank"}. New York: PublicAffairs.
+Goldstein, J. S. & Qvist, S. A. (2019). *[A bright future: How some countries have solved climate change and the rest can follow](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203813762){:target="blank"}*. New York: PublicAffairs.
 
 Call no.: R 363.738746 GOL
 
