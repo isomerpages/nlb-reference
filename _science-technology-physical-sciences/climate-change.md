@@ -16,7 +16,7 @@ collection_name: science-technology-physical-sciences
 
 ## Introduction
 
-![climate change main pic](/images/category/climate change main pic.jpg)
+![Climate Change](/images/sci-tech/climate change main pic.jpg)
 
 Climate change refers to significant, long-term changes in the global climate. The global climate is the connected system of sun, earth and oceans, wind, rain and snow, forests, deserts and savannas, and everything people do, too. Changes in the global climate and resultant changes to land areas, oceans and coastal regions impact us and all other living creatures on this planet.
 
@@ -49,7 +49,7 @@ This book holds up countries such as Sweden, France, South Korea and Canada as r
 
 **Climate change & Singapore: Challenges, opportunities, partnerships: National Climate Change Strategy 2012: Creating a climate for sustainable growth, securing a liveable environment for our future**
 
-[Climate change & Singapore: Challenges, opportunities, partnerships: National Climate Change Strategy 2012: Creating a climate for sustainable growth, securing a liveable environment for our future](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14512079). (2012). Singapore: National Climate Change Secretariat.
+*[Climate change & Singapore: Challenges, opportunities, partnerships: National Climate Change Strategy 2012: Creating a climate for sustainable growth, securing a liveable environment for our future](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14512079)*{:target="blank"}. (2012). Singapore: National Climate Change Secretariat.
 
 Call no.: RSING 363.7376095957 CLI
 
@@ -61,7 +61,7 @@ Details Singapore's plans to prepare for climate change and to support Singapore
 
 **Climate change and global development: Market, global players and empirical evidence**
 
-Sequeira, T. & Reis, T. (Eds.). (2019). *[Climate change and global development: Market, global players and empirical evidence](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204390081)*. Cham, Switzerland: Springer Nature.
+Sequeira, T. & Reis, T. (Eds.). (2019). *[Climate change and global development: Market, global players and empirical evidence](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204390081)*{:target="blank"}. Cham, Switzerland: Springer Nature.
 
 Call no.: R 363.73874 CLI
 
@@ -73,7 +73,7 @@ The authors examine the impact of climate change on economic growth, social deve
 
 **Climate change: Observed impacts on planet earth**
 
-Letcher, T. M. (Ed.). (2016). *[Climate change: Observed impacts on planet earth](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202348239)*. Amsterdam, Netherlands: Elsevier Ltd.
+Letcher, T. M. (Ed.). (2016). *[Climate change: Observed impacts on planet earth](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202348239)*{:target="blank"}. Amsterdam, Netherlands: Elsevier Ltd.
  Call no.: R 551.6 CLI
  This volume contains 33 chapters on modelling climate change, geological history and scientific aspects of climate change and global warming, which are written by experts in the field. It provides major references and details for further research and understanding on all issues related to climate change, giving a clear indication of a looming crisis in global warming. 
 
@@ -83,7 +83,7 @@ Letcher, T. M. (Ed.). (2016). *[Climate change: Observed impacts on planet earth
 
 **Decarbonisation and the energy industry: Law, policy, and regulation in low-carbon energy markets**
 
-Oyewunmi, T. et al (Eds.). (2020). *[Decarbonisation and the energy industry: Law, policy, and regulation in low-carbon energy markets](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205286697)*. Oxford, UK; New York, NY: Hart Publishing.
+Oyewunmi, T. et al (Eds.). (2020). *[Decarbonisation and the energy industry: Law, policy, and regulation in low-carbon energy markets](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205286697)*{:target="blank"}. Oxford, UK; New York, NY: Hart Publishing.
 
 Call no.: R 346.04679 DEC
 
@@ -95,7 +95,7 @@ Written by energy law and policy experts, the essays in this volume delve into t
 
 **For a sustainable future: A climate-resilient Singapore**
 
-*[For a sustainable future: A climate-resilient Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202612663)*. (2016). Singapore: Ministry of the Environment and Water Resources: Ministry of National Development.
+*[For a sustainable future: A climate-resilient Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202612663)*{:target="blank"}. (2016). Singapore: Ministry of the Environment and Water Resources: Ministry of National Development.
 
 Call no.: RSING 363.70095957 FOR
 
@@ -107,7 +107,7 @@ Provides an overview of the possible impacts of climate change on Singapore, off
 
 **Global climate policy: Actors, concepts, and enduring challenges**
 
-Luterbacher, U. & Sprinz, D. F. (2018). *[Global climate policy: Actors, concepts, and enduring challenges](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203222163)*. Cambridge, Massachusetts: The MIT Press.
+Luterbacher, U. & Sprinz, D. F. (2018). *[Global climate policy: Actors, concepts, and enduring challenges](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203222163)*{:target="blank"}. Cambridge, Massachusetts: The MIT Press.
 
 Call no.: R 363.73874 GLO
 
@@ -119,7 +119,7 @@ Contains essays from leading experts which examine the political context of the 
 
 **National pathways to low carbon emission economies: Innovation policies for decarbonizing and unlocking**
 
-Hübner, K. (2019). *[National pathways to low carbon emission economies: Innovation policies for decarbonizing and unlocking](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203886007)*. Abingdon, Oxon; New York, NY: Routledge.
+Hübner, K. (2019). *[National pathways to low carbon emission economies: Innovation policies for decarbonizing and unlocking](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203886007)*{:target="blank"}. Abingdon, Oxon; New York, NY: Routledge.
 
 Call no.: R 363.738747 NAT
 
@@ -131,7 +131,7 @@ This book examines why policy responses to climate change differ among different
 
 **No one is too small to make a difference**
 
-Thunberg, G. (2019). *[No one is too small to make a difference](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204083951)*. UK: Penguin Books.
+Thunberg, G. (2019). *[No one is too small to make a difference](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204083951)*{:target="blank"}. UK: Penguin Books.
 
 Call no.: R 363.70092 THU
 
@@ -143,7 +143,7 @@ Read about Swedish teenage environmental activist and a nominee for the Nobel Pe
 
 **Our final warning: Six degrees of climate emergency**
 
-Lynas, M. (2020). *[Our final warning: Six degrees of climate emergency](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204438869)*. London: 4th Estate.
+Lynas, M. (2020). *[Our final warning: Six degrees of climate emergency](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204438869)*{:target="blank"}. London: 4th Estate.
 
 Call no.: R 363.73874 LYN
 
@@ -155,7 +155,7 @@ Lynas paints vivid and scary scenarios (based on research and interviews with ex
 
 **Renewable energy management in emerging economies: Strategies for growth**
 
-Wang, H.K.H. (2020). *[Renewable energy management in emerging economies: Strategies for growth](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204464188)*. Abingdon, Oxon; New York, NY: Routledge.
+Wang, H.K.H. (2020). *[Renewable energy management in emerging economies: Strategies for growth](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204464188)*{:target="blank"}. Abingdon, Oxon; New York, NY: Routledge.
 
 Call no.: R 333.794091724 WAN
 
@@ -167,7 +167,7 @@ Emerging economies undergoing rapid economic development with increased use of f
 
 **Surviving global warming: Why eliminating greenhouse gases isn't enough**
 
-Sedjo, R. A. (2019). *[Surviving global warming: Why eliminating greenhouse gases isn't enough](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203916499)*. Amherst, New York: Prometheus Books.
+Sedjo, R. A. (2019). *[Surviving global warming: Why eliminating greenhouse gases isn't enough](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203916499)*{:target="blank"}. Amherst, New York: Prometheus Books.
 
 Call no.: R 363.73874 SED
 
@@ -179,7 +179,7 @@ According to climate expert, Roger A. Sedjo, the measures delineated in the Pari
 
 **The clean energy age: A guide to beating climate change**
 
-Nagy, B. F. (2018). *[The clean energy age: A guide to beating climate change](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203810225)*. Lanham, Maryland: Rowman & Littlefield.
+Nagy, B. F. (2018). *[The clean energy age: A guide to beating climate change](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203810225)*{:target="blank"}. Lanham, Maryland: Rowman & Littlefield.
 
 Call no.: R 333.79 NAG
 
@@ -191,7 +191,7 @@ To tackle carbon emissions, Nagy provides a Top Ten list of practical solutions 
 
 **The great derangement: Climate change and the unthinkable**
 
-Ghosh, A. (2016*). [The great derangement: Climate change and the unthinkable](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202667951)*. Chicago; London: The University of Chicago Press.
+Ghosh, A. (2016*). [The great derangement: Climate change and the unthinkable](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202667951)*{:target="blank"}. Chicago; London: The University of Chicago Press.
  Call no.: R 809.9336 GHO
  Ghosh looks at literature, history and politics and examines climate change failures and argues that the solution lies in collective action as well as scientific and governmental involvement.
 
@@ -201,7 +201,7 @@ Ghosh, A. (2016*). [The great derangement: Climate change and the unthinkable](h
 
 **The Stockholm paradigm: Climate change and emerging disease**
 
-Brooks, D. R. (2019). *[The Stockholm paradigm: Climate change and emerging disease](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203949023)*. Chicago: The University of Chicago Press.
+Brooks, D. R. (2019). *[The Stockholm paradigm: Climate change and emerging disease](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203949023)*{:target="blank"}. Chicago: The University of Chicago Press.
 
 Call no.: R 577.22 BRO
 
@@ -213,7 +213,7 @@ Climate change disrupts the natural ecosystem and enables pathogens to move to n
 
 **The thinking person's guide to climate change**
 
-Henson, R. (2019). *[The thinking person's guide to climate change](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203986136)*. Boston, Massachusetts: American Meteorological Society. 
+Henson, R. (2019). *[The thinking person's guide to climate change](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203986136)*{:target="blank"}. Boston, Massachusetts: American Meteorological Society. 
 
 Call no.: R 363.73874 HEN
 
@@ -225,7 +225,7 @@ Written for the layperson in mind, this book published by the American Meteorolo
 
 **The weather and climate of Singapore** 
 
-Fong, M. (2012). *[The weather and climate of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14365900)*. Singapore: Meteorological Service Singapore.
+Fong, M. (2012). *[The weather and climate of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14365900)*{:target="blank"}. Singapore: Meteorological Service Singapore.
 
 Call no.: RSING 551.695957 FON
 
@@ -240,92 +240,119 @@ Provides a good overview of Singapore's general climate and explains how weather
 
 (MyLibraryID is required to access the ebooks from NLB’s eresources website [https://eresources.nlb.gov.sg/main/](https://eresources.nlb.gov.sg/main/){:target="blank"} )
 
+<img src="/images/sci-tech/Coping with climate Crisis.jpg" style="width:150px;"/>
+
 **Coping with the climate crisis**
 
-Arezki, R. et al (Eds.). (2018). *[Coping with the climate crisis](https://nlb.overdrive.com/media/3710158)*. New York: Columbia University Press. Available from NLB Overdrive.
+Arezki, R. et al (Eds.). (2018). *[Coping with the climate crisis](https://nlb.overdrive.com/media/3710158)*{:target="blank"}. New York: Columbia University Press. Available from NLB Overdrive.
  The essays from leading academic economists and industry practitioners in this volume examine the issues related to the implementation of the Paris Agreement and the challenges of turning away from fossil fuels towards sustainable development.
 
 
 
-**Building a resilient tomorrow: How to prepare for the coming climate disruption
-** Hill, A. C. & Martinez-Diaz, L. (2019). *[Building a resilient tomorrow: How to prepare for the coming climate disruption](https://nlb.overdrive.com/media/5027448)*. Oxford, UK: Oxford University Press. Available from NLB Overdrive.
+<img src="/images/sci-tech/Building a Resilient Tomorrow.jpg" style="width:150px;"/>
+
+**Building a resilient tomorrow: How to prepare for the coming climate disruption** 
+
+Hill, A. C. & Martinez-Diaz, L. (2019). *[Building a resilient tomorrow: How to prepare for the coming climate disruption](https://nlb.overdrive.com/media/5027448)*{:target="blank"}. Oxford, UK: Oxford University Press. Available from NLB Overdrive.
  This book focuses on solutions which can help to tackle the inevitable impact of climate change and the authors propose pragmatic recommendations to strengthen climate resilience, ranging from relocations from danger hotspots along the coast to using biotechnology to deal with climate-related diseases.
 
 
 
+<img src="/images/sci-tech/Heat Advisory.jpg" style="width:150px;"/>
+
 **Heat advisory: Protecting health on a warming planet** 
 
-Lockwood, A. H. (2016). *[Heat advisory: Protecting health on a warming planet](https://nlb.overdrive.com/media/2962413)*. Cambridge, MA: MIT Press. Available from NLB Overdrive.
+Lockwood, A. H. (2016). *[Heat advisory: Protecting health on a warming planet](https://nlb.overdrive.com/media/2962413)*{:target="blank"}. Cambridge, MA: MIT Press. Available from NLB Overdrive.
  Lockwood describes the impact of global warming on human health. Drawing on peer-reviewed scientific and medical research, he meticulously details the symptoms of climate change and their medical side effects.
 
 
 
+<img src="/images/sci-tech/How to Talk.jpg" style="width:150px;"/>
+
 **How to talk about climate change in a way that makes a difference** 
 
-Huntley, R. (2020). *[How to talk about climate change in a way that makes a difference](https://nlb.overdrive.com/media/5564439)*. Australia: Allen & Unwin. Available from NLB OverDrive.
+Huntley, R. (2020). *[How to talk about climate change in a way that makes a difference](https://nlb.overdrive.com/media/5564439)*{:target="blank"}. Australia: Allen & Unwin. Available from NLB OverDrive.
  Huntley's book provides a guide for understanding people's emotional responses to climate change and how meaningful exchanges on climate change can be conducted among groups with different opinions about the topic.
 
 
 
+<img src="/images/sci-tech/Net Zero.jpg" style="width:150px;"/>
+
 **Net zero: How we stop causing climate change**
 
-Helm, D. (2020). *[Net zero: How we stop causing climate change](https://nlb.overdrive.com/media/5359282)*. New York: HarperCollins Publishers. Available from NLB OverDrive.
+Helm, D. (2020). *[Net zero: How we stop causing climate change](https://nlb.overdrive.com/media/5359282)*{:target="blank"}. New York: HarperCollins Publishers. Available from NLB OverDrive.
  Economist professor Helm offers a rational assessment of how climate change can be halted with the reduction of carbon emissions and increase of carbon absorption. He also looks at why efforts over the past 30 years have failed and what actions are needed over the next 30 years at the local, national and global levels. 
 
 
 
+<img src="/images/sci-tech/Our Livable World.jpg" style="width:150px;"/>
+
 **Our livable world: Creating the clean earth of tomorrow**
 
-Schaus, M. (2020). *[Our livable world: Creating the clean earth of tomorrow](https://nlb.overdrive.com/media/5297894)*. New York: Diversion Books. Available from NLB Overdrive.
+Schaus, M. (2020). *[Our livable world: Creating the clean earth of tomorrow](https://nlb.overdrive.com/media/5297894)*{:target="blank"}. New York: Diversion Books. Available from NLB Overdrive.
  Schaus explores green technology innovations which can help the world to deal with the impeding global climate catastrophe. Solutions proposed include solar thermal cells which can store energy after sunset, "smart highways” which charge cars as they are driven and substituting bioluminescent vines for streetlamps.
 
 
 
+<img src="/images/sci-tech/Retreat from Rising Sea.jpg" style="width:150px;"/>
+
 **Retreat from a rising sea: Hard choices in an age of climate change**
 
-Pilkey, O. H., Pilkey-Jarvis, L., & Pilkey, K. C. (2016). *[Retreat from a rising sea: Hard choices in an age of climate change](https://nlb.overdrive.com/media/2570869)**.* New York: Columbia University Press. Available from NLB Overdrive.
+Pilkey, O. H., Pilkey-Jarvis, L., & Pilkey, K. C. (2016). *[Retreat from a rising sea: Hard choices in an age of climate change](https://nlb.overdrive.com/media/2570869)*{:target="blank"}. New York: Columbia University Press. Available from NLB Overdrive.
 The book offers deep analysis and case histories which highlight the vulnerabilities of many cities and communities in the United States and around the world pertaining to climate change. It offers visions and solutions of how coastal cities and communities have dealt with climate changes in the past and how they will need to cope with arising coastal risks in the future.
 
 
 
+<img src="/images/sci-tech/Rising Tides.jpg" style="width:150px;"/>
+
 **Rising tides: Climate refugees in the twenty-first century**
 
-Wennersten, J. R. & Robbins, D. (2020). *[Rising tides: Climate refugees in the twenty-first century](https://nlb.overdrive.com/media/3314735)*. Indiana: Indiana University Press. Available from NLB Overdrive.
+Wennersten, J. R. & Robbins, D. (2020). *[Rising tides: Climate refugees in the twenty-first century](https://nlb.overdrive.com/media/3314735)*{:target="blank"}. Indiana: Indiana University Press. Available from NLB Overdrive.
  Due to rising sea levels, millions of people living along the coastlines will be displaced from their homes. This book addresses issues such as the relocation and resettlement of environmental or climate refugees, the legal rights of the refugees to their new homes and costs involved during the resettlement process. 
 
 
 
+<img src="/images/sci-tech/State of the World.jpg" style="width:150px;"/>
+
 **State of the world: Can a city be sustainable?** 
 
-The Worldwatch Institute. (2016). *[State of the world: Can a city be sustainable](https://nlb.overdrive.com/media/2704350)*?Washington, D. C.: Island Press. Available from NLB Overdrive.
+The Worldwatch Institute. (2016). *[State of the world: Can a city be sustainable](https://nlb.overdrive.com/media/2704350)*{:target="blank"}?Washington, D. C.: Island Press. Available from NLB Overdrive.
  The book examines cross-cutting issues that affect the success of all cities. Topics range from the nitty-gritty of waste handling and developing public transportation to civic participation and navigating a dysfunctional government system.
 
 
 
+<img src="/images/sci-tech/100 Percent Solution.jpg" style="width:150px;"/>
+
 **The 100% solution: A plan for solving climate change**
 
-Goldstein-Rose, S. (2020). *[The 100% solution: A plan for solving climate change](https://nlb.overdrive.com/media/5038975)*. New York: Melville House Publishing. Available from NLB Overdrive.
+Goldstein-Rose, S. (2020). *[The 100% solution: A plan for solving climate change](https://nlb.overdrive.com/media/5038975)*{:target="blank"}. New York: Melville House Publishing. Available from NLB Overdrive.
  The author, a prominent millennial climate activist, emphasises that the world needs to achieve negative CO2 emissions by 2050 or face dire climate-related consequences. His 100% solution comprises five strategies: clean energy generation, electrification, use of synthetic fuels obtained from clean energy, revamping of agriculture and industrial practices and removal of greenhouse gases from the atmosphere.
 
 
 
+<img src="/images/sci-tech/Fragile Earth.jpg" style="width:150px;"/>
+
 **The fragile earth: Writing from The New Yorker on climate change**
 
-Remnick, D. & Finder, H. (2020). *[The fragile earth: Writing from The New Yorker on climate change](https://nlb.overdrive.com/media/5207432)*. New York: Ecco Press. Available from NLB OverDrive.
+Remnick, D. & Finder, H. (2020). *[The fragile earth: Writing from The New Yorker on climate change](https://nlb.overdrive.com/media/5207432)*{:target="blank"}. New York: Ecco Press. Available from NLB OverDrive.
  Contains quality pieces written by The New Yorker's journalists over the last three decades on climate change and global warming, covering the political and ecological environment and potential scenarios confronting the world in the future.
 
 
 
+<img src="/images/sci-tech/Vanishing Ice.jpg" style="width:150px;"/>
+
 **Vanishing ice: Glaciers, ice sheets and rising seas** 
 
-Gornitz, V. (2019). *[Vanishing ice: Glaciers, ice sheets and rising seas](https://nlb.overdrive.com/media/3996673)*. New York: Columbia University Press. Available from NLB Overdrive.
+Gornitz, V. (2019). *[Vanishing ice: Glaciers, ice sheets and rising seas](https://nlb.overdrive.com/media/3996673)*{:target="blank"}. New York: Columbia University Press. Available from NLB Overdrive.
  Ice sheets in the Arctic and the Antarctic are melting, mountain glaciers are receding and sea levels are rising. Gornitz highlights the consequences of ice loss, which will impact not only coastal dwellers but have economic and social costs for the rest of mankind on the planet.
 
 
 
+<img src="/images/sci-tech/What We Need To Do Now.jpg" style="width:150px;"/>
+
 **What we need to do now: For a zero carbon future**
 
-Goodall, C. (2020). *[What we need to do now: For a zero carbon future](https://nlb.overdrive.com/media/4882693)*. London: Profile Books. Available from NLB OverDrive.
+Goodall, C. (2020). *[What we need to do now: For a zero carbon future](https://nlb.overdrive.com/media/4882693)*{:target="blank"}. London: Profile Books. Available from NLB OverDrive.
  Goodall proposes significant economic and societal changes in order for UK to achieve zero carbon emissions by 2050. These include increasing solar and windpower, electrification of transportation, replacing fossil fuels with stored hydrogen and making lifestyle modifications such as using less air travel and reducing consumption of beef.
 
 
