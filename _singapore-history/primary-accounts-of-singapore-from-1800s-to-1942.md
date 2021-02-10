@@ -3,12 +3,12 @@ title: Primary accounts of Singapore from 1800s to 1942
 permalink: /guides/singapore/history/primary-accounts-of-singapore-from-1800s-to-1942
 breadcrumb: Primary accounts of Singapore from 1800s to 1942
 collection_name: singapore-history
-third_nav_title: Singapore and South East Asia
+third_nav_title: Singapore
 ---
 
 ### <u>Guide Index</u>
 
-his select bibliography of primary accounts of Singapore is intended to shed light on the ways of perceiving, understanding and remembering of a Singapore long gone. It is important to note that most of these were written by privileged white men in a land under British colonial rule, during the height of Western imperialism up until the Japanese occupation of Singapore. The accounts should be read with this context in mind, with the understanding that there was much more about local life that was left out of these stories. Some accounts contain racist remarks as defined by society today, but such was the norm back in the day. Nonetheless, these descriptions of old Singapore are invaluable to researchers today.
+This select bibliography of primary accounts of Singapore is intended to shed light on the ways of perceiving, understanding and remembering of a Singapore long gone. It is important to note that most of these were written by privileged white men in a land under British colonial rule, during the height of Western imperialism up until the Japanese occupation of Singapore. The accounts should be read with this context in mind, with the understanding that there was much more about local life that was left out of these stories. Some accounts contain racist remarks as defined by society today, but such was the norm back in the day. Nonetheless, these descriptions of old Singapore are invaluable to researchers today.
 
 For local prewar accounts, you could refer to oral history interviews at the National Archives of Singapore. Some of these have been transcribed and made available via the Archives Online website: http://www.nas.gov.sg/archivesonline
 

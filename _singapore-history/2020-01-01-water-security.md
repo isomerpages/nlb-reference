@@ -2,6 +2,8 @@
 layout: post
 title:  Water Security
 permalink: /guides/budget2017/water-security
+breadcrumb: Water security
+third_nav_title: Singapore
 ---
 
 ### <u>Guide Index</u>
@@ -42,7 +44,7 @@ This resource guide presents relevant reports and studies that discuss how other
 ![Water security image](/images/guides/budget2017/Water-Security.jpg)
 
 <small>UN Water: The United Nations inter-agency mechanism on all freshwater related issues, including sanitation. (2014, October 7). UN-Water. Retrieved February 22, 2017, from http://www.unwater.org/fileadmin/user_upload/unwater_new/docs/water_security_poster_Oct2013.pdf</small>
- 
+
 
 ### <u>Average water consumption (CuM)</u>
 
@@ -61,7 +63,7 @@ The average water consumption per premise type in Singapore, ranging from HDB on
 
 <small>Average water consumption (CuM). (2014). Singapore Power. Retrieved February 22, 2017, from
 http://www.singaporepower.com.sg/irj/servlet/prt/portal/prtroot/docs/guid/609ffede-040d-2f10-f5b4-de464caacd39</small>
- 
+
 
 ### <u>Our water, our future</u>
 
@@ -69,7 +71,7 @@ In 2014, Singapore was ranked as one of the most water-stressed countries in the
 
 <small>Our water, our future. (2016). PUB. Retrieved February 22, 2017, from
 https://www.pub.gov.sg/Documents/PUBOurWaterOurFuture.pdf</small>
- 
+
 
 ### <u>From geographic weakness to technical strength: Singapore’s water policy</u>
 
@@ -77,7 +79,7 @@ Singapore’s water sources – the “Four National Taps”: local catchment wa
 
 Sivaramakrishnan, S. (2015, March 13). From geographic weakness to technical strength: Singapore’s water policy. Singapore Policy Journal. Retrieved February 22, 2017, from
 https://hksjsp.files.wordpress.com/2015/03/spj-2015-00-012.pdf
- 
+
 
 ### <u>Tackling Singapore’s water shortage</u>
 
@@ -85,7 +87,7 @@ Singapore lacks natural freshwater sources and the demand for water continues to
 
 <small>Tackling Singapore’s water shortage. (2013). INSEAD. Retrieved February 22, 2017, from
 https://centres.insead.edu/innovation-policy/events/documents/Singapore-WaterShortage.pdf</small>
- 
+
 
 ### <u>Transforming water economies</u>
 
@@ -93,7 +95,7 @@ Ensuring access to water is increasingly becoming a challenge. Countries are fac
 
 <small>Boccaletti, G., Maitra, S., & Stuchtey, M. (2012). Transforming water economies. McKinsey on Sustainability & Resource Productivity. 1: 76-85. Retrieved February 22, 2017, from
 http://mckinseyonsociety.com/downloads/reports/Sustainability/SRP_09_Water.pdf</small>
- 
+
 
 ### <u>Highest water prices in the world</u>
 
@@ -101,7 +103,7 @@ A survey conducted by [NUS Consulting Group](http://www.nusconsulting.com/) reve
 
 <small>Highest water prices in the world. (2016, April 20). Daily Scandinavian. Retrieved February 22, 2017, from
 http://dailyscandinavian.com/highest-water-prices-in-the-world/</small>
- 
+
 
 ### <u>Asia Pacific shows progress in water security, but challenges remain – ADB</u>
 
@@ -109,7 +111,7 @@ According to a report by the [Asian Development Bank](https://www.adb.org/) (ADB
 
 <small>Asia Pacific shows progress in water security, but challenges remain – ADB. (2016, August 30). Asian Development Bank. Retrieved February 22, 2017, from
 https://www.adb.org/news/asia-pacific-shows-progress-water-security-challenges-remain-adb</small>
- 
+
 
 All rights reserved. National Library Board, 2017.
 
