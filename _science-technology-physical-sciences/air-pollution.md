@@ -9,7 +9,13 @@ collection_name: science-technology-physical-sciences
 
 Photo credit: [www.pexels.com](https://www.pexels.com/photo/air-air-pollution-climate-change-dawn-221012/)
 
-### <u>Guide Index</u>
+Table of Contents
+
+[TOC]
+
+
+
+## <u>Guide Index</u>
 
 * [Introduction](#introduction)
 * [Books](#books)
@@ -48,9 +54,7 @@ This guide highlights resources on air pollution and haze that are available at 
 | Forest fires (Southeast Asia, Prevention and control), Forests and forestry, Fire management (Southeast Asia) |	634.9618 |
 
 
-### <u>Causes of Air Pollution</u>
-<a name="books"></a>
-## Books
+## <a name="books">Books</a>
 
 (listed in alphabetical order)
 
@@ -108,7 +112,7 @@ Call Number: 363.7392 BRO
 
 <img src="/images/sci-tech/The great smog of China.jpg" style="width:180px;" />
 
-Ahlers, A. L., Hansen, M. H., & Svarverud, R. (2020). [*The great smog of China : a short event history of air pollution*](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=205255789)*.* Ann Arbor, MI: Association for Asian Studies, Inc.
+Ahlers, A. L., Hansen, M. H., & Svarverud, R. (2020). [*The great smog of China : a short event history of air pollution*](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=205255789){:target="_blank"}. Ann Arbor, MI: Association for Asian Studies, Inc.
 
 Call number: 363.7392 AHL
 
