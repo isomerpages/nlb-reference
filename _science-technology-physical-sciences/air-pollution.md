@@ -9,7 +9,7 @@ collection_name: science-technology-physical-sciences
 
 Photo credit: [www.pexels.com](https://www.pexels.com/photo/air-air-pollution-climate-change-dawn-221012/)
 
-## <u>Guide Index</u>
+### <u>Guide Index</u>
 
 * [Introduction](#introduction)
 * [Books](#books)

@@ -7,9 +7,16 @@ third_nav_title: Social Sciences & Humanities
 ---
 <img src="/images/category/history-2.jpg" alt="history banner" style="width:800px;" />
 
-Insert description here.
+<a href="/guides/socialsciences-humanities/history/cuban-missile-crisis">The Cuban Missile Crisis </a>
+
+<a href="/guides/socialsciences-humanities/history/korean-war">The Korean War</a>
+
+<a href="/guides/socialsciences-humanities/history/indian-national-army">Indian National Army (INA)</a>
+
+<a href="/guides/socialsciences-humanities/history/cold-war">The Cold War</a>
 
 <!--div>
+
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/asean-countries/know/overview-of-asean-countries/asean-a-regional-profile/" class="project-link">

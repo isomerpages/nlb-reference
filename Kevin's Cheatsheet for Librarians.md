@@ -12,7 +12,7 @@ published: true
 - [Introduction](#introduction)
 - [What you will need](#what-you-will-need)
 - [Headings](#headings)
-- [Content Pages](#content-page) (or Anchors/Bookmarks)
+- [Content Pages](#content-pages) (or Anchors/Bookmarks)
 - [Plain text and formatting](#plain-text-and-formatting)
 - [Hyperlinks](#hyperlinks)
 - [Images](#images)
@@ -68,7 +68,7 @@ For simple purposes, any heading is automatically ready for an anchor. That mean
 
 The syntax for an anchor is `[heading](#heading)`.
 
-For example, the code for the 'Introduction' anchor above is `[Introduction](#introduction)`, and the code for 'Content Pages' anchor is `[Content Pages](#content-page)`.
+For example, the code for the 'Introduction' anchor above is `[Introduction](#introduction)`, and the code for 'Content Pages' anchor is `[Content Pages](#content-pages)`.
 
 Note that the text in `#heading` has to follow the actual heading, in **lowercase** and with **'spaces' replaced with 'dashes'**.
 
@@ -108,11 +108,11 @@ A full hyperlinks come in three parts: The visual link, the actual URL, and the 
 
 The full syntax is like this: `[visual link](actual URL){:target="_blank"}`.
 
-- `[visual link]` refers to the actual hyperlink text that the user will see. e.g. [Eye on Asia](https://www.eyeonasia.gov.sg/) or https://www.eyeonasia.gov.sg/
+- `[visual link]` refers to the actual hyperlink text that the user will see. e.g. [Eye on Asia](https://www.eyeonasia.gov.sg/) or [https://www.eyeonasia.gov.sg](https://www.eyeonasia.gov.sg/)
 - `(actual URL)` refers to the actual full URL to direct the user to.
 - `{:target="_blank"}` is a bit of code so that when a user clicks on the link, it opens the link in a new browser tab or window. This third part is optional, but provides a better user experience.
 
-> Strictly speaking, a hyperlink can simply be the full URL of the website, and no additional coding is needed. For instance, you can just type www.eyeonasia.gov.sg/. 
+> Strictly speaking, a hyperlink can simply be the full URL of the website. You just need to add the angle brackets '<' and '>' to enclose the URL. For instance, you can just type `<www.eyeonasia.gov.sg/>`, which shows up as  <www.eyeonasia.gov.sg/>.
 >
 > However, this may not be suitable for long links, and you still need the `{:target="_blank"}` code to launch a new tab/window.
 
@@ -121,6 +121,8 @@ For example, `[www.eyeonasia.gov.sg](https://www.eyeonasia.gov.sg/asean-countrie
 For another example, a typical reference citation to an NLB book may look like this: Ahlers, A. L., Hansen, M. H., & Svarverud, R. (2020). [*The great smog of China : a short event history of air pollution*](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=205255789){:target="_blank"}. Ann Arbor, MI: Association for Asian Studies, Inc. 
 
 When editing in Typora, you will realise that the visual URL appears 'normal' when your cursor is outside of it, but when your cursor is in the URL, the full code expands. You will also realise the `{:target="_blank"}` remains visible, but this bit of code will not appear in the live page.
+
+Within Typora, you can Ctrl + click any URL or hyperlink to open the website in our web browser.
 
 ## Images
 
@@ -264,16 +266,16 @@ It is made up of three parts: the opening (`<!--`), the comment text, and the cl
 
 An example will look like this in Typora: <!-- this is a comment -->
 
-This application may be more apparent with an example. Say I have content that can only be released in a weeks' time. I can type out this as follows:
+This application may be more apparent with an example. Say I have content that can only be released in a weeks' time. I can type out this as follows in comments, but this isn't visible in the webpage:
 
 > <!-- This image can only be publicly viewed on Black Friday. <br><img src="https://i.imgur.com/HXMwtll.jpg" style="width:180px;" /> <br>Insert 500 word essay here. -->
 
 When the commit is made to staging and then production, this comment remains invisible. When I am ready to publish the content, I can just delete the opening and closing syntaxes, and the content is good to go live.
 
-> This image can only be publicly viewed on Black Friday. <br><img src="https://i.imgur.com/HXMwtll.jpg" style="width:180px;" /> ><br>Insert 500 word essay here.
+> This image can only be publicly viewed on Black Friday. <br><img src="https://i.imgur.com/HXMwtll.jpg" style="width:180px;" /> <br>Insert 500 word essay here.
 
 ## Useful Websites for reference
 
-- Govtech's Isomer cheatsheet: https://www.isomer.gov.sg/documentation/markdown/markdown-cheatsheet/
-- Blog post explaining Markdown and some formatting functions: https://blog.bit.ai/what-is-markdown/
-- Cheatsheet of syntaxes: https://blog.bit.ai/wp-content/uploads/2017/12/Markdown-Infographic-1.jpg
+- Govtech's Isomer cheatsheet: <https://www.isomer.gov.sg/documentation/markdown/markdown-cheatsheet/>
+- Blog post explaining Markdown and some formatting functions: <https://blog.bit.ai/what-is-markdown/>
+- Cheatsheet of syntaxes: <https://blog.bit.ai/wp-content/uploads/2017/12/Markdown-Infographic-1.jpg>
