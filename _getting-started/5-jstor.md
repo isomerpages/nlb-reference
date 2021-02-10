@@ -1,7 +1,7 @@
 ---
-title: Using OneSearch
+title: Using JSTOR
 permalink: /getting-started/jstor/
-breadcrumb: Using OneSearch
+breadcrumb: Using JSTOR
 collection_name: getting-started
 published: false
 ---

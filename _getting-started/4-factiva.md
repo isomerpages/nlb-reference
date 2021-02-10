@@ -1,7 +1,7 @@
 ---
-title: Using OneSearch
+title: Using Factiva
 permalink: /getting-started/factiva/
-breadcrumb: Using OneSearch
+breadcrumb: Using Factiva
 collection_name: getting-started
 published: false
 ---
