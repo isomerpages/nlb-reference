@@ -4,14 +4,10 @@ permalink: /guides/cheatsheet
 breadcrumb: Kevin's cheatsheet
 collection_name: guides
 third_nav_title: 
-published: false
+published: true
 ---
 
 # Guide Index
-
-[TOC]
-
-
 
 - [Introduction](#introduction)
 - [What you will need](#what-you-will-need)
@@ -45,11 +41,12 @@ Please also explore right-clicking on the relevant text/content while editing in
 
 Before you begin editing any page, it is strongly suggested to have the following prepared, so as to make editing less disruptive:
 
-[ ] Your page content in a Word doc or other format which is easier to copy sections from.
+- [ ] Your page content in a Word doc or other format which is easier to copy sections from.
 
-[ ] Your page content already **reviewed and approved** by the relevant persons. This is because Typora is mainly for ingesting content. Content uploading to a staging website takes time and many steps, and hence is not so suitable for clearing content with bosses.
 
-[ ] Any images to be uploaded, to be downloaded into your PC beforehand. Best practice is to avoid spaces in the filename. PDFs and other files are also possible to include.
+- [ ] Your page content already **reviewed and approved** by the relevant persons. This is because Typora is mainly for ingesting content. Content uploading to a staging website takes time and many steps, and hence is not so suitable for clearing content with bosses.
+
+- [ ] Any images to be uploaded, to be downloaded into your PC beforehand. Best practice is to avoid spaces in the filename. PDFs and other files are also possible to include.
 
 ## Headings
 
@@ -104,8 +101,6 @@ The most basic syntaxes are as follows:
 - Horizontal line: `------`:
 
     ------
-
- 
 
 ## Hyperlinks
 
