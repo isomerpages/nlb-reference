@@ -8,16 +8,18 @@ third_nav_title: Singapore
 <img src="/images/category/history.jpg" alt="history banner" style="width:800px;" />
 
 [Development of Education in Singapore](/guides/singapore/history/development-of-education-in-singapore)
-[Primary accounts of Singapore from 1800s to 1942](/guides/singapore/history/primary-accounts-of-singapore-from-1800s-to-1942)
-[Singapore's Public Housing](/guides/singapore/history/ingapores-public-housing)
 
-<details>
+[Primary accounts of Singapore from 1800s to 1942](/guides/singapore/history/primary-accounts-of-singapore-from-1800s-to-1942)
+
+[Singapore's Public Housing](/guides/singapore/history/singapores-public-housing)
+
+<!-- <details>
   <summary>Click to expand!</summary>
 <a href="/guides/singapore/history/development-of-education-in-singapore">Development of Education in Singapore</a><br>
 <a href="/guides/singapore/history/primary-accounts-of-singapore-from-1800s-to-1942">Primary accounts of Singapore from 1800s to 1942</a><br>
 <a href="/guides/singapore/history/singapores-public-housing">Singapore's Public Housing</a><br>
 </details>
-
+-->
 
 <!--div>
 	<div class="row is-multiline">
