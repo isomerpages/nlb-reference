@@ -7,7 +7,18 @@ third_nav_title: Singapore
 ---
 <img src="/images/category/history.jpg" alt="history banner" style="width:800px;" />
 
-Insert description here.
+<a href="/guides/singaporeandsoutheastasia/development-of-education-in-singapore">Development of Education in Singapore</a>
+<a href="/guides/singaporeandsoutheastasia/primary-accounts-of-singapore-from-1800s-to-1942">Primary accounts of Singapore from 1800s to 1942</a>
+<a href="/guides/singaporeandsoutheastasia/singapores-public-housing">Singapore's Public Housing</a>
+
+<details>
+  <summary>Click to expand!</summary>
+  ## Heading<br>
+  1. A numbered<br>
+  2. list<br>
+     * With some<br>
+     * Sub bullets<br>
+</details>
 
 
 <!--div>
