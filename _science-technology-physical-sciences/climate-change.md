@@ -16,9 +16,7 @@ collection_name: science-technology-physical-sciences
 
 ## Introduction
 
-<img src="/images/sci-tech/climate change main pic.jpg" style="width:150px;"/>
-
-![Raffles image](/images/category/climate change main pic.jpg)
+![climate change main pic](/images/category/climate change main pic.jpg)
 
 Climate change refers to significant, long-term changes in the global climate. The global climate is the connected system of sun, earth and oceans, wind, rain and snow, forests, deserts and savannas, and everything people do, too. Changes in the global climate and resultant changes to land areas, oceans and coastal regions impact us and all other living creatures on this planet.
 
@@ -59,7 +57,7 @@ Details Singapore's plans to prepare for climate change and to support Singapore
 
 
 
-<img src="/images/sci-tech/Climate Change and Global Devy.jpg" style="width:150px;"/>
+<img src="/images/sci-tech/Climate Change and Global Devt.jpg" style="width:150px;"/>
 
 **Climate change and global development: Market, global players and empirical evidence**
 
@@ -71,12 +69,16 @@ The authors examine the impact of climate change on economic growth, social deve
 
 
 
+<img src="/images/sci-tech/Climate Change Observed.jpg" style="width:150px;"/>
+
 **Climate change: Observed impacts on planet earth**
  Letcher, T. M. (Ed.). (2016). *[Climate change: Observed impacts on planet earth](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202348239)*. Amsterdam, Netherlands: Elsevier Ltd.
  Call no.: R 551.6 CLI
  This volume contains 33 chapters on modelling climate change, geological history and scientific aspects of climate change and global warming, which are written by experts in the field. It provides major references and details for further research and understanding on all issues related to climate change, giving a clear indication of a looming crisis in global warming. 
 
 
+
+<img src="/images/sci-tech/Decarbonisation.jpg" style="width:150px;"/>
 
 **Decarbonisation and the energy industry: Law, policy, and regulation in low-carbon energy markets**
 
@@ -88,6 +90,8 @@ Written by energy law and policy experts, the essays in this volume delve into t
 
 
 
+<img src="/images/sci-tech/For a Sustainable Future.jpg" style="width:150px;"/>
+
 **For a sustainable future: A climate-resilient Singapore**
 
 *[For a sustainable future: A climate-resilient Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202612663)*. (2016). Singapore: Ministry of the Environment and Water Resources: Ministry of National Development.
@@ -97,6 +101,8 @@ Call no.: RSING 363.70095957 FOR
 Provides an overview of the possible impacts of climate change on Singapore, offers climate projections highlighting the risks to lives and property and adaptations made to protect Singapore's coastal areas, water supply, biodiversity, public health, food security, network infrastructure and buildings.
 
 
+
+<img src="/images/sci-tech/Global Climate Policy.jpg" style="width:150px;"/>
 
 **Global climate policy: Actors, concepts, and enduring challenges**
 
@@ -108,6 +114,8 @@ Contains essays from leading experts which examine the political context of the 
 
 
 
+<img src="/images/sci-tech/National Pathways.jpg" style="width:150px;"/>
+
 **National pathways to low carbon emission economies: Innovation policies for decarbonizing and unlocking**
 
 Hübner, K. (2019). *[National pathways to low carbon emission economies: Innovation policies for decarbonizing and unlocking](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203886007)*. Abingdon, Oxon; New York, NY: Routledge.
@@ -117,6 +125,8 @@ Call no.: R 363.738747 NAT
 This book examines why policy responses to climate change differ among different countries. Using case studies from the US, UK, Japan, Germany, Norway, China and Eastern Europe, the author highlights the internal and external drivers for countries to derive innovation strategies within the context of their economic infrastructures.
 
 
+
+<img src="/images/sci-tech/No One Is Too Small.jpg" style="width:150px;"/>
 
 **No one is too small to make a difference**
 
@@ -128,6 +138,8 @@ Read about Swedish teenage environmental activist and a nominee for the Nobel Pe
 
 
 
+<img src="/images/sci-tech/One Final Warning.jpg" style="width:150px;"/>
+
 **Our final warning: Six degrees of climate emergency**
 
 Lynas, M. (2020). *[Our final warning: Six degrees of climate emergency](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204438869)*. London: 4th Estate.
@@ -137,6 +149,8 @@ Call no.: R 363.73874 LYN
 Lynas paints vivid and scary scenarios (based on research and interviews with experts) of what life on earth will be like if the current rate of global warming continues, starting with a one degree rise above pre-industrial temperatures and ending with mass extinction and the end of all life on earth when six degrees is reached.
 
 
+
+<img src="/images/sci-tech/Renewable Energy Management.jpg" style="width:150px;"/>
 
 **Renewable energy management in emerging economies: Strategies for growth**
 
@@ -148,6 +162,8 @@ Emerging economies undergoing rapid economic development with increased use of f
 
 
 
+<img src="/images/sci-tech/Surviving Global Warming.jpg" style="width:150px;"/>
+
 **Surviving global warming: Why eliminating greenhouse gases isn't enough**
 
 Sedjo, R. A. (2019). *[Surviving global warming: Why eliminating greenhouse gases isn't enough](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203916499)*. Amherst, New York: Prometheus Books.
@@ -157,6 +173,8 @@ Call no.: R 363.73874 SED
 According to climate expert, Roger A. Sedjo, the measures delineated in the Paris Agreement on climate change will not be enough to ward off global warming. Sedjo proposes a Plan B which promotes participation among societies to plan and prepare for the impact of climate change.
 
 
+
+<img src="/images/sci-tech/The Clean Energy Age.jpg" style="width:150px;"/>
 
 **The clean energy age: A guide to beating climate change**
 
@@ -168,12 +186,16 @@ To tackle carbon emissions, Nagy provides a Top Ten list of practical solutions 
 
 
 
+<img src="/images/sci-tech/The Great Derangement.jpg" style="width:150px;"/>
+
 **The great derangement: Climate change and the unthinkable**
  Ghosh, A. (2016*). [The great derangement: Climate change and the unthinkable](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202667951)*. Chicago; London: The University of Chicago Press.
  Call no.: R 809.9336 GHO
  Ghosh looks at literature, history and politics and examines climate change failures and argues that the solution lies in collective action as well as scientific and governmental involvement.
 
 
+
+<img src="/images/sci-tech/The Stockholm Paradigm.jpg" style="width:150px;"/>
 
 **The Stockholm paradigm: Climate change and emerging disease**
 
@@ -185,6 +207,8 @@ Climate change disrupts the natural ecosystem and enables pathogens to move to n
 
 
 
+<img src="/images/sci-tech/Thinking Persons Guide.jpg" style="width:150px;"/>
+
 **The thinking person's guide to climate change**
 
 Henson, R. (2019). *[The thinking person's guide to climate change](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203986136)*. Boston, Massachusetts: American Meteorological Society. 
@@ -194,6 +218,8 @@ Call no.: R 363.73874 HEN
 Written for the layperson in mind, this book published by the American Meteorological Society provides comprehensive yet easy-to-understand research-based facts on climate change. It discusses the symptoms of global warming, delineates the politics and controversy around this contentious issue and suggests what individuals and communities can do to slow down the effects of climate change.
 
 
+
+<img src="/images/sci-tech/Weather and Climate of Spore.jpg" style="width:150px;"/>
 
 **The weather and climate of Singapore** 
 
