@@ -1,7 +1,7 @@
 ---
-title: Using OneSearch
+title: Using EBSCOhost
 permalink: /getting-started/ebscohost/
-breadcrumb: Using OneSearch
+breadcrumb: Using EBSCOhost
 collection_name: getting-started
 ---
 

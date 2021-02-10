@@ -1,7 +1,7 @@
 ---
-title: Using OneSearch
+title: Using Proquest
 permalink: /getting-started/proquest/
-breadcrumb: Using OneSearch
+breadcrumb: Using Proquest
 collection_name: getting-started
 ---
 
