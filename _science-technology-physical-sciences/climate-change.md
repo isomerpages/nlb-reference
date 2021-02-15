@@ -367,7 +367,7 @@ Goodall, C. (2020). *[What we need to do now: For a zero carbon future](https://
 
 **Climate change and the legal, ethical and health issues facing healthcare and public health systems**
 
-Ganesh, C., Schmeltz, M. & Smith, J. (2020, December). Climate change and the legal, ethical and health issues facing healthcare and public health systems. In *Journal of Law, Medicine & Ethics*, 48(4), 636-642. Retrieved 2021, January 29, from EBSCOhost Academic Search Complete via NLB’s eResources website [http://eresources.nlb.gov.sg/main/browse/resource/1217/](http://eresources.nlb.gov.sg/main/browse/resource/1217/){:target="blank"} (myLibrary ID is required to access this article)
+Ganesh, C., Schmeltz, M. & Smith, J. (2020, December). Climate change and the legal, ethical and health issues facing healthcare and public health systems. In *Journal of Law, Medicine & Ethics*, 48(4), 636-642. Retrieved 2021, January 29, from EBSCOhost Academic Search Complete via NLB’s eResources website [http://eresources.nlb.gov.sg/main/browse/resource/1329/](http://eresources.nlb.gov.sg/main/browse/resource/1329/){:target="blank"} (myLibrary ID is required to access this article)
  This article provides an overview of how the frequency and intensity of extreme weather events caused by the increase in global temperatures affects human health, public health care systems and the environment. Health impacts are further categorised into direct impacts, environmental system mediated impacts and socially mediated impacts and among those most affected are minorities, the low-income sector, children, older adults and people with disabilities.
 
  
@@ -386,7 +386,7 @@ Pandey, V. S. (2020, October-December). Climate change effects on aquatic ecosys
 
 **Climate policy imbalance in the energy sector: Time to focus on the value of CO2 utilization**
 
-Tcvetkov, P. (2021, January 15). Climate policy imbalance in the energy sector: Time to focus on the value of CO2 utilization. In *Energies*, 14(2), 411. Retrieved 2021, January 29, from EBSCOhost Academic Search Complete via NLB’s eResources website [http://eresources.nlb.gov.sg/main/browse/resource/1217/](http://eresources.nlb.gov.sg/main/browse/resource/1217/){:target="blank"} (myLibrary ID is required to access this article)
+Tcvetkov, P. (2021, January 15). Climate policy imbalance in the energy sector: Time to focus on the value of CO2 utilization. In *Energies*, 14(2), 411. Retrieved 2021, January 29, from EBSCOhost Academic Search Complete via NLB’s eResources website [http://eresources.nlb.gov.sg/main/browse/resource/1329/](http://eresources.nlb.gov.sg/main/browse/resource/1329/){:target="blank"} (myLibrary ID is required to access this article)
  The author argues that the existing climate policy should be diversified beyond the replacement of hydrocarbon resources with renewable energy and turn the focus on carbon dioxide utilisation and disposal technologies to narrow the gap between current mitigation progress and the aims of climate agreements.
 
  
@@ -400,7 +400,7 @@ Mikhaylov, A. et al. (2020, June). Global climate change and greenhouse effect. 
 
 **Sinking carbon in coastal wetlands**
 
-Sinking carbon in coastal wetlands. (Nov/ Dec 2020). In *American Scientist*, 108(6), 331-332. Retrieved 2021, January 29, from EBSCOhost Academic Search Complete via NLB’s eResources website [http://eresources.nlb.gov.sg/main/browse/resource/1217/](http://eresources.nlb.gov.sg/main/browse/resource/1217/){:target="blank"} (myLibrary ID is required to access this article)
+Sinking carbon in coastal wetlands. (Nov/ Dec 2020). In *American Scientist*, 108(6), 331-332. Retrieved 2021, January 29, from EBSCOhost Academic Search Complete via NLB’s eResources website [http://eresources.nlb.gov.sg/main/browse/resource/1329/](http://eresources.nlb.gov.sg/main/browse/resource/1329/){:target="blank"} (myLibrary ID is required to access this article)
  Acording to Ariana Sutton-Grier, eco-system ecologist and biogeochemist, one frequently ignored climate change solution is to utilise ecosystems that are naturally carbon absorbent, such as saltwater marshes and other coastal environments. Coastal ecosystems store carbon almost entirely below ground and are known to be better carbon sinks than forests.
 
  
@@ -426,77 +426,88 @@ Cordero, E., Centeno, D. & Todd, A. M. (2020, February). The role of climate cha
 **Center for Climate and Energy Solutions (C2ES)** 
 
 Center for Climate and Energy Solutions. (2021). Retrieved 2021, January 26, from https://www.c2es.org/ 
- C2ES is an independent, non-profit environmental policy think tank which provides climate research and analysis, works with policymakers and stakeholders for collaborative climate solutions, promotes clean energy and other strategies for cost-effective emissions reductions and strengthens business support for effective climate policy.
+
+C2ES is an independent, non-profit environmental policy think tank which provides climate research and analysis, works with policymakers and stakeholders for collaborative climate solutions, promotes clean energy and other strategies for cost-effective emissions reductions and strengthens business support for effective climate policy.
 
 
 
 **Emissions gap report 2020**
 
 Emissions gap report 2020. (2020, December 9). *United Nations Environment Programme*. Retrieved 2021, January 26, from https://www.unenvironment.org/emissions-gap-report-2020
- This report assess the gap between forecasted greenhouse gas emissions if countries put into action their climate mitigation plans and the goal set at the 2015 Paris Agreement to limit global warming to 1.5 degree celsius. While the gap is far from narrowing, the COVID-19 economic recovery presents an excellent opportunity for a low-carbon transition to create more sustainable and resilient societies.
+
+This report assess the gap between forecasted greenhouse gas emissions if countries put into action their climate mitigation plans and the goal set at the 2015 Paris Agreement to limit global warming to 1.5 degree celsius. While the gap is far from narrowing, the COVID-19 economic recovery presents an excellent opportunity for a low-carbon transition to create more sustainable and resilient societies.
 
 
 
 **Impact of climate change on Singapore**
 
 Impact of climate change on Singapore. (2020). National Climate Change Secretariat. Retrieved 2021, January 26, from https://www.nccs.gov.sg/singapores-climate-action/impact-of-climate-change-in-singapore/ 
- Read about how climate change can impact Singapore's water resources, biodiversity and greenery, public health and food security. Links are also provided to read up on Singapore's climate change mitigation and adaptation efforts.
+
+Read about how climate change can impact Singapore's water resources, biodiversity and greenery, public health and food security. Links are also provided to read up on Singapore's climate change mitigation and adaptation efforts.
 
 
 
 **McKinsey on climate change**
 
 McKinsey on climate change. (2020, September). *McKinsey & Company*. Retrieved 2021, January 26, from [https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/Sustainability/Our%20Insights/McKinsey%20on%20Climate%20Change/McKinsey-on-Climate%20Change-Report.pdf](https://www.mckinsey.com/~/media/McKinsey/Business Functions/Sustainability/Our Insights/McKinsey on Climate Change/McKinsey-on-Climate Change-Report.pdf)
- This 216-page report gathers research on the impact of climate risks on the world's socioeconomic systems, infrastructure, natural capital and the lived environment. Technological and strategic solutions proposed to manage climate risk include adapting food systems and supply chains, adopting clean technologies to reduce carbon emissions and exploring the potential use of carbon.
+
+This 216-page report gathers research on the impact of climate risks on the world's socioeconomic systems, infrastructure, natural capital and the lived environment. Technological and strategic solutions proposed to manage climate risk include adapting food systems and supply chains, adopting clean technologies to reduce carbon emissions and exploring the potential use of carbon.
 
 
 
 **Singapore's efforts in addressing climate change**
 
 Singapore's efforts in addressing climate change. (2020). National Environment Agency. Retrieved 2021, January 26, from https://www.nea.gov.sg/our-services/climate-change-energy-efficiency/climate-change/singapore's-efforts-in-addressing-climate-change
- Details the actions Singapore is taking, at the international and local levels, to tackle the climate change crisis. The Inter-Ministerial Committee on Climate Change was also set up in 2007 to advise the National Environment Agency (NEA) on a coordinated approach to climate change and the NEA has also introduced measures to mitigate hyrdrofluorocarbon (HFC) emissions.
+
+Details the actions Singapore is taking, at the international and local levels, to tackle the climate change crisis. The Inter-Ministerial Committee on Climate Change was also set up in 2007 to advise the National Environment Agency (NEA) on a coordinated approach to climate change and the NEA has also introduced measures to mitigate hyrdrofluorocarbon (HFC) emissions.
 
 
 
 **State of climate action: Assessing progress toward 2030 and 2050** 
 
 Lebling, K. et al. (2020, November). State of climate action: Assessing progress toward 2030 and 2050. *World Resources Institute*. Retrieved 2021, February 1, from https://www.wri.org/publication/state-climate-action-assessing-progress-toward-2030-and-2050
- According to this report, there is still a long way to go before countries, cities and companies can reach the 2030 and 2050 emissions-reduction targets for the power, buildings, industry, transport, forests and agriculture sectors. Progress is too slow and therefore the share of renewables in electricity generation, electric vehicles adoption and increase in annual tree cover need to be accelerated. There is an urgent need to implement policies, incentives and financial investments to head towards a net-zero emissions future.
+
+According to this report, there is still a long way to go before countries, cities and companies can reach the 2030 and 2050 emissions-reduction targets for the power, buildings, industry, transport, forests and agriculture sectors. Progress is too slow and therefore the share of renewables in electricity generation, electric vehicles adoption and increase in annual tree cover need to be accelerated. There is an urgent need to implement policies, incentives and financial investments to head towards a net-zero emissions future.
 
 
 
 **The Intergovernmental Panel on Climate Change (IPCC)**
 
 The Intergovernmental Panel on Climate Change (IPCC). (2021). Retrieved 2021, January 26, from https://www.ipcc.ch/ 
- Established in 1988, IPCC provides governments of its 195 member countries with scientific information to aid in their climate policies development. IPCC scientists also provide regular assessments of the published scientific research on climate change, its impacts and future risks and how adaptation and mitigation can reduce those risks.
+
+Established in 1988, IPCC provides governments of its 195 member countries with scientific information to aid in their climate policies development. IPCC scientists also provide regular assessments of the published scientific research on climate change, its impacts and future risks and how adaptation and mitigation can reduce those risks.
 
 
 
 **The state of the global climate 2020** 
 
 The state of the global climate 2020. (2021, January 15). *World Meteorological Organisation*. Retrieved 2021, January 26, from https://public.wmo.int/en/our-mandate/climate/wmo-statement-state-of-global-climate
- Provides an overview of the global climate with the use of seven indicators (such as global mean surface temperature, ocean heat content and acidification and glacial mass loss) to monitor the impact of the climate on the earth's atmosphere, land, oceans and ice.
+
+Provides an overview of the global climate with the use of seven indicators (such as global mean surface temperature, ocean heat content and acidification and glacial mass loss) to monitor the impact of the climate on the earth's atmosphere, land, oceans and ice.
 
 
 
  **United in science 2020** 
 
 United in science 2020. (2020). *World Meteorological Organization*. Retrieved 2021, January 25, from https://public.wmo.int/en/resources/united_in_science 
- This report is the joint collaboration of the United Nations and global scientific partner organisations such as the Global Carbon Project, the UNESCO Intergovernmental Oceanographic Commission, Intergovernmental Panel on Climate Change and the World Meteorological Organization. It assesses the state of global greenhouse gas emissions in 2020 and addresses the impact of climate change on land, water, oceans and the cryosphere. Findings show that the lockdowns during the COVID-19 pandemic in 2020 only temporarily reduced carbon emissions and will not help to slow down the rate of global temperature rise.
+
+This report is the joint collaboration of the United Nations and global scientific partner organisations such as the Global Carbon Project, the UNESCO Intergovernmental Oceanographic Commission, Intergovernmental Panel on Climate Change and the World Meteorological Organization. It assesses the state of global greenhouse gas emissions in 2020 and addresses the impact of climate change on land, water, oceans and the cryosphere. Findings show that the lockdowns during the COVID-19 pandemic in 2020 only temporarily reduced carbon emissions and will not help to slow down the rate of global temperature rise.
 
 
 
 **United Nations Framework Convention on Climate Change (UNFCCC)** 
 
 United Nations Framework Convention on Climate Change (UNFCCC). (2021). Retrieved 2021, January 26, from https://unfccc.int/ 
- The UNFCCC secretariat supports the UN member states in responding to the threat of climate change and is the parent treaty of the 2015 Paris Agreement and the 1997 Kyoto Protocol. UNFCCC reviews and analyses climate change information, organises up to four climate negotiating sessions each year and serves to advance the implementation of the Convention, the Kyoto Protocol and the Paris Agreement.
+
+The UNFCCC secretariat supports the UN member states in responding to the threat of climate change and is the parent treaty of the 2015 Paris Agreement and the 1997 Kyoto Protocol. UNFCCC reviews and analyses climate change information, organises up to four climate negotiating sessions each year and serves to advance the implementation of the Convention, the Kyoto Protocol and the Paris Agreement.
 
 
 
 **World Meteorological Organization (WMO)**
 
 World Meteorological Organization (WMO). (2021). Retrieved 2021, January 26, from https://public.wmo.int/en
- WMO is a UN agency made up of inter-governments of 193 member states. WMO’s core functions include weather and climate observations, information exchange on climate and water-related data, application of science and technology to provide early warnings of severe weather and climate variability and research and training in meteorology and related fields.
+
+WMO is a UN agency made up of inter-governments of 193 member states. WMO’s core functions include weather and climate observations, information exchange on climate and water-related data, application of science and technology to provide early warnings of severe weather and climate variability and research and training in meteorology and related fields.
 
 
 
