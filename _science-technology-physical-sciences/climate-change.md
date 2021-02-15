@@ -63,7 +63,7 @@ Details Singapore's plans to prepare for climate change and to support Singapore
 
 **Climate change and global development: Market, global players and empirical evidence**
 
-Sequeira, T. & Reis, T. (Eds.). (2019). *[Climate change and global development: Market, global players and empirical evidence](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204390081){:target="blank"}. Cham, Switzerland: Springer Nature.
+Sequeira, T. & Reis, T. (Eds.). (2019). [Climate change and global development: Market, global players and empirical evidence](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204390081){:target="blank"}. Cham, Switzerland: Springer Nature.
 
 Call no.: R 363.73874 CLI
 
@@ -76,7 +76,8 @@ The authors examine the impact of climate change on economic growth, social deve
 **Climate change: Observed impacts on planet earth**
 
 Letcher, T. M. (Ed.). (2016). *[Climate change: Observed impacts on planet earth](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202348239){:target="blank"}*. Amsterdam, Netherlands: Elsevier Ltd.
- Call no.: R 551.6 CLI
+
+Call no.: R 551.6 CLI
 
 This volume contains 33 chapters on modelling climate change, geological history and scientific aspects of climate change and global warming, which are written by experts in the field. It provides major references and details for further research and understanding on all issues related to climate change, giving a clear indication of a looming crisis in global warming. 
 
@@ -439,7 +440,7 @@ A three-prong strategy is needed to tackle climate change - conventional mitigat
 
 **The role of climate change education on individual lifetime carbon emissions**
 
-Cordero, E., Centeno, D. & Todd, A. M. (2020, February). The role of climate change education on individual lifetime carbon emissions. In *PLoS One*, 15(2), 1-23. Retrieved 2021, January 28, from ProQuest Central via NLB’s eResources website [http://eresources.nlb.gov.sg/main/browse/resource/1111/](http://eresources.nlb.gov.sg/main/browse/resource/1217/){:target="blank"} (myLibrary ID is required to access this article)
+Cordero, E., Centeno, D. & Todd, A. M. (2020, February). The role of climate change education on individual lifetime carbon emissions. In *PLoS One*, 15(2), 1-23. Retrieved 2021, January 28, from ProQuest Central via NLB’s eResources website [http://eresources.nlb.gov.sg/main/browse/resource/1111/](http://eresources.nlb.gov.sg/main/browse/resource/1111/){:target="blank"} (myLibrary ID is required to access this article)
 
 This paper examines the impact which an intensive one-year university course on individual carbon emissions had on graduates from the course. A survey done five years after the end of the course revealed that graduates made more pro-environmental decisions, resulting in a reduction of individual carbon emissions by 2.86 tons of CO2 per year. The authors conclude that similar education programmes conducted on a wide scale would be equally of not more effective then mitigation strategies such as using solar rooftops or electric vehicles.
 
@@ -451,7 +452,7 @@ This paper examines the impact which an intensive one-year university course on 
 
 **Center for Climate and Energy Solutions (C2ES)** 
 
-Center for Climate and Energy Solutions. (2021). Retrieved 2021, January 26, from https://www.c2es.org/ 
+Center for Climate and Energy Solutions. (2021). Retrieved 2021, January 26, from [https://www.c2es.org/](https://www.c2es.org/){:target="blank"} 
 
 
 
@@ -461,7 +462,7 @@ C2ES is an independent, non-profit environmental policy think tank which provide
 
 **Emissions gap report 2020**
 
-Emissions gap report 2020. (2020, December 9). *United Nations Environment Programme*. Retrieved 2021, January 26, from https://www.unenvironment.org/emissions-gap-report-2020
+Emissions gap report 2020. (2020, December 9). *United Nations Environment Programme*. Retrieved 2021, January 26, from [https://www.unenvironment.org/emissions-gap-report-2020](https://www.unenvironment.org/emissions-gap-report-2020){:target="blank"}
 
 
 
