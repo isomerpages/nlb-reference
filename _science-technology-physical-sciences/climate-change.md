@@ -12,7 +12,7 @@ collection_name: science-technology-physical-sciences
 * [Ebooks](#ebooks)
 * [Journal articles](#journal-articles)
 * [Websites](#websites)
-* [Videos & Podcasts](#videos-&-podcasts)
+* [Videos and Podcasts](#videos-and-podcasts)
 * [Accessing National Library Board Singapore Resources](#accessing-national-library-board-singapore-resources)
 * [Author](#author)
 
@@ -472,7 +472,7 @@ This report assess the gap between forecasted greenhouse gas emissions if countr
 
 **Impact of climate change on Singapore**
 
-Impact of climate change on Singapore. (2020). National Climate Change Secretariat. Retrieved 2021, January 26, from https://www.nccs.gov.sg/singapores-climate-action/impact-of-climate-change-in-singapore/ 
+Impact of climate change on Singapore. (2020). National Climate Change Secretariat. Retrieved 2021, January 26, from [https://www.nccs.gov.sg/singapores-climate-action/impact-of-climate-change-in-singapore/](https://www.nccs.gov.sg/singapores-climate-action/impact-of-climate-change-in-singapore/){:target="blank"} 
 
 
 
@@ -482,7 +482,7 @@ Read about how climate change can impact Singapore's water resources, biodiversi
 
 **McKinsey on climate change**
 
-McKinsey on climate change. (2020, September). *McKinsey & Company*. Retrieved 2021, January 26, from [https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/Sustainability/Our%20Insights/McKinsey%20on%20Climate%20Change/McKinsey-on-Climate%20Change-Report.pdf](https://www.mckinsey.com/~/media/McKinsey/Business Functions/Sustainability/Our Insights/McKinsey on Climate Change/McKinsey-on-Climate Change-Report.pdf)
+McKinsey on climate change. (2020, September). *McKinsey & Company*. Retrieved 2021, January 26, from [https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/Sustainability/Our%20Insights/McKinsey%20on%20Climate%20Change/McKinsey-on-Climate%20Change-Report.pdf](https://www.mckinsey.com/~/media/McKinsey/Business Functions/Sustainability/Our Insights/McKinsey on Climate Change/McKinsey-on-Climate Change-Report.pdf){:target="blank"} 
 
 
 
@@ -492,7 +492,7 @@ This 216-page report gathers research on the impact of climate risks on the worl
 
 **Singapore's efforts in addressing climate change**
 
-Singapore's efforts in addressing climate change. (2020). National Environment Agency. Retrieved 2021, January 26, from https://www.nea.gov.sg/our-services/climate-change-energy-efficiency/climate-change/singapore's-efforts-in-addressing-climate-change
+Singapore's efforts in addressing climate change. (2020). National Environment Agency. Retrieved 2021, January 26, from [https://www.nea.gov.sg/our-services/climate-change-energy-efficiency/climate-change/singapore's-efforts-in-addressing-climate-change](https://www.nea.gov.sg/our-services/climate-change-energy-efficiency/climate-change/singapore's-efforts-in-addressing-climate-change){:target="blank"} 
 
 
 
@@ -502,7 +502,7 @@ Details the actions Singapore is taking, at the international and local levels, 
 
 **State of climate action: Assessing progress toward 2030 and 2050** 
 
-Lebling, K. et al. (2020, November). State of climate action: Assessing progress toward 2030 and 2050. *World Resources Institute*. Retrieved 2021, February 1, from https://www.wri.org/publication/state-climate-action-assessing-progress-toward-2030-and-2050
+Lebling, K. et al. (2020, November). State of climate action: Assessing progress toward 2030 and 2050. *World Resources Institute*. Retrieved 2021, February 1, from [https://www.wri.org/publication/state-climate-action-assessing-progress-toward-2030-and-2050](https://www.wri.org/publication/state-climate-action-assessing-progress-toward-2030-and-2050){:target="blank"}
 
 
 
@@ -512,7 +512,7 @@ According to this report, there is still a long way to go before countries, citi
 
 **The Intergovernmental Panel on Climate Change (IPCC)**
 
-The Intergovernmental Panel on Climate Change (IPCC). (2021). Retrieved 2021, January 26, from https://www.ipcc.ch/ 
+The Intergovernmental Panel on Climate Change (IPCC). (2021). Retrieved 2021, January 26, from [https://www.ipcc.ch/](https://www.ipcc.ch/){:target="blank"} 
 
 
 
@@ -522,7 +522,7 @@ Established in 1988, IPCC provides governments of its 195 member countries with 
 
 **The state of the global climate 2020** 
 
-The state of the global climate 2020. (2021, January 15). *World Meteorological Organisation*. Retrieved 2021, January 26, from https://public.wmo.int/en/our-mandate/climate/wmo-statement-state-of-global-climate
+The state of the global climate 2020. (2021, January 15). *World Meteorological Organisation*. Retrieved 2021, January 26, from [https://public.wmo.int/en/our-mandate/climate/wmo-statement-state-of-global-climate](https://public.wmo.int/en/our-mandate/climate/wmo-statement-state-of-global-climate){:target="blank"}
 
 
 
@@ -532,7 +532,7 @@ Provides an overview of the global climate with the use of seven indicators (suc
 
  **United in science 2020** 
 
-United in science 2020. (2020). *World Meteorological Organization*. Retrieved 2021, January 25, from https://public.wmo.int/en/resources/united_in_science 
+United in science 2020. (2020). *World Meteorological Organization*. Retrieved 2021, January 25, from [https://public.wmo.int/en/resources/united_in_science](https://public.wmo.int/en/resources/united_in_science){:target="blank"}
 
 
 
@@ -542,7 +542,7 @@ This report is the joint collaboration of the United Nations and global scientif
 
 **United Nations Framework Convention on Climate Change (UNFCCC)** 
 
-United Nations Framework Convention on Climate Change (UNFCCC). (2021). Retrieved 2021, January 26, from https://unfccc.int/ 
+United Nations Framework Convention on Climate Change (UNFCCC). (2021). Retrieved 2021, January 26, from [https://unfccc.int/](https://unfccc.int/){:target="blank"}
 
 
 
@@ -552,7 +552,7 @@ The UNFCCC secretariat supports the UN member states in responding to the threat
 
 **World Meteorological Organization (WMO)**
 
-World Meteorological Organization (WMO). (2021). Retrieved 2021, January 26, from https://public.wmo.int/en
+World Meteorological Organization (WMO). (2021). Retrieved 2021, January 26, from [https://public.wmo.int/en](https://public.wmo.int/en){:target="blank"}
 
 
 
@@ -560,7 +560,7 @@ WMO is a UN agency made up of inter-governments of 193 member states. WMO’s co
 
 
 
-### <u>Videos & Podcasts</u>
+### <u>Videos and Podcasts</u>
 
  
 
