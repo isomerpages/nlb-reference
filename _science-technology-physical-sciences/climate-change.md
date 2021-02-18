@@ -566,7 +566,9 @@ WMO is a UN agency made up of inter-governments of 193 member states. WMO’s co
 
 **BASELINE 2020: Climate change beyond a human lifetime**
 
-Sutter, J. (2020, April 14). BASELINE 2020: Climate change beyond a human lifetime. *TEDx Talks*. Retrieved 2020, 6 January 2021, from https://youtu.be/InWEC4oxBW0
+Sutter, J. (2020, April 14). BASELINE 2020: Climate change beyond a human lifetime. *TEDx Talks*. Retrieved 2020, 6 January 2021, from [https://youtu.be/InWEC4oxBW0](https://youtu.be/InWEC4oxBW0){:target="blank"}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/InWEC4oxBW0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 EMMY-nominated documentary filmmaker and CNN climate analyst, John D. Sutter, talks about his longitudinal film series -- BASELINE, which helps to document climate changes in four different locations at every five-year interval until 2050. This documentary aims to address the "shifting baseline syndrome", which refers to the human perception that environmental change happens too glacially to raise the alarm among the general human population.
 
@@ -574,7 +576,9 @@ EMMY-nominated documentary filmmaker and CNN climate analyst, John D. Sutter, ta
 
 **Causes and effects of climate change**
 
-Causes and effects of climate change. (2017, August 28). *National Geographic*. Retrieved 2021, January 6, from https://youtu.be/G4H1N_yXBiA
+Causes and effects of climate change. (2017, August 28). *National Geographic*. Retrieved 2021, January 6, from [https://youtu.be/G4H1N_yXBiA](https://youtu.be/G4H1N_yXBiA){:target="blank"}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G4H1N_yXBiA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Learn how human activities such as the burning of fossil fuels have contributed to the greenhouse effect, where greenhouse gases such as carbon dioxide and methane are trapped in the earth's atmosphere, causing an increase in the earth's temperature, which then wreaks havoc with the climate.
 
@@ -582,7 +586,8 @@ Learn how human activities such as the burning of fossil fuels have contributed 
 
 **Climate One Podcast**
 
-Climate One Podcast. (2021). *Climate One*. Retrieved 2021, January 8, from https://www.climateone.org/watch-and-listen/podcasts
+Climate One Podcast. (2021). *Climate One*. Retrieved 2021, January 8, from [https://www.climateone.org/watch-and-listen/podcasts](https://www.climateone.org/watch-and-listen/podcasts){:target="blank"} 
+
 
 The podcasts offer fresh insights on energy, the economy, resilience, transportation, water, food, technology and the environment, via frank discussions by climate scientists, policymakers, activists and concerned citizens. Each podcast episode is released weekly.
 
@@ -590,7 +595,8 @@ The podcasts offer fresh insights on energy, the economy, resilience, transporta
 
 **Shaping the future - From pandemic to climate change**
 
-Shaping the future - From pandemic to climate change. Cambridge Climate Lecture Series. (2020). *University of Cambridge*. Retrieved 2021, January 8, from https://climateseries.com/climate-change-podcast
+Shaping the future - From pandemic to climate change. Cambridge Climate Lecture Series. (2020). *University of Cambridge*. Retrieved 2021, January 8, from [https://climateseries.com/climate-change-podcast](https://climateseries.com/climate-change-podcast){:target="blank"}
+
 
 The podcasts feature interviews with environmental and climate change experts on how human actions are impacting the lived environment for current and future generations and what governments and ordinary citizens around the world can do to mitigate the fallout from climate catastrophes. Six podcast episodes are released each month.
 
@@ -598,7 +604,9 @@ The podcasts feature interviews with environmental and climate change experts on
 
 **Three solutions that can slow or stop climate change**
 
-Three solutions that can slow or stop climate change. (2020, June 15). *NOVA PBS Official*. Retrieved 2021, January 7, from https://youtu.be/YoZF16PZYoU
+Three solutions that can slow or stop climate change. (2020, June 15). *NOVA PBS Official*. Retrieved 2021, January 7, from [https://youtu.be/YoZF16PZYoU](https://youtu.be/YoZF16PZYoU){:target="blank"}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YoZF16PZYoU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Three solutions to be developed in tandem are proposed to tackle climate change, divided into acts of "prevention" to stop the release of greenhouse gases into the atmosphere, "undoing" the amount of carbon dioxide already present with the use of negative emissions technologies and "adapting" to living on a warmer planet.
 
@@ -606,7 +614,9 @@ Three solutions to be developed in tandem are proposed to tackle climate change,
 
 **Why renewables can’t save the planet** 
 
-Shellenberger, M. (2019, January 4). Why renewables can’t save the planet. *TEDx Talks*. Retrieved 2021, January 7, from https://youtu.be/N-yALPEpV4w
+Shellenberger, M. (2019, January 4). Why renewables can’t save the planet. *TEDx Talks*. Retrieved 2021, January 7, from [https://youtu.be/N-yALPEpV4w](https://youtu.be/N-yALPEpV4w){:target="blank"}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N-yALPEpV4w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Time Magazine “Hero of the Environment” and energy expert, Michael Shellenberger, shares why the challenges of employing renewable energy sources such as solar panels and wind farms coupled with the negative environmental impact they had on the environment led him down the path towards nuclear energy, despite the controversy surrounding this alternative form of energy.
 
@@ -614,7 +624,9 @@ Time Magazine “Hero of the Environment” and energy expert, Michael Shellenbe
 
 **World leaders fail to curb climate change in 2020**
 
-World leaders fail to curb climate change in 2020. (2020, December 3). *DW News*. Retrieved 2020, 6 January 2021, from https://youtu.be/GGGTUSXeahk
+World leaders fail to curb climate change in 2020. (2020, December 3). *DW News*. Retrieved 2020, 6 January 2021, from [https://youtu.be/GGGTUSXeahk](https://youtu.be/GGGTUSXeahk){:target="blank"}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GGGTUSXeahk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 António Guterres, Secretary-General of the UN, urgently calls upon world leaders to unite in the battle against climate change. According to a climate scientist from Stanford University, climate change is a side effect of fossil fuel energy consumption and the challenge is to ensure that people all over the world have access to energy necessary for their well-being, while trying to achieve net-zero carbon emissions.
 
@@ -624,7 +636,7 @@ António Guterres, Secretary-General of the UN, urgently calls upon world leader
 
 <b><u>Accessing the Print Materials</u></b>
 
-You can search the library catalogue (for physical materials) in the library and from home (https://catalogue.nlb.gov.sg/ ). The easy search function allows you to search/browse by author, title, keyword, subject and ISBN/ISSN whereas the advanced search allows you to narrow your searches to specific media types or language holdings. In both instances, you will also be able to limit your search to specific libraries by clicking on the “limit by branch” option.
+You can search the library catalogue (for physical materials) in the library and from home ([https://catalogue.nlb.gov.sg/](https://catalogue.nlb.gov.sg/){:target="blank"}). The easy search function allows you to search/browse by author, title, keyword, subject and ISBN/ISSN whereas the advanced search allows you to narrow your searches to specific media types or language holdings. In both instances, you will also be able to limit your search to specific libraries by clicking on the “limit by branch” option.
 
 **To search Lee Kong Chian Reference Library’s Holdings**
 
@@ -644,9 +656,9 @@ All featured books and periodicals are located at the Lee Kong Chian Reference L
 
 <b><u>Accessing the Databases</u></b>
 
-The National Library Board (NLB)’s eResources are free for all NLB members. Click [here](https://account.nlb.gov.sg) to find out how to register as a member.
+The National Library Board (NLB)’s eResources are free for all NLB members. Click [here](https://account.nlb.gov.sg){:target="blank"} to find out how to register as a member.
 
-If you’re having problems registering or logging in, please [contact us](https://www.nlb.gov.sg/ContactUs.aspx). If you wish to find information in the databases but am not sure where to begin, or need recommendations on which databases to use, please use the [Ask A Librarian](https://form.gov.sg/#!/60012dfdcc381d001141b97f) function or send an email to [ref@nlb.gov.sg](mailto:ref@library.nlb.gov.sg) for help. The librarian will get back to you within three working days.
+If you’re having problems registering or logging in, please [contact us](https://www.nlb.gov.sg/ContactUs.aspx){:target="blank"}. If you wish to find information in the databases but am not sure where to begin, or need recommendations on which databases to use, please use the [Ask A Librarian](https://form.gov.sg/#!/60012dfdcc381d001141b97f){:target="blank"} function or send an email to [ref@nlb.gov.sg](mailto:ref@library.nlb.gov.sg){:target="blank"} for help. The librarian will get back to you within three working days.
 
 ### <u>Author</u>
 
