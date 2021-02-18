@@ -2,7 +2,7 @@
 layout: homepage
 title: Reference@NLB
 description: Reference@NLB is an information repository containing resource guides, research guides and how-to guides to provide you with the necessary details to kickstart your research journey. Guides covering both print and online materials deal with general topics on Singapore & Southeast Asia, Arts, Business, Science & Technology, and Social Science & Humanities.
-image: /images/isomer-logo.svg
+image: /images/ReferenceNLB-logo.png
 permalink: /
 notification: This site is still in construction, thank you
 sections:
