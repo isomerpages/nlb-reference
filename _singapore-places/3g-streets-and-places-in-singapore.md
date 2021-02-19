@@ -34,9 +34,10 @@ This guide provides a list of resources where you can find information about the
 ### <u>Books</u>
 (listed in alphabetical order)
 
-<img src="/images/category/singaporeandsoutheastasia//images/category/singaporeandsoutheastasia/9810048211.png" alt="A stroll through old singapore image" style="width: 30%;">
+<img src="/images/category/singaporeandsoutheastasia/9810048211.png" alt="A stroll through old singapore image" style="width: 30%;">
 
-[A stroll through old Singapore](http://eservice.nlb.gov.sg/item_holding.aspx?bid=6566193)
+**[A stroll through old Singapore](http://eservice.nlb.gov.sg/item_holding.aspx?bid=6566193)**
+
 by Pugalenthi Sr.
 
 Call no.: RSING 959.57 PUG
@@ -47,7 +48,7 @@ All rights reserved, Singapore: VJ Times, 1993.
 
 <img src="/images/category/singaporeandsoutheastasia/14119281.jpg" alt="Ang mo kio heritage trail image" style="width: 30%;">
 
-[Ang Mo Kio: A heritage trail](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14119281)
+**[Ang Mo Kio: A heritage trail](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14119281)**
 
 by Tan Chui Hua, Thangamma Karthigesu and Singapore National Heritage Board
 
@@ -57,9 +58,8 @@ Ang Mo Kio was first referred to Amokiah in an 1849 report on agriculture in Sin
 
 All rights reserved, Singapore: National Heritage Board, 2011.
 
+**Balestier: A heritage trail**
 
-
-Balestier: A heritage trail
 by Singapore National Heritage Board and Central Singapore Community Development Council
 
 Call no.: RSING 959.57 BAL
@@ -68,7 +68,8 @@ Balestier Road was named after Joseph Balestier who first developed the area in 
 
 All rights reserved, Singapore: National Heritage Board, 2006.
 
-	Bishan heritage trail: 10 places to see
+**Bishan heritage trail: 10 places to see**
+
 by Singapore Kwong Wai Siew Peck San Theng
 
 Call no.: RSING 959.57 BIS
@@ -77,14 +78,16 @@ Bishan derived its name from the large Cantonese burial ground, commonly known a
 
 All rights reserved, Singapore: Singapore Kwong Wai Siew Peck San Theng, 2009.
 
-	Bukit Merah: From a hilly kampong to a modern town
+**Bukit Merah: From a hilly kampong to a modern town**
+
 Call no.: RSING 959.57 BUK
 
 Bukit Merah has evolved from farms and cottage industries in to a public housing estate built with Singapore Improvement Trust (SIT) flats to a modern Housing Board estate. This book gives a historical overview of Bukit Merah and includes an interesting folk story behind its name, which in English means “a hill dyed red”.
 
 All rights reserved, Singapore: Federal Publications, 1996.
 
-	Bukit Timah: Established in 1955
+**Bukit Timah: Established in 1955**
+
 by Shirley Tan-Oehler, K. F. Seetoh and Celeste Tan
 
 Call no.: RSING 959.57 BUK
@@ -93,7 +96,8 @@ Bukit Timah road was used by the Japanese troops to march into Singapore from Jo
 
 All rights reserved, Singapore: OracleWorks for PAP Bukit Timah Branch, 1995.
 
-	Chinese names of street and places in Singapore and the Malay Peninsula
+**Chinese names of street and places in Singapore and the Malay Peninsula**
+
 by H. W. Firmstone
 
 Call no.: RQUICK 959.5 JMBRAS (available at Lee Kong Chian Reference Library Level 11 Information counter)
@@ -102,7 +106,8 @@ This publication contains a list of Chinese equivalents and translations for the
 
 All rights reserved, Malaysia: Malaysian Branch of the Royal Asiatic Society.
 
-	Discover Singapore heritage trails
+**Discover Singapore heritage trails**
+
 by Singapore National Heritage Board
 
 Call no.: RSING 915.95704 DIS
@@ -111,7 +116,8 @@ Features seven walking trails which introduce Singapore’s history, architectur
 
 All rights reserved, Singapore: National Heritage Board, 2006.
 
-	Emerald Hill, the story of a street in words and pictures
+**Emerald Hill, the story of a street in words and pictures**
+
 by Lee Kip Lin
 
 Call no.: Reference Donor Lee Kip Lin 959.57 LEE
@@ -120,7 +126,8 @@ Learn about Emerald Hill’s rich history through the camera lenses of Lee, whos
 
 All rights reserved, Singapore: National Museum, 1984.
 
-	Evolution of a retail streetscape : DP Architects on Orchard Road
+**Evolution of a retail streetscape : DP Architects on Orchard Road**
+
 by Collin Anderson
 
 Call no.: RSING 725.21095957 AND
@@ -129,7 +136,8 @@ Discover what Orchard Road was like during the British colonial era in this book
 
 All rights reserved, Mulgrave, Vic.: Images, 2012.
 
-	Fortress Singapore: The battlefield guide
+**Fortress Singapore: The battlefield guide**
+
 by Siang Yong Yap et al
 
 Call no.: RSING 959.5703 FOR
@@ -138,7 +146,8 @@ Gives vivid accounts of the World War II battle in Singapore with photographs de
 
 All rights reserved, Singapore: Marshall Cavendish Editions, 2011.
 
-	Heritage places of Singapore
+**Heritage places of Singapore**
+
 by Wan Meng Hao and Jacqueline Lau
 
 Call no.: RSING 959.57 WAN
@@ -147,7 +156,8 @@ Documents historically important places and landmarks in Singapore. The full-col
 
 All rights reserved, Singapore: Marshall Cavendish Editions, 2009.
 
-	History of Changi
+**History of Changi**
+
 by Henry Probert
 
 Call no.: RSING 959.57 PRO
@@ -156,7 +166,8 @@ A first-hand account of Changi from veterans and scholars. The detailed informat
 
 All rights reserved, Singapore: Changi University Press, 2006.
 
-	Jalan Besar: A heritage trail
+**Jalan Besar: A heritage trail**
+
 by Singapore National Heritage Board and Central Singapore Community Council
 
 Call no.: RSING 959.57 JAL
@@ -165,7 +176,8 @@ Jalan Besar Stadium was once a landmark in the area where soccer matches were pl
 
 All rights reserved, Singapore: National Heritage Board, 2006.
 
-	Labrador Park: The adventure begins
+**Labrador Park: The adventure begins**
+
 by David Lim Kee Ann and Esmund Chua
 
 Call no.: RSING 959.57 LIM
@@ -174,7 +186,8 @@ This entertaining book presents facts, maps, personal accounts and sequencing of
 
 All rights reserved, Singapore: SNP Panpac, 2005.
 
-	Malayan place names
+**Malayan place names**
+
 by S. Durai Raja-Singam
 
 Call no.: RCLOS 959.5 RAJ (available upon request at the Lee Kong Chian Reference Library Level 11 Information counter)
@@ -183,7 +196,8 @@ Originally published as Post Weld to Kuantan: A study of Malay place names, the 
 
 All rights reserved, Kuala Lumpur: The Author, 1962.
 
-	Malayan street names: What they mean and whom they commemorate
+**Malayan street names: What they mean and whom they commemorate**
+
 by S. Durai Raja-Singam
 
 Call no.: RQUICK 959.5 RAJ (available upon request at the Lee Kong Chian Reference Library Level 11 Information counter)
@@ -192,7 +206,8 @@ This book provides an alphabetical listing of nearly 500 Singapore street names,
 
 All rights reserved, Ipoh: Printed by The Mercantile Press, 1939.
 
-	On a little hill in Chinatown: Singapore’s Ann Siang Hill
+**On a little hill in Chinatown: Singapore’s Ann Siang Hill**
+
 by Kevin Tan
 
 Call no.: RSING 959.57 TAN
@@ -201,7 +216,8 @@ This book captures the history of Ann Siang Hill and its surrounding environment
 
 All rights reserved, Singapore: Mileage Communications Pte Ltd, 2018.
 
-	Portraits of places: History, community and identity in Singapore
+**Portraits of places: History, community and identity in Singapore**
+
 by Brenda S. A. Yeoh and Lily Kong
 
 Call no.: RSING 959.57 POR
@@ -210,7 +226,8 @@ This publication contains a collection of essays on the history and stories of p
 
 All rights reserved, Singapore: Times Editions, 1995.
 
-	Queenstown: A heritage trail
+**Queenstown: A heritage trail**
+
 by Singapore National Heritage Board
 
 Call no.: RSING 959.57 QUE
@@ -219,7 +236,8 @@ Highlights many “Singapore firsts” which took place in Queenstown, such as t
 
 All rights reserved, Singapore: National Heritage Board, 2008.
 
-	Radin Mas: Heritage trail: A tale of hills
+**Radin Mas: Heritage trail: A tale of hills**
+
 by Central Singapore Community Development Council
 
 Call no.: RSING 959.57 RAD
@@ -228,7 +246,8 @@ Showcases the unique appeal of rustic old charms with a modern feel at Radin Mas
 
 All rights reserved, Singapore: Radin Mas Citizens’ Consultative Committee in collaboration with Central Singapore, 2009.
 
-	Ray Tyers’ Singapore then & now
+**Ray Tyers’ Singapore then & now**
+
 by Ray K. Tyers
 
 Call no.: RSING 959.57 TYE
@@ -237,14 +256,16 @@ Provides valuable information and pictures of major landmarks in Singapore.
 
 All rights reserved, Singapore: Landmark Books, 1993.
 
-	Serangoon Gardens: 35th anniversary 1959-1994
+**Serangoon Gardens: 35th anniversary 1959-1994**
+
 Call no.: RSING 959.57 SER
 
 Ang Sa Li (red zinc) is the Chinese dialect name for Serangoon Gardens. Kew Ong Yah Temple owned by Ong Kew is the most well-known Chinese temple in the Serangoon Gardens Division. This information and other interesting facts are parts of the commemorative magazine, devoted to tracing the history of Serangoon Gardens.
 
 All rights reserved, Singapore: Serangoon Gardens Commemorative Magazine Editorial Committee, 1994.
 
-	Singapore: A guide to buildings, streets, places
+**Singapore: A guide to buildings, streets, places**
+
 by Norman Edwards and Peter Keys
 
 Call no.: RSING 915.957 EDW
@@ -253,7 +274,8 @@ Describes the buildings, streets and places in Singapore in alphabetical order a
 
 All rights reserved, Singapore: Times Books International, 1988.
 
-	Singapore’s 100 historic places
+**Singapore’s 100 historic places**
+
 by G. Uma Devi et al
 
 Call no.: RSING 959.57 SIN
@@ -262,7 +284,8 @@ Provides information on 100 historic sites, buildings, institutions and places i
 
 All rights reserved, Singapore: Archipelago Press in assoication with National Heritage Board, 2002.
 
-	Singapore landmarks
+**Singapore landmarks**
+
 by S. Ramachandra
 
 Call no.: RSING 959.57 RAM
@@ -271,7 +294,8 @@ A cyclostyled transcript of Ramachandra’s radio talks that describe the histor
 
 All rights reserved, Singapore: Radio Singapore, 1969.
 
-	Stories behind Singapore streets : Exhibition guide, 12 January – 29 June 2012
+**Stories behind Singapore streets : Exhibition guide, 12 January – 29 June 2012**
+
 by National Library Singapore
 
 Call no.: RSING 959.57 STO
@@ -280,7 +304,8 @@ This slim publication provides an overview of streets and place names in Singapo
 
 All rights reserved, Singapore: National Library Board, 2011.
 
-	Streets of old Chinatown: Singapore
+**Streets of old Chinatown: Singapore**
+
 by Sumiko Tan
 
 Call no.: RSING 915.957 TAN
@@ -289,7 +314,8 @@ Catch a glimpse into the lives of early migrants who made Singapore’s Chinatow
 
 All rights reserved, Singapore: Page Media, 1990.
 
-	Street names of Singapore
+**Street names of Singapore**
+
 by Peter K. G. Dunlop
 
 Call no.: RSING 959.57 DUN
@@ -298,7 +324,8 @@ Provides an A-Z listing of street names in Singapore, their history and how they
 
 All rights reserved, Singapore: Who’s Who Pub., 2000.
 
-	Tanjong Pagar: Singapore’s cradle of development
+**Tanjong Pagar: Singapore’s cradle of development**
+
 by Tanjong Pagar Citizens’ Consultative Committee
 
 Call no.: RSING 959.57 TAN
@@ -307,7 +334,8 @@ A collection of essays on the economic, social and political development of Tanj
 
 All rights reserved, Singapore: Tanjong Pagar Citizens’ Consultative Committee, 1989.
 
-	Singapore street names: A study of toponymics
+**Singapore street names: A study of toponymics**
+
 by Victor Savage and Brenda Yeoh
 
 Call no.: RSING 915.9570014 SAV
@@ -316,7 +344,8 @@ Highlights the history and value systems of place names through time. Also inclu
 
 All rights reserved, Singapore: Marshall Cavendish Editions, 2013.
 
-	What’s in the name?: How the streets and villages in Singapore got their names
+**What’s in the name?: How the streets and villages in Singapore got their names**
+
 by Ng Yew Peng
 
 Call no.: RSING 915.9570014 NG
@@ -325,155 +354,165 @@ This book provides comprehensive annotations of all the place names in Singapore
 
 All rights reserved, Singapore: World Scientific, 2018.
 
-NLB Databases
+### NLB Databases
 The NLB eResources provide a wide range of electronic resources including ebooks, newspapers, magazines, databases, full-text journal articles and indexes.
 
 JSTOR is a database which provides access to important scholarly journals, mainly in the humanities and social sciences. High-resolution, scanned images of back issues of journals and pages are available. New titles are added on an ongoing basis. Below are some articles from JSTOR pertaining to Singapore’s streets.
 
 (articles are listed in alphabetical order)
 
- 
+* An index in romanised Hokkien and Cantonese to the Chinese names of streets and places in Singapore
 
-An index in romanised Hokkien and Cantonese to the Chinese names of streets and places in Singapore
-by K. S. Tan, H. W. Firmstone, A. W. Bailey and F. M. Baddeley
-Journal of the Straits Branch of the Royal Asiatic Society, Vol 46, (Dec, 1906), pp. 195-213.
-This is an A-Z index of the Chinese (in Romanised Hokkien and Cantonese) names of streets and places in Singapore.
+  by K. S. Tan, H. W. Firmstone, A. W. Bailey and F. M. Baddeley
 
+  Journal of the Straits Branch of the Royal Asiatic Society, Vol 46, (Dec, 1906), pp. 195-213.
 
-Chinese names of streets and places in Singapore and the Malay Peninsula (continued)
-by H. W. Firmstone
-Journal of the Straits Branch of the Royal Asiatic Society, Vol 42, (Feb, 1905), pp. 53-208.
-Firmstone provides an alphabetised list of Chinese (with Hokkien and Cantonese pronunciations) street names in Singapore and Penang, with brief explanations of their origins.
+  This is an A-Z index of the Chinese (in Romanised Hokkien and Cantonese) names of streets and places in Singapore.
 
+* Chinese names of streets and places in Singapore and the Malay Peninsula (continued)
 
-Native names of streets in Singapore
-by H.T. Haughton
-Journal of the Malaysian Branch of the Royal Asiatic Society, Vol 42, No.1, (Jul, 1969), pp. 196-207.
-Haughton provides an alphabetical list of the principal streets and roads in Singapore in English as well as their accompanying Chinese and Tamil names as given by the local communities.
+  by H. W. Firmstone
 
+  Journal of the Straits Branch of the Royal Asiatic Society, Vol 42, (Feb, 1905), pp. 53-208.
 
-Street names in colonial Singapore
-by Brenda Yeoh
-Geographical Review, Vol 82, No.3, (Jul, 1992), pp. 313-322.
-Two systems of street naming conventions existed in colonial Singapore. One was based on the European perception of landscape ordering and urban functioning, while the second originated from the immigrant Asian communities with the emphasis placed on purpose and function.
+  Firmstone provides an alphabetised list of Chinese (with Hokkien and Cantonese pronunciations) street names in Singapore and Penang, with brief explanations of their origins.
 
+* Native names of streets in Singapore
 
-Street-naming and nation-building: Toponymic inscriptions of nationhood in Singapore.
-by Brenda Yeoh
-Area, Vol 28, No. 3, (Sep, 1996), pp. 298-307.
-In post-independence Singapore, street-naming was influenced by socio-political sentiments. In this article, Yeoh examines street-naming as an integral ideological component of Singapore’s nation building and its impact on citizens.
+  by H.T. Haughton
 
+  Journal of the Malaysian Branch of the Royal Asiatic Society, Vol 42, No.1, (Jul, 1969), pp. 196-207.
 
-NLB Portals
+  Haughton provides an alphabetical list of the principal streets and roads in Singapore in English as well as their accompanying Chinese and Tamil names as given by the local communities.
+
+* Street names in colonial Singapore
+
+  by Brenda Yeoh
+
+  Geographical Review, Vol 82, No.3, (Jul, 1992), pp. 313-322.
+
+  Two systems of street naming conventions existed in colonial Singapore. One was based on the European perception of landscape ordering and urban functioning, while the second originated from the immigrant Asian communities with the emphasis placed on purpose and function.
+
+* Street-naming and nation-building: Toponymic inscriptions of nationhood in Singapore.
+
+  by Brenda Yeoh
+
+  Area, Vol 28, No. 3, (Sep, 1996), pp. 298-307.
+
+  In post-independence Singapore, street-naming was influenced by socio-political sentiments. In this article, Yeoh examines street-naming as an integral ideological component of Singapore’s nation building and its impact on citizens.
+
+### NLB Portals
 (listed in alphabetical order)
 
-Infopedia
-URL: http://eresources.nlb.gov.sg/infopedia/
+**Infopedia**
+
+URL: [http://eresources.nlb.gov.sg/infopedia/]
 
 Singapore Infopedia is an electronic encyclopedia on Singapore published by the National Library Board (NLB). It holds a collection of articles on Singapore and covers a wide range of topics, including but not limited to historical events, arts, culture, economy, government and key personalities.
 
-To search for Infopedia articles on streets and places in Singapore, check out this URL: http://eresources.nlb.gov.sg/infopedia/Streets_and_Places.html
+To search for Infopedia articles on streets and places in Singapore, check out this URL: [http://eresources.nlb.gov.sg/infopedia/Streets_and_Places.html]
 
 A list of 273 articles on Singapore streets and places are provided. Featured below are some of the articles you can find from Infopedia.
 
- 
+* Arab Street
 
-Arab Street
-by Vernon Cornelius-Takahama and Dahlia Shamsuddin
-Extract from article: Arab Street lies between Victoria Street and Beach Road in the Kampong Glam area, and was part of the Rochor Planning Area of Singapore’s Central Region. Sir Stamford Raffles had designated the Kampong Glam area as the most appropriate area for Arabs to live in. Other streets nearby are also named after Arabian cities. These include Bussorah Street, Muscat Street and Baghdad Street. Arab Street is the centre of Muslim activities in that area, and is famed for its specialty shops, Muslim restaurants and more.
+  by Vernon Cornelius-Takahama and Dahlia Shamsuddin
 
+  Extract from article: Arab Street lies between Victoria Street and Beach Road in the Kampong Glam area, and was part of the Rochor Planning Area of Singapore’s Central Region. Sir Stamford Raffles had designated the Kampong Glam area as the most appropriate area for Arabs to live in. Other streets nearby are also named after Arabian cities. These include Bussorah Street, Muscat Street and Baghdad Street. Arab Street is the centre of Muslim activities in that area, and is famed for its specialty shops, Muslim restaurants and more.
 
-Serangoon Road
-by Heirwin Mohd Nasir
-Extract from article: Serangoon Road is one of the earliest roads built in Singapore. It passes through Singapore’s Little India, which is the commercial, cultural and religious centre for both the local and foreign Indian community in Singapore. It also served as a highway between town and the Serangoon harbour in the northeast.
+* Serangoon Road
 
+  by Heirwin Mohd Nasir
 
-Telok Ayer Street
-by Sharon Teng
-Extract from article: Telok Ayer was designated a Chinese district by Stamford Raffles in 1822 and gained prominence in the 1820s because it served as the landing site for early immigrants. This led to a concentration of religious buildings and Chinese clan associations along the street. The street thus gives a useful insight into the life of early Chinese immigrants.
+  Extract from article: Serangoon Road is one of the earliest roads built in Singapore. It passes through Singapore’s Little India, which is the commercial, cultural and religious centre for both the local and foreign Indian community in Singapore. It also served as a highway between town and the Serangoon harbour in the northeast.
 
+* Telok Ayer Street
 
+  by Sharon Teng
 
+  Extract from article: Telok Ayer was designated a Chinese district by Stamford Raffles in 1822 and gained prominence in the 1820s because it served as the landing site for early immigrants. This led to a concentration of religious buildings and Chinese clan associations along the street. The street thus gives a useful insight into the life of early Chinese immigrants.
 
-PictureSG
-URL: https://eresources.nlb.gov.sg/pictures
+**PictureSG**
+URL: [https://eresources.nlb.gov.sg/pictures]
 
 PictureSG is a collection of pictures, be it photographs or artworks, which provide information about Singapore. It contains NLB’s own pictures, pictures donated to NLB by donors and others contributed by our partners.
 
-Visitors can browse through over 23,000 pictures featuring the streets and places of Singapore at this URL: https://eresources.nlb.gov.sg/pictures/Browse/Streets_and_Places
+Visitors can browse through over 23,000 pictures featuring the streets and places of Singapore at this URL: [https://eresources.nlb.gov.sg/pictures/Browse/Streets_and_Places]
 
 Keyword searches of a particular street, road, building or bridge can also be done at the search bar located at the top right-hand corner of the PictureSG website.
 
- 
-
-NewspaperSG
-URL: https://eresources.nlb.gov.sg/newspapers/
+**NewspaperSG**
+URL: [https://eresources.nlb.gov.sg/newspapers/]
 
 NewspaperSG is an online repository of Singapore newspapers. It contains a digital archive of newspapers published since 1827, such as the Singapore Chronicle and Commercial Register, The Singapore Free Press and The Straits Times.
 
 Featured below are some articles from NewspaperSG, covering the history and origins of Singapore’s streets and places.
 
- 
+* A road into history
 
-A road into history
-by Kezia Toh
-The Straits Times, 8 July 2013, Page 3
-http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20130708-1.2.52.3
-(article is only viewable in NLB libraries)
-Features a newly published 408-page third edition of Singapore street names: A study of toponymics which contains over 1,700 entries of road names and also contains stories from relatives of Singapore’s pioneers after whom many of the roads were named.
+  by Kezia Toh
 
+  The Straits Times, 8 July 2013, Page 3
+  [http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20130708-1.2.52.3]
+  (article is only viewable in NLB libraries)
 
-How mental hospital got its name
-The Straits Times, 5 July 1998, Page 34
-http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19980705-1.2.45.8
-(article is only viewable in NLB libraries)
-The mystery of how Woodbridge Hospital got its name in 1951 is revealed in this article.
+  Features a newly published 408-page third edition of Singapore street names: A study of toponymics which contains over 1,700 entries of road names and also contains stories from relatives of Singapore’s pioneers after whom many of the roads were named.
 
+* How mental hospital got its name
 
-Learn our street names
-The Straits Times, 11 November 1977, Page 8
-http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19771111-1.2.45.1
-As a result of a February 1970 report by a special Ministry of Culture standardisation committee highlighting the confusing Chinese translations of Singapore street names, government departments, statutory boards, the mass media and the public have adopted the standardised street names in Chinese.
+  The Straits Times, 5 July 1998, Page 34
+  [http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19980705-1.2.45.8]
+  (article is only viewable in NLB libraries)
 
+  The mystery of how Woodbridge Hospital got its name in 1951 is revealed in this article.
 
-Malayan history told in street names
-The Singapore Free Press and Mercantile Advertiser, 24 June 1940, Page 5
-http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19400624-1.2.52
-Highlights S. Durai Raja Singam’s newly published book, Malayan street names, which explores the fascinating origins of the names of Malaya’s streets.
+* Learn our street names
 
+  The Straits Times, 11 November 1977, Page 8
+  [http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19771111-1.2.45.1]
+  As a result of a February 1970 report by a special Ministry of Culture standardisation committee highlighting the confusing Chinese translations of Singapore street names, government departments, statutory boards, the mass media and the public have adopted the standardised street names in Chinese.
 
-Want to know why there are so many ‘chu kangs’?
-by Janadas Devan
-The Straits Times, 12 June 2005, Page 27
-http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20050612-1.2.29.9
-(article is only viewable in NLB libraries)
-Interesting anecdotes about the meanings behind Singapore’s street names are liberally sprinkled throughout this article, such as Serangoon Road being named after a long-legged water-bird called the rang-gung or why there are so many “chu kangs” in Singapore’s history.
+* Malayan history told in street names
 
+  The Singapore Free Press and Mercantile Advertiser, 24 June 1940, Page 5
+  [http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19400624-1.2.52]
 
+  Highlights S. Durai Raja Singam’s newly published book, Malayan street names, which explores the fascinating origins of the names of Malaya’s streets.
 
+* Want to know why there are so many ‘chu kangs’?
 
-Websites
+  by Janadas Devan
+
+  The Straits Times, 12 June 2005, Page 27
+  [http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20050612-1.2.29.9]
+
+  (article is only viewable in NLB libraries)
+  Interesting anecdotes about the meanings behind Singapore’s street names are liberally sprinkled throughout this article, such as Serangoon Road being named after a long-legged water-bird called the rang-gung or why there are so many “chu kangs” in Singapore’s history.
+
+### **Websites**
 (listed in alphabetical order)
 
 The following websites contain useful information and resources on this topic.
 
- 
+* Behind street names: Prominent people of early Singapore
 
-Behind street names: Prominent people of early Singapore
-by Mazelan Anuar
-URL: http://eservice.nlb.gov.sg/opennlbcmscontent.aspx?id=e97525f6-e1e5-494c-b02e-92f0018aac74
-This article (from BibloAsia, Vol 4, Issue 4, pp. 31-35) gives the history of nine street names of Singapore which provides links to our recent past. It draws information from legal documents and maps which are part of the Koh Seow Chuan collection.
+  by Mazelan Anuar
 
+  URL: [http://eservice.nlb.gov.sg/opennlbcmscontent.aspx?id=e97525f6-e1e5-494c-b02e-92f0018aac74]
 
-Remember Singapore
-URL: https://remembersingapore.org/
-This blog provides photographs and write-ups that aim to relive memories of Singapore and increase awareness of the fading heritage and vanishing landmarks in the midst of Singapore’s rapid development.
+  This article (from BibloAsia, Vol 4, Issue 4, pp. 31-35) gives the history of nine street names of Singapore which provides links to our recent past. It draws information from legal documents and maps which are part of the Koh Seow Chuan collection.
+
+* Remember Singapore
+
+  URL: [https://remembersingapore.org/]
+
+  This blog provides photographs and write-ups that aim to relive memories of Singapore and increase awareness of the fading heritage and vanishing landmarks in the midst of Singapore’s rapid development.
 
 ### <u>Accessing National Library Board Singapore Resources</u>
 
 <b><u>Accessing the Print Materials</u></b>
 
-You can search the library catalogue (for physical materials) in the library and from home (http://catalogue.nlb.gov.sg). The easy search function allows you to search/browse by author, title, keyword, subject and ISBN/ISSN whereas the advanced search allows you to narrow your searches to specific media types or language holdings. In both instances, you will also be able to limit your search to specific libraries by clicking on the “limit by branch” option.
+You can search the library catalogue (for physical materials) in the library and from home [http://catalogue.nlb.gov.sg]. The easy search function allows you to search/browse by author, title, keyword, subject and ISBN/ISSN whereas the advanced search allows you to narrow your searches to specific media types or language holdings. In both instances, you will also be able to limit your search to specific libraries by clicking on the “limit by branch” option.
 
 **To search Lee Kong Chian Reference Library’s Holdings**
 
@@ -493,9 +532,9 @@ All featured books and periodicals are located at the Lee Kong Chian Reference L
 
 <b><u>Accessing the Databases</u></b>
 
-The National Library Board (NLB)’s eResources are free for all NLB members. Click [here](http://eresources.nlb.gov.sg/HowDoI.aspx) to find out how to register as a member.
+The National Library Board (NLB)’s eResources are free for all NLB members. Click [here](https://eresources.nlb.gov.sg/main/Help/HowDoI) to find out how to register as a member.
 
-If you’re having problems registering or logging in, please [contact us](http://www.nlb.gov.sg/ContactUs.aspx). If you wish to find information in the databases but am not sure where to begin, or need recommendations on which databases to use, please use the [“Ask A Librarian”](http://www.nlb.gov.sg/Research/AskUs.aspx) function or send an email to [ref@nlb.gov.sg](mailto:ref@library.nlb.gov.sg) for help. The librarian will get back to you within three working days.
+If you’re having problems registering or logging in, please [contact us](http://www.nlb.gov.sg/ContactUs.aspx). If you wish to find information in the databases but am not sure where to begin, or need recommendations on which databases to use, please use the [“Ask A Librarian”](https://go.gov.sg/nlb-form-ask-a-librarian) function or send an email to [ref@nlb.gov.sg](mailto:ref@nlb.gov.sg) for help. The librarian will get back to you within three working days.
 
 ### <u>Author</u>
 
