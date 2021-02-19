@@ -1,8 +1,8 @@
 ---
 title: Angkor Wat
-permalink: /category/singaporeandsoutheastasia/angkor-wat
+permalink: /guides/singapore/places/angkor-wat
 breadcrumb: Angkor Wat
-collection_name: category
+collection_name: singapore-places
 third_nav_title: Singapore and South East Asia
 ---
 

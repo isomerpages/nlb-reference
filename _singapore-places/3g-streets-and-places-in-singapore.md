@@ -1,8 +1,8 @@
 ---
 title: Streets and Places in Singapore
-permalink: /category/singaporeandsoutheastasia/streets-and-places-in-singapore
+permalink: /guides/singapore/places/streets-and-places-in-singapore
 breadcrumb: Streets and Places in Singapore
-collection_name: category
+collection_name: singapore-places
 third_nav_title: Singapore and South East Asia
 ---
 
@@ -29,7 +29,7 @@ This guide provides a list of resources where you can find information about the
 | Monuments Singapore |	959.57 |
 | Singapore Description and Travel | 915.957 |
 | Trails Singapore | 959.57 |
- 
+
 
 ### <u>Books</u>
 (listed in alphabetical order)
@@ -338,31 +338,31 @@ An index in romanised Hokkien and Cantonese to the Chinese names of streets and 
 by K. S. Tan, H. W. Firmstone, A. W. Bailey and F. M. Baddeley
 Journal of the Straits Branch of the Royal Asiatic Society, Vol 46, (Dec, 1906), pp. 195-213.
 This is an A-Z index of the Chinese (in Romanised Hokkien and Cantonese) names of streets and places in Singapore.
- 
+
 
 Chinese names of streets and places in Singapore and the Malay Peninsula (continued)
 by H. W. Firmstone
 Journal of the Straits Branch of the Royal Asiatic Society, Vol 42, (Feb, 1905), pp. 53-208.
 Firmstone provides an alphabetised list of Chinese (with Hokkien and Cantonese pronunciations) street names in Singapore and Penang, with brief explanations of their origins.
- 
+
 
 Native names of streets in Singapore
 by H.T. Haughton
 Journal of the Malaysian Branch of the Royal Asiatic Society, Vol 42, No.1, (Jul, 1969), pp. 196-207.
 Haughton provides an alphabetical list of the principal streets and roads in Singapore in English as well as their accompanying Chinese and Tamil names as given by the local communities.
- 
+
 
 Street names in colonial Singapore
 by Brenda Yeoh
 Geographical Review, Vol 82, No.3, (Jul, 1992), pp. 313-322.
 Two systems of street naming conventions existed in colonial Singapore. One was based on the European perception of landscape ordering and urban functioning, while the second originated from the immigrant Asian communities with the emphasis placed on purpose and function.
- 
+
 
 Street-naming and nation-building: Toponymic inscriptions of nationhood in Singapore.
 by Brenda Yeoh
 Area, Vol 28, No. 3, (Sep, 1996), pp. 298-307.
 In post-independence Singapore, street-naming was influenced by socio-political sentiments. In this article, Yeoh examines street-naming as an integral ideological component of Singapore’s nation building and its impact on citizens.
- 
+
 
 NLB Portals
 (listed in alphabetical order)
@@ -381,19 +381,19 @@ A list of 273 articles on Singapore streets and places are provided. Featured be
 Arab Street
 by Vernon Cornelius-Takahama and Dahlia Shamsuddin
 Extract from article: Arab Street lies between Victoria Street and Beach Road in the Kampong Glam area, and was part of the Rochor Planning Area of Singapore’s Central Region. Sir Stamford Raffles had designated the Kampong Glam area as the most appropriate area for Arabs to live in. Other streets nearby are also named after Arabian cities. These include Bussorah Street, Muscat Street and Baghdad Street. Arab Street is the centre of Muslim activities in that area, and is famed for its specialty shops, Muslim restaurants and more.
- 
+
 
 Serangoon Road
 by Heirwin Mohd Nasir
 Extract from article: Serangoon Road is one of the earliest roads built in Singapore. It passes through Singapore’s Little India, which is the commercial, cultural and religious centre for both the local and foreign Indian community in Singapore. It also served as a highway between town and the Serangoon harbour in the northeast.
- 
+
 
 Telok Ayer Street
 by Sharon Teng
 Extract from article: Telok Ayer was designated a Chinese district by Stamford Raffles in 1822 and gained prominence in the 1820s because it served as the landing site for early immigrants. This led to a concentration of religious buildings and Chinese clan associations along the street. The street thus gives a useful insight into the life of early Chinese immigrants.
- 
 
- 
+
+
 
 PictureSG
 URL: https://eresources.nlb.gov.sg/pictures
@@ -421,26 +421,26 @@ The Straits Times, 8 July 2013, Page 3
 http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20130708-1.2.52.3
 (article is only viewable in NLB libraries)
 Features a newly published 408-page third edition of Singapore street names: A study of toponymics which contains over 1,700 entries of road names and also contains stories from relatives of Singapore’s pioneers after whom many of the roads were named.
- 
+
 
 How mental hospital got its name
 The Straits Times, 5 July 1998, Page 34
 http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19980705-1.2.45.8
 (article is only viewable in NLB libraries)
 The mystery of how Woodbridge Hospital got its name in 1951 is revealed in this article.
- 
+
 
 Learn our street names
 The Straits Times, 11 November 1977, Page 8
 http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19771111-1.2.45.1
 As a result of a February 1970 report by a special Ministry of Culture standardisation committee highlighting the confusing Chinese translations of Singapore street names, government departments, statutory boards, the mass media and the public have adopted the standardised street names in Chinese.
- 
+
 
 Malayan history told in street names
 The Singapore Free Press and Mercantile Advertiser, 24 June 1940, Page 5
 http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19400624-1.2.52
 Highlights S. Durai Raja Singam’s newly published book, Malayan street names, which explores the fascinating origins of the names of Malaya’s streets.
- 
+
 
 Want to know why there are so many ‘chu kangs’?
 by Janadas Devan
@@ -448,9 +448,9 @@ The Straits Times, 12 June 2005, Page 27
 http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20050612-1.2.29.9
 (article is only viewable in NLB libraries)
 Interesting anecdotes about the meanings behind Singapore’s street names are liberally sprinkled throughout this article, such as Serangoon Road being named after a long-legged water-bird called the rang-gung or why there are so many “chu kangs” in Singapore’s history.
- 
 
- 
+
+
 
 Websites
 (listed in alphabetical order)
@@ -463,7 +463,7 @@ Behind street names: Prominent people of early Singapore
 by Mazelan Anuar
 URL: http://eservice.nlb.gov.sg/opennlbcmscontent.aspx?id=e97525f6-e1e5-494c-b02e-92f0018aac74
 This article (from BibloAsia, Vol 4, Issue 4, pp. 31-35) gives the history of nine street names of Singapore which provides links to our recent past. It draws information from legal documents and maps which are part of the Koh Seow Chuan collection.
- 
+
 
 Remember Singapore
 URL: https://remembersingapore.org/
