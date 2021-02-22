@@ -20,6 +20,7 @@ published: true
 - [Footnotes](#footnotes)
 - [Tables](#tables)
 - [KIV Content](#kiv-content)
+- [Useful Websites for Reference](#useful-websites-for-reference)
 
 ## Introduction
 
@@ -274,8 +275,8 @@ When the commit is made to staging and then production, this comment remains inv
 
 > This image can only be publicly viewed on Black Friday. <br><img src="https://i.imgur.com/HXMwtll.jpg" style="width:180px;" /> <br>Insert 500 word essay here.
 
-## Useful Websites for reference
+## Useful Websites for Reference
 
-- Govtech's Isomer cheatsheet: <https://www.isomer.gov.sg/documentation/markdown/markdown-cheatsheet/>
+- Govtech's Isomer cheatsheet: <https://v2.isomer.gov.sg/get-started/markdown/markdown-cheatsheet>
 - Blog post explaining Markdown and some formatting functions: <https://blog.bit.ai/what-is-markdown/>
 - Cheatsheet of syntaxes: <https://blog.bit.ai/wp-content/uploads/2017/12/Markdown-Infographic-1.jpg>
