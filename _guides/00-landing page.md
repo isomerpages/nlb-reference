@@ -62,27 +62,26 @@ Discover our curated resource guides here!
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/guides/socialsciences-humanities/history/" class="project-link">
-				<img src="/images/category/humanities.jpg" alt="Social Sciences & Humanities" class="project-image">
-			<div class="project-card">
-					<h5><b>Social Science & Humanities</b></h5>	
-			</div>
+				<img src="/images/category/humanities.jpg" alt="Social Sciences & Humanities" class="project-image"><br>
+				<h5><b>Social Science & Humanities</b></h5>	
 			</a>
 		</div>
-	</div>
-	<div class="sgds-card-image">
-	    <figure class="sgds-image is-16by9">
-	        <img
-	            alt="Development Guides"
-	            src="https://via.placeholder.com/160x90/868e96/ffffff?text=Image"
-	        />
-	    </figure>
-	</div>
-	<div class="sgds-card-content">
-	    <p><strong>About us</strong></p>
-	    <p>A brief description of who we are</p>
-	    <p>
-	        <a href="#!">See more</a>
-	    </p>
+
+        <div class="sgds-card-image">
+            <figure class="sgds-image is-16by9">
+                <img
+                    alt="Development Guides"
+                    src="https://via.placeholder.com/160x90/868e96/ffffff?text=Image"
+                />
+            </figure>
+        </div>
+        <div class="sgds-card-content">
+            <p><strong>About us</strong></p>
+            <p>A brief description of who we are</p>
+            <p>
+                <a href="#!">See more</a>
+            </p>
+        </div>
 	</div>
 </div>
 
