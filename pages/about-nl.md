@@ -1,6 +1,6 @@
 ---
 title: About National Library Singapore
-permalink: /about-nls/
+permalink: /about-us/national-library/
 breadcrumb: 'About National Library Singapore'
 ---
 
