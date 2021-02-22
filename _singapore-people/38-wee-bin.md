@@ -3,6 +3,7 @@ title: Wee Bin 黄敏
 permalink: /guides/singapore/people/wee-bin/
 breadcrumb: Wee Bin
 collection_name: singapore-people
+published: false
 ---
 
 ### <u>Guide Index</u>

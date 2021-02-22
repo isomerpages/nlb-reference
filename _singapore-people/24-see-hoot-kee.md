@@ -3,6 +3,7 @@ title: See Hoot Kee 薛佛记
 permalink: /guides/singapore/people/see-hoot-kee/
 breadcrumb: See Hoot Kee
 collection_name: singapore-people
+published: false
 ---
 
 ### <u>Guide Index</u>

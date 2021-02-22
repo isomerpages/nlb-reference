@@ -3,6 +3,7 @@ title: Goh Siew Tin 吴寿珍
 permalink: /guides/singapore/people/goh-siew-tin/
 breadcrumb: Goh Siew Tin
 collection_name: singapore-people
+published: false
 ---
 
 ### <u>Guide Index</u>

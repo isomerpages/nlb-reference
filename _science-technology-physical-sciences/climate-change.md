@@ -7,7 +7,7 @@ collection_name: science-technology-physical-sciences
 
 ![Climate Change](/images/sci-tech/climate change main pic.jpg)
 
-### <u>Guide Index</u>
+### Guide Index
 
 * [Introduction](#introduction)
 * [Books](#books)
@@ -244,7 +244,7 @@ Provides a good overview of Singapore's general climate and explains how weather
 
 (listed in alphabetical order)
 
-(*myLibrary ID* is required to access the ebooks from NLB’s eresources website [https://eresources.nlb.gov.sg/main/](https://eresources.nlb.gov.sg/main/){:target="blank"} )
+(*myLibrary ID* is required to access the ebooks from NLB’s eresources website [https://eresources.nlb.gov.sg/main/](https://eresources.nlb.gov.sg/main/){:target="blank"})
 
 <img src="/images/sci-tech/Coping with climate Crisis.jpg" style="width:150px;"/>
 
@@ -378,7 +378,7 @@ Goodall proposes significant economic and societal changes in order for UK to ac
 
 ### Journal articles
 
-(*myLibrary ID* is required to access the journal articles from NLB’s eresources website [https://eresources.nlb.gov.sg/main/](https://eresources.nlb.gov.sg/main/){:target="blank"}
+(*myLibrary ID* is required to access the journal articles from NLB’s eresources website [https://eresources.nlb.gov.sg/main/](https://eresources.nlb.gov.sg/main/){:target="blank"})
 
  
 
@@ -392,7 +392,7 @@ This article provides an overview of how the frequency and intensity of extreme 
 
 **Climate change and tourism - some key issues** 
 
-Blagoeva, I. (2020). Climate change and tourism - some key issues. In *International Multidisciplinary Scientific GeoConference*, 20(2), 341-347. Retrieved 2021, January 28, from ProQuest Central via NLB’s eResources website [http://eresources.nlb.gov.sg/main/browse/resource/1111/](http://eresources.nlb.gov.sg/main/browse/resource/1111/){:target="blank"} (*myLibrary ID is required to access this article*)
+Blagoeva, I. (2020). Climate change and tourism - some key issues. In *International Multidisciplinary Scientific GeoConference*, 20(2), 341-347. Retrieved 2021, January 28, from ProQuest Central via NLB’s eResources website [http://eresources.nlb.gov.sg/main/browse/resource/1111/](http://eresources.nlb.gov.sg/main/browse/resource/1111/){:target="blank"} (*myLibrary ID* is required to access this article)
 
 Climate change poses real threats to the tourism industry all over the world as extreme weather events result in the damage or loss of quality of tourist sites. The author urges stakeholders in the tourism sector to take action to cope with climate change such as introducing environmental standards to assess the impact of tourism on the environment and using technologies to tackle CO2 emissions. 
 

@@ -3,6 +3,7 @@ title: Chew Joo Chiat 周如切
 permalink: /guides/singapore/people/chew-joo-chiat/
 breadcrumb: Chew Joo Chiat
 collection_name: singapore-people
+published: false
 ---
 
 ### <u>Guide Index</u>
