@@ -5,7 +5,7 @@ breadcrumb: Resource Guides
 collection_name: guides
 ---
 ![Resource Guides](\images\about-us\genref-stacks-v2.jpg)
-## Discover our curated resource guides here!
+#### Discover our curated resource guides here!
 
 <div>
 	<div class="row is-multiline">
@@ -18,7 +18,9 @@ collection_name: guides
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/guides/arts/visual-arts/" class="project-link">
 				<img src="/images/category/performing-arts.jpg" alt="Arts" class="project-image">
-				<b>Arts</b>
+				<div class="project-title">					
+					<b>Arts</b>
+				</div>
 			</a>
 		</div>
 	</div>
@@ -48,7 +50,9 @@ collection_name: guides
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/guides/socialsciences-humanities/history/" class="project-link">
 				<img src="/images/category/humanities.jpg" alt="Social Sciences & Humanities" class="project-image">
-				<b>Social Science & Humanities</b>	
+				<div class="project-title">	
+				<h5><b>Social Science & Humanities</b></h5>
+                </div>
 			</a>
 		</div>
 	</div>
