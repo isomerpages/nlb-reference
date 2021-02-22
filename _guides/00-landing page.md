@@ -5,15 +5,15 @@ breadcrumb: Resource Guides
 collection_name: guides
 ---
 ![Resource Guides](\images\about-us\genref-stacks-v2.jpg)
-### Discover our curated resource guides here!
-
+### <u>Discover our curated resource guides here!</u>
+<p>
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/guides/singapore/people/" class="project-link">
 				<img src="/images/category/singapore.jpg" alt="Singapore" class="project-image">
 				<div class="project-title">	
-				<b>Singapore</b>
+				<h5><b>Singapore</b></h5>
 				</div>
 			</a>
 		</div>
@@ -21,7 +21,7 @@ collection_name: guides
 			<a href="/guides/arts/visual-arts/" class="project-link">
 				<img src="/images/category/performing-arts.jpg" alt="Arts" class="project-image">
 				<div class="project-title">					
-					<b>Arts</b>
+				<h5><b>Arts</b></h5>
 				</div>
 			</a>
 		</div>
@@ -35,7 +35,7 @@ collection_name: guides
 			<a href="/guides/business/management/" class="project-link">
 				<img src="/images/category/management.jpg" alt="Business" class="project-image">
 				<div class="project-title">	
-                <b>Business</b>
+                <h5><b>Business</b></h5>
                 </div>
 			</a>
 		</div>
@@ -43,7 +43,7 @@ collection_name: guides
 			<a href="/guides/science-technology/physical-sciences/" class="project-link">
 				<img src="/images/category/sci-tech.jpg" alt="Science & Technology" class="project-image">
 				<div class="project-title">	
-				<b>Science & Technology</b>
+				<h5><b>Science & Technology</b></h5>
 				</div>
 			</a>
 		</div>
