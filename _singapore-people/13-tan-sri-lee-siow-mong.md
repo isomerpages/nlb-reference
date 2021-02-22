@@ -2,7 +2,7 @@
 title: Lee Siow Mong 李绍茂
 permalink: /guides/singapore/people/lee-siow-mong/
 breadcrumb: Lee Siow Mong
-collection_name: people
+collection_name: singapore-people
 ---
 
 ### <u>Guide Index</u>

@@ -2,7 +2,7 @@
 title: Zhang Liqian 张礼千
 permalink: /guides/singapore/people/zhang-liqian/
 breadcrumb: Zhang Liqian
-collection_name: people
+collection_name: singapore-people
 ---
 
 ### <u>Guide Index</u>

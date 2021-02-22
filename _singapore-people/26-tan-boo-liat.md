@@ -2,7 +2,7 @@
 title: Tan Boo Liat 陈武烈
 permalink: /guides/singapore/people/tan-boo-liat/
 breadcrumb: Tan Boo Liat
-collection_name: people
+collection_name: singapore-people
 ---
 
 ### <u>Guide Index</u>

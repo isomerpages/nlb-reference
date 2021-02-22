@@ -2,7 +2,7 @@
 title: Tay Koh Yat 郑古悦
 permalink: /guides/singapore/people/tay-koh-yat/
 breadcrumb: Tay Koh Yat
-collection_name: people
+collection_name: singapore-people
 ---
 
 ### <u>Guide Index</u>

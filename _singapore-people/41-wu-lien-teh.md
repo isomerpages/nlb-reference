@@ -2,7 +2,7 @@
 title: Wu Lien Teh 伍连徳
 permalink: /guides/singapore/people/wu-lien-teh/
 breadcrumb: Wu Lien Teh
-collection_name: people
+collection_name: singapore-people
 ---
 
 ### <u>Guide Index</u>

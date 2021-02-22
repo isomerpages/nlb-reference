@@ -2,7 +2,7 @@
 title: Low Ing Sing 刘仁心
 permalink: /guides/singapore/people/low-ing-sing/
 breadcrumb: Low Ing Sing
-collection_name: people
+collection_name: singapore-people
 ---
 
 ### <u>Guide Index</u>

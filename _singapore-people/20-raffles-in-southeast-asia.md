@@ -2,7 +2,7 @@
 title: Raffles in Southeast Asia
 permalink: /guides/singapore/people/raffles-in-southeast-asia/
 breadcrumb: Raffles in Southeast Asia
-collection_name: people
+collection_name: singapore-people
 ---
 
 ### <u>Guide Index</u>

@@ -5,6 +5,8 @@ breadcrumb: Climate Change
 collection_name: science-technology-physical-sciences
 ---
 
+![Climate Change](/images/sci-tech/climate change main pic.jpg)
+
 ### <u>Guide Index</u>
 
 * [Introduction](#introduction)
@@ -18,8 +20,6 @@ collection_name: science-technology-physical-sciences
 
 ## Introduction
 
-![Climate Change](/images/sci-tech/climate change main pic.jpg)
-
 Climate change refers to significant, long-term changes in the global climate. The global climate is the connected system of sun, earth and oceans, wind, rain and snow, forests, deserts and savannas, and everything people do, too. Changes in the global climate and resultant changes to land areas, oceans and coastal regions impact us and all other living creatures on this planet.
 
 This guide consists of a general list of Internet resources, books and Ebooks about climate change. They are available online and at the Lee Kong Chian Reference Library.  Readers with an interest in this subject are recommended to search the NLB catalogue or online for more information.
@@ -31,7 +31,7 @@ This guide consists of a general list of Internet resources, books and Ebooks ab
 | Water resources development International  cooperation | 363.61           |
 | Climate change                                         | 551.6            |
 
-### <u>Books</u>
+### Books
 
 (listed in alphabetical order)
 
@@ -240,11 +240,11 @@ Provides a good overview of Singapore's general climate and explains how weather
 
 
 
-### <u>Ebooks</u>
+### Ebooks
 
 (listed in alphabetical order)
 
-(MyLibraryID is required to access the ebooks from NLB’s eresources website [https://eresources.nlb.gov.sg/main/](https://eresources.nlb.gov.sg/main/){:target="blank"} )
+(*myLibrary ID* is required to access the ebooks from NLB’s eresources website [https://eresources.nlb.gov.sg/main/](https://eresources.nlb.gov.sg/main/){:target="blank"} )
 
 <img src="/images/sci-tech/Coping with climate Crisis.jpg" style="width:150px;"/>
 
@@ -376,15 +376,15 @@ Goodall proposes significant economic and societal changes in order for UK to ac
 
 
 
-### <u>Journal articles</u>
+### Journal articles
 
-(MyLibraryID is required to access the journal articles from NLB’s eresources website [https://eresources.nlb.gov.sg/main/](https://eresources.nlb.gov.sg/main/){:target="blank"}
+(*myLibrary ID* is required to access the journal articles from NLB’s eresources website [https://eresources.nlb.gov.sg/main/](https://eresources.nlb.gov.sg/main/){:target="blank"}
 
  
 
 **Climate change and the legal, ethical and health issues facing healthcare and public health systems**
 
-Ganesh, C., Schmeltz, M. & Smith, J. (2020, December). Climate change and the legal, ethical and health issues facing healthcare and public health systems. In *Journal of Law, Medicine & Ethics*, 48(4), 636-642. Retrieved 2021, January 29, from EBSCOhost Academic Search Complete via NLB’s eResources website [http://eresources.nlb.gov.sg/main/browse/resource/1329/](http://eresources.nlb.gov.sg/main/browse/resource/1329/){:target="blank"} (myLibrary ID is required to access this article)
+Ganesh, C., Schmeltz, M. & Smith, J. (2020, December). Climate change and the legal, ethical and health issues facing healthcare and public health systems. In *Journal of Law, Medicine & Ethics*, 48(4), 636-642. Retrieved 2021, January 29, from EBSCOhost Academic Search Complete via NLB’s eResources website [http://eresources.nlb.gov.sg/main/browse/resource/1329/](http://eresources.nlb.gov.sg/main/browse/resource/1329/){:target="blank"} (*myLibrary ID* is required to access this article)
 
 This article provides an overview of how the frequency and intensity of extreme weather events caused by the increase in global temperatures affects human health, public health care systems and the environment. Health impacts are further categorised into direct impacts, environmental system mediated impacts and socially mediated impacts and among those most affected are minorities, the low-income sector, children, older adults and people with disabilities.
 
@@ -392,7 +392,7 @@ This article provides an overview of how the frequency and intensity of extreme 
 
 **Climate change and tourism - some key issues** 
 
-Blagoeva, I. (2020). Climate change and tourism - some key issues. In *International Multidisciplinary Scientific GeoConference*, 20(2), 341-347. Retrieved 2021, January 28, from ProQuest Central via NLB’s eResources website [http://eresources.nlb.gov.sg/main/browse/resource/1111/](http://eresources.nlb.gov.sg/main/browse/resource/1111/){:target="blank"} (myLibrary ID is required to access this article)
+Blagoeva, I. (2020). Climate change and tourism - some key issues. In *International Multidisciplinary Scientific GeoConference*, 20(2), 341-347. Retrieved 2021, January 28, from ProQuest Central via NLB’s eResources website [http://eresources.nlb.gov.sg/main/browse/resource/1111/](http://eresources.nlb.gov.sg/main/browse/resource/1111/){:target="blank"} (*myLibrary ID is required to access this article*)
 
 Climate change poses real threats to the tourism industry all over the world as extreme weather events result in the damage or loss of quality of tourist sites. The author urges stakeholders in the tourism sector to take action to cope with climate change such as introducing environmental standards to assess the impact of tourism on the environment and using technologies to tackle CO2 emissions. 
 
@@ -400,7 +400,7 @@ Climate change poses real threats to the tourism industry all over the world as 
 
 **Climate change effects on aquatic ecosystem structure and disease**
 
-Pandey, V. S. (2020, October-December). Climate change effects on aquatic ecosystem structure and disease. In *Research Journal of Science and Technology*, 12(4), 323-326. Retrieved 2021, January 28, from ProQuest Central via NLB’s eResources website [http://eresources.nlb.gov.sg/main/browse/resource/1111/](http://eresources.nlb.gov.sg/main/browse/resource/1111/){:target="blank"} (myLibrary ID is required to access this article)
+Pandey, V. S. (2020, October-December). Climate change effects on aquatic ecosystem structure and disease. In *Research Journal of Science and Technology*, 12(4), 323-326. Retrieved 2021, January 28, from ProQuest Central via NLB’s eResources website [http://eresources.nlb.gov.sg/main/browse/resource/1111/](http://eresources.nlb.gov.sg/main/browse/resource/1111/){:target="blank"} (*myLibrary ID* is required to access this article)
 
 This article discusses the impact of climate change on aquatic organisations and freshwater ecosystems. It examines the unmistakable correlation between climate change and diseases in marine organisations such as sea grasses, oyster, starfish, corals, abalone and sea urchins. It also explores the effects of global warming on parasites, leading to prolonged host-parasitic transmission and the increased habitat loss and the susceptibility of fish and other organisms to disease.
 
@@ -408,7 +408,7 @@ This article discusses the impact of climate change on aquatic organisations and
 
 **Climate policy imbalance in the energy sector: Time to focus on the value of CO2 utilization**
 
-Tcvetkov, P. (2021, January 15). Climate policy imbalance in the energy sector: Time to focus on the value of CO2 utilization. In *Energies*, 14(2), 411. Retrieved 2021, January 29, from EBSCOhost Academic Search Complete via NLB’s eResources website [http://eresources.nlb.gov.sg/main/browse/resource/1329/](http://eresources.nlb.gov.sg/main/browse/resource/1329/){:target="blank"} (myLibrary ID is required to access this article)
+Tcvetkov, P. (2021, January 15). Climate policy imbalance in the energy sector: Time to focus on the value of CO2 utilization. In *Energies*, 14(2), 411. Retrieved 2021, January 29, from EBSCOhost Academic Search Complete via NLB’s eResources website [http://eresources.nlb.gov.sg/main/browse/resource/1329/](http://eresources.nlb.gov.sg/main/browse/resource/1329/){:target="blank"} (*myLibrary ID* is required to access this article)
 
 The author argues that the existing climate policy should be diversified beyond the replacement of hydrocarbon resources with renewable energy and turn the focus on carbon dioxide utilisation and disposal technologies to narrow the gap between current mitigation progress and the aims of climate agreements.
 
@@ -416,7 +416,7 @@ The author argues that the existing climate policy should be diversified beyond 
 
 **Global climate change and greenhouse effect**
 
-Mikhaylov, A. et al. (2020, June). Global climate change and greenhouse effect. In *Entrepreneurship and Sustainability Issues*, 7(4), 2897-2913. Retrieved 2021, January 28, from ProQuest Central via NLB’s eResources website [http://eresources.nlb.gov.sg/main/browse/resource/1111/](http://eresources.nlb.gov.sg/main/browse/resource/1111/){:target="blank"} (myLibrary ID is required to access this article)
+Mikhaylov, A. et al. (2020, June). Global climate change and greenhouse effect. In *Entrepreneurship and Sustainability Issues*, 7(4), 2897-2913. Retrieved 2021, January 28, from ProQuest Central via NLB’s eResources website [http://eresources.nlb.gov.sg/main/browse/resource/1111/](http://eresources.nlb.gov.sg/main/browse/resource/1111/){:target="blank"} (*myLibrary ID* is required to access this article)
 
 Provides a literature review of the growth of greenhouse gas emissions due to human activities and their contributions to climate change. The researchers conclude that by drastically reducing carbon emissions through the use of technology for example, corporations around the world can help to play a major role in achieving the Paris Agreement targets.
 
@@ -424,7 +424,7 @@ Provides a literature review of the growth of greenhouse gas emissions due to hu
 
 **Sinking carbon in coastal wetlands**
 
-Sinking carbon in coastal wetlands. (Nov/ Dec 2020). In *American Scientist*, 108(6), 331-332. Retrieved 2021, January 29, from EBSCOhost Academic Search Complete via NLB’s eResources website [http://eresources.nlb.gov.sg/main/browse/resource/1329/](http://eresources.nlb.gov.sg/main/browse/resource/1329/){:target="blank"} (myLibrary ID is required to access this article)
+Sinking carbon in coastal wetlands. (Nov/ Dec 2020). In *American Scientist*, 108(6), 331-332. Retrieved 2021, January 29, from EBSCOhost Academic Search Complete via NLB’s eResources website [http://eresources.nlb.gov.sg/main/browse/resource/1329/](http://eresources.nlb.gov.sg/main/browse/resource/1329/){:target="blank"} (*myLibrary ID* is required to access this article)
 
 According to Ariana Sutton-Grier, eco-system ecologist and biogeochemist, one frequently ignored climate change solution is to utilise ecosystems that are naturally carbon absorbent, such as saltwater marshes and other coastal environments. Coastal ecosystems store carbon almost entirely below ground and are known to be better carbon sinks than forests.
 
@@ -432,7 +432,7 @@ According to Ariana Sutton-Grier, eco-system ecologist and biogeochemist, one fr
 
 **Strategies for mitigation of climate change: A review** 
 
-Fawzy, S. et al. (2020, November). Strategies for mitigation of climate change: A review. In *Environmental Chemistry Letters*, 18(6), 2069-2094. Retrieved 2021, January 28, from ProQuest Central via NLB’s eResources website  [http://eresources.nlb.gov.sg/main/browse/resource/1111/](http://eresources.nlb.gov.sg/main/browse/resource/1111/){:target="blank"} (myLibrary ID is required to access this article)
+Fawzy, S. et al. (2020, November). Strategies for mitigation of climate change: A review. In *Environmental Chemistry Letters*, 18(6), 2069-2094. Retrieved 2021, January 28, from ProQuest Central via NLB’s eResources website  [http://eresources.nlb.gov.sg/main/browse/resource/1111/](http://eresources.nlb.gov.sg/main/browse/resource/1111/){:target="blank"} (*myLibrary ID* is required to access this article)
 
 A three-prong strategy is needed to tackle climate change - conventional mitigation technologies which focus on reducing carbon dioxide emissions, negative emissions technologies which aim to capture and sequester atmospheric carbon and geoengineering techniques to stablise or reduce global temperatures. The author concludes that biogenic-based sequestration projects are ready to be deployed but efficient carbon pricing mechanisms focusing on carbon removal need to be quickly developed and deployed when ready.
 
@@ -440,13 +440,13 @@ A three-prong strategy is needed to tackle climate change - conventional mitigat
 
 **The role of climate change education on individual lifetime carbon emissions**
 
-Cordero, E., Centeno, D. & Todd, A. M. (2020, February). The role of climate change education on individual lifetime carbon emissions. In *PLoS One*, 15(2), 1-23. Retrieved 2021, January 28, from ProQuest Central via NLB’s eResources website [http://eresources.nlb.gov.sg/main/browse/resource/1111/](http://eresources.nlb.gov.sg/main/browse/resource/1111/){:target="blank"} (myLibrary ID is required to access this article)
+Cordero, E., Centeno, D. & Todd, A. M. (2020, February). The role of climate change education on individual lifetime carbon emissions. In *PLoS One*, 15(2), 1-23. Retrieved 2021, January 28, from ProQuest Central via NLB’s eResources website [http://eresources.nlb.gov.sg/main/browse/resource/1111/](http://eresources.nlb.gov.sg/main/browse/resource/1111/){:target="blank"} (*myLibrary ID* is required to access this article)
 
 This paper examines the impact which an intensive one-year university course on individual carbon emissions had on graduates from the course. A survey done five years after the end of the course revealed that graduates made more pro-environmental decisions, resulting in a reduction of individual carbon emissions by 2.86 tons of CO2 per year. The authors conclude that similar education programmes conducted on a wide scale would be equally of not more effective then mitigation strategies such as using solar rooftops or electric vehicles.
 
 
 
-### <u>Websites</u>
+### Websites
 
 (listed in alphabetical order)
 
@@ -570,7 +570,7 @@ Sutter, J. (2020, April 14). BASELINE 2020: Climate change beyond a human lifeti
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/InWEC4oxBW0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-EMMY-nominated documentary filmmaker and CNN climate analyst, John D. Sutter, talks about his longitudinal film series -- BASELINE, which helps to document climate changes in four different locations at every five-year interval until 2050. This documentary aims to address the "shifting baseline syndrome", which refers to the human perception that environmental change happens too glacially to raise the alarm among the general human population.
+Emmy-nominated documentary filmmaker and CNN climate analyst, John D. Sutter, talks about his longitudinal film series -- BASELINE, which helps to document climate changes in four different locations at every five-year interval until 2050. This documentary aims to address the "shifting baseline syndrome", which refers to the human perception that environmental change happens too glacially to raise the alarm among the general human population.
 
  
 
@@ -632,7 +632,7 @@ António Guterres, Secretary-General of the UN, urgently calls upon world leader
 
 
 
-### <u>Accessing National Library Board Singapore Resources</u>
+### Accessing National Library Board Singapore Resources
 
 <b><u>Accessing the Print Materials</u></b>
 
@@ -650,7 +650,7 @@ i. The “Status” of the item: the item is <u>not available</u> in the library
 
 ii. Double-check that the item is in Lee Kong Chian Reference Library under “Branch”.
 
-iii. Write down the <b><u>Location Code</u></b> and the <b><u>Call Number</u></b> of the item. This helps you to locate the item within Lee Kong Chian Reference Library. Please refer to the table below for more information (Note: Please feel free to approach the counter staff for help in locating the books.)
+iii. Write down the <b><u>Location Code</u></b> and the <b><u>Call Number</u></b> of the item. This helps you to locate the item within Lee Kong Chian Reference Library. (Note: Please feel free to approach the counter staff for help in locating the books.)
 
 All featured books and periodicals are located at the Lee Kong Chian Reference Library.
 
@@ -658,7 +658,7 @@ All featured books and periodicals are located at the Lee Kong Chian Reference L
 
 The National Library Board (NLB)’s eResources are free for all NLB members. Click [here](https://account.nlb.gov.sg){:target="blank"} to find out how to register as a member.
 
-If you’re having problems registering or logging in, please [contact us](https://www.nlb.gov.sg/ContactUs.aspx){:target="blank"}. If you wish to find information in the databases but am not sure where to begin, or need recommendations on which databases to use, please use the [Ask A Librarian](https://form.gov.sg/#!/60012dfdcc381d001141b97f){:target="blank"} function or send an email to [ref@nlb.gov.sg](mailto:ref@library.nlb.gov.sg){:target="blank"} for help. The librarian will get back to you within three working days.
+If you’re having problems registering or logging in, please [contact us](https://www.nlb.gov.sg/ContactUs.aspx){:target="blank"}. If you wish to find information in the databases but am not sure where to begin, or need recommendations on which databases to use, please use the [Ask A Librarian](https://form.gov.sg/#!/60012dfdcc381d001141b97f){:target="blank"} function or send an email to [ref@nlb.gov.sg](mailto:ref@nlb.gov.sg){:target="blank"} for help. The librarian will get back to you within three working days.
 
 ### <u>Author</u>
 

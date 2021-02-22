@@ -2,7 +2,7 @@
 title: Lim Loh 林路
 permalink: /guides/singapore/people/lim-loh/
 breadcrumb: Lim Loh
-collection_name: people
+collection_name: singapore-people
 ---
 
 ### <u>Guide Index</u>

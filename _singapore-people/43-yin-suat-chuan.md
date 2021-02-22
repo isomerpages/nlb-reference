@@ -1,8 +1,8 @@
 ---
 title: Yin Suat Chuan 殷雪村
-permalink: /guides/singapore/people/yeh-chih-yun/
-breadcrumb: Yeh Chih Yun
-collection_name: people
+permalink: /guides/singapore/people/yin-suat-chuan/
+breadcrumb: Yin Suat Chuan
+collection_name: singapore-people
 ---
 
 ### <u>Guide Index</u>

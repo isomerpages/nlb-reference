@@ -2,7 +2,7 @@
 title: Seah Song Seah 佘松城
 permalink: /guides/singapore/people/seah-song-seah/
 breadcrumb: Seah Song Seah
-collection_name: people
+collection_name: singapore-people
 ---
 
 ### <u>Guide Index</u>

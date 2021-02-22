@@ -2,7 +2,7 @@
 title: Lin Hengnan 林衡南
 permalink: /guides/singapore/people/lin-hengnan/
 breadcrumb: Lin Hengnan
-collection_name: people
+collection_name: singapore-people
 ---
 
 ### <u>Guide Index</u>

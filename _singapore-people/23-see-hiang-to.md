@@ -2,7 +2,7 @@
 title: See Hiang To 施香沱
 permalink: /guides/singapore/people/see-hiang-to/
 breadcrumb: See Hiang To
-collection_name: people
+collection_name: singapore-people
 ---
 
 ### <u>Guide Index</u>

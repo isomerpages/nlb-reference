@@ -2,7 +2,7 @@
 title: Aw Boon Haw 胡文虎
 permalink: /guides/singapore/people/aw-boon-haw/
 breadcrumb: Aw Boon Haw
-collection_name: people
+collection_name: singapore-people
 ---
 
 

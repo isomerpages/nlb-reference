@@ -2,7 +2,7 @@
 title: Lee Choon Seng 李俊承
 permalink: /guides/singapore/people/lee-choon-seng/
 breadcrumb: Lee Choon Seng
-collection_name: people
+collection_name: singapore-people
 ---
 
 ### <u>Guide Index</u>

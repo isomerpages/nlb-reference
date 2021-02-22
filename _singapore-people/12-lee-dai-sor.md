@@ -2,7 +2,7 @@
 title: Lee Dai Sor 李大傻
 permalink: /guides/singapore/people/lee-dai-sor/
 breadcrumb: Lee Dai Sor
-collection_name: people
+collection_name: singapore-people
 ---
 
 ### <u>Guide Index</u>

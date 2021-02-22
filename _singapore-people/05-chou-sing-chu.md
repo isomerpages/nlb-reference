@@ -2,7 +2,7 @@
 title: Chou Sing Chu 周星衢
 permalink: /guides/singapore/people/chou-sing-chu/
 breadcrumb: Chou Sing Chu
-collection_name: people
+collection_name: singapore-people
 ---
 
 ### <u>Guide Index</u>

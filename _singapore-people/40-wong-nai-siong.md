@@ -2,7 +2,7 @@
 title: Wong Nai Siong 黄乃裳
 permalink: /guides/singapore/people/wong-nai-siong/
 breadcrumb: Wong Nai Siong
-collection_name: people
+collection_name: singapore-people
 ---
 
 ### <u>Guide Index</u>
