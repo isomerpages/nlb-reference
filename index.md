@@ -22,14 +22,30 @@ sections:
             - title: Research
               description: Get started on your research
               url: /getting-started/onesearch/
+    - infopic:
+        title: Resource Guides
+        subtitle: Topical guides on various concepts
+        description: Curated books, online resources, videos and more on general topics
+        button: Find Out More
+        url: /guides/
+        image: /images/category/infopic-resource-guides.jpg
+        alt: Curated resource guides
+    - infopic:
+        title: Getting Started on Research
+        subtitle: How-to Guides
+        description: Learn how to use the available research resources effectively
+        button: Find Out More
+        url: /other-formats/
+        image: /images/category/infopic-getting-started.jpg
+        alt: Learn how to use research resources effectively
     - infobar:
         title: Lee Kong Chian Reference Library
         subtitle: Discover more
         description: Our reference library has thousands of resources, online and print, free-to-use for your research
-        button: Getting There
+        button: Finding Us
         url: /contact-us/
-    - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
+#    - resources:
+#        title: Media
+#        subtitle: Learn more
+#        button: View More
 ---
