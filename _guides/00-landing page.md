@@ -5,7 +5,10 @@ breadcrumb: Resource Guides
 collection_name: guides
 ---
 ![Resource Guides](\images\about-us\genref-stacks-v2.jpg)
-### <u>Discover our curated resource guides here!</u>
+### Discover our curated resource guides here!
+
+-----
+
 <p>
 <div>
 	<div class="row is-multiline">
