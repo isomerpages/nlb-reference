@@ -13,19 +13,13 @@ Discover our curated resource guides here!
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/guides/singapore/people/" class="project-link">
 				<img src="/images/category/singapore.jpg" alt="Singapore" class="project-image">
-			<div class="project-card">
 				<h5><b>Singapore</b></h5>
-			</div>
 			</a>
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/guides/arts/visual-arts/" class="project-link">
 				<img src="/images/category/performing-arts.jpg" alt="Arts" class="project-image">
-			<div class="project-card">
-				<div class="project-title">
-					<h5><b>Arts</b></h5>
-				</div>
-			</div>
+				<h5><b>Arts</b></h5>
 			</a>
 		</div>
 	</div>
@@ -37,21 +31,13 @@ Discover our curated resource guides here!
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/guides/business/management/" class="project-link">
 				<img src="/images/category/management.jpg" alt="Business" class="project-image">
-			<div class="project-card">
-				<div class="project-title margin--bottom--xs">
-					<h5><b>Business</b></h5>
-				</div>
-			</div>
+				<h5><b>Business</b></h5>
 			</a>
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/guides/science-technology/physical-sciences/" class="project-link">
 				<img src="/images/category/sci-tech.jpg" alt="Science & Technology" class="project-image">
-			<div class="project-card">
-				<div class="project-title margin--bottom--xs">
-					<h5><b>Science & Technology</b></h5>
-				</div>
-			</div>
+				<h5><b>Science & Technology</b></h5>
 			</a>
 		</div>
 	</div>
@@ -66,24 +52,7 @@ Discover our curated resource guides here!
 				<h5><b>Social Science & Humanities</b></h5>	
 			</a>
 		</div>
-
-        <div class="sgds-card-image">
-            <figure class="sgds-image is-16by9">
-                <img
-                    alt="Development Guides"
-                    src="https://via.placeholder.com/160x90/868e96/ffffff?text=Image"
-                />
-            </figure>
-        </div>
-        <div class="sgds-card-content">
-            <p><strong>About us</strong></p>
-            <p>A brief description of who we are</p>
-            <p>
-                <a href="#!">See more</a>
-            </p>
-        </div>
 	</div>
 </div>
 
 <p><p>
-
