@@ -6,20 +6,20 @@ collection_name: guides
 ---
 ![Resource Guides](\images\about-us\National-Collection-v2.jpg)
 
-# Discover our curated resource guides here!
+## Discover our curated resource guides here!
 
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/guides/singapore/people/" class="project-link">
 				<img src="/images/category/singapore.jpg" alt="Singapore" class="project-image">
-				<h5><b>Singapore</b></h5>
+				<b>Singapore</b>
 			</a>
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/guides/arts/visual-arts/" class="project-link">
 				<img src="/images/category/performing-arts.jpg" alt="Arts" class="project-image">
-				<h5><b>Arts</b></h5>
+				<b>Arts</b>
 			</a>
 		</div>
 	</div>
@@ -30,13 +30,13 @@ collection_name: guides
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/guides/business/management/" class="project-link">
 				<img src="/images/category/management.jpg" alt="Business" class="project-image">
-                <h5><b>Business</b></h5>
+                <b>Business</b>
 			</a>
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/guides/science-technology/physical-sciences/" class="project-link">
 				<img src="/images/category/sci-tech.jpg" alt="Science & Technology" class="project-image">
-				<h5><b>Science & Technology</b></h5>
+				<b>Science & Technology</b>
 			</a>
 		</div>
 	</div>
@@ -46,7 +46,7 @@ collection_name: guides
 
 <div>
 	<div class="row is-multiline">
-		<div class="col is-half-tablet">
+		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/guides/socialsciences-humanities/history/" class="project-link">
 				<img src="/images/category/humanities.jpg" alt="Social Sciences & Humanities" class="project-image">
 				<b>Social Science & Humanities</b>	
