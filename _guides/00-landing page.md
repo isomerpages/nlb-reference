@@ -4,8 +4,7 @@ permalink: /guides/
 breadcrumb: Resource Guides
 collection_name: guides
 ---
-![Resource Guides](\images\about-us\National-Collection-v2.jpg)
-
+![Resource Guides](\images\about-us\genref-stacks-v2.jpg)
 ## Discover our curated resource guides here!
 
 <div>
@@ -25,6 +24,7 @@ collection_name: guides
 	</div>
 </div>
 <p><p>
+
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
@@ -43,7 +43,6 @@ collection_name: guides
 </div>
 <p><p>
 
-
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
@@ -54,5 +53,4 @@ collection_name: guides
 		</div>
 	</div>
 </div>
-
 <p><p>
