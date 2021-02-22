@@ -2,6 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
+breadcrumb: 'Contact Us'
 agency_name: Lee Kong Chian Reference Library
 
 locations:
