@@ -25,7 +25,7 @@ sections:
     - infopic:
         title: Resource Guides
         subtitle: Topical guides on various concepts
-        description: Curated books, online resources, videos and more on general topics
+        description: Our librarians have curated useful lists of books, online resources, videos and more to introduce a diverse range of broad topics
         button: Find Out More
         url: /guides/
         image: /images/category/infopic-resource-guides.jpg
@@ -35,7 +35,7 @@ sections:
         subtitle: How-to Guides
         description: Learn how to use the available research resources effectively
         button: Find Out More
-        url: /other-formats/
+        url: /getting-started/
         image: /images/category/infopic-getting-started.jpg
         alt: Learn how to use research resources effectively
     - infobar:
