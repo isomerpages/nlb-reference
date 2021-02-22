@@ -14,9 +14,7 @@ Discover our curated resource guides here!
 			<a href="/guides/singapore/people/" class="project-link">
 				<img src="/images/category/singapore.jpg" alt="Singapore" class="project-image">
 			<div class="project-card">
-				<div class="project-title">
-					<h5><b>Singapore</b></h5>
-				</div>
+				<h5><b>Singapore</b></h5>
 			</div>
 			</a>
 		</div>
