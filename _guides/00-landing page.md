@@ -32,11 +32,10 @@ Discover our curated resource guides here!
 		</div>
 	</div>
 </div>
-
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/guides/business-management/" class="project-link">
+			<a href="/guides/business/management/" class="project-link">
 				<img src="/images/category/management.jpg" alt="Business" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -58,10 +57,11 @@ Discover our curated resource guides here!
 	</div>
 </div>
 
+
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/guides/singapore/people/" class="project-link">
+			<a href="/guides/socialsciences-humanities/history/" class="project-link">
 				<img src="/images/category/humanities.jpg" alt="Social Sciences & Humanities" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">

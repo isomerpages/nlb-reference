@@ -7,10 +7,13 @@ third_nav_title: Social Sciences & Humanities
 ---
 <img src="/images/category/history-2.jpg" alt="history banner" style="width:800px;" />
 
-<a href="/guides/socialsciences-humanities/history/cold-war">The Cold War</a>
-<a href="/guides/socialsciences-humanities/history/cuban-missile-crisis">The Cuban Missile Crisis </a>
-<a href="/guides/socialsciences-humanities/history/indian-national-army">Indian National Army (INA)</a>
-<a href="/guides/socialsciences-humanities/history/korean-war">The Korean War</a>
+[The Cold War](/guides/socialsciences-humanities/history/cold-war)
+
+[The Cuban Missile Crisis](/guides/socialsciences-humanities/history/cuban-missile-crisis)
+
+[Indian National Army (INA)](/guides/socialsciences-humanities/history/indian-national-army)
+
+[The Korean War](/guides/socialsciences-humanities/history/korean-war)
 
 <!--div>
 
@@ -39,6 +42,3 @@ third_nav_title: Social Sciences & Humanities
 </div-->
 
 <p><p>
-
-
-
