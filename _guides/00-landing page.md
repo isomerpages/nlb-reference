@@ -64,9 +64,9 @@ Discover our curated resource guides here!
 			<a href="/guides/socialsciences-humanities/history/" class="project-link">
 				<img src="/images/category/humanities.jpg" alt="Social Sciences & Humanities" class="project-image">
 			<div class="project-card">
-				<div class="project-title margin--bottom--xs">
+			
 					<h5><b>Social Science & Humanities</b></h5>
-				</div>
+
 			</div>
 			</a>
 		</div>
