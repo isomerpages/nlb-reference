@@ -10,10 +10,10 @@ The Lee Kong Chian Reference Library, named after Dr Lee Kong Chian, in honour o
 
 **Lee Kong Chian Reference Library Collection Directory**
 
-- **Level 7: Business and Science & Technology Collection.**
+- **Level 7: Business and Science & Technology Collection.**<br>
   Latest issues of Companies and Institutions Annual Reports, and Singapore Standards can also be found here.
   
-- **Level 8: Arts and Social Sciences & Humanities Collection.**
+- **Level 8: Arts and Social Sciences & Humanities Collection.**<br>
   The collection of items requested from the Repository Used and PublicationSG book collections are to be made at the Information Counter at this level.
   
 - **Level 9: Chinese, Malay & Tamil collection on all subject areas.**

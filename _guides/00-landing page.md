@@ -14,7 +14,7 @@ Discover our curated resource guides here!
 			<a href="/guides/singapore/people/" class="project-link">
 				<img src="/images/category/singapore.jpg" alt="Singapore" class="project-image">
 			<div class="project-card">
-				<div class="project-title margin--bottom--xs">
+				<div class="project-title">
 					<h5><b>Singapore</b></h5>
 				</div>
 			</div>
@@ -24,7 +24,7 @@ Discover our curated resource guides here!
 			<a href="/guides/arts/visual-arts/" class="project-link">
 				<img src="/images/category/performing-arts.jpg" alt="Arts" class="project-image">
 			<div class="project-card">
-				<div class="project-title margin--bottom--xs">
+				<div class="project-title">
 					<h5><b>Arts</b></h5>
 				</div>
 			</div>
@@ -32,6 +32,8 @@ Discover our curated resource guides here!
 		</div>
 	</div>
 </div>
+<p><p>
+
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
@@ -56,7 +58,7 @@ Discover our curated resource guides here!
 		</div>
 	</div>
 </div>
-
+<p><p>
 
 <div>
 	<div class="row is-multiline">
@@ -82,3 +84,4 @@ Discover our curated resource guides here!
 		</div-->
 	</div>
 </div>
+<p><p>
