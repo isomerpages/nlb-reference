@@ -18,5 +18,5 @@ The Lee Kong Chian Reference Library, named after Dr Lee Kong Chian, in honour o
   
 - **Level 9: Chinese, Malay & Tamil collection on all subject areas.**
 
-- **Level 11: Singapore and Southeast Asia in English**
+- **Level 11: Singapore and Southeast Asia in English**<br>
   (except for the Arts and Literature collection which is located at Level 8.
