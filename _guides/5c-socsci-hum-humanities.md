@@ -9,7 +9,7 @@ third_nav_title: Social Sciences & Humanities
 
 Insert description here.
 
-<div>
+<!--div>
 	<div class="row is-multiline">
 		<!--Here is one box in one row
 		<div class="col is-half-tablet padding--bottom--lg">
@@ -34,9 +34,6 @@ Insert description here.
 			</a>
 		</div> -->
 	</div>
-</div-->
+</div>
 
 <p><p>
-
-
-

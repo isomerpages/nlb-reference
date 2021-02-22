@@ -6,7 +6,6 @@ collection_name: guides
 ---
 ![Resource Guides](\images\about-us\genref-stacks-v2.jpg)
 ### Discover our curated resource guides here!
-
 -----
 
 <p>
