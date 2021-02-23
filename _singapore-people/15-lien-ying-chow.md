@@ -3,6 +3,7 @@ title: Lien Ying Chow 连瀛洲
 permalink: /guides/singapore/people/lien-ying-chow/
 breadcrumb: Lien Ying Chow
 collection_name: singapore-people
+third_nav_title: People
 published: false
 ---
 

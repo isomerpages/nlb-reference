@@ -3,7 +3,7 @@ title: Streets and Places in Singapore
 permalink: /guides/singapore/places/streets-and-places-in-singapore
 breadcrumb: Streets and Places in Singapore
 collection_name: singapore-places
-third_nav_title: Singapore and South East Asia
+third_nav_title: Places
 ---
 
 ### <u>Guide Index</u>

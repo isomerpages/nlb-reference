@@ -3,7 +3,7 @@ title: Angkor Wat
 permalink: /guides/singapore/places/angkor-wat
 breadcrumb: Angkor Wat
 collection_name: singapore-places
-third_nav_title: Singapore and South East Asia
+third_nav_title: Places
 ---
 
 ### <u>Guide Index</u>

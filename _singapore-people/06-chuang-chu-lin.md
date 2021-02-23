@@ -3,6 +3,7 @@ title: Chuang Chu Lin 庄竹林
 permalink: /guides/singapore/people/chuang-chu-lin/
 breadcrumb: Chuang Chu Lin
 collection_name: singapore-people
+third_nav_title: People
 published: false
 ---
 

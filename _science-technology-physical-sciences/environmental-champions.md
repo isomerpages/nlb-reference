@@ -3,6 +3,7 @@ title: Environmental Champion
 permalink: /guides/science-technology/physical-sciences/environmental-champion
 breadcrumb: Environmental Champion
 collection_name: science-technology-physical-sciences
+third_nav_title: Physical Sciences
 published: false
 ---
 

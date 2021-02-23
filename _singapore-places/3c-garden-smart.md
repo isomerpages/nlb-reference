@@ -3,7 +3,7 @@ title: Garden Smart
 permalink: /category/singaporeandsoutheastasia/garden-smart
 breadcrumb: Garden Smart
 collection_name: singapore-places
-third_nav_title: Singapore and South East Asia
+third_nav_title: Places
 published: false
 ---
 

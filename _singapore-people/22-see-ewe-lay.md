@@ -3,6 +3,7 @@ title: See Ewe Lay 薛有礼
 permalink: /guides/singapore/people/see-ewe-lay/
 breadcrumb: See Ewe Lay
 collection_name: singapore-people
+third_nav_title: People
 published: false
 ---
 

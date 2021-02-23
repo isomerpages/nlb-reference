@@ -3,6 +3,7 @@ title: The Cuban Missile Crisis
 permalink: /guides/socialsciences-humanities/history/cuban-missile-crisis
 breadcrumb: The Cuban Missile Crisis
 collection_name: social-sciences-humanities-history
+third_nav_title: History
 ---
 
 ### <u>Guide Index</u>
