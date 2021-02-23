@@ -207,11 +207,11 @@ A significant part of emissions are generated from non-exhaust sources, such as 
 
 ### Journal Articles
 
-(*myLibrary ID* is required to access the journal articles from NLB’s eresources website [https://eresources.nlb.gov.sg/main/](https://eresources.nlb.gov.sg/main/){:target="blank"})
+(*myLibrary ID* is required to access the journal articles from [NLB’s eresources website](https://eresources.nlb.gov.sg/main/){:target="blank"})
 
 **Experience from Integrated Air Quality Management in the Mexico City Metropolitan Area and Singapore**
 
-Molina, L. T., Velasco, E., Retama, A., & Zavala, M. (2019). Experience from Integrated Air Quality Management in the Mexico City Metropolitan Area and Singapore. *Atmosphere,* *10*(9). Retrieved 2021, February 23, from Proquest Central via NLB’s eResources website [http://eresources.nlb.gov.sg/main/browse/resource/1111/](http://eresources.nlb.gov.sg/main/browse/resource/1111/){:target="blank"}
+Molina, L. T., Velasco, E., Retama, A., & Zavala, M. (2019). Experience from Integrated Air Quality Management in the Mexico City Metropolitan Area and Singapore. *Atmosphere,* *10*(9). Retrieved 2021, February 23, from [Proquest Central](http://eresources.nlb.gov.sg/main/browse/resource/1111/){:target="blank"} via NLB’s eResources website.
 
 This article reviews the air quality and compares the policies implemented in both the Mexico City Metropolitan Area (MCMA) and Singapore. While differences in the governance, economics, and culture of the two cities influence the decision-making process, both have made progress in reducing concentrations of harmful pollutants by implementing comprehensive integrated air quality management programs. Findings offer insights into the complexity of managing air pollution to protect public health and the environment.
 
@@ -219,7 +219,7 @@ This article reviews the air quality and compares the policies implemented in bo
 
 **Gasping for air**
 
-Gasping for air. (2019, Sep 21). *The Economist,* *432*, 64. Retrieved 2021, February 23, from Proquest Central via NLB’s eResources website [http://eresources.nlb.gov.sg/main/browse/resource/1111/](http://eresources.nlb.gov.sg/main/browse/resource/1111/){:target="blank"}
+Gasping for air. (2019, Sep 21). *The Economist,* *432*, 64. Retrieved 2021, February 23, from [Proquest Central](http://eresources.nlb.gov.sg/main/browse/resource/1111/){:target="blank"} via NLB’s eResources website.
 
 Haze in Indonesia and Malaysia is thought to have caused more than 200,000 respiratory infections and prompted the closure of 1,500 schools, and the thick smoke could even disrupt air traffic. Indonesia's environment and forestry is cracking down hard on the illegal forest clearing method, but the government could be tougher yet. 
 
@@ -227,7 +227,7 @@ Haze in Indonesia and Malaysia is thought to have caused more than 200,000 respi
 
 **Impacts of Climate Change and Air Pollution on the Tourism Industry: Evidence from Southeast Asia**
 
-Nguyen, T. G. (2019). Impacts of Climate Change and Air Pollution on the Tourism Industry: Evidence from Southeast Asia. *Journal of Environmental Management & Tourism,* *10*(8), 1711-1722. Retrieved 2021, February 23, from Proquest Central via NLB’s eResources website [http://eresources.nlb.gov.sg/main/browse/resource/1111/](http://eresources.nlb.gov.sg/main/browse/resource/1111/){:target="blank"}
+Nguyen, T. G. (2019). Impacts of Climate Change and Air Pollution on the Tourism Industry: Evidence from Southeast Asia. *Journal of Environmental Management & Tourism,* *10*(8), 1711-1722. Retrieved 2021, February 23, from [Proquest Central](http://eresources.nlb.gov.sg/main/browse/resource/1111/){:target="blank"} via NLB’s eResources website.
 
 This paper examines the effects of climate change and air pollution on the tourism industry in Southeast Asia. Findings show that air pollution has a negative effect on total tourist arrivals, with nitrous oxide emission being the key driver. These results suggest that governments may need to make critical policy decisions to weigh between short-term economic growth and long-term environmental improvement to enhance tourist destination quality in the future.
 
@@ -235,7 +235,7 @@ This paper examines the effects of climate change and air pollution on the touri
 
 **Particulate air pollution on cardiovascular mortality in the tropics: impact on the elderly**
 
-Yap, J., Ng, Y., Yeo, K. K., Sahlén, A., Lam, C. S. P., Lee, V., & Ma, S. (2019). Particulate air pollution on cardiovascular mortality in the tropics: impact on the elderly. *Environmental Health: A Global Access Science Source*, *18*(34). Retrieved 2021, February 23, from EBSCOhost Academic Search Complete via NLB’s eResources website [http://eresources.nlb.gov.sg/main/browse/resource/1329/](http://eresources.nlb.gov.sg/main/browse/resource/1329/){:target="blank"}
+Yap, J., Ng, Y., Yeo, K. K., Sahlén, A., Lam, C. S. P., Lee, V., & Ma, S. (2019). Particulate air pollution on cardiovascular mortality in the tropics: impact on the elderly. *Environmental Health: A Global Access Science Source*, *18*(34). Retrieved 2021, February 23, from [EBSCOhost Academic Search Complete](http://eresources.nlb.gov.sg/main/browse/resource/1329/){:target="blank"} via NLB’s eResources website.
 
 Air pollution has a significant health impact, and this study examines the health impact of air pollution, particularly among the elderly, in a tropical region. Contemporary population-based data from an equatorial country with tropical climate show that exposure to particulate air pollution was significantly associated with non-accidental mortality and cardiovascular mortality, especially in the elderly.
 
@@ -243,7 +243,7 @@ Air pollution has a significant health impact, and this study examines the healt
 
 **Southeast Asia's transboundary haze pollution: Unravelling the inconvenient truth**
 
-Zhang, J. J., & Savage, V. R. (2019). Southeast Asia’s transboundary haze pollution: Unravelling the inconvenient truth. *Asia Pacific Viewpoint*, *60*(3), 355–369. Retrieved 2021, February 23, from EBSCOhost Academic Search Complete via NLB’s eResources website [http://eresources.nlb.gov.sg/main/browse/resource/1329/](http://eresources.nlb.gov.sg/main/browse/resource/1329/){:target="blank"}
+Zhang, J. J., & Savage, V. R. (2019). Southeast Asia’s transboundary haze pollution: Unravelling the inconvenient truth. *Asia Pacific Viewpoint*, *60*(3), 355–369. Retrieved 2021, February 23, from [EBSCOhost Academic Search Complete](http://eresources.nlb.gov.sg/main/browse/resource/1329/){:target="blank"} via NLB’s eResources website.
 
 This paper examines the political intricacies inherent in the management of Southeast Asia's transboundary haze pollution. The 'environment' takes on different meanings at each scale, and both Indonesia and the Association of Southeast Asian Nations (ASEAN) need to recognise this in order to engage more effectively with the transboundary environmental issue. The paper calls for a greater awareness of structural weaknesses in the management of forest resources and a change in ASEAN's environmental paradigm to a more holistic ecosystem perspective that prioritises not just environmental and human health, but also a healthy and sustainable ecosystem. 
 
@@ -251,7 +251,7 @@ This paper examines the political intricacies inherent in the management of Sout
 
 **The Impacts of Air Pollution on Health and Economy in Southeast Asia**
 
-Taghizadeh-Hesary, F., & Taghizadeh-Hesary, F. (2020). The Impacts of Air Pollution on Health and Economy in Southeast Asia. *Energies,* *13*(7), 1812. Retrieved 2021, February 23, from Proquest Central via NLB’s eResources website [http://eresources.nlb.gov.sg/main/browse/resource/1111/](http://eresources.nlb.gov.sg/main/browse/resource/1111/){:target="blank"}
+Taghizadeh-Hesary, F., & Taghizadeh-Hesary, F. (2020). The Impacts of Air Pollution on Health and Economy in Southeast Asia. *Energies,* *13*(7), 1812. Retrieved 2021, February 23, from [Proquest Central](http://eresources.nlb.gov.sg/main/browse/resource/1111/){:target="blank"} via NLB’s eResources website.
 
 Ambient air pollution from fossil fuel use has a latent cost, that is public health issues such as respiratory diseases, lung cancer and long-term economic burdens. In Southeast Asia, lung cancer are leading causes of cancer-related deaths. This study uses 2000-2016 data for ten Southeast Asian countries to examine the possible associations between emissions, lung cancer, and the economy. Results confirm that CO2 and PM2.5 are major risk factors for lung cancer in the region. However, increased use of renewable energy and higher healthcare expenditure tends to reduce lung cancer prevalence.
 
@@ -259,7 +259,7 @@ Ambient air pollution from fossil fuel use has a latent cost, that is public hea
 
 **The Relationship Between Air Pollution and All-Cause Mortality in Singapore**
 
-Ho, A. F. W., Zheng, H., Cheong, K. H., En, W. L., Pek, P. P., Zhao, X., Morgan, G. G., Earnest, A., Tan, B. Y. Q., Ng, Y. Y., Foo, L. L., & Ong, M. E. H. (2020). The Relationship Between Air Pollution and All-Cause Mortality in Singapore. *Atmosphere*, *11*(1), 9. Retrieved 2021, February 23, from <https://www.mdpi.com/2073-4433/11/1/9/htm>{:target="blank"}
+Ho, A. F. W., Zheng, H., Cheong, K. H., En, W. L., Pek, P. P., Zhao, X., Morgan, G. G., Earnest, A., Tan, B. Y. Q., Ng, Y. Y., Foo, L. L., & Ong, M. E. H. (2020). The Relationship Between Air Pollution and All-Cause Mortality in Singapore. *Atmosphere*, *11*(1), 9. Retrieved 2021, February 23, from [https://www.mdpi.com](https://www.mdpi.com/2073-4433/11/1/9/htm){:target="blank"}
 
 Ambient air pollution is a risk factor for both acute and chronic diseases and poses serious health threats to the world population. This study examines the relationship between air pollution and all-cause mortality in the context of a city-state exposed to the Southeast Asian haze problem. Findings provide evidence on the general health hazard of exposure to air pollution, which can potentially guide public health policies in the region.
 
@@ -267,7 +267,7 @@ Ambient air pollution is a risk factor for both acute and chronic diseases and p
 
 **Urban and air pollution: a multi-city study of long-term effects of urban landscape patterns on air quality trends**
 
-Liang, L., & Gong, P. (2020). Urban and air pollution: a multi-city study of long-term effects of urban landscape patterns on air quality trends. *Scientific Reports*, *10*(1), 1-13. Retrieved 2021, February 23, from EBSCOhost Academic Search Complete via NLB’s eResources website [http://eresources.nlb.gov.sg/main/browse/resource/1329/](http://eresources.nlb.gov.sg/main/browse/resource/1329/){:target="blank"}
+Liang, L., & Gong, P. (2020). Urban and air pollution: a multi-city study of long-term effects of urban landscape patterns on air quality trends. *Scientific Reports*, *10*(1), 1-13. Retrieved 2021, February 23, from [EBSCOhost Academic Search Complete](http://eresources.nlb.gov.sg/main/browse/resource/1329/){:target="blank"} via NLB’s eResources website.
 
 This study comprehensively examines the urban form effects on air quality in cities of different population sizes, at different developmental levels, and in different spatial layouts. The study shows that urban form changes have long-term effects on PM2.5 levels with different aspects playing larger roles for different developmental stages.
 
@@ -310,7 +310,7 @@ This website provides information on air pollution, including air pollutants, in
 
 **ASEAN Agreement on Transboundary Haze Pollution**
 
-The ASEAN Secretariat, (2019). *ASEAN Agreement on Transboundary Haze Pollution*. Retrieved 2021, January 20 from [http://haze.asean.org/](http://haze.asean.org/wp-content/uploads/2019/11/ASEAN-Agreement-on-Transboundary-Haze-Pollution-AATHP-Reprint-2019_web.pdf)
+The ASEAN Secretariat, (2019). [*ASEAN Agreement on Transboundary Haze Pollution*](http://haze.asean.org/wp-content/uploads/2019/11/ASEAN-Agreement-on-Transboundary-Haze-Pollution-AATHP-Reprint-2019_web.pdf). Retrieved 2021, January 20 from <http://haze.asean.org/>
 
 This is the ASEAN Agreement on Transboundary Haze Pollution, which the ASEAN countries affirmed on 10 June 2002, in order to manage transboundary haze pollution in the region.
 
@@ -348,9 +348,9 @@ The National Environment Agency commissioned this dedicated website in 2013 to t
 
 
 
-**NEA '|' Air Quality**
+**NEA &#124; Air Quality**
 
-National Environment Agency (NEA) (2013). *NEA '|' Air Quality.* Retrieved January 20, 2021, from: <https://www.nea.gov.sg/our-services/pollution-control/air-pollution/air-quality>
+National Environment Agency (NEA) (2013). *NEA &#124; Air Quality.* Retrieved January 20, 2021, from: <https://www.nea.gov.sg/our-services/pollution-control/air-pollution/air-quality>
 
 Find out about Singapore’s air quality targets, air pollution regulations, how PSI is measured, and read FAQs on air quality and haze.
 
@@ -361,9 +361,9 @@ The videos selected below provide an overview of the causes of air pollution and
 
 (listed in alphabetical order)
 
-**Air Pollution 101 '|' National Geographic**
+**Air Pollution 101 &#124; National Geographic**
 
-National Geographic. (2017, October 16). *Air Pollution 101 '|' National Geographic* [Video]. YouTube. https://www.youtube.com/watch?v=e6rglsLy1Ys
+National Geographic. (2017, October 16). *Air Pollution 101 &#124; National Geographic* [Video]. YouTube. https://www.youtube.com/watch?v=e6rglsLy1Ys
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e6rglsLy1Ys" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -377,9 +377,9 @@ World Health Organization (WHO). (2019, October 1). Air pollution and health. Yo
 
 The WHO provides a playlist of videos related to air pollution, covering its health effects, actions taken by organisations and nations, and what you can do to help.
 
-**CNA '|' Talking Point '|' E26: Will we see an end to the haze?**
+**CNA &#124; Talking Point &#124; E26: Will we see an end to the haze?**
 
-CNA. (2019, October 26). *CNA '| 'Talking Point '|' E26: Will we see an end to the haze?* [Video]. YouTube. <https://www.youtube.com/watch?v=ychBYe6BD90>
+CNA. (2019, October 26). *CNA &#124; Talking Point &#124; E26: Will we see an end to the haze?* [Video]. YouTube. <https://www.youtube.com/watch?v=ychBYe6BD90>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ychBYe6BD90" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -387,7 +387,7 @@ CNA discusses the forest fires in Indonesia and considers whether there will be 
 
 **Haze in Southeast Asia**
 
-The Straits Times. (2019, September 19). Haze in Southeast Asia '|' Asian Insider '|' The Straits Times [Video]. YouTube. <https://www.youtube.com/watch?v=Tq7CIprijEU>
+The Straits Times. (2019, September 19). Haze in Southeast Asia &#124; Asian Insider &#124; The Straits Times [Video]. YouTube. <https://www.youtube.com/watch?v=Tq7CIprijEU>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Tq7CIprijEU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
