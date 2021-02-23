@@ -25,17 +25,17 @@ Photo credit: [www.pexels.com](https://www.pexels.com/photo/air-air-pollution-cl
 
 Air pollution is the accumulation in the atmosphere of substances that, in sufficient concentrations, degrade ecosystems, damage buildings and endanger human health. Most air pollution is caused by human activities, but there are some natural sources of air pollution such as wildfires or volcanic ash.[^1]
 
-[^1]: Air pollution. (2011, April 4). *National Geographic*. Retrieved February 4, 2021 from https://www.nationalgeographic.org/encyclopedia/air-pollution/
+[^1]: Air pollution. (2011, April 4). *National Geographic*. Retrieved February 4, 2021 from <https://www.nationalgeographic.org/encyclopedia/air-pollution/>
 
 Some common air pollutants are soot, smoke, mold, pollen, methane and carbon dioxide. These can reach harmful concentrations both indoors and outdoors. Tiny particles smaller than 10 micrometers (classified as PM10 and PM2.5) can even be breathed into our lungs and into our bloodstream. Air pollution has caused an estimated 4.2 million premature deaths in 2016, about 90% of them in low- and middle-income countries.[^2] Air pollution has been linked to higher rates of cancer, heart disease, stroke, and other respiratory diseases.
 
-[^2]: Ambient (outdoor) air pollution. (2018, May 2). *World Health Organisation*. Retrieved February 4, 2021 from https://www.who.int/en/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health/
+[^2]: Ambient (outdoor) air pollution. (2018, May 2). *World Health Organisation*. Retrieved February 4, 2021 from <https://www.who.int/en/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health/>
 
 Beyond individual health, air pollution is known to have direct impacts on our environment. Climate change, global warming, ozone layer depletion, smog and acid rain are some effects of air pollution. Singapore has encountered situations with heavy haze in the past as well.
 
 Internationally, countries have begun working together to reduce air pollution and improve air quality worldwide. Renewable energy and zero-emission alternatives to vehicles and machines are being developed and implemented. Governments have also made commitments to limit emissions of carbon dioxide and greenhouse gases, through agreements such as the Paris Agreement and the Kigali Agreement.[^3]
 
-[^3]: Nunez, Christina. (2019, May 13). Carbon dioxide levels are at a record high. Here's what you need to know. *National Geographic*. Retrieved February 4, 2021 from https://www.nationalgeographic.com/environment/global-warming/greenhouse-gases/
+[^3]: Nunez, Christina. (2019, May 13). Carbon dioxide levels are at a record high. Here's what you need to know. *National Geographic*. Retrieved February 4, 2021 from <https://www.nationalgeographic.com/environment/global-warming/greenhouse-gases/>
 
 This guide highlights resources on air pollution and haze that are available at the Lee Kong Chian Reference Library as well as on the Internet. As the guide is not intended to be comprehensive, interested readers should search the NLB catalogue or the Internet for more resources.
 
@@ -279,14 +279,14 @@ These websites provide further information on the topic of air pollution, such a
 
 **Air pollution**
 
-World Health Organisation (WHO). (2016, January). *Air pollution*. Retrieved January 20, 2021, from: [https://www.who.int/health-topics/air-pollution]
+World Health Organisation (WHO). (2016, January). *Air pollution*. Retrieved January 20, 2021, from: <https://www.who.int/health-topics/air-pollution>
 
 The WHO provides facts, technical information and statistics with data analysis on air pollution. 2016, January. 
 
 
 **Air Pollution Facts, Causes and the Effects of Pollutants in the Air**
 
-Natural Resources Defence Council (NRDC). (2016, November 1). *Air Pollution Facts, Causes and the Effects of Pollutants in the Air*. Retrieved January 20, 2021, from: [https://www.nrdc.org/stories/air-pollution-everything-you-need-know]
+Natural Resources Defence Council (NRDC). (2016, November 1). *Air Pollution Facts, Causes and the Effects of Pollutants in the Air*. Retrieved January 20, 2021, from: <https://www.nrdc.org/stories/air-pollution-everything-you-need-know>
 
 The NRDC is an environmental action organisation that tackles environmental issues through public lobbying and partners community groups and businesses to ensure the rights of all people to clean air, clean water, and healthy communities. This section of the website reports on how smog, soot, greenhouse gases, and other top air pollutants are affecting the planet and your health.
 
@@ -294,7 +294,7 @@ The NRDC is an environmental action organisation that tackles environmental issu
 
 **Air Pollution: Medline Plus**
 
-MedlinePlus*.* (2016, March 28). *Air Pollution: Medline Plus*. Retrieved January 20, 2021, from: [https://medlineplus.gov/airpollution.html]
+MedlinePlus*.* (2016, March 28). *Air Pollution: Medline Plus*. Retrieved January 20, 2021, from: <https://medlineplus.gov/airpollution.html>
 
 This website focuses on the health impact of air pollution, providing authoritative information from various US health associations and government organisations, including the US National Library of Medicine.
 
@@ -302,7 +302,7 @@ This website focuses on the health impact of air pollution, providing authoritat
 
 **Air Topics**
 
-Environmental Protection Agency. (2020, May 15*). Air Topics*. Retrieved January 20, 2021, from: [https://www.epa.gov/environmental-topics/air-topics]
+Environmental Protection Agency. (2020, May 15*). Air Topics*. Retrieved January 20, 2021, from: <https://www.epa.gov/environmental-topics/air-topics>
 
 This website provides information on air pollution, including air pollutants, indoor air quality, air quality management, relevant research and pertinent data. 
 
@@ -310,7 +310,7 @@ This website provides information on air pollution, including air pollutants, in
 
 **ASEAN Agreement on Transboundary Haze Pollution**
 
-The ASEAN Secretariat, (2019). *ASEAN Agreement on Transboundary Haze Pollution*. Retrieved 2021, January 20 from http://haze.asean.org/wp-content/uploads/2019/11/ASEAN-Agreement-on-Transboundary-Haze-Pollution-AATHP-Reprint-2019_web.pdf
+The ASEAN Secretariat, (2019). *ASEAN Agreement on Transboundary Haze Pollution*. Retrieved 2021, January 20 from [http://haze.asean.org/](http://haze.asean.org/wp-content/uploads/2019/11/ASEAN-Agreement-on-Transboundary-Haze-Pollution-AATHP-Reprint-2019_web.pdf)
 
 This is the ASEAN Agreement on Transboundary Haze Pollution, which the ASEAN countries affirmed on 10 June 2002, in order to manage transboundary haze pollution in the region.
 
@@ -318,7 +318,7 @@ This is the ASEAN Agreement on Transboundary Haze Pollution, which the ASEAN cou
 
 **Clean Air Counter**
 
-Greenpeace International. (2021). *Clean Air Counter.* Retrieved January 20, 2021, from: [https://www.greenpeace.org/international/campaign/tracking-cost-air-pollution/]
+Greenpeace International. (2021). *Clean Air Counter.* Retrieved January 20, 2021, from: <https://www.greenpeace.org/international/campaign/tracking-cost-air-pollution/>
 
 Greenpeace uses live air quality data to track the health impact and economic cost of air pollution in real time. Estimated premature deaths and economic cost in US$ billions are projected.
 
@@ -326,7 +326,7 @@ Greenpeace uses live air quality data to track the health impact and economic co
 
 **Haze Action Online**
 
-ASEAN Haze Action Online (2021). *Haze Action Online.* Retrieved January 20, 2021, from [http://haze.asean.org/]
+ASEAN Haze Action Online (2021). *Haze Action Online.* Retrieved January 20, 2021, from <http://haze.asean.org/>
 
 Following the ratification of the ASEAN Agreement on Transboundary Haze Pollution, this website traces the haze outlook for the ASEAN region. Media resources, guidelines, agreements and other publications regarding ASEAN provide contextual information about the region and the ASEAN countries’ participation.
 
@@ -334,7 +334,7 @@ Following the ratification of the ASEAN Agreement on Transboundary Haze Pollutio
 
 **Haze Information**
 
-*Haze Information*. (2021). Retrieved January 20, 2021, from Metereological Service of Singapore website: [http://www.weather.gov.sg/warning-haze-satellite-image/]
+*Haze Information*. (2021). Retrieved January 20, 2021, from Metereological Service of Singapore website: <http://www.weather.gov.sg/warning-haze-satellite-image/>
 
 The Meteorological Service of Singapore provides an overview on the Latest Satellite Images and Regional Haze Maps. 
 
@@ -342,15 +342,15 @@ The Meteorological Service of Singapore provides an overview on the Latest Satel
 
 **Haze-Related Commentaries**
 
-National Environment Agency (2021). *Haze-Related Commentaries.* Retrieved January 20, 2021 from [https://www.haze.gov.sg/haze-related-commentaries]
+National Environment Agency (2021). *Haze-Related Commentaries.* Retrieved January 20, 2021 from <https://www.haze.gov.sg/haze-related-commentaries>
 
 The National Environment Agency commissioned this dedicated website in 2013 to track the air quality of the nation, provide health advisories, and collate related news and information resources regarding haze and air quality in the region.
 
 
 
-**NEA | Air Quality**
+**NEA '|' Air Quality**
 
-National Environment Agency (NEA) (2013). *NEA | Air Quality.* Retrieved January 20, 2021, from: [https://www.nea.gov.sg/our-services/pollution-control/air-pollution/air-quality]
+National Environment Agency (NEA) (2013). *NEA '|' Air Quality.* Retrieved January 20, 2021, from: <https://www.nea.gov.sg/our-services/pollution-control/air-pollution/air-quality>
 
 Find out about Singapore’s air quality targets, air pollution regulations, how PSI is measured, and read FAQs on air quality and haze.
 
@@ -361,9 +361,9 @@ The videos selected below provide an overview of the causes of air pollution and
 
 (listed in alphabetical order)
 
-**Air Pollution 101 | National Geographic**
+**Air Pollution 101 '|' National Geographic**
 
-National Geographic. (2017, October 16). *Air Pollution 101 | National Geographic* [Video]. YouTube. https://www.youtube.com/watch?v=e6rglsLy1Ys
+National Geographic. (2017, October 16). *Air Pollution 101 '|' National Geographic* [Video]. YouTube. https://www.youtube.com/watch?v=e6rglsLy1Ys
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e6rglsLy1Ys" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -371,15 +371,15 @@ National Geographic provides a short primer on what air pollution is and its eff
 
 **Air pollution and health**
 
-World Health Organization (WHO). (2019, October 1). Air pollution and health. YouTube. https://www.youtube.com/playlist?list=PL9S6xGsoqIBUkBtzM6weiNUc1ZNMPT0-7
+World Health Organization (WHO). (2019, October 1). Air pollution and health. YouTube. <https://www.youtube.com/playlist?list=PL9S6xGsoqIBUkBtzM6weiNUc1ZNMPT0-7>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P-65ik9UKew" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The WHO provides a playlist of videos related to air pollution, covering its health effects, actions taken by organisations and nations, and what you can do to help.
 
-**CNA | Talking Point | E26: Will we see an end to the haze?**
+**CNA '|' Talking Point '|' E26: Will we see an end to the haze?**
 
-CNA. (2019, October 26). *CNA | Talking Point | E26: Will we see an end to the haze?* [Video]. YouTube. https://www.youtube.com/watch?v=ychBYe6BD90
+CNA. (2019, October 26). *CNA '| 'Talking Point '|' E26: Will we see an end to the haze?* [Video]. YouTube. <https://www.youtube.com/watch?v=ychBYe6BD90>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ychBYe6BD90" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -387,7 +387,7 @@ CNA discusses the forest fires in Indonesia and considers whether there will be 
 
 **Haze in Southeast Asia**
 
-The Straits Times. (2019, September 19). Haze in Southeast Asia | Asian Insider | The Straits Times [Video]. YouTube. https://www.youtube.com/watch?v=Tq7CIprijEU
+The Straits Times. (2019, September 19). Haze in Southeast Asia '|' Asian Insider '|' The Straits Times [Video]. YouTube. <https://www.youtube.com/watch?v=Tq7CIprijEU>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Tq7CIprijEU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -395,7 +395,7 @@ ST's Asian Insider explores the transboundary haze engulfing the region, discuss
 
 **What to do during the haze? (English)**
 
-govsg. (2016, August 31). *What to do during the haze? (English)* [Video]. YouTube. [https://www.youtube.com/watch?v=R3vpkMWyt2w]{:target="blank"} 
+govsg. (2016, August 31). *What to do during the haze? (English)* [Video]. YouTube. <https://www.youtube.com/watch?v=R3vpkMWyt2w>{:target="blank"} 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R3vpkMWyt2w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -405,7 +405,7 @@ The Singapore Government provides some useful tips and precautions to take to ke
 
 <b><u>Accessing the Print Materials</u></b>
 
-You can search the library catalogue (for physical materials) in the library and from home (http://catalogue.nlb.gov.sg){:target="blank"} . The easy search function allows you to search/browse by author, title, keyword, subject and ISBN/ISSN whereas the advanced search allows you to narrow your searches to specific media types or language holdings. In both instances, you will also be able to limit your search to specific libraries by clicking on the “limit by branch” option.
+You can search the library catalogue (for physical materials) in the library and from home [http://catalogue.nlb.gov.sg](http://catalogue.nlb.gov.sg){:target="blank"} . The easy search function allows you to search/browse by author, title, keyword, subject and ISBN/ISSN whereas the advanced search allows you to narrow your searches to specific media types or language holdings. In both instances, you will also be able to limit your search to specific libraries by clicking on the “limit by branch” option.
 
 **To search Lee Kong Chian Reference Library’s Holdings**
 
