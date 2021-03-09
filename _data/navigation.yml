@@ -32,8 +32,8 @@ links:
         url: /getting-started/factiva/
       - title: Using JSTOR
         url: /getting-started/jstor/
-      - title: Fighting Fake News
-        url: /getting-started/fighting-fake-news/
+ #     - title: Fighting Fake News
+ #       url: /getting-started/fighting-fake-news/
   - title: Other Formats
     sublinks:
       - title: Photographs and Images
