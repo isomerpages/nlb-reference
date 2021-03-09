@@ -8,10 +8,12 @@ third_nav_title: Singapore
 <img src="/images/category/people.jpg" alt="people banner" style="width:800px;" />
 
 <style>
+<!-- determine font size for tables for this page only -->
 td {
-  font-size: 40px
+  font-size: 30px
 }
 </style>
+
 
 | [Aw Boon Haw / 胡文虎](/guides/singapore/people/aw-boon-haw) | [Chia Ann Siang / 谢安祥](/guides/singapore/people/chia-ann-siang) |
 | [Lee Dai Sor / 李大傻](/guides/singapore/people/lee-dai-sor) | [Seow Poh Leng / 萧保龄](/guides/singapore/people/seow-poh-leng) |
