@@ -25,11 +25,11 @@ For more information about OneSearch, please refer to their FAQ page **[here](ht
 
 3. By default, the search results you see in the centre column will display those in book format. For smartphone users, you will see the results directly on top. 
 
-   <img src="\images\getting-started\onesearch-basic-03.jpg" style="width:500px;" />
+   <img src="\images\getting-started\onesearch-basic-03.png" style="width:500px;" />
 
 4. In order to explore other formats of your search topic, select the respective categories from the filtering column on the right-hand side of the screen. For smartphone users, these categories can be seen under your search results by scrolling down. 
 
-   <img src="\images\getting-started\onesearch-basic-04.jpg" style="width:500px;" />
+   <img src="\images\getting-started\onesearch-basic-04.png" style="width:500px;" />
 
 5. When selecting the formats on the right, please note that some of them will bring you to other NLB websites or digital platforms where you can view the actual information source (e.g. digitised newspapers from NewspaperSG). 
 	<!--img src="\images\getting-started\onesearch-basic-05-hor.jpg" style="width:500px;" /-->
