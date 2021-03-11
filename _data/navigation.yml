@@ -35,15 +35,18 @@ links:
  #     - title: Fighting Fake News
  #       url: /getting-started/fighting-fake-news/
   - title: Other Formats
+ #   url: /other-formats
     sublinks:
       - title: Photographs and Images
-        url: /other-formats/photos-images/
+        url: /other-formats/photographs-images/
       - title: Maps
         url: /other-formats/maps/
       - title: Newspapers and Microfilms
         url: /other-formats/newspapers-microfilms/
       - title: Ephemera
         url: /other-formats/ephemera/
+      - title: Posters
+	url: /other-formats/posters
       - title: Bibliographies
         url: /other-formats/bibliographies/
   - title: About Us
