@@ -6,6 +6,13 @@ collection_name: other-formats
 published: true
 ---
 
+### Guide Index
+
+* [Posters](#posters)
+* [Using Archives Online](#archives-online)
+* [Using Onesearch](#onesearch)
+* [Locating posters on the NLB Catalogue](#locating-posters-on-the-nlb-catalogue)
+
 ## Posters
 
 Posters refer to pictorial notices often issued for the promotion and marketing of programmes, campaigns and events. They form a record of issues of interest to Singaporeans and provide an important insight into the social, cultural and political concerns of the period it was created.
@@ -28,11 +35,11 @@ Using the search bar at the centre of the [Archives Online](https://www.nas.gov.
 
 Doing so will direct you the [Posters](https://www.nas.gov.sg/archivesonline/posters/) database. You may further narrow your search by date. In the following example, let’s look for posters of the Singapore Kindness Movement by using the keyword ‘kindness’. 
 
-<img src="\images\other-formats\posters-nas-03.png" style="width:500px;" />
+<img src="\images\other-formats\posters-nas-03.png" style="width:650px;" />
 
 Below, our search has retrieved 41 poster results, most of which appear to have been digitised. Clicking on either the image preview or record title will direct you to the item description page. 
 
-<img src="\images\other-formats\posters-nas-04.png" style="width:500px;" />
+<img src="\images\other-formats\posters-nas-04.png" style="width:650px;" />
 
 Information on the poster record can be found here, such as covering date, digital preview (if applicable) and accession number.
 
@@ -52,25 +59,25 @@ Alternatively, users may choose to search for posters from Singapore is via the 
 
 For this example, we search for posters from the National Productivity Board using the keywords, ‘national productivity’ under creator. When complete, click Search.
 
-<img src="\images\other-formats\posters-onesearch-02.png" style="width:500px;" />
+<img src="\images\other-formats\posters-onesearch-02.png" style="width:650px;" />
 
-<img src="\images\other-formats\posters-onesearch-03.png" style="width:500px;" />
+<img src="\images\other-formats\posters-onesearch-03.png" style="width:650px;" />
 
 **Step 3**: On the search results page, look to the left side of the screen and click on the **Type** tab. Click on ‘Poster’ to show only posters in the search results. 
+
+<img src="\images\other-formats\posters-onesearch-04.png" style="width:500px;" />
 
 Sometimes, posters might be categorised as ‘Drawings’ in Onesearch, as illustrated in the example below. 
 
 **Onesearch entry** 
 
-<img src="\images\other-formats\posters-onesearch-04.png" style="width:300px;" />
+<img src="\images\other-formats\posters-onesearch-05.png" style="width:300px;" />
 
 **NLB Catalogue entry**
 
-<img src="\images\other-formats\posters-onesearch-05.png" style="width:500px;" />
+<img src="\images\other-formats\posters-onesearch-06.png" style="width:500px;" />
 
 If the search result redirects you to an NLB Catalogue entry, follow the same steps in Method 1 of this guide to retrieve the record. 
-
-<img src="\images\other-formats\posters-onesearch-06.png" style="width:500px;" />
 
 **Step 4**: Image retrieval. In the example below, our search has turned up a few digital previews. Let’s take a closer look at two of our search results. 
 
@@ -80,11 +87,11 @@ The first result has directed us to BookSG, an online collection of digitised bo
 
 It turns out our poster is extracted from a book, *Our Story: 15 years of NPB*. By clicking on the title, users will to be directed to the NLB catalogue where the book’s Call Number will be available. Users can consult the actual book at the Lee Kong Chian Reference Library.
 
-<img src="\images\other-formats\posters-onesearch-08.png" style="width:500px;" />
+<img src="\images\other-formats\posters-onesearch-08.png" style="width:650px;" />
 
 The second result directs to Archives Online, where the poster has been digitised for viewing online. As covered in the Archives Online section of this guide, related results can also be found on the right hand corner. 
 
-<img src="\images\other-formats\posters-onesearch-09.png" style="width:500px;" />
+<img src="\images\other-formats\posters-onesearch-09.png" style="width:600px;" />
 
 This concludes our step-by-step guide. Should you run into any issues, please approach our library staff for further assistance.
 
