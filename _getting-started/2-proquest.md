@@ -7,40 +7,42 @@ collection_name: getting-started
 
 # **What is ProQuest Central?**
 
-OneSearch is an online search portal that helps you find information across a variety of resources from the National Library Board (NLB)'s libraries and archives databases as well as National Heritage Board (NHB)’s museum repository of artefacts and artworks. It can retrieve a wide range of digital content such as books, magazines, audio-visual materials, eBooks, photographs, films, oral history interviews and maps residing in the NLB's libraries and archives databases and NHB’s repository.
+ProQuest Central is a database comprising academic journals, trade publications, theses and dissertations, as well as full-text newspaper articles. It covers over 160 subject areas and features a user-friendly interface, with personalization options and an automatic citation function.
 
-For more information about OneSearch, please refer to their FAQ page **[here](https://search.nlb.gov.sg/FAQs){:target="_blank"}**.
+## **A**ccessing ProQuest Central
 
-## **Basic Searching**
+1. Log in to NLB’s [**eResources**](https://eresources.nlb.gov.sg/main){:target="blank"} page with *myLibraryID*. To find out more about setting up *myLibrary ID*, please refer to this [**link**](https://go.gov.sg/mylibraryid){:target="blank"} .
 
-1. Access OneSearch via the link [here](https://search.nlb.gov.sg/){:target="_blank"}.
+   <img src="\images\getting-started\eresources-1_Login.png" style="width:400px;" />
 
-   - OneSearch can also be accessed via the search button in NLB’s **[eResources](https://eresources.nlb.gov.sg/main){:target="_blank"}** page after you have logged in using *myLibrary ID*. To find out more about setting up *myLibrary ID*, please refer to this **[link](https://go.gov.sg/mylibraryid){:target="_blank"}**.
+2. Click the “By-A-Z” browsing option on the left, select “P”, followed by “ProQuest Central” 
 
-   <img src="/images\getting-started\onesearch-basic-01.jpg" style="width:500px;" />
+   <img src="\images\getting-started\proquest-2_Accessing PQ.png" style="width:500px;" />
 
-2. On the homepage, type in your desired topic or title into the search bar
+3. Enter your search term(s) into the search bar and hit “Enter” to search
 
-   <img src="/images\getting-started\onesearch-basic-02.jpg" style="width:500px;" />
+   - Put quotation marks (“ ”) around phrases that are two words or more to retrieve results with the exact phrase you specified
+   - Type “and” between your search terms for results containing both your search terms. You can include more variables by adding other search terms with the “and” operator
+   - To learn more advanced search strategies, click on “Search tips” below the magnifying glass button
 
-3. By default, the search results you see in the centre column will display those in book format. For smartphone users, you will see the results directly on top. 
+   <img src="\images\getting-started\proquest-3_search.png" style="width:500px;" />
 
-   <img src="/images\getting-started\onesearch-basic-03.png" style="width:500px;" />
+4. Filter through your search results using the column on the left according to your research requirements 
 
-4. In order to explore other formats of your search topic, select the respective categories from the filtering column on the right-hand side of the screen. For smartphone users, these categories can be seen under your search results by scrolling down. 
+   - Select your preferred source type, ranging from scholarly journals, dissertations to newspaper articles
+   - Specify the date range of your search results by clicking “Enter a date range” below the publication date chart and click “update”
 
-   <img src="/images\getting-started\onesearch-basic-04.png" style="width:500px;" />
+   <img src="\images\getting-started\proquest-4_Filter column.png" style="width:500px;" />
 
-5. When selecting the formats on the right, please note that some of them will bring you to other NLB websites or digital platforms where you can view the actual information source (e.g. digitised newspapers from NewspaperSG). 
-   <!--img src="\images\getting-started\onesearch-basic-05-hor.jpg" style="width:500px;" /-->
+5. Select a search result of your choice
 
-   <img src="/images\getting-started\onesearch-basic-05-ver.jpg" style="width:500px;" />
+6. When viewing your selected publication or article, you can utilize the options bar for various features
 
-   *Please note that access to eJournals will require you to log in using myLibrary ID on OneSearch’s webpage. You can log in via the button located at the top right hand corner of the webpage.*
-   <img src="/images\getting-started\onesearch-basic-06.jpg" style="width:500px;" />
+   - Download the publication or article in PDF format
 
-## **Bonus tip**
+   <img src="\images\getting-started\proquest-5_download pdf.png" style="width:300px;" />
 
-To make your search more efficient, select ‘Advanced Search’ below the main Search button. You can now search through various criteria (e.g. Title, Creator, Publication etc) and format categories to get more specific results. 
+   - Click the “Cite” button to generate a citation of your choice. The citation style can be changed by clicking the drop-down menu and selecting your preferred style. Copy and paste the citation for your own references list
 
-<img src="\images\getting-started\onesearch-basic-07.jpg" style="width:500px;" />
+   <img src="\images\getting-started\proquest-6_citation.png" style="width:300px;" />
+
