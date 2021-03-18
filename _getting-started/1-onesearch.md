@@ -9,11 +9,11 @@ collection_name: getting-started
 
 OneSearch is an online search portal that helps you find information across a variety of resources from the National Library Board (NLB)'s libraries and archives databases as well as National Heritage Board (NHB)’s museum repository of artefacts and artworks. It can retrieve a wide range of digital content such as books, magazines, audio-visual materials, eBooks, photographs, films, oral history interviews and maps residing in the NLB's libraries and archives databases and NHB’s repository.
 
-For more information about OneSearch, please refer to their FAQ page **[here](https://search.nlb.gov.sg/FAQs){:target="_blank"}**.
+For more information about OneSearch, please refer to their FAQ page [**here**](https://search.nlb.gov.sg/FAQs){:target="_blank"}.
 
 ## **Basic Searching**
 
-1. Access OneSearch via the link [here](https://search.nlb.gov.sg/){:target="_blank"}.
+1. Access OneSearch via the link [**here**](https://search.nlb.gov.sg/){:target="_blank"}.
 
 	- OneSearch can also be accessed via the search button in NLB’s [**eResources**](https://eresources.nlb.gov.sg/main){:target="blank"} page after you have logged in using *myLibrary ID*. To find out more about setting up *myLibrary ID*, please refer to this [**link**](https://go.gov.sg/mylibraryid){:target="_blank"}.
 

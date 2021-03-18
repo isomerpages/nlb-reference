@@ -35,7 +35,7 @@ Insert description here.
 			<a href="/guides/guides/test/" class="project-link">
 				<img src="/images/sci-tech/temp sci file 1.jpg" alt="Test 1" class="project-image">
 				<div class="project-title">	
-				<h5><b>Test link 1</b></h5>
+				<h5>Test link 1</h5>
 				</div>
 			</a>
 		</div>
@@ -43,7 +43,7 @@ Insert description here.
 			<a href="/guides/guides/test/" class="project-link">
 				<img src="/images/sci-tech/temp sci file 2.jpg" alt="Test 2" class="project-image">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Test link 2</b></h5>
+					<h5>Test link 2</h5>
 				</div>
 			</a>
 		</div>
