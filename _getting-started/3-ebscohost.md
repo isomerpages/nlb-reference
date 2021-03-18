@@ -32,13 +32,13 @@ EBSCOhost Academic Search Complete is a leading resource for scholarly research.
    - Specify the date range of your search results by entering the years in the “From:” and “To:” boxes
    - Select your preferred source type, ranging from academic journals, trade publications to newspaper articles
 
-   <img src="/images\getting-started\ebscohost-4-Source_Types.png" style="width:300px;" />
+   <img src="/images\getting-started\ebscohost-4-Source_Types.png" style="width:250px;" />
 
 5. Select a search result of your choice
 
 6. Besides reading the full article or publication in the browser, you can also download it in PDF format by clicking on the “PDF Full Text” option in the left column
 
-   <img src="/images\getting-started\ebscohost-6-pdf.png" style="width:300px;" />
+   <img src="/images\getting-started\ebscohost-6a-pdf.png" style="width:250px;" />
 
    - Click the “Cite” button in the right column to generate a citation of your choice. Scroll down the citation formats until you find your preferred style. Copy and paste the citation for your own references list
 
