@@ -24,7 +24,7 @@ EBSCOhost Academic Search Complete is a leading resource for scholarly research.
    - You can enter search terms in the individual boxes to get results where they appear in the same article or publication
    - Put quotation marks (“ ”) around phrases that are two words or more to retrieve results with the exact phrase you specified
    
-<img src="/images\getting-started\ebscohost-3-Search_Fields.png" style="width:500px;" />
+   <img src="/images\getting-started\ebscohost-3-Search_Fields.png" style="width:500px;" />
    
 4. Refine your search results using the column on the left according to your research requirements 
 

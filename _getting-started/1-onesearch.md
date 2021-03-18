@@ -32,9 +32,8 @@ For more information about OneSearch, please refer to their FAQ page **[here](ht
    <img src="\images\getting-started\onesearch-basic-04.png" style="width:500px;" />
 
 5. When selecting the formats on the right, please note that some of them will bring you to other NLB websites or digital platforms where you can view the actual information source (e.g. digitised newspapers from NewspaperSG). 
-	<!--img src="\images\getting-started\onesearch-basic-05-hor.jpg" style="width:500px;" /-->
-
-	<img src="\images\getting-started\onesearch-basic-05-ver.jpg" style="width:500px;" />
+	
+<img src="\images\getting-started\onesearch-basic-05.jpg" style="width:500px;" />
 	
 	*Please note that access to eJournals will require you to log in using myLibrary ID on OneSearch’s webpage. You can log in via the button located at the top right hand corner of the webpage.*
 	<img src="\images\getting-started\onesearch-basic-06.jpg" style="width:500px;" />
