@@ -10,7 +10,7 @@ sections:
         title: Reference@NLB
         subtitle: Your first step to research
         background: /images/hero-banner.png
-        button: Get Started
+#        button: Get Started
         url: /getting-started/onesearch/
         key_highlights:
             - title: Singapore & Southeast Asia
