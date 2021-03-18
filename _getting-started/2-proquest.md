@@ -9,7 +9,7 @@ collection_name: getting-started
 
 ProQuest Central is a database comprising academic journals, trade publications, theses and dissertations, as well as full-text newspaper articles. It covers over 160 subject areas and features a user-friendly interface, with personalization options and an automatic citation function.
 
-## **A**ccessing ProQuest Central
+## **Accessing ProQuest Central**
 
 1. Log in to NLB’s [**eResources**](https://eresources.nlb.gov.sg/main){:target="blank"} page with *myLibraryID*. To find out more about setting up *myLibrary ID*, please refer to this [**link**](https://go.gov.sg/mylibraryid){:target="blank"} .
 
