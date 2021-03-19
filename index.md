@@ -8,7 +8,7 @@ notification: This site is still in construction, thank you
 sections:
     - hero:
         title: Reference@NLB
-        subtitle: Need some resources to get started on your research? Wondering how to search through online databases? </n>Or simply curious about what the National Library has to offer? </n>Browse through our resource guides to discover a world of knowledge right at your fingertips!
+        subtitle: Need some resources to get started on your research? Wondering how to search through online databases? <br>Or simply curious about what the National Library has to offer? <br>Browse through our resource guides to discover a world of knowledge right at your fingertips!
         background: /images/hero-banner.png
 #        button: Get Started
         url: /getting-started/onesearch/

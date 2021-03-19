@@ -37,12 +37,12 @@ links:
   - title: Other Formats
  #   url: /other-formats
     sublinks:
- #     - title: Photographs and Images
- #       url: /other-formats/photographs-images/
+      - title: Photographs
+        url: /other-formats/photographs/
       - title: Maps
         url: /other-formats/maps/
- #     - title: Newspapers and Microfilms
- #       url: /other-formats/newspapers-microfilms/
+      - title: Newspapers
+        url: /other-formats/newspapers/
       - title: Ephemera
         url: /other-formats/ephemera/
       - title: Posters
