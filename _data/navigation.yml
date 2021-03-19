@@ -35,7 +35,7 @@ links:
  #     - title: Fighting Fake News
  #       url: /getting-started/fighting-fake-news/
   - title: Other Formats
- #   url: /other-formats
+    url: /other-formats
     sublinks:
       - title: Photographs
         url: /other-formats/photographs/
