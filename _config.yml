@@ -73,6 +73,8 @@ collections:
     output: true
   social-sciences-humanities-history:
     output: true
+  social-sciences-humanities-humanities:
+    output: true
   socsci-hum:
     output: true
   singapore-people:
