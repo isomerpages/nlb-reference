@@ -4,7 +4,7 @@ permalink: /guides/singapore/people/lien-shih-sheng/
 breadcrumb: Lien Shih Sheng
 collection_name: singapore-people
 third_nav_title: People
-published: false
+published: true
 ---
 
 ### <u>Guide Index</u>

@@ -1,9 +1,10 @@
 ---
 title: Sastera Melayu Singapura - Novel
-permalink: /arts/literaryarts/sasteramelayusingapura/novel
+permalink: /guides/arts/literaryarts/sasteramelayusingapura/novel
 breadcrumb: Sastera Melayu Singapura - Novel
 collection_name: arts
 third_nav_title: Bibliografi Sastera Melayu Singapura
+published: true
 ---
 
 ## **Novel**
@@ -819,7 +820,7 @@ If you’re having problems registering or logging in, please [contact us](/cont
 Juffri Bin Supa’at
 Saliyah Sapeon
 Sukinah Suradi
- 
+
 
 The information in this resource guide is valid as at Feb 2017 and correct as far as we are able to ascertain from our sources. It is not intended to be an exhaustive or complete history on the subject. Please contact the Library for further reading materials on the topic.
 

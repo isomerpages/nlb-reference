@@ -3,8 +3,8 @@ title: Huang Man Shi 黄曼士
 permalink: /guides/singapore/people/huang-man-shi/
 breadcrumb: Huang Man Shi
 collection_name: singapore-people
-third_nav_title: People
-published: false
+third_nav_title: A - H
+published: true
 ---
 
 ### <u>Guide Index</u>

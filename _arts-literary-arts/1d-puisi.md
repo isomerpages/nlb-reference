@@ -1,9 +1,10 @@
 ---
 title: Sastera Melayu Singapura - Puisi
-permalink: /arts/literaryarts/sasteramelayusingapura/puisi
+permalink: /guides/arts/literaryarts/sasteramelayusingapura/puisi
 breadcrumb: Sastera Melayu Singapura - Puisi
 collection_name: arts
 third_nav_title: Bibliografi Sastera Melayu Singapura
+published: true
 ---
 
 ## **Puisi**
@@ -513,7 +514,7 @@ All featured books and periodicals are located at the Lee Kong Chian Reference L
 The National Library Board (NLB)’s eResources are free for all NLB members. Click [here](http://eresources.nlb.gov.sg/HowDoI.aspx) to find out how to register as a member.
 
 If you’re having problems registering or logging in, please [contact us](/contact-us/). If you wish to find information in the databases but am not sure where to begin, or need recommendations on which databases to use, please use the “Ask A Librarian” function or send an email to ref@nlb.gov.sg for help. The librarian will get back to you within three working days.
- 
+
 
 ### <u>Authors</u>
 

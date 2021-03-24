@@ -4,7 +4,7 @@ permalink: /guides/singapore/people/see-hiang-to/
 breadcrumb: See Hiang To
 collection_name: singapore-people
 third_nav_title: People
-published: false
+published: true
 ---
 
 ### <u>Guide Index</u>

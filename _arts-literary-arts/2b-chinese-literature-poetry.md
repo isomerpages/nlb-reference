@@ -1,9 +1,10 @@
 ---
 title: Poetry
-permalink: /arts/literaryarts/singaporechineseliterature/poetry
+permalink: /guides/arts/literaryarts/singaporechineseliterature/poetry
 breadcrumb: Chinese Literature - Poetry
 collection_name: arts
 third_nav_title: Bibliography of Singapore Chinese Literature
+published: true
 ---
 
 ## **新加坡华文文学书目：诗歌 / BIBLIOGRAPHY OF SINGAPORE CHINESE LITERATURE: POETRY**

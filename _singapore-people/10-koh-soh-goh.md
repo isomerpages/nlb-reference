@@ -4,7 +4,7 @@ permalink: /guides/singapore/people/goh-siew-tin/
 breadcrumb: Koh Soh Goh
 collection_name: singapore-people
 third_nav_title: People
-published: false
+published: true
 ---
 
 ### <u>Guide Index</u>

@@ -4,7 +4,7 @@ permalink: /guides/singapore/people/lee-choon-seng/
 breadcrumb: Lee Choon Seng
 collection_name: singapore-people
 third_nav_title: People
-published: false
+published: true
 ---
 
 ### <u>Guide Index</u>

@@ -3,7 +3,7 @@ title: Tan Kheam Hock 陈谦福
 permalink: /guides/singapore/people/tan-kheam-hock/
 breadcrumb: Tan Kheam Hock
 collection_name: singapore-people
-published: false
+published: true
 ---
 
 ### <u>Guide Index</u>

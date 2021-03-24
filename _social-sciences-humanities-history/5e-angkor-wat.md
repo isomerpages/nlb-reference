@@ -1,9 +1,10 @@
 ---
 title: Angkor Wat
-permalink: /guides/singapore/places/angkor-wat
+permalink: /guides/socialsciences-humanities/history/angkor-wat
 breadcrumb: Angkor Wat
-collection_name: singapore-places
-third_nav_title: Places
+collection_name: social-sciences-humanities-history
+third_nav_title: History
+published: true
 ---
 
 ### <u>Guide Index</u>

@@ -1,8 +1,9 @@
 ---
 title: Supporting Families
-permalink: /temp/supporting-families
+permalink: /guides/socialsciences-humanities/social-sciences/supporting-families
 breadcrumb: Supporting Families
-collection_name: temp
+collection_name: socsci-hum
+published: true
 ---
 
 ### <u>Guide Index</u>
@@ -31,7 +32,7 @@ The Scandinavian countries such as Denmark, Norway and Sweden, have been labelle
 
 <small style="color: #0000ff;">Rostgaard, T. (2014, December). Family policies in Scandinavia. Friedrich Ebert Stiftung. Retrieved December 14, 2016, from
 http://library.fes.de/pdf-files/id/11106.pdf</small>
- 
+
 
 ### <u>Caring for children in Europe: How childcare, parental leave and flexible work arrangements interact in Europe</u>
 
@@ -39,7 +40,7 @@ This policy brief analyses how paid work and the care of children are reconciled
 
 <small style="color: #0000ff;">Janta, B. (2014). Caring for children in Europe: How childcare, parental leave and flexible work arrangements interact in Europe. European Union – European Platform for Investing in Children. Retrieved December 14, 2016, from
 http://europa.eu/epic/studies-reports/docs/rr-554-dg-employment-childcare-brief-v-0-16-final.pdf </small>
- 
+
 
 ### <u>Flexible child care and Australian parents’ work and care decision-making</u>
 
@@ -47,7 +48,7 @@ This report takes a look at how Australian parents make decisions about work and
 
 <small style="color: #0000ff;">Flexible child care and Australian parents’ work and care decision-making. (2016, November). Australian Institute of Family Studies Research Report No. 37. Retrieved December 14, 2016, from
 https://aifs.gov.au/publications/flexible-child-care-and-australian-parents-work-and-care-decision-making/executive-summary </small>
- 
+
 
 ### <u>Case Study</u>
 
@@ -76,6 +77,6 @@ All parents are guaranteed public childcare. These childcare facilities operate 
 
 <small style="color: #0000ff;">Sweden: Successful reconciliation of work and family life. (2016, January). European Union – European Platform for Investing in Children. Retrieved December 14, 2016, from
 http://europa.eu/epic/countries/sweden/index_en.htm </small>
- 
+
 
 All rights reserved. National Library Board, 2016.

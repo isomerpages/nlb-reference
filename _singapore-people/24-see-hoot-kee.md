@@ -4,7 +4,7 @@ permalink: /guides/singapore/people/see-hoot-kee/
 breadcrumb: See Hoot Kee
 collection_name: singapore-people
 third_nav_title: People
-published: false
+published: true
 ---
 
 ### <u>Guide Index</u>

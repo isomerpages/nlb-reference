@@ -1,9 +1,10 @@
 ---
 title: 100 Seminal Books Social Services - Youths at Risk
-permalink: /temp/100seminalbooks/youths-at-risk
+permalink: /guides/socialsciences-humanities/social-sciences/100seminalbooks/youths-at-risk
 breadcrumb: 100 Seminal Books Social Services - Youths at Risk
-collection_name: temp
-# third_nav_title: 100 Seminal Books
+third_nav_title: 100 Seminal Books
+collection_name: socsci-hum
+published: true
 ---
 
 ### <u>Guide Index</u>
@@ -23,7 +24,7 @@ The 20 titles in this resource guide are listed alphabetically and cover various
 
 (listed in alphabetical order)
 
- 
+
 <img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <b>Adolescent substance abuse: An empirical based group preventive health paradigm</b>

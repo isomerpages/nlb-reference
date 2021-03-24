@@ -1,9 +1,10 @@
 ---
 title: Miscellaneous
-permalink: /arts/literaryarts/singaporeenglishliterature/miscellaneous
+permalink: /guides/arts/literaryarts/singaporeenglishliterature/miscellaneous
 breadcrumb: English Literature - Miscellaneous
 collection_name: arts
-third_nav_title: Singapore Literature in English 
+third_nav_title: Singapore Literature in English
+published: true
 ---
 
 ## **Miscellaneous**
@@ -88,7 +89,7 @@ Call No.: No holdings in NL. (Available in NUS Central Library.)
 \[1970\] The fourth evening of poetry and music presented by University of Singapore Literary Society.
 Singapore: s.n., 1970.
 Call No.: No holdings in NL and NUS Central Library.
- 
+
 \[1971\]  Evocations.
 Singapore: University of Singapore Literary Society.
 Call no.: No holdings in NL. (Available in NUS Central Library)

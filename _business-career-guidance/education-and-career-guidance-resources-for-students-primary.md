@@ -1,8 +1,9 @@
 ---
 title: Education and Career Guidance Resources for Students (Primary)
-permalink: /temp/education-and-career-guidance-resources-for-students-primary
-breadcrumb: Education and Career Guidance Resources for Students (Primary)
-collection_name: temp
+permalink: /guides/business/career-guidance/education-and-career-guidance-resources-for-students-primary
+breadcrumb: Education and Career Guidance Resources for Primary Students
+collection_name: business
+published: true
 ---
 
 ### <u>Guide Index</u>

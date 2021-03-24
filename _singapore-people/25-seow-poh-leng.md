@@ -4,6 +4,7 @@ permalink: /guides/singapore/people/seow-poh-leng/
 breadcrumb: Seow Poh Leng
 collection_name: singapore-people
 third_nav_title: People
+published: true
 ---
 
 ### <u>Guide Index</u>

@@ -1,9 +1,10 @@
 ---
 title: Novel
-permalink: /arts/literaryarts/singaporechineseliterature/novel
+permalink: /guides/arts/literaryarts/singaporechineseliterature/novel
 breadcrumb: Chinese Literature - Novel
 collection_name: arts
 third_nav_title: Bibliography of Singapore Chinese Literature
+published: true
 ---
 
 ## **Chinese Literature - Drama and Crosstalk**

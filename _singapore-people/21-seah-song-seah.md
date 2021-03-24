@@ -4,7 +4,7 @@ permalink: /guides/singapore/people/seah-song-seah/
 breadcrumb: Seah Song Seah
 collection_name: singapore-people
 third_nav_title: People
-published: false
+published: true
 ---
 
 ### <u>Guide Index</u>

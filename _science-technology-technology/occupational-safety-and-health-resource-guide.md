@@ -1,8 +1,10 @@
 ---
 title: Occupational Safety and Health Resource Guide
-permalink: /temp/occupational-safety-and-health-resource-guide
+permalink: /guides//guides/science-technology/technology/occupational-safety-and-health-resource-guide
 breadcrumb: Occupational Safety and Health Resource Guide
-collection_name: temp
+collection_name: science-technology-physical-sciences
+third_nav_title: Physical Sciences
+published: true
 ---
 
 

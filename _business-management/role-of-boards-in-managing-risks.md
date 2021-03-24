@@ -1,8 +1,9 @@
 ---
 title: Role of Boards in managing Risks
-permalink: /temp/role-of-boards-in-managing-risks
+permalink: /guides/business/management/role-of-boards-in-managing-risks
 breadcrumb: Role of Boards in managing Risk
-collection_name: temp
+collection_name: business
+published: true
 ---
 
 
@@ -24,7 +25,7 @@ In an increasingly vulnerable economic and social landscape, non-profit organisa
 * Implementing controls to mitigate fraud risk and conduct grant programmes in accordance to grant conditions for donors and sponsors.
 * Placing a risk management process to identify and mitigate operational risks related to programme events, volunteers and staffing which impacts the welfare of beneficiaries.
 * Protecting the confidentiality of information provided by donors and mitigate leakage risks.
- 
+
 
 | **Search Terms** | **Call Numbers** |
 | Non-profit organisations management |	658.048 |
@@ -45,17 +46,17 @@ This is a selection of resources on Role of Boards in Managing Risks available f
 * Adi, A., Crowther, D., & Grigore, G. (Eds.) (2015). Corporate social responsibility in the digital age.  Bingley, U.K.: Emerald Group Publishing Limited. Available from ProQuest Ebook Central.
 
 This book examines key conceptual insights about corporate social responsibility (CSR) and digital and social media and explores best practices for online corporate social responsibility. In this way, the volume explores the impact and influence of the new ‘social’ on responsibility and their feasibility, measurability and success in a boundary-less world.
- 
+
 
 * McCarthy, M. P., & Flynn, T. P. (2017). [Risk from the CEO and Board perspective: What all managers need to know about growth in a turbulent world](https://nlb.overdrive.com/media/3186549). Luzern: GetAbstract. Retrieved from OverDrive.
 
 This book provides a simple, short introduction to the subject of risk such as financial risk, operational risk, reputation risk, governance risk and even the risk of terrorist attack that the CEO and Board should know about.
- 
+
 
 * Wolf, T. (2014). [Effective leadership for nonprofit organizations: How executive directors and boards work together](https://nlb.overdrive.com/media/2182781). New York: Allworth Press. Retrieved from OverDrive.
 
 One key to success in managing a nonprofit organisation is building a strong relationship between the executive director and the board of trustees. This book is a treasure trove of information for navigating the personal, political and legal minefields that cause so many nonprofits to fail. Dozens of case studies illuminate the key issues that often impede the progress of nonprofit organisations. Each chapter also contains a set of questions that enable leaders to reflect on the health of their own organisation and also evaluate other nonprofits, as well as to create sustainable, effective business practices and productive working relationships. Topics discussed here include communication between managerial parties, sharing powers and responsibilities, fund-raising, financial oversight and boundaries, planning programmes, hiring and firing, developing partnerships and assessing business practices and managing risks in an organisation.
- 
+
 
 ### <u>Books</u>
 
@@ -66,49 +67,49 @@ One key to success in managing a nonprofit organisation is building a strong rel
 Call no.: 658.048 ALE -\[BIZ\]
 
 This book is a guide for organisations on how to secure grants successfully. The author shares his knowledge on how to obtain space, equipment, and tools at little or no cost, how to minimise insurance and legal fees and how to use volunteers and keynote programmes to stay lean and successful. He provides checklists that help with paperwork filing and advice on how to create a master assets and inventory document to record everything that the organisation owns and leases. Realistic hands-on strategies are provided that can save the organisation significant amounts of money each year and prevent the mistakes that cause so many nonprofits to fail.
- 
+
 
 * BoardSource. (2012). [The nonprofit board answer book: A practical guide for board members and chief executives](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202525261) (3rd ed). San Francisco: Jossey-Bass.
 
 Call no.: RBUS 658.422 NON
 
 This book demonstrates how executives and board members of nonprofit boards can be more effective, meet difficult situations head-on and deal with commonplace challenges with confidence. Topics include information on the viability of for-profit ventures, board retreats, board diversity, fundraising, financial oversight, strategic thinking and the use of technology.
- 
+
 
 * Charan, R., Carey, D. C., & Useem, M. (2014). [Boards that lead: When to take charge, when to partner, and when to stay out of the way](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200163040). Boston, Massachusetts: Harvard Business Review Press.
 
 Call no.: 658.422 CHA -\[BIZ\]
 
 This book, from three leading experts in the field, serves as a guide to help take advantage of board oversight while avoiding the pitfalls. They say to today’s leaders that chief executives must run the corporation and directors lead the corporation on the most crucial issues such as monitoring, governance and rebalance the responsibilities of the board. They offer a new roadmap both to CEOs and directors so that senior executives can better balance board oversight with their day-to-day operations of the firm and directors have a better understanding of when to lead, when to partner and when to stay out of the way.
- 
+
 
 * Ott, J. S., & Dicke, L. A. (Eds.). (2016). [Understanding nonprofit organizations: Governance, leadership and management with case studies by C. Kenneth Meyer](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202661190). (3rd ed). Boulder, CO: Westview Press, a member of the Perseus Book Group.
 
 Call no.: RBUS 658.048 UND
 
 The text focuses on governing, leading, and managing nonprofit organisations and how such organisations differ from both the public and private sectors. Each of the ten chapters in the book opens with a framing essay that identifies the central theme and issues and summarises the significance of the contribution that each piece makes to the development of knowledge in the field. Includes new articles on legal frameworks, philanthropy, managing volunteers and accountability, as well as an essay on capacity building.
- 
+
 
 * Sargeant, A., & Jay, E. (2014). [Fundraising management: Analysis, planning and practice](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202421091). (3rd ed). New York: Routledge.
 
 Call no.: RBUS 658.15224 SAR
 
 This edition provides best practices, problem-solving guides and modern perspectives on organisational behavior. It includes an extended coverage of digital fundraising and donor behaviour, including an examination of group influences on behaviour and a chapter on the use of social media for supporter engagement and retention.
- 
+
 
 * Taylor, L. (2014). [Practical enterprise risk management: How to optimize business strategies through managed risk taking](http://eservice.nlb.gov.sg/item_holding.aspx?bid=201010890). (1st ed.). Philadelphia, PA: Kogan Page.
 
 Call no.: RBUS 658.155 TAY
 
 This book addresses the need for organisations to manage risks in order to maximise business strategies and achieve long term goals. Based on ISO 31000 and applying current best practice, it provides templates and examples that can be adapted for any industry. Breaking down the theory on enterprise risk management, it helps to see risk as both an opportunity and a threat whilst giving guidance on how to implement it. It provides models for Risk Adjusted Return on Capital to evaluate R.O.I and measure performance, advice on emergent risks, as well as best practice and advice on risk communication, transparency and brand protection.
- 
+
 
 * Wee, B. G. (2018). [Managing social purpose driven organizations: Looking at the third sector](http://eservice.nlb.gov.sg/item_holding.aspx?bid=203002142). New York: Routledge.
 
 Call no.: RBUS 658.048 WEE
 
 The book examines the management of social purpose-driven organisations in an Asian context, using the case study approach. It looks at organisations such as National Kidney Foundation, Asian Women’s Welfare Organisation, Mercy Relief, Singapore Chinese Orchestra and NTUC Eldercare Co-operative during a period of major changes in the regulatory and governance environment for charities in Singapore.
- 
+
 
 ### <u>Websites</u>
 
@@ -120,23 +121,23 @@ The book examines the management of social purpose-driven organisations in an As
 https://www.cloreleadership.org/userfiles/documents/630_toolkit_final.pdf
 
 The website presents the Clore Leadership Programme that runs effective board development programme for boards and senior management of cultural organisations to improve understanding of its strategic and supportive leadership. This guide provides general information and practical aid offering assistance on the more pertinent points of governance and questions on structures, roles and responsibilities, finance, risk management and fund raising, board meetings and recruitment for boards and senior management of cultural organisations.
- 
+
 
 * KPMG International Cooperative. (June 6, 2017). Influencing risk and risk culture. Singapore: KPMG. Retrieved January 15, 2018, from the KPMG website: https://home.kpmg.com/sg/en/home/insights/2017/06/influencing-risk-and-risk-culture.html
 
 The article describes how KPMG developed an Enterprise Risk Management (ERM) toolkit in guiding  charities/Institutions of a Public Character (IPCs) on their journey towards better risk management. The toolkit provides a risk management framework that is scalable to suit each charity’s needs and shares practical insights and best practices. In addition to the toolkit, training programs and workshops are also available to support charities’ adoption of the recommendations.
- 
+
 
 * Meltzer. G. S. (2011), Fundraising: A partnership between board and staff.  Chicago: First Nonprofit Foundation. Retrieved January 15, 2018, from the Nonprofit Foundation website:
 http://www.firstnonprofit.org/wp-content/uploads/2014/04/Fundraising_A-Partnership-Between-Board-and-Staff.pdf 
 
 This publication revisits the expectations and demands of the critical board member roles in steering, supporting and safeguarding nonprofit organisations in fundraising. Other titles in their series of online booklets for nonprofit organisations on their website include “Risk management: Your role as a board member” and “Champions with a Cause: The Nonprofit Board Member’s Role in Marketing”.
- 
+
 
 * Social Service Institute. (2014). Volunteer management toolkit. Retrieved January 15, 2018, from the Comchest of Singapore website: http://www.comchest.org.sg/comchest/DesktopModules/ShareAsOne/images/VolunteerManagementToolkit.pdf
 
 This toolkit was developed by the National Council of Social Service to provide Voluntary Welfare Organisations with practical tools and guidelines on volunteer management. Includes some of the best practices in volunteer management of Care Corner Singapore Ltd, Children At-Risk Empowerment Association (CARE Singapore), Fei Yue Family Service Centre, Lions Befrienders Service Association, RSVP Singapore-The Organisation of Senior Volunteers, Samaritans of Singapore (SOS) and Thye Hua Kwan Moral Charities Limited.
- 
+
 
 * How should nonprofit organisations (NPOs) take the right risks?). (2016, May 13). Retrieved January 15, 2018, from the Charity Council Organisation website:
 https://www.charitycouncil.org.sg/Resources%20For%20You/Blog/How%20Should%20NPOs%20take%20the%20Right%20Risks.aspx

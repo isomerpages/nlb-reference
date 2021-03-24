@@ -1,9 +1,10 @@
 ---
 title: புதினம்
-permalink: /arts/literaryarts/singaporetamilliterature/novel
+permalink: /guides/arts/literaryarts/singaporetamilliterature/novel
 breadcrumb: சிங்கப்பூர்த் தமிழ் இலக்கியம் – புதினம்
 collection_name: arts
 third_nav_title: சிங்கப்பூர்த் தமிழ் இலக்கியம்
+published: true
 ---
 
 **புதினம்**

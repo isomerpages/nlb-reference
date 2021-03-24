@@ -4,7 +4,7 @@ permalink: /guides/singapore/people/tan-yeok-seong/
 breadcrumb: Tan Yeok Seong
 collection_name: singapore-people
 third_nav_title: People
-published: false
+published: true
 ---
 
 ### <u>Guide Index</u>

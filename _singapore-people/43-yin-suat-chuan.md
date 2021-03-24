@@ -4,7 +4,7 @@ permalink: /guides/singapore/people/yin-suat-chuan/
 breadcrumb: Yin Suat Chuan
 collection_name: singapore-people
 third_nav_title: People
-published: false
+published: true
 ---
 
 ### <u>Guide Index</u>

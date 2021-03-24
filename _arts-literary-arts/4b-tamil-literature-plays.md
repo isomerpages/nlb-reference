@@ -1,9 +1,10 @@
 ---
 title: நாடகங்கள்
-permalink: /arts/literaryarts/singaporetamilliterature/plays
+permalink: /guides/arts/literaryarts/singaporetamilliterature/plays
 breadcrumb: சிங்கப்பூர்த் தமிழ் இலக்கியம் – நாடகங்கள்
 collection_name: arts
 third_nav_title: சிங்கப்பூர்த் தமிழ் இலக்கியம்
+published: true
 ---
 
 **நாடகங்கள்**
@@ -100,7 +101,7 @@ The National Library has compiled a set of bibliographies on Singapore Literatur
 18. புதுமைதாசன். (1990). இலக்கியக் காட்சிகள் .சிங்கப்பூர் : இந்தியர் பண்பாட்டு நிகழ்ச்சி ஏற்பாட்டுக் குழு.
 (RSING S894.8112 KRI)
 
- 
+
 ### <u>1991 – 2000</u>
 
 19. வேணுகோபால், த.(1991). சிங்கப்பூரில் நாடகக் கலை. சிங்கப்பூர் : இலங்கை மூன்றாம் அஞ்சி கல்லூரி.

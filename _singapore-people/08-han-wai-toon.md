@@ -3,8 +3,8 @@ title: Han Wai Toon 韩槐准
 permalink: /guides/singapore/people/han-wai-toon/
 breadcrumb: Han Wai Toon
 collection_name: singapore-people
-third_nav_title: People
-published: false
+third_nav_title: A - H
+published: true
 ---
 
 ### <u>Guide Index</u>

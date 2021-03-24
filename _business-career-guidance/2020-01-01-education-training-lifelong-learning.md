@@ -2,6 +2,7 @@
 layout: post
 title:  Education, Training & Lifelong Learning
 permalink: /guides/budget2017/education-training-lifelong-learning
+published: false
 ---
 
 ### <u>Guide Index</u>
@@ -33,7 +34,7 @@ This report explores the future skills and talent needs, and the management and 
 
 <small>The future of talent in Singapore 2030. (2016, March). Chartered Institute of Personnel and Development (CIPD) & Human Capital Leadership Institute. Retrieved December 28, 2016, from
 http://www.cipd.asia/media/The-Future-of-Talent-in-Singapore-report_tcm1038-6888.pdf</small>
- 
+
 
 ### <u>European sectoral trends: The next decade</u>
 
@@ -41,7 +42,7 @@ Demographic changes, better access to education, technological advances and clim
 
 <small>European sectoral trends: The next decade. (2016, May 27). European Centre for the Development of Vocational Training. Retrieved December 28, 2016, from
 http://www.cedefop.europa.eu/en/publications-and-resources/publications/8093</small>
- 
+
 
 ### <u>Skills development and employment: New skills agenda for Europe</u>
 
@@ -49,7 +50,7 @@ This new skills agenda to keep the European economy competitive consists of ten 
 
 <small>Kraatz, S., Franke, M. & Balazs, M. (2016, October). Skills development and employment: New skills agenda for Europe. European Parliament. Retrieved December 28, 2016, from
 http://www.europarl.europa.eu/RegData/etudes/BRIE/2016/587318/IPOL_BRI(2016)587318_EN.pdf</small>
- 
+
 
 ### <u>Enhancing employability</u>
 
@@ -88,7 +89,7 @@ a. Address institutional barriers such as rules and regulations to job and locat
 b. Facilitate labour mobility through better skills assessment, skills recognition and re-training strategies.
 
 <small>Enhancing employability (2016). OECD, International Labour Organisation & The World Bank. Retrieved December 28, 2016, from https://www.oecd.org/g20/topics/employment-and-social-policy/Enhancing-Employability-G20-Report-2016.pdf</small>
- 
+
 
 ### <u>The state of American jobs</u>
 
@@ -96,7 +97,7 @@ The majority of American workers believe that new skills and training may hold t
 
 <small>The state of American jobs. (2016, October 6). Pew Research Center. Retrieved December 28, 2016, from
 http://assets.pewresearch.org/wp-content/uploads/sites/3/2016/10/ST_2016.10.06_Future-of-Work_FINAL4.pdf</small>
- 
+
 
 ### <u>Apprenticeships policy in England</u>
 
@@ -104,7 +105,7 @@ This paper looks at the current apprenticeship system in England including, mini
 
 <small>Mirza-Davies, J. (2016, November 17). Apprenticeships policy in England. House of Commons Library. Retrieved December 28, 2016, from
 http://researchbriefings.parliament.uk/ResearchBriefing/Summary/SN03052#fullreport</small>
- 
+
 
 ### <u>Work-based learning and work-integrated learning: Fostering engagement with employers</u>
 
@@ -112,7 +113,7 @@ Work-based learning “occurs in a work environment, through participation in wo
 
 <small>Atkinson, G. (2016, August). Work-based learning and work-integrated learning: Fostering engagement with employers. National Centre for Vocational Education Research. Retrieved December 28, 2016, from
 http://apo.org.au/files/Resource/work-based-learning_2016.pdf</small>
- 
+
 
 All rights reserved. National Library Board, 2016
 

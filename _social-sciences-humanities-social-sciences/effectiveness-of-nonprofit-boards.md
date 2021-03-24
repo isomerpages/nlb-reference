@@ -1,8 +1,9 @@
 ---
 title: Effectiveness of Nonprofit Boards
-permalink: /temp/effectiveness-of-nonprofit-boards
+permalink: /guides/socialsciences-humanities/social-sciences/effectiveness-of-nonprofit-boards
 breadcrumb: Effectiveness of Nonprofit Boards
-collection_name: temp
+collection_name: socsci-hum
+published: true
 ---
 
 ### <u>Guide Index</u>
@@ -30,7 +31,7 @@ Inside you will find sources of information from books, journal articles, case s
 | Nonprofit organisations & charities |	658.159 |
 | Boards of directors; Nonprofit governance	| 658.422 |
 | Nonprofit organisations marketing | 658.8 |
- 
+
 
 ### <u>Books</u>
 
@@ -41,42 +42,42 @@ Inside you will find sources of information from books, journal articles, case s
 Call no.: RBUS 658.159 BOW
 
 A complete guide to the financial requirements of a nonprofit organisation to follow and indefinitely maintain the volume and quality of their services. An organisation may have plenty of capacity in the long run, but in the short run, donor restrictions and limited financing options are constraining.
- 
+
 
 * Cagney, P., & Ross, B. (2013). [Global fundraising: How the world Is changing the rules of philanthropy](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200124384). Hoboken, New Jersey: Wiley.
 
 Call no.: RBUS 361.7 CAG
 
 This book offers a global overview of philanthropy with an internationalist perspective and guide to the challenges and successes of global fundraising.
- 
+
 
 * Cheng, W., & Mohamed, Sharifah. (Eds.). (2010). [The world that changes the world: How philanthropy, innovation and entrepreneurship are transforming the social ecosystem](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13686352). Singapore: Wiley: Chichester: John Wiley
 
 Call no.: R 361.3 WOR
 
 The book brings together twenty-one international authors who share their perspectives and insights on various facets of the social ecosystem, the change drivers and the macro-trends.
- 
+
 
 * [The nonprofit board answer book: A practical guide for board members and chief executives](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202525261). (2011). Australia: John Wiley & Sons, Inc.
 
 Call no.: RBUS 658.422 NON
 
 This book offers a thoroughly revised and updated resource that answers the most-commonly asked question on board governance. It covers topics on board structure and process, board member recruitment and orientation, board-staff relations and financial management.
- 
+
 
 * Tierney, T. J., Fleishman, J. L., & Stone, N. (2011). [Give smart – philanthropy that gets results](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13804277). New York: PublicAffairs.
 
 Call no.: R 361.74 TIE
 
 Despite tremendous innovation in the social sector, philanthropy’s natural state is under-performance. In order for donors and foundations to unlock fully the potential of their philanthropy, generosity must be accompanied by a rigorous consideration of what they hope to accomplish: the results that will define success, what it will take to achieve them, and how those results will get better over time.
- 
+
 
 * Wolf, T. (2014).[ Effective leadership for non-profit organizations: How executive directors and boards work together](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201098327). New York: Allworth Press.
 
 Call no.: 658.048 WOL -\[BIZ\]
 
 One key to success in managing a nonprofit organisation is by building a strong relationship between the executive director and the board of trustees. This book provides information for navigating the personal, political, and legal minefields that cause many nonprofits to fail. Dozens of case studies illuminate the key issues that often impede the progress of nonprofit organisations. Each chapter also contains a set of questions that enable leaders to reflect on the health of their own organisation and also evaluate other nonprofits, as well as to create sustainable, effective business practices and productive working relationships.
- 
+
 
 ### <u>Databases</u>
 
@@ -89,27 +90,27 @@ One key to success in managing a nonprofit organisation is by building a strong 
 Also available at: http://www.na-businesspress.com/AJM/BernsteinR_Web15_1_.pdf
 
 This paper presents a new concept for measuring NPO effectiveness by examining the impact of certain roles and responsibilities, specifically internal board performance on external performance. Findings indicate the strongest impact on the external board performance is from board members’ understanding of their roles and responsibilities.
- 
+
 
 * Buse, K., Bernstein, R. S., & Bilimoria, D. (2016, January). The influence of board diversity, board diversity policies and practices, and board inclusion behaviors on nonprofit governance practices. Journal of Business Ethics, 133(1), 179-191. Retrieved October 12, 2016, from ProQuest Central.
 
 This study examines how and when nonprofit board performance is impacted by board diversity. Specifically, we investigate board diversity policies and practices as well as board inclusion behaviors as mediating mechanisms for the influence of age, gender, and racial/ethnic diversity of the board on effective board governance practices.
- 
+
 
 * Deutsch, R. (2016, October). Board effectiveness: Courage needed to win in the face of uncertain times. Governance Directions, 68(9), 526-529. Retrieved October 12, 2016, from EbscoHost Business Source Complete.
 
 The author examines on the factors that drive the effectiveness and success of board of an organisation. Topics by the author include boldness and decisiveness of leadership, opportunity mind-set, and crucial ecosystems. It also mentions crackdown of diversity code and importance of curiosity.
- 
+
 
 * Hodge, M. M; Piccolo, R. F. (2011, Winter). Nonprofit board effectiveness, private philanthropy, and financial vulnerability. Public Administration Quarterly, 35(4), 520-550. Retrieved October 12, 2016 from ProQuest Central.
 
 Drawing on 112 nonprofit organisations in Central Florida, the current study examined relationships among three areas of interest in the voluntary sector: board effectiveness, private philanthropy, and financial vulnerability.
- 
+
 
 * Young Jr., & James, R. (2014, April-June). How effective is your board? Rate yourself, & take action. Nonprofit World, 32(2), 14-15. Retrieved October 12, 2016, from EbscoHost Business Source Complete.
 
 The article offers tips in measuring the effectiveness of organisational boards. It states that effective board members are more focused on their roles and responsibilities, more team-oriented, and have better working relationship with staff and executive directors. It cites the role of consultants in the board member’s process of assessing itself.
- 
+
 
 ### <u>Websites</u>
 
@@ -119,27 +120,27 @@ The article offers tips in measuring the effectiveness of organisational boards.
 [http://aicd.companydirectors.com.au/resources/not-for-profit-resources/good-governance-principles-and-guidance/good-governance-principles-and-guidance-for-nfp-organisations/principle-6-board-effectiveness](http://aicd.companydirectors.com.au/resources/not-for-profit-resources/good-governance-principles-and-guidance/good-governance-principles-and-guidance-for-nfp-organisations/principle-6-board-effectiveness)
 
 This website explains that board effectiveness may be greatly enhanced through careful forward planning of board-related activities; board meetings being run in an efficient manner; regular assessments of board performance; having a board succession plan and the effective use of sub-committees.
- 
+
 
 * Chelliah, J., Boersma, M., & Klettner, A. (2016, March). Governance challenges for not-for-profit organisations: Empirical evidence in support of a contingency approach. Contemporary Management Research, 12(1), 3-24. Retrieved October 13, 2016, from Contemporary Management Research website: [http://www.cmr-journal.org/article/download/14538/pdf_36](http://www.cmr-journal.org/article/download/14538/pdf_36)
 
 This article presents empirical evidence of the governance challenges faced by Australian not-for-profit (NFP) organisations. The study reveals that the effectiveness of governance systems is influenced by internal and external contingencies that NFP organisations face, such as variations in board roles, stakeholder and membership demands, funding arrangements, board member recruitment processes, skills of board members, and resources for training and development.
- 
+
 
 * Floyd, M, (2015). Organizational effectiveness frameworks in public health nonprofit systems: A case study. Retrieved October 13, 2016, from University of Kentucky, UKnowledge website: [http://uknowledge.uky.edu/cgi/viewcontent.cgi?article=1067&context=cph_etds](http://uknowledge.uky.edu/cgi/viewcontent.cgi?article=1067&context=cph_etds)
 
 This study identifies key organisational effectiveness frameworks that could be used to evaluate nonprofits and use them in practice. Therefore, individuals wishing to become involved with effective nonprofits will be empowered to make good investments of volunteer time and donations.
- 
+
 
 * Maurer, L. L. (2016). Board member perceptions of small nonprofit organization effectiveness. Journal of Social, Behavioral, and Health Sciences, 10(1), 18-30. Retrieved October 13, 2016, from Walden University website: [http://scholarworks.waldenu.edu/cgi/viewcontent.cgi?article=1202&context=jsbhs](http://scholarworks.waldenu.edu/cgi/viewcontent.cgi?article=1202&context=jsbhs)
 
 The study examines how board members of small local nonprofits in the focal community perceived nonprofit organisation effectiveness. A review of the literature revealed that nonprofit organisation effectiveness involved the action of contributing to the organisation and the motivation behind the action, both of which were associated with trust and reciprocity. Findings and conclusions, contributes to social change among small American nonprofit organisations by suggesting means to address the stresses that compromise the availability and quality of their programs.
- 
+
 
 * National Council of Nonprofits. (2016). Dashboards for Nonprofits.  Retrieved October 13, 2016, from National Council of Nonprofits website: [https://www.councilofnonprofits.org/tools-resources/dashboards-nonprofits](https://www.councilofnonprofits.org/tools-resources/dashboards-nonprofits)
 
 The website created by National Council of Nonprofits offers examples of dashboards, dashboard tools and resources about dashboards that are useful for measuring success in nonprofit organisations.
- 
+
  ### <u>Accessing National Library Board Singapore Resources</u>
 
 <b><u>Accessing the Print Materials</u></b>

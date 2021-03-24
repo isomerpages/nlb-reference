@@ -4,6 +4,7 @@ permalink: /guides/singapore/people/wong-lin-ken/
 breadcrumb: Wong Lin Ken
 collection_name: singapore-people
 third_nav_title: People
+published: true
 ---
 
 ### <u>Guide Index</u>

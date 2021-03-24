@@ -2,6 +2,7 @@
 layout: post
 title:  Internationalisation & Scaling-up
 permalink: /guides/budget2017/internationalisation-scaling-up
+published: false
 ---
 
 ### <u>Guide Index</u>
@@ -32,7 +33,7 @@ This article highlights that if Asia continues to follow its recent trajectory, 
 
 <small>Asia 2050: Realising the Asian century. (2011, August). Asian Development Bank. Retrieved January 3, 2017, from
 https://www.adb.org/sites/default/files/publication/28608/asia2050-executive-summary.pdf</small>
- 
+
 
 ### <u>Packing a mightier punch: Asia’s economic growth among global markets continues</u>
 
@@ -40,7 +41,7 @@ This article argues that once a poorer cousin of the United States and Europe, A
 
 Barua, A. (2015, December 18). Packing a mightier punch: Asia’s economic growth among global markets continues. Deloitte. Retrieved January 3, 2017, from
 https://dupress.deloitte.com/dup-us-en/economy/asia-pacific-economic-outlook/2016/q1-asia-economic-growth-continues.html
- 
+
 
 ### <u>Asia’s rise is rooted in Confucian values</u>
 
@@ -48,7 +49,7 @@ This article argues that states like China, South Korea and Singapore became eco
 
 Kaplan, R. D. (2015, February 6). Asia’s rise is rooted in Confucian values. The Wall Street Journal. Retrieved January 3, 2017, from
 http://www.wsj.com/articles/asias-rise-is-rooted-in-confucian-values-1423254759
- 
+
 
 ### <u>The world in 2050: Will the shift in global economic power continue?</u>
 
@@ -65,7 +66,7 @@ It highlights that:
 
 <small>The world in 2050: Will the shift in global economic power continue? (2015, February). PwC. Retrieved January 3, 2017, from
 http://www.pwc.com/gx/en/issues/the-economy/assets/world-in-2050-february-2015.pdf</small>
- 
+
 
 ### <u>Emerging economies to keep an eye on for investment</u>
 
@@ -73,7 +74,7 @@ This article highlights that the three emerging markets to consider investing in
 
 <small>Travillian, A. (2015, October 9). Emerging economies to keep an eye on for investment. Investopedia. Retrieved January 3, 2017, from
 http://www.investopedia.com/articles/investing/100915/emerging-economies-keep-and-eye.asp</small>
- 
+
 
 ### <u>Growth drivers in Asia and Singapore</u>
 
@@ -81,7 +82,7 @@ In his speech at the UBS Wealth Insights Conference on 16 January 2016, Mr Heng 
 
 <small>Growth drivers in Asia and Singapore. (2016, January 12). Opening Remarks by Mr Heng Swee Keat, Minister for Finance, at the UBS Wealth Insights Conference, Monetary Authority of Singapore. Retrieved January 3, 2017, from
 http://www.mas.gov.sg/News-and-Publications/Speeches-and-Monetary-Policy-Statements/Speeches/2016/Growth-Drivers-in-Asia-and-Singapore.aspx</small>
- 
+
 
 All rights reserved. National Library Board, 2016
 

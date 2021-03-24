@@ -1,9 +1,10 @@
 ---
 title: 100 Seminal Books Social Services - Vulnerable Children and Youth
-permalink: /socsci-hum/100seminalbooks/vulnerable-children-and-youth
+permalink: /guides/socialsciences-humanities/social-sciences/100seminalbooks/vulnerable-children-and-youth
 breadcrumb: 100 Seminal Books Social Services - Vulnerable Children and Youth
+third_nav_title: 100 Seminal Books
 collection_name: socsci-hum
-# third_nav_title: 100 Seminal Books
+published: true
 ---
 
 ## 100 Seminal Books Social Services - Vulnerable Children and Youth

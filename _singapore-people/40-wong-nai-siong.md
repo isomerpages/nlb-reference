@@ -4,7 +4,7 @@ permalink: /guides/singapore/people/wong-nai-siong/
 breadcrumb: Wong Nai Siong
 collection_name: singapore-people
 third_nav_title: People
-published: false
+published: true
 ---
 
 ### <u>Guide Index</u>

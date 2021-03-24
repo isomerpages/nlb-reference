@@ -1,9 +1,10 @@
 ---
 title: சிறுகதைகள்
-permalink: /arts/literaryarts/singaporetamilliterature/short-stories
+permalink: /guides/arts/literaryarts/singaporetamilliterature/short-stories
 breadcrumb: சிங்கப்பூர்த் தமிழ் இலக்கியம் – சிறுகதைகள்
 collection_name: arts
 third_nav_title: சிங்கப்பூர்த் தமிழ் இலக்கியம்
+published: true
 ---
 
 **சிறுகதைகள்**

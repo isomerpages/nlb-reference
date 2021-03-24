@@ -2,6 +2,7 @@
 layout: post
 title:  Economic & Productivity Growth
 permalink: /guides/budget2017/economic-productivity-growth
+published: false
 ---
 
 ### <u>Guide Index</u>
@@ -27,7 +28,7 @@ According to Robert Atkinson, in [“Think like an enterprise: Why nations need 
 * Sectorial productivity policies that reflect the unique differences between industries.
 
 This resource guide presents relevant reports and studies that look at: the steps Japan can take to reignite its productivity and growth; United Kingdom’s productivity plan and an evaluation of its Futures Programme that aims to tackle the causes of low productivity; the feasibility of adopting Germany’s Industry 4.0 concept to other European Union member countries; a historical case study on Singapore’s productivity journey; Germany’s high-tech innovation strategy and its policy efforts to enlarge innovative SMEs in the country; the “factory of the future” and how manufacturers can enhance production; and the potential of automation and which sectors have a higher chance of being automated in the future.
- 
+
 
 ### <u>The future of Japan: Reigniting productivity and growth</u>
 
@@ -35,21 +36,21 @@ Japan is formulating many policies such as Abenomics to address the long-standin
 
 <small>The future of Japan: Reigniting productivity and growth. (2015, March). McKinsey & Company. Retrieved January 4, 2017, from
 http://www.mckinsey.com/global-themes/employment-and-growth/how-a-private-sector-transformation-could-revive-japan</small>
- 
+
 
 ### <u>Evaluation of the UK Futures Programme: Conclusion and guidance</u>
 
 The UK Futures Programme offers public co-investment to employers and industry to tackle the causes of low productivity. This evaluation report analyses how five productivity challenges are addressed by the programme. The key learnings highlight the importance of: highly specified and targeted productivity challenges; strong employer leadership and engagement; collaborative solutions; a strong emphasis on developing new and innovative approaches; and a strong learning component; among others. UK’s productivity plan, “Fixing the foundations: Creating a more prosperous nation” can be accessed here.
 
 <small>Thom, G., Agur, M., Mackay, S., Chipato, F., MacLeod, K., Hope, H. & Stanfield, C. (2016, August). Evaluation of the UK Futures Programme: Conclusion and guidance. UK Commission for Employment and Skills. Retrieved January 4, 2017, from https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/547769/Evaluation_of_UK_Futures_Programme_-_conclusions_and_guidance.pdf</small>
- 
+
 
 ### <u>Industry 4.0</u>
 
 This study was commissioned to inform the European Parliament debate on the role of connecting digital technologies with industrial products and services. It describes Industry 4.0, “the organisation of production processes based on technology and devices autonomously communicating with each other along the value chain”, a concept developed by the German government. It explores three dimensions of change – technological change, social change and change in the business paradigm – and the policy approaches needed to support Industry 4.0.
 
 <small>Smit, J., Kreutzer, S., Moeller, C. & Carlberg, M. (2016, February). Industry 4.0. European Parliament’s Committee on Industry, Research and Energy. Retrieved January 4, 2017, from http://www.europarl.europa.eu/RegData/etudes/STUD/2016/570007/IPOL_STU(2016)570007_EN.pdf</small>
- 
+
 
 ### <u>Singapore’s productivity challenge: A historical perspective</u>
 
@@ -77,7 +78,7 @@ This case study provides a historical background on Singapore’s policy decisio
 
 <small>Auyong, H. (2016). Singapore’s productivity challenge: A historical perspective. Lee Kuan Yew School of Public Policy & National University of Singapore. Retrieved January 4, 2017, from
 http://lkyspp.nus.edu.sg/wp-content/uploads/2016/01/20160210-Singapores-productivity-challenge-A-historical-perspective.pdf</small>
- 
+
 
 ### <u>The new high-tech strategy innovations for Germany</u>
 
@@ -85,7 +86,7 @@ Germany’s High-Tech Strategy, a comprehensive, interdepartmental innovation st
 
 <small>The new high-tech strategy innovations for Germany. (2014, August). The Federal Government. Retrieved January 4, 2017, from
 https://www.bmbf.de/pub/HTS_Broschuere_eng.pdf</small>
- 
+
 
 ### <u>The factory of the future</u>
 
@@ -93,14 +94,14 @@ This global survey report of leading companies in the automotive, engineered pro
 
 <small>Kupper, D., Kuhlmann, K., Kocher, S., Dauner, T. & Burggraf, P. (2016, December 6). The Boston Consulting Group. Retrieved January 4, 2017, from
 https://www.bcgperspectives.com/content/articles/leaning-manufacturing-operations-factory-of-future/</small>
- 
+
 
 ### <u>Where machines could replace humans – and where they can’t (yet)</u>
 
 In the next decade, automation will affect almost all jobs to greater or lesser degrees and has the potential to transform the healthcare and finance sectors. This article discusses the potential of automation; the most “automatable activities”; activities and sectors in the middle range for automation and those with low technical potential for it; as well as the future ahead; and foresees people leading more automated enterprises.
 
 <small>Chui, M., Manyika, J.M. & Miremadi, M. (2016, July 2016). Where machines could replace humans – and where they can’t (yet). McKinsey Quarterly. Retrieved January 4, 2017, from http://www.mckinsey.com/business-functions/business-technology/our-insights/where-machines-could-replace-humans-and-where-they-cant-yet?cid=other-eml-alt-mkq-mck-oth-1607</small>
- 
+
 
 All rights reserved. National Library Board, 2017.
 

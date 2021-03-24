@@ -1,8 +1,9 @@
 ---
 title: Environment Champion
-permalink: /temp/environment-champion
+permalink: /guides/socialsciences-humanities/social-sciences/environment-champion
 breadcrumb: Environment Champion
-collection_name: temp
+collection_name: socsci-hum
+published: true
 ---
 
 ### <u>Guide Index</u>
@@ -29,7 +30,7 @@ This resource guide is specially compiled to assist teachers and students in the
 | Plastics Juvenile literature | 668.4 |
 | Bookbinding, Books Format, Handicraft Recycling (Waste, etc.)	| 686.3 |
 | Handicraft Juvenile literature, Gifts Juvenile literature, Salvage (Waste, etc.) Juvenile literature, Recycling (Waste, etc.) Juvenile literature | 745.5 |
- 
+
 
 ### <u>(a) Books and Online Resources</u>
 
@@ -44,101 +45,101 @@ This is a select list of books on the topic of recycling and the environment. Mo
 Call no.: J 333.72 ANT
 
 Discuses ten simple but significant lifestyles changes that can help keep the Earth clean, including eating vegetables, planting trees and recycling.
- 
+
 
 * Bolte, M. (2016). [Eco Gifts: Upcycled Gifts You Can Make](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201688759). North Mankato, Minnesota: Capstone Press. <br>
 Call no.: J 745.5 BOL
 
 This book provides step-by-step instructions, tips, and full-color photographs to create personalized presents from recycled materials.
- 
+
 
 * Brend, D., et. al. (2007). [Jazzy Jewelry](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12933274). London: Kingfisher. <br>
 Call no.: J 745.594 JAZ
 
 Handicraft for girls using recycled materials.
- 
+
 
 * De la Bédoyère, C. (2009). [The Science of a Piece of Paper](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13174440). Pleasantville, N.Y. : Gareth Stevens Pub. <br>
 Call no.: J 620.197 DEL
 
 Provides basic information on paper tracing from history to manufacturing process to the future scenario. Stress the importance of reduce, reuse and recycle.
- 
+
 
 * Enz, T. (2012). [Repurpose It](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14338089). North Mankato, Minn.: Capstone Press. <br>
 Call no.: J 600 ENZ
 
 Explains the principles of inventing and provides photo-illustrated instruction for making a variety of projects from recycle and reuse materials.
- 
+
 
 * Friday, M. (2012). [Green crafts: become an earth-friendly craft star, step by easy step!](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14450290) Irvine, CA: Walter Foster Pub. ; Mankato, Minn.: Distributed by Black Rabbit Books. <br>
 Call no.: J 745.593 FRI
 
 Contains step-by-step instructions for creating crafts using salvaged, including tote bags, vases, magnets and picture frames.
- 
+
 
 * Hardy, E. (2011). [Green crafts for children : 35 step-by-step projects using natural, recycled, and found materials](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14027050). London: Cico. <br>
 Call no.: J 745.5 HAR
 
 Hardy provides ideas with materials that are easily available for quick, easy and fun for the children and the adults to do the projects together.
- 
+
 
 * Jones, J. (2010). [Cool Crafts with Newspapers, Magazines, and Junk Mail](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13701605). Mankato, Minn.: Capstone Press. <br>
 Call no.: J 745.54 JON
 
 Step-by-step instructions for crafts made from old newspaper, magazines, and junk mail and information about reusing and recycling.
- 
+
 
 * Lim, A. (2014). [Recycling Crafts](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200567705). New York, NY: Gareth Stevens Publishing, 2014. <br>
 Call no.: J 745.5 LIM
 
 This recycling-based craft book provides ideas for making useful homemade creations like flower pots, bookends, a clock and more are included in this brilliant step-by-step book.
- 
+
 
 * Monaghan, K. (2007). [Organic Crafts](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12844162). Chicago, Ill.: Chicago Review Press. <br>
 Call no.: English 745.5 MON
 
 This ecofriendly craft title encourages children to explore the natural world through projects based on natural, nontoxic, and renewable materials.
- 
+
 
 * Nunn, D. (2012). [Old Clothes](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13986066). London: Raintree. <br>
 Call no.: JP 745.5 NUN
 
 Ideas for handicrafts using textile materials and other salvaged items.
- 
+
 
 * Owen, R. (2014). [Fun Fabrics](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200171442). Imprint:   New York: PowerKids Press. <br>
 Call no.: J 745.5 OWE
 
 Presents wide range of projects will allow young artists to explore their creativity with recycled fabric.
- 
+
 
 * Sirrine, C (2010). [Cool Crafts with Old T-shirts](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13569259). Mankato, Minn.: Capstone Press. <br>
 Call no.: J 745.5 SIR
 
 Step-by-step instructions for crafts made from old T-shirts and information about reusing and recycling.
- 
+
 
 * Sirrine, C. (2010). [Cool Crafts with Old Wrappers, Cans, and Bottles](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13569259). Mankato, Minn.: Capstone Press. <br>
 Call no.: J 745.5 SIR
 
 Step-by-step instructions for crafts made from everyday items and information about reusing and recycling
- 
+
 
 * Sullivan, S. W. (2009). [The Big Green Book of Recycled Crafts](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13220812). Little Rock, Ark.: Leisure Arts. <br>
 Call no.: 745.5 BIG \[REC\] Get ideas on recycle projects from paper, plastic, cans, glass, clothing, and other recyclables.
- 
+
 
 * Taylor, T. (2009). [Eco Books: inventive projects from the recycling bin](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13357365). New York, N.Y.: Lark Books. <br>
 Call no.: 686.3 TAY
 
 Some 40 innovative book-making ideas using recycled and green materials such as egg cartons, wood, beer cans, and cassette tapes morph into covers, while brown bags, coffee filters, and discarded newspapers are transformed into pages.
- 
+
 
 * Wold, L. G. (2010). [Recyclo-Gami](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14016712). Philadelphia: RP Teens. <br>
 Call no.: 745.58 WOL
 
 Recycle materials such as bits of paper, old yarn, cartons and containers can be used to make lovely crafts including dollhouse, purse and lots more.
- 
+
 
 **Books on Environment**
 
@@ -150,67 +151,67 @@ Books are often mainstays of resource guides as these provide introductory and c
 Call no.: 628.4458 GAR
 
 This book explores different methods for disposing garbage, the role of recycling in managing garbage, and how consumers can reduce the amount of waste produced.
- 
+
 
 * Brown, P. (2009). [The Curious Garden](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13180482). New York: Little, Brown. <br>
 Call no.: JP ENGLISH BRO
 
 Liam discovers a hidden garden and with careful tending spreads colour throughout the gray city.
- 
+
 
 * Chambers, C. (2015). [How Effective Is Recycling?](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201332936) Chicago, Illinois: Heinemann Raintree. <br>
 Call no.: J 363.72 CHA
 
 Chambers examines recycling of water, plastics and food process and the effectiveness.
- 
+
 
 * Ditchfield, C. (2012). [The Story Behind Plastic](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14094744). Chicago, Ill.: Heinemann Library. <br>
 Call no.: J 668.4 DIT
 
 Discover everything about composition and recycling of plastics and Teflon and explore the secrets of true stories about them.
- 
+
 
 * Flounders, A. (2014). [Friends In The Wild](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200186846). South Egremont, MA : Red Chair Press. <br>
 Call no.: J 577 FLO
 
 The author emphasizes on the important of biodiversity, natural homes of various animals and ideas on preservation and protection of natural environment.
- 
+
 
 * Flounders, A. (2014). [Healthy Trees, Healthy Planet](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200187248). South Egremont, MA: Red Chair Press. <br>
 Call no.: J 582.16 FLO
 
 The author highlights the importance of trees in making earth and our environment healthy and includes step-by-step ideas to protect them.
- 
+
 
 * James, L. (2012). [Where Does the Garbage Go?](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14381805) New York: Gareth Stevens Pub. <br>
 Call no.: JP 363.7282 JAM
 
 Explores what happens to garbage after it has been picked up by the garbage truck and discusses ways garbage is used for energy.
- 
+
 
 * Klein, A. (2012). [Save the Earth!](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14305103) New York: Scholastic Inc. <br>
 Call no.: JS ENGLISH KLE
 
 Celebrate Earth Day, Freddie’s first grade class participates in a “go green” challenge where they must complete ten planet-friendly activities by the end of the week.
- 
+
 
 * Koontz, R. M. (2011). [The Three Little Recyclers](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14227796). Vero Beach, Fla.: Rourke Pub. <br>
 Call no.: JP ENGLISH KHOO
 
 Recycling efforts through the swines characters.
- 
+
 
 * Shea, J. (2012). [Where Does the Recycling Go?](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14381807) New York: Gareth Stevens Pub. <br>
 Call no.: JP 628.4458 SHE
 
 Looks at the process of recycling and materials that can be recycled including glass and plastic.
- 
+
 
 * Weber, R. (2011). [Time to Recycle](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14090849). Mankato, Minn.: Capstone Press. <br>
 Call no.: JP 363.72 WEB
 
 Easy to read and full colour photos that explain about recycling.
- 
+
 
 **Ebook (eDatabases)**
 
@@ -219,17 +220,17 @@ Easy to read and full colour photos that explain about recycling.
 * Ackerman, F. (2013). Why Do We Recycle? Market, Values and Public Policy. Washington DC, US: Island Press. Retrieved March 23, 2017 from Proquest Ebook Central..
 
 Ackerman examines the arguments for and against recycling, focusing on the debate surrounding the use of economic mechanisms to determine the value of recycling.
- 
+
 
 * Denison, R., Ruston, J. & Environmental Defense Fund. (2012). Recycling and Incineration: Evaluating The Choices. Washington, US: Island Press. Retrieved March 23, 2017 from Proquest Ebook Central.
 
 Recycling and Incineration presents information on the technology, economics, environmental concerns, and legal intricacies behind recycling and incineration programs.
- 
+
 
 * Rau, D. M. (2012). Plastic. New York: Marshall Cavendish Benchmark, 2012. Retrieved March 23, 2017 from NetLibrary (eBooks on Ebscohost) database.
 
 Examines the use of plastic in everyday objects, its unique traits and qualities, and how it is processed to be useful to us. Rau discusses how plastic can be recycled to use again.
- 
+
 
 **Websites**
 
@@ -238,28 +239,28 @@ Examines the use of plastic in everyday objects, its unique traits and qualities
 * Cammarata, N. (2016). 6 Clever Recycled Crafts for Kids. Retrieved February12, 2016, from Better Homes & Gardens website: [http://www.bhg.com/crafts/kids/rainy-day/crafts-from-recycled-material/](http://www.bhg.com/crafts/kids/rainy-day/crafts-from-recycled-material/)
 
 Offers kids some ideas for making creative crafts from recycled materials.
- 
+
 
 * Craftbids.com. (2016). Retrieved February12, 2016, from Craftbids website: [http://www.craftbits.com/recycled-crafts](http://www.craftbits.com/recycled-crafts)
 
 This website provides step-by-step recycled craft projects like Halloween, Thanksgiving, Christmas and others.
- 
+
 
 * Disney Family recycle projects. (2016). Retrieved February12, 2016, from Disney website:
 [http://family.disney.com/recyclable-projects](http://family.disney.com/recyclable-projects)
 
 Disney teaches crafts and activities for kids of all ages from recycled materials.
- 
+
 
 * Planetspal recycle kids crafts. (2016). Retrieved February15, 2016, from Planetpals.com website: [http://www.planetpals.com/recycle_crafts_kids.html](http://www.planetpals.com/recycle_crafts_kids.html)
 
 Provides great earth day everyday paper crafts, beads, origami, print and play and recycle crafts.
- 
+
 
 * Recycle Now. Waste and Recycle Action Programme (WRAP). (2016).Retrieved February 16, 2016, from WRAP website: [http://www.recyclenow.com/schools/index.html](http://www.recyclenow.com/schools/index.html)
 
 Make wonderful, simple crafts with things found around the house.
- 
+
 
 ### <u>(b) Posters and Videos</u>
 
@@ -278,87 +279,87 @@ Source: [http://www.nea.gov.sg/docs/default-source/training-knowledge-hub/educat
 * Can Recycling Process. (no date). Retrieved February12, 2016, from National Environment Agency website: [http://www.nea.gov.sg/docs/default-source/training-knowledge-hub/educational-materials-and-exhibits/-wm2-can-recycling.jpg](http://www.nea.gov.sg/docs/default-source/training-knowledge-hub/educational-materials-and-exhibits/-wm2-can-recycling.jpg)
 
 Describes can recycling process workflow.
- 
+
 
 * Don’t Throw Away Our Future. Recycle Us. (no date). Retrieved February12, 2016, from National Environment Agency website: [http://www.nea.gov.sg/docs/default-source/training-knowledge-hub/educational-materials-and-exhibits/-wm5-don’t-throw-away-our-future.jpg](http://www.nea.gov.sg/docs/default-source/training-knowledge-hub/educational-materials-and-exhibits/-wm5-don’t-throw-away-our-future.jpg)
 
 Highlights items for recycling such as books, papers, glass, plastic, computers, metals, cans and bicycles.
- 
+
 
 * Glass Recycling Process. (no date). Retrieved February12, 2016, from National Environment Agency website: [http://www.nea.gov.sg/docs/default-source/training-knowledge-hub/educational-materials-and-exhibits/-wm4-glass-recycling.jpg](http://www.nea.gov.sg/docs/default-source/training-knowledge-hub/educational-materials-and-exhibits/-wm4-glass-recycling.jpg)
 
 Describes glass recycling process workflow.
- 
+
 
 * How Electric Generation Affects the Environment. (no date). Retrieved February12, 2016, from National Environment Agency website: [http://www.nea.gov.sg/docs/default-source/training-knowledge-hub/educational-materials-and-exhibits/-e2-how-electricity-generation-affects-the-environment.jpg](http://www.nea.gov.sg/docs/default-source/training-knowledge-hub/educational-materials-and-exhibits/-e2-how-electricity-generation-affects-the-environment.jpg)
 
 The poster includes Illustrations that explain generation of electricity and environment. Also includes tips for conserving energy. 
- 
+
 
 * How Much Longer Can Our Earth Hold? Conserve the Environment: Reduce, Reuse, Recycle Today. (no date). Retrieved February12, 2016, from National Environment Agency website: [http://www.nea.gov.sg/docs/default-source/training-knowledge-hub/educational-materials-and-exhibits/-wm6-how-much-longer-can-our-earth-hold.jpg](http://www.nea.gov.sg/docs/default-source/training-knowledge-hub/educational-materials-and-exhibits/-wm6-how-much-longer-can-our-earth-hold.jpg)
 
 Provides the message to reduce, reuse and recycle of all type of materials to conserve the environment.
- 
+
 
 * 1 Ton of Paper = 17 Trees. (no date). Retrieved February12, 2016, from National Environment Agency website: [http://www.nea.gov.sg/docs/default-source/training-knowledge-hub/educational-materials-and-exhibits/-wm7-1-ton-of-papers-=-17-trees.jpg](http://www.nea.gov.sg/docs/default-source/training-knowledge-hub/educational-materials-and-exhibits/-wm7-1-ton-of-papers-=-17-trees.jpg)
 
 Highlights how one can be environmental free by saving trees and reduce the consumption of papers.
- 
+
 
 * Paper recycling process. (no date). Retrieved February12, 2016, from National Environment Agency website: [http://www.nea.gov.sg/docs/default-source/training-knowledge-hub/educational-materials-and-exhibits/-wm1-paper-recycling.jpg](http://www.nea.gov.sg/docs/default-source/training-knowledge-hub/educational-materials-and-exhibits/-wm1-paper-recycling.jpg)
 
 Describes paper recycling process workflow.
- 
+
 
 * Plastic Recycling Process. (no date). Retrieved February12, 2016, from National Environment Agency website: [http://www.nea.gov.sg/docs/default-source/training-knowledge-hub/educational-materials-and-exhibits/-wm3-plastic-recycling.jpg](http://www.nea.gov.sg/docs/default-source/training-knowledge-hub/educational-materials-and-exhibits/-wm3-plastic-recycling.jpg)
 
 Describes plastic recycling process workflow.
- 
+
 
 * Recycle bins labels. (no date). Retrieved February12, 2016, from National Environment Agency website: [http://www.nea.gov.sg/docs/default-source/energy-waste/recycling-labels.jpg?sfvrsn=2](http://www.nea.gov.sg/docs/default-source/energy-waste/recycling-labels.jpg?sfvrsn=2)
 
 Recycle bins colour labels for glass, paper, plastic and metal.
- 
+
 
 * Recycling At Home. (no date). Retrieved February12, 2016, from National Environment Agency website: [http://www.nea.gov.sg/docs/default-source/energy-waste/recycling/recycling-at-home-flyer.pdf?sfvrsn=2](http://www.nea.gov.sg/docs/default-source/energy-waste/recycling/recycling-at-home-flyer.pdf?sfvrsn=2)
 
 A flyer in four languages – English, Chinese, Malay and Tamil explains on recycling at home.
- 
+
 
 * Singapore. Ministry of the Environment and Water Resources. (2017). Becoming a zero waste nation. Retrieved March 9, 2017, from Ministry of the Environment and Water Resources website: [http://www.mewr.gov.sg/about-us/our-organisation/committee-of-supply/becoming-a-zero-waste-nation#waste_infrastructure](http://www.mewr.gov.sg/about-us/our-organisation/committee-of-supply/becoming-a-zero-waste-nation#waste_infrastructure)
 
 Provided two articles: Making Recycling More Convenient that aim to achieve 30% domestic recycling rate by 2030 under the Sustainable Singapore Blueprint and Improving Waste Collection Infrastructure: As from 1 April 2018, new non-landed private residential developments with at least 500 dwelling units will need to be equipped with Pneumatic Waste Conveyance Systems (PWCS). PWCS reduces odour and pests, refuse truck traffic, manpower and time required for waste collection.
- 
+
 
 * Singapore Environment Council. (2016). Retrieved February12, 2016, from Singapore Environment Council website: [http://www.sec.org.sg/web/](http://www.sec.org.sg/web/)
 
 Briefly explains of the Singapore Environment Council (SEC) which was established in 1995 as to nurture, facilitate and co-ordinate environmental causes in Singapore.
- 
+
 
 * Switch Me Off. (no date). Retrieved February12, 2016, from National Environment Agency website: [http://www.nea.gov.sg/docs/default-source/training-knowledge-hub/educational-materials-and-exhibits/-e1-switch-me-off.jpg](http://www.nea.gov.sg/docs/default-source/training-knowledge-hub/educational-materials-and-exhibits/-e1-switch-me-off.jpg)
 
 A poster produced by NEA to educate consumers of good energy conservations habits.
- 
+
 
 * 3R Poster on Reduce, Reuse and Recycle. (no date). Retrieved February12, 2016, from National Environment Agency website: [http://www.nea.gov.sg/docs/default-source/energy-waste/recycling/3r-poster.pdf?sfvrsn=2](http://www.nea.gov.sg/docs/default-source/energy-waste/recycling/3r-poster.pdf?sfvrsn=2)
 
 Colour poster on 3R – Reduce, Reuse and Recycle with interesting illustration.
- 
+
 
 * The 3Rs: A guide to 3R Practices for Households. (no date). Retrieved February12, 2016, from National Environment Agency website: [http://www.nea.gov.sg/docs/default-source/energy-waste/a-guide-to-3r-practices-for-households.pdf?sfvrsn=2](http://www.nea.gov.sg/docs/default-source/energy-waste/a-guide-to-3r-practices-for-households.pdf?sfvrsn=2)
 
 A consumer education initiative by Singapore Packaging Agreement on 3R practices for households.
- 
+
 
 * Waste Minimisation & Recycling. (2013).Retrieved February12, 2016, from National Environment Agency website: [http://www.nea.gov.sg/docs/default-source/training-knowledge-hub/-ex-wr1-waste-minimisation-(single-sided-pullup).pdf](http://www.nea.gov.sg/docs/default-source/training-knowledge-hub/-ex-wr1-waste-minimisation-(single-sided-pullup).pdf)
 
 Display Waste Management single pull up banner – why let packaging go to waste? – Paper, Metal, Plastic and Glass.
- 
+
 
 * WRAP. Recycle now: What to do with Clothing & textiles, Electrical items, Furniture, Medicines, Plastic bottles and Plastic films. (2016). Retrieved February12, 2016, from WRAP website: [https://www.recyclenow.com/what-to-do-with](https://www.recyclenow.com/what-to-do-with)
 
 Guide to recycle of Clothing & textiles, Electrical items, Furniture, Medicines, Plastic bottles and Plastic films.
- 
+
 
 **Videos**
 
@@ -369,7 +370,7 @@ Guide to recycle of Clothing & textiles, Electrical items, Furniture, Medicines,
 * [RecycleNowCampaign](https://www.youtube.com/user/RecycleNowCampaign). (2009, November 17). UK: Recycle Now. Retrieved February 12, 2016, from website: https://www.youtube.com/user/RecycleNowCampaign
 
 A collection of animation videos on recycling process of papers, plastics, food waste, furniture and others.
- 
+
 
 * Recycle Now. (2015, June 19). Recycling around the home. [Video File]. Retrieved February12, 2016, from website: https://youtu.be/sLktjtlXCNo
 
@@ -432,27 +433,27 @@ Browse these websites for more resources on the subject of saving the environmen
 * EPA for kids. (2016, January 27). Retrieved February 16, 2016, from the Environmental Protection Agency, United States website: [http://www.epa.gov/students/games.html](http://www.epa.gov/students/games.html)
 
 Play games and find other activities to play online, including crossword puzzles and word searches.
- 
+
 
 * Kid’sAir. (2015, August 25).Retrieved February 16, 2016, from AirNow.gov, United States website: [http://www.airnow.gov/index.cfm?action=aqikids_home.index](http://www.airnow.gov/index.cfm?action=aqikids_home.index)
 
 Provides Air Quality Index (AQI) information and how it is measured for kids from kindergarten, first grade and ages 7-10.
- 
+
 
 * National Geographic for Kids. (2016). Retrieved February 16, 2016, from NG Kids website: [http://kids.nationalgeographic.com/kids/stories/](http://kids.nationalgeographic.com/kids/stories/)
 
 This website inspires young adventurers to explore the world through award-winning magazines, books, apps, games, toys, videos, events, and a website on national geography.
- 
+
 
 * PBS Kids – The Environment. (2016). Retrieved February 16, 2016, from Public Broadcasting Service website: [http://www.pbs.org/wgbh/americanexperience/features/content/environment-kids/](http://www.pbs.org/wgbh/americanexperience/features/content/environment-kids/)
 
 PBS KIDS provides the quality programming and learning environment for children to stimulate their curiosity, encourage interaction and foster their imagination.
- 
+
 
 * 7 Big Ideas. (2016). Retrieved February 16, 2016, from The Green website: [http://www.meetthegreens.org/episode3/](http://www.meetthegreens.org/episode3/)
 
 Presents animated video which cover on 7 big ideas on Reduce Reuse, Conserve, Rethink, Imagine, Discover and Recycle.
- 
+
 
 
 **Lesson Plans**
@@ -462,7 +463,7 @@ Websites from the BBC, Waste and Resources Action Programme (WRAP) and Environme
 (listed in alphabetical order)
 
 * Environmental Protection Agency. (2015, December 28).Retrieved February 16, 2016, from Environmental Protection Agency, United States website: [http://www.epa.gov/students/teachers.html](http://www.epa.gov/students/teachers.html)
- 
+
 
 * Saving Waste by BBC. (2014, October 20).Retrieved February 16, 2016, from BBC Home website: [http://www.bbc.co.uk/schools/teachers/environment/lesson_plan_ks2.shtml](http://www.bbc.co.uk/schools/teachers/environment/lesson_plan_ks2.shtml) 
 
@@ -476,22 +477,22 @@ Learn through these interactive e-game and multimedia quiz suitable for children
 * Alliant Energy Kids. (2015, December 31). Retrieved February 16, 2016, from Alliant Energy Kids website: [http://www.alliantenergykids.com/FunandGames/OnlineGames/index.htm](http://www.alliantenergykids.com/FunandGames/OnlineGames/index.htm)
 
 Learn about the concept of energy – resources, conservation and safety tips through games.
- 
+
 
 * Captain Busta: resources for primary school children. (2016). Retrieved February 16, 2016, from Recycle Now website: [http://www.recyclenow.com/recycle/school/primary-school-resources/busta](http://www.recyclenow.com/recycle/school/primary-school-resources/busta)
 
 This is part of the Recycle Now for schools. It is supported by WRAP.
- 
+
 
 * JimmyFish – the Game. (2013).Retrieved February 16, 2016, from ConnexionSG website: [http://www.connexion.sg/web/guest/resources;jsessionid=D4C8AFDA42E2F67B24B40A2ECE9A6C75.ne_portal2?p_p_id=20&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_20_struts_action=/document_library/view_file_entry&_20_folderId=10520&_20_name=DLFE-11406.swf](http://www.connexion.sg/web/guest/resources;jsessionid=D4C8AFDA42E2F67B24B40A2ECE9A6C75.ne_portal2?p_p_id=20&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_20_struts_action=/document_library/view_file_entry&_20_folderId=10520&_20_name=DLFE-11406.swf)
 
 Save Jimmy, Save the Earth” – in this adventure, follow Jimmy in his journey to save power and water! This interactive game is accessible via Connexion.sg website
- 
+
 
 * Super Recycler. (2016).Retrieved February 16, 2016, from WRAP website: [http://games.wrap.org.uk/superrecycler/Game.swf?attredirects=0](http://games.wrap.org.uk/superrecycler/Game.swf?attredirects=0)
 
 This is part of the Recycle Now! for schools. It is supported by WRAP
- 
+
 
 * The Groovy Garden. (2016).Retrieved February 16, 2016, from WGBH Educational Foundation website: [http://pbskids.org/arthur/games/groovygarden/index.html](http://pbskids.org/arthur/games/groovygarden/index.html)
 

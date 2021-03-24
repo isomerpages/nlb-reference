@@ -4,6 +4,7 @@ permalink: /guides/singapore/people/lee-dai-sor/
 breadcrumb: Lee Dai Sor
 collection_name: singapore-people
 third_nav_title: People
+published: true
 ---
 
 ### <u>Guide Index</u>

@@ -1,9 +1,10 @@
 ---
 title: Innovation
-permalink: /literature/curatedreads/values/innovation
+permalink:/business/innovation/innovation
 breadcrumb: Curated Reads - Innovation
 collection_name: literature
 third_nav_title: Skills
+published: true
 ---
 
 Innovation in the workplace refers to the exploitation of new ideas so as to  create a profitable outcome. In today’s marketplace where competition is at an all-time high, innovation is seen as a key ingredient for companies to keep up or to tap into unexplored opportunities. Unfortunately, many leaders do not innovate because they do not think it is their job to do so. Successful organisations do not depend on a small group of people to innovate. Rather, they create a culture in which every employee is encouraged and empowered to innovate. Ready to adopt this approach? Here are some resources to help you understand this important skill.

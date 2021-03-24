@@ -1,9 +1,10 @@
 ---
 title: Sastera Melayu Singapura - Cerpen
-permalink: /arts/literaryarts/sasteramelayusingapura/cerpen
+permalink: /guides/arts/literaryarts/sasteramelayusingapura/cerpen
 breadcrumb: Sastera Melayu Singapura - Cerpen
 collection_name: arts
 third_nav_title: Bibliografi Sastera Melayu Singapura
+published: true
 ---
 
 ## **Cerpen**
@@ -503,7 +504,7 @@ Singapore: Siti Hanifah Abdul Karim.
 Suratman Markasan. (2015). Dari Perang Datang Sampai Kamoe San Masuk Melayu: Kumpulan Cerpen.
 Kuala Lumpur: Dewan Bahasa dan Pustaka.
 (RSING 899.283 SUR)
- 
+
 
 ### <u>Accessing National Library Board Singapore Resources</u></h3>
 

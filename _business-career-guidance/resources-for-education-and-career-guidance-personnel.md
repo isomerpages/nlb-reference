@@ -1,8 +1,9 @@
 ---
 title: Resources for Education and Career Guidance personnel
-permalink: /temp/resources-for-education-and-career-guidance-personnel
+permalink: /guides/business/career-guidance/resources-for-education-and-career-guidance-personnel
 breadcrumb: Resources for Education and Career Guidance personnel
-collection_name: temp
+collection_name: business
+published: true
 ---
 
 
@@ -136,13 +137,13 @@ This book details an easy-to-follow road map for families, school counselors and
 https://www.education.gov.au/information-career-practitioners
 
 This website provides information on career practitioner resources for career advisers in schools, universities and Technical and Further Education (TAFEs), Vocational education and Training (VET) teachers and coordinators, counsellors and those operating in community-based organisations. It also provides employment related programmes which can be downloaded. In addition, there are links provided to career practitioner associations in Australia.
- 
+
 
 * National Career Development Association. (2017, June 23). [Internet sites for career planning](https://www.ncda.org/aws/NCDA/pt/sp/resources). Retrieved 2 July, 2018, from National Career Development Association website: <br>
 https://www.ncda.org/aws/NCDA/pt/sp/resources
 
 The site offers resources on career development that are useful for career counsellors, coaches, and specialists. Resource topics covered include Self-Assessment, General Occupational Information, Industry and Occupation-Specific Information, Education Topics and Employment Trends.
- 
+
 
 ### <u>Databases</u>
 
@@ -151,7 +152,7 @@ The site offers resources on career development that are useful for career couns
 * Bowers, H., Lemberger-Truelove, M., & Brigman, G. (2018). A social-emotional leadership framework for school counselors. Professional School Counseling, 21(1), 1-10. Retrieved October 5, 2018, from ProQuest Central.
 
 Discover the leadership approaches of school counselors in keeping the delicate balance between responding to the complex needs of others and one’s own priorities and capacities as a school leader. The Social-emotional learning framework (SEL) requires school counselors to maintain the integrity of their own social-emotional experiences while supporting those of others thus leading to improved school counseling practices and outcomes.
- 
+
 
 * Lomako, G., Coward, V., & Ifill, A. (2018). How to become happy – provide students with the skills they need. The Business & Management Review, 9(3) 291-295. Retrieved October 5, 2018, from ProQuest Central.
 

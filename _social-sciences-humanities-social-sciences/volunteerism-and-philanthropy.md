@@ -2,6 +2,7 @@
 layout: post
 title:  Volunteerism and Philanthropy
 permalink: /guides/budget2017/volunteerism-and-philanthropy
+published: false
 ---
 
 ### <u>Guide Index</u>
@@ -32,7 +33,7 @@ Philanthropic culture is making progress in Europe. German foundations spent €
 
 <small>A flourishing European philanthropy sector. (2015, July). Foundation de France. Retrieved December 21, 2016, from
 http://fdnweb.org/ffdf/files/2014/09/philanthropy-in-europe-2015-summary.pdf</small>
- 
+
 
 ### <u>CAF world giving index 2015: A global view of giving trends</u>
 
@@ -40,7 +41,7 @@ This index gives “an insight into the nature and scope of giving around the wo
 
 <small>CAF world giving index 2015: A global view of giving trends. (2015, November). Charities Aid Foundation. Retrieved December 21, 2016, from
 https://www.cafonline.org/docs/default-source/about-us-publications/caf_worldgivingindex2015_report.pdf?sfvrsn=2</small>
- 
+
 
 ### <u>Spotlight series: Employee engagement</u>
 
@@ -48,7 +49,7 @@ Engaging employees in corporate giving is effective in inculcating a spirit of g
 
 <small>Spotlight series: Employee engagement. (2016, August). Company of Good. Retrieved December 21, 2016, from
 https://companyofgood.sg/media/resources/spotlight-on-employee-engagement.pdf?t=1476170630</small>
- 
+
 
 ### <u>Case Study</u>
 
@@ -95,7 +96,7 @@ Cheque and direct debits were most popular modes of giving among older givers wh
 
 <small>UK giving 2015: An overview of charitable giving in the UK during 2015. (2016, May). Charities Aid Foundation. Retrieved December 21, 2016, from
 https://www.cafonline.org/docs/default-source/personal-giving/caf_ukgiving2015_1891a_web_230516.pdf?sfvrsn=2</small>
- 
+
 
 ### <u>Commissioner of Charities annual report for the year ended 31 December 2015</u>
 
@@ -103,7 +104,7 @@ Tax deductible donations in Singapore saw an increase of 24 percent, from S$1.1 
 
 <small>Commissioner of Charities annual report for the year ended 31 December 2015. (2016, August). Ministry of Culture, Community and Youth. Retrieved December 21, 2016, from
 http://www.parliament.gov.sg/lib/sites/default/files/paperpresented/pdf/2015/S.104of2016.pdf</small>
- 
+
 
 ### <u>Enhanced tax deduction to promote philanthropy and volunteerism</u>
 
@@ -111,7 +112,7 @@ Business and Institution of a Public Character (IPC) Partnership Scheme (BIPS) w
 
 <small>Enhanced tax deduction to promote philanthropy and volunteerism. (2016, September). PricewaterhouseCoopers. Retrieved December 21, 2016, from
 https://www.pwc.com/sg/en/tax-bulletin/assets/taxbulletin20160913.pdf</small>
- 
+
 
 All rights reserved. National Library Board, 2016
 

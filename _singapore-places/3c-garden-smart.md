@@ -1,10 +1,10 @@
 ---
 title: Garden Smart
-permalink: /category/singaporeandsoutheastasia/garden-smart
+permalink: /guides/singapore/places/garden-smart
 breadcrumb: Garden Smart
 collection_name: singapore-places
 third_nav_title: Places
-published: false
+published: true
 ---
 
 ### <u>Guide Index</u>

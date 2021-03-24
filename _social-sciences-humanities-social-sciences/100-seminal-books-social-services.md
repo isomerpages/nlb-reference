@@ -1,9 +1,10 @@
 ---
 title: 100 Seminal Books Social Services 
-permalink: /temp/100seminalbooks/social-services
+permalink: /guides/socialsciences-humanities/social-sciences/100seminalbooks/social-services
 breadcrumb: 100 Seminal Books Social Services 
-collection_name: temp
-# third_nav_title: 100 Seminal Books
+third_nav_title: 100 Seminal Books
+collection_name: socsci-hum
+published: true
 ---
 
 ### <u>Guide Index</u>

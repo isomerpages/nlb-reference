@@ -4,6 +4,7 @@ permalink: /guides/singapore/people/tan-chay-yan/
 breadcrumb: Tan Chay Yan
 collection_name: singapore-people
 third_nav_title: People
+published: true
 ---
 
 ### <u>Guide Index</u>

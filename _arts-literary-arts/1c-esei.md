@@ -1,9 +1,10 @@
 ---
 title: Sastera Melayu Singapura - Esei
-permalink: /arts/literaryarts/sasteramelayusingapura/esei
+permalink: /guides/arts/literaryarts/sasteramelayusingapura/esei
 breadcrumb: Sastera Melayu Singapura - Esei
 collection_name: arts
 third_nav_title: Bibliografi Sastera Melayu Singapura
+published: true
 ---
 
 ## **Cerpen**
@@ -26,11 +27,11 @@ third_nav_title: Bibliografi Sastera Melayu Singapura
 The National Library has compiled a set of bibliographies on Singapore Literature that covers works published in English, Chinese, Malay and Tamil. These provide a comprehensive listing of literary works by Singapore writers and Singapore literature over the past 50 years from 1965 to 2015. The bibliographies have been updated from the original print versions to include works published from 2010 to 2015. The full listing of works including titles of newspapers and literary periodicals in the four languages can be easily accessed through the Resource Guides platform. More information about the specific language bibliographies including scope and coverage can be found in the respective Singapore Literature Resource Guides.
 
 ![banner image](/images/arts/literaryarts/melayusingapura/SGLitbibliobannerML.jpg)
- 
+
 
 | **Search Terms** | **Call Numbers** |
 | Malay Literature – History and criticism | 899.23009 |
- 
+
 
 ### <u>Mukaddimah</u>
 Bibliografi Sastera Melayu Singapura (1965-2009) menghimpunkan bahan-bahan karya para penulis Singapura sama ada yang diterbitkan di dalam atau luar negara dan juga karya-karya yang diterbitkan di Singapura dari tahun 1965 – 2015. Ini termasuk novel, koleksi puisi, cerpen, drama dan esei dalam bentuk buku. Kami hanya mengumpulkan bahan-bahan yang terdapat di dalam koleksi Perpustakaan Negara Singapura.
@@ -414,7 +415,7 @@ Juffri Bin Supa’at
 Saliyah Sapeon
 Sukinah Suradi
 
- 
+
 The information in this resource guide is valid as at Feb 2017 and correct as far as we are able to ascertain from our sources. It is not intended to be an exhaustive or complete history on the subject. Please contact the Library for further reading materials on the topic.
 
 All Rights Reserved. National Library Board Singapore 2017.
