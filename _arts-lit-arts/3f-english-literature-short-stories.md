@@ -2,7 +2,7 @@
 title: Short Stories
 permalink: /guides/arts/literaryarts/singaporeenglishliterature/short-stories
 breadcrumb: English Literature - Short Stories
-collection_name: arts
+collection_name: arts-lit-arts
 third_nav_title: Singapore Literature in English 
 published: true
 ---

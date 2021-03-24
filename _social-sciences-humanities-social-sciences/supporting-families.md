@@ -2,7 +2,7 @@
 title: Supporting Families
 permalink: /guides/socialsciences-humanities/social-sciences/supporting-families
 breadcrumb: Supporting Families
-collection_name: socsci-hum
+collection_name: social-sciences-humanities-social-sciences
 published: true
 ---
 

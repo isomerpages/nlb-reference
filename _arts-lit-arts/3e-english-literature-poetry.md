@@ -2,7 +2,7 @@
 title: Poetry
 permalink: /guides/arts/literaryarts/singaporeenglishliterature/poetry
 breadcrumb: English Literature - Poetry
-collection_name: arts
+collection_name: arts-lit-arts
 third_nav_title: Singapore Literature in English 
 published: true
 ---

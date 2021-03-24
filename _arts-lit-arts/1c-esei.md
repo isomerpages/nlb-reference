@@ -2,7 +2,7 @@
 title: Sastera Melayu Singapura - Esei
 permalink: /guides/arts/literaryarts/sasteramelayusingapura/esei
 breadcrumb: Sastera Melayu Singapura - Esei
-collection_name: arts
+collection_name: arts-lit-arts
 third_nav_title: Bibliografi Sastera Melayu Singapura
 published: true
 ---

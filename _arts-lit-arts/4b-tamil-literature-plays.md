@@ -2,7 +2,7 @@
 title: நாடகங்கள்
 permalink: /guides/arts/literaryarts/singaporetamilliterature/plays
 breadcrumb: சிங்கப்பூர்த் தமிழ் இலக்கியம் – நாடகங்கள்
-collection_name: arts
+collection_name: arts-lit-arts
 third_nav_title: சிங்கப்பூர்த் தமிழ் இலக்கியம்
 published: true
 ---

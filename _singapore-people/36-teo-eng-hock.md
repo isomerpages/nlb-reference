@@ -3,7 +3,7 @@ title: Teo Eng Hock 张永福
 permalink: /guides/singapore/people/teo-eng-hock/
 breadcrumb: Teo Eng Hock
 collection_name: singapore-people
-third_nav_title: People
+third_nav_title: T - Z
 published: true
 ---
 

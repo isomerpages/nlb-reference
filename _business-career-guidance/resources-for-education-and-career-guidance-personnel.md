@@ -2,7 +2,7 @@
 title: Resources for Education and Career Guidance personnel
 permalink: /guides/business/career-guidance/resources-for-education-and-career-guidance-personnel
 breadcrumb: Resources for Education and Career Guidance personnel
-collection_name: business
+collection_name: business-career-guidance
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: Business Resource Guide
 permalink: /guides/business/management/business-resource-guide
 breadcrumb: Business Resource Guide
-collection_name: business
+collection_name: business-management
 published: true
 ---
 

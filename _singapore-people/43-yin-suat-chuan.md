@@ -3,7 +3,7 @@ title: Yin Suat Chuan 殷雪村
 permalink: /guides/singapore/people/yin-suat-chuan/
 breadcrumb: Yin Suat Chuan
 collection_name: singapore-people
-third_nav_title: People
+third_nav_title: T - Z
 published: true
 ---
 

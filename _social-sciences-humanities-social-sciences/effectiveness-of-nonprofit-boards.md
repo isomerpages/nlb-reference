@@ -2,7 +2,7 @@
 title: Effectiveness of Nonprofit Boards
 permalink: /guides/socialsciences-humanities/social-sciences/effectiveness-of-nonprofit-boards
 breadcrumb: Effectiveness of Nonprofit Boards
-collection_name: socsci-hum
+collection_name: social-sciences-humanities-social-sciences
 published: true
 ---
 

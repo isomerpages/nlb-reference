@@ -2,7 +2,7 @@
 title: Education and Career Guidance Resources for Students (Primary)
 permalink: /guides/business/career-guidance/education-and-career-guidance-resources-for-students-primary
 breadcrumb: Education and Career Guidance Resources for Primary Students
-collection_name: business
+collection_name: business-career-guidance
 published: true
 ---
 

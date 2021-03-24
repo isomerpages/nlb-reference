@@ -3,7 +3,7 @@ title: Tan Yeok Seong 陈育崧
 permalink: /guides/singapore/people/tan-yeok-seong/
 breadcrumb: Tan Yeok Seong
 collection_name: singapore-people
-third_nav_title: People
+third_nav_title: T - Z
 published: true
 ---
 

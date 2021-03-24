@@ -2,7 +2,7 @@
 title: Lim Tze Peng
 permalink: /guides/arts/visual-arts/lim-tze-peng
 breadcrumb: Lim Tze Peng
-collection_name: arts
+collection_name: arts-visual-arts
 third_nav_title: Visual Arts
 published: true
 ---

@@ -3,6 +3,7 @@ title: Tan Kim Ching 陈金钟
 permalink: /guides/singapore/people/tan-kim-ching/
 breadcrumb: Tan Kim Ching
 collection_name: singapore-people
+third_nav_title: T - Z
 published: true
 ---
 

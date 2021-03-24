@@ -2,7 +2,7 @@
 title: கட்டுரைகள், ஆய்வுக் கட்டுரைகள்
 permalink: /guides/arts/literaryarts/singaporetamilliterature/articles-and-research
 breadcrumb: சிங்கப்பூர்த் தமிழ் இலக்கியம் – கட்டுரைகள், ஆய்வுக் கட்டுரைகள்
-collection_name: arts
+collection_name: arts-lit-arts
 third_nav_title: சிங்கப்பூர்த் தமிழ் இலக்கியம்
 published: true
 ---

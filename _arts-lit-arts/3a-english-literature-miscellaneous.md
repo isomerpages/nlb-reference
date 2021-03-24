@@ -2,7 +2,7 @@
 title: Miscellaneous
 permalink: /guides/arts/literaryarts/singaporeenglishliterature/miscellaneous
 breadcrumb: English Literature - Miscellaneous
-collection_name: arts
+collection_name: arts-lit-arts
 third_nav_title: Singapore Literature in English
 published: true
 ---

@@ -25,6 +25,12 @@ collections:
     output: true
   arts:
     output: true
+  arts-lit-arts:
+    output: true
+  arts-performing-arts:
+    output: true
+  arts-visual-arts:
+    output: true
   database:
     output: true
   category:
@@ -40,6 +46,12 @@ collections:
   Singapore:
     output: true
   business:
+    output: true
+  business-career-guidance
+    output: true
+  business-innovation:
+    output: true
+  business-management:
     output: true
   temp:
     output: true

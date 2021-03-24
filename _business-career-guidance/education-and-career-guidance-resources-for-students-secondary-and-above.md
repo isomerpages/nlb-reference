@@ -2,7 +2,7 @@
 title: Education and Career Guidance Resources for Students (Secondary & Above)
 permalink: /guides/business/career-guidance/education-and-career-guidance-resources-for-students-secondary-and-above
 breadcrumb: Education and Career Guidance Resources for Secondary Students
-collection_name: business
+collection_name: business-career-guidance
 published: true
 ---
 

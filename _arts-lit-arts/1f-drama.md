@@ -2,7 +2,7 @@
 title: Sastera Melayu Singapura - Drama
 permalink: /guides/arts/literaryarts/sasteramelayusingapura/drama
 breadcrumb: Sastera Melayu Singapura - Drama
-collection_name: arts
+collection_name: arts-lit-arts
 third_nav_title: Bibliografi Sastera Melayu Singapura
 published: true
 ---

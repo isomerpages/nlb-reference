@@ -2,7 +2,7 @@
 title: Drama
 permalink: /guides/arts/literaryarts/singaporeenglishliterature/drama
 breadcrumb: English Literature - Drama
-collection_name: arts
+collection_name: arts-lit-arts
 third_nav_title: Singapore Literature in English 
 published: true
 ---

@@ -3,7 +3,7 @@ title: Tso Ping Lung 左秉隆
 permalink: /guides/singapore/people/tso-ping-lung/
 breadcrumb: Tso Ping Lung
 collection_name: singapore-people
-third_nav_title: People
+third_nav_title: T - Z
 published: true
 ---
 

@@ -2,8 +2,8 @@
 title: Innovation
 permalink:/business/innovation/innovation
 breadcrumb: Curated Reads - Innovation
-collection_name: literature
-third_nav_title: Skills
+collection_name: business-innovation
+#third_nav_title: Skills
 published: true
 ---
 

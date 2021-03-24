@@ -3,7 +3,7 @@ title: Tchang Ju Chi 张汝器
 permalink: /guides/singapore/people/tchang-ju-chi/
 breadcrumb: Tchang Ju Chi
 collection_name: singapore-people
-third_nav_title: People
+third_nav_title: T - Z
 published: true
 ---
 

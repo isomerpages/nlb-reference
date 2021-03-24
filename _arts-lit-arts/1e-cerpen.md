@@ -2,7 +2,7 @@
 title: Sastera Melayu Singapura - Cerpen
 permalink: /guides/arts/literaryarts/sasteramelayusingapura/cerpen
 breadcrumb: Sastera Melayu Singapura - Cerpen
-collection_name: arts
+collection_name: arts-lit-arts
 third_nav_title: Bibliografi Sastera Melayu Singapura
 published: true
 ---

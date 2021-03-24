@@ -2,7 +2,7 @@
 title: The Substation Donor Collection
 permalink: /guides/arts/performing-arts/the-substation-donor-collection
 breadcrumb: The Substation Donor Collection
-collection_name: arts
+collection_name: arts-performing-arts
 third_nav_title: Performing Arts
 published: true
 ---

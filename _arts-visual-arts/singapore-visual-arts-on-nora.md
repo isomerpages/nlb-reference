@@ -2,7 +2,7 @@
 title: Singapore Visual Arts on NORA
 permalink: /guides/arts/visual-arts/singapore-visual-arts-on-nora
 breadcrumb: Singapore Visual Arts on NORA
-collection_name: arts
+collection_name: arts-visual-arts
 published: true
 ---
 

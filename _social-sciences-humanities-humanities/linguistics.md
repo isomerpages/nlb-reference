@@ -2,7 +2,7 @@
 title: Linguistics
 permalink: /guides/socialsciences-humanities/humanities/linguistics
 breadcrumb: Linguistics
-collection_name: socsci-hum
+collection_name: social-sciences-humanities-humanities
 published: true
 ---
 

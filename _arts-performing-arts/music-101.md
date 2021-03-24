@@ -2,7 +2,7 @@
 title: Music 101
 permalink: /guides/arts/performing-arts/music-101
 breadcrumb: Music 101
-collection_name: arts
+collection_name: arts-performing-arts
 published: true
 ---
 

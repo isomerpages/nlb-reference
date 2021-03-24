@@ -2,7 +2,7 @@
 title: Leong Yoon Pin
 permalink: /guides/arts/performing-arts/leong-yoon-pin
 breadcrumb: Leong Yoon Pin
-collection_name: arts
+collection_name: arts-performing-arts
 third_nav_title: Performing Arts
 ---
 

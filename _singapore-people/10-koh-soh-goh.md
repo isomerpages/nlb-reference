@@ -3,7 +3,7 @@ title: Koh Soh Goh 许甦吾
 permalink: /guides/singapore/people/goh-siew-tin/
 breadcrumb: Koh Soh Goh
 collection_name: singapore-people
-third_nav_title: People
+third_nav_title: I - S
 published: true
 ---
 

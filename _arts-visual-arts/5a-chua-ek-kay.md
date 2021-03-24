@@ -2,7 +2,7 @@
 title: Chua Ek Kay
 permalink: /guides/arts/visual-arts/chua-ek-kay
 breadcrumb: Chua Ek Kay
-collection_name: arts
+collection_name: arts-visual-arts
 third_nav_title: Visual Arts
 ---
 

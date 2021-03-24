@@ -1,72 +1,62 @@
 ---
-title: Lee Choon Seng 李俊承
-permalink: /guides/singapore/people/lee-choon-seng/
-breadcrumb: Lee Choon Seng
+title: Lee Dai Sor 李大傻
+permalink: /guides/singapore/people/lee-dai-sor/
+breadcrumb: Lee Dai Sor
 collection_name: singapore-people
-third_nav_title: People
+third_nav_title: I - S
 published: true
 ---
 
 ### <u>Guide Index</u>
 
 * [Introduction](#introduction)
-* [Selected books on Lee Choon Seng](#selected-books-on-lee-choon-seng)
-* [Selected works by Lee Choon Seng](#selected-works-by-lee-choon-seng)
-* [Selected newspaper articles on Lee Choon Seng](#selected-newspaper-articles-on-lee-choon-seng)
-* [Selected oral history interviews on Lee Choon Seng](#selected-oral-history-interviews-on-lee-choon-seng)
+* [Selected books on Lee Dai Sor](#selected-books-on-lee-dai-sor)
+* [Selected articles on Lee Dai Sor](#selected-articles-on-lee-dai-sor)
+* [Selected newspaper articles on Lee Dai Sor](#selected-newspaper-articles-on-lee-dai-sor)
+* [Selected oral history interview on Lee Dai Sor](#selected-oral-history-interview-on-lee-dai-sor)
 
 ### <u>Introduction</u>
 
-Lee Choon Seng (李俊承) (1888–1966) was a businessman, philanthropist and a prominent leader of the Hokkien community in Singapore. He founded several companies including Eng Hin Company and Thye Hong Biscuit and was also one of the founders of the Singapore Buddhist Lodge. Lee also held leadership roles in various Chinese community organisations such as the Singapore Chinese Chamber of Commerce and Industry, Singapore Hokkien Huay Kuan and Ee Hoe Hean Club. He also led the Chinese community in Singapore to raise support for the China Revolution led by Sun Yat Sen. Lee was the managing director of Ho Hong Bank and advocated the merger of the Chinese banks to form the Oversea Chinese Banking Corporation, which he later served as chairman. Lee passed away in August 1966 at 78.
+Lee Dai Sor (李大傻or 李福鸿) (1913 – 1989), or Lee Dai Soh, Li Da Sha, Lee Fook Hai or Lee Fook Hong, was a renowned Cantonese storyteller. His legacy began in 1938 when he joined Radio Televisyen Malaysia (RTM), a Malaysian public broadcaster. He hosted a Cantonese programme, Tam Tin Shuit Tei, which ran for more than 30 years. Lee’s career took off when Rediffusion began operations in Singapore in 1949. He was, however, affected when the Malaysian Radio and Television Corporation decided that he could not continue hosting their programmes because he was not a Malaysian citizen. The launch of the Speak Mandarin Campaign in 1979 dealt a further blow to his career when Rediffusion and the other local Singapore radio stations were directed to cease all dialect programmes by the end of 1982. Lee left broadcasting on 30 December 1982. He continued to entertain audiences with his storytelling performances at clan associations and public events. Lee passed away on 23 March 1989 at the age of 76.
 
  
 
-### <u>Selected books on Lee Choon Seng</u>
+### <u>Selected books on Lee Dai Sor</u>
 
-* 柯木林. (主编). [Ke, M. L. (Ed.).] (1995). [新华历史人物列传](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=85400628) [Who’s who in the Chinese community in Singapore]. 新加坡：教育出版公司, p. 47.
+* 李大傻 [Li, D. S.]. (1984). [《讲古的一生 : 李大傻自传》](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84473029) [His life as a storyteller: Lee Dai Sor autobiography]. 新加坡: 联邦出版社.
+Call no.: Chinese RSING 790.20924 LDS
+This autobiography of Lee Dai Sor was recorded and compiled through interviews conducted by Chen Huixian, a staff of Times Jurong and a fan of Lee’s storytelling. The book chronicles Lee’s life and experiences as a storyteller, with some mention of his family life.
+
+
+* Lo-Ang, S. G., & Chua, C. H. (1992). [Vanishing trades of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6313327). Singapore: Oral History Department, p. 49-51.
+Call no.: RSING 338.642095957 VAN
+This book features occupations that have vanished or are disappearing due to modernisation and changes in society. Lee Dai Sor is featured in the chapter “Master Storytellers” along with fellow veteran storyteller Lee Yong Khern. The chapter explains the demise of the storytelling trade, which had been normally conducted in dialect, with the promotion of the Speak Mandarin Campaign.
+
+
+* 柯木林. (主编). [Ke, M. L. (Ed.).] (1995). [《新华历史人物列传》](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=85400628) [Who’s who in the Chinese community in Singapore]. 新加坡：教育出版公司, p. 41.
 Call no.: RSING 959.570092 WHO-\[HIS\].
-The book contains the biographies of 1,175 Chinese personalities in Singapore, covering the period from 1819 to 1990. Each biography contains birth and death dates, dialect group, occupation and affiliated organisations of the Chinese personality. Lee Choon Seng’s biography is also included.
+The book contains the biographies of 1,175 Chinese personalities in Singapore, covering the period from 1819 to 1990. Each biography contains information on the birth and death dates, dialect group, occupation and affiliated organisations of the Chinese personality. Lee Dai Sor’s biography is also included.
+
+### <u>Selected articles on Lee Dai Sor</u>
+
+* National Library Board. (2007). Lee Dai Sor written by Chia, Joshua. Retrieved August 30, 2018, from Singapore Infopedia.
+This article traces the early life of Lee Dai Sor, his family and growing up years as well as his career as a storyteller in Singapore.
+
+### <u>Selected newspaper articles on Lee Dai Sor</u>
+
+* Liew, S. C. (1978, May 9). [The storyteller](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19780509-1.2.64). New Nation, pp. 10-11. Retrieved from NewspaperSG.
+This article traces Lee’s life and his career as a storyteller. It notes that Lee changed his name from Lee Fook Hong to Lee Dai Sor so that it could be remembered and easily distinguished by his listeners. Dai Sor is translated as “Big Fool” in English.
 
 
-* 方百成, 杜南发. (编委主任). [Fang, B. C. and Du, N. F. (Ed.).] (2012). [世界福建名人录, 新加坡编](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200125706). [Prominent figures of the world Fujian communities: Singapore]. 新加坡: 新加坡福建会馆, pp. 115 – 116.
-Call no.: RSING 920.05957 PRO
-The book contains the biographies of 155 Chinese Hokkien personalities in Singapore, covering the period from 1819 to 2012. Lee Choon Seng’s biography is also included, with details on his philanthropy work and leadership positions in different organisations.
+* [Obituary](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890324.2.49.3). (1989, March 24). The Straits Times, p. 38. Retrieved from NewspaperSG.
+This was an obituary of Lee Dai Sor, who passed away on 23 March 1989 at age 76. He was cremated at Mount Vernon Crematorium.
 
 
-### <u>Selected works by Lee Choon Seng</u>
-
-* 李俊承. [Lee, J. C.] (1940). [印度古佛国游记](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12688442) [Pilgrimage to India : the land of Buddha].
-Singapore: 佛教居士林.
-Call no.: RCLOS 915.4 LJC-\[HYT\].
-Written by Lee, this book records his pilgrimage to India in 1939. It includes images of temples and Buddhist figures in the cities he had visited in India, and includes the Chinese temple in Sarnath, which he had sponsored to be restored.
+* [《悼念李大傻》](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19890402-1.2.67.2.1) [Remembering Lee Dai Sor]. (1989, April 2).《联合早报》[Lianhe Zaobao], p. 37. Retrieved from NewspaperSG.
+An eulogy to Lee Dai Sor written by an acquaintance. The writer described Lee as a humorous storyteller and regarded him as the best in the trade in Southeast Asia.
 
 
-* 李俊承. [Lee, J. C.] (1949). [觉园集](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84551656). Singapore: –.
-Call no.: RCLOS C811.008 LCC
+### <u>Selected oral history interview on Lee Dai Sor</u>
 
-
-* 李俊承. [Lee, J. C.] (1956). [觉园续集](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12696590). Singapore: 李俊承.
-Call no.: RCLOS C811 LJC
-
-
-* 李俊承. [Lee, J. C.] (1964). [觉园诗存](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84550061). Singapore: -.
-Call no.: RCLOS C811 LCC
-
-
-* 李俊承. [Lee, J. C.] (-). [觉园玉屑](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84551520). Singapore: -.
-Call no.: RCLOS C811.008 LCC
-A series of self-published titles of Lee’s collection of poems. Each title starts with Jue Yuan, the esteemed name of Lee’s abode.
-
-### <u>Selected newspaper articles on Lee Choon Seng</u>
-
-* [Mr. Lee’s dream temple come true](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530804-1.2.72). (1953, August 4). The Straits Times, p. 5. Retrieved from NewspaperSG.
-Mr Lee founded and built Poh Ern Shih (Temple of Gratitude), a temple off Pasir Panjang Road, dedicated to the Chinese community that had cost $70,000 to build. Aside from the main hall, the temple also consists of a hall installed with the ancestral tablets of Lee’s family.
-
-
-* [Leading S’pore banker Lee dies at 82](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19660606-1.2.38). (1966, June 6). The Straits Times, p. 5. Retrieved from NewspaperSG.
-This article, published after the death of Lee, mentions his role as chairman of the board of directors of the Overseas-Chinese Banking Corporation and his various appointments in different companies and organisations. The article also mentioned the family he left behind – two wives, six sons, nine daughters, five sons-in-law, six daughters-in-law, 31 grandchildren and 11 great-grandchildren.
-
-### <u>Selected oral history interviews on Lee Choon Seng</u>
-
-* Lim, B. S. (Interviewer). (1991, May 2). Oral history interview with Dr David Chew Beng Hwee [Accession No. 003003, Reel 7 of 14]. Retrieved from National Archives of Singapore website: http://www.nas.gov.sg/archivesonline/
-An interview with Dr David Chew Beng Hwee. He recounted Lee Choon Seng’s contributions to Overseas Chinese Banking Corporation (OCBC) and during the Japanese Occupation.
+* Lye, S. C. (Interviewer). (2004, June 24). Oral history interview with Lee Swee Har @ Hong Wa 李瑞霞 [Accession No. 002851, reels 8-9, 12-14 of 17]. Retrieved from National Archives of Singapore website: http://www.nas.gov.sg/archivesonline/
+An interview with Lee Swee Har @ Hong Wa 李瑞霞, a disciple of Lee Dai Sor. In her interview, she spoke about Lee Dai Sor’s life, character, career and his popularity as a storyteller in Singapore.

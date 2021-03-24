@@ -2,7 +2,7 @@
 title: English Language
 permalink: /guides/socialsciences-humanities/humanities/english-language
 breadcrumb: English Language
-collection_name: socsci-hum
+collection_name: social-sciences-humanities-humanities
 published: true
 ---
 

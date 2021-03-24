@@ -2,7 +2,7 @@
 title: Poetry
 permalink: /guides/arts/literaryarts/singaporechineseliterature/poetry
 breadcrumb: Chinese Literature - Poetry
-collection_name: arts
+collection_name: arts-lit-arts
 third_nav_title: Bibliography of Singapore Chinese Literature
 published: true
 ---

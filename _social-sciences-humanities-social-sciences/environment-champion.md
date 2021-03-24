@@ -2,7 +2,7 @@
 title: Environment Champion
 permalink: /guides/socialsciences-humanities/social-sciences/environment-champion
 breadcrumb: Environment Champion
-collection_name: socsci-hum
+collection_name: social-sciences-humanities-social-sciences
 published: true
 ---
 

@@ -3,7 +3,7 @@ title: 100 Seminal Books Social Services
 permalink: /guides/socialsciences-humanities/social-sciences/100seminalbooks/social-services
 breadcrumb: 100 Seminal Books Social Services 
 third_nav_title: 100 Seminal Books
-collection_name: socsci-hum
+collection_name: social-sciences-humanities-social-sciences
 published: true
 ---
 

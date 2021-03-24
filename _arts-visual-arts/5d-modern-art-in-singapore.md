@@ -2,7 +2,7 @@
 title: Modern Art in Singapore
 permalink: /guides/arts/visual-arts/modern-art-in-singapore
 breadcrumb: Modern Art in Singapore
-collection_name: arts
+collection_name: arts-visual-arts
 third_nav_title: Visual Arts
 published: true
 ---
