@@ -22,7 +22,7 @@ published: true
 * [Accessing National Library Board Singapore Resources](#accessing-national-library-board-singapore-resources)
 * [Authors](#authors)
 
-### <u>Overview of the Singapore Literature Bibliographies (1965 – 2015)</u>
+### <u>Overview of the Singapore Literature Bibliographies (1965-2015)</u>
 
 The National Library has compiled a set of bibliographies on Singapore Literature that covers works published in English, Chinese, Malay and Tamil. These provide a comprehensive listing of literary works by Singapore writers and Singapore literature over the past 50 years from 1965 to 2015. The bibliographies have been updated from the original print versions to include works published from 2010 to 2015. The full listing of works including titles of newspapers and literary periodicals in the four languages can be easily accessed through the Resource Guides platform. More information about the specific language bibliographies including scope and coverage can be found in the respective Singapore Literature Resource Guides.
 
@@ -45,7 +45,7 @@ Maklumat mengakses bahan di Perpustakaan Rujukan Lee Kong Chian, Perpustakaan Ne
 
 Bahan-bahan di dalam bahasa Melayu yang mempunyai kod lokasi R, RSEA dan RSING boleh didapati di tingkat 9, manakala bahan-bahan yang mempunyai kod lokasi RCLOS boleh dirujuk di tingkat 11.
 
-### <u>1965 – 1970</u>
+### <u>1965-1970</u>
 
 Alwi Syeikh Alhady. (1965). Pahlawan Melayu (Hang Tuah-Hang Jebat) : lakonan sejarah.
 Singapura, Malaysia Publications.
@@ -69,7 +69,7 @@ Singapura, Pustaka Nasional.
 
  
 
-### <u> 1981-1990 </u>
+### <u> 1981-1990</u>
 
 Persatuan Kemuning Singapura. (1981). Teater: majalah triwulan.
 Singapore, Persatuan Kemuning Singapura.
@@ -97,7 +97,7 @@ Singapura, Perkumpulan Seni.
 
  
 
-### <u>1991 – 2000</u
+### <u>1991-2000</u>
 >
 Anuar Othman. (1995). Prisma seni.
 Singapura, Perkumpulan Seni.
@@ -117,7 +117,7 @@ Singapura, Persatuan Bahasa Melayu Universiti Kebangsaan Singapura.
 
  
 
-### <u>2001 – 2010</u>
+### <u>2001-2010</u>
 
 Hashim Yusof. (2002). Drama di radio.
 Singapore, Hashim Yusof.
@@ -169,13 +169,13 @@ Singapore: Pustaka Melayu Publisher
 
 
 
-### <u>2011 – 2015</u>
+### <u>2011-2015</u>
 
 Hamed Ismail, Amanah Mustafi, Hartinah Ahmad, Samsudin Said (2013). Gerimis di hati : drama TV.
 Singapore Perkumpulan Seni: Suria Mediacorp.
 (RSING 899.282 HAM)
 
-### <u>Accessing National Library Board Singapore Resources</u></h3>
+### <u>Accessing National Library Board Singapore Resources</u>
 
 _Accessing the Print Materials_
 

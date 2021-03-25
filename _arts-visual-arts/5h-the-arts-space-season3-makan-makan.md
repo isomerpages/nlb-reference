@@ -1,7 +1,7 @@
 ---
-title: The Arts Space (Season3) Makan-Makan
+title: The Arts Space (Season 3) Makan-Makan
 permalink: /guides/arts/visual-arts/the-arts-space-season3-makan-makan
-breadcrumb: The Arts Space (Season3) Makan-Makan
+breadcrumb: The Arts Space (Season 3) Makan-Makan
 collection_name: arts-visual-arts
 third_nav_title: Visual Arts
 published: true
@@ -13,8 +13,7 @@ published: true
 
 Welcome to Season 3 of The Arts Space – Makan-Makan. Food is essential to life – from eating for survival to indulging in the pleasures of food. As the local saying goes, “we do not eat to live – we live to eat”! Eating is both Singapore’s favourite past time and an integral part of our culture. In attempts to express the essence of our gastronomic experiences, food has been depicted across many art mediums, ranging from still life to literature to film. Come join us at the National Library this season as we explore food and its part in our everyday lives as captured by artists, writers and filmmakers.
 
-
-| <a href="#chop"><img src="/images/arts/visualarts/Chop-text_PicSG_square.png"></a> | <a href="#chope"><img src="/images/arts/visualarts/Chope-text_PicSG1_square.png"></a> | <a href="chill"><img src="/images/arts/visualarts/Chill-text_PicSG_square.png"></a> |
+| <a href="#chop"><img src="/images/arts/visualarts/Chop-text_PicSG_square.png"></a> | <a href="#chope"><img src="/images/arts/visualarts/Chope-text_PicSG1_square.png"></a> | <a href="#chill"><img src="/images/arts/visualarts/Chill-text_PicSG_square.png"></a> |
 
 
 ![Divider image](/images/arts/visualarts/DIVIDER.png)

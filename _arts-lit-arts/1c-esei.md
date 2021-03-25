@@ -48,7 +48,7 @@ Bahan-bahan di dalam bahasa Melayu yang mempunyai kod lokasi R, RSEA dan RSING b
 
  
 
-### <u>1965 – 1970</u>
+### <u>1965-1970</u>
 
 Agus, S. (1965). Lembing Awang pulang ka-Dayang : buku panduan, dengan chontoh so’alan dan jawapannya serta soalan Kementerian Pelajaran, 1965.
 Singapura, Phoenix.
@@ -93,7 +93,7 @@ Aeby Muara. (1970). Aku dan Jymy Asmara. (taipskrip)
 
  
 
-### <u>1971 – 1980</u>
+### <u>1971-1980</u>
 
 Rugayah Abdul Rashid. (1977). Bibliografi sastera kreatif Melayu 1920-1967.
 Kuala Lumpur, Jabatan Pengajian Melayu Universiti Malaya.
@@ -118,7 +118,7 @@ No Mikrofilem: NL27649
 
  
 
-### <u>1981 – 1990</u>
+### <u>1981-1990</u>
 
 Jejak kembara. (1981).
 Singapura, Persatuan Bahasa Melayu Universiti Kebangsaan Singapura.
@@ -181,7 +181,7 @@ Singapore, Dept. of Malay Studies National University of Singapore.
 
  
 
-### <u>1991 – 2000</u>
+### <u>1991-2000</u>
 
 ASAS 50 (Association) (1991). Pertemuan Sasterawan Nusantara ketujuh, 13-16 Jun 1991.
 Singapore, ASAS ’50.
@@ -225,7 +225,7 @@ Singapura, Persatuan Wartawawn Melayu Singapura.
 
  
 
-### <u>2001 – 2010</u>
+### <u>2001-2010</u>
 
 Abdul Ghani Hamid. (2001). Reaksi.
 Singapore, Angkatan Pelukis Aneka Daya.

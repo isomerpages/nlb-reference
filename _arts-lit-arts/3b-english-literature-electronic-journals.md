@@ -4,7 +4,7 @@ permalink: /guides/arts/literaryarts/singaporeenglishliterature/electronic-journ
 breadcrumb: English Literature - Electronic Journals
 collection_name: arts-lit-arts
 third_nav_title: Singapore Literature in English
-published: true
+published: false
 ---
 
 ## **Electronic Journals**

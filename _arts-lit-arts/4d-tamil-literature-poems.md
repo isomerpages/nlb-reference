@@ -20,7 +20,7 @@ published: true
 * [Accessing National Library Board Singapore Resources](#accessing-national-library-board-singapore-resources)
 * [Author](#Author)
 
-### <u>Overview of the Singapore Literature Bibliographies (1965 – 2015)</u>
+### <u>Overview of the Singapore Literature Bibliographies (1965-2015)</u>
 
 The National Library has compiled a set of bibliographies on Singapore Literature that covers works published in English, Chinese, Malay and Tamil. These provide a comprehensive listing of literary works by Singapore writers and Singapore literature over the past 50 years from 1965 to 2015. The bibliographies have been updated from the original print versions to include works published from 2010 to 2015. The full listing of works including titles of newspapers and literary periodicals in the four languages can be easily accessed through the Resource Guides platform. More information about the specific language bibliographies including scope and coverage can be found in the respective Singapore Literature Resource Guides.
 
@@ -41,7 +41,7 @@ The National Library has compiled a set of bibliographies on Singapore Literatur
 
 இத்தொகுப்பில்  1965 முதல் 2015 வரை சிங்கையில் வெளியிடப்பட்ட கவிதை நூல்கள் காலவரைபடுத்தப்பட்டுள்ளன.
 
-### <u>1965 – 1980</u>
+### <u>1965-1980</u>
 
 1. முகிலன், சிங்கை. (1966). இதய ஓசை. சிங்கப்பூர் : கவிதைப் பண்ணை.
 (RSING S894.811171 RAH)
@@ -78,7 +78,7 @@ The National Library has compiled a set of bibliographies on Singapore Literatur
 
  
 
-### <u>1981 – 1990</u>
+### <u>1981-1990</u>
 
 12. பாத்தேறல், இளமாறன். (1981). பாத்தேறல் . சிங்கப்பூர் : கண்ணகி பதிப்பகம்.
 (RCLOS 894.811171 ILA)
@@ -503,7 +503,7 @@ The National Library has compiled a set of bibliographies on Singapore Literatur
 
  
 
-### <u>2011 – 2015</u>
+### <u>2011-2015</u>
 
 150. அகிலமணி ஸ்ரீவித்யா. (2011). மனந்தொடும் மென்மையான கவிதைகள். சிங்கப்பூர் : அகிலமணி ஸ்ரீவித்யா பதிப்பகம்.
 (RSING 894.811172 AKI)

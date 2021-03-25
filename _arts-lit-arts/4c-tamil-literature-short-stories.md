@@ -20,7 +20,7 @@ published: true
 * [Accessing National Library Board Singapore Resources](#accessing-national-library-board-singapore-resources)
 * [Author](#Author)
 
-### <u>Overview of the Singapore Literature Bibliographies (1965 – 2015)</u>
+### <u>Overview of the Singapore Literature Bibliographies (1965-2015)</u>
 
 The National Library has compiled a set of bibliographies on Singapore Literature that covers works published in English, Chinese, Malay and Tamil. These provide a comprehensive listing of literary works by Singapore writers and Singapore literature over the past 50 years from 1965 to 2015. The bibliographies have been updated from the original print versions to include works published from 2010 to 2015. The full listing of works including titles of newspapers and literary periodicals in the four languages can be easily accessed through the Resource Guides platform. More information about the specific language bibliographies including scope and coverage can be found in the respective Singapore Literature Resource Guides.
 
@@ -41,7 +41,7 @@ The National Library has compiled a set of bibliographies on Singapore Literatur
 
 இத்தொகுப்பில்  1965 முதல் 2015 வரை சிங்கையில் வெளியிடப்பட்ட சிறுகதை நூல்கள் காலவரைபடுத்தப்பட்டுள்ளன.
 
-### <u>1965 – 1980</u>
+### <u>1965-1980</u>
 
 1. சண்முகம், சே. வெ. (1968). மீன் வாங்கலையோ. சிங்கப்பூர் : மாதவி இலக்கிய மன்றம்.
 (RCLOS S894.811371 SHA)
@@ -84,7 +84,7 @@ The National Library has compiled a set of bibliographies on Singapore Literatur
 
  
 
-### <u>1981 – 1990</u>
+### <u>1981-1990</u>
 
 14. இராம கண்ணபிரான். (1981). வாடைக் காற்று : சிறுகதைகள். சென்னை : தமிழ்ப் புத்தகாலயம்.
 (RSING 894.8113 KAN)
@@ -139,7 +139,7 @@ The National Library has compiled a set of bibliographies on Singapore Literatur
 
  
 
-### <u>1991 – 2000</u>
+### <u>1991-2000</u>
 
 31. விடியலை நோக்கி. (1992). விடியலை நோக்கி : சிறுகதைத் தொகுப்பு. சிங்கப்பூர் : நிலவு பதிப்பகம்.
 (RSING S894.811301 VID)
@@ -185,7 +185,7 @@ The National Library has compiled a set of bibliographies on Singapore Literatur
 
  
 
-### <u>2001 – 2010</u>
+### <u>2001-2010</u>
 
 45. இளங்கண்ணன், மா. (2001). தூண்டில் மீன். சென்னை : மணிவாசகர் பதிப்பகம்.
 (RSING 894.811372 ILA)
@@ -360,7 +360,7 @@ SING S894.811371 JAY)
 
  
 
-### <u>2011 – 2015</u>
+### <u>2011-2015</u>
 
 102. சக்கரவர்த்தி சோமசன்மா. (2011). அவள் வாழட்டும். சிங்கப்பூர் : \[s.n.\].
 (RSING S894.811372 CHA)

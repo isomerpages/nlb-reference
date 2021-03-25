@@ -20,7 +20,7 @@ published: true
 * [Accessing National Library Board Singapore Resources](#accessing-national-library-board-singapore-resources)
 * [Author](#Author)
 
-### <u>Overview of the Singapore Literature Bibliographies (1965 – 2015)</u>
+### <u>Overview of the Singapore Literature Bibliographies (1965-2015)</u>
 
 The National Library has compiled a set of bibliographies on Singapore Literature that covers works published in English, Chinese, Malay and Tamil. These provide a comprehensive listing of literary works by Singapore writers and Singapore literature over the past 50 years from 1965 to 2015. The bibliographies have been updated from the original print versions to include works published from 2010 to 2015. The full listing of works including titles of newspapers and literary periodicals in the four languages can be easily accessed through the Resource Guides platform. More information about the specific language bibliographies including scope and coverage can be found in the respective Singapore Literature Resource Guides.
 
@@ -41,7 +41,7 @@ The National Library has compiled a set of bibliographies on Singapore Literatur
 
 இத்தொகுப்பில்  1965 முதல் 2015 வரை சிங்கையில் வெளியிடப்பட்ட நாவல்கள் காலவரைபடுத்தப்பட்டுள்ளன.
 
-### <u>1965 – 1980</u>
+### <u>1965-1980</u>
 
 1. சண்முகம், ஏ. பி. (1972). பயணம் : நாடகம். குடந்தை : தை நூலகம்.
 (RSING S894.811271 SHA)
@@ -51,7 +51,7 @@ The National Library has compiled a set of bibliographies on Singapore Literatur
 
  
 
-### <u>1981 – 1990</u>
+### <u>1981-1990</u>
 
 3. பழநிவேலு, ந. (1981). கலியின் நலிவு : பாவியல் நாடகம். Singapore : N. Palanivelu.
 (RSING 894.811271 PAL)
@@ -102,7 +102,7 @@ The National Library has compiled a set of bibliographies on Singapore Literatur
 (RSING S894.8112 KRI)
 
 
-### <u>1991 – 2000</u>
+### <u>1991-2000</u>
 
 19. வேணுகோபால், த.(1991). சிங்கப்பூரில் நாடகக் கலை. சிங்கப்பூர் : இலங்கை மூன்றாம் அஞ்சி கல்லூரி.
 (RSING 894.8112 VEN)
@@ -142,7 +142,7 @@ The National Library has compiled a set of bibliographies on Singapore Literatur
 
  
 
-### <u>2001 – 2010</u>
+### <u>2001-2010</u>
 
 31. இளங்கோவன், க. (2003). ஊடாடி: Oodaadi : (medium). Singapore : Jointly published by Elangovan and Dhwani Books.
 (RSING 822 ELA)
@@ -200,7 +200,7 @@ The National Library has compiled a set of bibliographies on Singapore Literatur
 
  
 
-### <u>2011 – 2015</u>
+### <u>2011-2015</u>
 
 49. ஏ.பி. ராமன். (2011). சவாலே சமாளி! : வானொலி நாடகம். Singapore : கவிமாலை.
 (RSING 791.447 RAM)

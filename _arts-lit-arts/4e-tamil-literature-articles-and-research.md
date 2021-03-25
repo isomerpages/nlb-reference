@@ -20,7 +20,7 @@ published: true
 * [Accessing National Library Board Singapore Resources](#accessing-national-library-board-singapore-resources)
 * [Author](#Author)
 
-### <u>Overview of the Singapore Literature Bibliographies (1965 – 2015)</u>
+### <u>Overview of the Singapore Literature Bibliographies (1965-2015)</u>
 
 The National Library has compiled a set of bibliographies on Singapore Literature that covers works published in English, Chinese, Malay and Tamil. These provide a comprehensive listing of literary works by Singapore writers and Singapore literature over the past 50 years from 1965 to 2015. The bibliographies have been updated from the original print versions to include works published from 2010 to 2015. The full listing of works including titles of newspapers and literary periodicals in the four languages can be easily accessed through the Resource Guides platform. More information about the specific language bibliographies including scope and coverage can be found in the respective Singapore Literature Resource Guides.
 
@@ -42,7 +42,7 @@ The National Library has compiled a set of bibliographies on Singapore Literatur
 இத்தொகுப்பில்  1965 முதல் 2015 வரை சிங்கையில் வெளியிடப்பட்ட கவிதை நூல்கள் காலவரைபடுத்தப்பட்டுள்ளன.
 
 
-### <u>1965 – 1980</u>
+### <u>1965-1980</u>
 
 1. இளவழகு, ஐ. (ஐயாசாமி) , 1974, மனிதன் கதை : தத்துவக் கட்டுரைகள் , சிங்கப்பூர் : மாதவி இலக்கிய மன்றம்.
 (RSING S894.8114 ILA)
@@ -71,7 +71,7 @@ The National Library has compiled a set of bibliographies on Singapore Literatur
 
  
 
-### <u>1991 – 2000</u>
+### <u>1991-2000</u>
 
 8. மணி, அ .(1991). பாவலர் நெஞ்சம்.Singapore : A. Veeramani.
 (RSING S894.811 VEE)
@@ -96,7 +96,7 @@ The National Library has compiled a set of bibliographies on Singapore Literatur
 
  
 
-### <u>2001 – 2010</u>
+### <u>2001-2010</u>
 
 15. ஆண்டியப்பன், நா . (2001). சிங்கப்பூர் தமிழ் எழுத்தாளர்கள் : தொகுப்பு நூல். சிங்கப்பூர் : சிங்கப்பூர் தமிழ் எழுத்தாளர் கழகம்.
 (RSING 894.8118710095957 SIN)
@@ -218,7 +218,7 @@ RSING 808.882 EMA
 54. விசயபாரதி, ந. வீ . (2010). புலமைக்கு மரியாதை : இலக்கியச் சுவைகள்.சிங்கப்பூர் : வேதா.
 (RSING S894.811472 VIS)
 
-### <u>2011 – 2015</u>
+### <u>2011-2015</u>
 
 55. ஜொகூர் மாநிலத் தமிழர் சங்கம் சிங்கப்பூர் தமிழ் அமைப்புகள். (2011). மலேசியா சிங்கப்பூர் தமிழ் இலக்கிய உறவுப்பால மாநாடு. Johor.
 (RSING 894.81109 MAL)

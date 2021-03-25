@@ -1,7 +1,7 @@
 ---
-title: The Arts Space (Season1) Jalan-Jalan
+title: The Arts Space (Season 1) Jalan-Jalan
 permalink: /guides/arts/visual-arts/the-arts-space-season1-jalan-jalan
-breadcrumb: The Arts Space (Season1) Jalan-Jalan
+breadcrumb: The Arts Space (Season 1) Jalan-Jalan
 collection_name: arts-visual-arts
 third_nav_title: Visual Arts
 published: true
@@ -17,10 +17,9 @@ Season 1, **_JALAN-JALAN_** (a Malay word meaning to stroll or go for a walk), k
 
 Why **_JALAN-JALAN_**? We want to take you on a journey to revisit some of Singapore’s old buildings and street scenes as depicted by the paintings through three different trails (sub-themes) – Soul City, Ann Siang Revisited and Shop the Past. Read on to find out more and to discover home-grown paintings, artists, poems and a host of other resources.
 
+| <a href="#soulcity"><img src="/images/temp/visualarts/Guide-index_Soul-City.png"/></a> | <a href="#annsiang"><img src="/images/temp/visualarts/Guide-index_Ann-Siang-Revisited.png" /></a> | <a href="#shoppast"><img src="/images/temp/visualarts/Guide-Index_Shop-the-Past.png" /></a> |  
 
-| <a href="#soulcity"><img src="/images/temp/visualarts/Guide-index_Soul-City.png"/></a> | <a href="#ansiang"><img src="/images/temp/visualarts/Guide-index_Ann-Siang-Revisited.png" /></a> | <a href="#shoppast"><img src="/images/temp/visualarts/Guide-Index_Shop-the-Past.png" /></a> |  
-
-![soulcity](/images/temp/visualarts/V2-SOUL-CITY.png)
+![soulcity](/images/temp/visualarts/V2-SOUL-CITY.png)<a name="soulcity"></a>
 
 Cityscape artworks are rich emblems of public memory and private recollections. Juxtaposed alongside city literature by Singapore writers, they fill unspoken spaces in the collective memory of its citizens and mirror the transformations in our cultural geography as we shape-shift to become a ‘smart city’.
 
@@ -187,7 +186,7 @@ Call no.: RSING English S821 THU
 
 This compilation features poems by Singapore’s pioneer poets Edwin Thumboo, presented in five parts with a section on place poems, including the two aforementioned poems on National Library.
 
-![annsiang](/images/temp/visualarts/Ann-Siang-Revisitedv3.jpg)
+![annsiang](/images/temp/visualarts/Ann-Siang-Revisitedv3.jpg)<a name="annsiang"></a>
 
 Ann Siang Road located in the historic Telok Ayer District in Chinatown begins from a road known as Ann Siang Hill and connects to Kadayanallur Street. It is named after Chia Ann Siang (1832‒1892) a wealthy Chinese businessman who built his house and estate on the site.
 
@@ -322,7 +321,7 @@ Call no: RSING 779.995957 CHI
 This publication features photographs and other documents exhibited at the “Exhibition of Chinatown” organised by the Archives & Oral History Department from 31 March – 10 April 1983. The images and documents come with brief write-ups and captions. A map (circa 1846) by Government Surveyor Mr. John Turnbull Thomson is featured on p.16, which includes areas around Ann Siang Hill (then Scott’s Hill).
 
 
- ![shoppast](/images/temp/visualarts/V2-SHOP.png)
+ ![shoppast](/images/temp/visualarts/V2-SHOP.png)<a name="shoppast"></a>
 
 
 Singapore’s colourful shopping history is captured in these paintings of days gone by, where one could buy produce or furniture and homewares from shophouses, queue up for street peddlers who lined the streets, and soak in the mood and late-night treats offered by various hawkers in markets.

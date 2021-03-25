@@ -11,7 +11,7 @@ published: true
 
 ### <u>Guide Index</u>
 
-* [1950-1959](#1958-1959)
+* [1950-1959](#1950-1959)
 * [1960-1969](#1960-1969)
 * [1970-1979](#1970-1979)
 * [1980-1989](#1980-1989)
@@ -68,7 +68,7 @@ Hochstadt H. (Ed.) \[1959\] The compact: a selection of University of Malaya sho
 Singapore: Raffles Society, University of Malaya in Singapore.
 Call No.: RCLOS S823 COM -\[RFL\] Microfilm No.: NL11434
 
-1960 – 1969
+### <u>1960-1969</u>
 
 Wignesan T. (Ed.) \[1964\] Bunga emas: an anthology of contemporary Malaysian literature: 1930-1963. (Ed.).
 Kuala Lumpur: Rayirath (Raybooks) Publications with Anthony Blond Ltd..

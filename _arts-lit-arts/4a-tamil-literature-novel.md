@@ -20,7 +20,7 @@ published: true
 * [Accessing National Library Board Singapore Resources](#accessing-national-library-board-singapore-resources)
 * [Author](#Author)
 
-### <u>Overview of the Singapore Literature Bibliographies (1965 – 2015)</u>
+### <u>Overview of the Singapore Literature Bibliographies (1965-2015)</u>
 
 The National Library has compiled a set of bibliographies on Singapore Literature that covers works published in English, Chinese, Malay and Tamil. These provide a comprehensive listing of literary works by Singapore writers and Singapore literature over the past 50 years from 1965 to 2015. The bibliographies have been updated from the original print versions to include works published from 2010 to 2015. The full listing of works including titles of newspapers and literary periodicals in the four languages can be easily accessed through the Resource Guides platform. More information about the specific language bibliographies including scope and coverage can be found in the respective Singapore Literature Resource Guides.
 
@@ -41,7 +41,7 @@ The National Library has compiled a set of bibliographies on Singapore Literatur
 
 இத்தொகுப்பில்  1965 முதல் 2015 வரை சிங்கையில் வெளியிடப்பட்ட நாவல்கள் காலவரைபடுத்தப்பட்டுள்ளன.
 
-### <u>1965 – 1980</u>
+### <u>1965-1980</u>
 
 1. இராம கண்ணபிரான். (1977). உணர்ச்சிகளின் எல்லை. சென்னை : தமிழ் எழுத்தாளர் கூட்டுறவுச் சங்கம்.
 (RSING 894.8113 KAN)
@@ -51,7 +51,7 @@ The National Library has compiled a set of bibliographies on Singapore Literatur
 
  
 
-### <u>1981 – 1990</u>
+### <u>1981-1990</u>
 
 3. சங்கரி ராமானுஜம். (1984). வசந்தத்தின் வாசலிலே. சிங்கப்பூர் : காயத்திரி பதிப்பகம்
 (RCLOS 894.811371 SAN)
@@ -76,7 +76,7 @@ The National Library has compiled a set of bibliographies on Singapore Literatur
 
  
 
-### <u>1991 – 2000</u>
+### <u>1991-2000</u>
 
 10. தங்கரசன், மு. (1993). மலர்க் கூடை.  சிங்கப்பூர் : மு. தங்கராசன்.
 (RSING 894.8113 THA)
@@ -98,7 +98,7 @@ The National Library has compiled a set of bibliographies on Singapore Literatur
 
  
 
-### <u>2001 – 2010</u>
+### <u>2001-2010</u>
 
 16. சீதா லட்சுமி. (2001). கண்ணாடி நினைவுகள். சிங்கப்பூர் : Seetha Lakshmi.
 (RSING 894.811372 SEE)
@@ -135,7 +135,7 @@ The National Library has compiled a set of bibliographies on Singapore Literatur
 
  
 
-### <u>2011 – 2015</u>
+### <u>2011-2015</u>
 
 27. சக்கரவர்த்தி சோமசன்மா.(2011). அவள் வாழட்டும். சிங்கப்பூர் : [s.n.].
 (RSING S894.811372 CHA)

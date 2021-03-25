@@ -1,7 +1,7 @@
 ---
-title: The Arts Space (Season2) Impressions of Nature
+title: The Arts Space (Season 2) Impressions of Nature
 permalink: /guides/arts/visual-arts/the-arts-space-season2-impressions-of-nature
-breadcrumb: The Arts Space (Season2) Impressions of Nature
+breadcrumb: The Arts Space (Season 2) Impressions of Nature
 collection_name: arts-visual-arts
 third_nav_title: Visual Arts
 published: true

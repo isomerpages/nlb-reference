@@ -47,7 +47,7 @@ Maklumat mengakses bahan di Perpustakaan Rujukan Lee Kong Chian, Perpustakaan Ne
 
 Bahan-bahan di dalam bahasa Melayu yang mempunyai kod lokasi R, RSEA dan RSING boleh didapati di tingkat 9, manakala bahan-bahan yang mempunyai kod lokasi RCLOS boleh dirujuk di tingkat 11.
 
-### <u>1965 – 1980</u>
+### <u>1965-1980</u>
 
 Anis Sabirin. (1966). Dari bayang kabayang: kumpulan cherpen.
 Singapura, Pustaka National.
@@ -69,7 +69,7 @@ Singapura, Solo Enterprises.
 
  
 
-### <u>1981 – 1990</u>
+### <u>1981-1990</u>
 
 M. Farda. (1981). Angin lesu dari utara.
 Kuala Lumpur; Singapura, Heinemann Educational Books.
@@ -121,7 +121,7 @@ Kuala Lumpur, Dewan Bahasa dan Pustaka.
 
  
 
-### <u>1991 – 2000</u>
+### <u>1991-2000</u>
 
 Suratman Markasan. (1991). Cerpen-cerpen nusantara mutakhir.
 Kuala Lumpur, Dewan Bahasa dan Pustaka.
@@ -209,7 +209,7 @@ Jakarta: Pustaka Jaya.
 
  
 
-### <u>2001 – 2010</u>
+### <u>2001-2010</u>
 
 Anuar Othman. (2001). Sam.
 Singapore, Perkumpulan seni.
@@ -447,7 +447,7 @@ Kuala Lumpur: Al-Ameen Serve Holdings.
 
  
 
-### <u>2011 – 2015</u>
+### <u>2011-2015</u>
 
 Ahmad Jaafar Munasip. (2011). Jago Yang Terlupa Dilupakan.
 Singapura: A Jaafar Munasip.
@@ -506,7 +506,7 @@ Kuala Lumpur: Dewan Bahasa dan Pustaka.
 (RSING 899.283 SUR)
 
 
-### <u>Accessing National Library Board Singapore Resources</u></h3>
+### <u>Accessing National Library Board Singapore Resources</u>
 
 _Accessing the Print Materials_
 

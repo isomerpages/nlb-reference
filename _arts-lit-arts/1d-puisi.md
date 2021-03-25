@@ -47,7 +47,7 @@ Bahan-bahan di dalam bahasa Melayu yang mempunyai kod lokasi R, RSEA dan RSING b
 
  
 
-### <u>1965 – 1970</u>
+### <u>1965-1970</u>
 
 Masuri, S.N. (1966). Awan putih : kumpulan sajak2, 1944-1951.
 Singapura, Pustaka Nasional.
@@ -68,7 +68,7 @@ Singapura, Pustaka Nasional.
 
  
 
-### <u>1971 – 1980</u>
+### <u>1971-1980</u>
 
 Noor, S. I. (1974). Dayang Petani.
 Singapura, Pustaka Nasional.
@@ -112,7 +112,7 @@ Kuala Lumpur, Dewan Bahasa dan Pustaka Kementerian Pelajaran Malaysia.
 
  
 
-### <u>1981 – 1990</u>
+### <u>1981-1990</u>
 
 Ahmad Kamal Abdullah. (1981). Puisi-puisi Nusantara.
 Kuala Lumpur, Dewan Bahasa dan Pustaka Kementerian Pelajaran Malaysia.
@@ -172,7 +172,7 @@ ASAS 50 (Association), Kementerian Penerangan Perhubungan dan Kesenian, Majlis B
 
  
 
-### <u>1991 – 2000</u>
+### <u>1991-2000</u>
 
 Yatiman Yusof. (1991). Titis tinta.
 Singapore, Pustaka Melayu.
@@ -260,7 +260,7 @@ Singapore, National Arts Council.
 
  
 
-### <u>2001 – 2010</u>
+### <u>2001-2010</u>
 
 Kamilah Ahmad. (2001). Langkah kembara=The wanderer’s stride.
 Singapore, Triple Eleven Enterprise.
@@ -455,7 +455,7 @@ Batu Caves, Selangor: Pustaka Islamiyah.
 
  
 
-### <u>2011 – 2015</u>
+### <u>2011-2015</u>
 
 Rohani Din. (2011). Membilang Langkah: Kumpulan Puisi.
 Kuala Lumpur: Sarjana Media.
@@ -487,7 +487,7 @@ Singapura: Angkatan Sasterawan ‘50
 
  
 
-### <u>Accessing National Library Board Singapore Resources</u></h3>
+### <u>Accessing National Library Board Singapore Resources</u>
 
 _Accessing the Print Materials_
 

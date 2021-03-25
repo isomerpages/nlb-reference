@@ -47,7 +47,7 @@ Bahan-bahan di dalam bahasa Melayu yang mempunyai kod lokasi R, RSEA dan RSING b
 
  
 
-### **1965 – 1970**
+### **1965-1970**
 
 Harun Aminurrashid. (1965). Panglima Awang.
 Singapura, Pustaka Melayu.
@@ -140,7 +140,7 @@ Singapura, Pustaka Nasional.
 
  
 
-### **1971 – 1980**
+### **1971-1980**
 
 Arman Sani. (1971). Harta di-bukit Chintamanis.
 Singapura, Pustaka Nasional.
@@ -261,7 +261,7 @@ Singapura, Pustaka Nasional.
 
  
 
-### **1981 – 1990**
+### **1981-1990**
 
 Harun Aminurrashid. (1981). Darah Kedayan.
 Bandar Seri Begawan, Dewan Bahasa dan Pustaka Brunei.
@@ -326,7 +326,7 @@ Shah Alam, Selangor, Marwilis Publisher.
 
  
 
-### **1991 – 2000**
+### **1991-2000**
 
 Noor Hidayat. (1992). Farahdilla.
 Petaling Jaya, Tempo Publishing.
@@ -406,7 +406,7 @@ Singapura, Angkatan Pelukis Aneka Daya.
 
  
 
-### **2001 – 2010**
+### **2001-2010**
 
 Abdul Ghani Hamid.(2001). Delima Merah.
 Singapore, Angkatan Pelukis Aneka Daya.
@@ -727,7 +727,7 @@ Bandar Baru Bangi: KarnaDya Solutions.
 
  
 
-### **2011 – 2015**
+### **2011-2015**
 
 Yazid Hussein. (2011). Dongeng Utopia: Kisah Cek Yah.
 Singapura: Darul Andalus.

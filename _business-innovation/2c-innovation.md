@@ -1,6 +1,6 @@
 ---
 title: Innovation
-permalink:/business/innovation/innovation
+permalink: /guides/business/innovation/innovation
 breadcrumb: Curated Reads - Innovation
 collection_name: business-innovation
 #third_nav_title: Skills
