@@ -14,8 +14,8 @@ published: true
 * [The Standards Collection at the National Library Board](#the-standards-collection-at-the-national-library-board)
 * [Books and publications](#books-and-publications)
 * [Databases](#databases)
-* [Websites- Listing of standards organisations](#websites-listing-of-standards-organisations)
-* [Accessing the National Library Board Singapore Resources](#accessing-the-national-library-board-singapore-resources)
+* [Websites-Listing of standards organisations](#websites-listing-of-standards-organisations)
+* [Accessing National Library Board Singapore Resources](#accessing-national-library-board-singapore-resources)
 * [Authors](#authors)
 
 ### <u>Introduction</u>
@@ -160,7 +160,6 @@ A comprehensive resource on quality management, this handbook draws on various e
 
 Take a closer look at the issues of global food governance and food safety from this book, and find out how food quality standards in international trade laws play a critical role in ensuring health protection and food safety.
 
-
 ### <u>Databases</u>
 
 Databases are a good avenue to obtain information in the form of newspaper articles, journal and scholarly articles, and reports. The National Library Board’s eResources website provides access to such useful databases, free for all Singaporeans, permanent residents and foreigners with an NLB library membership.
@@ -206,8 +205,7 @@ This article analyses how the implementation of international sustainability sta
 
 This article presents a seven-step framework which companies, in particular the medium enterprises, can adopt to implement total quality management in their organisational structure.
 
-
-### <u>Websites- Listing of standards organisations</u>
+### <u>Websites-Listing of standards organisations</u>
 
 The development, adaptation and implementation of standards are usually overseen by standards organisations. The following list names some of the international, regional and national standards organisations in the world, and some of the key regulatory authorities in Singapore.
 
@@ -498,7 +496,7 @@ Provides fire-fighting, rescue and emergency ambulance services; mitigates hazar
 
 Plans and facilitates the physical development of Singapore, to create a vibrant, sustainable and cosmopolitan city of distinction.
 
- ### <u>Accessing National Library Board Singapore Resources</u>
+### <u>Accessing National Library Board Singapore Resources</u>
 
 <b><u>Accessing the Print Materials</u></b>
 

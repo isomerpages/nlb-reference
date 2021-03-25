@@ -30,7 +30,8 @@ Another important figure in the development of British lithography was Charles J
 
 Below is a selection of related resources available from the NLB catalogue or the Internet. It is not meant to be an exhaustive list.
 
-On Subject Matter
+### On Subject Matter
+
 Kwa, C. G., Heng, D. T. S. and Tan, T. Y. (2009). Singapore, a 700-year history: From early emporium to world city . Singapore: National Archives of Singapore. .
 Call no.: RSING 959.5703 KWA
 Delving into Singapore’s history prior to Raffles’ arrival in 1819, this publication argues and expands the narrative of Singapore’s past: from a thriving early emporium due to early globalised trade to a flourishing harbour and port under the Johor-Riau sultanate and up till today’s status as a global city.
@@ -96,7 +97,8 @@ A familiar sight in our garden city’s landscape is the bougainvillea: a popula
 
  
 
-About the artists
+### About the artists
+
 Eng Tow (1947 – )
 Eng Tow (b. 1947, Singapore) is noted as one of Singapore’s most outstanding local female artists of the 1980s. Her early career which revolved around textiles won her critical acclaim in the United Kingdom and Singapore. She first studied art at Nanyang Academy of Fine Arts and then headed to England for further studies. Eng began her artistic career working on textile art before moving to mixed media collage, paper pulp work and more recently to bronze-cast sculptures. Eng Tow has a personal interest and passion for nature, which is reflected in her works.
 
@@ -105,7 +107,8 @@ A self-taught artist renowned for his signature abstracts and collages, Lim Tion
 
 Below is a selection of related resources available from the NLB catalogue or the Internet. It is not meant to be an exhaustive list.
 
-On Subject Matter
+### On Subject Matter
+
 Barnard, T.P. (2018). Nature’s colony: Empire, nation and environment in the Singapore Botanic Gardens. Singapore: NUS Press.
 Call no: Available as eBook on NLB Overdrive
 The Singapore Botanic Gardens, established in 1859, became a World Heritage Site in 2015. This publication explores the history of the long-established botanical garden and delves into its “scientific politics and politics of Singapore society during its many transformations”.
@@ -174,7 +177,8 @@ Artists make the invisible visible through their impressions of nature, capturin
 
  
 
-About the artists
+### About the artists
+
 Lim Tiong Ghee (1955 – )
 A self-taught artist renowned for his signature abstracts and collages, Lim Tiong Ghee (b. 1955, Singapore), prefers abstraction in his portrayal of landscapes and tropical flowers. He has painted numerous landscapes since the 1970s. His Seabreeze series of 10 artworks capture the different moods of the sea and land. Aside from collages, Lim has worked with mixed-media and watercolour. He has won several accolades for his works, including the Category Winner (Representational), UOB Painting of the Year Competition in 1984 with his watercolour painting Reflection, and UOB Competition’s Top Award for his wrapping paper collage, From the Turtledove, in 1989.
 
@@ -186,7 +190,8 @@ Prabhakara Jimmy Quek (b. 1955, Singapore), is an artist known for his keen inte
 
 Below is a selection of related resources available from the NLB catalogue or the Internet. It is not meant to be an exhaustive list.
 
-On Subject Matter
+### On Subject Matter
+
 Goh, L. K. (2018). “When tigers used to roam: Nature & environment in Singapore” in BiblioAsia Vol. 13, Issue 4. Singapore: National Library Board.
 This article highlights the strides taken by Singapore to conserve its natural heritage, in the midst of urban development.
 
@@ -241,7 +246,7 @@ Nanda, A. (2014, April 15). Prominent writer a Renaissance man. The Straits Time
 Article on the life and career of Abdul Ghani Hamid, including his contributions to art and Malay literature.
 
 
- Graphic artist on the job. (1985, March 3). The Straits Times, p.2. Retrieved from NewspaperSG.
+Graphic artist on the job. (1985, March 3). The Straits Times, p.2. Retrieved from NewspaperSG.
 This article describes Lim Tiong Ghee’s work as a graphic artist when he was employed by the Singapore Broadcasting Corporation (SBC), the forerunner of MediaCorp. It also discusses his approach to his craft, which was mainly done in watercolour back then.
 
 

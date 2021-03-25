@@ -407,11 +407,11 @@ JSTOR is a database which provides access to important scholarly journals, mainl
 
 **Infopedia**
 
-URL: [http://eresources.nlb.gov.sg/infopedia/]
+URL: [http://eresources.nlb.gov.sg/infopedia/](http://eresources.nlb.gov.sg/infopedia/)
 
 Singapore Infopedia is an electronic encyclopedia on Singapore published by the National Library Board (NLB). It holds a collection of articles on Singapore and covers a wide range of topics, including but not limited to historical events, arts, culture, economy, government and key personalities.
 
-To search for Infopedia articles on streets and places in Singapore, check out this URL: [http://eresources.nlb.gov.sg/infopedia/Streets_and_Places.html]
+To search for Infopedia articles on streets and places in Singapore, check out this URL: [http://eresources.nlb.gov.sg/infopedia/Streets_and_Places.html](http://eresources.nlb.gov.sg/infopedia/Streets_and_Places.html)
 
 A list of 273 articles on Singapore streets and places are provided. Featured below are some of the articles you can find from Infopedia.
 
@@ -434,16 +434,16 @@ A list of 273 articles on Singapore streets and places are provided. Featured be
   Extract from article: Telok Ayer was designated a Chinese district by Stamford Raffles in 1822 and gained prominence in the 1820s because it served as the landing site for early immigrants. This led to a concentration of religious buildings and Chinese clan associations along the street. The street thus gives a useful insight into the life of early Chinese immigrants.
 
 **PictureSG**
-URL: [https://eresources.nlb.gov.sg/pictures]
+URL: [https://eresources.nlb.gov.sg/pictures](https://eresources.nlb.gov.sg/pictures)
 
 PictureSG is a collection of pictures, be it photographs or artworks, which provide information about Singapore. It contains NLB’s own pictures, pictures donated to NLB by donors and others contributed by our partners.
 
-Visitors can browse through over 23,000 pictures featuring the streets and places of Singapore at this URL: [https://eresources.nlb.gov.sg/pictures/Browse/Streets_and_Places]
+Visitors can browse through over 23,000 pictures featuring the streets and places of Singapore at this URL: [https://eresources.nlb.gov.sg/pictures/Browse/Streets_and_Places](https://eresources.nlb.gov.sg/pictures/Browse/Streets_and_Places)
 
 Keyword searches of a particular street, road, building or bridge can also be done at the search bar located at the top right-hand corner of the PictureSG website.
 
 **NewspaperSG**
-URL: [https://eresources.nlb.gov.sg/newspapers/]
+URL: [https://eresources.nlb.gov.sg/newspapers/](https://eresources.nlb.gov.sg/newspapers/)
 
 NewspaperSG is an online repository of Singapore newspapers. It contains a digital archive of newspapers published since 1827, such as the Singapore Chronicle and Commercial Register, The Singapore Free Press and The Straits Times.
 
@@ -454,7 +454,7 @@ Featured below are some articles from NewspaperSG, covering the history and orig
   by Kezia Toh
 
   The Straits Times, 8 July 2013, Page 3
-  [http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20130708-1.2.52.3]
+  [http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20130708-1.2.52.3](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20130708-1.2.52.3)
   (article is only viewable in NLB libraries)
 
   Features a newly published 408-page third edition of Singapore street names: A study of toponymics which contains over 1,700 entries of road names and also contains stories from relatives of Singapore’s pioneers after whom many of the roads were named.
@@ -462,7 +462,7 @@ Featured below are some articles from NewspaperSG, covering the history and orig
 * How mental hospital got its name
 
   The Straits Times, 5 July 1998, Page 34
-  [http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19980705-1.2.45.8]
+  [http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19980705-1.2.45.8](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19980705-1.2.45.8)
   (article is only viewable in NLB libraries)
 
   The mystery of how Woodbridge Hospital got its name in 1951 is revealed in this article.
@@ -470,13 +470,13 @@ Featured below are some articles from NewspaperSG, covering the history and orig
 * Learn our street names
 
   The Straits Times, 11 November 1977, Page 8
-  [http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19771111-1.2.45.1]
+  [http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19771111-1.2.45.1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19771111-1.2.45.1)
   As a result of a February 1970 report by a special Ministry of Culture standardisation committee highlighting the confusing Chinese translations of Singapore street names, government departments, statutory boards, the mass media and the public have adopted the standardised street names in Chinese.
 
 * Malayan history told in street names
 
   The Singapore Free Press and Mercantile Advertiser, 24 June 1940, Page 5
-  [http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19400624-1.2.52]
+  [http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19400624-1.2.52](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19400624-1.2.52)
 
   Highlights S. Durai Raja Singam’s newly published book, Malayan street names, which explores the fascinating origins of the names of Malaya’s streets.
 
@@ -485,7 +485,7 @@ Featured below are some articles from NewspaperSG, covering the history and orig
   by Janadas Devan
 
   The Straits Times, 12 June 2005, Page 27
-  [http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20050612-1.2.29.9]
+  [http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20050612-1.2.29.9](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20050612-1.2.29.9)
 
   (article is only viewable in NLB libraries)
   Interesting anecdotes about the meanings behind Singapore’s street names are liberally sprinkled throughout this article, such as Serangoon Road being named after a long-legged water-bird called the rang-gung or why there are so many “chu kangs” in Singapore’s history.
@@ -499,13 +499,13 @@ The following websites contain useful information and resources on this topic.
 
   by Mazelan Anuar
 
-  URL: [http://eservice.nlb.gov.sg/opennlbcmscontent.aspx?id=e97525f6-e1e5-494c-b02e-92f0018aac74]
+  URL: [http://eservice.nlb.gov.sg/opennlbcmscontent.aspx?id=e97525f6-e1e5-494c-b02e-92f0018aac74](http://eservice.nlb.gov.sg/opennlbcmscontent.aspx?id=e97525f6-e1e5-494c-b02e-92f0018aac74)
 
   This article (from BibloAsia, Vol 4, Issue 4, pp. 31-35) gives the history of nine street names of Singapore which provides links to our recent past. It draws information from legal documents and maps which are part of the Koh Seow Chuan collection.
 
 * Remember Singapore
 
-  URL: [https://remembersingapore.org/]
+  URL: [https://remembersingapore.org/](https://remembersingapore.org/)
 
   This blog provides photographs and write-ups that aim to relive memories of Singapore and increase awareness of the fading heritage and vanishing landmarks in the midst of Singapore’s rapid development.
 
@@ -513,7 +513,7 @@ The following websites contain useful information and resources on this topic.
 
 <b><u>Accessing the Print Materials</u></b>
 
-You can search the library catalogue (for physical materials) in the library and from home [http://catalogue.nlb.gov.sg]. The easy search function allows you to search/browse by author, title, keyword, subject and ISBN/ISSN whereas the advanced search allows you to narrow your searches to specific media types or language holdings. In both instances, you will also be able to limit your search to specific libraries by clicking on the “limit by branch” option.
+You can search the library catalogue (for physical materials) in the library and from home [http://catalogue.nlb.gov.sg](http://catalogue.nlb.gov.sg. The easy search function allows you to search/browse by author, title, keyword, subject and ISBN/ISSN whereas the advanced search allows you to narrow your searches to specific media types or language holdings. In both instances, you will also be able to limit your search to specific libraries by clicking on the “limit by branch” option.
 
 **To search Lee Kong Chian Reference Library’s Holdings**
 

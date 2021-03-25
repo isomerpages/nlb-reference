@@ -18,7 +18,9 @@ Welcome to Season 3 of The Arts Space – Makan-Makan. Food is essential to life
 
 ![Divider image](/images/arts/visualarts/DIVIDER.png)
 
-<a name="chop"><img src="/images/arts/visualarts/Chop-text_PicSG.png"></a>
+<a name="chop"></a>
+
+<img src="/images/arts/visualarts/Chop-text_PicSG.png">
 
 First to the lively wet markets then to the kitchen! Getting food on the table starts from the laborious process of washing, cutting, seasoning and eventually cooking. Trace the finer details of food preparation with Poh Siew Wah’s On the Floor and Soh Chee Hui’s Pomegranate, Teapot with Cup, and catch glimpses of our local wet market culture in Chua Mia Tee’s Fishmonger.
 
@@ -120,7 +122,9 @@ Call no.: RSING 394.12095957 ZHU
 
 In conjunction with the 2016 exhibition of the same name, this publication provide highilights of the exhibition by Justin Zhuang and Sheere Ng. Held at Objectifs – Centre for Photography and Film, the exhibition examined how design shaped our eating experiences in Singapore.
 
-<a name="chope"><img src="/images/arts/visualarts/Chope-text_PicSG1.png"></a>
+<a name="chope"></a>
+
+<img src="/images/arts/visualarts/Chope-text_PicSG1.png">
 
 As a multicultural society, Singapore has a rich food heritage that speaks of a fusion of diverse cultures. Be it a piping hot bowl of laksa enjoyed at the hawker centre or kopitiam, or kacang puteh at a roadside food stall, there is something quintessentially Singaporean about seeking out culinary treasures from all corners of the island. The origins of our hawker culture can be traced all the way to the 1800s when travelling hawkers peddling food and drinks were common sights on the streets of Singapore. Through the works of artists such as Chua Mia Tee and Poh Siew Wah, we can venture back in time to visit the hawkers of the past and catch a glimpse of Singapore’s early street food culture.
 
@@ -220,7 +224,9 @@ In the 1930s, there were as many as 10,000 hawkers (licensed and unlicensed) alo
 
 Senior Librarian Barbara Quek highlights some publications from the National Library’s Legal Deposit Collection that showcase Singapore’s hawker culture and history.
 
-<a name="chill"><img src="/images/arts/visualarts/Chill-text_PicSG.png"></a>
+<a name="chill"></a>
+
+<img src="/images/arts/visualarts/Chill-text_PicSG.png">
 
 Whether as an aesthetic prop or as a symbolic vehicle of complex emotions and socio-cultural perspectives, food has been used in films for a variety of purposes. From heart-warming, tear-jerking family dramas to nail-biting horror flicks of cannibalism and supernatural cravings, food has been a common motif used across genres. Explore the multi-faceted nature of food in film with snippets from the [Asian Film Archive](https://www.asianfilmarchive.org/) Collection.
 

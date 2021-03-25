@@ -3,6 +3,7 @@ title: English Language
 permalink: /guides/socialsciences-humanities/humanities/english-language
 breadcrumb: English Language
 collection_name: social-sciences-humanities-humanities
+third_nav_title: Humanities
 published: true
 ---
 

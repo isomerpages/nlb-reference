@@ -3,7 +3,7 @@ title: Primary accounts of Singapore from 1800s to 1942
 permalink: /guides/singapore/history/primary-accounts-of-singapore-from-1800s-to-1942
 breadcrumb: Primary accounts of Singapore from 1800s to 1942
 collection_name: singapore-history
-third_nav_title: Singapore
+third_nav_title: Singapore History
 published: true
 ---
 
@@ -17,7 +17,7 @@ Historical newspapers are troves of information if one is trying to piece togeth
 
 For Chinese sources, refer to: Rao, Zong Yi \[饶宗颐\] (Ed.). 1994. [Xinjiapo gu shiji](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84557118) \[新加坡古事记\]. Hong Kong: Zhongwendaxue chubanshe \[中文大学出版社\]. This is a compilation of historical Chinese writings that mention Singapore.
 
-**1813–1816**
+### <u>1813–1816</u>
 
 Author: Thomas Otho Travers <br>
 Title: Diary of Thomas Otho Travers 1813–1814. Volume I–II <br>

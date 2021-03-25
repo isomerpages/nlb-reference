@@ -6,16 +6,15 @@ collection_name: business-innovation
 published: true
 ---
 
-### <u>Guide Index</u>
+# <u>Guide Index</u>
 
 * [Introduction](#introduction)
-* [Books](#books)
-* [eBooks](#ebooks)
-* [Websites](#websites)
+* [Productivity](#productivity)
+* [Innovation](#innovation)
 * [Accessing National Library Board Singapore Resources](#accessing-national-library-board-singapore-resources)
 * [Author](#author)
 
-### <u>Introduction</u>
+## <u>Introduction</u>
 
 Peter Drucker, who is widely acknowledged as the Father of modern business management, once said that increasing the productivity of workers in the knowledge society is “the most important contribution management needs to make in the 21st century”. In order to stay competitive and relevant in the today’s global economy, many economies and organisations are moving up the value chain by increasing productivity and driving innovation.
 
@@ -29,14 +28,13 @@ This is a selection of resources on open innovation available from the [NLB cata
 | Organisational efficiency	| 658.1 |
 | Organisational Innovation | 658.4 |
 
-
-### <u>Productivity</u>
+## <u>Productivity</u>
 
 Productivity involves the use of existing resources to achieve maximum results. In countries such as Singapore, where resources are limited, enhancing productivity has become the key to achieving economic growth. Thus, companies are increasingly encouraged to implement productivity-enhancing measures, including using automation and technology, improving supply chains and processes, and adopting standards.
 
  
 
-<b><u>Books</u></b>
+### <b><u>Books</u></b>
 
 * Bal, P. M., Kooji, D. T. & Rosseau, D. M. (Eds.). (2015). [Aging workers and the employee-employer relationship](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202643329). Cham: Springer.
 
@@ -107,8 +105,7 @@ Call no.: RSING 333.796202185957 SIN
 
 Energy efficiency can enhance productivity in an organisation by reducing energy costs. This Singapore standard provides the requirements for the installation and replacement of energy efficient systems and equipment in buildings, as well as the replacement of their components.
 
-
-<b><u>eBooks</u></b>
+### <b><u>eBooks</u></b>
 
 * Allcott, G. (2014). Introducing productivity: A practical guide. London: Icon Books Ltd. Retrieved from ProQuest Ebook Central.
 
@@ -149,8 +146,7 @@ Big Data in Practice explains how major companies analyse big data effectively t
 
 In The Secret to Peak Productivity, author Tamara Myles introduces a framework, known as the Productivity Pyramid, that readers can use to achieve their peak productivity. The framework is arranged sequentially in five levels to allow individuals to start by assessing their strengths and weaknesses, relooking at personal organisation, planning of goals, to eventually reaching their potential.
 
-
-<b><u>Websites</u></b>
+### <b><u>Websites</u></b>
 
 * Council for Skills, Innovation and productivity. (2016, May 6). Productivity toolkits. Retrieved June 27, 2017 from Way to Go Singapore website: https://www.waytogo.sg/Resources/ProductivityToolkits.aspx    
 
@@ -187,13 +183,13 @@ This article provides a summary of the speech by Deputy Prime Minister Tharman S
 In this article, the author lists 15 habits which individuals can pick up to change their behaviours and make their daily life more productive. These strategies cover various aspects including time management, spatial organisation, setting priorities, keeping fit and healthy, and having fruitful discussions.
 
 
-### <u>Innovation</u>
+## <u>Innovation</u>
 
 Innovation is the process of introducing new ideas, methods or products; it can also comprise changes to existing ways of how things are made or done. With an aging workforce and dwindling resources in today’s economy, innovation is often seen as one of the key drivers of productivity growth for economies and businesses.
 
  
 
-<b><u>Books</u></b>
+### <b><u>Books</u></b>
 
 * Burger-Helmchen, T. (Ed.). (2013). [The economics of creativity: Ideas, firms and markets](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200139012). New York: Routledge.
 
@@ -264,8 +260,7 @@ Call no.: RBUS 658.4063 WAS
 
 The advent of advanced robotics has enabled robots to be used in heavy, repetitive and dangerous work. This book examines the increasing use of robots in various industries such as healthcare and agriculture, focusing on the organisational change and management aspects. It also concludes with a chapter which discusses the implications which robots may bring to innovative workers.
 
-
-<b><u>eBooks</u></b>
+### <b><u>eBooks</u></b>
 
 * Cross, S. (2016). [First and fast: Outpace your competitors, lead your markets, and accelerate growth](https://singapore.libraryreserve.com/10/50/en/ContentDetails.htm?id=46431187-52F1-4A6B-B4A3-BB0BB8E0D663). New York: Business Expert Press. Retrieved from OverDrive.
 
@@ -306,8 +301,7 @@ This ebook details some of the likely challenges which organisations and their l
 
 Why do some organisations succeed in innovation, while others struggle with its implementation? This ebook explores the topic of management of innovation from the bottom-up, looking at how the lack of understanding and acceptance by employees can influence the adoption of innovation in an organisation. It also provides a framework which can be used to gain a better understanding of how employees adopt and use innovation in organisations.
 
-
-<b><u>Websites</u></b>
+### <b><u>Websites</u></b>
 
 CFE report maps out blueprint for Singapore’s future: What you need to know. (2017, February 9). Retrieved July 7, 2017, from Channel NewsAsia website: http://www.channelnewsasia.com/news/singapore/cfe-report-maps-out-blueprint-for-singapore-s-future-what-you-ne-7605994
 This article sums up some of the recommendations made by Singapore’s Committee on the Future Economy (CFE) to chart Singapore’s long-term path of growth for the future. For companies, the committee recommends the adoption of innovation and digital technologies to improve productivity and stay relevant.
@@ -331,7 +325,7 @@ How can businesses innovate in the digital economy? This article examines how co
 Satell, G. (2017, June 21). The 4 types of innovation and the problems they solve. Retrieved July 7, 2017, from Harvard Business Review website: https://hbr.org/2017/06/the-4-types-of-innovation-and-the-problems-they-solve
 In this article, author Greg Satell explores the concept that innovation can occur in various ways because it solves different problems. He suggests that organisations fail to innovate, or sustain innovation, because they are often fixated on one type of strategy which may not suit the problems they are trying to solve. He also shared an Innovation Matrix to help organisations identify the appropriate type of strategy to solve a problem.
 
-### <u>Accessing National Library Board Singapore Resources</u>
+## <u>Accessing National Library Board Singapore Resources</u>
 
 <b><u>Accessing the Print Materials</u></b>
 
@@ -359,7 +353,7 @@ The National Library Board (NLB)’s eResources are free for all NLB members. Cl
 
 If you’re having problems registering or logging in, please [contact us](http://www.nlb.gov.sg/ContactUs.aspx). If you wish to find information in the databases but am not sure where to begin, or need recommendations on which databases to use, please use the [“Ask A Librarian”](http://www.nlb.gov.sg/Research/AskUs.aspx) function or send an email to [ref@nlb.gov.sg](mailto:ref@library.nlb.gov.sg) for help. The librarian will get back to you within three working days.
 
-### <u>Author</u>
+## <u>Author</u>
 
 Goh Lee Kim
 
