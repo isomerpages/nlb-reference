@@ -1,8 +1,8 @@
 ---
-title: 100 Seminal Books Social Services - youth with special needs
+title: 100 Seminal Books Social Services - Youth with Special Needs
 permalink: /guides/socialsciences-humanities/social-sciences/100seminalbooks/youth-with-special-needs
-breadcrumb: 100 Seminal Books Social Services - youth with special needs
-third_nav_title: Seminal Books
+breadcrumb: Youth with Special Needs
+third_nav_title: 100 Seminal Books: Social Services
 collection_name: social-sciences-humanities-social-sciences
 published: true
 ---
