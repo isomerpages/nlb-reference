@@ -47,7 +47,7 @@ collections:
     output: true
   business:
     output: true
-  business-career-guidance
+  business-career-guidance:
     output: true
   business-innovation:
     output: true
