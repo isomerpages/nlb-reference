@@ -2,7 +2,7 @@
 title: 100 Seminal Books Social Services - Vulnerable Children and Youth (General)
 permalink: /guides/socialsciences-humanities/social-sciences/100seminalbooks/vulnerable-children-and-youth-general
 breadcrumb: 100 Seminal Books Social Services - Vulnerable Children and Youth (General)
-third_nav_title: 100 Seminal Books
+third_nav_title: Seminal Books
 collection_name: social-sciences-humanities-social-sciences
 published: true
 ---
@@ -18,7 +18,7 @@ published: true
 
 Social service agencies provide vital support for children and youth from disadvantaged backgrounds so that they have better access to basic health care, learning and developmental opportunities in their critical early years. The programmes and activities offered are designed to help them to develop their personal, social, and life skills to build their self-confidence and maximise their potential.
 
-The 42 titles in this resource guide are listed alphabetically and cover various aspects of social services for children and youth which are aimed at ensuring that their physical and emotional needs are well looked after. Books that are unavailable at the Lee Kong Chian Reference Library and NLB’s public libraries have been denoted as such. To explore other areas of social services for children and youth, please go to [100 Seminal Books: Social Services](/temp/100seminalbooks/social-services).
+The 42 titles in this resource guide are listed alphabetically and cover various aspects of social services for children and youth which are aimed at ensuring that their physical and emotional needs are well looked after. Books that are unavailable at the Lee Kong Chian Reference Library and NLB’s public libraries have been denoted as such. To explore other areas of social services for children and youth, please go to [100 Seminal Books: Social Services](/guides/socialsciences-humanities/social-sciences/100seminalbooks/social-services).
 
 
 ### <u>Books</u>

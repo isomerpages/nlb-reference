@@ -2,7 +2,7 @@
 title: 100 Seminal Books Social Services - Cyber Wellness
 permalink: /guides/socialsciences-humanities/social-sciences/100seminalbooks/cyber-wellness
 breadcrumb: 100 Seminal Books Social Services - Cyber Wellness
-third_nav_title: 100 Seminal Books
+third_nav_title: Seminal Books
 collection_name: social-sciences-humanities-social-sciences
 published: true
 ---
@@ -19,7 +19,7 @@ published: true
 
 As youths are increasingly exposed to digital media and computer screens, they are at risk of suffering from addiction, cyber-bullying, cyber attacks, privacy invasion, and other online issues. While it is not feasible for them to be cut off from the Web, there are ways to manage their use of digital media in order to protect them, as well as educate them on the dangers of the cyber-world. Cyber wellness can be inculcated at an early age to equip the young with the necessary skills to navigate an increasingly digital and virtual landscape.
 
-The 14 titles in this resource guide are listed alphabetically and cover various topics such as digital media use, cyber-bullying and information literacy. 3 online resources are included to provide information in other online formats. To explore other areas of social services for children and youth, please go to [100 Seminal Books: Social Services](/temp/100seminalbooks/social-services).
+The 14 titles in this resource guide are listed alphabetically and cover various topics such as digital media use, cyber-bullying and information literacy. 3 online resources are included to provide information in other online formats. To explore other areas of social services for children and youth, please go to [100 Seminal Books: Social Services](/guides/socialsciences-humanities/social-sciences/100seminalbooks/social-services).
 
 ### <u>Books</u>
 

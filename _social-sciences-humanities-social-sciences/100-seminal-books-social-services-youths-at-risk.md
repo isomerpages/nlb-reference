@@ -2,7 +2,7 @@
 title: 100 Seminal Books Social Services - Youths at Risk
 permalink: /guides/socialsciences-humanities/social-sciences/100seminalbooks/youths-at-risk
 breadcrumb: 100 Seminal Books Social Services - Youths at Risk
-third_nav_title: 100 Seminal Books
+third_nav_title: Seminal Books
 collection_name: social-sciences-humanities-social-sciences
 published: true
 ---
@@ -18,7 +18,7 @@ published: true
 
 Youths-at-risk are in danger of becoming delinquent, dropping out of school, or engaging in undesirable activities. Any of these will impact their lives, now and in future. Counselling youths before they fall into this category is critical at a juncture when they are under immense peer pressure, puberty, and academic stress. If they do act on impulse, misbehave, or even worse commit a crime, it is especially important to manage them correctly and with their future development in mind. Everybody, from the parent to the school and the justice system, has to play a part to ensure they remain responsible, understanding and productive members of society.
 
-The 20 titles in this resource guide are listed alphabetically and cover various topics such as youth mental health, substance abuse and juvenile justice. Books that are unavailable at the Lee Kong Chian Reference Library and NLB’s public libraries are denoted as such. To explore other areas of social services for children and youth, please go to [100 Seminal Books: Social Services](/temp/100seminalbooks/social-services).
+The 20 titles in this resource guide are listed alphabetically and cover various topics such as youth mental health, substance abuse and juvenile justice. Books that are unavailable at the Lee Kong Chian Reference Library and NLB’s public libraries are denoted as such. To explore other areas of social services for children and youth, please go to [100 Seminal Books: Social Services](/guides/socialsciences-humanities/social-sciences/100seminalbooks/social-services).
 
 ### <u>Books</u>
 

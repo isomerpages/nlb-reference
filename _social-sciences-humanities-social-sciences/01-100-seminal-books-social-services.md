@@ -2,7 +2,7 @@
 title: 100 Seminal Books Social Services 
 permalink: /guides/socialsciences-humanities/social-sciences/100seminalbooks/social-services
 breadcrumb: 100 Seminal Books Social Services 
-third_nav_title: 100 Seminal Books
+third_nav_title: Seminal Books
 collection_name: social-sciences-humanities-social-sciences
 published: true
 ---
@@ -35,7 +35,7 @@ We would like to thank the [Social Service Institute](https://www.ssi.sg/) for t
 
 ### <u>List of Resources</u>
 
-| <a href="/temp/100seminalbooks/vulnerable-children-and-youth-general"><img src="/images/temp/100seminalbooks/Children-and-Youth-Services.jpg"></a> | <a href="/temp/100seminalbooks/youth-with-special-needs"><img src="/images/temp/100seminalbooks/Special-Needs-Children-and-Youth.jpg"></a> | <a href="/temp/100seminalbooks/vulnerable-children-and-youth"><img src="/images/temp/100seminalbooks/Vulnerable-Children-and-Youth.jpg"></a> | <a href="/temp/100seminalbooks/youths-at-risk"><img src="/images/temp/100seminalbooks/Youths-at-Risk.jpg"></a> | <a href="/temp/100seminalbooks/cyber-wellness"><img src="/images/temp/100seminalbooks/Cyber-Wellness.jpg"></a> |
+| <a href="/guides/socialsciences-humanities/social-sciences/100seminalbooks/vulnerable-children-and-youth-general"><img src="/images/temp/100seminalbooks/Children-and-Youth-Services.jpg"></a> | <a href="/guides/socialsciences-humanities/social-sciences/100seminalbooks/youth-with-special-needs"><img src="/images/temp/100seminalbooks/Special-Needs-Children-and-Youth.jpg"></a> | <a href="/guides/socialsciences-humanities/social-sciences/100seminalbooks/vulnerable-children-and-youth"><img src="/images/temp/100seminalbooks/Vulnerable-Children-and-Youth.jpg"></a> | <a href="/guides/socialsciences-humanities/social-sciences/100seminalbooks/youths-at-risk"><img src="/images/temp/100seminalbooks/Youths-at-Risk.jpg"></a> | <a href="/guides/socialsciences-humanities/social-sciences/100seminalbooks/cyber-wellness"><img src="/images/temp/100seminalbooks/Cyber-Wellness.jpg"></a> |
 
 
 The information in this resource guide is valid as of September 2018 and correct as far as we are able to ascertain from our sources. It is not intended to be an exhaustive or complete history on the subject. Please contact the Library for further reading materials on the topic.

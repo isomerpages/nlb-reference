@@ -2,7 +2,7 @@
 title: 100 Seminal Books Social Services - Vulnerable Children and Youth
 permalink: /guides/socialsciences-humanities/social-sciences/100seminalbooks/vulnerable-children-and-youth
 breadcrumb: 100 Seminal Books Social Services - Vulnerable Children and Youth
-third_nav_title: 100 Seminal Books
+third_nav_title: Seminal Books
 collection_name: social-sciences-humanities-social-sciences
 published: true
 ---
@@ -20,9 +20,7 @@ published: true
 
 Social services for vulnerable children and youth comprise fundamental care, guidance and child protection services to ensure the safety and wellbeing of the child and support services for their families. In Singapore, social service organisations and agencies such as the [Ministry of Social and Family Development](https://www.msf.gov.sg/policies/Children-and-Youth/Pages/default.aspx), the Singapore Children’s Society and the National Council of Social Services also offer education outreach initiatives, help for children and teens recovering from trauma and support for juvenile witnesses who are required to testify in criminal cases.
 
-The 14 titles in this resource guide are listed alphabetically and cover various child protection policies, programmes and services. Books that are unavailable at the Lee Kong Chian Reference Library and NLB’s public libraries have been denoted as such. To explore other areas of social services for children and youth, please go to 100 Seminal Books: Social Services.
-
- 
+The 14 titles in this resource guide are listed alphabetically and cover various child protection policies, programmes and services. Books that are unavailable at the Lee Kong Chian Reference Library and NLB’s public libraries have been denoted as such. To explore other areas of social services for children and youth, please go to [100 Seminal Books: Social Services](/guides/socialsciences-humanities/social-sciences/100seminalbooks/social-services).
 
 ### <u>Books</u>
 
