@@ -17,6 +17,7 @@ third_nav_title: Social Sciences & Humanities
   - <a href = "/guides/socialsciences-humanities/social-sciences/100seminalbooks/vulnerable-children-and-youth/"><b>100 Seminal Books: Vulnerable Children and Youths</b></a><br>
   - <a href = "/guides/socialsciences-humanities/social-sciences/seminal-books-early-childhood-education"><b>Seminal Books on Early Childhood Education</b></a><br>
 
+
 * [**Effectiveness of Nonprofit Boards**](/guides/socialsciences-humanities/social-sciences/effectiveness-of-nonprofit-boards)
 * [**Environment Champion**](/guides/socialsciences-humanities/social-sciences/environment-champion)
 * [**Nonprofit Board's role in Risk Management**](/guides/socialsciences-humanities/social-sciences/nonprofit-boards-role-in-risk-management)
