@@ -1,7 +1,7 @@
 ---
-title: 100 Seminal Books Social Services - Services for Children and Youth (General)
-permalink: /guides/socialsciences-humanities/social-sciences/100seminalbooks/services-children-and-youth-general
-breadcrumb: Services for Children and Youth (General)
+title: 100 Seminal Books Social Services - Vulnerable Children and Youth (General)
+permalink: /guides/socialsciences-humanities/social-sciences/100seminalbooks/vulnerable-children-and-youth-general
+breadcrumb: Vulnerable Children and Youth (General)
 third_nav_title: Seminal Books
 collection_name: social-sciences-humanities-social-sciences
 published: true
