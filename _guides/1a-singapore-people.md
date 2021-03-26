@@ -9,13 +9,12 @@ third_nav_title: Singapore
 
 <style>
 td {
-  font-size: 25px
+  font-size: 20px
 }
 </style>
-# Listed by name in alphabetical order:
+<p style = "font-size:20px">Listed by name in alphabetical order:</p>
 
-
-<details style= "font-size:25px">
+<details style= "font-size:20px">
   <summary>A - H</summary>
   <ul>
   <li><b><a href = "/guides/singapore/people/aw-boon-haw">Aw Boon Haw / 胡文虎</a></b></li>
@@ -27,24 +26,52 @@ td {
   <li><b><a href = "/guides/singapore/people/chuang-chu-lin/">Chuang Chu Lin 庄竹林</a></b></li>
   </ul>
 </details>
-
-<details style= "font-size:25px">
+<details style= "font-size:20px">
 <summary>I - S</summary>
 <table style="width:100%">
   <tr>
-    <td><a href = "/guides/singapore/people/koh-soh-goh/">Koh Soh Goh 许甦吾</a></td>
-    <td><a href = "/guides/singapore/people/lee-choon-seng">Lee Choon Seng / 李俊承</a></td>
+    <td><b><a href = "/guides/singapore/people/koh-soh-goh/">Koh Soh Goh 许甦吾</a></b></td>
+    <td><b><a href = "/guides/singapore/people/lee-choon-seng">Lee Choon Seng / 李俊承</a></b></td>
   </tr>
   <tr>
-    <td><a href = "/guides/singapore/people/lee-dai-sor">Lee Dai Sor / 李大傻</a><br></td>
-      <td><a href = "/guides/singapore/people/seow-poh-leng">Seow Poh Leng / 萧保龄</a></td>
+    <td><b><a href = "/guides/singapore/people/lee-dai-sor">Lee Dai Sor / 李大傻</a></b></td>
+    <td><b><a href = "/guides/singapore/people/lee-siow-mong/">Lee Siow Mong / 李绍茂</a></b></td>
+  </tr>
+  <tr>
+    <td><b><a href = "/guides/singapore/people/lien-shih-sheng/">Lien Shih Sheng / 连士升</a></b></td>
+    <td><b><a href = "/guides/singapore/people/lien-ying-chow/">Lien Ying Chow / 连瀛洲</a></b></td>
+  </tr>
+  <tr>
+    <td><b><a href = "/guides/singapore/people/lim-loh">Lim Loh / 林路</a></b></td>
+    <td><b><a href = "/guides/singapore/people/lin-hengnan">Lin Hengnan / 林衡南</a></b></td>
+  </tr>
+  <tr>
+    <td><b><a href = "/guides/singapore/people/low-ing-sing">Low Ing Sing / 刘仁心</a></b></td>
+    <td><b><a href = "/guides/singapore/people/neo-tiew">Neo Tiew / 梁宙</a></b></td>
+  </tr>
+  <tr>
+    <td><b><a href = "/guides/singapore/people/raffles-in-southeast-asia">Raffles in Southeast Asia</a></b></td>
+    <td><b><a href = "/guides/singapore/people/seow-poh-leng">Seow Poh Leng / 萧保龄</a></b></td>
+  </tr>
+  <tr>
+    <td><b><a href = "/guides/singapore/people/raffles-in-southeast-asia">Raffles in Southeast Asia</a></b></td>
+    <td><b><a href = "/guides/singapore/people/seah-song-seah">Seah Song Seah / 佘松城</a></b></td>
+  </tr>
+  <tr>
+    <td><b><a href = "/guides/singapore/people/see-ewe-lay">See Ewe Lay / 薛有礼</a></b></td>
+    <td><b><a href = "/guides/singapore/people/see-hiang-to">See Hiang To / 施香沱</a></b></td>
+  </tr>
+  <tr>
+    <td><b><a href = "/guides/singapore/people/see-hoot-kee">See Hoot Kee / 薛佛记</a></b></td>
+    <td><b><a href = "/guides/singapore/people/seow-poh-leng">Seow Poh Leng / 萧保龄</a></b></td>
   </tr>
 </table>
 </details>
 
+
 <p></p>
 
-| [**Aw Boon Haw / 胡文虎**](/guides/singapore/people/aw-boon-haw) | [**Chia Ann Siang / 谢安祥**](/guides/singapore/people/chia-ann-siang) |
+<!--| [**Aw Boon Haw / 胡文虎**](/guides/singapore/people/aw-boon-haw) | [**Chia Ann Siang / 谢安祥**](/guides/singapore/people/chia-ann-siang) |
 | [**Lee Dai Sor / 李大傻**](/guides/singapore/people/lee-dai-sor) | [**Seow Poh Leng / 萧保龄**](/guides/singapore/people/seow-poh-leng) |
 | [**Tan Boo Liat / 陈武烈**](/guides/singapore/people/tan-boo-liat) | [**Tan Chay Yan / 陈齐贤**](/guides/singapore/people/tan-chay-yan) |
-| [**Wong Lin Ken / 黄麟根**](/guides/singapore/people/wong-lin-ken) |  |
+| [**Wong Lin Ken / 黄麟根**](/guides/singapore/people/wong-lin-ken) |  | -->
