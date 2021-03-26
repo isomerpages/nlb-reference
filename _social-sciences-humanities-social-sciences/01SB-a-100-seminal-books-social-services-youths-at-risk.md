@@ -1,5 +1,5 @@
 ---
-title: 100 Seminal Books Social Services - Youths at Risk
+title: 100 Seminal Books on Social Services - Youths at Risk
 permalink: /guides/socialsciences-humanities/social-sciences/100seminalbooks/youths-at-risk
 breadcrumb: Youths at Risk
 third_nav_title: Seminal Books

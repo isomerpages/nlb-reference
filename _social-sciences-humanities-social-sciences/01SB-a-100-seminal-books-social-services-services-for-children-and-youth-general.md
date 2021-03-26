@@ -1,5 +1,5 @@
 ---
-title: 100 Seminal Books Social Services - Services for Children and Youth (General)
+title: 100 Seminal Books on Social Services - Services for Children and Youth (General)
 permalink: /guides/socialsciences-humanities/social-sciences/100seminalbooks/services-children-and-youth-general
 breadcrumb: Services for Children and Youth (General)
 third_nav_title: Seminal Books
