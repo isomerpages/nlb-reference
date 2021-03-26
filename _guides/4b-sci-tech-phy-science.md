@@ -7,46 +7,6 @@ third_nav_title: Science & Technology
 ---
 <img src="/images/category/physical-science.jpg" alt="physical science banner" style="width:800px;" />
 
-Insert description here.
-
-<div>
-	<div class="row is-multiline">
-		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/guides/science-technology/physical-sciences/climate-change" class="project-link">
-				<img src="/images/sci-tech/climate change main pic.jpg" alt="Climate Change" class="project-image">
-				<div class="project-title margin--bottom--xs">
-					<h5><b>Climate Change</b></h5>
-				</div>
-			</a>
-		</div>
-		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/guides/science-technology/physical-sciences/air-pollution/" class="project-link">
-				<img src="/images/sci-tech/air-pollution-banner.jpg" alt="Air Pollution" class="project-image">
-				<div class="project-title margin--bottom--xs">
-					<h5><b>Air Pollution</b></h5>
-				</div>
-			</a>
-		</div>
-	</div>
-</div>
-<div>
-	<div class="row is-multiline">
-		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/guides/guides/test/" class="project-link">
-				<img src="/images/sci-tech/temp sci file 1.jpg" alt="Test 1" class="project-image">
-				<div class="project-title">	
-				<h5>Test link 1</h5>
-				</div>
-			</a>
-		</div>
-		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/guides/guides/test/" class="project-link">
-				<img src="/images/sci-tech/temp sci file 2.jpg" alt="Test 2" class="project-image">
-				<div class="project-title margin--bottom--xs">
-					<h5>Test link 2</h5>
-				</div>
-			</a>
-		</div>
-	</div>
-</div>
-
+* [**Climate Change**](/guides/science-technology/physical-sciences/climate-change)
+* [**Air Pollution**](/guides/science-technology/physical-sciences/air-pollution)
+* [**Environmental Champion**](/guides/science-technology/physical-sciences/environmental-champion)

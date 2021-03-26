@@ -4,6 +4,7 @@ permalink: /guides/science-technology/life-sciences/
 breadcrumb: Life Sciences
 collection_name: sci-tech
 third_nav_title: Science & Technology
+published: false
 ---
 <img src="/images/category/life-science.jpg" alt="life sciences banner" style="width:800px;" />
 

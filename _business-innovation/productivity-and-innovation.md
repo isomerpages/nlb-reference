@@ -1,7 +1,7 @@
 ---
 title: Productivity and Innovation
 permalink: /guides/business/innovation/productivity-and-innovation
-breadcrumb: Open Innovation
+breadcrumb: Productivity and Innovation
 collection_name: business-innovation
 published: true
 ---

@@ -25,6 +25,8 @@ td {
   * <a href = "/guides/singapore/people/lee-dai-sor">Lee Dai Sor / 李大傻</a><br>
   * <a href = "/guides/singapore/people/seow-poh-leng">Seow Poh Leng / 萧保龄</a><br>
 </details>
+
+
 | [**Aw Boon Haw / 胡文虎**](/guides/singapore/people/aw-boon-haw) | [**Chia Ann Siang / 谢安祥**](/guides/singapore/people/chia-ann-siang) |
 | [**Lee Dai Sor / 李大傻**](/guides/singapore/people/lee-dai-sor) | [**Seow Poh Leng / 萧保龄**](/guides/singapore/people/seow-poh-leng) |
 | [**Tan Boo Liat / 陈武烈**](/guides/singapore/people/tan-boo-liat) | [**Tan Chay Yan / 陈齐贤**](/guides/singapore/people/tan-chay-yan) |

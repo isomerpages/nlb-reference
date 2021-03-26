@@ -1,7 +1,7 @@
 ---
-title: Innovation
+title: Core Reads for Innovation
 permalink: /guides/business/innovation/innovation
-breadcrumb: Curated Reads - Innovation
+breadcrumb: Core Reads - Innovation
 collection_name: business-innovation
 #third_nav_title: Skills
 published: true

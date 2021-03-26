@@ -1,7 +1,7 @@
 ---
-title: Role of Boards in managing Risks
+title: Role of Boards in Managing Risks
 permalink: /guides/business/management/role-of-boards-in-managing-risks
-breadcrumb: Role of Boards in managing Risk
+breadcrumb: Role of Boards in Managing Risk
 collection_name: business-management
 published: true
 ---

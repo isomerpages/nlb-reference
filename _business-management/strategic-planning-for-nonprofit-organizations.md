@@ -1,7 +1,7 @@
 ---
-title: Strategic Planning for non-profit Organizations
+title: Strategic Planning for Non-Profit Organizations
 permalink: /guides/business/management/strategic-planning-for-non-profit-organizations
-breadcrumb: Strategic Planning for non-profit Organizations
+breadcrumb: Strategic Planning for Non-Profit Organizations
 collection_name: business-management
 published: true
 ---
