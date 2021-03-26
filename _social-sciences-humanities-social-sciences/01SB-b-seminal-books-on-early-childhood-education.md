@@ -2,6 +2,7 @@
 title: Seminal Books on Early Childhood Education
 permalink: /guides/socialsciences-humanities/social-sciences/seminal-books-early-childhood-education
 breadcrumb: Seminal Books on Early Childhood Education
+third_nav_title: Seminal Books
 collection_name: social-sciences-humanities-social-sciences
 published: true
 ---
