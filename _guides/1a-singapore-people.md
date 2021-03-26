@@ -72,6 +72,50 @@ third_nav_title: Singapore
 </table>
 </details>
 
+<details style= "font-size:20px">
+<summary>T - Z</summary>
+<table style="width:100%">
+  <tr>
+    <td><b><a href = "/guides/singapore/people/tan-boo-liat/">Tan Boo Liat / 陈武烈</a></b></td>
+    <td><b><a href = "/guides/singapore/people/tay-chay-yan">Tan Chay Yan / 陈齐贤</a></b></td>
+  </tr>
+  <tr>
+    <td><b><a href = "/guides/singapore/people/tan-chor-lam">Tan Chor Lam / 陈楚楠</a></b></td>
+    <td><b><a href = "/guides/singapore/people/tan-kheam-hock/">Tan Kheam Hock / 陈谦福</a></b></td>
+  </tr>
+  <tr>
+    <td><b><a href = "/guides/singapore/people/tan-kim-ching/">Tan Kim Ching / 陈金钟</a></b></td>
+    <td><b><a href = "/guides/singapore/people/tan-siak-kew/">Tan Siak Kew / 陈锡九</a></b></td>
+  </tr>
+  <tr>
+    <td><b><a href = "/guides/singapore/people/tan-yeok-seong">Tan Yeok Seong / 陈育崧</a></b></td>
+    <td><b><a href = "/guides/singapore/people/tay-koh-yat">Tay Koh Yat / 郑古悦</a></b></td>
+  </tr>
+  <tr>
+    <td><b><a href = "/guides/singapore/people/tchang-ju-chi">Tchang Ju Chi / 张汝器</a></b></td>
+    <td><b><a href = "/guides/singapore/people/teng-mah-seng">Teng Mah Seng / 丁马成</a></b></td>
+  </tr>
+  <tr>
+    <td><b><a href = "/guides/singapore/people/teo-eng-hock">Teo Eng Hock / 张永福</a></b></td>
+    <td><b><a href = "/guides/singapore/people/tso-ping-lung">Tso Ping Lung 左秉隆</a></b></td>
+  </tr>
+  <tr>
+    <td><b><a href = "/guides/singapore/people/wee-bin">Wee Bin / 黄敏</a></b></td>
+    <td><b><a href = "/guides/singapore/people/wong-lin-ken">Wong Lin Ken / 黄麟根</a></b></td>
+  </tr>
+  <tr>
+    <td><b><a href = "/guides/singapore/people/wong-nai-siong">Wong Nai Siong / 黄乃裳</a></b></td>
+    <td><b><a href = "/guides/singapore/people/wu-lien-teh">Wu Lien Teh / 伍连徳</a></b></td>
+  </tr>
+  <tr>
+    <td><b><a href = "/guides/singapore/people/yeh-chih-yun">Yeh Chih Yun / 叶季允</a></b></td>
+    <td><b><a href = "/guides/singapore/people/yin-suat-chuan">Yin Suat Chuan / 殷雪村</a></b></td>
+  </tr>
+  <tr>
+    <td><b><a href = "/guides/singapore/people/zhang-liqian"> Zhang Liqian / 张礼千</a></b></td>
+  </tr>
+</table>
+</details>
 
 <p></p>
 
