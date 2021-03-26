@@ -31,9 +31,10 @@ third_nav_title: Singapore
   <tr>
     <td><b><a href = "/guides/singapore/people/han-wai-toon">Han Wai Toon / 韩槐准</a></b></td>
     <td><b><a href = "/guides/singapore/people/huang-man-shi">Huang Man Shi / 黄曼士</a></b></td>
-  </tr>
-</details>
+  </tr></details>
+
 <p>
+
 <details style= "font-size:20px">
 <summary>I - S</summary>
 <table style="width:100%">
@@ -71,7 +72,9 @@ third_nav_title: Singapore
   </tr>
 </table>
 </details>
+
 <p>
+
 <details style= "font-size:20px">
 <summary>T - Z</summary>
 <table style="width:100%">

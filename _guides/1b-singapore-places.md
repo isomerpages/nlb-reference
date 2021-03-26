@@ -7,9 +7,9 @@ third_nav_title: Singapore
 ---
 <img src="/images/category/places.jpg" alt="places banner" style="width:800px;" />
 
-[**Garden Smart**](/guides/singapore/places/garden-smart)
+- [**Garden Smart**](/guides/singapore/places/garden-smart)
 
-[**Streets and Places in Singapore**](/guides/singapore/places/streets-and-places-in-singapore)
+- [**Streets and Places in Singapore**](/guides/singapore/places/streets-and-places-in-singapore)
 
 <!--div>
 	<div class="row is-multiline">
