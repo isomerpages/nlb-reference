@@ -9,7 +9,7 @@ third_nav_title: Singapore
 
 <style>
 td {
-  font-size: 50px
+  font-size: 40px
 }
 </style>
 

@@ -736,7 +736,7 @@ Donohue explores how early childhood educators can use technology to engage with
     (Not available in NLB libraries)
     This book examines the theoretical perspectives on play and highlights play research, policy and practices pertaining to early school settings.
 
-  ## **Accessing National Library Board Singapore Resources **
+## **Accessing National Library Board Singapore Resources **
 
 **Accessing the Print Materials**
 

@@ -1,7 +1,7 @@
 ---
-title: 100 Seminal Books: Social Services 
-permalink: /guides/socialsciences-humanities/social-sciences/100seminalbooks/social-services
-breadcrumb: 100 Seminal Books Social Services 
+title: 100 Seminal Books on Social Services 
+permalink: /guides/socialsciences-humanities/social-sciences/100seminalbooks-social-services
+breadcrumb: 100 Seminal Books on Social Services 
 third_nav_title: Seminal Books
 collection_name: social-sciences-humanities-social-sciences
 published: true
