@@ -7,17 +7,18 @@ third_nav_title: Singapore
 ---
 <img src="/images/category/people.jpg" alt="people banner" style="width:800px;" />
 
-<style>
+<!--style>
 <!-- determine font size for tables for this page only -->
 td {
   font-size: 36px
 }
-</style>
+</style-->
+
 
 <details>
   <summary>A - H</summary>
   * <a href = "/guides/singapore/people/aw-boon-haw">Aw Boon Haw / 胡文虎</a><br>
-  * <a href = "/guides/singapore/people/chia-ann-siang"<a>Chia Ann Siang / 谢安祥</a><br>
+  * <a href = "/guides/singapore/people/chia-ann-siang">Chia Ann Siang / 谢安祥</a><br>
 </details>
 <details>
 <summary>I - S</summary>

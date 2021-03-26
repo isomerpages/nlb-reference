@@ -7,7 +7,7 @@ third_nav_title: Singapore
 ---
 <img src="/images/category/places.jpg" alt="places banner" style="width:800px;" />
 
-[**Angkor Wat**](/guides/singapore/places/angkor-wat)
+[**Garden Smart**](/guides/singapore/places/garden-smart)
 
 [**Streets and Places in Singapore**](/guides/singapore/places/streets-and-places-in-singapore)
 
