@@ -7,30 +7,38 @@ third_nav_title: Singapore
 ---
 <img src="/images/category/people.jpg" alt="people banner" style="width:800px;" />
 
-<style>
-td {
-  font-size: 20px
-}
-</style>
-<p style = "font-size:20px">Listed by name in alphabetical order:</p>
+<p style = "font-size:20px">Names are listed in alphabetical order:</p>
 
 <details style= "font-size:20px">
-  <summary>A - H</summary>
-  <ul>
-  <li><b><a href = "/guides/singapore/people/aw-boon-haw">Aw Boon Haw / 胡文虎</a></b></li>
-  <li><b><a href = "/guides/singapore/people/cheang-hong-lim/">Cheang Hong Lim 章芳琳</a></b></li>
-  <li><b><a href = "/guides/singapore/people/chen-jen-hao/">Chen Jen Hao 陈人浩</a></b></li>
-  <li><b><a href = "/guides/singapore/people/chew-joo-chiat/">Chew Joo Chiat 周如切</a></b></li>
-  <li><b><a href = "/guides/singapore/people/chia-ann-siang">Chia Ann Siang / 谢安祥</a></b></li>
-  <li><b><a href = "/guides/singapore/people/chou-sing-chu/">Chou Sing Chu 周星衢</a></b></li>
-  <li><b><a href = "/guides/singapore/people/chuang-chu-lin/">Chuang Chu Lin 庄竹林</a></b></li>
-  </ul>
+<summary>A - H</summary>
+<table style="width:100%">
+  <tr>
+    <td><b><a href = "/guides/singapore/people/aw-boon-haw">Aw Boon Haw / 胡文虎</a></b></td>
+    <td><b><a href = "/guides/singapore/people/cheang-hong-lim/">Cheang Hong Lim 章芳琳</a></b></td>
+  </tr>
+  <tr>
+    <td><b><a href = "/guides/singapore/people/chen-jen-hao/">Chen Jen Hao 陈人浩</a></b></td>
+    <td><b><a href = "/guides/singapore/people/chew-joo-chiat/">Chew Joo Chiat 周如切</a></b></td>
+  </tr>
+  <tr>
+    <td><b><a href = "/guides/singapore/people/chia-ann-siang">Chia Ann Siang / 谢安祥</a></b></td>
+    <td><b><a href = "/guides/singapore/people/chou-sing-chu/">Chou Sing Chu 周星衢</a></b></td>
+  </tr>
+  <tr>
+    <td><b><a href = "/guides/singapore/people/chuang-chu-lin/">Chuang Chu Lin 庄竹林</a></b></td>
+    <td><b><a href = "/guides/singapore/people/goh-siew-tin">Goh Siew Tin / 吴寿珍</a></b></td>
+  </tr>
+  <tr>
+    <td><b><a href = "/guides/singapore/people/han-wai-toon">Han Wai Toon / 韩槐准</a></b></td>
+    <td><b><a href = "/guides/singapore/people/huang-man-shi">Huang Man Shi / 黄曼士</a></b></td>
+  </tr>
 </details>
+
 <details style= "font-size:20px">
 <summary>I - S</summary>
 <table style="width:100%">
   <tr>
-    <td><b><a href = "/guides/singapore/people/koh-soh-goh/">Koh Soh Goh 许甦吾</a></b></td>
+    <td><b><a href = "/guides/singapore/people/koh-soh-goh/">Koh Soh Goh / 许甦吾</a></b></td>
     <td><b><a href = "/guides/singapore/people/lee-choon-seng">Lee Choon Seng / 李俊承</a></b></td>
   </tr>
   <tr>
@@ -48,10 +56,6 @@ td {
   <tr>
     <td><b><a href = "/guides/singapore/people/low-ing-sing">Low Ing Sing / 刘仁心</a></b></td>
     <td><b><a href = "/guides/singapore/people/neo-tiew">Neo Tiew / 梁宙</a></b></td>
-  </tr>
-  <tr>
-    <td><b><a href = "/guides/singapore/people/raffles-in-southeast-asia">Raffles in Southeast Asia</a></b></td>
-    <td><b><a href = "/guides/singapore/people/seow-poh-leng">Seow Poh Leng / 萧保龄</a></b></td>
   </tr>
   <tr>
     <td><b><a href = "/guides/singapore/people/raffles-in-southeast-asia">Raffles in Southeast Asia</a></b></td>
