@@ -9,22 +9,31 @@ third_nav_title: Singapore
 
 <style>
 td {
-  font-size: 40px
+  font-size: 35px
 }
 </style>
 
 
+
 <details>
   <summary>A - H</summary>
-  * <a href = "/guides/singapore/people/aw-boon-haw">Aw Boon Haw / 胡文虎</a><br>
-  * <a href = "/guides/singapore/people/chia-ann-siang">Chia Ann Siang / 谢安祥</a><br>
+  <ul>
+  <li><a href = "/guides/singapore/people/aw-boon-haw">Aw Boon Haw / 胡文虎</a></li>
+  <li><a href = "/guides/singapore/people/cheang-hong-lim/">Cheang Hong Lim 章芳琳</a></li>
+  <li><a href = "/guides/singapore/people/chen-jen-hao/">Chen Jen Hao 陈人浩</a></li>
+  <li><a href = "/guides/singapore/people/chew-joo-chiat/">Chew Joo Chiat 周如切</a></li>
+  <li><a href = "/guides/singapore/people/chia-ann-siang">Chia Ann Siang / 谢安祥</a></li>
+  [Chou Sing Chu 周星衢](/guides/singapore/people/chou-sing-chu/)
+  <p>[Chuang Chu Lin 庄竹林](/guides/singapore/people/chuang-chu-lin/)</p>
+  </ul>
 </details>
 <details>
 <summary>I - S</summary>
-  * <a href = "/guides/singapore/people/lee-dai-sor">Lee Dai Sor / 李大傻</a><br>
-  * <a href = "/guides/singapore/people/seow-poh-leng">Seow Poh Leng / 萧保龄</a><br>
+* [Koh Soh Goh 许甦吾](/guides/singapore/people/goh-siew-tin/)
+* <a href = "/guides/singapore/people/lee-dai-sor">Lee Dai Sor / 李大傻</a><br>
+* <a href = "/guides/singapore/people/seow-poh-leng">Seow Poh Leng / 萧保龄</a><br>
 </details>
-
+<p></p>
 
 | [**Aw Boon Haw / 胡文虎**](/guides/singapore/people/aw-boon-haw) | [**Chia Ann Siang / 谢安祥**](/guides/singapore/people/chia-ann-siang) |
 | [**Lee Dai Sor / 李大傻**](/guides/singapore/people/lee-dai-sor) | [**Seow Poh Leng / 萧保龄**](/guides/singapore/people/seow-poh-leng) |
