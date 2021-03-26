@@ -9,22 +9,22 @@ third_nav_title: Singapore
 
 <style>
 td {
-  font-size: 35px
+  font-size: 25px
 }
 </style>
 
 
 
-<details>
+<details style= "font-size:25px">
   <summary>A - H</summary>
   <ul>
-  <li><a href = "/guides/singapore/people/aw-boon-haw">Aw Boon Haw / 胡文虎</a></li>
-  <li><a href = "/guides/singapore/people/cheang-hong-lim/">Cheang Hong Lim 章芳琳</a></li>
-  <li><a href = "/guides/singapore/people/chen-jen-hao/">Chen Jen Hao 陈人浩</a></li>
-  <li><a href = "/guides/singapore/people/chew-joo-chiat/">Chew Joo Chiat 周如切</a></li>
-  <li><a href = "/guides/singapore/people/chia-ann-siang">Chia Ann Siang / 谢安祥</a></li>
-  [Chou Sing Chu 周星衢](/guides/singapore/people/chou-sing-chu/)
-  <p>[Chuang Chu Lin 庄竹林](/guides/singapore/people/chuang-chu-lin/)</p>
+  <li><b><a href = "/guides/singapore/people/aw-boon-haw">Aw Boon Haw / 胡文虎</a></b></li>
+  <li><b><a href = "/guides/singapore/people/cheang-hong-lim/">Cheang Hong Lim 章芳琳</a></b></li>
+  <li><b><a href = "/guides/singapore/people/chen-jen-hao/">Chen Jen Hao 陈人浩</a></b></li>
+  <li><b><a href = "/guides/singapore/people/chew-joo-chiat/">Chew Joo Chiat 周如切</a></b></li>
+  <li><b><a href = "/guides/singapore/people/chia-ann-siang">Chia Ann Siang / 谢安祥</a></b></li>
+  <li><b><a href = "/guides/singapore/people/chou-sing-chu/">Chou Sing Chu 周星衢</a></b></li>
+  <li><b><a href = "/guides/singapore/people/chuang-chu-lin/">Chuang Chu Lin 庄竹林</a></b></li>
   </ul>
 </details>
 <details>
