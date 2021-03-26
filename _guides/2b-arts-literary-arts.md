@@ -23,6 +23,7 @@ third_nav_title: Arts
   </tr>
 </table>
 </details>
+<p>
 
 <details style= "font-size:20px">
 <summary>新加坡华文文学书目</summary>
@@ -40,6 +41,7 @@ third_nav_title: Arts
   </tr>
 </table>
 </details>
+<p>
 
 <details style= "font-size:20px">
 <summary>Singapore Literature Bibliographies</summary>
@@ -62,6 +64,7 @@ third_nav_title: Arts
   </tr>
 </table>
 </details>
+<p>
 
 <details style= "font-size:20px">
 <summary>சிங்கப்பூர்த் தமிழ் இலக்கியம்</summary>
@@ -79,3 +82,4 @@ third_nav_title: Arts
   </tr>
 </table>
 </details>
+<p>
