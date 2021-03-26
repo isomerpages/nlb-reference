@@ -12,7 +12,7 @@ td {
   font-size: 25px
 }
 </style>
-
+# Listed by name in alphabetical order:
 
 
 <details style= "font-size:25px">
@@ -27,12 +27,21 @@ td {
   <li><b><a href = "/guides/singapore/people/chuang-chu-lin/">Chuang Chu Lin 庄竹林</a></b></li>
   </ul>
 </details>
-<details>
+
+<details style= "font-size:25px">
 <summary>I - S</summary>
-* [Koh Soh Goh 许甦吾](/guides/singapore/people/goh-siew-tin/)
-* <a href = "/guides/singapore/people/lee-dai-sor">Lee Dai Sor / 李大傻</a><br>
-* <a href = "/guides/singapore/people/seow-poh-leng">Seow Poh Leng / 萧保龄</a><br>
+<table style="width:100%">
+  <tr>
+    <td><a href = "/guides/singapore/people/koh-soh-goh/">Koh Soh Goh 许甦吾</a></td>
+    <td><a href = "/guides/singapore/people/lee-choon-seng">Lee Choon Seng / 李俊承</a></td>
+  </tr>
+  <tr>
+    <td><a href = "/guides/singapore/people/lee-dai-sor">Lee Dai Sor / 李大傻</a><br></td>
+      <td><a href = "/guides/singapore/people/seow-poh-leng">Seow Poh Leng / 萧保龄</a></td>
+  </tr>
+</table>
 </details>
+
 <p></p>
 
 | [**Aw Boon Haw / 胡文虎**](/guides/singapore/people/aw-boon-haw) | [**Chia Ann Siang / 谢安祥**](/guides/singapore/people/chia-ann-siang) |
