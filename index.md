@@ -9,7 +9,7 @@ sections:
     - hero:
         title: Reference@NLB
         subtitle: Need resources for your research? Need help to search online databases? <br>Or simply curious about what the National Library has to offer? <br>Browse our online guides to discover a world of knowledge right at your fingertips!
-        background: /images/hero-banner.png
+        background: /images/hero-banner.jpg
 #        button: Get Started
         url: /getting-started/onesearch/
         key_highlights:
