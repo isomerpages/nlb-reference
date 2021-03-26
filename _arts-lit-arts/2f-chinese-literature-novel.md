@@ -1,6 +1,6 @@
 ---
-title: Novel
-permalink: /guides/arts/literaryarts/singaporechineseliterature/novel
+title: Novels
+permalink: /guides/arts/literaryarts/singaporechineseliterature/novels
 breadcrumb: Chinese Literature - Novel
 collection_name: arts-lit-arts
 third_nav_title: Bibliography of Singapore Chinese Literature
