@@ -7,12 +7,11 @@ third_nav_title: Singapore
 ---
 <img src="/images/category/people.jpg" alt="people banner" style="width:800px;" />
 
-<!--style>
-<!-- determine font size for tables for this page only -->
+<style>
 td {
-  font-size: 36px
+  font-size: 50px
 }
-</style-->
+</style>
 
 
 <details>
