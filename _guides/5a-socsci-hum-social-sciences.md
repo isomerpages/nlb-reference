@@ -7,7 +7,7 @@ third_nav_title: Social Sciences & Humanities
 ---
 <img src="/images/category/social-science.jpg" alt="social science banner" style="width:800px;" />
 
-<details>
+<details style= "font-size:20px"； color="black">
   <summary>Seminal Books series</summary>
   - <a href = "/guides/socialsciences-humanities/social-sciences/100seminalbooks-social-services"><b>100 Seminal Books: Social Services</b></a><br>
   - <a href = "/guides/socialsciences-humanities/social-sciences/100seminalbooks/cyber-wellness"><b>100 Seminal Books: Social Services - Cyber Wellness</b></a><br>
@@ -19,8 +19,8 @@ third_nav_title: Social Sciences & Humanities
 </details>
 <p>
 
-* [**Effectiveness of Nonprofit Boards**](/guides/socialsciences-humanities/social-sciences/effectiveness-of-nonprofit-boards)
-* [**Environment Champion**](/guides/socialsciences-humanities/social-sciences/environment-champion)
-* [**Nonprofit Board's role in Risk Management**](/guides/socialsciences-humanities/social-sciences/nonprofit-boards-role-in-risk-management)
-* [**Role of Boards in setting Executive Director's Compensation**](/guides/socialsciences-humanities/social-sciences/role-of-boards-in-setting-executive-directors-compensation)
-* [**Supporting Families**](/guides/socialsciences-humanities/social-sciences/supporting-families)
+- [**Effectiveness of Nonprofit Boards**](/guides/socialsciences-humanities/social-sciences/effectiveness-of-nonprofit-boards)
+- [**Environment Champion**](/guides/socialsciences-humanities/social-sciences/environment-champion)
+- [**Nonprofit Board's role in Risk Management**](/guides/socialsciences-humanities/social-sciences/nonprofit-boards-role-in-risk-management)
+- [**Role of Boards in setting Executive Director's Compensation**](/guides/socialsciences-humanities/social-sciences/role-of-boards-in-setting-executive-directors-compensation)
+- [**Supporting Families**](/guides/socialsciences-humanities/social-sciences/supporting-families)

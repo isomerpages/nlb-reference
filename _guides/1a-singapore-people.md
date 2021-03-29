@@ -10,7 +10,7 @@ third_nav_title: Singapore
 <p style = "font-size:20px">Names are listed in alphabetical order:</p>
 
 <details style= "font-size:20px">
-	<summary>A - H</summary>
+	<summary><b>A - H</b></summary>
 		<table style="width:100%">
           <tr>
             <td><b><a href = "/guides/singapore/people/aw-boon-haw">Aw Boon Haw / 胡文虎</a></b></td>
@@ -35,11 +35,9 @@ third_nav_title: Singapore
         </table>
 </details>
 
-
 <p>
-
 <details style= "font-size:20px">
-<summary>I - S</summary>
+<summary><b>I - S</b></summary>
 <table style="width:100%">
   <tr>
     <td><b><a href = "/guides/singapore/people/koh-soh-goh/">Koh Soh Goh / 许甦吾</a></b></td>
@@ -76,10 +74,10 @@ third_nav_title: Singapore
 </table>
 </details>
 
-<p>
 
+<p>
 <details style= "font-size:20px">
-<summary>T - Z</summary>
+<summary><b>T - Z</b></summary>
 <table style="width:100%">
   <tr>
     <td><b><a href = "/guides/singapore/people/tan-boo-liat/">Tan Boo Liat / 陈武烈</a></b></td>
@@ -123,9 +121,4 @@ third_nav_title: Singapore
 </table>
 </details>
 
-<p></p>
-
-<!--| [**Aw Boon Haw / 胡文虎**](/guides/singapore/people/aw-boon-haw) | [**Chia Ann Siang / 谢安祥**](/guides/singapore/people/chia-ann-siang) |
-| [**Lee Dai Sor / 李大傻**](/guides/singapore/people/lee-dai-sor) | [**Seow Poh Leng / 萧保龄**](/guides/singapore/people/seow-poh-leng) |
-| [**Tan Boo Liat / 陈武烈**](/guides/singapore/people/tan-boo-liat) | [**Tan Chay Yan / 陈齐贤**](/guides/singapore/people/tan-chay-yan) |
-| [**Wong Lin Ken / 黄麟根**](/guides/singapore/people/wong-lin-ken) |  | -->
+<p>
