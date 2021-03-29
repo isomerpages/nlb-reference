@@ -11,18 +11,12 @@ published: true
 
 Impressions of Nature marks season two of the Arts Space thematic display of paintings from our collection. Having explored Singapore’s built streetscapes in the first season, we return to nature through three trails: Across the Lands, For the Love of Flora and Second Nature. Explore the beauty and moments in nature as captured by artists, poets and performers this season, from Nov 2018 to April 2019 at the Arts Space @ Level 8. Read on to find out more and to discover home-grown paintings, artists, poems and a host of other resources.
 
-​		
-
-
-
 
 With imperial expansion, growth of scientific and anthropological research as well as expeditions, there was a rise in visual documentation of distant lands. In addition to early photographs, European or colonial perceptions of 19th century Southeast Asian landscapes can also be found in sketches, scientific illustrations and paintings.
 
 Artistic representations of such “faraway places” were commonplace in establishing idyllic visions of imperial landscapes back in their home country. With Singapore functioning as a port of call in the 19th century, many travellers visited the colony, capturing their impressions in writing, prints and painting. On display are a selection of prints which include printmaking methods such as engraving, etching, aquatints and lithography.
 
- 
-
-**About the printmakers**
+ **About the printmakers**
 
 Amongst the different types of printmakers, lithographers also played an important role in reproducing artistic impressions in books for wider distribution and recording. Vincent Brooks, Hullmandel & Walton, and Ackermann & Co. were some of the famous firms in Paris and London that lithographed, published and printed prints of Singapore. Ackermann & Co., for instance, was the leading publisher of colour-plate books and decorative prints, selling compilations and illustrations for accompanying publications at its shop, The Repository of Arts in London.
 
