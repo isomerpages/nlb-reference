@@ -9,7 +9,7 @@ third_nav_title: Singapore
 
 <p style = "font-size:20px">Names are listed in alphabetical order:</p>
 
-<details style= "font-size:20px">
+<details style= "font-size:20px; color:black">
 	<summary><b>A - H</b></summary>
 		<table style="width:100%">
           <tr>
@@ -36,7 +36,7 @@ third_nav_title: Singapore
 </details>
 
 <p>
-<details style= "font-size:20px">
+<details style= "font-size:20px; color:black">
 <summary><b>I - S</b></summary>
 <table style="width:100%">
   <tr>
@@ -74,9 +74,8 @@ third_nav_title: Singapore
 </table>
 </details>
 
-
 <p>
-<details style= "font-size:20px">
+<details style= "font-size:20px; color:black">
 <summary><b>T - Z</b></summary>
 <table style="width:100%">
   <tr>
@@ -122,3 +121,4 @@ third_nav_title: Singapore
 </details>
 
 <p>
+

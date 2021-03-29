@@ -7,7 +7,7 @@ third_nav_title: Social Sciences & Humanities
 ---
 <img src="/images/category/social-science.jpg" alt="social science banner" style="width:800px;" />
 
-<details style= "font-size:20px"； color="black">
+<details style= "font-size:20px; color:black">
   <summary>Seminal Books series</summary>
   - <a href = "/guides/socialsciences-humanities/social-sciences/100seminalbooks-social-services"><b>100 Seminal Books: Social Services</b></a><br>
   - <a href = "/guides/socialsciences-humanities/social-sciences/100seminalbooks/cyber-wellness"><b>100 Seminal Books: Social Services - Cyber Wellness</b></a><br>
