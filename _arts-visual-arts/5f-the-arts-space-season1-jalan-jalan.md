@@ -19,6 +19,8 @@ Why **_JALAN-JALAN_**? We want to take you on a journey to revisit some of Singa
 
 | <a href="#soulcity"><img src="/images/arts/visualarts/Guide-index_Soul-City.png"/></a> | <a href="#annsiang"><img src="/images/arts/visualarts/Guide-index_Ann-Siang-Revisited.png" /></a> | <a href="#shoppast"><img src="/images/arts/visualarts/Guide-Index_Shop-the-Past.png" /></a> |  
 
+![Divider image](/images/arts/visualarts/DIVIDER.png)
+
 <a name="soulcity"></a>
 
 ![soulcity](/images/arts/visualarts/V2-SOUL-CITY.png)
