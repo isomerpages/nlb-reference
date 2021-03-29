@@ -13,7 +13,6 @@ published: true
 * [Books](#books)
 * [Databases](#databases)
 * [Accessing National Library Board Singapore Resources](#accessing-national-library-board-singapore-resources)
-* [Accessing the Databases](#accessing-the-databases)
 * [Author](#author)
 
 ## <u>Introduction</u>
@@ -180,7 +179,7 @@ iii. Write down the <b><u>Location Code</u></b> and the <b><u>Call Number</u></b
 
 All featured books and periodicals are located at the Lee Kong Chian Reference Library.
 
-<b><u>Accessing the Databases</u></b>
+### <b><u>Accessing the Databases</u></b>
 
 The National Library Board (NLB)’s eResources are free for all NLB members. Click [here](http://eresources.nlb.gov.sg/HowDoI.aspx) to find out how to register as a member.
 

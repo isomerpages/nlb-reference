@@ -13,7 +13,6 @@ published: true
 * [Videos](#videos)
 * [Websites](#websites)
 * [Accessing National Library Board Singapore Resources](#accessing-national-library-board-singapore-resources)
-* [Accessing the Databases](#accessing-the-databases)
 * [Author](#author)
 
 ### <u>Introduction</u>
