@@ -129,7 +129,7 @@ Within Typora, you can Ctrl + click any URL or hyperlink to open the website in 
 
 Images can be inserted into Isomer pages. By default, all images are centralised in their respective sections.
 
-The image source is usually an image file from the repository, usually in the `/images` folder and sub-folders for tidier file management (e.g. `/images/temp/visualarts/NLB.jpg`). Note that the directory link begins without the root or repository folder (in this case `nlb-reference`).
+The image source is usually an image file from the repository, usually in the `/images` folder and sub-folders for tidier file management (e.g. `/images/visualarts/NLB.jpg`). Note that the directory link begins without the root or repository folder (in this case `nlb-reference`).
 
 - Important Note: **You will need to copy the image files you had previously downloaded or prepared into the `\image` folder in the repository.** This can be done by opening the repository in Github using the `Show in Explorer` button in the landing page.
 - For Reference@NLB, there are specific folders for each category of guide (e.g. arts, sci-tech, literature), so please use the correct folder. This is to ensure good housekeeping, and reduce the chances of having multiple copies of the same image.

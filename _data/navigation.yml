@@ -28,10 +28,10 @@ links:
         url: /getting-started/proquest/
       - title: Using EBSCOHost
         url: /getting-started/ebscohost/
-      - title: Using Factiva
-        url: /getting-started/factiva/
-      - title: Using JSTOR
-        url: /getting-started/jstor/
+#      - title: Using Factiva
+#        url: /getting-started/factiva/
+#      - title: Using JSTOR
+#       url: /getting-started/jstor/
  #     - title: Fighting Fake News
  #       url: /getting-started/fighting-fake-news/
   - title: Other Formats

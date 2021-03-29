@@ -8,7 +8,7 @@ third_nav_title: Arts
 <img src="/images/category/literary-arts.jpg" alt="literary arts banner" style="width:800px;" />
 
 <details style= "font-size:20px">
-<summary>Sastera Melayu Singapura</summary>
+<summary><b>Sastera Melayu Singapura</b></summary>
 <table style="width:100%">
   <tr>
     <td><b><a href = "/guides/arts/literaryarts/sasteramelayusingapura/novel">Sastera Melayu Singapura - Novel</a></b></td>
@@ -26,7 +26,7 @@ third_nav_title: Arts
 <p>
 
 <details style= "font-size:20px">
-<summary>新加坡华文文学书目</summary>
+<summary><b>新加坡华文文学书目</b></summary>
 <table style="width:100%">
   <tr>
     <td><b><a href = "/guides/arts/literaryarts/singaporechineseliterature/poetry">新加坡华文文学书目：诗歌</a></b></td>
@@ -44,7 +44,7 @@ third_nav_title: Arts
 <p>
 
 <details style= "font-size:20px">
-<summary>Singapore Literature Bibliographies</summary>
+<summary><b>Singapore Literature Bibliographies</b></summary>
 <table style="width:100%">
   <tr>
     <td><b><a href = "/guides/arts/literaryarts/singaporeenglishliterature/miscellaneous">Miscellaneous</a></b></td>
@@ -67,7 +67,7 @@ third_nav_title: Arts
 <p>
 
 <details style= "font-size:20px">
-<summary>சிங்கப்பூர்த் தமிழ் இலக்கியம்</summary>
+<summary><b>சிங்கப்பூர்த் தமிழ் இலக்கியம்</b></summary>
 <table style="width:100%">
   <tr>
     <td><b><a href = "/guides/arts/literaryarts/singaporetamilliterature/novel">புதினம்</a></b></td>

@@ -20,13 +20,13 @@ published: true
 
 Social services for vulnerable children and youth comprise fundamental care, guidance and child protection services to ensure the safety and wellbeing of the child and support services for their families. In Singapore, social service organisations and agencies such as the [Ministry of Social and Family Development](https://www.msf.gov.sg/policies/Children-and-Youth/Pages/default.aspx), the Singapore Children’s Society and the National Council of Social Services also offer education outreach initiatives, help for children and teens recovering from trauma and support for juvenile witnesses who are required to testify in criminal cases.
 
-The 14 titles in this resource guide are listed alphabetically and cover various child protection policies, programmes and services. Books that are unavailable at the Lee Kong Chian Reference Library and NLB’s public libraries have been denoted as such. To explore other areas of social services for children and youth, please go to [100 Seminal Books: Social Services](/guides/socialsciences-humanities/social-sciences/100seminalbooks/social-services).
+The 14 titles in this resource guide are listed alphabetically and cover various child protection policies, programmes and services. Books that are unavailable at the Lee Kong Chian Reference Library and NLB’s public libraries have been denoted as such. To explore other areas of social services for children and youth, please go to [100 Seminal Books: Social Services](/guides/socialsciences-humanities/social-sciences/100seminalbooks-social-services).
 
 ### <u>Books</u>
 
 (listed in alphabetical order)
 
-![book icon](/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png)
+![book icon](/images/socsci-hum/No-1-Closed_Book_Icon.png)
 
 **A child’s journey through placement** 
 
@@ -38,7 +38,7 @@ Fahlberg provides an insider’s perspective on the experiences of children who 
 
 London: Jessica Kingsley Publishers, 2012.
 
-![book icon](/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png)
+![book icon](/images/socsci-hum/No-1-Closed_Book_Icon.png)
 
 **A different home: A new foster child’s story**
 
@@ -50,7 +50,7 @@ This full-colour picture book addresses the worries and anxieties of children ag
 
 London: Jessica Kingsley Publishers, 2014.
 
-![book icon](/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png)
+![book icon](/images/socsci-hum/No-1-Closed_Book_Icon.png)
 
 **Groundbreaking interventions: Working with traumatized children, teens and families in foster care and adoption**
 
@@ -62,7 +62,7 @@ Yoffe has provides 18 creative and unique interventions based on play-based meth
 
 North Carolina: Lulu Publishing Services, 2014.
 
-![book icon](/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png)
+![book icon](/images/socsci-hum/No-1-Closed_Book_Icon.png)
 
 **Social policy for children and families: A risk and resilience perspective**
 
@@ -74,7 +74,7 @@ With contributions from leading experts on social policy for at-risk children an
 
 Thousand Oaks, CA: Sage publications, 2016.
 
-![social work image](/images/temp/100seminalbooks/social-work-with-children-and-youth-in-singapore.png)
+![social work image](/images/socsci-hum/social-work-with-children-and-youth-in-singapore.png)
 
 <b><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202571045">Social work with children and youth in Singapore: A resilience perspective</a></b>
 
@@ -87,7 +87,7 @@ Tracing the development of social work for vulnerable children and youth in Sing
 
 All rights reserved, Singapore: Pearson Education South Asia Pte Ltd, 2016.
 
-![book icon](/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png)
+![book icon](/images/socsci-hum/No-1-Closed_Book_Icon.png)
 
 **Supporting and educating traumatised students**
 
@@ -99,7 +99,7 @@ Targeted at educators and school-based professionals, this publication provides 
 
 Oxford: Oxford University Press, 2012.
 
-![book icon](/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png)
+![book icon](/images/socsci-hum/No-1-Closed_Book_Icon.png)
 
 **Teens who hurt: Clinical interventions to break the cycle of adolescent violence**
 
@@ -111,7 +111,7 @@ Focusing on youth violence, the authors highlight four key factors arising from 
 
 New York: Giilford Press, 2006.
 
-![book icon](/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png)
+![book icon](/images/socsci-hum/No-1-Closed_Book_Icon.png)
 
 **The adoptive and foster parent guide: How to heal your child’s trauma and loss**
 
@@ -123,7 +123,7 @@ A very useful text for families and industry professionals who are new or well-v
 
 Charleston, SC: Createspace, 2012.
 
-![the body keeps score image](/images/temp/100seminalbooks/body-keeps-score.jpg)
+![the body keeps score image](/images/socsci-hum/body-keeps-score.jpg)
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202226364"><b>The body keeps the score: Mind, brain and body in the transformation of trauma</b></a>
 
@@ -137,7 +137,7 @@ All rights reserved, London: Penguin Books, 2015.
 
 This title is also available as an ebook on [Overdrive](https://nlb.overdrive.com/media/1438715). myLibrary ID is required to access this ebook.
 
-![the boy who was raised as a dog image](/images/temp/100seminalbooks/boy-raised-as-dog.jpg)
+![the boy who was raised as a dog image](/images/socsci-hum/boy-raised-as-dog.jpg)
 
 **The boy who was raised as a dog: and other stories from a child psychiatrist’s notebook: What traumatized children can teach us about life, loss, love, and healing**
 
@@ -151,7 +151,7 @@ All rights reserved, New York: Basic Books, 2008.
 
 This title is also available as an ebook on [Overdrive](https://nlb.overdrive.com/media/3051054). myLibrary ID is required to access this ebook.
 
-![book icon](/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png)
+![book icon](/images/socsci-hum/No-1-Closed_Book_Icon.png)
 
 **The foster parenting toolbox: A practical, hands-on approach to parenting children in foster care**
 
@@ -163,7 +163,7 @@ An essential read for foster parents, case workers, social workers and other pro
 
 New Jersey: EMK Press, 2014.
 
-![nice girl syndrome image](/images/temp/100seminalbooks/nice-girl-syndrome.jpg)
+![nice girl syndrome image](/images/socsci-hum/nice-girl-syndrome.jpg)
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13057443"><b>The nice girl syndrome: Stop being manipulated and abused — and start standing up for yourself</b></a>
 
@@ -177,7 +177,7 @@ All rights reserved, Hoboken, N.J.: John Wiley & Sons, 2008.
 
 This title is also available as an ebook on [Overdrive](https://nlb.overdrive.com/media/294895) and [NetLibrary (eBooks on Ebscohost)](http://eresources.nlb.gov.sg/Main/Browse?startsWith=N). myLibrary ID is required to access this ebook.
 
-![Therapeutic interventions image](/images/temp/100seminalbooks/therapeutic-interventions.jpg)
+![Therapeutic interventions image](/images/socsci-hum/therapeutic-interventions.jpg)
 
 <a href="http://eresources.nlb.gov.sg/Main/Browse?startsWith=P"><b>Therapeutic interventions for families and children in the child welfare system</b></a>
 

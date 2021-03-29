@@ -18,14 +18,14 @@ published: true
 
 Social services for children and youth with special needs consist of early intervention and community integration support services and programmes to help them to develop to their fullest potential and to better integrate with mainstream schools and society. 
 
-The 21 titles in this resource guide are listed alphabetically and discuss strategies to create a more caring and inclusive school and community environment. Books that are unavailable at the Lee Kong Chian Reference Library and NLB’s public libraries have been denoted as such. To explore other areas of social services for children and youth, please go to [100 Seminal Books: Social Services](/temp/100seminalbooks/social-services).
+The 21 titles in this resource guide are listed alphabetically and discuss strategies to create a more caring and inclusive school and community environment. Books that are unavailable at the Lee Kong Chian Reference Library and NLB’s public libraries have been denoted as such. To explore other areas of social services for children and youth, please go to [100 Seminal Books: Social Services](/guides/socialsciences-humanities/social-sciences/100seminalbooks-social-services).
 
 
 ### <u>Books</u>
 
 (listed in alphabetical order)
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;"> 
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;"> 
 
 **50 activities and games for kids with ADHD**
 
@@ -37,7 +37,7 @@ Suited for parents, teachers and counselors, the games and activities in this bo
 
 Washington DC: Magination Press , 2010.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 **At-risk children and youth: Resiliency explored**
 
@@ -49,7 +49,7 @@ McElwee examines what it means for children and youths to be “at-risk”, with
 
 Abingdon, UK: Routledge, 2011.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 **Autism and reading comprehension: Ready-to-use lessons for teachers**
 
@@ -61,7 +61,7 @@ Porter has designed 90 hours of animal-themed lesson plans with step-by-step ins
 
 Arlington, Texas: Future Horizons, 2011.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 **ehavior solutions for the inclusive classroom**
 
@@ -73,7 +73,7 @@ A useful guide for teachers to create an inclusive and positive learning environ
 
 Arlington, Texas: Future Horizons, 2010.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 **Can I tell you about Autism? A guide for friends, family and professionals**
 
@@ -85,7 +85,7 @@ This illustrated book is suited for readers aged seven and above. The story’s 
 
 London: Jessica Kingsley, 2014.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 **Can I tell you about Dyslexia? A guide for friends, family and professionals**
 
@@ -97,7 +97,7 @@ This illustrated book is suited for readers aged seven and above. Through the ce
 
 London: Jessica Kingsley, 2013.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 **Can I tell you about sensory processing difficulties: A guide for friends, family and professionals**
 
@@ -109,7 +109,7 @@ An illustrated book for readers aged seven and above as well as teachers, parent
 
 London: Jessica Kingsley, 2016.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <a href="http://eresources.nlb.gov.sg/Main/Browse?startsWith=P"><b>Causes and cures in the classroom: Getting to the root of academic and behavior problems</b></a>
 
@@ -121,7 +121,7 @@ All rights reserved, Alexandria, VA: Association for Supervision & Curriculum De
 
 This title is available as an ebook on [ProQuest Ebook Central](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P). myLibrary ID is required to access this ebook.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 **Coping with ADD/ADHD: Attention deficit disorder/ attention deficit hyperactivity disorder**
 
@@ -133,7 +133,7 @@ Gain a better understanding of attention deficit disorder (ADD) and learn what t
 
 New York: The Rosen Publishing Group, 1996.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 **Executive function “dysfunction”: Strategies for educators and parents**
 
@@ -145,7 +145,7 @@ Parents and educators of children with executive function difficulties will bene
 
 London: Jessica Kingsley, 2014.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 **How do I teach this kid to read? Teaching literacy skills to young children with autism, from phonics to fluency**
 
@@ -157,7 +157,7 @@ Teachers and parents can use the numerous activities in this book to assist youn
 
 Arlington, Texas: Future Horizons, 2010.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13600349"><b>I’m not naughty: A handbook on attention deficit/hyperactivity disorder (ADHD) for parents, care-givers and teachers</b></a>
 
@@ -169,7 +169,7 @@ Parents, caregivers and teachers who care for and teach children who are diagnos
 
 All rights reserved, Singapore: Society for the Promotion of Attention Deficit/Hyperactivity Disorder Research and Knowledge, 2010.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 **Inside asperger’s looking out**
 
@@ -181,7 +181,7 @@ Through engaging text and colourful visuals, Hoopmann describes how people diagn
 
 London: Jessica Kingsley, 2013.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14338000"><b>Raising boys with ADHD: Secrets for parenting healthy, happy sons</b></a>
 
@@ -193,7 +193,7 @@ A handy guide with solutions and strategies for parents and teachers to help boy
 
 All rights reserved, Waco, Texas: Prufrock Press, 2012.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 **Strategy instruction for students with learning disabilities**
 
@@ -205,7 +205,7 @@ The authors advocate a step-by-step cognitive strategy for struggling learners t
 
 New York: Guilford Press, 2013.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 **The ADHD  workbook for kids: Helping children gain self-confidence, social skills and self-control**
 
@@ -217,7 +217,7 @@ Written by an internationally known child psychologist and parenting expert, thi
 
 Oakland, California: New Harbinger Publications, Inc, 2010.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201644153"><b>The complete guide to special education: Expert advice on evaluations, IEPs and helping kids succeed</b></a>
 
@@ -229,7 +229,7 @@ Written by school psychologists, this publication provides an overview of the sp
 
 All rights reserved, San Francisco: Jossey-Bass, 2010.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13602389"><b>The gift of dyslexia: Why some of the smartest people can’t read… and how they can learn</b></a>
 
@@ -243,7 +243,7 @@ All rights reserved, New York: Penguin Group, 2010.
 
 This title is also available as an ebook on [Overdrive](https://nlb.overdrive.com/media/312747). myLibrary ID is required to access this ebook.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202582688"><b>The out-of-sync child grows up: Coping with sensory processing disorder in the adolescent and young adult years</b></a>
 
@@ -255,7 +255,7 @@ This book is a follow-up to the author’s previously published title, The out-o
 
 New York: TarcherPerigee, 2016.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=8456877"><b>The out-of-sync child: Recognizing and coping with sensory processing disorder</b></a>
 
@@ -269,7 +269,7 @@ All rights reserved, New York: Perigee Book, 1998.
 
 This title is also available as an ebook on [Overdrive](https://nlb.overdrive.com/media/2970325). myLibrary ID is required to access this ebook.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202605997"><b>Understanding girls with ADHD: How they feel and why they do what they do</b></a>
 

@@ -18,14 +18,14 @@ published: true
 
 Social service agencies provide vital support for children and youth from disadvantaged backgrounds so that they have better access to basic health care, learning and developmental opportunities in their critical early years. The programmes and activities offered are designed to help them to develop their personal, social, and life skills to build their self-confidence and maximise their potential.
 
-The 42 titles in this resource guide are listed alphabetically and cover various aspects of social services for children and youth which are aimed at ensuring that their physical and emotional needs are well looked after. Books that are unavailable at the Lee Kong Chian Reference Library and NLB’s public libraries have been denoted as such. To explore other areas of social services for children and youth, please go to [100 Seminal Books: Social Services](/guides/socialsciences-humanities/social-sciences/100seminalbooks/social-services).
+The 42 titles in this resource guide are listed alphabetically and cover various aspects of social services for children and youth which are aimed at ensuring that their physical and emotional needs are well looked after. Books that are unavailable at the Lee Kong Chian Reference Library and NLB’s public libraries have been denoted as such. To explore other areas of social services for children and youth, please go to [100 Seminal Books: Social Services](/guides/socialsciences-humanities/social-sciences/100seminalbooks-social-services).
 
 
 ### <u>Books</u>
 
 (listed in alphabetical order)
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200911358"><b>8 keys to end bullying: Strategies for parents and schools</b</a>
 
@@ -39,7 +39,7 @@ All rights reserved, New York: W.W. Norton & Company, 2014.
 
 This title is also available as an ebook on [Overdrive](https://nlb.overdrive.com/media/2312774). myLibrary ID is required to access this ebook.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12785857"><b>A parent’s guide to building resilience in children and teens: Giving your child roots and wings</b></a>
 
@@ -51,7 +51,7 @@ Learn a variety of approaches to help kids deal with stress from this handbook. 
 
 All rights reserved, United States: American Academy Of Pediatrics, 2011.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13220982"><b>An introduction to counselling</b></a>
 
@@ -65,7 +65,7 @@ All rights reserved, Maidenhead, Berkshire: Open University Press/McGraw Hill, 2
 
 This title is also available as an ebook on [Overdrive](https://nlb.overdrive.com/media/1413920). myLibrary ID is required to access this ebook.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201487533"><b>Brainstorm: The power and purpose of the teenage brain</b></a>
 
@@ -79,7 +79,7 @@ All rights reserved, New York: Jeremy P. Tarcher/Penguin, 2015.
 
 This title is also available as an ebook on [Overdrive](https://nlb.overdrive.com/media/1265919). myLibrary ID is required to access this ebook.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12906178"><b>Building bridges with your teenagers: Keys to effective parenting and communication</b></a>
 
@@ -91,7 +91,7 @@ This slim volume provides advice for parents, teachers and caregivers on effecti
 
 All rights reserved, Singapore: Armour Publishing, 2007.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 **Child and adolescent social work journal**
 
@@ -101,7 +101,7 @@ This is a bi-monthly journal which addresses issues in social work practice with
 
 New York: Springer US, 2018.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 **Children, young people and care**
 
@@ -113,7 +113,7 @@ Gain insights from this compilation of research articles which focuses on the ca
 
 Abingdon, United Kingdom: Routledge, 2017.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 **Coaching excellence**
 
@@ -125,7 +125,7 @@ Gain tips from eighteen experts who offer sound advice which coaches can  adopt 
 
 Champaign, IL: Human Kinetics.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12264526"><b>Counselling in schools: Theories, processes and techniques</b></a>
 
@@ -137,7 +137,7 @@ A clear and structured text on school counselling targeted for teacher counsello
 
 All rights reserved, Singapore: McGraw-Hill, 2004.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11573451"><b>Early prevention of adult antisocial behavior</b></a>
 
@@ -151,7 +151,7 @@ All rights reserved, Cambridge: Cambridge University Press, 2003.
 
 This title is also available as an ebook on [Proquest Ebook Central](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P). myLibrary ID is required to access this ebook.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14276466"><b>From anxiety to meltdown: How individuals on the autism spectrum deal with anxiety, experience meltdowns, manifest tantrums, and how you can intervene effectively</b></a>
 
@@ -165,7 +165,7 @@ All rights reserved, London: Jessica Kingsley Publishers
 
 This title is also available as an ebook on [Overdrive](https://nlb.overdrive.com/media/2676153). myLibrary ID is required to access this ebook.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200175080"><b>Game for life: A guide to developing character & leadership through sport</b></a>
 
@@ -177,7 +177,7 @@ This toolkit produced by the Singapore Sports Council equips coaches with the fr
 
 All rights reserved, Singapore: Singapore Sports Council, 2013.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201234550"><b>Girls uninterrupted: Steps for building stronger girls in a challenging world</b></a>
 
@@ -191,7 +191,7 @@ All rights reserved, London: Icon Books, 2015.
 
 This title is available as an ebook on [Overdrive](https://nlb.overdrive.com/media/2116093). myLibrary ID is required to access this ebook.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 **Groups, troops, clubs and classrooms: The essential handbook for working with youth**
 
@@ -203,7 +203,7 @@ Written for teachers, coaches, volunteers and youth workers, this book offers pr
 
 Minneapolis: Search Institute Press, 2014.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200749502"><b>Handbook of youth mentoring</b></a>
 
@@ -215,7 +215,7 @@ This title brings together contributions by researchers and experts in the field
 
 All rights reserved, Los Angeles: SAGE, 2014.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <a href="http://eresources.nlb.gov.sg/Main/Browse?startsWith=P"><b>Healthy anger: How to help children and teens manage their anger</b></a>
 
@@ -227,7 +227,7 @@ All rights reserved, Oxford: Oxford University Press, 2006.
 
 This title is available as an ebook on [ProQuest Ebook Central](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P). myLibrary ID is required to access this ebook.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12786742"><b>Global youth? Hybrid identities, plural worlds</b></a>
 
@@ -238,7 +238,7 @@ Call No.: R 305.235090511 GLO
 This collection of studies by an international group of youth researchers examines the diverse youth cultures, practices and identities around the globe with perspectives from both the English- and non-English-speaking world.
 
 All rights reserved, New York: Routledge, 2006.
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12788062"><b>How to talk so kids can learn at home and in school</b></a>
 
@@ -250,7 +250,7 @@ Written by parenting experts, this audiobook presents unique communication strat
 
 All rights reserved, New York: Simon & Schuster Audio, 1995.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12655482"><b>How to talk so teens will listen and listen so teens will talk</b></a>
 
@@ -264,7 +264,7 @@ All rights reserved, New York: Collins, 2005.
 
 This title is also available as an ebook on [Overdrive](https://nlb.overdrive.com/media/454483). myLibrary ID is required to access this ebook.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <b>Life story books for adopted and fostered children: A family friendly approach</b>
 
@@ -276,7 +276,7 @@ This refreshing and common-sense guide aims to provide a detailed chronological 
 
 London: Jessica Kingsley Publishers, 2017.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202357484"><b>Living with anger issues</b></a>
 
@@ -288,7 +288,7 @@ Written by three authors with psychology degrees, this slim paperback aims to he
 
 All rights reserved, Singapore: Marshall Cavendish Editions, 2016.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201380608"><b>Living with discipline issues</b></a>
 
@@ -300,7 +300,7 @@ Authored by a senior consultant psychiatrist and two senior clinical psychologis
 
 All rights reserved, Singapore: Marshall Cavendish Editions, 2015.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <a href="http://eresources.nlb.gov.sg/Main/Browse?startsWith=P"><b>New families, old scripts: A guide to the language of trauma and attachment in adoptive families</b></a>
 
@@ -312,7 +312,7 @@ All rights reserved, London: Jessica Kingsley Publishers, 2006.
 
 This title is available as an ebook on [ProQuest Ebook Central](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P). myLibrary ID is required to access this ebook.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14157691"><b>Odd girl out: The hidden culture of aggression in girls</b></a>
 
@@ -324,7 +324,7 @@ This book highlights the hidden issue of aggression and bullying among girls wit
 
 All rights reserved, Boston: Mariner Books/Houghton Mifflin Harcourt, 2011.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <a href="http://eresources.nlb.gov.sg/Main/Browse?startsWith=P"><b>Promoting resilience: Supporting children and young people who are in care, adopted or in need</b></a>
 
@@ -336,7 +336,7 @@ All rights reserved, London: CoramBAAF, 2009.
 
 This title is available as an ebook on [ProQuest Ebook Central](http://eresources.nlb.gov.sg/Main/Browse?startsWith=P). myLibrary ID is required to access this ebook.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201004523"><b>Raw diamonds: Born to shine</b></a>
 
@@ -348,7 +348,7 @@ Written by ITE students, the stories reveal their dreams and aspirations, as wel
 
 All rights reserved, Singapore: Write Editions, 2015.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <b>Relationship counselling for children, young people and families</b>
 
@@ -360,7 +360,7 @@ Using the authors’ own integrative counselling approach, the book provides an 
 
 Thousand Oaks, California: SAGE Publications, 2008.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <b>Resiliency: An integrated approach to practice, policy and research</b>
 
@@ -372,7 +372,7 @@ Read more on a practical framework which promotes resilience-based practice in a
 
 Washington D.C.: National Association of Social Workers, 2012.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12757116"><b>Risk and resilience in childhood: An ecological perspective</b></a>
 
@@ -384,7 +384,7 @@ Fraser examines the risk factors of specific social problems and disorders in ch
 
 All rights reserved, Washington D.C.: National Association of Social Workers, 2004.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <b>Social capital, children and young people: Implications for practice, policy and research</b>
 
@@ -396,7 +396,7 @@ This collection of essays reflect on the development and use of social capital b
 
 Bristol: Policy Press, 2012.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <b>Social work practice with children</b>
 
@@ -408,7 +408,7 @@ Using case examples and research-based strategies, this book provides a practica
 
 New York: The Guilford Press, 2011.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14531443"><b>Stop the bullying</b></a>
 
@@ -420,7 +420,7 @@ This easy-to-read volume considers the complex issue of bullying and offers clea
 
 All rights reserved, Trinity beach, Queensland: Seashell Publishers, 2011.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <b>Successful coaching</b>
 
@@ -432,7 +432,7 @@ A coach, a lifelong competitive athlete and a renowned sports psychologist, Mart
 
 Champaign, IL: Human Kinetics, 2012.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <b>Teaching character through sport: Developing a positive coaching legacy</b>
 
@@ -444,7 +444,7 @@ Based over 30 years of experience in teaching and coaching at high school and co
 
 Monterey, CA: Coaches Choice, 2003.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13651677"><b>The 5 love languages of teenagers: The secret to loving teens effectively</b></a>
 
@@ -456,7 +456,7 @@ Chapman opens a window into the teenage world and offers useful strategies for p
 
 All rights reserved, Chicago: Northfield Publishing, 2010.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13186882"><b>The compassionate mind: A new approach to life’s challenges</b></a>
 
@@ -468,7 +468,7 @@ This scientific book delves into evolutionary psychology and explains the neurol
 
 All rights reserved, London: Constable, 2009.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <b>The social worker’s guide to child and adolescent mental health</b>
 
@@ -480,7 +480,7 @@ A comprehensive and useful guide for new and experienced social work practitione
 
 London: Jessica Kingsley Publishers, 2011.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <b>Understand youth: Perspectives, identities and practices</b>
 
@@ -492,7 +492,7 @@ A comprehensive overview of youths in today’s society segmented under three di
 
 Thousand Oaks, Calif: SAGE, 2007.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=8897785"><b>Values and lifestyles of young Singaporeans</b></a>
 
@@ -504,7 +504,7 @@ Read about the findings of over 1,400 students from junior colleges, the Institu
 
 All rights reserved, Singapore: Prentice Hall, 1998.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <b>Winning without winning</b>
 
@@ -516,7 +516,7 @@ From this book, parents and coaches can learn how to incorporate skill and chara
 
 Bloomington, IN: AuthorHouse, 2010.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <b>With children and youth: Emerging theories and practices in child and youth care work</b>
 
@@ -528,7 +528,7 @@ Written by renowned scholars and researchers, the essays present new perspective
 
 Waterloo, Canada: Wilfrid Laurier University Press, 2013.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13772320"><b>Youth.sg: The state of youth in Singapore 2010</b></a>
 

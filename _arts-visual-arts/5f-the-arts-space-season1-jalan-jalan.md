@@ -10,18 +10,18 @@ published: true
 **The Arts Space at Level 8 of the National Library has been re-imagined as a space that brings to life our rich collection from books and photographs to artworks and poems. Inspired by the painting, “The Couple” by acclaimed Singapore artist Tan Swie Hian, the Arts librarians have set out to create a multi-purpose space – physical and virtual, collaborative and contemplative – that not only evokes a cosy reading corner with recommended reads but a curated space for displays and exhibitions.**
 
 
-![Overview Image](/images/temp/visualarts/V2_OVERVIEW.png)
+![Overview Image](/images/visualarts/V2_OVERVIEW.png)
 
 
 Season 1, **_JALAN-JALAN_** (a Malay word meaning to stroll or go for a walk), kicks-off from end-April 2018 through to mid-November 2018. We have curated a thematic display with paintings by Singapore artists in our collection setting the scene and which have been put up throughout Level 8. Encompassing these artworks are resources which are on display within the Arts Space with more available online through this resource guide.
 
 Why **_JALAN-JALAN_**? We want to take you on a journey to revisit some of Singapore’s old buildings and street scenes as depicted by the paintings through three different trails (sub-themes) – Soul City, Ann Siang Revisited and Shop the Past. Read on to find out more and to discover home-grown paintings, artists, poems and a host of other resources.
 
-| <a href="#soulcity"><img src="/images/temp/visualarts/Guide-index_Soul-City.png"/></a> | <a href="#annsiang"><img src="/images/temp/visualarts/Guide-index_Ann-Siang-Revisited.png" /></a> | <a href="#shoppast"><img src="/images/temp/visualarts/Guide-Index_Shop-the-Past.png" /></a> |  
+| <a href="#soulcity"><img src="/images/visualarts/Guide-index_Soul-City.png"/></a> | <a href="#annsiang"><img src="/images/visualarts/Guide-index_Ann-Siang-Revisited.png" /></a> | <a href="#shoppast"><img src="/images/visualarts/Guide-Index_Shop-the-Past.png" /></a> |  
 
 <a name="soulcity"></a>
 
-![soulcity](/images/temp/visualarts/V2-SOUL-CITY.png)
+![soulcity](/images/visualarts/V2-SOUL-CITY.png)
 
 Cityscape artworks are rich emblems of public memory and private recollections. Juxtaposed alongside city literature by Singapore writers, they fill unspoken spaces in the collective memory of its citizens and mirror the transformations in our cultural geography as we shape-shift to become a ‘smart city’.
 
@@ -29,7 +29,7 @@ This series of paintings form a visual narrative of Singapore’s growth story s
 
 The nation’s quest for constant re-invention is exemplified by poet Edwin Thumboo’s twin library poems “The National Library, nr Dhoby Ghaut, Singapore” and “National Library, 2007, Bugis” which feature the old and new libraries respectively and articulate an ongoing pursuit of knowledge amid calls for innovation. The sleek contours of the current National Library building pay tribute to the virtues of “life-long learning” in a digital era.
 
-![Cavenagh Bridge](/images/temp/visualarts/Cavenagh-Bridge-e1523002926805.png)
+![Cavenagh Bridge](/images/visualarts/Cavenagh-Bridge-e1523002926805.png)
 
 Singapore River – Cavenagh Bridge<br>
 Watercolour on Paper<br>
@@ -39,7 +39,7 @@ Tong Chin Sye<br>
 
 Trained in both Western and Chinese art, Tong is a well-known multimedia artist, and has painted extensively in watercolour, acrylic and oil. A second-generation Singapore artist, Tong’s works document the rapidly changing street scenes and cityscapes since the 1960s, providing a window into the sights and scenes of an older Singapore. Tong graduated from the Nanyang Academy of Fine Arts (NAFA) in 1960 and was a part-time lecturer in Western Art at NAFA from 1995-2010. He was the winner of the Tan Tsze Chor Art Award in 1992 and represented Singapore at the 1998 Flemish Watercolour Days in Zaventum, Europe.
 
-![Padang](/images/temp/visualarts/Padang.png)
+![Padang](/images/visualarts/Padang.png)
 
 Impressions of Singapore – The Padang<br>
 Lithographic Reproduction<br>
@@ -50,7 +50,7 @@ Loy Chye Chuan<br>
 
 A self-taught artist, Loy started painting in 1958 and established himself as a watercolour artist by learning from other established artists like Lim Cheng Hoe in the 1960s, eventually developing his own style. Loy’s works include landscape scenery and street scenes of an older Singapore, using bright colours to inject a fresh and lively feel to them. Loy is one of the thirteen founding members of the Singapore Watercolour Society, which was established on 18 August 1969.
 
-![chijmes](/images/temp/visualarts/Lai-Foong-Moi-CHIJMES.png)
+![chijmes](/images/visualarts/Lai-Foong-Moi-CHIJMES.png)
 
 Looking along Victoria Street with the Convent Chapel at the Corner<br>
 Oil on Canvas<br>
@@ -61,7 +61,7 @@ Lai Foong Moi<br>
 
 Initially studying at Nanyang Academy of Fine Arts (NAFA) as a student of Georgette Chen, Lai was awarded a French government scholarship to study at École Nationale Supérieure des Beaux-Arts in Paris, where she graduated in 1958. While in Paris, she received a mention honourable in Société des Artistes Français’ Salon of 1957. Painting in the Nanyang style, Lai is known for her later works of portraits and figures, while her landscapes offer an insight into her sensitivity to her environment.
 
-![NLB](/images/temp/visualarts/NLB.png)
+![NLB](/images/visualarts/NLB.png)
 
 Untitled [National Library Building, Stamford Road]<br>
 Watercolour on Paper<br>
@@ -190,7 +190,7 @@ This compilation features poems by Singapore’s pioneer poets Edwin Thumboo, pr
 
 <a name="annsiang"></a>
 
-![annsiang](/images/temp/visualarts/Ann-Siang-Revisitedv3.jpg)
+![annsiang](/images/visualarts/Ann-Siang-Revisitedv3.jpg)
 
 Ann Siang Road located in the historic Telok Ayer District in Chinatown begins from a road known as Ann Siang Hill and connects to Kadayanallur Street. It is named after Chia Ann Siang (1832‒1892) a wealthy Chinese businessman who built his house and estate on the site.
 
@@ -198,7 +198,7 @@ Situated on a hill, both Ann Siang Road and Ann Siang Hill are lined with elegan
 
 Another heritage landmark next to Ann Siang Road is Sri Mariamman Temple on South Bridge Road. Established in 1827, it is the oldest Hindu temple in Singapore and was constructed by immigrants from the Nagapatnam and Cuddalore districts of South India. The temple, managed by the Hindu Endowments Board, was gazetted as a national monument on 6 July 1973.
 
-![Old shophouse](/images/temp/visualarts/Old-Shophouse-1.jpg)
+![Old shophouse](/images/visualarts/Old-Shophouse-1.jpg)
 
 Old shophouses on the slope of Ann Siang Hill<br>
 Ink and Colour on Paper<br>
@@ -327,7 +327,7 @@ This publication features photographs and other documents exhibited at the “Ex
 <a name="shoppast"></a>
 
 
- ![shoppast](/images/temp/visualarts/V2-SHOP.png)
+ ![shoppast](/images/visualarts/V2-SHOP.png)
 
 
 Singapore’s colourful shopping history is captured in these paintings of days gone by, where one could buy produce or furniture and homewares from shophouses, queue up for street peddlers who lined the streets, and soak in the mood and late-night treats offered by various hawkers in markets.
@@ -336,7 +336,7 @@ The shophouse is a recognisable architectural icon in Singapore’s building her
 
 The different shades of watercolour and ink in these paintings and excerpts of old Singapore street scenes record the old and vanishing scenes of Singapore as she underwent rapid urbanisation and modernisation.
 
-![street scene](/images/temp/visualarts/street-scene.png)
+![street scene](/images/visualarts/street-scene.png)
 
 街景 (Street Scene)<br>
 Ink and Colour on Paper<br>
@@ -346,7 +346,7 @@ Lim Tze Peng<br>
 
 Lim Tze Peng started his art practice in the 1950s and is best known for his ink paintings of old Singapore scenes, particularly that of the Kampungs, the Singapore River and Chinatown. Besides painting, he also practiced calligraphy and developed a style which he named “muddled calligraphy” (糊涂字). Lim has been awarded several awards for his achievements in and contribution towards the arts, including the Cultural Medallion in 2003 and Meritorious Service Medal in 2016.
 
-![Sago street](/images/temp/visualarts/sago-street.png)
+![Sago street](/images/visualarts/sago-street.png)
 
 Sago Street, Chinatown<br>
 Lithographic Reproduction<br>

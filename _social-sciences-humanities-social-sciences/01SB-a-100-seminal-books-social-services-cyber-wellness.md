@@ -19,13 +19,13 @@ published: true
 
 As youths are increasingly exposed to digital media and computer screens, they are at risk of suffering from addiction, cyber-bullying, cyber attacks, privacy invasion, and other online issues. While it is not feasible for them to be cut off from the Web, there are ways to manage their use of digital media in order to protect them, as well as educate them on the dangers of the cyber-world. Cyber wellness can be inculcated at an early age to equip the young with the necessary skills to navigate an increasingly digital and virtual landscape.
 
-The 14 titles in this resource guide are listed alphabetically and cover various topics such as digital media use, cyber-bullying and information literacy. 3 online resources are included to provide information in other online formats. To explore other areas of social services for children and youth, please go to [100 Seminal Books: Social Services](/guides/socialsciences-humanities/social-sciences/100seminalbooks/social-services).
+The 14 titles in this resource guide are listed alphabetically and cover various topics such as digital media use, cyber-bullying and information literacy. 3 online resources are included to provide information in other online formats. To explore other areas of social services for children and youth, please go to [100 Seminal Books: Social Services](/guides/socialsciences-humanities/social-sciences/100seminalbooks-social-services).
 
 ### <u>Books</u>
 
 (listed in alphabetical order)
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202642720"><b>A field guide to lies: Critical thinking in the information age</b></a>
 
@@ -39,7 +39,7 @@ All rights reserved, New York: Dutton, 2016
 
 This title is also available as an ebook on [Overdrive](https://nlb.overdrive.com/media/2560118). myLibrary ID is required to access this ebook.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202396013"><b>American girls: Social media and the secret lives of teenagers</b></a>
 
@@ -53,7 +53,7 @@ All rights reserved, New York: Alfred A. Knopf, 2016.
 
 This title is available as an ebook on [Overdrive](https://nlb.overdrive.com/media/2559957). myLibrary ID is required to access this ebook.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203101925"><b>Children in a digital world</b></a>
 
@@ -65,7 +65,7 @@ UNICEF’s report on how digital technologies affect children globally describes
 
 All rights reserved, New York: United Nations Children’s Fund, 2017.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13709070"><b>Cyber kids, cyber bullying, cyber balance</b></a>
 
@@ -79,7 +79,7 @@ All rights reserved, Thousand Oaks, California: Corwin Press, 2010.
 
 This title is available as an ebook on [Overdrive](https://nlb.overdrive.com/media/1430313). myLibrary ID is required to access this ebook.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202998730"><b>Cyber self-defense: Expert advice to avoid online predators, identity theft, and cyberbullying</b></a>
 
@@ -93,7 +93,7 @@ All rights reserved, Guilford, Connecticut: Lyons Press, 2014.
 
 This title is also available as an ebook on [Overdrive](https://nlb.overdrive.com/media/1984637). myLibrary ID is required to access this ebook.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14321674"><b>Cyberbullying: Bullying in the digital age</b></a>
 
@@ -107,7 +107,7 @@ All rights reserved, Malden, MA : Wiley-Blackwell, 2012.
 
 This title is available as an ebook on [Overdrive](https://nlb.overdrive.com/media/792471). myLibrary ID is required to access this ebook.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202678400"><b>Death by video game: Danger, pleasure, and obsession on the virtual frontline</b></a>
 
@@ -119,7 +119,7 @@ There have been some cases where players of online games have died in front of t
 
 All rights reserved, Brooklyn, NY: Melville House, 2016.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202613704"><b>Glow kids: How screen addiction is hijacking our kids– and how to break the trance</b></a>
 
@@ -133,7 +133,7 @@ All rights reserved, New York: St. Martin’s Press, 2016.
 
 This title is available as an ebook on [Overdrive](https://nlb.overdrive.com/media/2560107). myLibrary ID is required to access this ebook.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203102932"><b>How to break up with your phone</b></a>
 
@@ -147,7 +147,7 @@ All rights reserved, New York: Ten Speed Press, 2018.
 
 This title is available as an ebook on [Overdrive](https://nlb.overdrive.com/media/3402358). myLibrary ID is required to access this ebook.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200437716"><b>It’s complicated: The social lives of networked teens</b></a>
 
@@ -161,7 +161,7 @@ All rights reserved, New Haven: Yale University Press, 2014.
 
 This title is also available as an ebook on [Overdrive](https://nlb.overdrive.com/media/1911733). myLibrary ID is required to access this ebook.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202989198"><b>Protecting your Internet identity: Are you naked online?</b></a>
 
@@ -173,7 +173,7 @@ Written by cyber experts for the general reader, this title shares some strategi
 
 All rights reserved, Lanham, Maryland: Rowman & Littlefield, 2017.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203097976"><b>The art of screen time: How your family can balance digital media and real life</b></a>
 
@@ -187,7 +187,7 @@ All rights reserved, New York: PublicAffairs, 2018.
 
 This title is also available as an ebook on [Overdrive](https://nlb.overdrive.com/media/3296531). myLibrary ID is required to access this ebook.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202673319"><b>The distracted mind: Ancient brains in a high-tech world</b></a>
 
@@ -201,7 +201,7 @@ All rights reserved, Cambridge, Massachusetts: The MIT Press, 2016.
 
 This title is available as an ebook on [Overdrive](https://nlb.overdrive.com/media/2995506). myLibrary ID is required to access this ebook.
 
-<img src="/images/temp/100seminalbooks/No-1-Closed_Book_Icon.png" style="width: 25%;">
+<img src="/images/socsci-hum/No-1-Closed_Book_Icon.png" style="width: 25%;">
 
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202358227"><b>The smart girl’s guide to privacy: Practical tips for staying safe online</b></a>
 
