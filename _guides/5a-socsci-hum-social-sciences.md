@@ -8,7 +8,7 @@ third_nav_title: Social Sciences & Humanities
 <img src="/images/category/social-science.jpg" alt="social science banner" style="width:800px;" />
 
 <details style= "font-size:20px; color:black">
-  <summary>Seminal Books series</summary>
+  <summary><b>Seminal Books series</b></summary>
   - <a href = "/guides/socialsciences-humanities/social-sciences/100seminalbooks-social-services"><b>100 Seminal Books: Social Services</b></a><br>
   - <a href = "/guides/socialsciences-humanities/social-sciences/100seminalbooks/cyber-wellness"><b>100 Seminal Books: Social Services - Cyber Wellness</b></a><br>
   - <a href = "/guides/socialsciences-humanities/social-sciences/100seminalbooks/services-children-and-youth-general"><b>100 Seminal Books: Social Services - Services for Children and Youth (General)</b></a><br>
@@ -17,7 +17,7 @@ third_nav_title: Social Sciences & Humanities
   - <a href = "/guides/socialsciences-humanities/social-sciences/100seminalbooks/vulnerable-children-and-youth/"><b>100 Seminal Books: Vulnerable Children and Youths</b></a><br>
   - <a href = "/guides/socialsciences-humanities/social-sciences/seminal-books-early-childhood-education"><b>Seminal Books on Early Childhood Education</b></a><br>
 </details>
-<p>
+<p></p>
 
 - [**Effectiveness of Nonprofit Boards**](/guides/socialsciences-humanities/social-sciences/effectiveness-of-nonprofit-boards)
 - [**Environment Champion**](/guides/socialsciences-humanities/social-sciences/environment-champion)
