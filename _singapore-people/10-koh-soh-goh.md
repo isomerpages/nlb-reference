@@ -1,6 +1,6 @@
 ---
 title: Koh Soh Goh 许甦吾
-permalink: /guides/singapore/people/goh-siew-tin/
+permalink: /guides/singapore/people/koh-soh-goh/
 breadcrumb: Koh Soh Goh
 collection_name: singapore-people
 third_nav_title: I - S

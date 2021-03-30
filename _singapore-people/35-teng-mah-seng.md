@@ -4,7 +4,7 @@ permalink: /guides/singapore/people/teng-mah-seng/
 breadcrumb: Teng Mah Seng
 collection_name: singapore-people
 third_nav_title: T - Z
-published: false
+published: true
 ---
 
 ### <u>Guide Index</u>
