@@ -29,7 +29,7 @@ third_nav_title: Singapore
             <td><b><a href = "/guides/singapore/people/goh-siew-tin">Goh Siew Tin / 吴寿珍</a></b></td>
           </tr>
           <tr>
-            <td><b><a href = "/guides/singapore/people/georgette-chen">Georgette Chen</a></b></td>
+            <td><b><a href = "/guides/arts/visual-arts/georgette-chen">Georgette Chen</a></b></td>
           </tr>
           <tr>
             <td><b><a href = "/guides/singapore/people/han-wai-toon">Han Wai Toon / 韩槐准</a></b></td>

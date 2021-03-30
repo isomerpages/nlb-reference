@@ -1,7 +1,6 @@
 ---
 title: Georgette Chen
 permalink: /guides/arts/visual-arts/georgette-chen
-permalink: /guides/singapore/people/georgette-chen
 breadcrumb: Georgette Chen
 collection_name: arts-visual-arts
 third_nav_title: Visual Arts
