@@ -26,9 +26,13 @@ The Lee Kong Chian Reference Library, named after Dr Lee Kong Chian, in honour o
 The Library provides several reference services, including an reference enquiry email service, microfilm, photocopying, and more. For a full list, you may refer to our available services [here](https://www.nlb.gov.sg/Visit/GettingOriented/AvailableServices.aspx). These are some of our services in detail:
 
 - **Reference Point email enquiry**: Email us at [ref@nlb.gov.sg](mailto:ref@nlb.gov.sg) if you have a reference question you need assistance with. Our librarians will assist you to find some resources for your research.
+
 - **Photocopying and Scanning Services**: As the Library's collection items are available for reference only (not available for loan), photocopying and scanning services are provided on every floor.[^1]
+
 - **Microfilm services**: The Library holds microfilm surrogate copies of our local newspapers, rare books, and other publications. These can be referred to on-site at the Library at Level 11. Microfilm printing services are also available.[^1]
+
 - **Digital Reproduction Services**: High-resolution digital copies from the National Library's collections can be provided to users such as researchers and publishers.[^2] This is applicable to users based overseas as well.
 
+---
 [^1]: Scanning and printing is chargeable per page. Actual costs can be referred to on-site. Copying in any format is subject to the Copyright Act (Cap 63, as revised). 
 [^2]: This is a chargeable service dependent on the purpose of use. Other terms and conditions apply.
