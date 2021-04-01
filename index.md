@@ -35,7 +35,7 @@ sections:
         subtitle: How-to Guides
         description: Learn how to use the available research resources effectively
         button: Find Out More
-        url: /getting-started/
+        url: /getting-started/academicresearch/
         image: /images/category/infopic-getting-started.jpg
         alt: Learn how to use research resources effectively
     - infobar:

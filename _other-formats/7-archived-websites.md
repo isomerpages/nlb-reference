@@ -6,6 +6,8 @@ collection_name: other-formats
 published: true
 ---
 
+(*to be edited by LD team)
+
 # **Ephemera**
 
 Ephemera is a term that refers to items intended for short-term use, such as tickets, pamphlets and brochures. The Lee Kong Chian Reference Library collects a variety of print ephemera, namely leaflets, pamphlets, brochures, information sheets, and other minor documents of a few pages or less. Ephemera are valuable sources containing unique information that can supplement standard reference materials. They are useful to researchers wishing to obtain information on societal, cultural, economic and historical developments.
