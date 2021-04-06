@@ -10,7 +10,7 @@ published: true
 
 Collection items in the Lee Kong Chian Reference Library are for reference only, and not available for loan. The National Collection also contains many items which are not available on the open shelves. These items may require some additional steps to be retrieved for reference.
 
-All our collection items can be found in our [**NLB Catalogue**](https://catalogue.nlb.gov.sg){:target="_blank"}. When clicking on **"View Availability"**, there will be a pop-up displaying the respective locations of individual items. Please refer to **"Library"** and **"Section/Shelf Location"** to understand where to access the materials.
+All our collection items can be found in our [**NLB Catalogue**](https://catalogue.nlb.gov.sg){:target="_blank"}. When clicking on **"View Availability"**, a pop-up window will display the respective locations of individual items. Please refer to **"Library"** and **"Section/Shelf Location"** for accessing the materials.
 
 Listed here are the different item locations as you would see under "Section/Shelf Location" for items from the Lee Kong Chian Reference Library.
 
@@ -18,11 +18,11 @@ Listed here are the different item locations as you would see under "Section/She
 
 For items from **Lee Kong Chian Reference Library**, please refer to the **Section/Shelf Location** within the catalogue entry:
 
-| Section/Shelf Location                                       | How to access them                                           |
+| Section/Shelf Location                                       | How to access items                                          |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Reference, Reference Art, Reference Business, Reference Singapore, Reference Southeast Asia, Reference Chinese Overseas | These items should be available in the **open shelves**. Please head to the respective level (levels 7-9 or 11) and look for the corresponding shelf number. Items are shelved according to the call numbers. |
+| Reference, Reference Art, Reference Business, Reference Singapore, Reference Southeast Asia, Reference Chinese Overseas | These items should be available in the **open shelves**. Please head to the respective level (levels 7-9 or 11) and look for the corresponding shelf number. Items are shelved according to their call numbers. |
 | Reference Closed Access, Reference Donor...                  | Upon request at the information counter, these items will be retrieved from our closed stacks by our staff. This might require some time, depending on complexity of the request.<br><br>- You may plan your visit ahead of time and make a reservation (free of charge) to access these materials to reduce your waiting time. Our staff will email you with instructions on how to retrieve your items for reference during your visit. You may make a booking using [this form](https://go.gov.sg/nlb-reserverclos-refnlbwebsite){:target="_blank"}. |
-| Reference Rare                                               | These rare items often hold heritage value, and are not available for reference without written permission. You may request to access these items only if it is necessary to access the physical item for research purposes, and a surrogate copy is not suitable or not available. Please write to [ref@nlb.gov.sg](mailto:ref@nlb.gov.sg) with your detailed request to access the physical items.<br><br>- Alternatively, surrogate copies of many of these items may be available for reference. Please refer to their catalogue entries for details:<br>- Refer to **Shelving Notes** (microfilms begin with NLxxxxx), or - Refer to **Electronic Access** for a digital surrogate copy (URLs mostly accessible from home, otherwise available at a dedicated terminal at Level 11 of the Library). |
+| Reference Rare                                               | These rare items often hold heritage value, and are not available for reference without written permission. You may request to access these items only if it is necessary to access the physical item for research purposes, and a surrogate copy is not suitable or not available. Please write to [ref@nlb.gov.sg](mailto:ref@nlb.gov.sg) with your detailed request to access the physical items.<br><br>- Alternatively, surrogate copies of many of these items may be available for reference. Please refer to their catalogue entries for details:<br>- Refer to **Shelving Notes** (microfilms begin with NLxxxxx), or <br>- Refer to **Electronic Access** for a digital surrogate copy (URLs mostly accessible from home, otherwise available at a dedicated terminal at Level 11 of the Library). |
 
 ## Items from Repository Used Book Collection or PublicationSG
 
