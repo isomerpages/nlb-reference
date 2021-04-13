@@ -10,7 +10,7 @@ published: true
 
 JSTOR provides online access to archived contents of important scholarly journals, mainly in the humanities and social sciences. Researchers are able to retrieve high-resolution, scanned images of back issues of journals and pages as they were originally printed. Existing titles are updated and new titles are added on an ongoing basis.
 
-## **Accessing JSTOR
+## **Accessing JSTOR**
 
 1. Log in to NLB’s [**eResources**](https://eresources.nlb.gov.sg/main){:target="blank"} page with *myLibraryID*. To find out more about setting up *myLibrary ID*, please refer to this [**link**](https://go.gov.sg/mylibraryid){:target="blank"} .
 

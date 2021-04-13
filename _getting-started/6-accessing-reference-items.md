@@ -14,19 +14,21 @@ All our collection items can be found in our [**NLB Catalogue**](https://catalog
 
 Listed here are the different item locations as you would see under "Section/Shelf Location" for items from the Lee Kong Chian Reference Library.
 
-## Items from the Lee Kong Chian Reference Library
+## Items in the Lee Kong Chian Reference Library
 
 For items from **Lee Kong Chian Reference Library**, please refer to the **Section/Shelf Location** within the catalogue entry:
 
 | Section/Shelf Location                                       | How to access items                                          |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Reference, Reference Art, Reference Business, Reference Singapore, Reference Southeast Asia, Reference Chinese Overseas | These items should be available in the **open shelves**. Please head to the respective level (levels 7-9 or 11) and look for the corresponding shelf number. Items are shelved according to their call numbers. |
-| Reference Closed Access, Reference Donor...                  | Upon request at the information counter, these items will be retrieved from our closed stacks by our staff. This might require some time, depending on complexity of the request.<br><br>- You may plan your visit ahead of time and make a reservation (free of charge) to access these materials to reduce your waiting time. Our staff will email you with instructions on how to retrieve your items for reference during your visit. You may make a booking using [this form](https://go.gov.sg/nlb-reserverclos-refnlbwebsite){:target="_blank"}. |
-| Reference Rare                                               | These rare items often hold heritage value, and are not available for reference without written permission. You may request to access these items only if it is necessary to access the physical item for research purposes, and a surrogate copy is not suitable or not available. Please write to [ref@nlb.gov.sg](mailto:ref@nlb.gov.sg) with your detailed request to access the physical items.<br><br>- Alternatively, surrogate copies of many of these items may be available for reference. Please refer to their catalogue entries for details:<br>- Refer to **Shelving Notes** (microfilms begin with NLxxxxx), or <br>- Refer to **Electronic Access** for a digital surrogate copy (URLs mostly accessible from home, otherwise available at a dedicated terminal at Level 11 of the Library). |
+| Reference Closed Access, Reference Donor...                  | You may plan your visit ahead of time and make a reservation (free of charge) to access these materials. Our staff will email you with instructions on how to retrieve your items for reference during your visit. You may make a booking using [this form](https://go.gov.sg/nlb-reserverclos-refnlbwebsite){:target="_blank"}.<br>Upon request at the information counter, these items may also be retrieved from our Closed Stacks by our staff. This might require some time, depending on complexity of the request. |
+| Reference Rare                                               | These rare items often hold heritage value, and are not available for reference without written permission. You may consult surrogate copies of these items instead. Please refer to the catalogue entries for details for each item<br>- Refer to **Shelving Notes** for any microfilms (which begin with NLxxxxx), or <br/>- Refer to **Electronic Access** for any digital surrogate copy (URLs mostly accessible from home, otherwise available at a dedicated terminal at Level 11 of the Library).<br><br>Any access to the physical items will require a formal email request to [ref@nlb.gov.sg](mailto:ref@nlb.gov.sg). A detailed explanation for the purpose of research and explanation for the necessity to access the physical item is compulsory. |
 
-## Items from Repository Used Book Collection or PublicationSG
 
-As these items are not physically stored in the Lee Kong Chian Reference Library, **a reservation must be made in order to access these materials.**[^1] Items will be made available for on-site consultation for a period of 2-3 weeks. Further instructions will be emailed to you upon a successful reservation. **Please note that the reservation fee will still be charged for any uncollected items.**
+
+## Items in the Repository Used Book Collection or PublicationSG
+
+As these items are not physically stored in the Lee Kong Chian Reference Library, **a reservation must be made in order to access these materials.**[^1] Items will be made available for on-site consultation for a period of 2-3 weeks. Detailed instructions will be emailed to you upon a successful reservation. **Please note that the reservation fee will still be charged for any uncollected items.**
 
 The **Repository Used Book Collection** includes items which are the last copies of titles in NLB's collection, out of print titles, materials with research value or historical value, and titles used less frequently although still relevant to Singapore, Southeast Asia and Asia. You may find out more [here](https://www.nlb.gov.sg/SearchDiscover/Services/ResearchServices/RepositoryUsedBookCollection.aspx).
 
