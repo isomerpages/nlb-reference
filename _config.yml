@@ -1,8 +1,6 @@
 title: Lee Kong Chian Reference Library
 url: 'https://reference.nlb.gov.sg'
 favicon: /images/favicon-nlb.ico
-
-# Site colors
 colors:
   primary-color: '#6031b6'
   secondary-color: '#4372d6'
@@ -17,7 +15,6 @@ colors:
       color: '#00838f'
     - title: media-color-five
       color: '#00838f'
-
 collections:
   topics:
     output: true
@@ -86,23 +83,30 @@ collections:
   singapore-history:
     output: true
 resources_name: guides
-
-##################################################################################################################
- 
-# Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
-##################################################################################################################
 permalink: none
-baseurl: ""
-exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
-include: [_redirects]
+baseurl: ''
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
 defaults:
   - scope:
-      path: ""
+      path: ''
     values:
-      layout: "page"
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
@@ -112,4 +116,4 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 description: test test
-
+is_government: false
