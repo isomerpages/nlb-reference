@@ -2,31 +2,22 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Lee Kong Chian Reference Library
 locations:
-  - title: Main Office
+  - title: Lee Kong Chian Reference Library
     address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+      - Level 7 - 11
+      - 100 Victoria Street
+      - Singapore 188064
+    maps_link: https://goo.gl/maps/ad46m6owV2VLck5SA
     operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+      - days: Mon - Sun
+        time: 10.00am - 9.00pm
+        description: Closed at 5.00pm on eves of Christmas, New Year and Chinese New Year. <br> Closed on Public Holidays.
+    
 contacts:
   - title: General Enquiries & Feedback
     content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+    - other:  Did you learn something useful from our resources? Do you have a new idea to share with us? Tell us what you think! Email us at
+    - email: ref@nlb.gov.sg
 ---

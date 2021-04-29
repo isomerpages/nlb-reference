@@ -1,8 +1,6 @@
-title: Title
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
-
-# Site colors
+title: Lee Kong Chian Reference Library
+url: 'https://reference.nlb.gov.sg'
+favicon: /images/favicon-nlb.ico
 colors:
   primary-color: '#6031b6'
   secondary-color: '#4372d6'
@@ -17,28 +15,98 @@ colors:
       color: '#00838f'
     - title: media-color-five
       color: '#00838f'
-
-
 collections:
-  categories:
+  topics:
+    output: true
+  literature:
+    output: true
+  arts:
+    output: true
+  arts-lit-arts:
+    output: true
+  arts-performing-arts:
+    output: true
+  arts-visual-arts:
+    output: true
+  database:
+    output: true
+  category:
+    output: true
+  resource-guides:
+    output: true
+  getting-started:
+    output: true
+  other-formats:
+    output: true
+  about us:
+    output: true
+  Singapore:
+    output: true
+  business:
+    output: true
+  business-career-guidance:
+    output: true
+  business-innovation:
+    output: true
+  business-management:
+    output: true
+  temp:
+    output: true
+  people:
+    output: true
+  places:
+    output: true
+  history:
+    output: true
+  guides:
+    output: true
+  visual-arts:
+    output: true
+  sci-tech:
+    output: true
+  science-technology-physical-sciences:
+    output: true
+  science-technology-technology:
+    output: true
+  social-sciences-humanities-history:
+    output: true
+  social-sciences-humanities-humanities:
+    output: true
+  social-sciences-humanities-social-sciences:
+    output: true
+  socsci-hum:
+    output: true
+  singapore-people:
+    output: true
+  singapore-places:
+    output: true
+  singapore-history:
     output: true
 resources_name: guides
-
-##################################################################################################################
-# Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
-##################################################################################################################
 permalink: none
-baseurl: ""
-exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
-include: [_redirects]
+baseurl: ''
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
 defaults:
   - scope:
-      path: ""
+      path: ''
     values:
-      layout: "page"
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
@@ -48,4 +116,4 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 description: test test
-
+is_government: false
