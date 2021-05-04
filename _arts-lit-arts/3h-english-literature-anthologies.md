@@ -59,8 +59,6 @@ This section contains anthologies of literary works or “creative writing” by
 **RAC** Junior Reference Asian Children<br>
 **RART** Adult Reference Art
 
-### Anthologies
-
 ### <u>1950-1959</u>
 
 Tan, H.H. (Ed.) \[1958\] 30 poems. \[Singapore\]: Raffles Society, University of Malaya.<br>

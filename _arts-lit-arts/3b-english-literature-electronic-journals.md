@@ -55,8 +55,6 @@ While Singapore currently lacks a nationally or internationally established prin
 **RAC** Junior Reference Asian Children<br>
 **RART** Adult Reference Art
 
-**Electronic Journals**
-
 ### <u>1990-1999</u>
 
 Alfian Saat, Koh Beng Liang, et al. The2ndrule.

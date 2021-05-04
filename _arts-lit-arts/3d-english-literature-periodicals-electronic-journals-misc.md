@@ -28,6 +28,7 @@ The National Library has compiled a set of bibliographies on Singapore Literatur
 ![English literature banner](/images/arts/literaryarts/singaporeenglishliterature/SGLitbibliobannerEL-5.jpg)
 
 **Singapore Literature in English**
+
 Singapore Literature in English forms an indispensable part of our culture and identity. Whether writing on public or private themes, the stories, poems and plays give expression to the nation’s and individual’s consciousness, imagination and experience. They enrich our lives by engaging and challenging us with the issues that they present, and by delighting and stirring us with the power and beauty of language and expressions.
 
 * Novels

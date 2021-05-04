@@ -60,8 +60,6 @@ One of the most popular forms of creative writing in Singapore, the entries belo
 **RAC** Junior Reference Asian Children
 **RART** Adult Reference Art
 
-### Poetry
-
 ### <u>1930-1939</u>
 
 Ng, Francis. \[1935\] F.M.S.R.: a poem.<br>

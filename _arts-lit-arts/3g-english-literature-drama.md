@@ -57,8 +57,6 @@ This bibliography includes plays as scripts are published, collected, anthologiz
 **RAC** Junior Reference Asian Children<br>
 **RART** Adult Reference Art
 
-### Drama
-
 ### <u>1960-1969</u>
 
 \[19–\] Cry for a cactus. \[n.d\] Microfilm No.: NL27651<br>

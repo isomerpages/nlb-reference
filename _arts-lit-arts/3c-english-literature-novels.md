@@ -57,9 +57,7 @@ The entries in this genre include the earliest novel published in Singapore duri
 **RAC** Junior Reference Asian Children<br>
 **RART** Adult Reference Art<br>
 
-**Novels**
-
-19–<br>
+### <u>19–</u>
 Hamilton-Shimmen, Wilfred.  \[19–\] Seasons of darkness: a story of Singapore.<br>
 Call No.: RRARE 823.914 HAM
 

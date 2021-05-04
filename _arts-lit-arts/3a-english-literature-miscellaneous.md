@@ -57,8 +57,6 @@ This section contains a unique, otherwise unclassifiable form of publication –
 **RAC** Junior Reference Asian Children<br>
 **RART** Adult Reference Art
 
-**Miscellaneous**
-
 ### <u>1960-1969</u>
 
 \[19–\] Public Affairs Dept. Three poets read: Dr Arthur Yap, Dr Lee Tzu Pheng, Prof Edwin Thumboo.<br>

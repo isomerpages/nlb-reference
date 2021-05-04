@@ -57,8 +57,6 @@ One of the popular forms of literary works in English here, the short story genr
 **RAC** Junior Reference Asian Children<br>
 **RART** Adult Reference Art
 
-### <u>Short Stories</u>
-
 ### <u>1940-1949</u>
 
 Yu, Ovidia. \[194-?\] Alicia Andiporta. .<br>
