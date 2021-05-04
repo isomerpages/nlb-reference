@@ -1,5 +1,5 @@
 ---
-  title: Lim Tze Peng
+title: Lim Tze Peng
 permalink: /guides/singapore/people/lim-tze-peng
 breadcrumb: Lim Tze Peng
 collection_name: singapore-people
@@ -475,11 +475,9 @@ If you’re having problems registering or logging in, please [contact us](http:
 ### <u>Authors</u>
 
 Wang Zineng
-
 Ang Seow Leng
-
 Jason Yan (Updated by)
 
- The information in this resource guide is valid as at Feb 2017 and correct as far as we are able to ascertain from our sources. It is not intended to be an exhaustive or complete history on the subject. Please contact the Library for further reading materials on the topic.
+The information in this resource guide is valid as at Feb 2017 and correct as far as we are able to ascertain from our sources. It is not intended to be an exhaustive or complete history on the subject. Please contact the Library for further reading materials on the topic.
 
 All Rights Reserved. National Library Board Singapore 2017.
