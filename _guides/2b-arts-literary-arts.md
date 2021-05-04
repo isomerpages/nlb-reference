@@ -30,14 +30,14 @@ third_nav_title: Arts
 <table style="width:100%">
   <tr>
     <td><b><a href = "/guides/arts/literaryarts/singaporechineseliterature/poetry">新加坡华文文学书目：诗歌</a></b></td>
-    <td><b><a href = "/guides/arts/literaryarts/singaporechineseliterature/criticism-and-research">Criticism and Research</a></b></td>
+    <td><b><a href = "/guides/arts/literaryarts/singaporechineseliterature/criticism-and-research">文学评论与研究</a></b></td>
   </tr>
   <tr>
-    <td><b><a href = "/guides/arts/literaryarts/singaporechineseliterature/prose-and-miscellaneous-writing">Prose and Miscellaneous Writing</a></b></td>
-    <td><b><a href = "/guides/arts/literaryarts/singaporechineseliterature/drama-and-crosstalk">Drama and Crosstalk</a></b></td>
+    <td><b><a href = "/guides/arts/literaryarts/singaporechineseliterature/prose-and-miscellaneous-writing">散文与杂文</a></b></td>
+    <td><b><a href = "/guides/arts/literaryarts/singaporechineseliterature/drama-and-crosstalk">戏剧与相声</a></b></td>
   </tr>
   <tr>
-    <td><b><a href = "/guides/arts/literaryarts/sasteramelayusingapura/novels">Novels</a></b></td>
+    <td><b><a href = "/guides/arts/literaryarts/sasteramelayusingapura/novels">小说</a></b></td>
   </tr>
 </table>
 </details>

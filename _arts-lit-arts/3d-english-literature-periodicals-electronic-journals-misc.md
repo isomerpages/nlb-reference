@@ -18,16 +18,7 @@ published: true
 * [1960-1969](#1960-1969)
 * [1970-1979](#1970-1979)
 * [1980-1989](#1980-1989)
-* [1990-1999](#1990-1999)
-* [2000-2009](#2000-2009)
-* [2010](#2010)
-* 1990-1999
-* 2000-2009
-* 2010-2015
-* 1960-1969
-* 1970-1979
-* 1980-1989
-* 2000-2015
+* [2000-2015](#2000-2015)
 * [Accessing National Library Board Singapore Resources](#accessing-national-library-board-singapore-resources)
 
 ### Overview of the Singapore Literature Bibliographies (1950 – 2015)
