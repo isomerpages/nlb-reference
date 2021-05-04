@@ -1,9 +1,10 @@
 ---
 title: Leong Yoon Pin
-permalink: /guides/arts/performing-arts/leong-yoon-pin
+permalink: /guides/singapore/people/leong-yoon-pin
 breadcrumb: Leong Yoon Pin
-collection_name: arts-performing-arts
-third_nav_title: Performing Arts
+collection_name: singapore-people
+third_nav_title: I - S
+published: true
 ---
 
 ### <u>Guide Index</u>
@@ -893,9 +894,8 @@ If you’re having problems registering or logging in, please [contact us](http:
 ### <u>Author</u>
 
 Dr. Eleanor A. L. Tan
-Kong Leng Foong (Updated by)
 
- 
+Kong Leng Foong (Updated by)
 
 The information in this resource guide is valid as at July 2017 and correct as far as we are able to ascertain from our sources. It is not intended to be an exhaustive or complete history on the subject. Please contact the Library for further reading materials on the topic.
 

@@ -1,9 +1,9 @@
 ---
-title: Lim Tze Peng
-permalink: /guides/arts/visual-arts/lim-tze-peng
+  title: Lim Tze Peng
+permalink: /guides/singapore/people/lim-tze-peng
 breadcrumb: Lim Tze Peng
-collection_name: arts-visual-arts
-third_nav_title: Visual Arts
+collection_name: singapore-people
+third_nav_title: I - S
 published: true
 ---
 
@@ -469,17 +469,17 @@ All featured books and periodicals are located at the Lee Kong Chian Reference L
 
 The National Library Board (NLB)’s eResources are free for all NLB members. Click [here](http://eresources.nlb.gov.sg/HowDoI.aspx) to find out how to register as a member.
 
-If you’re having problems registering or logging in, please [contact us](http://www.nlb.gov.sg/ContactUs.aspx). If you wish to find information in the databases but am not sure where to begin, or need recommendations on which databases to use, please use the [“Ask A Librarian”](http://www.nlb.gov.sg/Research/AskUs.aspx) function or send an email to [ref@nlb.gov.sg](mailto:ref@library.nlb.gov.sg) for help. The librarian will get back to you within three working days.
+If you’re having problems registering or logging in, please [contact us](http://www.nlb.gov.sg/ContactUs.aspx). If you wish to find information in the databases but am not sure where to begin, or need recommendations on which databases to use, please use the [“Ask A Librarian”](http://www.nlb.gov.sg/Research/AskUs.aspx) function or send an email to [ref@nlb.gov.sg](mailto:ref@nlb.gov.sg) for help. The librarian will get back to you within three working days.
 
 
 ### <u>Authors</u>
 
 Wang Zineng
+
 Ang Seow Leng
+
 Jason Yan (Updated by)
 
- 
-
-The information in this resource guide is valid as at Feb 2017 and correct as far as we are able to ascertain from our sources. It is not intended to be an exhaustive or complete history on the subject. Please contact the Library for further reading materials on the topic.
+ The information in this resource guide is valid as at Feb 2017 and correct as far as we are able to ascertain from our sources. It is not intended to be an exhaustive or complete history on the subject. Please contact the Library for further reading materials on the topic.
 
 All Rights Reserved. National Library Board Singapore 2017.
