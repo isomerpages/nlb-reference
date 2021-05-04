@@ -1,9 +1,9 @@
 ---
-title: Poetry
+title: 诗歌
 permalink: /guides/arts/literaryarts/singaporechineseliterature/poetry
-breadcrumb: Chinese Literature - Poetry
+breadcrumb: 新加坡华文文学书目：诗歌
 collection_name: arts-lit-arts
-third_nav_title: Bibliography of Singapore Chinese Literature
+third_nav_title: 新加坡华文文学书目
 published: true
 ---
 

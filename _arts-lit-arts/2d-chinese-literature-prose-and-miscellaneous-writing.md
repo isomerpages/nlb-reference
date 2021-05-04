@@ -1,13 +1,13 @@
 ---
-title: Prose and Miscellaneous Writing
+title: 散文与杂文
 permalink: /guides/arts/literaryarts/singaporechineseliterature/prose-and-miscellaneous-writing
-breadcrumb: Chinese Literature - Prose and Miscellaneous Writing
+breadcrumb: 新加坡华文文学书目：散文与杂文
 collection_name: arts-lit-arts
-third_nav_title: Bibliography of Singapore Chinese Literature
+third_nav_title: 新加坡华文文学书目
 published: true
 ---
 
-## **Chinese Literature - Criticism and Research**
+## **新加坡华文文学书目：散文与杂文 / Bibliography of Singapore Chinese Literature: Prose and Miscellaneous Writing**
 
 <h3><u>Guide Index</u></h3>
 

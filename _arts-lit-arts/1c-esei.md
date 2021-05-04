@@ -1,5 +1,5 @@
 ---
-title: Sastera Melayu Singapura - Esei
+title: Esei
 permalink: /guides/arts/literaryarts/sasteramelayusingapura/esei
 breadcrumb: Sastera Melayu Singapura - Esei
 collection_name: arts-lit-arts

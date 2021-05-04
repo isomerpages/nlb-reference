@@ -1,13 +1,13 @@
 ---
-title: Novels
+title: 小说 
 permalink: /guides/arts/literaryarts/singaporechineseliterature/novels
-breadcrumb: Chinese Literature - Novel
+breadcrumb: 新加坡华文文学书目：小说 
 collection_name: arts-lit-arts
-third_nav_title: Bibliography of Singapore Chinese Literature
+third_nav_title: 新加坡华文文学书目
 published: true
 ---
 
-## **Chinese Literature - Drama and Crosstalk**
+## **新加坡华文文学书目：小说 / Bibliography of Singapore Chinese Literature: Novels**
 
 <h3><u>Guide Index</u></h3>
 

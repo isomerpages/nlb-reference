@@ -1,5 +1,5 @@
 ---
-title: Sastera Melayu Singapura - Puisi
+title: Puisi
 permalink: /guides/arts/literaryarts/sasteramelayusingapura/puisi
 breadcrumb: Sastera Melayu Singapura - Puisi
 collection_name: arts-lit-arts
