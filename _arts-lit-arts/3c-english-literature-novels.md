@@ -34,6 +34,8 @@ Singapore Literature in English forms an indispensable part of our culture and i
 * Short Stories
 * Drama
 * Anthologies
+* Electronic Journals
+* Miscellaneous
 
 **Novels**
 
