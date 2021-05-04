@@ -893,9 +893,7 @@ If you’re having problems registering or logging in, please [contact us](http:
 
 ### <u>Author</u>
 
-Dr. Eleanor A. L. Tan
-
-Kong Leng Foong (Updated by)
+Dr. Eleanor A. L. Tan<br>Kong Leng Foong (Updated by)
 
 The information in this resource guide is valid as at July 2017 and correct as far as we are able to ascertain from our sources. It is not intended to be an exhaustive or complete history on the subject. Please contact the Library for further reading materials on the topic.
 

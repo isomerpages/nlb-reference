@@ -576,11 +576,7 @@ If you’re having problems registering or logging in, please [contact us](http:
 
 ### <u>Authors</u>
 
-Joanne Lee
-
-Heirwin Mohd Nas
-
-Jason Yan (Updated by)
+Joanne Lee<br>Heirwin Mohd Nas<br>Jason Yan (Updated by)
 
 The information in this resource guide is valid as at Feb 2017 and correct as far as we are able to ascertain from our sources. It is not intended to be an exhaustive or complete history on the subject. Please contact the Library for further reading materials on the topic.
 
