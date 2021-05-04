@@ -11,24 +11,24 @@ published: true
 
 <h3><u>Guide Index</u></h3>
 
-* [1 – Overview of the Singapore Literature Bibliographies (1965 – 2015)](#1-overview-of-the-singapore-literature-bibliographies-1965-2015)
-* [2 – 《新加坡华文文学书目》简介](#2-新-加-坡-华-文-文-学-书-目-简-介)
-* [3 - 1965 – 1970](#3-1965-1970)
-* [4 - 1971 – 1980](#4-1971-1980)
-* [5 - 1981 – 1990](#5-1981-1990)
-* [6 - 1991 – 2000](#6-1991-2000)
-* [7 - 2001 – 2010](#7-2001-2010)
-* [8 - 2011 – 2015](#8-2011-2015)
-* [9 – 编辑](#9-编-辑)
-* [10 - Accessing National Library Board Singapore Resources](#10-accessing-national-library-board-singapore-resources)
+* [Overview of the Singapore Literature Bibliographies (1965 – 2015)](#overview-of-the-singapore-literature-bibliographies-1965-2015)
+* [《新加坡华文文学书目》简介](#anchor2)
+* [1965 – 1970](#1965 - 1970)
+* [1971 – 1980](#1971 - 1980)
+* [1981 – 1990](#1981 - 1990)
+* [1991 – 2000](#1991 - 2000)
+* [2001 – 2010](#2001 - 2010)
+* [2011 – 2015](#2011 - 2015)
+* [编辑](#编辑)
+* [Accessing National Library Board Singapore Resources](#accessing-national-library-board-singapore-resources)
 
-### <u>1 – Overview of the Singapore Literature Bibliographies (1965 – 2015)</u>
+### <u>Overview of the Singapore Literature Bibliographies (1965-2015)</u>
 
 The National Library has compiled a set of bibliographies on Singapore Literature that covers works published in English, Chinese, Malay and Tamil. These provide a comprehensive listing of literary works by Singapore writers and Singapore literature over the past 50 years from 1965 to 2015. The bibliographies have been updated from the original print versions to include works published from 2010 to 2015. The full listing of works including titles of newspapers and literary periodicals in the four languages can be easily accessed through the Resource Guides platform. More information about the specific language bibliographies including scope and coverage can be found in the respective Singapore Literature Resource Guides.
 
 ![Chinese banner](/images/arts/literaryarts/singaporechineseliterature/SGLitbibliobannerCL-1.jpg)
 
-### <u>2 – 《新加坡华文文学书目》简介</u>
+### <a name="anchor2"><u>《新加坡华文文学书目》简介</u></a>
 
 《新加坡华文文学编年书目1965-2009》集合了新加坡国家图书馆、新加坡国立大学中文图书馆以及南洋理工大学中文图书馆的力量，以三家图书馆的藏书为依据，将1965年至2009年间出版的本地作家单行本著作，作一个集合总结。这相信是新加坡首部收录年份范畴最长、而且较为完整的文学书目，供学者更好地检索关于新加坡华文文学的资料。
 
@@ -42,7 +42,7 @@ The National Library has compiled a set of bibliographies on Singapore Literatur
 
 个别文类的书目以编年的方式列出1965年至2015年出版的著作。
 
-### <u>3 – 1965 – 1970</u>
+### <u>1965 - 1970</u>
 
 钟祺。（1966）。谈谈诗歌创作。香港：上海书局。
 NLB索书号：RSEA c811.5005 CC
@@ -89,7 +89,7 @@ NLB索书号：RCLOS C810.09 CJ
 NLB索书号：RCLOS C814.3 CC
 
 
-### <u>4 – 1971 – 1980</u>
+### <u>1971 - 1980</u>
 
 方修编。（1971）。马华新文学大系，2.理论批评二集。新加坡：世界书局。
 NLB索书号：RCLOS C810.08 FH
@@ -298,7 +298,7 @@ NLB索书号：RSEA C810.09 LOO
 NLB索书号：RSING 016.0795957 YSN
 
 
-### <u>5 – 1981 – 1990</u>
+### <u>1981 - 1990</u>
 
 方修编。（1981）。马华新文学大系：（战后），7.散文一集。新加坡：世界书局。
 NLB索书号：RSING C810.08 MHX
@@ -439,7 +439,7 @@ NLB索书号：RSING 016.8951 XJP
 NLB索书号：RSING C810.09 YSN
 
 
-### <u>6 – 1991 – 2000</u>
+### <u>1991 - 2000</u>
 
 陈爱玲。（1991）。笔耕的岁月：认识新加坡作家。新加坡：新加坡作家协会、新亚出版社。
 鱼尾狮文学丛书。
@@ -661,7 +661,7 @@ NLB索书号：RSING C810.09595 WYW
 NLB索书号：RSING C810.09 YSN
 
 
-### <u>7 – 2001 – 2010</u>
+### <u>2001 - 2010</u>
 
 方修编。（2001）。新加坡潮籍作家百人集。新加坡：新加坡潮州八邑会馆。
 NLB索书号：RSING C810.08 XJP
@@ -1092,7 +1092,7 @@ NLB索书号：RSING C810.04 ZY
 （也列入<u>散文</u>与<u>杂文</u>书目）
 
 
-### <u>8 – 2011 – 2015</u>
+### <u>2011 - 2015</u>
 
 成君。（2011）。笔耕留痕。新加坡：新加坡文艺协会。
 NLB索书号：RSING C810.08 CJ
@@ -1285,11 +1285,41 @@ NLB索书号：RSING C810.09 XJP
 心书。
 NLB索书号：RSING C810.092 XY
 
- 
-
-### <u>9 – 编辑</u>
+### <u>编辑</u>
 
 庄致颖<br>
 黄惠龄<br>
 吴玉美<br>
 黄慧丽<br>
+
+### <u>Accessing National Library Board Singapore Resources</u>
+
+_Accessing the Print Materials_
+
+You can search the library catalogue (for physical materials) in the library and from home ([http://catalogue.nlb.gov.sg](http://catalogue.nlb.gov.sg)). The easy search function allows you to search/browse by author, title, keyword, subject and ISBN/ISSN whereas the advanced search allows you to narrow your searches to specific media types or language holdings. In both instances, you will also be able to limit your search to search only specific libraries by clicking on the “limit by branch” option.
+
+**To search Lee Kong Chian Reference Library’s Holdings**
+
+If you wish to search for only materials available in the Lee Kong Chian Reference Library, please always click on the “Limit by Branch” button at the bottom of the page, after you have keyed in your search term. This brings you to a new page whereby you will be able to select the library of your choice. Choose “Lee Kong Chian Reference Library” and select “yes” under the “Display only items available in the selected branch below” and then click on search.
+
+**Things to note:**
+
+Once you have identified the title that you need, please double check through the following information and write down the necessary info:
+
+i. The “Status” of the item: the item is <u>not available</u> in the library, if the status displayed is “in transit”, “in process” or “not ready for loan”.
+
+ii. Double check that the item is in Lee Kong Chian Reference Library under “Branch”.
+
+iii. Write down the <b><u>Location Code</u></b> and the <b><u>Call Number</u></b> of the item. This helps you to locate the item within Lee Kong Chian Reference Library. Please refer to the table below for more information (Note: Please feel free to approach the counter staff for help in locating the books.)
+
+All featured books and periodicals are located at the Lee Kong Chian Reference Library.
+
+<b><u>Accessing the Databases</u></b>
+
+The National Library Board (NLB)’s eResources are free for all NLB members. Click [here](http://eresources.nlb.gov.sg/HowDoI.aspx) to find out how to register as a member.
+
+If you’re having problems registering or logging in, please [contact us](/contact-us/). If you wish to find information in the databases but am not sure where to begin, or need recommendations on which databases to use, please use the “Ask A Librarian” function or send an email to ref@nlb.gov.sg for help. The librarian will get back to you within three working days.
+
+The information in this resource guide is valid as at Jun 2016 and correct as far as we are able to ascertain from our sources. It is not intended to be an exhaustive or complete history on the subject. Please contact the Library for further reading materials on the topic.
+
+All Rights Reserved. National Library Board 2017.

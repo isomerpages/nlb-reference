@@ -11,24 +11,24 @@ published: true
 
 <h3><u>Guide Index</u></h3>
 
-* [1 – Overview of the Singapore Literature Bibliographies (1965 – 2015)](#1-overview-of-the-singapore-literature-bibliographies-1965-2015)
-* [2 – 《新加坡华文文学书目》简介](#2-新-加-坡-华-文-文-学-书-目-简-介)
-* [3 - 1965 – 1970](#3-1965-1970)
-* [4 - 1971 – 1980](#4-1971-1980)
-* [5 - 1981 – 1990](#5-1981-1990)
-* [6 - 1991 – 2000](#6-1991-2000)
-* [7 - 2001 – 2010](#7-2001-2010)
-* [8 - 2011 – 2015](#8-2011-2015)
-* [9 – 编辑](#9-编-辑)
-* [10 - Accessing National Library Board Singapore Resources](#10-accessing-national-library-board-singapore-resources)
+* [Overview of the Singapore Literature Bibliographies (1965 – 2015)](#overview-of-the-singapore-literature-bibliographies-1965-2015)
+* [《新加坡华文文学书目》简介](#anchor2)
+* [1965 – 1970](#1965 - 1970)
+* [1971 – 1980](#1971 - 1980)
+* [1981 – 1990](#1981 - 1990)
+* [1991 – 2000](#1991 - 2000)
+* [2001 – 2010](#2001 - 2010)
+* [2011 – 2015](#2011 - 2015)
+* [编辑](#编辑)
+* [Accessing National Library Board Singapore Resources](#accessing-national-library-board-singapore-resources)
 
-### <u>1 – Overview of the Singapore Literature Bibliographies (1965 – 2015)</u>
+### <u>Overview of the Singapore Literature Bibliographies (1965-2015)</u>
 
 The National Library has compiled a set of bibliographies on Singapore Literature that covers works published in English, Chinese, Malay and Tamil. These provide a comprehensive listing of literary works by Singapore writers and Singapore literature over the past 50 years from 1965 to 2015. The bibliographies have been updated from the original print versions to include works published from 2010 to 2015. The full listing of works including titles of newspapers and literary periodicals in the four languages can be easily accessed through the Resource Guides platform. More information about the specific language bibliographies including scope and coverage can be found in the respective Singapore Literature Resource Guides.
 
 ![Chinese banner](/images/arts/literaryarts/singaporechineseliterature/SGLitbibliobannerCL-1.jpg)
 
-### <u>2 – 《新加坡华文文学书目》简介</u>
+### <a name="anchor2"><u>《新加坡华文文学书目》简介</u></a>
 
 《新加坡华文文学编年书目1965-2009》集合了新加坡国家图书馆、新加坡国立大学中文图书馆以及南洋理工大学中文图书馆的力量，以三家图书馆的藏书为依据，将1965年至2009年间出版的本地作家单行本著作，作一个集合总结。这相信是新加坡首部收录年份范畴最长、而且较为完整的文学书目，供学者更好地检索关于新加坡华文文学的资料。
 
@@ -42,7 +42,7 @@ The National Library has compiled a set of bibliographies on Singapore Literatur
 
 个别文类的书目以编年的方式列出1965年至2015年出版的著作。
 
-### <u>3 – 1965 – 1970</u>
+### <u>1965 - 1970</u>
 
 康年。（1965）。晨曦短语。新加坡：全新出版社。
 NLB索书号：RCLOS C814.308 KGN
@@ -186,7 +186,7 @@ NLB索书号：RCLOS 028.8 ZH
 NLB索书号：RCLOS C814.3 YW
 
 
-### <u>4 – 1971 – 1980</u>
+### <u>1971 - 1980</u>
 
 长河。（1971）。木石集。新加坡：天桥文化社。
 NLB索书号：RSING C814.3 CH
@@ -913,7 +913,7 @@ NLB索书号：RSING C814.3 CW
 NLB索书号：RSING C814.3 CT
 
 
-### <u>5 – 1981 – 1990</u>
+### <u>1981 - 1990</u>
 
 白荷。（1981）。独上高楼。新加坡：新加坡华文中学教师会。
 中教文艺小丛书。
@@ -1920,7 +1920,7 @@ NLB索书号：RSING C814.3 ZC
 NLB索书号：RSING C818.2 ZC
 
 
-### <u>6 – 1991 – 2000</u>
+### <u>1991 - 2000</u>
 
 阿杉。（1991）。走天涯。新加坡：中外翻译书业社。
 NLB索书号：RSING C810.08 AS
@@ -3356,7 +3356,7 @@ NLB索书号：RSING C814.3 ZXY
 NLB索书号：RSING C818.2 ZLL
 
 
-### <u>7 – 2001 – 2010</u>
+### <u>2001 - 2010</u>
 
 蔡宝龙。（2001）。傲鱼的故事：蔡宝龙散文集。新加坡：玲子传媒。
 NLB索书号：RSING C814.3 CBL
@@ -5058,7 +5058,7 @@ NLB索书号：RSING C810.04 ZY
 NLB索书号：RSING C818.2 ZWJ
 
 
-### <u>8 – 2011 – 2015</u>
+### <u>2011 - 2015</u>
 
 蔡澜。（2011）。独坐幽篁。香港：天地图书。
 NLB索书号：RSING C818.2 CL
@@ -5696,14 +5696,14 @@ NLB索书号：RSING C814.3 ZLW
 NLB索书号：RSING C818.2 ZX
 
 
-### <u>9 – 编辑</u>
+### <u>编辑</u>
 
 庄致颖<br>
 黄惠龄<br>
 吴玉美<br>
 黄慧丽<br>
 
-### <u>10- Accessing National Library Board Singapore Resources</u>
+### <u>Accessing National Library Board Singapore Resources</u>
 
 _Accessing the Print Materials_
 

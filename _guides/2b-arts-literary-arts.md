@@ -11,15 +11,15 @@ third_nav_title: Arts
 <summary><b>Sastera Melayu Singapura</b></summary>
 <table style="width:100%">
   <tr>
-    <td><b><a href = "/guides/arts/literaryarts/sasteramelayusingapura/novel">Sastera Melayu Singapura - Novel</a></b></td>
-    <td><b><a href = "/guides/arts/literaryarts/sasteramelayusingapura/esei">Sastera Melayu Singapura - Esei</a></b></td>
+    <td><b><a href = "/guides/arts/literaryarts/sasteramelayusingapura/novel">Novel</a></b></td>
+    <td><b><a href = "/guides/arts/literaryarts/sasteramelayusingapura/esei">Esei</a></b></td>
   </tr>
   <tr>
-    <td><b><a href = "/guides/arts/literaryarts/sasteramelayusingapura/puisi">Sastera Melayu Singapura - Puisi</a></b></td>
-    <td><b><a href = "/guides/arts/literaryarts/sasteramelayusingapura/cerpen">Sastera Melayu Singapura - Cerpen</a></b></td>
+    <td><b><a href = "/guides/arts/literaryarts/sasteramelayusingapura/puisi">Puisi</a></b></td>
+    <td><b><a href = "/guides/arts/literaryarts/sasteramelayusingapura/cerpen">Cerpen</a></b></td>
   </tr>
   <tr>
-    <td><b><a href = "/guides/arts/literaryarts/sasteramelayusingapura/drama">Sastera Melayu Singapura - Drama</a></b></td>
+    <td><b><a href = "/guides/arts/literaryarts/sasteramelayusingapura/drama">Drama</a></b></td>
   </tr>
 </table>
 </details>
@@ -29,7 +29,7 @@ third_nav_title: Arts
 <summary><b>新加坡华文文学书目</b></summary>
 <table style="width:100%">
   <tr>
-    <td><b><a href = "/guides/arts/literaryarts/singaporechineseliterature/poetry">新加坡华文文学书目：诗歌</a></b></td>
+    <td><b><a href = "/guides/arts/literaryarts/singaporechineseliterature/poetry">诗歌</a></b></td>
     <td><b><a href = "/guides/arts/literaryarts/singaporechineseliterature/criticism-and-research">文学评论与研究</a></b></td>
   </tr>
   <tr>
@@ -37,7 +37,7 @@ third_nav_title: Arts
     <td><b><a href = "/guides/arts/literaryarts/singaporechineseliterature/drama-and-crosstalk">戏剧与相声</a></b></td>
   </tr>
   <tr>
-    <td><b><a href = "/guides/arts/literaryarts/sasteramelayusingapura/novels">小说</a></b></td>
+    <td><b><a href = "/guides/arts/literaryarts/singaporechineseliterature/novels">小说</a></b></td>
   </tr>
 </table>
 </details>
