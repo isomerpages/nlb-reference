@@ -26,11 +26,10 @@ published: true
 
 Georgette Chen, neé Chang Li Ying, was a Singaporean artist most well-known for her still-life and figure/landscape portraits in oil. She also worked with other mediums such as watercolour and pastels. Chen’s official recognition as a Pioneer Singapore Artist and her being awarded the Cultural Medallion for Fine Art in 1982 testify to her centrality in the development of Singaporean fine art. Chen was born on 1906 in Zhejiang Province, China (erstwhile erroneously assumed to be Paris, France until clarified by Jane Chia through the retrieval of her marriage certificate) and passed away in Singapore on 1993. Her representative works include East Coast Vendor (1961), Self Portrait (c1946), Still Life: Moon Festival Table (c1965) (along with its multiple incarnations), and Lotus in a Breeze (1970), amongst others.
 
-![Georgette chen image](/images/arts/visualarts/Georgette-Chen-Self-Portrait.jpg)
-
-Georgette Chen, Self-PortraitGeorgette Chen, Self-Portrait (1946).
-Original work © Georgette Chen, 1946; Digital copy © National Library Board, 2008.
-Retrieved from PictureSG.C
+<img src="/images/arts/visualarts/Georgette-Chen-Self-Portrait.jpg" alt="Georgette Chen, Self-Portrait" style="width:500px;" />
+Georgette Chen, Self-Portrait (1946).<br>
+Original work © Georgette Chen, 1946; Digital copy © National Library Board, 2008.<br>
+Retrieved from PictureSG.
 
 Chen is affiliated with the home-grown ‘Nanyang Art’ movement, retroactively coined by historians Redza Piyadasa and T. K. Sabapathy in 1979, that is characterized in part by a representation of regional and local subject matter via a series of formal aesthetic codes and techniques that synthesize Western and Chinese artistic traditions. At the same time, Chen was also a distinctive case with respect to the Nanyang Art faction—while the rest of her colleagues/ contemporaries, such as Cheong Soo Pieng and Liu Kang, were Chinese émigrés who arrived in Singapore in the 1940s from a war-ravaged China, Chen was primarily educated in Euro-American fine art institutions, from the Art Students League of New York to the Académie Colarossi, and relocated to Singapore by way of Paris, France and Penang, Malaysia a decade later in 1953–54.
 
