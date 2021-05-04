@@ -21,7 +21,7 @@ published: true
 * [2010-2015](#2010-2015)
 * [Accessing National Library Board Singapore Resources](#accessing-national-library-board-singapore-resources)
 
-**Overview of the Singapore Literature Bibliographies (1950 – 2015)**
+### **Overview of the Singapore Literature Bibliographies (1950 – 2015)**
 
 The National Library has compiled a set of bibliographies on Singapore Literature that covers works published in English, Chinese, Malay and Tamil. These provide a comprehensive listing of literary works by Singapore writers and Singapore literature from more than 50 years ago. The bibliographies have been updated from the original print versions to include works published from 2008 to 2015. The full listing of works including titles of newspapers and literary periodicals in the four languages can be easily accessed through the Resource Guides platform. More information about the specific language bibliographies including scope and coverage can be found in the respective Singapore Literature Resource Guides.
 
@@ -44,20 +44,20 @@ One of the most popular forms of creative writing in Singapore, the entries belo
 
 **Library Codes**
 
-**NL**: National Library (Lee Kong Chian Reference Library)
-**PL**: Public Libraries, National Library Board
-**RU**: Repository Used Collection, National Library Board
-**NUS**: National University of Singapore
+**NL**: National Library (Lee Kong Chian Reference Library)<br>
+**PL**: Public Libraries, National Library Board<br>
+**RU**: Repository Used Collection, National Library Board<br>
+**NUS**: National University of Singapore<br>
 **ISEAS**: Institute of Southeast Asian Studies
 
 **National Library Collection Codes**
 
-**RSING** Adult Reference Singapore
-**RDET** Adult Reference Edwin Thumboo
-**RCLOS** Adult Reference Closed Access
-**RRARE** Adult Reference Rare
-**YRSING** Young Adult Reference Singapore
-**RAC** Junior Reference Asian Children
+**RSING** Adult Reference Singapore<br>
+**RDET** Adult Reference Edwin Thumboo<br>
+**RCLOS** Adult Reference Closed Access<br>
+**RRARE** Adult Reference Rare<br>
+**YRSING** Young Adult Reference Singapore<br>
+**RAC** Junior Reference Asian Children<br>
 **RART** Adult Reference Art
 
 ### <u>1930-1939</u>

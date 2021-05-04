@@ -18,7 +18,7 @@ published: true
 * [2010-2015](#2010-2015)
 * [Accessing National Library Board Singapore Resources](#accessing-national-library-board-singapore-resources)
 
-### Overview of the Singapore Literature Bibliographies (1950 – 2015)<
+### Overview of the Singapore Literature Bibliographies (1950 – 2015)
 
 The National Library has compiled a set of bibliographies on Singapore Literature that covers works published in English, Chinese, Malay and Tamil. These provide a comprehensive listing of literary works by Singapore writers and Singapore literature from more than 50 years ago. The bibliographies have been updated from the original print versions to include works published from 2008 to 2015. The full listing of works including titles of newspapers and literary periodicals in the four languages can be easily accessed through the Resource Guides platform. More information about the specific language bibliographies including scope and coverage can be found in the respective Singapore Literature Resource Guides.
 
