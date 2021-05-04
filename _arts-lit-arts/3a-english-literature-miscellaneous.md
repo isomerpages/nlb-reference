@@ -40,20 +40,20 @@ This section contains a unique, otherwise unclassifiable form of publication –
 
 **Library Codes**
 
-**NL**: National Library (Lee Kong Chian Reference Library)
-**PL**: Public Libraries, National Library Board
-**RU**: Repository Used Collection, National Library Board
-**NUS**: National University of Singapore
+**NL**: National Library (Lee Kong Chian Reference Library)<br>
+**PL**: Public Libraries, National Library Board<br>
+**RU**: Repository Used Collection, National Library Board<br>
+**NUS**: National University of Singapore<br>
 **ISEAS**: Institute of Southeast Asian Studies
 
 **National Library Collection Codes**
 
-**RSING** Adult Reference Singapore
-**RDET** Adult Reference Edwin Thumboo
-**RCLOS** Adult Reference Closed Access
-**RRARE** Adult Reference Rare
-**YRSING** Young Adult Reference Singapore
-**RAC** Junior Reference Asian Children
+**RSING** Adult Reference Singapore<br>
+**RDET** Adult Reference Edwin Thumboo<br>
+**RCLOS** Adult Reference Closed Access<br>
+**RRARE** Adult Reference Rare<br>
+**YRSING** Young Adult Reference Singapore<br>
+**RAC** Junior Reference Asian Children<br>
 **RART** Adult Reference Art
 
 **Miscellaneous**

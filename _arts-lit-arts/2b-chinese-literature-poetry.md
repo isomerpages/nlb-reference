@@ -7,7 +7,7 @@ third_nav_title: Bibliography of Singapore Chinese Literature
 published: true
 ---
 
-## **新加坡华文文学书目：诗歌 / BIBLIOGRAPHY OF SINGAPORE CHINESE LITERATURE: POETRY**
+## **新加坡华文文学书目：诗歌 / Bibliography of Singapore Chinese Literature: Poetry**
 
 <h3><u>Guide Index</u></h3>
 
@@ -2464,10 +2464,10 @@ NLB索书号：RSING C814.3 YX
 
 ### <u>9 – 编辑</u>
 
-庄致颖
-黄惠龄
-吴玉美
-黄慧丽
+庄致颖<br>
+黄惠龄<br>
+吴玉美<br>
+黄慧丽<br>
 
 ### <u>10- Accessing National Library Board Singapore Resources</u></h3>
 

@@ -24,10 +24,10 @@ published: true
 
 Born on September 28, 1923 in Singapore, Lim Tze Peng is recognized as one of Singapore’s most pre-eminent visual artists, particularly within the Chinese ink and calligraphic tradition, and a second-generation member of the Nanyang Artists. Over the course of his six decade-long artistic career (following an equally impressive tenure in the public education service as the principal of Xinmin Secondary School), the self-taught and home-grown artist has come to develop a culturally, aesthetically, and critically significant oeuvre. In 2003, Lim was conferred the prestigious Cultural Medallion (Visual Arts) in honour of his centrality in Singaporean art and culture. Lim was also the recipient of the Public Administration Medal in 1963 and Public Service Medal in 1981, as well as a Special Prize at the 1977 Commonwealth Art Exhibition—the only Singaporean to do so. In May 2012, Lim’s Singapore River Scene (1978) broke records by fetching HK$620,000 (S$101,800) at a Christie’s auction, a hitherto-unsurpassed price for a work by a living Singaporean artist.
 
-![Lim tze peng image](/images/arts/visualarts/Lim-Tze-Peng.jpg)
+<img src="/images/arts/visualarts/Lim-Tze-Peng.jpg" alt="Lim tze peng image" style="width:500px;" />
 
-Lim Tze Peng© Lim Tze Peng, 2002–2006. All rights reserved.
-Courtesy of the National Arts Council.
+Lim Tze Peng© Lim Tze Peng, 2002–2006. All rights reserved.<br>
+Courtesy of the National Arts Council.<br>
 Retrieved from PictureSG.
 
 While Lim is arguably most known for his works depicting and representing familiar Singaporean scenes/sites such as Malay kampungs (villages), the Singapore River, and Chinatown, as motivated by a nostalgic desire to register and document local heritage potentially endangered by the imperatives of modernity and modernization, his subject matter also includes material such as Bali (Indonesia), Thailand, and Paris (France), as inspired by his travels and expeditions. This visual idioms and vocabularies of his works span oil painting, Chinese ink, and Chinese calligraphy; Lim has, of late, primarily concentrated mostly on the latter, reinventing and enlarging the Chinese calligraphic tradition with what he christens hutuzi (lit. ‘muddled calligraphy’).

@@ -41,274 +41,280 @@ This section contains anthologies of literary works or “creative writing” by
 
 **Library Codes**
 
-**NL**: National Library (Lee Kong Chian Reference Library)
-**PL**: Public Libraries, National Library Board
-**RU**: Repository Used Collection, National Library Board
-**NUS**: National University of Singapore
+**NL**: National Library (Lee Kong Chian Reference Library)<br>
+**PL**: Public Libraries, National Library Board<br>
+**RU**: Repository Used Collection, National Library Board<br>
+**NUS**: National University of Singapore<br>
 **ISEAS**: Institute of Southeast Asian Studies
 
 **National Library Collection Codes**
 
-**RSING** Adult Reference Singapore
-**RDET** Adult Reference Edwin Thumboo
-**RCLOS** Adult Reference Closed Access
-**RRARE** Adult Reference Rare
-**YRSING** Young Adult Reference Singapore
-**RAC** Junior Reference Asian Children
+**RSING** Adult Reference Singapore<br>
+**RDET** Adult Reference Edwin Thumboo<br>
+**RCLOS** Adult Reference Closed Access<br>
+**RRARE** Adult Reference Rare<br>
+**YRSING** Young Adult Reference Singapore<br>
+**RAC** Junior Reference Asian Children<br>
 **RART** Adult Reference Art
 
 ### Anthologies
 
 ### <u>1950-1959</u>
 
-Tan, H.H. (Ed.) \[1958\] 30 poems. \[Singapore\]: Raffles Society, University of Malaya.
+Tan, H.H. (Ed.) \[1958\] 30 poems. \[Singapore\]: Raffles Society, University of Malaya.<br>
 Call No.: RDET 828.995957 TAN
 
-Hochstadt H. (Ed.) \[1959\] The compact: a selection of University of Malaya short stories, 1953-1959.
-Singapore: Raffles Society, University of Malaya in Singapore.
-Call No.: RCLOS S823 COM -\[RFL\] Microfilm No.: NL11434
+Hochstadt H. (Ed.) \[1959\] The compact: a selection of University of Malaya short stories, 1953-1959.<br>
+Singapore: Raffles Society, University of Malaya in Singapore.<br>
+Call No.: RCLOS S823 COM -\[RFL\]<br>
+Microfilm No.: NL11434
 
 ### <u>1960-1969</u>
 
-Wignesan T. (Ed.) \[1964\] Bunga emas: an anthology of contemporary Malaysian literature: 1930-1963. (Ed.).
-Kuala Lumpur: Rayirath (Raybooks) Publications with Anthony Blond Ltd..
-Call No.: RDET 828.99595 BUN Microfiche No.: NL0036/154-156
+Wignesan T. (Ed.) \[1964\] Bunga emas: an anthology of contemporary Malaysian literature: 1930-1963. (Ed.).<br>
+Kuala Lumpur: Rayirath (Raybooks) Publications with Anthony Blond Ltd.<br>
+Call No.: RDET 828.99595 BUN<br>
+Microfiche No.: NL0036/154-156
 
-Sergeant, H. (Ed.) \[1967\] Commonwealth poems of today.
-London, published for the English Association by Murray.
+Sergeant, H. (Ed.) \[1967\] Commonwealth poems of today.<br>
+London, published for the English Association by Murray.<br>
 Call No.: RSING/RDET 828.99 SER
 
 ### <u>1970-1979</u>
 
-Singh, K. (Ed.) \[1972\] Articulations: an anthology of poems.
-\[Singapore\]: Club Adconmeli.
-Call No.: RSING 828.995957 ART
+Singh, K. (Ed.) \[1972\] Articulations: an anthology of poems.<br>
+\[Singapore\]: Club Adconmeli.<br>
+Call No.: RSING 828.995957 ART<br>
 Microfiche No.: NL0029/150-15
 
-Ong, T.H. (Ed.). [1977- 1979] Poetry in Singapore. Vol 1-3
-Singapore: Pan Pacific Book.
+Ong, T.H. (Ed.). [1977- 1979] Poetry in Singapore. Vol 1-3<br>
+Singapore: Pan Pacific Book.<br>
 Call No.: RCLOS 821.008 ETE
 
-Young Writers Circle of the National Library. (Ed.) \[1978\] But we have no legends.
-Singapore: Woodrose Publications.
+Young Writers Circle of the National Library. (Ed.) \[1978\] But we have no legends.<br>
+Singapore: Woodrose Publications.<br>
 Call No.: RSING 828.995957 BUT
 
 ### <u>1980-1989</u>
 
-Yeo. R. (Ed.) \[1981\] ASEAN short stories.
-Singapore: Heinemann Asia.
+Yeo. R. (Ed.) \[1981\] ASEAN short stories.<br>
+Singapore: Heinemann Asia.<br>
 Call No.: RSING/RDET 808.831 ASE
 
-Lim, J. & Peh, C.S. (Eds.) \[1981\] A drop of rain, a single flame: winning entries of the Workshop on Creative Writing and Literary Appreciation 1980.
-Singapore: Educational Publications Bureau.
+Lim, J. & Peh, C.S. (Eds.) \[1981\] A drop of rain, a single flame: winning entries of the Workshop on Creative Writing and Literary Appreciation 1980.<br>
+Singapore: Educational Publications Bureau.<br>
 Call No.: RSING S820.8092375 DRO
 
-Booth, A. (Ed.) \[1982\] Concrete poetry.
-Singapore: Dept. of English Language & Literature, National University of Singapore.
+Booth, A. (Ed.) \[1982\] Concrete poetry.<br>
+Singapore: Dept. of English Language & Literature, National University of Singapore.<br>
 Call No.: RCLOS S821 CON
 
-Lin, Q.F & Tay, E. (Eds.) \[1986\] A collection of students’ essays & short stories.
-Singapore: Pan Asia Pub.
+Lin, Q.F & Tay, E. (Eds.) \[1986\] A collection of students’ essays & short stories.<br>
+Singapore: Pan Asia Pub.<br>
 Call No.: RSING 808.042 COL
 
-Singh, K. (Ed.) \[1988\] Asian & Pacific short stories.
-Singapore: Federal Publications.
+Singh, K. (Ed.) \[1988\] Asian & Pacific short stories.<br>
+Singapore: Federal Publications.<br>
 Call No.: JRSING 808.831 ASI
 
-Balasupramaniam K. (Ed.) \[1989\] Creative expressions: Chinese High School anthology of stories.
-Singapore: Shing Lee Publishers.
+Balasupramaniam K. (Ed.) \[1989\] Creative expressions: Chinese High School anthology of stories.<br>
+Singapore: Shing Lee Publishers.<br>
 Call No.: RSING S823.0108 CRE
 
 ### <u>1990-1999</u>
 
-Pugalenthi Sr et al. \[1991\] Black powers.
-Singapore: V.J. Times.
+Pugalenthi Sr et al. \[1991\] Black powers.<br>
+Singapore: V.J. Times.<br>
 Call No.: RSING S823.01 BLA
 
-Lim, T.S et al \[1991\]  The Chrysanthemum haiku.
-Singapore: VJ Times.
+Lim, T.S et al \[1991\]  The Chrysanthemum haiku.<br>
+Singapore: VJ Times.<br>
 Call No.: RSING S823 .01 CHR
 
-Yu, Ovidia et al. \[1991\] Crystal is waiting.
-Singapore: VJ Times.
+Yu, Ovidia et al. \[1991\] Crystal is waiting.<br>
+Singapore: VJ Times.<br>
 Call No.: RSING S823 CRY
 
-Rashid Saini et al.  \[1991\] Express love.
-Singapore: VJ Times.
+Rashid Saini et al.  \[1991\] Express love.<br>
+Singapore: VJ Times.<br>
 Call No.: RSING S823 EXP
 
-Pugalenthi Sr. (Ed.) \[1992\] Black warrior.
-Singapore: VJ Times.
+Pugalenthi Sr. (Ed.) \[1992\] Black warrior.<br>
+Singapore: VJ Times.<br>
 Call No.: RSING S823 BLA
 
-Pakir, A & Goh, D. (Eds.) \[1992\] Eye on the world: changing landscapes.
-Singapore: UniPress.
+Pakir, A & Goh, D. (Eds.) \[1992\] Eye on the world: changing landscapes.<br>
+Singapore: UniPress.<br>
 Call No.: RSING S820 EYE
 
-Pugalenthi Sr. (Ed.) \[1993\] Black powers 2.
-Singapore: V.J. Times.
+Pugalenthi Sr. (Ed.) \[1993\] Black powers 2.<br>
+Singapore: V.J. Times.<br>
 Call No.: RSING S823.01 BLA
 
-Barlow, A. (Ed.) \[1993\] The calling of kindred: poems from the English-speaking world.
-Cambridge: Cambridge University Press.
+Barlow, A. (Ed.) \[1993\] The calling of kindred: poems from the English-speaking world.<br>
+Cambridge: Cambridge University Press.<br>
 Call No.: RSING 821 CAL
 
-Pakir, A & Goh, D. (Eds.) \[1993\] Eye on the world: bridging worlds.
-Singapore: UniPress.
+Pakir, A & Goh, D. (Eds.) \[1993\] Eye on the world: bridging worlds.<br>
+Singapore: UniPress.<br>
 Call No.: RSING S820 EYE
 
-Pugalenthi Sr. (Ed.) \[1994\] Akuma: è devil.
-Singapore: VJ Times International.
+Pugalenthi Sr. (Ed.) \[1994\] Akuma: è devil.<br>
+Singapore: VJ Times International.<br>
 Call No.: RSING S823.08738 AKU
 
-\[1994\] Black powers.
-Singapore: VJ Times International.
+\[1994\] Black powers.<br>
+Singapore: VJ Times International.<br>
 Call No.: RSING S823.01 BLA
 
-Pugalenthi Sr et al. 1995. Black powers 3.
-Singapore: Asuras.
+Pugalenthi Sr et al. 1995. Black powers 3.<br>
+Singapore: Asuras.<br>
 Call No.: RCLOS S823.0873 BLA
 
-\[1995\] Dirty laundry, mergers & undercover: plays from TheatreWorks’ Writers’ Lab.
-Singapore: TheatreWorks \[and\] Singapore Press Holdings
+\[1995\] Dirty laundry, mergers & undercover: plays from TheatreWorks’ Writers’ Lab.<br>
+Singapore: TheatreWorks \[and\] Singapore Press Holdings<br>
 Call No.: RSING S822 DIR
-Pugalenthi Sr et al. \[1995\] Bomoh: the medicine man.
-Singapore: Asuras.
+
+Pugalenthi Sr et al. \[1995\] Bomoh: the medicine man.<br>
+Singapore: Asuras.<br>
 Call No.: No holdings in NL. (Available at the NUS Central Library.)
 
-\[1996\] Expressions ‘96.
-Singapore: English Department, Raffles Institution.
+\[1996\] Expressions ‘96.<br>
+Singapore: English Department, Raffles Institution.<br>
 Call No.: No holdings in NL and NUS Central Library.
 
-\[1997\] Expressions ‘97.
-Singapore: English Department, Raffles Institution.
+\[1997\] Expressions ‘97.<br>
+Singapore: English Department, Raffles Institution.<br>
 Call No.: No holdings in NL and NUS Central Library.
 
-Pugalenthi Sr. (Ed.) \[1997\] Black powers 4.
-Singapore: Asuras.
+Pugalenthi Sr. (Ed.) \[1997\] Black powers 4.<br>
+Singapore: Asuras.<br>
 Call No.: PL SING PUG
 
-Pakir, A & Goh, D. (Eds.) \[1997\] Eye on the world: celebrating diversity.
-Singapore: UniPress,
+Pakir, A & Goh, D. (Eds.) \[1997\] Eye on the world: celebrating diversity.<br>
+Singapore: UniPress,<br>
 Call No.: RSING S820 EYE
 
-Pugalenthi Sr.  (Ed.) \[1998\]  Chinese ghost nightmare.
-Singapore: Asuras.
+Pugalenthi Sr.  (Ed.) \[1998\]  Chinese ghost nightmare.<br>
+Singapore: Asuras.<br>
 Call No.: PL SING CHI
 
-Pugalenthi Sr. (Ed.) \[1998\] Black powers 1.
-Singapore: Asuras, 1998.
+Pugalenthi Sr. (Ed.) \[1998\] Black powers 1.<br>
+Singapore: Asuras, 1998.<br>
 Call No.: No holdings in NL and NUS Central Library
 
-Pugalenthi Sr. (Ed.) \[1999\] Best of true ghost stories:
-Singapore. Singapore: Asuras.
+Pugalenthi Sr. (Ed.) \[1999\] Best of true ghost stories:<br>
+Singapore. Singapore: Asuras.<br>
 Call No.: PL SING BES -\[HO\]
 
-Pugalenthi Sr. (Ed.) \[1999\] Black magic nightmares.
-Singapore: Asuras.
+Pugalenthi Sr. (Ed.) \[1999\] Black magic nightmares.<br>
+Singapore: Asuras.<br>
 Call No.: PL SING BLA -\[HO\]
 
 ### <u>2000-2009</u>
 
-\[2000\] Capsule: a dose of new Singapore writing.
-Brookline, MA: Mojorag, 2000.
-Call No.: RSING/RDET 820.8 CAP Call No.: RSING/RDET 820.8 CAP
+\[2000\] Capsule: a dose of new Singapore writing.<br>
+Brookline, MA: Mojorag, 2000.<br>
+Call No.: RSING/RDET 820.8 CAP<br>
 
-Pakir, A & Goh, L. (Eds.) \[2001\] Eye on the world: beyond beginnings.
-Singapore: UniPress.
+Pakir, A & Goh, L. (Eds.) \[2001\] Eye on the world: beyond beginnings.<br>
+Singapore: UniPress.<br>
 Call No.: RSING S820 EYE
 
-\[2001\] e-lit.
-Singapore: Pioneer Junior College.
+\[2001\] e-lit.<br>
+Singapore: Pioneer Junior College.<br>
 Call No.: RSING S828.995957 ELI
-Pugalenthi Sr. (Ed.) \[2002\] 13 haunted places.
-Singapore. Singapore: VJ Times.
+
+Pugalenthi Sr. (Ed.) \[2002\] 13 haunted places.<br>
+Singapore. Singapore: VJ Times.<br>
 Call No.: RSING S823 THI
 
-Sik, S.L. et al. \[2002\] Blueprint.
-Singapore: Ethos Books.
+Sik, S.L. et al. \[2002\] Blueprint.<br>
+Singapore: Ethos Books.<br>
 Call No.: RSING S822 BLU
 
-\[2002\] Cest La Vie: Singapore Student Literary Award II.
-Xinjiapo: Lingzi chuan mei.
+\[2002\] Cest La Vie: Singapore Student Literary Award II.<br>
+Xinjiapo: Lingzi chuan mei.<br>
 Call No.: RSING/YRSING 820.8092375 SHR
 
-\[2003\] Goh, R & Soh, J. (Eds.) Engaging ourselves.
-Singapore: UniPress.
+\[2003\] Goh, R & Soh, J. (Eds.) Engaging ourselves.<br>
+Singapore: UniPress.<br>
 Call No.: RSING/RDET S820 ENG
-Kon, D & Bik, K. (Eds.) \[2003\] Don’t judge a book by its cover: aka Dead people, flying fishes and the ones who missed the boat.
-Singapore: Jointly published by Ngee Ann Polytechnic and Beaumont Pub.
+
+Kon, D & Bik, K. (Eds.) \[2003\] Don’t judge a book by its cover: aka Dead people, flying fishes and the ones who missed the boat.<br>
+Singapore: Jointly published by Ngee Ann Polytechnic and Beaumont Pub.<br>
 Call No.: RSING S820.809283 DON
 
-K.K. Seet. (Ed.) \[2003\] 5 under 25: prize-winning plays from the Writers’ Lab.
-Singapore: TheatreWorks.
+K.K. Seet. (Ed.) \[2003\] 5 under 25: prize-winning plays from the Writers’ Lab.<br>
+Singapore: TheatreWorks.<br>
 Call No.: RSING S822 FIV
 
-Lim, A. & Chng, S.T. (Eds.). \[2004?\] 5 plays from Third Stage: a collection of five Singaporean plays.
-Singapore: Third Stage Executive Committee.
+Lim, A. & Chng, S.T. (Eds.). \[2004?\] 5 plays from Third Stage: a collection of five Singaporean plays.<br>
+Singapore: Third Stage Executive Committee.<br>
 Call No.: RSING S822 FIV
 
-\[2005\] Chinatown cameos: a collection of poems from students of Kranji Secondary School.
-[Singapore: Language Arts Educational Services].
+\[2005\] Chinatown cameos: a collection of poems from students of Kranji Secondary School.<br>
+[Singapore: Language Arts Educational Services].<br>
 Call No.: YRSING S821 CHI
 
-Wong, C. (Ed.) \[2005\] But,: a collaborative writing anthology.
-Singapore: Hwa Chong ELDDS: VJC Writer’s Circle.
+Wong, C. (Ed.) \[2005\] But,: a collaborative writing anthology.<br>
+Singapore: Hwa Chong ELDDS: VJC Writer’s Circle.<br>
 Call No.: YRSING S828 BUT
 
-Pan, L.Q & Lord, R. (Eds.) \[2006\] Best of Singapore erotica.
-Singapore: Monsoon Books.
+Pan, L.Q & Lord, R. (Eds.) \[2006\] Best of Singapore erotica.<br>
+Singapore: Monsoon Books.<br>
 Call No.: RSING S823.01083538 BES
 
-\[2006\] Dauntless: an anthology of horror stories.
-Singapore: Assumption English School.
+\[2006\] Dauntless: an anthology of horror stories.<br>
+Singapore: Assumption English School.<br>
 Call No.: YRSING 828.995957 DAU
-Ho, Minfong. \[2008\] Journeys : an anthology of short stories.
-Singapore : Marshall Cavendish Editions
+
+Ho, Minfong. \[2008\] Journeys : an anthology of short stories.<br>
+Singapore : Marshall Cavendish Editions<br>
 Call No: 823 HO
 
-Ng Yi-Sheng … [et al.] \[2010\] GASPP : a gay anthology of Singaporean poetry and prose.
-Singapore : The Literary Centre.
+Ng Yi-Sheng … [et al.] \[2010\] GASPP : a gay anthology of Singaporean poetry and prose.<br>
+Singapore : The Literary Centre.<br>
 Call No: S828 GAS
 
-Loh, Chin Ee. \[2013\] Little things : an anthology of poetry.
-Singapore : Ethos Books.
+Loh, Chin Ee. \[2013\] Little things : an anthology of poetry.<br>
+Singapore : Ethos Books.<br>
 Call No: 821 LOH
 
-De Rozario,Tania. \[2014\] Body boundaries : the etiquetteSG anthologies, volume I.
-Singapore : The Literary Centre
+De Rozario,Tania. \[2014\] Body boundaries : the etiquetteSG anthologies, volume I.<br>
+Singapore : The Literary Centre<br>
 Call No: 823 DER
 
-McConnell, Philip. \[2014\] Sound of mind : a teacher-writers anthology of poems and prompts.
-Singapore : Ethos Books.
+McConnell, Philip. \[2014\] Sound of mind : a teacher-writers anthology of poems and prompts.<br>
+Singapore : Ethos Books.<br>
 Call No: 821 MCC
 
-Ang, Ann. \[2014\] SingPoWriMo : the anthology.
-\[Singapore\] : Math Paper Press.
+Ang, Ann. \[2014\] SingPoWriMo : the anthology.<br>
+\[Singapore\] : Math Paper Press.<br>
 Call No: 821 ANG
 
-Chia, Christine. \[2014\] A luxury we cannot afford : an anthology of Singapore poetry.
-\[Singapore\] : Math Paper Press.
+Chia, Christine. \[2014\] A luxury we cannot afford : an anthology of Singapore poetry.<br>
+\[Singapore\] : Math Paper Press.<br>
 Call No: 821 CHI
 
-Chong, Andy, Lee, Galven, Sen, Jason. \[2015\] 1927 Singapore : an anthology of short stories constructed from historical sources.
-Singapore: publisher not identified
+Chong, Andy, Lee, Galven, Sen, Jason. \[2015\] 1927 Singapore : an anthology of short stories constructed from historical sources.<br>
+Singapore: publisher not identified<br>
 Call No.: RSING S823 NIN
 
-Lim, Siew Yea. \[2015\] Eye on the world: common corridors.
-Singapore : Gifted Education Branch, Curriculum Planning & Development Branch, Ministry of Education.
+Lim, Siew Yea. \[2015\] Eye on the world: common corridors.<br>
+Singapore : Gifted Education Branch, Curriculum Planning & Development Branch, Ministry of Education.<br>
 Call No: 808.880095957 EYE
 
-Gwee, Li Sui & Tan, Chee Lay & Sa’eda Bte Buang & Azhagiya Pandiyan. \[2015\] Singathology: Vol 1, Life: 50 new works by celebrated Singapore writers.
-Singapore : National Arts Council Singapore : Marshall Cavendish Editions
+Gwee, Li Sui & Tan, Chee Lay & Sa’eda Bte Buang & Azhagiya Pandiyan. \[2015\] Singathology: Vol 1, Life: 50 new works by celebrated Singapore writers.<br>
+Singapore : National Arts Council Singapore : Marshall Cavendish Editions<br>
 Call No: 808.880095957 SIN
 
-Gwee, Li Sui & Tan, Chee Lay & Sa’eda Bte Buang & Azhagiya Pandiyan. \[2015\] Singathology: Vol 2, Life: 50 new works by celebrated Singapore writers.
-Singapore : National Arts Council Singapore : Marshall Cavendish Editions
+Gwee, Li Sui & Tan, Chee Lay & Sa’eda Bte Buang & Azhagiya Pandiyan. \[2015\] Singathology: Vol 2, Life: 50 new works by celebrated Singapore writers.<br>
+Singapore : National Arts Council Singapore : Marshall Cavendish Editions<br>
 Call No: 808.880095957 SIN
 
-Yam, Daryl Qilin. \[2015\]  Singpowrimo 2015 : the anthology.
-Singapore : Math Paper Press.
+Yam, Daryl Qilin. \[2015\]  Singpowrimo 2015 : the anthology.<br>
+Singapore : Math Paper Press.<br>
 Call No. 821 YAM
 
 

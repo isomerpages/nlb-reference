@@ -26,24 +26,24 @@ published: true
 
 Leong Yoon Pin 梁荣平 (b. 5 August 1931, Singapore–d. 13 April 2011, Singapore) was a composer, conductor and educator. Described as the doyen of Singapore composers, Leong was well-known for his choral compositions, many of which were locally commissioned and performed by both amateur and professional choirs. His compositions were often infused with a local flavour. Leong was awarded the Cultural Medallion in 1982.
 
-![Leong yoon pin image](/images/arts/performingarts/Leong-Yoon-Pin-half-length-portrait.jpg)
+<img src="/images/arts/performingarts/Leong-Yoon-Pin-half-length-portrait.jpg" alt="Leong yoon pin image" style="width:500px;" />
 
-© Eric Foo Chee Meng, 1979-2001. All rights reserved.
-Courtesy of the National Arts Council.
+© Eric Foo Chee Meng, 1979-2001. All rights reserved.<br>
+Courtesy of the National Arts Council.<br>
 Retrieved from PictureSG.
 
 This resource guide serves to help users locate resources on Leong Yoon Pin available at the National Library Singapore as well as the following organisations: LASALLE College of the Arts (LASALLE), Nanyang Academy of Fine Arts (NAFA), National Archives of Singapore (NAS), National Institute of Education Library (NIE) and National University of Singapore (NUS).
 
 **Library Codes**
 
-**NL**: National Library (Lee Kong Chian Reference Library)
-**PL**: Public Libraries, National Library Board
-**NAS**: National Archives of Singapore
-**RU**: Repository Used Collection, National Library Board
-**LASALLE**: LASALLE College of the Arts
-**NAFA**: Nanyang Academy of Fine Arts
-**NIE**: National Institute of Education
-**NUS**: National University of Singapore
+**NL**: National Library (Lee Kong Chian Reference Library)<br>
+**PL**: Public Libraries, National Library Board<br>
+**NAS**: National Archives of Singapore<br>
+**RU**: Repository Used Collection, National Library Board<br>
+**LASALLE**: LASALLE College of the Arts<br>
+**NAFA**: Nanyang Academy of Fine Arts<br>
+**NIE**: National Institute of Education<br>
+**NUS**: National University of Singapore<br>
 
 
 | **Search Terms** | **Call Numbers** |

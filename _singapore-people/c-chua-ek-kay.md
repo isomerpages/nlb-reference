@@ -22,12 +22,12 @@ published: true
 
 Chua Ek Kay (1947–2008) was a Singaporean visual artist and a Cultural Medallion recipient for Visual Arts in 1999. Chua worked primarily with ink as a paint medium and his works both constituted and later departed from the Chinese ink painting tradition. His iconic works include Song of the Cicada (1995), Street Scene at Jalan Sultan (1997), After the Rain (2004), and Morning Breeze in Early Summer (2006).
 
-![Chua ek kay image](/images/arts/visualarts/Chua-Ek-Kay.jpg)
+<img src="/images/arts/visualarts/Chua-Ek-Kay.jpg" alt="Chua ek kay image" style="width:500px;" />
 
-Chua Ek Kay
-Chua Ek Kay (Half-Length Portrait).
-© Eric Foo Chee Meng, 1979–2001. All rights reserved.
-Courtesy of the National Arts Council.
+Chua Ek Kay<br>
+Chua Ek Kay (Half-Length Portrait).<br>
+© Eric Foo Chee Meng, 1979–2001. All rights reserved.<br>
+Courtesy of the National Arts Council.<br>
 Retrieved from PictureSG.
 
 Born in China in 1947 but raised in Singapore from the age of six following his family’s relocation in the early 1950s, Chua was first introduced to Chinese aesthetics when he began learning Chinese calligraphy from his father at seven years old. He subsequently studied Chinese ink painting under Fan Chang Tien, a maestro whose artistic inclinations were resolutely that of the Shanghai School’s, in 1975 until Fan’s death in 1987. While Chua began teaching Chinese calligraphy and ink painting at the National University of Singapore’s now-defunct Extramural Studies Department in 1987, he did not, however, pursue a professional full-time career in fine art until the enthusiastic reception to his first solo exhibition, A Selection of Chua Ek Kay’s Chinese Brush Paintings, in 1988 ascertained the viability of such an option. Chua later enrolled in higher education to refine and further develop his craft—he graduated with an Advanced Diploma in Painting from LaSalle College of the Arts, Singapore in 1990 and a Master of Arts (Honours) in Visual Arts from the University of Western Sydney, Australia in 1995.
