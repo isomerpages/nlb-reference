@@ -42,9 +42,8 @@ third_nav_title: Arts
 </table>
 </details>
 <p>
-
 <details style= "font-size:20px">
-<summary><b>Singapore Literature Bibliographies</b></summary>
+<summary><b>Singapore Literature in English</b></summary>
 <table style="width:100%">
   <tr>
     <td><b><a href = "/guides/arts/literaryarts/singaporeenglishliterature/miscellaneous">Miscellaneous</a></b></td>
@@ -65,6 +64,7 @@ third_nav_title: Arts
 </table>
 </details>
 <p>
+
 
 <details style= "font-size:20px">
 <summary><b>சிங்கப்பூர்த் தமிழ் இலக்கியம்</b></summary>

@@ -8,7 +8,7 @@ notification: This site is still in construction, thank you
 sections:
     - hero:
         title: Reference@NLB
-        subtitle: Need resources for your research? Need help to search online databases? <br>Or simply curious about what the National Library has to offer? <br>Browse our online guides to discover a world of knowledge right at your fingertips!
+        subtitle: Looking for resources for your research and reference? Need help navigating our catalogues and subscribed databases?<br>Curious to know what the National Library has to offer?<br>From recommended resources on a variety of subjects and topics to how-to guides on navigating our catalogues, subscribed databases and special format collections, our librarians have put together useful information to support your research and learning.
         background: /images/hero-banner.jpg
 #        button: Get Started
         url: /getting-started/onesearch/
@@ -24,8 +24,8 @@ sections:
               url: /getting-started/onesearch/
     - infopic:
         title: Resource Guides
-        subtitle: Topical guides on various concepts
-        description: Our librarians have curated useful lists of books, online resources, videos and more to introduce a diverse range of broad topics
+        subtitle: Topical guides
+        description: Our librarians have curated useful lists of books, online resources, videos and more to introduce a diverse range of broad topics.
         button: Find Out More
         url: /guides/
         image: /images/category/infopic-resource-guides.jpg
@@ -33,7 +33,7 @@ sections:
     - infopic:
         title: Getting Started on Research
         subtitle: How-to Guides
-        description: Learn how to use the available research resources effectively
+        description: Learn how to use our research resources effectively.
         button: Find Out More
         url: /getting-started/academicresearch/
         image: /images/category/infopic-getting-started.jpg
@@ -41,7 +41,7 @@ sections:
     - infobar:
         title: Lee Kong Chian Reference Library
         subtitle: Discover more
-        description: Our reference library has thousands of resources, online and print, free-to-use for your research
+        description: The reference arm of the National Library, the Lee Kong Chian Reference Library, has thousands of resources both online and print for your reference and research.
         button: Finding Us
         url: /contact-us/
 #    - resources:

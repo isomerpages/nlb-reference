@@ -31,7 +31,7 @@ These selected titles – which are listed alphabetically and grouped according 
 
 **Acknowledgements**
 
-We would like to thank the [Social Service Institute](https://www.ssi.sg/) for their valuable contributions to this resource guide.
+We would like to thank the [Social Service Institute](https://www.ssi.gov.sg/) for their valuable contributions to this resource guide.
 
 ### <u>List of Resources</u>
 
