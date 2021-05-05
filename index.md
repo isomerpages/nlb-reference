@@ -8,7 +8,7 @@ notification: This site is still in construction, thank you
 sections:
     - hero:
         title: Reference@NLB
-        subtitle: Looking for resources for your research and reference? Need help navigating our catalogues and subscribed databases?<br>Curious to know what the National Library has to offer?<br>From recommended resources on a variety of subjects and topics to how-to guides on navigating our catalogues, subscribed databases and special format collections, our librarians have put together useful information to support your research and learning.
+        subtitle: Looking for resources for your research and reference? Need help navigating our catalogues and subscribed databases? Curious to know what the National Library has to offer?<br><br>From recommended resources on a variety of subjects and topics to how-to guides on navigating our catalogues, subscribed databases and special format collections, our librarians have put together useful information to support your research and learning.
         background: /images/hero-banner.jpg
 #        button: Get Started
         url: /getting-started/onesearch/

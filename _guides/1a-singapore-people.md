@@ -7,7 +7,7 @@ third_nav_title: Singapore
 ---
 <img src="/images/category/people.jpg" alt="people banner" style="width:800px;" />
 
-Most of the guides in this section were developed for the Singapore Biographical Database (SBDB), a collaborative project by the National University of Singapore, the National Library Board of Singapore and the Singapore Federation of Chinese Clan Associations. This Project featured prominent Singapore Chinese personalities to coincide with the 200th anniversary of the founding of modern Singapore in 2019. 
+Most of the guides in this section were developed for the [Singapore Biographical Database (SBDB)](http://sbdb.nus.edu.sg/), a collaborative project by the National University of Singapore, the National Library Board of Singapore and the Singapore Federation of Chinese Clan Associations. This Project featured prominent Singapore Chinese personalities to coincide with the 200th anniversary of the founding of modern Singapore in 2019. 
 
 <p style = "font-size:20px">Names are listed in alphabetical order:</p>
 
@@ -131,3 +131,4 @@ Most of the guides in this section were developed for the Singapore Biographical
 </details>
 
 <p>
+

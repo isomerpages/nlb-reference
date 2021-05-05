@@ -11,4 +11,5 @@ In this e-lecture, learn how to conduct academic research online using a combina
 
 For specific guides on some of our library resources, check out the links to the left of this page.
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/p2g2JAlRx6Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></centre>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/p2g2JAlRx6Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+

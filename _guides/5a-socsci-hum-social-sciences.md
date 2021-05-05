@@ -16,7 +16,7 @@ third_nav_title: Social Sciences & Humanities
 The Seminal Books series was developed in collaboration with the [Social Services Institute](https://www.ssi.gov.sg/), the [Early Childhood Development Agency](https://www.ecda.gov.sg/) and other partners to develop a practical and authoritative collection for industry practitioners, educators, caregivers and students.
 
 <details style= "font-size:20px; color:black">
-  <summary><b>Seminal Books series</b></summary>
+  <summary><b><u>Seminal Books series</u></b></summary>
   - <a href = "/guides/socialsciences-humanities/social-sciences/100seminalbooks-social-services"><b>100 Seminal Books: Social Services</b></a><br>
   - <a href = "/guides/socialsciences-humanities/social-sciences/100seminalbooks/cyber-wellness"><b>100 Seminal Books: Social Services - Cyber Wellness</b></a><br>
   - <a href = "/guides/socialsciences-humanities/social-sciences/100seminalbooks/services-children-and-youth-general"><b>100 Seminal Books: Social Services - Services for Children and Youth (General)</b></a><br>
