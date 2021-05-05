@@ -4,7 +4,7 @@ permalink: /guides/
 breadcrumb: Resource Guides
 collection_name: guides
 ---
-![Resource Guides](\images\about-us\genref-stacks-v2.jpg)
+![Resource Guides](\images\resource-guides-banner.jpg)
 # Discover our curated resource guides!
 -------
 
