@@ -23,6 +23,8 @@ links:
   - title: Getting Started
     url: /getting-started/academicresearch/
     sublinks:
+      - title: Accessing Reference Items
+        url: /getting-started/accessing-reference-items/
       - title: Using OneSearch
         url: /getting-started/onesearch/
       - title: Using ProQuest
@@ -35,8 +37,6 @@ links:
         url: /getting-started/jstor/
  #     - title: Fighting Fake News
  #       url: /getting-started/fighting-fake-news/
-      - title: Accessing Reference Items
-        url: /getting-started/accessing-reference-items/
   - title: Other Formats
     url: /other-formats
     sublinks:
