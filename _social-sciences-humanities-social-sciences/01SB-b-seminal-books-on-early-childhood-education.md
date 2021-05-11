@@ -49,103 +49,140 @@ We would like to thank the following for their insights, time and contributions 
 
 ## **Child Development**
 (listed in alphabetical order)
-- Allen, K. E. & Marotz, L. R. (2000). *By the ages: Behavior & development of children pre-birth through eight*. Albany, NY: Delmar Thomson Learning. (Not available in NLB libraries) This is a useful manual for new parents, caregivers and early childhood educators to learn about the social, intellectual and physical development of their new-born children up to eight years of age. The book chapters are neatly organised by age for quick and easy reference.
+- Allen, K. E. & Marotz, L. R. (2000). *By the ages: Behavior & development of children pre-birth through eight*. Albany, NY: Delmar Thomson Learning. (Not available in NLB libraries)
+  
+  This is a useful manual for new parents, caregivers and early childhood educators to learn about the social, intellectual and physical development of their new-born children up to eight years of age. The book chapters are neatly organised by age for quick and easy reference.
+
 - Barber, J. & Paul-Smith, S. (2010). *Early years observation and planning in practice*. London, UK: Practical Pre-School Books.
-  (Not available in NLB libraries) 
-  This work offers a guide for early childhood education practitioners on how to observe children as they learn, details the observation methods in practice and provides instructions on how to monitor, assess, review and track cohort progress.
+  (Not available in NLB libraries)
+  
+This work offers a guide for early childhood education practitioners on how to observe children as they learn, details the observation methods in practice and provides instructions on how to monitor, assess, review and track cohort progress.
+  
 - Berk, L. (2013). [*Child development*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202345043). Boston: Pearson.
   Call no.: R 305.231 BER
-  This popular text in its ninth edition, presents the current theories and research on child development written in an accessible and engaging manner and helps readers to assimilate parenting, educational and professional concerns. The book includes research-based, real-world and cross-cultural examples.
+  
+This popular text in its ninth edition, presents the current theories and research on child development written in an accessible and engaging manner and helps readers to assimilate parenting, educational and professional concerns. The book includes research-based, real-world and cross-cultural examples.
+  
 - Boyd, D. & Bee, H. (2009). *The growing child*. London: Pearson.
   (Not available in NLB libraries)
   Targeted at undergraduate students, Boyd and Bee offers a student-focused text which discusses the influence of the environment on the physical, cognitive and socio-emotional development of the child.
+
 - Broderick, P. & Blewitt, P. (2015). *The life span: Human development for helping professionals*. Boston: Pearson.
-  (Not available in NLB libraries) 
+  (Not available in NLB libraries)
   This volume adopts a scientific approach to life span development covering the biological psychological, social and cultural contexts. Professionals in the education, counseling and social work fields will find this text useful.
+
 - Church, E. B. (2016). *Nurturing next-generation innovators: Open ended activities to support global thinking*. Boston, MA: Gryphon House.
-  (Not available in NLB libraries) 
+  (Not available in NLB libraries)
   Divided into four themes, the songs, games and activities in this book are aimed at getting children to practice their observational, perception and reasoning skills, while also enabling them to enhance their literacy, math, science, motor skills and social skills.
+
 - Dancy, R. B. (2006). [*You are your child’s first teacher: Encouraging your child’s natural development from birth to age six*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12898545). Stroud, Gloucestershire: Hawthorn Press.
   Call no.: 649.1 BAL
   Drawing on the philosophy of Rudolf Steiner, founder of the Waldorf schools, Dancy explains how children (from birth to the age of 6) learn at different stages and includes commonsense advice for parents on nurturing the child’s physical and emotional development.
+
 - Daniels, D. H., Beaumont, L. J. & Doolin, C. A. (2007). *Understanding children: An interview and observation guide for educators*. Columbus, Ohio: McGraw-Hill Education.
   (Not available in NLB libraries)
   By observing and interviewing children, one can understand their behavioural and learning patterns and make inferences to the theories of early childhood education philosophers. This book also includes advice on the analysis of observational data and its applications for pedagogic instruction and parent-teacher meetings.
+
 - Featherstone, S. and Featherstone, P. (2010). [*50 fantastic things to do with babies*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13598217). London: A&C Black Publishers.
   Call no.: 372.21 FEA
   Parents will find the 50 purposeful individual and groups activities featured in this book fun and exciting to do with their young children (from soon after birth to around 20 months old) with clear simple instructions and suggestions on how to stimulate learning with the play session. Examples of activities include baby massage, exploration and hide-and-seek games.
+
 - Featherstone, S. & Featherstone, P. (2010). [*50 fantastic things to do with toddlers*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13598123). London: A&C Black Publishers.
   Call no.: 372.21 FEA
   In this book, parents, nursery and child care teachers will find 50 fun and simple activities suitable for toddlers between the ages of 1 to 3. Guided by the easy-to-follow instructions, the play activities are aimed at helping toddlers to develop essential skills at their own pace.
+
 - Fisher, J. (2002). [*Starting from the child: Teaching and learning from 3 to 8*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10227121). Buckingham, England; Philadelphia: Open University Press.
   Call no.: 372.21 FIS
   Fisher proposes a framework incorporating early childhood education theories aimed at helping early years practitioners to best look after the learning needs of the children under their care. Included are suggestions on designing conducive learning environments and discussions of the role of play in learning.
+
 - Fox, M. (2008*).* [*Reading magic: Why reading aloud to our children will change their lives forever*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13113473). Orlando, Fla.: Harcourt.
   Call no.: 649.58 FOX
   Fox discusses how reading aloud to children has a profound emotional and intellectual impact on their reading ability and offers practical guidance on the best time and place to have a read-aloud session as well as advice on choosing good books.
+
 - Galinsky, E. (2010). [*Mind the the making: The seven essential skills every child needs*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13584376). New York: HarperStudio.
   Call no.: 305.231 GAL
   Galinsky identifies seven life skills that are crucial in helping children to make the best use of their inborn talents. She also offers guidance and suggestions on what parents can do to ignite their child’s passion to learn and accelerate their cognitive and emotional development.
+
 - Goldstein, S. & Brooks, R. B. (Eds.). (2006). [*Handbook of resilience in children*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12693163). New York: Springer.
   Call no.: R 155.41824 HAN
   The contributors to this book address the issue of resilience in children in the context of environmental factors, child and adolescent disorders and the progression towards adulthood. Topics covered include resilience in maltreated children and adults and building resilience through school bullying prevention programmes.
+
 - Gordon, A. M., Browne, K. W. and Cruz, J. (2008). [*Beginnings and beyond: Foundations in early childhood education*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12980287). Clifton Park, NY: Thomson Delmar Learning.
   Call no.: R 372.21 GOR
   This text covers the basics of early childhood education, beginning with the historical context and moving on to discuss developmental and learning theories, the role of teachers, creating a conducive learning environment and designing curriculum that supports children’s cognitive and language development and social, emotional and mental growth .
+
 - Goswami, U. (2014). [*Child psychology: A very short introduction*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201274574). Oxford: Oxford University Press.
   Call no.: 155.4 GOS
   This is a short primer to get readers updated on the psychology of a child from birth to adolescence. Goswami highlights the importance of family, peers, school and the environment in shaping the child’s understanding of his physical, biological and social world.
+
 - Hirsh-Pasek, K., Golinkoff, R. M. & Eyer, D. (2004). [*Einstein never used flash cards: How our children really learn–and why they need to play more and memorize less*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12253471). Emmaus, Pa.: Rodale; New York: Distributed to the book trade by St. Martin’s Press.
   Call no.: 305.231 HIR
   This book advocates the importance of having unstructured playtime to allow children to explore and discover their own interests. The authors believe in letting children take the initiative to learn on their own instead of cramming a whole host of structured activities to fill up their time.
+
 - Keenan, T. & Evans, S. (2009). [*An introduction to child development*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13107530). Los Angeles ; Singapore : SAGE.
   Call no.: R 155.4 KEE
   This is a handy introductory text for undergraduate students pursuing courses in child development and developmental psychology. It covers the main theories of child development from infancy to adolescence and includes current debates in developmental psychology.
+
 - Marotz, L. R. (2015). [*Health, safety, and nutrition for the young child*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200944784). Stamford, CT: Cengage Learning.
   Call no.: R 613.0432 MAR
   Marotz provides a guide for teachers on implementing effective classroom practices that aid in ensuring the health, safety and nutrition needs of infants up to primary level students. It discusses topics ranging from emergency and disaster preparedness and childhood obesity to bullying and children with special medical needs.
+
 - Martin, S. (2012). *Take a look: Observation and portfolio assessment in early childhood*. Ontario: Pearson Education Canada.
   (Not available in NLB libraries)
   Martin covers the spectrum of observation methods used to assess the learning behaviours of young children and provides advice on documenting, analysing and using the findings.
+
 - Mooney, C. G. (2013). *Theories of Childhood, Second Edition: An Introduction to Dewey, Montessori, Erikson, Piaget & Vygotsky*. Minnesota: Redleaf Press.
   (on order for Lee Kong Chian Reference Library)
   This book introduces the philosophies of pioneering early childhood theorists, John Dewey, Maria Montessori, Erik Erikson, Jean Piaget and Lev Vygotsky and describes their applications to young children’s education.
+
 - Nilsen, B. A. (2004). *Week by week: Documenting the development of young children*. California: Wadsworth Publishing.
   (Not available in NLB libraries)
   This is an excellent tool to guide new and experienced teachers on the use and application of developmental observation methods including the recording, documentation and sharing of the findings.
+
 - Nixon, K. & Gould, K. (1999). *Emerging: Child development in the first three years*. Melbourne: Cengage Learning Australia.
   (Not available in NLB libraries)
   Written for both home-based and centre-based caregivers, this book describes the different stages in a young child’s development from birth to the age of three and discusses their characteristics in relation to development theories and research.
+
 - O’connor, A. & Daly, A. (2016). *Understanding physical development in the early years*. London: Routledge.
   (on order for Lee Kong Chian Reference Library)
   This book offers an in-depth examination of the theories and research on the physical development of young children and suggests activities that can facilitate and foster their ability to move physically and experience sensory delights.
+
 - Paludi, M. A. (2001). *Human development in multicultural contexts: A book of reading*. London: Pearson.
   (Not available in NLB libraries)
   Paludi explores the impact of culture on the human life cycle development (infancy, preschool, middle childhood, adolescence, and adulthood) and introduces readers to published research and studies that provides a multi-dimensional perspective of developmental psychology.
+
 - Santrock, J. W. (2009). [*Child development*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13118330). Boston; Singapore: McGraw-Hill.
   Call no.: R 305.231 SAN
   This is a good introductory textbook covering the basics of child development. Thematically structured, Santrock covers a spectrum of topics such as prenatal development, motor, sensory and perceptual development, cognitive, language and emotional development and the social contexts of development.
+
 - Sharman, C., Cross, W. & Vennis, D. (2007). [*Observing children and young people*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12946673). London: Bloomsbury Publishing.
   Call no.: 155.4 SHA
   The authors offer a guide on the use of observation techniques to assess and track a child’s learning progress and to help their carers structure activities that will best utilise the child’s abilities.
+
 - Shonkoff, J. P. & Phillips, D. A. (2000). *From neurons to neighbourhoods: The science of early childhood development*. Washington: National Academy Press.
   (Not available in NLB libraries)
   This book presents an evaluation of current scientific studies of early childhood development discussing issues such as nature versus nurture, quality of child care, impact of the family’s economic circumstances and issues of race and ethnic diversity on the well-being of young children.
+
 - Silberg, J. (2001). [*Games to play with babies*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10196797). Beltsville, MD: Gryphon House.
   Call no.: 790.1922 SIL
   Silberg offers more than 240 delightful game suggestions that are designed to help parents and caregivers spend many happy and stimulating hours with their babies while helping them to learn language, coordination, counting and problem-solving skills.
+
 - Silberg, J. (2002). [*Games to play with toddlers*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11264709). Beltsville, MD: Gryphon House.
   Call no.: 649.5 SIL
   The numerous games featured in this book designed to develop language, coordination, problem-solving and gross motor skills will provide hours of stimulating fun and enjoyment for parents and their young toddlers aged between 12 to 24 month olds.
+
 - Silberg, J. (2002). [*Games to play with two-year-olds*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11377822). Beltsville, MD: Gryphon House.
   Call no.: 790.1922 SIL
   With colourful visuals and easy-to-follow instructions, the games in this book are aimed at helping children between two and three years of age to build confidence, develop coordination, social interaction and problem-solving skills.
+
 - Tobin, J., Hsueh, Y. & Karasawa, M. (2009). [*Preschool in three cultures revisited: China, Japan, and the United States*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13170341). Chicago; London: The University of Chicago Press.
   Call no.: R 372.210951 TOB
   The different ways that preschoolers are taught in China, Japan and the United States is the focus of this book. The authors examine the pressures faced by school teachers and administrators to adapt to new demands to evolve while retaining traditional teaching practices.
+
 - Trawick-Smith, J. (2013). *Early childhood development: A multicultural perspective*. London: Pearson.
   (Not available in NLB libraries)
   Using a multicultural approach, Trawick-Smith focuses on the child’s early development from birth to age eight. Topics covered include prenatal development, physical growth and motor development, language acquisition, social and emotional development and cognitive development.
+
 - Woolfolk, A. & Perry, N. E. (2011). *Child and adolescent development*. London: Pearson.
   (on order for Lee Kong Chian Reference Library)
   Woolfolk and Perry provide good insights to the characteristics and developmental signposts of children and adolescents in their four major developmental stages: infancy and toddlerhood, early childhood, middle childhood and adolescents, detailing the changes and influences that impact physical, cognitive, social and emotional growth.
@@ -258,7 +295,6 @@ We would like to thank the following for their insights, time and contributions 
   ## **Developmental Psychology**
 
   (listed in alphabetical order)
-  
 - Balter, L. & Tamis-LeMonda, C. S. (2006). [*Child psychology: A handbook of contemporary issues*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12636049). New York: Psychology Press.Call no.: R 155.4 CHI
 The authors examine the research on the cognitive, emotional and social development of infants, children and adolescents. It includes a discussion on ecological influences on children’s development such as the impact of family, peer relations, race and ethnicity and poverty.
 
