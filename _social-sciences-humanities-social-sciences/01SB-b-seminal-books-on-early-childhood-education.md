@@ -49,18 +49,20 @@ We would like to thank the following for their insights, time and contributions 
 
 ## **Child Development**
 (listed in alphabetical order)
-- Allen, K. E. & Marotz, L. R. (2000). [*By the ages: Behavior & development of children pre-birth through eight*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10085793). Albany, NY: Delmar Thomson Learning.
-  Call no.: 649.12 ALL
+- Allen, K. E. & Marotz, L. R. (2000). *By the ages: Behavior & development of children pre-birth through eight*. Albany, NY: Delmar Thomson Learning. (Not available in NLB libraries)
+  
   This is a useful manual for new parents, caregivers and early childhood educators to learn about the social, intellectual and physical development of their new-born children up to eight years of age. The book chapters are neatly organised by age for quick and easy reference.
 
 - Barber, J. & Paul-Smith, S. (2010). *Early years observation and planning in practice*. London, UK: Practical Pre-School Books.
   (Not available in NLB libraries)
-  This work offers a guide for early childhood education practitioners on how to observe children as they learn, details the observation methods in practice and provides instructions on how to monitor, assess, review and track cohort progress.
-
+  
+This work offers a guide for early childhood education practitioners on how to observe children as they learn, details the observation methods in practice and provides instructions on how to monitor, assess, review and track cohort progress.
+  
 - Berk, L. (2013). [*Child development*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202345043). Boston: Pearson.
   Call no.: R 305.231 BER
-  This popular text in its ninth edition, presents the current theories and research on child development written in an accessible and engaging manner and helps readers to assimilate parenting, educational and professional concerns. The book includes research-based, real-world and cross-cultural examples.
-
+  
+This popular text in its ninth edition, presents the current theories and research on child development written in an accessible and engaging manner and helps readers to assimilate parenting, educational and professional concerns. The book includes research-based, real-world and cross-cultural examples.
+  
 - Boyd, D. & Bee, H. (2009). *The growing child*. London: Pearson.
   (Not available in NLB libraries)
   Targeted at undergraduate students, Boyd and Bee offers a student-focused text which discusses the influence of the environment on the physical, cognitive and socio-emotional development of the child.
