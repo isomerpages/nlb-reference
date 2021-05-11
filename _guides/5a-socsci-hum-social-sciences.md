@@ -11,7 +11,6 @@ third_nav_title: Social Sciences & Humanities
 - [**Environment Champion**](/guides/socialsciences-humanities/social-sciences/environment-champion)
 - [**Nonprofit Board's role in Risk Management**](/guides/socialsciences-humanities/social-sciences/nonprofit-boards-role-in-risk-management)
 - [**Role of Boards in setting Executive Director's Compensation**](/guides/socialsciences-humanities/social-sciences/role-of-boards-in-setting-executive-directors-compensation)
-- [**Supporting Families**](/guides/socialsciences-humanities/social-sciences/supporting-families)
 
 The Seminal Books series was developed in collaboration with the [Social Services Institute](https://www.ssi.gov.sg/), the [Early Childhood Development Agency](https://www.ecda.gov.sg/) and other partners to develop a practical and authoritative collection for industry practitioners, educators, caregivers and students.
 
@@ -26,3 +25,4 @@ The Seminal Books series was developed in collaboration with the [Social Service
   - <a href = "/guides/socialsciences-humanities/social-sciences/seminal-books-early-childhood-education"><b>Seminal Books on Early Childhood Education</b></a><br>
 </details>
 <p></p>
+
