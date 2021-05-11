@@ -41,6 +41,7 @@ A total of 164 titles covering different aspects of early childhood education ar
 These selected titles – which are listed alphabetically and grouped according to these eight categories – reflect the fundamental schools of thought in early childhood and are practical and credible publications that advocate the applications of educational theories. Books that are unavailable at the Lee Kong Chian Reference Library and NLB’s public libraries have been denoted as such.
 
 **Acknowledgements**
+
 We would like to thank the following for their insights, time and contributions to this resource guide:
 
 - Ms Maria Seda
@@ -754,7 +755,7 @@ We would like to thank the following for their insights, time and contributions 
 
   This book examines the theoretical perspectives on play and highlights play research, policy and practices pertaining to early school settings
 
-## **Accessing National Library Board Singapore Resources **
+## **Accessing National Library Board Singapore Resources**
 
 **Accessing the Print Materials**
 
@@ -774,7 +775,7 @@ Once you have identified the title that you need, please double check through th
 
 3. Write down the **Location Code** and the **Call Number** of the item. This helps you to locate the item within Lee Kong Chian Reference Library. Please refer to the table below for more information (*Note: Please feel free to approach the counter staff for help in locating the books.*)
 
-  ## **Author**
+## **Author**
 
 Sharon Teng
 
