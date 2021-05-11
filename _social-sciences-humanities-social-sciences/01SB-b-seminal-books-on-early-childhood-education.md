@@ -59,16 +59,10 @@ We would like to thank the following for their insights, time and contributions 
 This work offers a guide for early childhood education practitioners on how to observe children as they learn, details the observation methods in practice and provides instructions on how to monitor, assess, review and track cohort progress.
 
 - Berk, L. (2013). [*Child development*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202345043). Boston: Pearson.
-<<<<<<< HEAD
+
   Call no.: R 305.231 BER
 
-This popular text in its ninth edition, presents the current theories and research on child development written in an accessible and engaging manner and helps readers to assimilate parenting, educational and professional concerns. The book includes research-based, real-world and cross-cultural examples.
-=======
-  
-  Call no.: R 305.231 BER
-  
   This popular text in its ninth edition, presents the current theories and research on child development written in an accessible and engaging manner and helps readers to assimilate parenting, educational and professional concerns. The book includes research-based, real-world and cross-cultural examples.
->>>>>>> parent of c12ba06 (Revert "updates for sharon")
 
 - Boyd, D. & Bee, H. (2009). *The growing child*. London: Pearson.
   
@@ -411,15 +405,6 @@ This popular text in its ninth edition, presents the current theories and resear
   Call no.: RSEA 372.6521044 TAB
 
   This guidebook equips teachers with research-based teaching practices, observation checklists and assessment techniques to meet the needs of second language learners in today’s learning environment.
-
-<<<<<<< HEAD
-## **Developmental Psychology**
-
-(listed in alphabetical order)
-
-- Balter, L. & Tamis-LeMonda, C. S. (2006). [*Child psychology: A handbook of contemporary issues*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12636049). New York: Psychology Press.Call no.: R 155.4 CHI
-The authors examine the research on the cognitive, emotional and social development of infants, children and adolescents. It includes a discussion on ecological influences on children’s development such as the impact of family, peer relations, race and ethnicity and poverty.
-=======
   
   
   ## **Developmental Psychology**
@@ -431,7 +416,6 @@ The authors examine the research on the cognitive, emotional and social developm
   Call no.: R 155.4 CHI
 
   The authors examine the research on the cognitive, emotional and social development of infants, children and adolescents. It includes a discussion on ecological influences on children’s development such as the impact of family, peer relations, race and ethnicity and poverty.
->>>>>>> parent of c12ba06 (Revert "updates for sharon")
 
 - Damon, W. & Lerner, R. M. (2006). [*Handbook of child psychology*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12727824). Hoboken, N.J.: John Wiley & Sons.
 
@@ -465,7 +449,6 @@ The authors examine the research on the cognitive, emotional and social developm
 
   Offering commonsense advice, this readable book will be useful for parents who need help with tackling their children’s problem behaviours. Using real-life examples, the principles of behavioural analysis are explained clearly and shown how they can be applied to a wide spectrum of behavioural problems.
 
-<<<<<<< HEAD
 - Hieneman, M., Childs, K. & Sergay, J. (2006). *Parenting with positive behavior support: A practical guide to resolving your child’s difficult behavior*. Baltimore, Maryland: Brookes Publishing.
   (Not available in NLB libraries)
   This practical handbook provides clear and simple guidelines for parents to implement the positive behavior support process to assess their child’s behaviour in order to prevent problems, encourage behavioural changes and manage the consequences.
@@ -802,8 +785,9 @@ The authors examine the research on the cognitive, emotional and social developm
   (Not available in NLB libraries)
   This book offers a planning resource for the professional development of early childhood education and early intervention. Topics covered include the importance of learning needs assessment and follow-up, family-centred practices and cultural and linguistic diversity.
 - Wood, E., Broadhead, P. & Howard, J. (2010). *Play and learning in the early years, from research to practice*. London: Sage.
+  
   (Not available in NLB libraries)
-=======
+  =======
 - Mahler, M. S., Pine, F. & Bergman, A. (1975). [*The psychological birth of the human infant: Symbiosis and individuation*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=461310). New York: Basic Books.
 
   Call no.: R 155.422 MAH
@@ -817,7 +801,7 @@ The authors examine the research on the cognitive, emotional and social developm
   This book discusses how schools influence children’s development from the perspectives of classroom interactions, teacher-student relationships, educational and social psychology, and educational policies.
 
 - Pashler, H. (Ed.). (2002). [*Steven’s handbook of experimental psychology*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11824150). New York: John Wiley & Sons, 2002.
-    
+  
     Call no.: R 150 HAN
   
   Research on neuroscience and experimental psychology is extensively covered in this four-volume set, covering categories such as sensation and perception, memory and cognitive processes and learning, motivation and emotion.
@@ -1423,7 +1407,6 @@ The authors examine the research on the cognitive, emotional and social developm
 
   (Not available in NLB libraries)
 
->>>>>>> parent of c12ba06 (Revert "updates for sharon")
   This book examines the theoretical perspectives on play and highlights play research, policy and practices pertaining to early school settings.
 
 ## **Accessing National Library Board Singapore Resources **
