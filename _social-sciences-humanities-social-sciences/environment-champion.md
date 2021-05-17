@@ -173,24 +173,6 @@ Call no.: J 363.72 KIM
 
 Covers the whole story about plastic and is filled with information to empower children to make choices that will affect their future.
 
-<!-- **Ebook (eDatabases)**
-
-(listed in alphabetical order)
-
-* Ackerman, F. (2013). Why Do We Recycle? Market, Values and Public Policy. Washington DC, US: Island Press. Retrieved March 23, 2017 from Proquest Ebook Central..
-
-Ackerman examines the arguments for and against recycling, focusing on the debate surrounding the use of economic mechanisms to determine the value of recycling.
-
-
-* Denison, R., Ruston, J. & Environmental Defense Fund. (2012). Recycling and Incineration: Evaluating The Choices. Washington, US: Island Press. Retrieved March 23, 2017 from Proquest Ebook Central.
-
-Recycling and Incineration presents information on the technology, economics, environmental concerns, and legal intricacies behind recycling and incineration programs.
-
-
-* Rau, D. M. (2012). Plastic. New York: Marshall Cavendish Benchmark, 2012. Retrieved March 23, 2017 from NetLibrary (eBooks on Ebscohost) database.
-
-Examines the use of plastic in everyday objects, its unique traits and qualities, and how it is processed to be useful to us. Rau discusses how plastic can be recycled to use again. -->
-
 **Websites**
 
 (listed in alphabetical order)
@@ -262,7 +244,7 @@ The poster includes Illustrations that explain generation of electricity and env
 Provides the message to reduce, reuse and recycle of all type of materials to conserve the environment.
 
 
-* 1 Ton of Paper = 17 Trees. (n.d.). Retrieved February12, 2016, from National Environment Agency website: [http://www.nea.gov.sg/docs/default-source/training-knowledge-hub/educational-materials-and-exhibits/-wm7-1-ton-of-papers-=-17-trees.jpg](http://www.nea.gov.sg/docs/default-source/training-knowledge-hub/educational-materials-and-exhibits/-wm7-1-ton-of-papers-=-17-trees.jpg)
+* 1 Ton of Paper = 17 Trees. (n.d.). Retrieved February12, 2016, from National Environment Agency website: [https://www.nea.gov.sg/images/default-source/resources/-wm7-1-ton-of-papers-=-17-trees.jpg](https://www.nea.gov.sg/images/default-source/resources/-wm7-1-ton-of-papers-=-17-trees.jpg)
 
 Highlights how one can be environmental free by saving trees and reduce the consumption of papers.
 
@@ -303,25 +285,25 @@ Guide to recycle of Clothing & textiles, Electrical items, Furniture, Medicines,
 
 (listed in alphabetical order)
 
-* Recycle Now. (n.d). Retrieved May 17, 2021, from Youtube website: https://www.youtube.com/user/RecycleNowCampaign
+* Recycle Now. (n.d). Retrieved May 17, 2021, from website: [https://www.youtube.com/user/RecycleNowCampaign](https://www.youtube.com/user/RecycleNowCampaign)
 
 A collection of videos on recycling process of papers, plastics, food waste, furniture and others.
 
 
-* Recycle Now. (2015, June 19). Recycling around the home. [Video File]. Retrieved May 17, 2021, from website: https://youtu.be/sLktjtlXCNo
+* Recycle Now. (2015, June 19). Recycling around the home. [Video File]. Retrieved May 17, 2021, from website: [https://youtu.be/sLktjtlXCNo](https://youtu.be/sLktjtlXCNo)
 
 
-This animation video highlights just a few items all around the home for recycling materials such as can, plastic, electrical, waste, and garden.
+  This animation video highlights just a few items all around the home for recycling materials such as can, plastic, electrical, waste, and garden.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sLktjtlXCNo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/sLktjtlXCNo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* The Story of Stuff Project. (2015, September 4). Loop Scoops – Garbage [Video File]. Retrieved May 17, 2021, from website: https://youtu.be/N9LfPq-H72g
+* The Story of Stuff Project. (2015, September 4). Loop Scoops – Garbage [Video File]. Retrieved May 17, 2021, from website: [https://youtu.be/N9LfPq-H72g](https://youtu.be/N9LfPq-H72g)
 
-This is a PBS Kids production on garbage and saving the environment by recycling and composting.
+  This is a PBS Kids production on garbage and saving the environment by recycling and composting.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N9LfPq-H72g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/N9LfPq-H72g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-PBS Kids production on garbage and saving the environment by recycling and composting.
+  PBS Kids production on garbage and saving the environment by recycling and composting.
 
 (ii) A selection of videos on simple crafts
 
@@ -330,29 +312,29 @@ There are quite a number of online videos on crafts from recycled materials. Ple
 (listed in alphabetical order)
 
 
-* Expert Village. (2012, November 15). How Do I Create Christmas Cards Using Recycled Materials?: Christmas Crafts [Video File]. Retrieved May 17, 2021, from website: https://youtu.be/z_RKmEhdzqs
+* Expert Village. (2012, November 15). How Do I Create Christmas Cards Using Recycled Materials?: Christmas Crafts [Video File]. Retrieved May 17, 2021, from website: [https://youtu.be/z_RKmEhdzqs](https://youtu.be/z_RKmEhdzqs)
 
-Fernandez, an experienced art educator provides tips on how to make a variety of different crafts such as Christmas cards.
+  Fernandez, an experienced art educator provides tips on how to make a variety of different crafts such as Christmas cards.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/z_RKmEhdzqs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/z_RKmEhdzqs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-DisneyJuniorUK. (2014, November 22). Art Attack – Travel Bag – Disney Junior UK HD. [Video File]. Retrieved May 17, 2021, from website: https://youtu.be/kvImAjsERY4
+DisneyJuniorUK. (2014, November 22). Art Attack – Travel Bag – Disney Junior UK HD. [Video File]. Retrieved May 17, 2021, from website: [https://youtu.be/kvImAjsERY4](https://youtu.be/kvImAjsERY4)
 
-Lloyd provides a step by step guide to make a super useful travel bag.
+  Lloyd provides a step by step guide to make a super useful travel bag.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kvImAjsERY4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/kvImAjsERY4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* Make:. (2012, August 13). Maker Camp: Recycled Paper Baskets with Tiffany Threadgould [Video File]. Retrieved May 17, 2021, from website: https://youtu.be/vIl3brhueyg
+* Make:. (2012, August 13). Maker Camp: Recycled Paper Baskets with Tiffany Threadgould [Video File]. Retrieved May 17, 2021, from website: [https://youtu.be/vIl3brhueyg](https://youtu.be/vIl3brhueyg)
 
-Threadgould demonstrates weaving paper baskets from old maps.
+  Threadgould demonstrates weaving paper baskets from old maps.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vIl3brhueyg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/vIl3brhueyg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* Simplekidscraft.com. (2017, March 8). DIY Corrugated Cardboard Desk Organizer: Easy Cardboard Crafts [Video File]. Retrieved May 17, 2021, from website: https://youtu.be/rdL5ETTF690
+* Simplekidscraft.com. (2017, March 8). DIY Corrugated Cardboard Desk Organizer: Easy Cardboard Crafts [Video File]. Retrieved May 17, 2021, from website: [https://youtu.be/rdL5ETTF690](https://youtu.be/rdL5ETTF690)
 
-This video provides a step by step guide to craft a cute desk organizer.
+  This video provides a step by step guide to craft a cute desk organizer.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdL5ETTF690" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/rdL5ETTF690" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### <u>Lesson Plans</u>
 
@@ -397,7 +379,7 @@ All featured books and periodicals are located at the Lee Kong Chian Reference L
 
 <b><u>Accessing the Databases</u></b>
 
-The National Library Board (NLB)’s eResources are free for all NLB members. Click [here](http://eresources.nlb.gov.sg/HowDoI.aspx) to find out how to register as a member.
+The National Library Board (NLB)’s eResources are free for all NLB members. Click [here](https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/) to find out how to register as a member.
 
 If you’re having problems registering or logging in, please [contact us](http://www.nlb.gov.sg/ContactUs.aspx). If you wish to find information in the databases but am not sure where to begin, or need recommendations on which databases to use, please use the [“Ask A Librarian”](https://www.nlb.gov.sg/SearchDiscover/Services/AskaLibrarian.aspx) function or send an email to [ref@nlb.gov.sg](mailto:ref@library.nlb.gov.sg) for research assistance. The librarian will get back to you within three working days.
 
