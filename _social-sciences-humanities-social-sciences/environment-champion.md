@@ -9,9 +9,9 @@ published: true
 ### <u>Guide Index</u>
 
 * [Introduction](#introduction)
-* [(a) Books and Online Resources](#a-books-and-online-resources)
-* [(b) Posters and Videos](#b-posters-and-videos)
-* [(c) Lesson Plans and e-Games](#c-lesson-plans-and-egames)
+* [Books and Online Resources](#books-and-online-resources)
+* [Posters and Videos](#posters-and-videos)
+* [Lesson Plans and e-Games](#lesson-plans-and-egames)
 * [Accessing National Library Board Singapore resources](#accessing-national-library-board-singapore-resources)
 * [Authors](#authors)
 
@@ -32,19 +32,13 @@ This resource guide is specially compiled to assist teachers and students in the
 | Handicraft Juvenile literature, Gifts Juvenile literature, Salvage (Waste, etc.) Juvenile literature, Recycling (Waste, etc.) Juvenile literature | 745.5 |
 
 
-### <u>(a) Books and Online Resources</u>
+### <u>Books and Online Resources</u>
 
 This is a select list of books on the topic of recycling and the environment. Most of the books listed here are available at the children’s collection of the Public Library. Do take note of the prefixes of J (Junior), JS (Junior Simple) and JP (Junior Picture) as well as the branch library where the books are located. The books are available from the Public Library collection of the National Library Board Singapore. Do use the NLB online catalogue to check the location and availability via www.catalogue.nlb.gov.sg.
 
+**Books on upcycling and recycling materials**
 
-**Books on crafts using recycled materials**
-
-(listed in alphabetical order)
-
-* Antil, S. (2012). [10 Ways I Can Save the Earth](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14330920). New York: PowerKids Press. <br>
-Call no.: J 333.72 ANT
-
-Discuses ten simple but significant lifestyles changes that can help keep the Earth clean, including eating vegetables, planting trees and recycling.
+(listed by author)
 
 
 * Bolte, M. (2016). [Eco Gifts: Upcycled Gifts You Can Make](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201688759). North Mankato, Minnesota: Capstone Press. <br>
@@ -53,16 +47,15 @@ Call no.: J 745.5 BOL
 This book provides step-by-step instructions, tips, and full-color photographs to create personalized presents from recycled materials.
 
 
-* Brend, D., et. al. (2007). [Jazzy Jewelry](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12933274). London: Kingfisher. <br>
-Call no.: J 745.594 JAZ
+* Borgert-Spaniol, M. (2020). [Papermaking : handmade paper and paper products](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=204209487). Minneapolis, Minnesota : Checkerboard Library. <br>
+Call no.: J 745.54 BOR
 
-Handicraft for girls using recycled materials.
+*Papermaking* will show kids how to use shredded paper to make their own paper and other creations. They will learn how to make several kinds of paper, a papier-mache bowl, and more.
 
+* Constable, L. (2019). [How to save the whole stinkin' planet](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203934694). North Sydney, NSW: Puffin Books. <br>
+  Call no.: J 363.72 CON
 
-* De la Bédoyère, C. (2009). [The Science of a Piece of Paper](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13174440). Pleasantville, N.Y. : Gareth Stevens Pub. <br>
-Call no.: J 620.197 DEL
-
-Provides basic information on paper tracing from history to manufacturing process to the future scenario. Stress the importance of reduce, reuse and recycle.
+Readers can earn badges as they work their way through each chapter, completing activities, DIYs and eco-experiments. Every part will enhance their understanding of waste management and the impact of household rubbish on the planet.
 
 
 * Enz, T. (2012). [Repurpose It](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14338089). North Mankato, Minn.: Capstone Press. <br>
@@ -70,21 +63,14 @@ Call no.: J 600 ENZ
 
 Explains the principles of inventing and provides photo-illustrated instruction for making a variety of projects from recycle and reuse materials.
 
+* Faulkner, N. (2019). [Recycling and you](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14027050). New York : Rosen Central. <br>
+  Call no.: J 363.72 FAU
 
-* Friday, M. (2012). [Green crafts: become an earth-friendly craft star, step by easy step!](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14450290) Irvine, CA: Walter Foster Pub. ; Mankato, Minn.: Distributed by Black Rabbit Books. <br>
-Call no.: J 745.593 FRI
-
-Contains step-by-step instructions for creating crafts using salvaged, including tote bags, vases, magnets and picture frames.
-
-
-* Hardy, E. (2011). [Green crafts for children : 35 step-by-step projects using natural, recycled, and found materials](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14027050). London: Cico. <br>
-Call no.: J 745.5 HAR
-
-Hardy provides ideas with materials that are easily available for quick, easy and fun for the children and the adults to do the projects together.
+This book teaches readers about both the importance of recycling and how to properly do it. It covers recycling basics and addresses how one can recycle and reuse products at both home and school.
 
 
-* Jones, J. (2010). [Cool Crafts with Newspapers, Magazines, and Junk Mail](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13701605). Mankato, Minn.: Capstone Press. <br>
-Call no.: J 745.54 JON
+* Hölzl, L. (2014). [Found and made : the art of upcycling](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201127059). Newtown, N.S.W. : Walker Books Australia. <br>
+Call no.: J 745.5 JOL
 
 Step-by-step instructions for crafts made from old newspaper, magazines, and junk mail and information about reusing and recycling.
 
@@ -95,57 +81,51 @@ Call no.: J 745.5 LIM
 This recycling-based craft book provides ideas for making useful homemade creations like flower pots, bookends, a clock and more are included in this brilliant step-by-step book.
 
 
-* Monaghan, K. (2007). [Organic Crafts](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12844162). Chicago, Ill.: Chicago Review Press. <br>
-Call no.: English 745.5 MON
-
-This ecofriendly craft title encourages children to explore the natural world through projects based on natural, nontoxic, and renewable materials.
-
-
-* Nunn, D. (2012). [Old Clothes](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13986066). London: Raintree. <br>
-Call no.: JP 745.5 NUN
-
-Ideas for handicrafts using textile materials and other salvaged items.
-
-
 * Owen, R. (2014). [Fun Fabrics](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200171442). Imprint:   New York: PowerKids Press. <br>
 Call no.: J 745.5 OWE
 
 Presents wide range of projects will allow young artists to explore their creativity with recycled fabric.
 
+* Puri, D. (2017). [Recycling, reusing, and conserving](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202840543) New York : PowerKids Press.<br>
+  Call no.: J 363.72 PUR
 
-* Sirrine, C (2010). [Cool Crafts with Old T-shirts](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13569259). Mankato, Minn.: Capstone Press. <br>
-Call no.: J 745.5 SIR
+Get an in-depth look at the importance of recycling and conserving. Readers will learn the different methods of recycling and conserving resources and the impact these efforts have on Earth. 
 
-Step-by-step instructions for crafts made from old T-shirts and information about reusing and recycling.
-
-
-* Sirrine, C. (2010). [Cool Crafts with Old Wrappers, Cans, and Bottles](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13569259). Mankato, Minn.: Capstone Press. <br>
-Call no.: J 745.5 SIR
-
-Step-by-step instructions for crafts made from everyday items and information about reusing and recycling
-
-
-* Sullivan, S. W. (2009). [The Big Green Book of Recycled Crafts](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13220812). Little Rock, Ark.: Leisure Arts. <br>
-Call no.: 745.5 BIG \[REC\] Get ideas on recycle projects from paper, plastic, cans, glass, clothing, and other recyclables.
-
-
-* Taylor, T. (2009). [Eco Books: inventive projects from the recycling bin](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13357365). New York, N.Y.: Lark Books. <br>
-Call no.: 686.3 TAY
-
-Some 40 innovative book-making ideas using recycled and green materials such as egg cartons, wood, beer cans, and cassette tapes morph into covers, while brown bags, coffee filters, and discarded newspapers are transformed into pages.
-
-
-* Wold, L. G. (2010). [Recyclo-Gami](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14016712). Philadelphia: RP Teens. <br>
-Call no.: 745.58 WOL
+* Rau, D. M. (2017). [Crafting with recyclables : even more projects](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202639655). Ann Arbor, Michigan : Cherry Lake Publishing. <br>
+  Call no.: J 745.5 RAU
 
 Recycle materials such as bits of paper, old yarn, cartons and containers can be used to make lovely crafts including dollhouse, purse and lots more.
 
+* Sikkens, C. (2020). [Choose to reuse!](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=204463855). St. Catharines, Ontario ; New York : Crabtree Publishing Company. <br>
+Call no.: J 363.72 SIK
+
+Read about the importance of reducing, reusing, and recycling, as well choosing items that can be used over and over.
+
+* Sullivan, S. W. (2009). [The Big Green Book of Recycled Crafts](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13220812). Little Rock, Ark.: Leisure Arts. <br>
+Call no.: 745.5 BIG \[REC\]
+
+Get ideas on recycle projects from paper, plastic, cans, glass, clothing, and other recyclables.
+
+* Wheeler-Toppen, J. (2017). [Amazing cardboard tube science](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13569259). North Mankato, Minnesota : Capstone Press. <br>
+Call no.: J 745.5 WHE
+
+This book details how to use cardboard tubes in projects that demonstrate scientific principles.
 
 **Books on Environment**
 
 Books are often mainstays of resource guides as these provide introductory and comprehensive information on a particular topic. The books below provide insight to understanding on the environment.
 
-(listed in alphabetical order)
+(listed by author)
+
+* Andrus, A. (2020). [The plastic problem : 60 small ways to reduce waste and save the Earth](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=204382123) New York: Scholastic Inc. <br>
+  Call no.: J 363.72 AND
+
+Learn about the easy ways to cut plastic out of your life. The simple actions found in this practical guide will help you and inspire your friends and family to do the same.
+
+* Antil, S. (2012). [10 Ways I Can Save the Earth](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14330920). New York: PowerKids Press. <br>
+  Call no.: J 333.72 ANT
+
+Discuses ten simple but significant lifestyles changes that can help keep the Earth clean, including eating vegetables, planting trees and recycling.
 
 * Bily, C. A. (2013). [Garbage And Recycling](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200139265). Detroit: Greenhaven Press, a part of Gale, Cengage Learning. <br>
 Call no.: 628.4458 GAR
@@ -153,22 +133,16 @@ Call no.: 628.4458 GAR
 This book explores different methods for disposing garbage, the role of recycling in managing garbage, and how consumers can reduce the amount of waste produced.
 
 
-* Brown, P. (2009). [The Curious Garden](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13180482). New York: Little, Brown. <br>
-Call no.: JP ENGLISH BRO
+* Blom, K. (2020). [Plastic sea : a bird's-eye view](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=204462136). Apex, North Carolina : Cornell Lab Publishing Group. <br>
+Call no.: J 363.72 BLO
 
-Liam discovers a hidden garden and with careful tending spreads colour throughout the gray city.
+This book uses the most up-to-date scientific information to offer an insight into a growing environmental crisis with global implications. If we continue to dump as much plastic as we do today, there will be more plastic than fish in the sea by 2050.
 
 
 * Chambers, C. (2015). [How Effective Is Recycling?](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201332936) Chicago, Illinois: Heinemann Raintree. <br>
 Call no.: J 363.72 CHA
 
 Chambers examines recycling of water, plastics and food process and the effectiveness.
-
-
-* Ditchfield, C. (2012). [The Story Behind Plastic](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14094744). Chicago, Ill.: Heinemann Library. <br>
-Call no.: J 668.4 DIT
-
-Discover everything about composition and recycling of plastics and Teflon and explore the secrets of true stories about them.
 
 
 * Flounders, A. (2014). [Friends In The Wild](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200186846). South Egremont, MA : Red Chair Press. <br>
@@ -182,6 +156,11 @@ Call no.: J 582.16 FLO
 
 The author highlights the importance of trees in making earth and our environment healthy and includes step-by-step ideas to protect them.
 
+* French, J. (2019). [What a waste](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203862142). London : Dorling Kindersley. <br>
+  Call no.: J 363.7 FRE
+
+This environmental book will teach keen young ecologists about our actions affecting planet Earth. Includes everything you need to know about what we're doing to our environment, good and bad, from pollution and litter to renewable energy and plastic recycling. 
+
 
 * James, L. (2012). [Where Does the Garbage Go?](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14381805) New York: Gareth Stevens Pub. <br>
 Call no.: JP 363.7282 JAM
@@ -189,31 +168,12 @@ Call no.: JP 363.7282 JAM
 Explores what happens to garbage after it has been picked up by the garbage truck and discusses ways garbage is used for energy.
 
 
-* Klein, A. (2012). [Save the Earth!](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14305103) New York: Scholastic Inc. <br>
-Call no.: JS ENGLISH KLE
+* Kim, E. J. (2020). [Plastic : past, present, and future](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=204435572). Victoria, Australia : Scribble. <br>
+Call no.: J 363.72 KIM
 
-Celebrate Earth Day, Freddie’s first grade class participates in a “go green” challenge where they must complete ten planet-friendly activities by the end of the week.
+Covers the whole story about plastic and is filled with information to empower children to make choices that will affect their future.
 
-
-* Koontz, R. M. (2011). [The Three Little Recyclers](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14227796). Vero Beach, Fla.: Rourke Pub. <br>
-Call no.: JP ENGLISH KHOO
-
-Recycling efforts through the swines characters.
-
-
-* Shea, J. (2012). [Where Does the Recycling Go?](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14381807) New York: Gareth Stevens Pub. <br>
-Call no.: JP 628.4458 SHE
-
-Looks at the process of recycling and materials that can be recycled including glass and plastic.
-
-
-* Weber, R. (2011). [Time to Recycle](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14090849). Mankato, Minn.: Capstone Press. <br>
-Call no.: JP 363.72 WEB
-
-Easy to read and full colour photos that explain about recycling.
-
-
-**Ebook (eDatabases)**
+<!-- **Ebook (eDatabases)**
 
 (listed in alphabetical order)
 
@@ -229,8 +189,7 @@ Recycling and Incineration presents information on the technology, economics, en
 
 * Rau, D. M. (2012). Plastic. New York: Marshall Cavendish Benchmark, 2012. Retrieved March 23, 2017 from NetLibrary (eBooks on Ebscohost) database.
 
-Examines the use of plastic in everyday objects, its unique traits and qualities, and how it is processed to be useful to us. Rau discusses how plastic can be recycled to use again.
-
+Examines the use of plastic in everyday objects, its unique traits and qualities, and how it is processed to be useful to us. Rau discusses how plastic can be recycled to use again. -->
 
 **Websites**
 
@@ -246,13 +205,13 @@ Offers kids some ideas for making creative crafts from recycled materials.
 This website provides step-by-step recycled craft projects like Halloween, Thanksgiving, Christmas and others.
 
 
-* Disney Family recycle projects. (2016). Retrieved February12, 2016, from Disney website:
+* Disney Family recycle projects. (2016). Retrieved February 12, 2016, from Disney website:
 [http://family.disney.com/recyclable-projects](http://family.disney.com/recyclable-projects)
 
 Disney teaches crafts and activities for kids of all ages from recycled materials.
 
 
-* Planetspal recycle kids crafts. (2016). Retrieved February15, 2016, from Planetpals.com website: [http://www.planetpals.com/recycle_crafts_kids.html](http://www.planetpals.com/recycle_crafts_kids.html)
+* Planetspal recycle kids crafts. (2016). Retrieved February 15, 2016, from Planetpals.com website: [http://www.planetpals.com/recycle_crafts_kids.html](http://www.planetpals.com/recycle_crafts_kids.html)
 
 Provides great earth day everyday paper crafts, beads, origami, print and play and recycle crafts.
 
@@ -262,7 +221,7 @@ Provides great earth day everyday paper crafts, beads, origami, print and play a
 Make wonderful, simple crafts with things found around the house.
 
 
-### <u>(b) Posters and Videos</u>
+### <u>Posters and Videos</u>
 
 **Search tips and Internet sites**
 
@@ -422,7 +381,7 @@ This video provides a step by step guide to make cute desk organizer craft.
 
  
 
-### <u>(c) Lesson Plans and e-Games</u>
+### <u>Lesson Plans and e-Games</u>
 
 **Websites**
 
@@ -453,8 +412,6 @@ PBS KIDS provides the quality programming and learning environment for children 
 * 7 Big Ideas. (2016). Retrieved February 16, 2016, from The Green website: [http://www.meetthegreens.org/episode3/](http://www.meetthegreens.org/episode3/)
 
 Presents animated video which cover on 7 big ideas on Reduce Reuse, Conserve, Rethink, Imagine, Discover and Recycle.
-
-
 
 **Lesson Plans**
 
