@@ -11,7 +11,7 @@ published: true
 * [Introduction](#introduction)
 * [Books and Online Resources](#books-and-online-resources)
 * [Posters and Videos](#posters-and-videos)
-* [Lesson Plans and e-Games](#lesson-plans-and-egames)
+* [Lesson Plans](#lesson-plans)
 * [Accessing National Library Board Singapore resources](#accessing-national-library-board-singapore-resources)
 * [Authors](#authors)
 
@@ -195,129 +195,106 @@ Examines the use of plastic in everyday objects, its unique traits and qualities
 
 (listed in alphabetical order)
 
-* Cammarata, N. (2016). 6 Clever Recycled Crafts for Kids. Retrieved February12, 2016, from Better Homes & Gardens website: [http://www.bhg.com/crafts/kids/rainy-day/crafts-from-recycled-material/](http://www.bhg.com/crafts/kids/rainy-day/crafts-from-recycled-material/)
+* 15 Creative Crafts Made from Recycled Household Items. (2020, July 8). Retrieved May 17, 2021, from *Better Homes & Gardens* website: [https://www.bhg.com/crafts/easy/1-hour-projects/recycled-material-crafts/](https://www.bhg.com/crafts/easy/1-hour-projects/recycled-material-crafts/)
 
 Offers kids some ideas for making creative crafts from recycled materials.
 
+* For Students. (n.d.) Retrieved May 17, 2021, from *AirNow* website: [https://www.airnow.gov/education/students/](https://www.airnow.gov/education/students/)
 
-* Craftbids.com. (2016). Retrieved February12, 2016, from Craftbids website: [http://www.craftbits.com/recycled-crafts](http://www.craftbits.com/recycled-crafts)
+Provides Air Quality Index (AQI) information and how it is measured for kids from ages 4 to 11 and up.
 
-This website provides step-by-step recycled craft projects like Halloween, Thanksgiving, Christmas and others.
-
-
-* Disney Family recycle projects. (2016). Retrieved February 12, 2016, from Disney website:
-[http://family.disney.com/recyclable-projects](http://family.disney.com/recyclable-projects)
-
-Disney teaches crafts and activities for kids of all ages from recycled materials.
-
-
-* Planetspal recycle kids crafts. (2016). Retrieved February 15, 2016, from Planetpals.com website: [http://www.planetpals.com/recycle_crafts_kids.html](http://www.planetpals.com/recycle_crafts_kids.html)
+* Planetspal recycle kids crafts. (n.d.). Retrieved May 17, 2021, from *Planetpals.com* website: [http://www.planetpals.com/recycle_crafts_kids.html](http://www.planetpals.com/recycle_crafts_kids.html)
 
 Provides great earth day everyday paper crafts, beads, origami, print and play and recycle crafts.
 
+* Recycled Crafts. (2021). Retrieved May 17, 2021, from *Craftbids* website: [http://www.craftbits.com/recycled-crafts](http://www.craftbits.com/recycled-crafts)
 
-* Recycle Now. Waste and Recycle Action Programme (WRAP). (2016).Retrieved February 16, 2016, from WRAP website: [http://www.recyclenow.com/schools/index.html](http://www.recyclenow.com/schools/index.html)
+This website provides step-by-step recycled craft projects for events like Halloween, Thanksgiving, Christmas and others.
 
-Make wonderful, simple crafts with things found around the house.
+
+* Recycling Knowledge. (n.d.).Retrieved May 17, 2021, from *WRAP* website: [https://www.recyclenow.com/recycling-knowledge](https://www.recyclenow.com/recycling-knowledge)
+
+Offers quick and simple information on recycling practices, processes and other facts.
+
+* Reduce Your Waste. (2015). Retrieved May 17, 2021, from National Geographic Kids website: [https://kids.nationalgeographic.com/nature/article/reduce-your-waste](https://kids.nationalgeographic.com/nature/article/reduce-your-waste)
+
+This website inspires young adventurers to reduce their waste at home through easy tips.
+
+* Singapore Environment Council. (2021). Retrieved May 17, 2021, from Singapore Environment Council website: [http://www.sec.org.sg/](http://www.sec.org.sg/)
+
+The Singapore Environment Council (SEC) was established in 1995 to nurture, facilitate and co-ordinate environmental causes in Singapore.
 
 
 ### <u>Posters and Videos</u>
 
 **Search tips and Internet sites**
 
-How to search resources on posters and videos? Use the following keywords in your search box “recycle” “toys” “kids”.
+How can you search resources on posters and videos? Use the following keywords in your search box **“kids”, “recycle”, "posters"** or **"videos"**.
 
 **Posters**
 
 A picture tells more than thousand words! We highlight to you the educational poster collection that are available online at the National Environment Agency website. The quick links to the specific topics are provided below – mouse over to click on the links.
 
-Source: [http://www.nea.gov.sg/docs/default-source/training-knowledge-hub/educational-materials-and-exhibits/-wm1-paper-recycling.jpg](http://www.nea.gov.sg/docs/default-source/training-knowledge-hub/educational-materials-and-exhibits/-wm1-paper-recycling.jpg)
+Source: [https://www.nea.gov.sg/corporate-functions/resources/educational-materials/posters](https://www.nea.gov.sg/corporate-functions/resources/educational-materials/posters)
 
- 
+* 3Rs poster. (n.d.) Retrieved May 17, 2021, from National Environment Agency website: [https://www.nea.gov.sg/docs/default-source/resource/3r-poster.pdf](https://www.nea.gov.sg/docs/default-source/resource/3r-poster.pdf)
 
-* Can Recycling Process. (no date). Retrieved February12, 2016, from National Environment Agency website: [http://www.nea.gov.sg/docs/default-source/training-knowledge-hub/educational-materials-and-exhibits/-wm2-can-recycling.jpg](http://www.nea.gov.sg/docs/default-source/training-knowledge-hub/educational-materials-and-exhibits/-wm2-can-recycling.jpg)
-
-Describes can recycling process workflow.
+Describes the 3 Rs: Reduce, Reuse and Recycle.
 
 
-* Don’t Throw Away Our Future. Recycle Us. (no date). Retrieved February12, 2016, from National Environment Agency website: [http://www.nea.gov.sg/docs/default-source/training-knowledge-hub/educational-materials-and-exhibits/-wm5-don’t-throw-away-our-future.jpg](http://www.nea.gov.sg/docs/default-source/training-knowledge-hub/educational-materials-and-exhibits/-wm5-don’t-throw-away-our-future.jpg)
+* Don’t Throw Away Our Future. Recycle Us. (n.d.). Retrieved May 17, 2021, from National Environment Agency website: [https://www.nea.gov.sg/images/default-source/resources/-wm5-don't-throw-away-our-future.jpg](https://www.nea.gov.sg/images/default-source/resources/-wm5-don't-throw-away-our-future.jpg)
 
 Highlights items for recycling such as books, papers, glass, plastic, computers, metals, cans and bicycles.
 
 
-* Glass Recycling Process. (no date). Retrieved February12, 2016, from National Environment Agency website: [http://www.nea.gov.sg/docs/default-source/training-knowledge-hub/educational-materials-and-exhibits/-wm4-glass-recycling.jpg](http://www.nea.gov.sg/docs/default-source/training-knowledge-hub/educational-materials-and-exhibits/-wm4-glass-recycling.jpg)
+* Glass Recycling Process. (no date). Retrieved February12, 2016, from National Environment Agency website: [https://www.nea.gov.sg/images/default-source/resources/-wm4-glass-recycling.jpg](https://www.nea.gov.sg/images/default-source/resources/-wm4-glass-recycling.jpg)
 
 Describes glass recycling process workflow.
 
 
-* How Electric Generation Affects the Environment. (no date). Retrieved February12, 2016, from National Environment Agency website: [http://www.nea.gov.sg/docs/default-source/training-knowledge-hub/educational-materials-and-exhibits/-e2-how-electricity-generation-affects-the-environment.jpg](http://www.nea.gov.sg/docs/default-source/training-knowledge-hub/educational-materials-and-exhibits/-e2-how-electricity-generation-affects-the-environment.jpg)
+* How Electric Generation Affects the Environment. (n.d.) Retrieved May 17, 2021, from National Environment Agency website: [https://www.nea.gov.sg/docs/default-source/resource/-e2-how-electricity-generation-affects-the-environment.jpg](https://www.nea.gov.sg/docs/default-source/resource/-e2-how-electricity-generation-affects-the-environment.jpg)
 
 The poster includes Illustrations that explain generation of electricity and environment. Also includes tips for conserving energy. 
 
 
-* How Much Longer Can Our Earth Hold? Conserve the Environment: Reduce, Reuse, Recycle Today. (no date). Retrieved February12, 2016, from National Environment Agency website: [http://www.nea.gov.sg/docs/default-source/training-knowledge-hub/educational-materials-and-exhibits/-wm6-how-much-longer-can-our-earth-hold.jpg](http://www.nea.gov.sg/docs/default-source/training-knowledge-hub/educational-materials-and-exhibits/-wm6-how-much-longer-can-our-earth-hold.jpg)
+* How Much Longer Can Our Earth Hold? Conserve the Environment: Reduce, Reuse, Recycle Today. (n.d.) Retrieved May 17, 2021 from National Environment Agency website: [https://www.nea.gov.sg/images/default-source/resources/-wm6-how-much-longer-can-our-earth-hold.jpg](https://www.nea.gov.sg/images/default-source/resources/-wm6-how-much-longer-can-our-earth-hold.jpg)
 
 Provides the message to reduce, reuse and recycle of all type of materials to conserve the environment.
 
 
-* 1 Ton of Paper = 17 Trees. (no date). Retrieved February12, 2016, from National Environment Agency website: [http://www.nea.gov.sg/docs/default-source/training-knowledge-hub/educational-materials-and-exhibits/-wm7-1-ton-of-papers-=-17-trees.jpg](http://www.nea.gov.sg/docs/default-source/training-knowledge-hub/educational-materials-and-exhibits/-wm7-1-ton-of-papers-=-17-trees.jpg)
+* 1 Ton of Paper = 17 Trees. (n.d.). Retrieved February12, 2016, from National Environment Agency website: [http://www.nea.gov.sg/docs/default-source/training-knowledge-hub/educational-materials-and-exhibits/-wm7-1-ton-of-papers-=-17-trees.jpg](http://www.nea.gov.sg/docs/default-source/training-knowledge-hub/educational-materials-and-exhibits/-wm7-1-ton-of-papers-=-17-trees.jpg)
 
 Highlights how one can be environmental free by saving trees and reduce the consumption of papers.
 
 
-* Paper recycling process. (no date). Retrieved February12, 2016, from National Environment Agency website: [http://www.nea.gov.sg/docs/default-source/training-knowledge-hub/educational-materials-and-exhibits/-wm1-paper-recycling.jpg](http://www.nea.gov.sg/docs/default-source/training-knowledge-hub/educational-materials-and-exhibits/-wm1-paper-recycling.jpg)
+* Paper recycling process. (n.d.) Retrieved May 17, 2021, from National Environment Agency website: [https://www.nea.gov.sg/images/default-source/resources/-wm1-paper-recycling.jpg](https://www.nea.gov.sg/images/default-source/resources/-wm1-paper-recycling.jpg)
 
 Describes paper recycling process workflow.
 
 
-* Plastic Recycling Process. (no date). Retrieved February12, 2016, from National Environment Agency website: [http://www.nea.gov.sg/docs/default-source/training-knowledge-hub/educational-materials-and-exhibits/-wm3-plastic-recycling.jpg](http://www.nea.gov.sg/docs/default-source/training-knowledge-hub/educational-materials-and-exhibits/-wm3-plastic-recycling.jpg)
+* Plastic Recycling Process. (n.d.) Retrieved May 17, 2021, from National Environment Agency website: [https://www.nea.gov.sg/images/default-source/resources/-wm3-plastic-recycling.jpg](https://www.nea.gov.sg/images/default-source/resources/-wm3-plastic-recycling.jpg)
 
 Describes plastic recycling process workflow.
 
 
-* Recycle bins labels. (no date). Retrieved February12, 2016, from National Environment Agency website: [http://www.nea.gov.sg/docs/default-source/energy-waste/recycling-labels.jpg?sfvrsn=2](http://www.nea.gov.sg/docs/default-source/energy-waste/recycling-labels.jpg?sfvrsn=2)
+* Recycling flyer (n.d.) Retrieved May 17, 2021, from National Environment Agency website: [https://www.nea.gov.sg/docs/default-source/our-services/waste-management/recycling-flyer.pdf](https://www.nea.gov.sg/docs/default-source/our-services/waste-management/recycling-flyer.pdf)
 
-Recycle bins colour labels for glass, paper, plastic and metal.
-
-
-* Recycling At Home. (no date). Retrieved February12, 2016, from National Environment Agency website: [http://www.nea.gov.sg/docs/default-source/energy-waste/recycling/recycling-at-home-flyer.pdf?sfvrsn=2](http://www.nea.gov.sg/docs/default-source/energy-waste/recycling/recycling-at-home-flyer.pdf?sfvrsn=2)
-
-A flyer in four languages – English, Chinese, Malay and Tamil explains on recycling at home.
+Describes what can and cannot be put into recycling bins.
 
 
-* Singapore. Ministry of the Environment and Water Resources. (2017). Becoming a zero waste nation. Retrieved March 9, 2017, from Ministry of the Environment and Water Resources website: [http://www.mewr.gov.sg/about-us/our-organisation/committee-of-supply/becoming-a-zero-waste-nation#waste_infrastructure](http://www.mewr.gov.sg/about-us/our-organisation/committee-of-supply/becoming-a-zero-waste-nation#waste_infrastructure)
-
-Provided two articles: Making Recycling More Convenient that aim to achieve 30% domestic recycling rate by 2030 under the Sustainable Singapore Blueprint and Improving Waste Collection Infrastructure: As from 1 April 2018, new non-landed private residential developments with at least 500 dwelling units will need to be equipped with Pneumatic Waste Conveyance Systems (PWCS). PWCS reduces odour and pests, refuse truck traffic, manpower and time required for waste collection.
-
-
-* Singapore Environment Council. (2016). Retrieved February12, 2016, from Singapore Environment Council website: [http://www.sec.org.sg/web/](http://www.sec.org.sg/web/)
-
-Briefly explains of the Singapore Environment Council (SEC) which was established in 1995 as to nurture, facilitate and co-ordinate environmental causes in Singapore.
-
-
-* Switch Me Off. (no date). Retrieved February12, 2016, from National Environment Agency website: [http://www.nea.gov.sg/docs/default-source/training-knowledge-hub/educational-materials-and-exhibits/-e1-switch-me-off.jpg](http://www.nea.gov.sg/docs/default-source/training-knowledge-hub/educational-materials-and-exhibits/-e1-switch-me-off.jpg)
+* Switch Me Off. (n.d.). Retrieved May 17, 2021, from National Environment Agency website: [https://www.nea.gov.sg/docs/default-source/resource/-e1-switch-me-off.jpg](https://www.nea.gov.sg/docs/default-source/resource/-e1-switch-me-off.jpg)
 
 A poster produced by NEA to educate consumers of good energy conservations habits.
 
 
-* 3R Poster on Reduce, Reuse and Recycle. (no date). Retrieved February12, 2016, from National Environment Agency website: [http://www.nea.gov.sg/docs/default-source/energy-waste/recycling/3r-poster.pdf?sfvrsn=2](http://www.nea.gov.sg/docs/default-source/energy-waste/recycling/3r-poster.pdf?sfvrsn=2)
-
-Colour poster on 3R – Reduce, Reuse and Recycle with interesting illustration.
-
-
-* The 3Rs: A guide to 3R Practices for Households. (no date). Retrieved February12, 2016, from National Environment Agency website: [http://www.nea.gov.sg/docs/default-source/energy-waste/a-guide-to-3r-practices-for-households.pdf?sfvrsn=2](http://www.nea.gov.sg/docs/default-source/energy-waste/a-guide-to-3r-practices-for-households.pdf?sfvrsn=2)
+* The 3Rs: A guide to 3R Practices for Households. (n.d.). Retrieved May 17, 2021, from National Environment Agency website: [https://www.nea.gov.sg/docs/default-source/resource/a-guide-to-3r-practices-for-households.pdf](https://www.nea.gov.sg/docs/default-source/resource/a-guide-to-3r-practices-for-households.pdf)
 
 A consumer education initiative by Singapore Packaging Agreement on 3R practices for households.
 
 
-* Waste Minimisation & Recycling. (2013).Retrieved February12, 2016, from National Environment Agency website: [http://www.nea.gov.sg/docs/default-source/training-knowledge-hub/-ex-wr1-waste-minimisation-(single-sided-pullup).pdf](http://www.nea.gov.sg/docs/default-source/training-knowledge-hub/-ex-wr1-waste-minimisation-(single-sided-pullup).pdf)
+* What to do with. (n.d.) Retrieved May 17, 2021, from WRAP website: [https://www.recyclenow.com/what-to-do-with](https://www.recyclenow.com/what-to-do-with)
 
-Display Waste Management single pull up banner – why let packaging go to waste? – Paper, Metal, Plastic and Glass.
-
-
-* WRAP. Recycle now: What to do with Clothing & textiles, Electrical items, Furniture, Medicines, Plastic bottles and Plastic films. (2016). Retrieved February12, 2016, from WRAP website: [https://www.recyclenow.com/what-to-do-with](https://www.recyclenow.com/what-to-do-with)
-
-Guide to recycle of Clothing & textiles, Electrical items, Furniture, Medicines, Plastic bottles and Plastic films.
+Guide to recycle of Clothing & textiles, Electrical items, Furniture, Medicines, Plastic bottles, Plastic films, and more.
 
 
 **Videos**
@@ -326,21 +303,23 @@ Guide to recycle of Clothing & textiles, Electrical items, Furniture, Medicines,
 
 (listed in alphabetical order)
 
-* [RecycleNowCampaign](https://www.youtube.com/user/RecycleNowCampaign). (2009, November 17). UK: Recycle Now. Retrieved February 12, 2016, from website: https://www.youtube.com/user/RecycleNowCampaign
+* Recycle Now. (n.d). Retrieved May 17, 2021, from Youtube website: https://www.youtube.com/user/RecycleNowCampaign
 
-A collection of animation videos on recycling process of papers, plastics, food waste, furniture and others.
+A collection of videos on recycling process of papers, plastics, food waste, furniture and others.
 
 
-* Recycle Now. (2015, June 19). Recycling around the home. [Video File]. Retrieved February12, 2016, from website: https://youtu.be/sLktjtlXCNo
+* Recycle Now. (2015, June 19). Recycling around the home. [Video File]. Retrieved May 17, 2021, from website: https://youtu.be/sLktjtlXCNo
 
 
 This animation video highlights just a few items all around the home for recycling materials such as can, plastic, electrical, waste, and garden.
 
- <iframe width="1280" height="360" src="https://www.youtube.com/embed/sLktjtlXCNo" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sLktjtlXCNo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* storyofstuffproject. (2015, September 4). Loop Scoops – Garbage [Video File]. Retrieved February 12, 2016, from website: https://youtu.be/N9LfPq-H72g
+* The Story of Stuff Project. (2015, September 4). Loop Scoops – Garbage [Video File]. Retrieved May 17, 2021, from website: https://youtu.be/N9LfPq-H72g
 
-<iframe width="1280" height="360" src="https://www.youtube.com/embed/N9LfPq-H72g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+This is a PBS Kids production on garbage and saving the environment by recycling and composting.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N9LfPq-H72g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 PBS Kids production on garbage and saving the environment by recycling and composting.
 
@@ -351,109 +330,48 @@ There are quite a number of online videos on crafts from recycled materials. Ple
 (listed in alphabetical order)
 
 
-* Expert Village. (2012, November 15). How Do I Create Christmas Cards Using Recycled Materials?: Christmas Crafts [Video File]. Retrieved March 28, 2017, from website: https://youtu.be/z_RKmEhdzqs
-
-<iframe width="1280" height="360" src="https://www.youtube.com/embed/z_RKmEhdzqs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+* Expert Village. (2012, November 15). How Do I Create Christmas Cards Using Recycled Materials?: Christmas Crafts [Video File]. Retrieved May 17, 2021, from website: https://youtu.be/z_RKmEhdzqs
 
 Fernandez, an experienced art educator provides tips on how to make a variety of different crafts such as Christmas cards.
 
-DisneyJuniorUK. (2014, November 22). Art Attack – Travel Bag – Disney Junior UK HD. [Video File]. Retrieved March 28, 2017, from website: https://youtu.be/kvImAjsERY4
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z_RKmEhdzqs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="1280" height="360" src="https://www.youtube.com/embed/kvImAjsERY4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+DisneyJuniorUK. (2014, November 22). Art Attack – Travel Bag – Disney Junior UK HD. [Video File]. Retrieved May 17, 2021, from website: https://youtu.be/kvImAjsERY4
 
-Lloyd provides step by step on making a super useful travel bag.
+Lloyd provides a step by step guide to make a super useful travel bag.
 
- 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kvImAjsERY4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* Make:. (2012, August 13). Maker Camp: Recycled Paper Baskets with Tiffany Threadgould [Video File]. Retrieved March 28, 2017, from website: https://youtu.be/vIl3brhueyg
-
-<iframe width="1280" height="360" src="https://www.youtube.com/embed/vIl3brhueyg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+* Make:. (2012, August 13). Maker Camp: Recycled Paper Baskets with Tiffany Threadgould [Video File]. Retrieved May 17, 2021, from website: https://youtu.be/vIl3brhueyg
 
 Threadgould demonstrates weaving paper baskets from old maps.
 
- 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vIl3brhueyg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Simplekidscraft.com. (2017, March 8). DIY Corrugated Cardboard Desk Organizer: Easy Cardboard Crafts [Video File]. Retrieved March 23, 2017, from website: https://youtu.be/rdL5ETTF690
+* Simplekidscraft.com. (2017, March 8). DIY Corrugated Cardboard Desk Organizer: Easy Cardboard Crafts [Video File]. Retrieved May 17, 2021, from website: https://youtu.be/rdL5ETTF690
 
-<iframe width="1280" height="360" src="https://www.youtube.com/embed/rdL5ETTF690" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+This video provides a step by step guide to craft a cute desk organizer.
 
-This video provides a step by step guide to make cute desk organizer craft.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdL5ETTF690" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
- 
-
-### <u>Lesson Plans and e-Games</u>
-
-**Websites**
-
-Browse these websites for more resources on the subject of saving the environment.
-
-(listed in alphabetical order)
-
-* EPA for kids. (2016, January 27). Retrieved February 16, 2016, from the Environmental Protection Agency, United States website: [http://www.epa.gov/students/games.html](http://www.epa.gov/students/games.html)
-
-Play games and find other activities to play online, including crossword puzzles and word searches.
-
-
-* Kid’sAir. (2015, August 25).Retrieved February 16, 2016, from AirNow.gov, United States website: [http://www.airnow.gov/index.cfm?action=aqikids_home.index](http://www.airnow.gov/index.cfm?action=aqikids_home.index)
-
-Provides Air Quality Index (AQI) information and how it is measured for kids from kindergarten, first grade and ages 7-10.
-
-
-* National Geographic for Kids. (2016). Retrieved February 16, 2016, from NG Kids website: [http://kids.nationalgeographic.com/kids/stories/](http://kids.nationalgeographic.com/kids/stories/)
-
-This website inspires young adventurers to explore the world through award-winning magazines, books, apps, games, toys, videos, events, and a website on national geography.
-
-
-* PBS Kids – The Environment. (2016). Retrieved February 16, 2016, from Public Broadcasting Service website: [http://www.pbs.org/wgbh/americanexperience/features/content/environment-kids/](http://www.pbs.org/wgbh/americanexperience/features/content/environment-kids/)
-
-PBS KIDS provides the quality programming and learning environment for children to stimulate their curiosity, encourage interaction and foster their imagination.
-
-
-* 7 Big Ideas. (2016). Retrieved February 16, 2016, from The Green website: [http://www.meetthegreens.org/episode3/](http://www.meetthegreens.org/episode3/)
-
-Presents animated video which cover on 7 big ideas on Reduce Reuse, Conserve, Rethink, Imagine, Discover and Recycle.
-
-**Lesson Plans**
-
-Websites from the BBC, Waste and Resources Action Programme (WRAP) and Environment Protection Agency contain lessons for your consideration.
-
-(listed in alphabetical order)
-
-* Environmental Protection Agency. (2015, December 28).Retrieved February 16, 2016, from Environmental Protection Agency, United States website: [http://www.epa.gov/students/teachers.html](http://www.epa.gov/students/teachers.html)
-
-
-* Saving Waste by BBC. (2014, October 20).Retrieved February 16, 2016, from BBC Home website: [http://www.bbc.co.uk/schools/teachers/environment/lesson_plan_ks2.shtml](http://www.bbc.co.uk/schools/teachers/environment/lesson_plan_ks2.shtml) 
-
-
-**E-Game links to websites**
+### <u>Lesson Plans</u>
 
 Learn through these interactive e-game and multimedia quiz suitable for children. Go ahead, challenge yourselves and enjoy!
 
 (listed in alphabetical order)
 
-* Alliant Energy Kids. (2015, December 31). Retrieved February 16, 2016, from Alliant Energy Kids website: [http://www.alliantenergykids.com/FunandGames/OnlineGames/index.htm](http://www.alliantenergykids.com/FunandGames/OnlineGames/index.htm)
+* Energy lessons for middle schoolers. (2021). Retrieved May 17, 2021, from Alliant Energy Kids website: [https://www.alliantenergykids.com/ForEducators/TeachingUnits](https://www.alliantenergykids.com/ForEducators/TeachingUnits)
 
-Learn about the concept of energy – resources, conservation and safety tips through games.
+Take middle schoolers through renewable energy, energy efficiency, home conservation and safety through standards-aligned teaching units.
 
+* Lesson Plans, Teacher Guides and Online Environmental Resources for Educators. (2021, March 26). Retrieved May 17, 2021, from United States Environmental Protection Agency website: [https://www.epa.gov/students/lesson-plans-teacher-guides-and-online-environmental-resources-educators](https://www.epa.gov/students/lesson-plans-teacher-guides-and-online-environmental-resources-educators)
 
-* Captain Busta: resources for primary school children. (2016). Retrieved February 16, 2016, from Recycle Now website: [http://www.recyclenow.com/recycle/school/primary-school-resources/busta](http://www.recyclenow.com/recycle/school/primary-school-resources/busta)
-
-This is part of the Recycle Now for schools. It is supported by WRAP.
-
-
-* JimmyFish – the Game. (2013).Retrieved February 16, 2016, from ConnexionSG website: [http://www.connexion.sg/web/guest/resources;jsessionid=D4C8AFDA42E2F67B24B40A2ECE9A6C75.ne_portal2?p_p_id=20&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_20_struts_action=/document_library/view_file_entry&_20_folderId=10520&_20_name=DLFE-11406.swf](http://www.connexion.sg/web/guest/resources;jsessionid=D4C8AFDA42E2F67B24B40A2ECE9A6C75.ne_portal2?p_p_id=20&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_20_struts_action=/document_library/view_file_entry&_20_folderId=10520&_20_name=DLFE-11406.swf)
-
-Save Jimmy, Save the Earth” – in this adventure, follow Jimmy in his journey to save power and water! This interactive game is accessible via Connexion.sg website
+The Environmental Protection Agency provides lesson plans and teacher guides for educators to teach about environmental resources.
 
 
-* Super Recycler. (2016).Retrieved February 16, 2016, from WRAP website: [http://games.wrap.org.uk/superrecycler/Game.swf?attredirects=0](http://games.wrap.org.uk/superrecycler/Game.swf?attredirects=0)
+* Teacher Resources. (2021). Retrieved May 17, 2021, from Wastebuster website: [https://www.wastebuster.co.uk/Resources](https://www.wastebuster.co.uk/Resources)
 
-This is part of the Recycle Now! for schools. It is supported by WRAP
-
-
-* The Groovy Garden. (2016).Retrieved February 16, 2016, from WGBH Educational Foundation website: [http://pbskids.org/arthur/games/groovygarden/index.html](http://pbskids.org/arthur/games/groovygarden/index.html)
-
-Remember Arthur? He is a Canadian/American animated television series for children brought to by the Public Broadcasting Service (PBS). Join Arthur in this animated game to learn about the environment.
+The not-for-profit company Wastebuster provides resources for educators including lesson plans, team activities, activity sheets and more.
 
 ### <u>Accessing National Library Board Singapore Resources</u>
 
@@ -481,15 +399,16 @@ All featured books and periodicals are located at the Lee Kong Chian Reference L
 
 The National Library Board (NLB)’s eResources are free for all NLB members. Click [here](http://eresources.nlb.gov.sg/HowDoI.aspx) to find out how to register as a member.
 
-If you’re having problems registering or logging in, please [contact us](http://www.nlb.gov.sg/ContactUs.aspx). If you wish to find information in the databases but am not sure where to begin, or need recommendations on which databases to use, please use the [“Ask A Librarian”](http://www.nlb.gov.sg/Research/AskUs.aspx) function or send an email to [ref@nlb.gov.sg](mailto:ref@library.nlb.gov.sg) for help. The librarian will get back to you within three working days.
+If you’re having problems registering or logging in, please [contact us](http://www.nlb.gov.sg/ContactUs.aspx). If you wish to find information in the databases but am not sure where to begin, or need recommendations on which databases to use, please use the [“Ask A Librarian”](https://www.nlb.gov.sg/SearchDiscover/Services/AskaLibrarian.aspx) function or send an email to [ref@nlb.gov.sg](mailto:ref@library.nlb.gov.sg) for research assistance. The librarian will get back to you within three working days.
 
 ### <u>Authors</u>
 
 Faridah Ibrahim
+
 Hameedah M Ibrahim (Updated by)
 
  
 
-The information in this resource guide is valid as at Feb 2017 and correct as far as we are able to ascertain from our sources. It is not intended to be an exhaustive or complete history on the subject. Please contact the Library for further reading materials on the topic.
+The information in this resource guide is valid as at May 2021 and correct as far as we are able to ascertain from our sources. It is not intended to be an exhaustive or complete history on the subject. Please contact the Library for further reading materials on the topic.
 
-All Rights Reserved. National Library Board Singapore 2017.
+All Rights Reserved. National Library Board Singapore 2021.
