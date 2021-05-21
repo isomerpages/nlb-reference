@@ -9,4 +9,4 @@ third_nav_title: Science & Technology
 
 - [**Climate Change**](/guides/science-technology/physical-sciences/climate-change)
 - [**Air Pollution**](/guides/science-technology/physical-sciences/air-pollution)
-- [**Environmental Champion**](/guides/science-technology/physical-sciences/environmental-champion)
+
