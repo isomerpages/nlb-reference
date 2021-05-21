@@ -33,6 +33,9 @@ An exhibition titled *Georgette Chen: At Home in the World*, the first museum re
 This guide provides resources for those who are keen to know more about Georgette Chen’s artistic practice. You can also visit [**catalogue.nlb.gov.sg**](http://catalogue.nlb.gov.sg) to search for more resources. This resource guide was first authored and updated by Ng Su May, Heirwin Mohd Nasir, and Jason Yan. It was last updated in December 2020 by Luke Chua, a Manager at the National Library, Singapore.
 
 ### <u>Books</u>
+
+
+
 | Book                                                         | Description                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | <img src="/images/singapore-people/gc-jane chia.jpg" alt="Georgette Chen by Jane Chia"/> | Chia, J. (1997). [Georgette Chen](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=8379929). Singapore: Singapore Art Museum. Call no.: RSING q759.95957 CHI<br><br>A detailed and comprehensive biographical account of Chen’s artistic career and life from childhood to death; it incorporates multiple sources, many of which, from photographs and personal correspondences, are reprinted in the book. Chia discovers that Chen was probably born in Zhejiang, China, instead of Paris as previously and popularly assumed. Also includes a compilation catalogue of Chen’s major exhibitions between 1963 and 1994 as well as secondary material such as radio transcripts on her first husband’s death. |
