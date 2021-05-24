@@ -1,5 +1,5 @@
 ---
-title: Sastera Melayu Singapura - Novel
+title: Novel
 permalink: /guides/arts/literaryarts/sasteramelayusingapura/novel
 breadcrumb: Sastera Melayu Singapura - Novel
 collection_name: arts-lit-arts
@@ -817,8 +817,8 @@ If you’re having problems registering or logging in, please [contact us](/cont
 
 ### **Authors**
 
-Juffri Bin Supa’at
-Saliyah Sapeon
+Juffri Bin Supa’at<br>
+Saliyah Sapeon<br>
 Sukinah Suradi
 
 

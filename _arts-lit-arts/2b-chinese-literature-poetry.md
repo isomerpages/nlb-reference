@@ -1,35 +1,35 @@
 ---
-title: Poetry
+title: 诗歌
 permalink: /guides/arts/literaryarts/singaporechineseliterature/poetry
-breadcrumb: Chinese Literature - Poetry
+breadcrumb: 新加坡华文文学书目：诗歌
 collection_name: arts-lit-arts
-third_nav_title: Bibliography of Singapore Chinese Literature
+third_nav_title: 新加坡华文文学书目
 published: true
 ---
 
-## **新加坡华文文学书目：诗歌 / BIBLIOGRAPHY OF SINGAPORE CHINESE LITERATURE: POETRY**
+## **新加坡华文文学书目：诗歌 / Bibliography of Singapore Chinese Literature: Poetry**
 
 <h3><u>Guide Index</u></h3>
 
-* [1 – Overview of the Singapore Literature Bibliographies (1965 – 2015)](#1-overview-of-the-singapore-literature-bibliographies-1965-2015)
-* [2 – 《新加坡华文文学书目》简介](#anchor2)
-* [3 - 1965 – 1970](#3-1965-1970)
-* [4 - 1971 – 1980](#4-1971-1980)
-* [5 - 1981 – 1990](#5-1981-1990)
-* [6 - 1991 – 2000](#6-1991-2000)
-* [7 - 2001 – 2010](#7-2001-2010)
-* [8 - 2011 – 2015](#8-2011-2015)
-* [9 – 编辑](#9-编-辑)
-* [10 - Accessing National Library Board Singapore Resources](#10-accessing-national-library-board-singapore-resources)
+* [Overview of the Singapore Literature Bibliographies (1965 – 2015)](#overview-of-the-singapore-literature-bibliographies-1965-2015)
+* [《新加坡华文文学书目》简介](#anchor2)
+* [1965 – 1970](#1965 - 1970)
+* [1971 – 1980](#1971 - 1980)
+* [1981 – 1990](#1981 - 1990)
+* [1991 – 2000](#1991 - 2000)
+* [2001 – 2010](#2001 - 2010)
+* [2011 – 2015](#2011 - 2015)
+* [编辑](#编辑)
+* [Accessing National Library Board Singapore Resources](#accessing-national-library-board-singapore-resources)
 
-### <u>1-Overview of the Singapore Literature Bibliographies (1965-2015)</u>
+### <u>Overview of the Singapore Literature Bibliographies (1965-2015)</u>
 
 The National Library has compiled a set of bibliographies on Singapore Literature that covers works published in English, Chinese, Malay and Tamil. These provide a comprehensive listing of literary works by Singapore writers and Singapore literature over the past 50 years from 1965 to 2015. The bibliographies have been updated from the original print versions to include works published from 2010 to 2015. The full listing of works including titles of newspapers and literary periodicals in the four languages can be easily accessed through the Resource Guides platform. More information about the specific language bibliographies including scope and coverage can be found in the respective Singapore Literature Resource Guides.
 
 ![Chinese banner](/images/arts/literaryarts/singaporechineseliterature/SGLitbibliobannerCL-1.jpg)
 
 
-### <a name="anchor2"><u>2-《新加坡华文文学书目》简介</u></a>
+### <a name="anchor2"><u>《新加坡华文文学书目》简介</u></a>
 
 《新加坡华文文学编年书目1965-2009》集合了新加坡国家图书馆、新加坡国立大学中文图书馆以及南洋理工大学中文图书馆的力量，以三家图书馆的藏书为依据，将1965年至2009年间出版的本地作家单行本著作，作一个集合总结。这相信是新加坡首部收录年份范畴最长、而且较为完整的文学书目，供学者更好地检索关于新加坡华文文学的资料。
 
@@ -43,7 +43,7 @@ The National Library has compiled a set of bibliographies on Singapore Literatur
 
 个别文类的书目以编年的方式列出1965年至2015年出版的著作。
 
-### <u>3 – 1965 – 1970</u>
+### <u>1965 - 1970</u>
 
 陈世能。（1965）。低诉。香港：宏智书店。
 NLB索书号：RSEA C811.5 CSN
@@ -238,7 +238,7 @@ NLB索书号：RSEA C811.5 WJH
 NLB索书号：RCLOS C811.5 CW
 
 
-### <u>4 – 1971 – 1980</u>
+### <u>1971 - 1980</u>
 
 安铭。（1971）。夕阳红。新加坡：巫汉明。
 NLB索书号：RCLOS C811.5 AM
@@ -600,7 +600,7 @@ NLB索书号： RSING C811.5 YIC
 NLB索书号：RSING C811.5 YT
 
 
-### <u>5 – 1981 – 1990</u>
+### <u>1980 - 1990</u>
 
 长谣、喀秋莎、古琴。（1981）。三弦集。新加坡：大地书局。
 NLB索书号：RSING C811.5 CY
@@ -1046,7 +1046,7 @@ NLB索书号：RSING C811.5 YD
 NLB索书号：RSING C811.5 ZT
 
 
-### <u>6 – 1990 – 2000</u>
+### <u>1990 - 2000</u>
 
 长河。（1991）。掠过夜空的彗星。新加坡：新华文化事业。
 NLB索书号：RSING C811.5 CH
@@ -1557,7 +1557,7 @@ NLB索书号：RSING C818.2 YC
 NLB索书号：RSING C811.5 ZC
 
 
-### <u>7 – 2001 – 2010</u>
+### <u>2001 - 2010</u>
 
 陈华彪。（2001）。陈华彪诗歌选。新加坡：新加坡文艺协会。
 新加坡中青年文艺丛书。
@@ -2136,7 +2136,7 @@ NLB索书号：RSING C811.5 ZL
 NLB索书号：RSING C811.5 ZL
 
 
-### <u>8 – 2011 – 2015</u>
+### <u>2011 - 2015</u>
 
 陈福义。（2011）。一串翡翠项链。新加坡：新加坡文艺协会。
 NLB索书号：RSING C811.5 CFY
@@ -2462,14 +2462,14 @@ NLB索书号：RSING C814.3 YX
 （也列入散文与杂文书目）
 
 
-### <u>9 – 编辑</u>
+### <u>编辑</u>
 
-庄致颖
-黄惠龄
-吴玉美
-黄慧丽
+庄致颖<br>
+黄惠龄<br>
+吴玉美<br>
+黄慧丽<br>
 
-### <u>10- Accessing National Library Board Singapore Resources</u></h3>
+### <u>Accessing National Library Board Singapore Resources</u>
 
 _Accessing the Print Materials_
 

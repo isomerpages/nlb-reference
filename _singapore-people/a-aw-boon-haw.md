@@ -7,8 +7,6 @@ third_nav_title: A - H
 published: true
 ---
 
-
-
 ### <u>Guide Index</u>
 
 * [Introduction](#introduction)

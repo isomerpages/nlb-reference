@@ -1,5 +1,5 @@
 ---
-title: Sastera Melayu Singapura - Cerpen
+title: Cerpen
 permalink: /guides/arts/literaryarts/sasteramelayusingapura/cerpen
 breadcrumb: Sastera Melayu Singapura - Cerpen
 collection_name: arts-lit-arts
@@ -536,8 +536,8 @@ If you’re having problems registering or logging in, please [contact us](/cont
 
 ### <u>Authors</u>
 
-Juffri Bin Supa’at
-Saliyah Sapeon
+Juffri Bin Supa’at<br>
+Saliyah Sapeon<br>
 Sukinah Suradi
 
  

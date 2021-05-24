@@ -1,5 +1,5 @@
 ---
-title: Sastera Melayu Singapura - Esei
+title: Esei
 permalink: /guides/arts/literaryarts/sasteramelayusingapura/esei
 breadcrumb: Sastera Melayu Singapura - Esei
 collection_name: arts-lit-arts
@@ -411,8 +411,8 @@ If you’re having problems registering or logging in, please [contact us](/cont
 
 <b><u>Authors</u></b>
 
-Juffri Bin Supa’at
-Saliyah Sapeon
+Juffri Bin Supa’at<br>
+Saliyah Sapeon<br>
 Sukinah Suradi
 
 

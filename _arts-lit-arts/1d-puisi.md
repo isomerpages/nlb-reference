@@ -1,5 +1,5 @@
 ---
-title: Sastera Melayu Singapura - Puisi
+title: Puisi
 permalink: /guides/arts/literaryarts/sasteramelayusingapura/puisi
 breadcrumb: Sastera Melayu Singapura - Puisi
 collection_name: arts-lit-arts
@@ -518,8 +518,8 @@ If you’re having problems registering or logging in, please [contact us](/cont
 
 ### <u>Authors</u>
 
-Juffri Bin Supa’at
-Saliyah Sapeon
+Juffri Bin Supa’at<br>
+Saliyah Sapeon<br>
 Sukinah Suradi
 
  

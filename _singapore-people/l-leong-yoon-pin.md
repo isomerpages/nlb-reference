@@ -1,9 +1,10 @@
 ---
 title: Leong Yoon Pin
-permalink: /guides/arts/performing-arts/leong-yoon-pin
+permalink: /guides/singapore/people/leong-yoon-pin
 breadcrumb: Leong Yoon Pin
-collection_name: arts-performing-arts
-third_nav_title: Performing Arts
+collection_name: singapore-people
+third_nav_title: I - S
+published: true
 ---
 
 ### <u>Guide Index</u>
@@ -25,24 +26,24 @@ third_nav_title: Performing Arts
 
 Leong Yoon Pin 梁荣平 (b. 5 August 1931, Singapore–d. 13 April 2011, Singapore) was a composer, conductor and educator. Described as the doyen of Singapore composers, Leong was well-known for his choral compositions, many of which were locally commissioned and performed by both amateur and professional choirs. His compositions were often infused with a local flavour. Leong was awarded the Cultural Medallion in 1982.
 
-![Leong yoon pin image](/images/arts/performingarts/Leong-Yoon-Pin-half-length-portrait.jpg)
+<img src="/images/arts/performingarts/Leong-Yoon-Pin-half-length-portrait.jpg" alt="Leong yoon pin image" style="width:500px;" />
 
-© Eric Foo Chee Meng, 1979-2001. All rights reserved.
-Courtesy of the National Arts Council.
+© Eric Foo Chee Meng, 1979-2001. All rights reserved.<br>
+Courtesy of the National Arts Council.<br>
 Retrieved from PictureSG.
 
 This resource guide serves to help users locate resources on Leong Yoon Pin available at the National Library Singapore as well as the following organisations: LASALLE College of the Arts (LASALLE), Nanyang Academy of Fine Arts (NAFA), National Archives of Singapore (NAS), National Institute of Education Library (NIE) and National University of Singapore (NUS).
 
 **Library Codes**
 
-**NL**: National Library (Lee Kong Chian Reference Library)
-**PL**: Public Libraries, National Library Board
-**NAS**: National Archives of Singapore
-**RU**: Repository Used Collection, National Library Board
-**LASALLE**: LASALLE College of the Arts
-**NAFA**: Nanyang Academy of Fine Arts
-**NIE**: National Institute of Education
-**NUS**: National University of Singapore
+**NL**: National Library (Lee Kong Chian Reference Library)<br>
+**PL**: Public Libraries, National Library Board<br>
+**NAS**: National Archives of Singapore<br>
+**RU**: Repository Used Collection, National Library Board<br>
+**LASALLE**: LASALLE College of the Arts<br>
+**NAFA**: Nanyang Academy of Fine Arts<br>
+**NIE**: National Institute of Education<br>
+**NUS**: National University of Singapore<br>
 
 
 | **Search Terms** | **Call Numbers** |
@@ -892,10 +893,7 @@ If you’re having problems registering or logging in, please [contact us](http:
 
 ### <u>Author</u>
 
-Dr. Eleanor A. L. Tan
-Kong Leng Foong (Updated by)
-
- 
+Dr. Eleanor A. L. Tan<br>Kong Leng Foong (Updated by)
 
 The information in this resource guide is valid as at July 2017 and correct as far as we are able to ascertain from our sources. It is not intended to be an exhaustive or complete history on the subject. Please contact the Library for further reading materials on the topic.
 

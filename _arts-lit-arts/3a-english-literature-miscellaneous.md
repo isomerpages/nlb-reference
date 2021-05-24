@@ -33,78 +33,80 @@ Singapore Literature in English forms an indispensable part of our culture and i
 * Short Stories
 * Drama
 * Anthologies
-* Electric Journals
+* Electronic Journals
+* Miscellaneous
 
 **Miscellaneous**
+
 This section contains a unique, otherwise unclassifiable form of publication – the ephemeral printed programmes of public readings and performances by poets and others.
 
 **Library Codes**
 
-**NL**: National Library (Lee Kong Chian Reference Library)
-**PL**: Public Libraries, National Library Board
-**RU**: Repository Used Collection, National Library Board
-**NUS**: National University of Singapore
+**NL**: National Library (Lee Kong Chian Reference Library)<br>
+**PL**: Public Libraries, National Library Board<br>
+**RU**: Repository Used Collection, National Library Board<br>
+**NUS**: National University of Singapore<br>
 **ISEAS**: Institute of Southeast Asian Studies
 
 **National Library Collection Codes**
 
-**RSING** Adult Reference Singapore
-**RDET** Adult Reference Edwin Thumboo
-**RCLOS** Adult Reference Closed Access
-**RRARE** Adult Reference Rare
-**YRSING** Young Adult Reference Singapore
-**RAC** Junior Reference Asian Children
+**RSING** Adult Reference Singapore<br>
+**RDET** Adult Reference Edwin Thumboo<br>
+**RCLOS** Adult Reference Closed Access<br>
+**RRARE** Adult Reference Rare<br>
+**YRSING** Young Adult Reference Singapore<br>
+**RAC** Junior Reference Asian Children<br>
 **RART** Adult Reference Art
-
-**Miscellaneous**
 
 ### <u>1960-1969</u>
 
-\[19–\] Public Affairs Dept. Three poets read: Dr Arthur Yap, Dr Lee Tzu Pheng, Prof Edwin Thumboo.
-Singapore: Public Affairs Dept., Shell Eastern Petroleum Pte. Ltd.
+\[19–\] Public Affairs Dept. Three poets read: Dr Arthur Yap, Dr Lee Tzu Pheng, Prof Edwin Thumboo.<br>
+Singapore: Public Affairs Dept., Shell Eastern Petroleum Pte. Ltd.<br>
 Call No.: RDET S821 THR
 
-\[1968\] The 2nd evening of poetry and music presented by Literary Society, University of Singapore.
-Singapore: s.n.
+\[1968\] The 2nd evening of poetry and music presented by Literary Society, University of Singapore.<br>
+Singapore: s.n.<br>
 Call No.: No holdings in NL (Available in NUS Central Library.)
 
-\[1967\] Centre 65 presents Poetry Festival 1967.
-Singapore: Centre 65.
-Call No.: RCLOS 828.995957 CEN Microfilm No.: NL1143
+\[1967\] Centre 65 presents Poetry Festival 1967.<br>
+Singapore: Centre 65.<br>
+Call No.: RCLOS 828.995957 CEN<br>
+Microfilm No.: NL1143
 
 \[1967\] An evening of poetry and folk music presented by University of Singapore Literary Society.
-Singapore: s.n.
-Call No.: No holdings in NL (Available in NUS Central Library.
+Singapore: s.n.<br>
+Call No.: No holdings in NL (Available in NUS Central Library.)
 
-\[1969\] Third evening of poetry and music presented by University of Singapore Literary Society.
-Singapore: s.n.
+\[1969\] Third evening of poetry and music presented by University of Singapore Literary Society.<br>
+Singapore: s.n.<br>
 Call No.: No holdings in NL (Available in NUS Central Library.) .
 
 ### <u>1970-1979</u>
 
-Nair, C. \[1970\] An evening of poetry. (Comp.).
-Singapore : s.n.
+Nair, C. \[1970\] An evening of poetry. (Comp.).<br>
+Singapore : s.n.<br>
 Call No.: No holdings in NL. (Available in NUS Central Library.)
 
-\[1970\] The fourth evening of poetry and music presented by University of Singapore Literary Society.
-Singapore: s.n., 1970.
+\[1970\] The fourth evening of poetry and music presented by University of Singapore Literary Society.<br>
+Singapore: s.n., 1970.<br>
 Call No.: No holdings in NL and NUS Central Library.
 
-\[1971\]  Evocations.
-Singapore: University of Singapore Literary Society.
+\[1971\]  Evocations.<br>
+Singapore: University of Singapore Literary Society.<br>
 Call no.: No holdings in NL. (Available in NUS Central Library)
 
-\[1978\] The city: a sequence of poems by Singaporeans.
-Singapore: ECA Centre Music Unit, Ministry of Education.
+\[1978\] The city: a sequence of poems by Singaporeans.<br>
+Singapore: ECA Centre Music Unit, Ministry of Education.<br>
 Call No.: RSING 828.995957 CIT
 
 ### <u>1980-1989</u>
 
-\[1980\] Poetry recital = Deklamasi sajak.
-Singapore : s.n.
+\[1980\] Poetry recital = Deklamasi sajak.<br>
+Singapore : s.n.<br>
 Call No.: RSING/RDET S821 POE
-Koh, B.S., Lam, C.T, Heng S.T, Yeo, M. \[1987\] Time off for poetry: readings by an innovative group of young poets, Koh Buck Song, Lam Chih Tsung, Heng Siok Tian, Mark Yeo.
-Singapore: Public Affairs Dept., Shell Companies in Singapore.
+
+Koh, B.S., Lam, C.T, Heng S.T, Yeo, M. \[1987\] Time off for poetry: readings by an innovative group of young poets, Koh Buck Song, Lam Chih Tsung, Heng Siok Tian, Mark Yeo.<br>
+Singapore: Public Affairs Dept., Shell Companies in Singapore.<br>
 Call No.: RDET S821 TIM
 
 ### <u>2000-2015</u>
