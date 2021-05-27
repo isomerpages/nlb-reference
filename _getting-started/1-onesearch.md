@@ -15,9 +15,9 @@ For more information about OneSearch, please refer to their FAQ page [**here**](
 
 1. Access OneSearch via the link [**here**](https://search.nlb.gov.sg/){:target="_blank"}.
 
-	- OneSearch can also be accessed via the search button in NLB’s [**eResources**](https://eresources.nlb.gov.sg/main){:target="blank"} page after you have logged in using *myLibrary ID*. To find out more about setting up *myLibrary ID*, please refer to this [**link**](https://go.gov.sg/mylibraryid){:target="_blank"}.
+	* OneSearch can also be accessed via the search button in NLB’s [**eResources**](https://eresources.nlb.gov.sg/main){:target="blank"} page after you have logged in using *myLibrary ID*. To find out more about setting up *myLibrary ID*, please refer to this [**link**](https://go.gov.sg/mylibraryid){:target="_blank"}.
 
-	<img src="\images\getting-started\onesearch-basic-01.jpg" style="width:500px;" />
+	  <img src="\images\getting-started\onesearch-basic-01.jpg" style="width:500px;" />
 
 2. On the homepage, type in your desired topic or title into the search bar
 
@@ -34,10 +34,10 @@ For more information about OneSearch, please refer to their FAQ page [**here**](
 5. When selecting the formats on the right, please note that some of them will bring you to other NLB websites or digital platforms where you can view the actual information source (e.g. digitised newspapers from NewspaperSG). 
 
 <img src="\images\getting-started\onesearch-basic-05.jpg" style="width:500px;" />
-	
 
-> Please note that access to eJournals will require you to log in using myLibrary ID on OneSearch’s webpage. You can log in via the button located at the top right hand corner of the webpage.*
-> <img src="\images\getting-started\onesearch-basic-06.jpg" style="width:500px;" />
+   * Please note that access to eJournals will require you to log in using myLibrary ID on OneSearch’s webpage. You can log in via the button located at the top right hand corner of the webpage.
+
+<img src="\images\getting-started\onesearch-basic-06.jpg" style="width:500px;" />
 
 
 ## **Bonus tip**
