@@ -7,7 +7,7 @@ collection_name: getting-started
 
 # **What is OneSearch?**
 
-OneSearch is an online search portal that helps you find information across a variety of resources from the National Library Board (NLB)'s libraries and archives databases as well as National Heritage Board (NHB)’s museum repository of artefacts and artworks. It can retrieve a wide range of digital content such as books, magazines, audio-visual materials, eBooks, photographs, films, oral history interviews and maps residing in the NLB's libraries and archives databases and NHB’s repository.
+[**OneSearch**](https://search.nlb.gov.sg/){:target="_blank"} is an online search portal that helps you find information across a variety of resources from the National Library Board (NLB)'s libraries and archives databases as well as National Heritage Board (NHB)’s museum repository of artefacts and artworks. It can retrieve a wide range of digital content such as books, magazines, audio-visual materials, eBooks, photographs, films, oral history interviews and maps residing in the NLB's libraries and archives databases and NHB’s repository.
 
 For more information about OneSearch, please refer to their FAQ page [**here**](https://search.nlb.gov.sg/FAQs){:target="_blank"}.
 
@@ -37,11 +37,35 @@ For more information about OneSearch, please refer to their FAQ page [**here**](
 
    * Please note that access to eJournals will require you to log in using myLibrary ID on OneSearch’s webpage. You can log in via the button located at the top right hand corner of the webpage.
 
-<img src="\images\getting-started\onesearch-basic-06.jpg" style="width:500px;" />
+     <img src="\images\getting-started\onesearch-basic-06.jpg" style="width:500px;" />
 
 
 ## **Bonus tip**
 
+### Advanced Search
 To make your search more efficient, select ‘Advanced Search’ below the main Search button. You can now search through various criteria (e.g. Title, Creator, Publication etc) and format categories to get more specific results. 
 
 <img src="\images\getting-started\onesearch-basic-07.jpg" style="width:500px;" />
+
+### Search by publication title
+1. For eJournals, you can also search for specific publications by title.
+
+   * Please note that access to eJournals will require you to log in using myLibrary ID on OneSearch’s webpage.
+
+  <img src="\images\getting-started\onesearch-basic-06.jpg" style="width:500px;" />
+
+2. On the OneSearch homepage, click on eJournals
+
+   <img src="\images\getting-started\onesearch-basic-08.png" style="width:500px;" />
+
+3. Click on "Click here to search by publication title". A new tab/window will pop up.
+
+   <img src="\images\getting-started\onesearch-basic-09.png" style="width:500px;" />
+
+4. In the search bar, type in the publication name (e.g. *Harvard Business Review*). Click "Search"
+
+   <img src="\images\getting-started\onesearch-basic-09.png" style="width:500px;" />
+
+5. A list of relevant results will appear. If full-text access is avaiable, click on the respective link to access the publication.
+
+   <img src="\images\getting-started\onesearch-basic-10.png" style="width:500px;" />
