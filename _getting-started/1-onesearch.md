@@ -68,4 +68,4 @@ To make your search more efficient, select ‘Advanced Search’ below the main 
 
 5. A list of relevant results will appear. If full-text access is available, click on the respective link to access the publication.
 
-   <img src="\images\getting-started\onesearch-basic-11.png" style="width:500px;" />
+   <img src="\images\getting-started\onesearch-basic-11.png" style="width:400px;" />
