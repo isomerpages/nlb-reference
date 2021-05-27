@@ -37,7 +37,7 @@ For more information about OneSearch, please refer to their FAQ page [**here**](
 
    * Please note that access to eJournals will require you to log in using myLibrary ID on OneSearch’s webpage. You can log in via the button located at the top right hand corner of the webpage.
 
-     <img src="\images\getting-started\onesearch-basic-06.jpg" style="width:500px;" />
+     <img src="\images\getting-started\onesearch-basic-06.jpg" style="width:400px;" />
 
 
 ## **Bonus tip**
@@ -52,7 +52,7 @@ To make your search more efficient, select ‘Advanced Search’ below the main 
 
    * Please note that access to eJournals will require you to log in using myLibrary ID on OneSearch’s webpage.
 
-  <img src="\images\getting-started\onesearch-basic-06.jpg" style="width:500px;" />
+  <img src="\images\getting-started\onesearch-basic-06.jpg" style="width:400px;" />
 
 2. On the OneSearch homepage, click on eJournals
 
@@ -60,12 +60,12 @@ To make your search more efficient, select ‘Advanced Search’ below the main 
 
 3. Click on "Click here to search by publication title". A new tab/window will pop up.
 
-   <img src="\images\getting-started\onesearch-basic-09.png" style="width:500px;" />
+   <img src="\images\getting-started\onesearch-basic-09.png" style="width:400px;" />
 
 4. In the search bar, type in the publication name (e.g. *Harvard Business Review*). Click "Search"
 
-   <img src="\images\getting-started\onesearch-basic-09.png" style="width:500px;" />
-
-5. A list of relevant results will appear. If full-text access is avaiable, click on the respective link to access the publication.
-
    <img src="\images\getting-started\onesearch-basic-10.png" style="width:500px;" />
+
+5. A list of relevant results will appear. If full-text access is available, click on the respective link to access the publication.
+
+   <img src="\images\getting-started\onesearch-basic-11.png" style="width:500px;" />
