@@ -44,19 +44,19 @@ WAS employs full-text search capabilities and will display search results that c
 
    <u>Accessibility</u>
 
-   Online: To view archived content that are only available online.
+   *Online*: To view archived content that are only available online.
 
-   Onsite: To view archived content that are only available at Level 11 of the [Lee Kong Chian Reference Library](https://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/329/Default.aspx?branch=National+Library+%2F+Lee+Kong+Chian+Reference+Library) due to copyright. Archived website that are only available onsite are denoted with a ![lock](\images\other-formats\archivedwebsites-lock.png) lock icon. Please approach the counter at Level 11 for assistance.
+   *Onsite*: To view archived content that are only available at Level 11 of the [Lee Kong Chian Reference Library](https://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/329/Default.aspx?branch=National+Library+%2F+Lee+Kong+Chian+Reference+Library) due to copyright. Archived website that are only available onsite are denoted with a ![lock](\images\other-formats\archivedwebsites-lock.png) lock icon. Please approach the counter at Level 11 for assistance.
 
    <u>Type</u>
 
-   Websites: To view archived websites only. This refers to website that have been archived in its entirety (i.e. homepage and all related webpages of that website). Selecting this filter will return the record where you can view all the archived versions of that website.  
+   *Websites*: To view archived websites only. This refers to website that have been archived in its entirety (i.e. homepage and all related webpages of that website). Selecting this filter will return the record where you can view all the archived versions of that website.  
 
-   Webpages: To view archived webpages only. This refers to specific webpage of a website, such as news articles and blog posts. Please note that other archived versions of the webpage may not be displayed in the record, and associated links in the webpage may not be archived.
+   *Webpages*: To view archived webpages only. This refers to specific webpage of a website, such as news articles and blog posts. Please note that other archived versions of the webpage may not be displayed in the record, and associated links in the webpage may not be archived.
 
-   Documents: To view PDF or Word documents that were archived from the website.
+   *Documents*: To view PDF or Word documents that were archived from the website.
 
-   Images: To view images (e.g. in JPG, PNG, GIF formats) that were archived from the website.
+   *Images*: To view images (e.g. in JPG, PNG, GIF formats) that were archived from the website.
 
    <u>URL</u>
 
@@ -64,13 +64,13 @@ WAS employs full-text search capabilities and will display search results that c
 
 3. If you are searching for an **archived website**, we recommend using the following filters:
 
-   Accessibility: Online (if the archived website is available online)
+   Accessibility: *Online* (if the archived website is available online)
 
-   Type: Websites
+   Type: *Websites*
 
-   Year: Select the year of when the website was archived where necessary
+   Year: *Select the year of when the website was archived where necessary*
 
-   URL: Select the website URL where necessary
+   URL: *Select the website URL where necessary*
 
    In this example of searching for the National Library Board (NLB) website, we searched for the phrase “National Library Board” and applied the following filters as pictured below.
 
@@ -78,13 +78,13 @@ WAS employs full-text search capabilities and will display search results that c
 
 4. If you are searching for an **archived webpage**, we recommend using the following filters:
 
-   Accessibility: Online (if the archived website is available online)
+   Accessibility: *Online (if the archived website is available online)*
 
-   Type: Webpages
+   Type: *Webpages*
 
-   Year: Select the year of when the website was archived where necessary
+   Year: *Select the year of when the website was archived where necessary*
 
-   URL: Select the website URL where necessary
+   URL: *Select the website URL where necessary*
 
    In this example of searching for the BiblioAsia blog article on the Web Archive Singapore, we searched for the keywords ‘“web archive Singapore” BiblioAsia’ and applied the following filters as pictured below.
 
@@ -100,13 +100,13 @@ Click on the record title to view the archived website.
 
 <img src="\images\other-formats\archivedwebsites-05.png" style="width:600px;" />
 
-<p>
+<br>
 
 <img src="\images\other-formats\archivedwebsites-06.png" style="width:600px;" />
 
 This is what the NLB website looked like on 28 Apr 2006. To view other archived versions of the NLB website, you can either select the dates shown in the timeline bar or ‘View Other Versions’ for the complete list of dates.
 
-You can explore the archived website by clicking on the available links within the website. 
+You can explore the archived website by clicking on the available links within the website.
 
 Depending on the record that you are viewing, the links within the website may not load or you may see an error message. This may be due to several reasons:
 
