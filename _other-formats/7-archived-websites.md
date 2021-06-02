@@ -46,7 +46,9 @@ WAS employs full-text search capabilities and will display search results that c
 
    *Online*: To view archived content that are only available online.
 
-   *Onsite*: To view archived content that are only available at Level 11 of the [Lee Kong Chian Reference Library](https://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/329/Default.aspx?branch=National+Library+%2F+Lee+Kong+Chian+Reference+Library) due to copyright. Archived website that are only available onsite are denoted with a lock icon.<img src="\images\other-formats\archivedwebsites-lock.png" align="left" style="width:20px;" /> Please approach the counter at Level 11 for assistance.
+   *Onsite*: To view archived content that are only available at Level 11 of the [Lee Kong Chian Reference Library](https://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/329/Default.aspx?branch=National+Library+%2F+Lee+Kong+Chian+Reference+Library) due to copyright restrictions. Archived websites that are only available onsite are denoted with a lock icon.
+
+   <img src="\images\other-formats\archivedwebsites-lock.png" align="left" style="width:20px;" /> Please approach the counter at Level 11 for assistance.
 
    <u>Type</u>
 
@@ -120,7 +122,7 @@ Depending on the record that you are viewing, the links within the website may n
 
 ## **Browsing Web Archive Singapore**
 
-You can also explore WAS through the Special Collections and Browse by Category.
+You can also explore WAS through the **Special Collections** and **Browse by Category**.
 
 <img src="\images\other-formats\archivedwebsites-07.png" style="width:600px;" />
 
@@ -142,7 +144,7 @@ Click on ‘Add to Citation’, found under each website record, to save it.
 
 You can access your list of citations by clicking on “Citation” at the top of the page. Here you can make further edition to your citations list and email the list to yourself.
 
-Please note that your citation list may be lost once you close your Internet Browser.
+**Please note that your citation list may be lost once you close your Internet Browser.**
 
 ## **Copyright of archived websites**
 
