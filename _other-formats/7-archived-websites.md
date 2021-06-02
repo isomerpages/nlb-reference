@@ -18,7 +18,11 @@ For more information on WAS and nominating your website for archival, check out 
 
 - [Say Hello to Web Archive Singapore](https://www.youtube.com/watch?v=8iEBaBbe-yk)
 
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/8iEBaBbe-yk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 - [Archive Your Website with Web Archive Singapore](https://www.youtube.com/watch?v=lC9BNSh0OuY)
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/lC9BNSh0OuY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This guide will explain how to search, browse, and access the library’s archived websites collection on WAS.
 
@@ -42,7 +46,7 @@ WAS employs full-text search capabilities and will display search results that c
 
    Online: To view archived content that are only available online.
 
-   Onsite: To view archived content that are only available at Level 11 of the [Lee Kong Chian Reference Library](https://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/329/Default.aspx?branch=National+Library+%2F+Lee+Kong+Chian+Reference+Library) due to copyright. Archived website that are only available onsite are denoted with a ![lock](\images\other-formats\archivedwebsites-lock.png") lock icon. Please approach the counter at Level 11 for assistance.
+   Onsite: To view archived content that are only available at Level 11 of the [Lee Kong Chian Reference Library](https://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/329/Default.aspx?branch=National+Library+%2F+Lee+Kong+Chian+Reference+Library) due to copyright. Archived website that are only available onsite are denoted with a ![lock](\images\other-formats\archivedwebsites-lock.png) lock icon. Please approach the counter at Level 11 for assistance.
 
    <u>Type</u>
 
