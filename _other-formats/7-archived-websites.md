@@ -46,9 +46,7 @@ WAS employs full-text search capabilities and will display search results that c
 
    *Online*: To view archived content that are only available online.
 
-   *Onsite*: To view archived content that are only available at Level 11 of the [Lee Kong Chian Reference Library](https://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/329/Default.aspx?branch=National+Library+%2F+Lee+Kong+Chian+Reference+Library) due to copyright restrictions. Archived websites that are only available onsite are denoted with a lock icon.
-
-   <img src="\images\other-formats\archivedwebsites-lock.png" align="left" style="width:20px;" /> Please approach the counter at Level 11 for assistance.
+   <img src="\images\other-formats\archivedwebsites-lock.png" align="left" style="width:20px;" /> *Onsite*: To view archived content that are only available at Level 11 of the [Lee Kong Chian Reference Library](https://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/329/Default.aspx?branch=National+Library+%2F+Lee+Kong+Chian+Reference+Library) due to copyright restrictions. Archived websites that are only available onsite are denoted with a lock icon. Please approach the counter at Level 11 for assistance.
 
    <u>Type</u>
 
