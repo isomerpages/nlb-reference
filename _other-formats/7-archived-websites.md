@@ -46,16 +46,13 @@ WAS employs full-text search capabilities and will display search results that c
 
    *Online*: To view archived content that are only available online.
 
-   *Onsite*: To view archived content that are only available at Level 11 of the [Lee Kong Chian Reference Library](https://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/329/Default.aspx?branch=National+Library+%2F+Lee+Kong+Chian+Reference+Library) due to copyright. Archived website that are only available onsite are denoted with a ![lock](\images\other-formats\archivedwebsites-lock.png) lock icon. Please approach the counter at Level 11 for assistance.
+   *Onsite*: To view archived content that are only available at Level 11 of the [Lee Kong Chian Reference Library](https://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/329/Default.aspx?branch=National+Library+%2F+Lee+Kong+Chian+Reference+Library) due to copyright. Archived website that are only available onsite are denoted with a lock icon.<img src="\images\other-formats\archivedwebsites-lock.png" style="width:20px;" /> Please approach the counter at Level 11 for assistance.
 
    <u>Type</u>
 
-   *Websites*: To view archived websites only. This refers to website that have been archived in its entirety (i.e. homepage and all related webpages of that website). Selecting this filter will return the record where you can view all the archived versions of that website.  
-
+   *Websites*: To view archived websites only. This refers to website that have been archived in its entirety (i.e. homepage and all related webpages of that website). Selecting this filter will return the record where you can view all the archived versions of that website.
    *Webpages*: To view archived webpages only. This refers to specific webpage of a website, such as news articles and blog posts. Please note that other archived versions of the webpage may not be displayed in the record, and associated links in the webpage may not be archived.
-
    *Documents*: To view PDF or Word documents that were archived from the website.
-
    *Images*: To view images (e.g. in JPG, PNG, GIF formats) that were archived from the website.
 
    <u>URL</u>
