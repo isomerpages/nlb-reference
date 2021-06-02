@@ -24,7 +24,7 @@ This guide will explain how to search, browse, and access the library’s archiv
 
 ## **Searching on Web Archive Singapore**
 
-<img src="\images\other-formats\archivedwebsites-01.png" style="width:500px;" />
+<img src="\images\other-formats\archivedwebsites-01.png" style="width:600px;" />
 
 WAS employs full-text search capabilities and will display search results that contain the keywords in the archived website’s title, content, documents, or images. 
 
@@ -42,7 +42,7 @@ WAS employs full-text search capabilities and will display search results that c
 
    Online: To view archived content that are only available online.
 
-   Onsite: To view archived content that are only available at Level 11 of the [Lee Kong Chian Reference Library](https://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/329/Default.aspx?branch=National+Library+%2F+Lee+Kong+Chian+Reference+Library) due to copyright. Archived website that are only available onsite are denoted with a <img src="\images\other-formats\archivedwebsites-lock.png"/> lock icon. Please approach the counter at Level 11 for assistance.
+   Onsite: To view archived content that are only available at Level 11 of the [Lee Kong Chian Reference Library](https://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/329/Default.aspx?branch=National+Library+%2F+Lee+Kong+Chian+Reference+Library) due to copyright. Archived website that are only available onsite are denoted with a ![lock](\images\other-formats\archivedwebsites-lock.png") lock icon. Please approach the counter at Level 11 for assistance.
 
    <u>Type</u>
 
@@ -70,7 +70,7 @@ WAS employs full-text search capabilities and will display search results that c
 
    In this example of searching for the National Library Board (NLB) website, we searched for the phrase “National Library Board” and applied the following filters as pictured below.
 
-   <img src="\images\other-formats\archivedwebsites-02.png" style="width:500px;" />
+   <img src="\images\other-formats\archivedwebsites-02.png" style="width:600px;" />
 
 4. If you are searching for an **archived webpage**, we recommend using the following filters:
 
@@ -84,19 +84,21 @@ WAS employs full-text search capabilities and will display search results that c
 
    In this example of searching for the BiblioAsia blog article on the Web Archive Singapore, we searched for the keywords ‘“web archive Singapore” BiblioAsia’ and applied the following filters as pictured below.
 
-   <img src="\images\other-formats\archivedwebsites-03.png" style="width:500px;" />
+   <img src="\images\other-formats\archivedwebsites-03.png" style="width:600px;" />
 
 5. Where necessary, you can remove the applied filters by unchecking the filters on the left or clicking the grey boxes under the search bar.
 
-   <img src="\images\other-formats\archivedwebsites-04.png" style="width:500px;" />
+   <img src="\images\other-formats\archivedwebsites-04.png" style="width:600px;" />
 
 ##  **Viewing the Archived Website**
 
 Click on the record title to view the archived website. 
 
-<img src="\images\other-formats\archivedwebsites-05.png" style="width:500px;" />
+<img src="\images\other-formats\archivedwebsites-05.png" style="width:600px;" />
 
-<img src="\images\other-formats\archivedwebsites-06.png" style="width:500px;" />
+<p>
+
+<img src="\images\other-formats\archivedwebsites-06.png" style="width:600px;" />
 
 This is what the NLB website looked like on 28 Apr 2006. To view other archived versions of the NLB website, you can either select the dates shown in the timeline bar or ‘View Other Versions’ for the complete list of dates.
 
@@ -116,11 +118,11 @@ Depending on the record that you are viewing, the links within the website may n
 
 You can also explore WAS through the Special Collections and Browse by Category.
 
-<img src="\images\other-formats\archivedwebsites-07.png" style="width:500px;" />
+<img src="\images\other-formats\archivedwebsites-07.png" style="width:600px;" />
 
 Special Collections are themed archived websites curated by librarians on topics that are of interest to the public and researchers. Some themes include defunct schools, and past events like the 2015 Southeast Asian Games and ASEAN Para Games, the 2018 Trump-Kim Summit, National Day parades and the Singapore Budget. 
 
-<img src="\images\other-formats\archivedwebsites-08.png" style="width:500px;" />
+<img src="\images\other-formats\archivedwebsites-08.png" style="width:600px;" />
 
 You can also browse archived websites by categories such as Arts, Events, Heritage & Culture, etc., in the Browse by Category section. Each category has a search feature to allow you to narrow your results based on the archived website’s title and abstract. 
 
@@ -128,11 +130,11 @@ You can also browse archived websites by categories such as Arts, Events, Herita
 
 The citation feature enables you to save a list of archived websites which you can revisit later and/or email the list to yourself.
 
-<img src="\images\other-formats\archivedwebsites-09.png" style="width:500px;" />
+<img src="\images\other-formats\archivedwebsites-09.png" style="width:600px;" />
 
 Click on ‘Add to Citation’, found under each website record, to save it. 
 
-<img src="\images\other-formats\archivedwebsites-10.png" style="width:500px;" />
+<img src="\images\other-formats\archivedwebsites-10.png" style="width:600px;" />
 
 You can access your list of citations by clicking on “Citation” at the top of the page. Here you can make further edition to your citations list and email the list to yourself.
 
