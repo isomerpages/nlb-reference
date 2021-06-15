@@ -42,31 +42,31 @@ WAS employs full-text search capabilities and will display search results that c
 
 2. Refine your search results by using the **Accessibility, Type, Year, and URL filters**. The explanations are detailed below:
 
-<div class="new-accordion"><!--accordion--> 
-   <input type="checkbox" id="acc1">
-   <label for="acc1">Accessibility</label>
-   <div class="new-accordion-content">
-	<p><b>Online</b>: To view archived content that are available online.</p>
-	<p><i>Onsite</i>: To view archived content that are only available at Level 11 of the <a href="https://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/329/Default.aspx?branch=National+Library+%2F+Lee+Kong+Chian+Reference+Library">Lee Kong Chian Reference Library</a> due to copyright restrictions. Archived websites that are only available onsite are denoted with a lock icon.</p>
-	<p><img src="\images\other-formats\archivedwebsites-lock.png" align="left" style="width:20px;" /> Please approach the counter at Level 11 for assistance.
-</p>
-   </div>
+    <div class="new-accordion"><!--accordion--> 
+       <input type="checkbox" id="acc1">
+       <label for="acc1">Accessibility</label>
+       <div class="new-accordion-content">
+        <p><i>Online</i>: To view archived content that are available online.</p>
+        <p><i>Onsite</i>: To view archived content that are only available at Level 11 of the <a href="https://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/329/Default.aspx?branch=National+Library+%2F+Lee+Kong+Chian+Reference+Library">Lee Kong Chian Reference Library</a> due to copyright restrictions. Archived websites that are only available onsite are denoted with a lock icon.</p>
+        <p><img src="\images\other-formats\archivedwebsites-lock.png" align="left" style="width:20px;" /> Please approach the counter at Level 11 for assistance.
+    </p>
+       </div>
 
-<input type="checkbox" id="acc2">
-   <label for="acc2">Type</label>
-   <div class="new-accordion-content">
-	<p><i>Websites</i>: To view archived websites only. This refers to website that have been archived in its entirety (i.e. homepage and all related webpages of that website). Selecting this filter will return the record where you can view all the archived versions of that website.</p>
-	<p><i>Webpages</i>: To view archived webpages only. This refers to specific webpage of a website, such as news articles and blog posts. Please note that other archived versions of the webpage may not be displayed in the record, and associated links in the webpage may not be archived.</p>
-   <p><i>Documents</i>: To view PDF or Word documents that were archived from the website.</p>
-   <p><i>Images</i>: To view images (e.g. in JPG, PNG, GIF formats) that were archived from the website.</p>
-   </div>
+    <input type="checkbox" id="acc2">
+       <label for="acc2">Type</label>
+       <div class="new-accordion-content">
+        <p><i>Websites</i>: To view archived websites only. This refers to website that have been archived in its entirety (i.e. homepage and all related webpages of that website). Selecting this filter will return the record where you can view all the archived versions of that website.</p>
+        <p><i>Webpages</i>: To view archived webpages only. This refers to specific webpage of a website, such as news articles and blog posts. Please note that other archived versions of the webpage may not be displayed in the record, and associated links in the webpage may not be archived.</p>
+       <p><i>Documents</i>: To view PDF or Word documents that were archived from the website.</p>
+       <p><i>Images</i>: To view images (e.g. in JPG, PNG, GIF formats) that were archived from the website.</p>
+       </div>
 
-<input type="checkbox" id="acc3">
-   <label for="acc3">URL</label>
-   <div class="new-accordion-content">
-	<p>Use this filter to view archived content only from that URL.</p>
-   </div>
-</div><!--close accordion-->
+    <input type="checkbox" id="acc3">
+       <label for="acc3">URL</label>
+       <div class="new-accordion-content">
+        <p>Use this filter to view archived content only from that URL.</p>
+       </div>
+    </div><!--close accordion-->
 
 3. If you are searching for an **archived website**, we recommend using the following filters:
 
