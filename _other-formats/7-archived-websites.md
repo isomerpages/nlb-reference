@@ -68,9 +68,7 @@ WAS employs full-text search capabilities and will display search results that c
        </div>
     </div><!--close accordion-->
 
-### Recommended filters for searching websites and webpages
-
-2. Refine your search results by using the **Accessibility, Type, Year, and URL filters**. The explanations are detailed below:
+3. Recommended filters for searching websites and webpage 
 
     <div class="new-accordion"><!--accordion--> 
         <input type="checkbox" id="acc4">
@@ -98,9 +96,7 @@ WAS employs full-text search capabilities and will display search results that c
         </div>
     </div><!--close accordion-->
 
-
-3. Where necessary, you can remove the applied filters by unchecking the filters on the left or clicking the grey boxes under the search bar.
-
+4. Where necessary, you can remove the applied filters by unchecking the filters on the left or clicking the grey boxes under the search bar.
 
    <img src="\images\other-formats\archivedwebsites-04.png" style="width:600px;" />
 
