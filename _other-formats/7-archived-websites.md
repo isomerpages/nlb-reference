@@ -103,7 +103,7 @@ WAS employs full-text search capabilities and will display search results that c
 
    <img src="\images\other-formats\archivedwebsites-04.png" style="width:600px;" /><br>
 
-##  **Viewing the Archived Website**
+<h2> Viewing the Archived Website</h2>
 
 Click on the record title to view the archived website. 
 
