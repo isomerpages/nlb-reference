@@ -82,12 +82,11 @@ WAS employs full-text search capabilities and will display search results that c
         <p><img src="\images\other-formats\archivedwebsites-02.png" style="width:600px;" /></p>
         </div>
     </div><!--close accordion-->
-
     <div class="new-accordion"><!--accordion--> 
         <input type="checkbox" id="acc5">
         <label for="acc5">If you are searching for an <b>archived webpage</b>, click here to see the recommended filters:</label>
         <div class="new-accordion-content">
-        <p>Accessibility: <i>Online (if the archived website is available online)</i></p>
+        <p>Accessibility: <i>Online</i> (if the archived website is available online)</p>
         <p>Type: <i>Webpages</i></p>
         <p>Year: <i>Select the year of when the website was archived where necessary</i></p>
         <p>URL: <i>Select the website URL where necessary</i></p>
@@ -95,7 +94,7 @@ WAS employs full-text search capabilities and will display search results that c
         <p><img src="\images\other-formats\archivedwebsites-03.png" style="width:600px;" /></p>
         </div>
     </div><!--close accordion-->
-
+    
 4. Where necessary, you can remove the applied filters by unchecking the filters on the left or clicking the grey boxes under the search bar.
 
    <img src="\images\other-formats\archivedwebsites-04.png" style="width:600px;" />
