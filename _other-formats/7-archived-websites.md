@@ -98,12 +98,13 @@ WAS employs full-text search capabilities and will display search results that c
         </div>
     </div><!--close accordion-->
 
-<p>
+
 3. Where necessary, you can remove the applied filters by unchecking the filters on the left or clicking the grey boxes under the search bar.
 
-   <img src="\images\other-formats\archivedwebsites-04.png" style="width:600px;" /><br>
 
-<h2> Viewing the Archived Website</h2>
+   <img src="\images\other-formats\archivedwebsites-04.png" style="width:600px;" />
+
+## **Viewing the Archived Website**
 
 Click on the record title to view the archived website. 
 
