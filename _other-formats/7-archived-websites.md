@@ -43,7 +43,7 @@ WAS employs full-text search capabilities and will display search results that c
 2. Refine your search results by using the **Accessibility, Type, Year, and URL filters**. The explanations are detailed below:
 
     <div class="new-accordion"><!--accordion--> 
-       <input type="checkbox" id="acc1">
+    <input type="checkbox" id="acc1">
        <label for="acc1">Accessibility</label>
        <div class="new-accordion-content">
         <p><i>Online</i>: To view archived content that are available online.</p>
@@ -51,9 +51,9 @@ WAS employs full-text search capabilities and will display search results that c
         <p><img src="\images\other-formats\archivedwebsites-lock.png" align="left" style="width:20px;" /> Please approach the counter at Level 11 for assistance.
     </p>
        </div>
-
     <input type="checkbox" id="acc2">
        <label for="acc2">Type</label>
+    
        <div class="new-accordion-content">
         <p><i>Websites</i>: To view archived websites only. This refers to website that have been archived in its entirety (i.e. homepage and all related webpages of that website). Selecting this filter will return the record where you can view all the archived versions of that website.</p>
         <p><i>Webpages</i>: To view archived webpages only. This refers to specific webpage of a website, such as news articles and blog posts. Please note that other archived versions of the webpage may not be displayed in the record, and associated links in the webpage may not be archived.</p>
@@ -86,11 +86,11 @@ WAS employs full-text search capabilities and will display search results that c
        <label for="acc5">If you are searching for an <b>archived webpage</b>, click here to see the recommended filters:</label>
        <div class="new-accordion-content">
         <p>Accessibility: *Online (if the archived website is available online)*
-		<p>Type: <i>Webpages</i>
-		<p>Year: <i>Select the year of when the website was archived where necessary</i>
-		<p>URL: <i>Select the website URL where necessary</i>
-		<p>In this example of searching for the BiblioAsia blog article on the Web Archive Singapore, we searched for the keywords ‘“web archive Singapore” BiblioAsia’ and applied the following filters as pictured below.</p>
-		<img src="\images\other-formats\archivedwebsites-03.png" style="width:600px;" />
+        <p>Type: <i>Webpages</i>
+        <p>Year: <i>Select the year of when the website was archived where necessary</i>
+        <p>URL: <i>Select the website URL where necessary</i>
+        <p>In this example of searching for the BiblioAsia blog article on the Web Archive Singapore, we searched for the keywords ‘“web archive Singapore” BiblioAsia’ and applied the following filters as pictured below.</p>
+        <img src="\images\other-formats\archivedwebsites-03.png" style="width:600px;" />
        </div>
    </div><!--close accordion-->
 
