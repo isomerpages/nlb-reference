@@ -92,6 +92,7 @@ WAS employs full-text search capabilities and will display search results that c
         <p>In this example of searching for the BiblioAsia blog article on the Web Archive Singapore, we searched for the keywords ‘“web archive Singapore” BiblioAsia’ and applied the following filters as pictured below.</p>
         <img src="\images\other-formats\archivedwebsites-03.png" style="width:600px;" />
        </div>
+
    </div><!--close accordion-->
 
 3. Where necessary, you can remove the applied filters by unchecking the filters on the left or clicking the grey boxes under the search bar.
