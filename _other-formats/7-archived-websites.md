@@ -101,7 +101,7 @@ WAS employs full-text search capabilities and will display search results that c
 <p>
 3. Where necessary, you can remove the applied filters by unchecking the filters on the left or clicking the grey boxes under the search bar.
 
-   <img src="\images\other-formats\archivedwebsites-04.png" style="width:600px;" />
+   <img src="\images\other-formats\archivedwebsites-04.png" style="width:600px;" /><br>
 
 ##  **Viewing the Archived Website**
 
