@@ -29,7 +29,7 @@ For items from **Lee Kong Chian Reference Library**, please refer to the **Secti
 
 <div class="new-accordion"><!--accordion--> 
     <input type="checkbox" id="acc1">
-       <label for="acc1">Reference, Reference Art, Reference Business, Reference Singapore, Reference Southeast Asia, Reference China Resource, Reference Chinese Overseas</label>
+       <label for="acc1">Reference, Reference Art, Reference Business, Reference Singapore,<p>Reference Southeast Asia, Reference China Resource, Reference Chinese Overseas</label>
        <div class="new-accordion-content">
         <p>These items should be available in the <b>open shelves</b>. Please head to the respective level (levels 7, 8, 9 or 11) and look for the corresponding shelf number. Items are shelved according to their call numbers.
     </p>
@@ -45,7 +45,7 @@ For items from **Lee Kong Chian Reference Library**, please refer to the **Secti
         <p>These rare items often hold heritage value and are not available for reference without written permission. Due to preservation considerations, the rare materials are kept in a controlled environment at the National Library.<br><br>
         Researchers are encouraged to use the surrogate copies (microfilms ot digitised copies) of the rare materials.<br>Please refer to the catalogue entries for details for each item:<br>
         - Refer to <b>Shelving Notes</b> for any microfilms (which begin with NLxxxxx), or <br/>- Refer to **Electronic Access** for any digital surrogate copy (URLs mostly accessible from home, otherwise available at a dedicated terminal at Level 11 of the Library).<br><br>
-        - Microfilms are viewable at Level 11 of the Library, while digitised copies are accessible on [BookSG](https://eresources.nlb.gov.sg/printheritage){:target="blank"}.<br><br>
+        - Microfilms are viewable at Level 11 of the Library, while digitised copies are accessible on <a href="https://eresources.nlb.gov.sg/printheritage">BookSG</a>.<br><br>
         - For requests to view the physical item, a request form to access the Rare Collection must be submitted. A detailed explanation for the purpose of research and explanation for the necessity to access the physical item is compulsory.<br>
         - Please click <a href="https://www.nlb.gov.sg/Portals/0/Docs/Research/Collections/Form_RequestforRareMaterials(20-01-20)_fillable.pdf">here</a> to download a copy of the request form and email the completed form to us at <a href="mailto:ref@nlb.gov.sg">ref@nlb.gov.sg</a></p>
        </div>
