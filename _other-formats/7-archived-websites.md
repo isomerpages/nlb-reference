@@ -32,7 +32,7 @@ This guide will explain how to search, browse, and access the library’s archiv
 
 WAS employs full-text search capabilities and will display search results that contain the keywords in the archived website’s title, content, documents, or images. 
 
-**Recommended steps to search for an archived website**
+### **Recommended steps to search for an archived website**
 
 1. If you know the **website URL** that you are searching for, input the URL in the search bar, e.g. nlb.gov.sg. This search method will likely return the most accurate results. 
 
@@ -68,35 +68,39 @@ WAS employs full-text search capabilities and will display search results that c
        </div>
     </div><!--close accordion-->
 
-3. If you are searching for an **archived website**, we recommend using the following filters:
+### Recommended filters for searching websites and webpages
 
-   Accessibility: *Online* (if the archived website is available online)
+<div class="new-accordion"><!--accordion--> 
+       <input type="checkbox" id="acc4">
+       <label for="acc4">If you are searching for an <b>archived website</b>, click here to see the recommended filters:</label>
+       <div class="new-accordion-content">
+        <p>Accessibility: <i>Online</i> (if the archived website is available online)</p>
+		<p>Type: <i>Websites</i></p>
+		<p>Year: <i>Select the year of when the website was archived where necessary</i></p>
+		<p>URL: <i>Select the website URL where necessary</i></p>
+		<p>In this example of searching for the National Library Board (NLB) website, we searched for the phrase “National Library Board” and applied the following filters as pictured below.</p>
+		<img src="\images\other-formats\archivedwebsites-02.png" style="width:600px;" />
+       </div>
 
-   Type: *Websites*
+    <input type="checkbox" id="acc4">
+       <label for="acc4">If you are searching for an <b>archived webpage</b>, click here to see the recommended filters</label>
+       <div class="new-accordion-content">
+        <p>Accessibility: *Online (if the archived website is available online)*
+		<p>Type: <i>Webpages</i>
+		<p>Year: <i>Select the year of when the website was archived where necessary</i>
+		<p>URL: <i>Select the website URL where necessary</i>
+		<p>In this example of searching for the BiblioAsia blog article on the Web Archive Singapore, we searched for the keywords ‘“web archive Singapore” BiblioAsia’ and applied the following filters as pictured below.</p>
+		<img src="\images\other-formats\archivedwebsites-03.png" style="width:600px;" />
+       </div>
 
-   Year: *Select the year of when the website was archived where necessary*
+    <input type="checkbox" id="acc3">
+       <label for="acc3">URL</label>
+       <div class="new-accordion-content">
+        <p>Use this filter to view archived content only from that URL.</p>
+       </div>
+    </div><!--close accordion-->
 
-   URL: *Select the website URL where necessary*
-
-   In this example of searching for the National Library Board (NLB) website, we searched for the phrase “National Library Board” and applied the following filters as pictured below.
-
-   <img src="\images\other-formats\archivedwebsites-02.png" style="width:600px;" />
-
-4. If you are searching for an **archived webpage**, we recommend using the following filters:
-
-   Accessibility: *Online (if the archived website is available online)*
-
-   Type: *Webpages*
-
-   Year: *Select the year of when the website was archived where necessary*
-
-   URL: *Select the website URL where necessary*
-
-   In this example of searching for the BiblioAsia blog article on the Web Archive Singapore, we searched for the keywords ‘“web archive Singapore” BiblioAsia’ and applied the following filters as pictured below.
-
-   <img src="\images\other-formats\archivedwebsites-03.png" style="width:600px;" />
-
-5. Where necessary, you can remove the applied filters by unchecking the filters on the left or clicking the grey boxes under the search bar.
+3. Where necessary, you can remove the applied filters by unchecking the filters on the left or clicking the grey boxes under the search bar.
 
    <img src="\images\other-formats\archivedwebsites-04.png" style="width:600px;" />
 
