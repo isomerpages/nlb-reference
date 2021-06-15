@@ -1,9 +1,9 @@
 ---
 title: Archived Websites
-permalink: /other-formats/archived-websites/
+permalink: /other-formats/archived-websites2/
 breadcrumb: Archived Websites
 collection_name: other-formats
-published: true
+published: false
 ---
 
 # **Archived Websites**
@@ -41,19 +41,6 @@ WAS employs full-text search capabilities and will display search results that c
    TIP: Use Boolean operators to expand or narrow your search. For example, 'National Day Parade OR NDP' will retrieve websites containing the words National Day Parade **or** NDP.
 
 2. Refine your search results by using the **Accessibility, Type, Year, and URL filters**. The explanations are detailed below:
-
-<div class="new-accordion"><!--accordion--> 
-   <input type="checkbox" id="acc10">
-   <label for="acc10">Accessibility</label>
-   <div class="new-accordion-content">
-	<p>*Online*: To view archived content that are available online.</p>
-	<p>*Onsite*: To view archived content that are only available at Level 11 of the [Lee Kong Chian Reference Library](https://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/329/Default.aspx?branch=National+Library+%2F+Lee+Kong+Chian+Reference+Library) due to copyright restrictions. Archived websites that are only available onsite are denoted with a lock icon.</p>
-	<p><img src="\images\other-formats\archivedwebsites-lock.png" align="left" style="width:20px;" /> Please approach the counter at Level 11 for assistance.
-</p>
-   </div>
-   </div><!--close accordion-->
-
-   
 
    <u>Accessibility</u>
 
