@@ -29,21 +29,22 @@ For items from **Lee Kong Chian Reference Library**, please refer to the **Secti
 
 <div class="new-accordion"><!--accordion--> 
     <input type="checkbox" id="acc1">
-       <label for="acc1">Reference, Reference Art, Reference Business, Reference Singapore,<br>Reference Southeast Asia, Reference China Resource, Reference Chinese Overseas</label>
+       <label for="acc1">Items listed under <ui>Reference, Reference Art, Reference Business, Reference Singapore,<br>Reference Southeast Asia, Reference China Resource, Reference Chinese Overseas</ui></label>
        <div class="new-accordion-content">
         <p>These items should be available in the <b>open shelves</b>. Please head to the respective level (levels 7, 8, 9 or 11) and look for the corresponding shelf number.</p>
         <p>Items are shelved according to their call numbers.</p>
        </div>
     <input type="checkbox" id="acc2">
-       <label for="acc2">Reference Closed Access, Reference Donor...</label>
+       <label for="acc2">Items listed under <u>Reference Closed Access, Reference Donor...</u></label>
        <div class="new-accordion-content">
         <p>These items are in our Closed Stacks and are not found on the open shelves. You can make an online reservation to access these materials, or request for them in-person at the Level 11 Information Counter.<br><br>You may plan your visit ahead of time and make an <a href="https://go.gov.sg/nlb-reserverclos-refnlbwebsite">online reservation</a> (free of charge) to access these materials. Please place an online request at least 2 working days before your visit. You will be informed of your application status the next working day.<br>Our staff will email you with instructions on how to retrieve your items for reference during your visit.<br><br>You can also request for these items at the Level 11 Information Counter during library opening hours. These items will be retrieved from our Closed Stacks by our staff. This typically takes 20 minutes, but may require more time, depending on complexity of the request. You can view the items in the library until closing time the same day. Please return the items to the counter when you are done.</p>
        </div>
     <input type="checkbox" id="acc3">
-       <label for="acc3">Reference Rare</label>
+       <label for="acc3">Items listed under <u>Reference Rare</u></label>
        <div class="new-accordion-content">
         <p>These rare items often hold heritage value and are not available for reference without written permission. Due to preservation considerations, the rare materials are kept in a controlled environment at the National Library.<br><br>
-        Researchers are encouraged to use the surrogate copies (microfilms ot digitised copies) of the rare materials.<br>Please refer to the catalogue entries for details for each item:<br>
+        Researchers are encouraged to use the surrogate copies (microfilms ot digitised copies) of the rare materials.<br>
+        Please refer to the catalogue entries for details for each item:<br>
         - Refer to <b>Shelving Notes</b> for any microfilms (which begin with NLxxxxx), or<br>
         - Refer to <b>Electronic Access</b> for any digital surrogate copy (URLs mostly accessible from home, otherwise available at a dedicated terminal at Level 11 of the Library).<br><br>
         - Microfilms are viewable at Level 11 of the Library, while digitised copies are accessible on <a href="https://eresources.nlb.gov.sg/printheritage">BookSG</a>.<br><br>
