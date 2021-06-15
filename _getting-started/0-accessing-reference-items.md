@@ -31,7 +31,7 @@ For items from **Lee Kong Chian Reference Library**, please refer to the **Secti
     <input type="checkbox" id="acc1">
        <label for="acc1">Items listed under <ui>Reference, Reference Art, Reference Business, Reference Singapore,<br>Reference Southeast Asia, Reference China Resource, Reference Chinese Overseas</ui></label>
        <div class="new-accordion-content">
-        <p>These items should be available in the <b>open shelves</b>. Please head to the respective level (levels 7, 8, 9 or 11) and look for the corresponding shelf number.</p>
+        <p>These items should be available in the <b>open shelves</b>. Please head to the respective level (levels 7, 8, 9 or 11) and look for the corresponding shelf numbers and shelf sections.</p>
         <p>Items are shelved according to their call numbers.</p>
        </div>
     <input type="checkbox" id="acc2">
