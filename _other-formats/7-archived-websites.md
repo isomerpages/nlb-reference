@@ -70,8 +70,6 @@ WAS employs full-text search capabilities and will display search results that c
 
 ### Recommended filters for searching websites and webpages
 
-Here are some filters to try
-
 <div class="new-accordion"><!--accordion--> 
        <input type="checkbox" id="acc4">
        <label for="acc4">If you are searching for an <b>archived website</b>, click here to see the recommended filters:</label>
@@ -83,8 +81,9 @@ Here are some filters to try
 		<p>In this example of searching for the National Library Board (NLB) website, we searched for the phrase “National Library Board” and applied the following filters as pictured below.</p>
 		<img src="\images\other-formats\archivedwebsites-02.png" style="width:600px;" />
        </div>
+</div><!--close accordion-->
 
-```html
+<div class="new-accordion"><!--accordion--> 
    <input type="checkbox" id="acc5">
    <label for="acc5">If you are searching for an <b>archived webpage</b>, click here to see the recommended filters:</label>
    <div class="new-accordion-content">
@@ -95,7 +94,6 @@ Here are some filters to try
     <p>In this example of searching for the BiblioAsia blog article on the Web Archive Singapore, we searched for the keywords ‘“web archive Singapore” BiblioAsia’ and applied the following filters as pictured below.</p>
     <img src="\images\other-formats\archivedwebsites-03.png" style="width:600px;" />
    </div>
-```
 </div><!--close accordion-->
 
 3. Where necessary, you can remove the applied filters by unchecking the filters on the left or clicking the grey boxes under the search bar.
