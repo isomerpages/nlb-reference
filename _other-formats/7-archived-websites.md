@@ -48,7 +48,7 @@ WAS employs full-text search capabilities and will display search results that c
        <div class="new-accordion-content">
         <p><i>Online</i>: To view archived content that are available online.</p>
         <p><img src="\images\other-formats\archivedwebsites-lock.png" align="left" style="width:20px;" /><i>Onsite</i>: To view archived content that are only available at Level 11 of the <a href="https://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/329/Default.aspx?branch=National+Library+%2F+Lee+Kong+Chian+Reference+Library">Lee Kong Chian Reference Library</a> due to copyright restrictions. Archived websites that are only available onsite are denoted with a lock icon. Please approach the counter at Level 11 for assistance.</p>
-        <p><img src="\images\other-formats\archivedwebsites-11.png" style="width:500px;" />
+        <p><img src="\images\other-formats\archivedwebsites-11.png" style="width:500px;" /></p>
        </div>
     <input type="checkbox" id="acc2">
        <label for="acc2">Type</label>
