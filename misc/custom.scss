@@ -335,3 +335,139 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
   }
 }
+
+// Accordion
+
+.bp-accordion-button {
+  &.sgds-icon-minus {
+    color: #000000;
+  }
+}
+
+//New NLB Accordion
+
+.new-accordion input {
+	display: none;
+}
+.new-accordion label {
+	display: block;
+	padding: 8px 22px;
+	margin: 8px 0 2px 0;
+	cursor: pointer;
+	background: #ffeb99;
+	border-radius: 3px;
+	color: #111111;
+	transition: ease .5s;
+	font-size: 20px;
+}
+
+.new-accordion label:hover {
+	background: #FCE682;
+	color: #111111;
+}
+
+.new-accordion-content {
+	background-color: #fffff0;
+	padding: 10px 10px 30px 30px;
+	/* border: 1px solid #484848; */
+	margin: 0 0 5px 0;
+	border-radius: 3px;
+	color: #111111;
+	font-size: 20px;
+}
+
+input + label + .new-accordion-content {
+	display: none; 
+}
+  
+input:checked + label + .new-accordion-content {
+	display: block; 
+}
+	    
+	    
+// NLB Accordion
+.acc-kontainer {
+	width: 100%;
+	margin: auto;
+}
+
+.acc-kontainer .acc-body {
+	// width: 98%;
+	// width: calc(100% - 20px);
+	width:100%;
+	margin: 0 auto;
+	height: 0;
+	color: #111111;
+	background-color: #ffffe6;
+	line-height: 28px;
+	padding: 0 20px;
+	border-bottom: 5px solid white;
+	box-sizing: border-box;
+	overflow: hidden;
+
+}
+
+.acc-kontainer label {
+	background-color: #ffeb99;
+	border-bottom: 2px solid white;
+	display: block;
+	padding: 15px;
+	width: 100%;
+	color: #111111;
+	font-weight: 400;
+	font-size: 20px;
+	box-sizing: border-box;
+	z-index: 100;
+
+}
+
+.acc-kontainer a:link {
+  color: $secondary;
+}
+
+.acc-kontainer a:visited {
+  color: $secondary;
+}
+
+.acc-kontainer a:hover {
+  color: $secondary-hover;
+}
+
+.acc-kontainer a:active {
+  color: $secondary-hover;
+} 
+
+.acc-kontainer input {
+	display: none;
+}
+
+.acc-kontainer label:before {
+	content: '+';
+	font-weight: bolder;
+	float: right;
+}
+
+.acc-kontainer input:checked+label {
+	background-color: #ffe066;
+	font-size: 20px;
+	font-weight: bolder;
+}
+
+.acc-kontainer input:checked+label:before {
+	content: '';
+}
+
+.acc-kontainer input:checked~.acc-body {
+	height: auto;
+	color: #111111;
+	background-color: #ffffe6;
+	border-bottom: 15px solid white;
+	font-size: 16px;
+	padding: 15px;
+}
+
+.end-note {
+	color:inherit;
+	font-size: 16px;
+	line-height: 16px;
+}
