@@ -86,6 +86,10 @@ Call no.: RSING 709.5957 SIN or RART 709.5957 ART
 
 Features Lim’s personal recount of his artistic process, vision, and motivations as well as a full-color reproduction of his Chinatown (1983).
 
+- Lim, T. P. (2016). [Works selected by Lim Tze Peng](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202893860). Singapore: Lim Tze Peng. (Call no.: RSING 759.95957 LIN)
+
+Published in conjunction with an exhibition, this art catalogue publishes images of paintings and calligraphies from 1950s to 2010s, of which majority of them have not been publicly shown before. These works were selected for the exhibition by Lim, and brought the viewer through the different periods of his artistic career.
+
 
 * Lin, Z. P. (Lim Tze Peng). (1991). [A collection of calligraphy by Lim Tze Peng](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84555003). Singapore: Gu Shi Qi.
 Call no.: RSING Chinese 745.619951 LZP
@@ -189,7 +193,7 @@ Call no.: RSING 759.95957 LIM
 Exhibition catalogue published in conjunction with the Infinite Gestures: Recent Paintings by Lim Tze Peng organized by the Singapore Tyler Print Institute in 2006. Features a comprehensive essay by curator Bridget Tan in English and Simplified Chinese that both provides an introduction to Lim as well as a consideration of his aesthetic sensibilities, particularly with reference to his calligraphic ventures. Also reproduces in colour the works by Lim mounted at the exhibition.
 
 
-* The Society of Chinese Artists. (2003). Nanyangism. Singapore: Author.
+* The Society of Chinese Artists. (2003). [Nanyangism](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12235844). Singapore: Author.
 Call no.: RSING Chinese 759.959597 NAN
 
 A commemorative showcase of the Nanyang School of art and painting. Lim’s illustration of a tropical river scene is reprinted as a colour plate here.
@@ -218,6 +222,10 @@ Call no.: RSING 759.95957 TZE
 
 Bilingual text (English and Simplified Chinese) published in conjunction with the similarly-titled exhibition held at the Nanyang Academy of Fine Arts in June 2006; correspondingly includes full-colour reproductions of the Lim works mounted.
 
+- Tan, Y. J. (2018). [Redefining the archaic: the art of Lim Tze Peng](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203211880). Singapore: Melvin Poh. (Call no.: RSING 759.95957 LIM)
+
+This book is mainly divided into 11 sections which introduces the reader to the different periods of Lim Tze Peng’s artistic career, the major themes of his artworks and the style that he adopted. Images of the Lim’s works are also included with the essay, to facilitate readers’ appreciation of his works. Besides that, the book also included a timeline of the artist and photographs of Lim painting, giving a good overview of Lim’s artistic career.
+
 
 * Teo, H. W. (Ed.). (2008). [Inroads: Lim Tze Peng’s new ink work](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13212133). Singapore: Art Retreat Limited.
 Call no.: RSING 759.95957 LIM
@@ -236,13 +244,15 @@ Call no.:  RSING 759.95957 WOO or RSING Chinese 759.95957 WTH
 
 A bilingual catalogue (English and Simplified Chinese) showcasing some 132 early works, reprinted in full color, by Lim as consolidated by the Friends of Lim Tze Peng society to recognize and honor Lim’s artistic legacy and centrality in Singapore’s cultural development, particularly in his function as chronicler of local history. Each chapter is inaugurated by a propaedeutic introduction that heavily features interview excerpts.
 
+- Woon, T. H. (2021). [Soul of Ink: Lim Tze Peng at 100](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=205396210). Singapore: World Scientific Publishing Co. Pte Ltd. (Call no.: RSING 759.95957 WOO)
+
+Published in honour of artist Lim Tze Peng’s 100th birthday, this title traces the important development of Lim’s art, including the early beginnings and important categories of his works, such as paintings on Singapore landscapes and trees and calligraphies. There are also chapters on Lim’s personal values and Woon’s critique on 10 artworks chosen by the artist. Besides interviews with Lim and descriptions of important life events, the book also incorporates the views and comments of art collectors, artists, curators and gallerists with Lim, to give a more complete picture of Lim, the man and the artist.
+
 
 ### <u>Newspaper Articles</u>
 (listed in alphabetical order)
 
- 
-
-* [A place in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900326-1.2.55.5.3.aspx). (1990, March 26). The Straits Times, p. 4. Retrieved from NewspaperSG.
+[A place in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900326-1.2.55.5.3.aspx). (1990, March 26). The Straits Times, p. 4. Retrieved from NewspaperSG.
 
 A special focus on Lim’s Chinese-ink A Street Scene (1979) with reference to his artist’s statement. The work in question is reproduced in black-and-white here.
 
@@ -257,12 +267,12 @@ Announces Lim’s intention to gift 231 of his works to the Singapore Art Museum
 Explicates and reviews the nostalgic impulse that undergirds Lim’s art as well as the donation of multiple Lim works by his patron, Mr. and Mrs. Koh Seow Chuan, to the Singapore Art Museum, which now constitutes an exhibition in honor of Lim. Includes a detail from a Lim work representing Singapore’s street scene, reprinted in black-and-white.
 
 
-* Cheah, U.-H. (2012, July 6). Black-and-white flourish. The Business Times (Singapore). Retrieved from Factiva.
+* Cheah, U.-H. (2012, July 6). [Black-and-white flourish](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20120706-1.2.43.4.3). The Business Times (Singapore), p. 32. Retrieved from NewspaperSG.
 
 Introduces Lim and his artistic career, with a special focus on his predilection for monochrome tones and black-and-white aesthetics.
 
 
-* Cheah, U.-H. (2015, October 9). Master strokes. The Business Times (Singapore). Retrieved from Factiva.
+* Cheah, U.-H. (2015, October 9). [Master strokes](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20151009-1.2.41.4.3). The Business Times (Singapore), p. 32. Retrieved from NewspaperSG.
 
 Advertises and elaborates on the works that will be mounted at Lim’s upcoming solo exhibition entitled Impressions by Lim Tze Peng, which coincides with his birthday celebrations. Also notes his focus on abstract calligraphy now.
 
@@ -277,12 +287,12 @@ Reports that four Cultural Medallion awardees, including Lim, will receive a gra
 Reviews Lim’s exhibition at the Singapore Tyler Print Institute in July 2006, calling attention to his artistic tropes and motifs in particular, and includes quotes from various artist friends of Lim who identify that the latter’s work orchestrates a convergence between the painting and calligraphic art traditions.
 
 
-* Huang, L. (2012, April 26). Bali’s beauty in paint. The Straits Times. Retrieved from Factiva.
+* Huang, L. (2012, April 26). [Bali’s beauty in paint](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20120426-1.2.60.3.2). The Straits Times, p. 5. Retrieved from NewspaperSG.
 
 Announces Lim’s new solo exhibition entitled Tze Peng in Bali, which showcases his series of works that elect as their subject matter Bali, Indonesia, as well as a brief introduction into his creative process.
 
 
-* Huang, L. (2014, March 21). Calligraphy with a burst of color. The Straits Times. Retrieved from Factiva.
+* Huang, L. (2014, March 21). [Calligraphy with a burst of color](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20140321-1.2.62.5.3). The Straits Times, p. 12. Retrieved from NewspaperSG.
 
 Reports on Lim’s new artistic direction in developing what he christens hutuzi (muddled calligraphy), of which 30 works that demonstrate these sensibilities will be mounted at an exhibition sponsored by four of his patrons.
 
@@ -296,8 +306,12 @@ Elaborates on Lim’s development and maturation as a celebrated artist recogniz
 
 Reports on how Lim transitioned into a full-time career as an artist as well as his motivations for his works—primarily the compulsion to immortalize local heritage endangered by the mechanisms of modernity—on the occasion of his 1995 exhibition entitled Moments by Lim Tze Peng. Includes a black-and-white photograph of Lim with one of his visual representations of 1980s Johore Street.
 
+- Leong, W.K. (2016, August 9). [Pioneer artist who brought scenes of old Singapore to life](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20160809-1.2.7.3.2). The Straits Times, p. 4. Retrieved from NewspaperSG.
 
-* Loi, R. (2014, March 28). A pioneer artist’s ‘new style’ of calligraphy. The Business Times (Singapore). Retrieved from Factiva.
+Reporting on Lim Tze Peng’s receiving the Meritorious Service Medal, this article provides a brief biography of the artist and updates on his activities, such as donating his paintings to his alma mater in 2014 and a retrospective exhibition in September 2016.
+
+
+* Loi, R. (2014, March 28). [A pioneer artist’s ‘new style’ of calligraphy](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20140328-1.2.45.4.3). The Business Times (Singapore), p.33. Retrieved from NewspaperSG.
 
 Reports on Lim’s current shift in primary artistic focus to calligraphy, or rather, his reinvention/appropriation of the tradition, which is showcased at the Tze Peng: Songs from the Heart exhibition.
 
@@ -332,7 +346,7 @@ Reports on Lim’s relationship with his artworks and his donation of more than 
 Announces Lim’s first overseas solo exhibition in Beijing and Shanghai in 2009. Reports on how the traveling exhibition came into being and the series of ink works that would be mounted. Two of the displayed works are reproduced in color along with a colour byline photograph of Lim.
 
 
-* Shetty, D. (2012, May 9). Singapore painting sets auction record. The Straits Times. Retrieved from Factiva.
+* Shetty, D. (2012, May 9). [Singapore painting sets auction record](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20120529-1.2.50.1.4). The Straits Times, p. 3. Retrieved from NewspaperSG.
 
 Announces that Lim’s Chinese-ink-and-color Singapore River Scene (1978) fetched HK$620,000 (S$101,800)—far surpassing its original estimate—at a Christie’s auction, a record price for a living Singaporean artist as at May 2012, and the first Singaporean work to cross the $100,000 mark at an auction.
 
@@ -342,7 +356,7 @@ Announces that Lim’s Chinese-ink-and-color Singapore River Scene (1978) fetche
 Broadcasts Lim’s win of a special prize for his painting of Bali at the 1977 Commonwealth Art Exhibition sponsored by the Royal Overseas League of London; he was the only Singaporean representative to receive a prize.
 
 
-* Tan, C. (2010, December 13). The art of perseverance. The Straits Times. Retrieved from Factiva.
+* Tan, C. (2010, December 13). [The art of perseverance](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20101213-1.2.55.1.4). The Straits Times, p. 4. Retrieved from NewspaperSG.
 
 An elaborate and comprehensive illumination of Lim’s development as an artist, including his career’s high and low moments.
 
@@ -357,7 +371,7 @@ Announces the awardees of the 2003 Cultural Medallion, Singapore’s most presti
 A critical appraisal and evaluation of Lim’s artistic merits with particular reference to four works that are mounted and for sale at the Moments by Lim Tze Peng solo exhibition at the Takashimaya Department Store in 1995.
 
 
-* Wee, C. F. (2011, October 29). Pioneer’s artistic journey. The Straits Times. Retrieved from Factiva.
+* Wee, C. F. (2011, October 29). [Pioneer’s artistic journey](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20111029-1.2.112.1). The Straits Times, p. 2. Retrieved from NewspaperSG.
 
 Advertises Lim’s 2011 solo exhibition, entitled Old and New, which as its name implies, charts and scrutinizes the development and maturation of Lim’s artistic career and aesthetics, including his relatively recent sustained ventures into a reinvented Chinese calligraphic tradition.
 
@@ -365,28 +379,26 @@ Advertises Lim’s 2011 solo exhibition, entitled Old and New, which as its name
 ### <u>Websites</u>
 (listed in alphabetical order)
 
-* ArtSafe. (n.d.). Lim Tze Peng. Retrieved April 18, 2016, from the ArtSafe Art Gallery website:
-http://www.artsafesg.com/#!limtzepeng-art/cb6c
+* ArtSafe. (n.d.). Lim Tze Peng. Retrieved June 25, 2021, from the ArtSafe Art Gallery website: https://www.artsafesg.com/lim-tze-peng
 
 Provides a biographical timeline of Lim’s career milestones and notable events as an artist, as well as digital images of the Lim works in the ArtSafe collection available for sale.
 
 
-* Artsy. (2016, January 12). Lim Tze Peng. Retrieved April 18, 2016, from the Artsy website:
+* Artsy. (2016, January 12). Lim Tze Peng. Retrieved June 25, 2021, from the Artsy website:
 https://www.artsy.net/artist/lim-tze-peng
 
 Online repository of color images of 103 calligraphic and ink works by Lim, including their current location (private collections or galleries) as well as their auction prices. Also provides a brief overview and biographical sketch of the artist.
 
 
-* ArtyiiPerspective. (2010, December 15). Lim Tze Peng – Singapore’s national living treasure. Retrieved April 18, 2016, from YouTube:
+* ArtyiiPerspective. (2010, December 15). Lim Tze Peng – Singapore’s national living treasure. Retrieved June 25, 2021, from YouTube:
 https://www.youtube.com/watch?gl=SG&hl=en-GB&v=14_diuroNiE
 
 Short video clip of a conference commemorating Lim’s first traveling exhibition in China; includes speeches by Lim and his wife.
 
 
-* Cape of Good Hope Art Gallery. (n.d.). Lim Tze Peng. Retrieved April 18, 2016, from the Cape of Good Hope Art Gallery website:
-http://www.capeofgoodhope.com.sg/page/lim-tze-peng
+* Cape of Good Hope Art Gallery. (n.d.). Lim Tze Peng. Retrieved June 25, 2021, from the Cape of Good Hope Art Gallery website: https://www.capeofgoodhope.com.sg/lim-tze-peng
 
-Features two tabs: one provides a brief artist’s biography and major key events in his life and career; the other provides links to images to 10 of his representative pictorial and calligraphic works.
+This webpage provides a brief artist’s biography and major key events in his life and career and links to images to 10 of his representative pictorial and calligraphic works, and features photographs of Lim at various arts event and videos on Lim.
 
 
 * The Esplanade. (2012, October 12). Tribute.sg – Lim Tze Peng. Retrieved from YouTube:
@@ -399,15 +411,19 @@ Short four-minute interview with Lim, with him introducing himself and elaborati
 
 An Infopedia resource that concisely chronicles Lim’s early life and works in the form of a chronological timeline, as well as major exhibitions held and awards received. A colour photograph of Lim is also included.
 
+- Ode to Art. (n.d.). Lim Tze Peng. Retrieved June 25, 2021, from Ode to Art website: https://www.odetoart.com/?p=artist&a=126,Lim%20Tze%20Peng
 
-* The Private Museum. (2013). Lim Tze Peng: A private collection (23rd Jan – 10th Mar 2013). Retrieved April 18, 2016, from The Private Museum website:
+An artist’s page by Ode to Art gallery, this website features Lim Tze Peng’s biography, listings of his exhibitions, publications, clippings and videos on Lim Tze Peng, images of Lim’s paintings and a virtual exhibition of Lim’s works, A century of memories.
+
+
+* The Private Museum. (2013). Lim Tze Peng: A private collection (23rd Jan – 10th Mar 2013). Retrieved June 25, 2021, from The Private Museum website:
 http://www.theprivatemuseum.org/index.php/exhibition/a-private-collection/
 
 Online exhibition site for the Private Museum’s 2013 exhibition on Lim. Includes a short essay by Sze Wee Low, digital images of the 14 Lim works mounted, relevant press releases, and an artist’s biography.
 
 
-* TributeSG. (n.d.). Lim Tze Peng. Retrieved April 18, 2016, from the TributeSG website:
-https://www.tribute.sg/artist-profile-lim-tze-peng/?chapter=1
+* TributeSG. (n.d.). Lim Tze Peng. Retrieved June 25, 2021, from the TributeSG website:
+https://www.esplanade.com/offstage/arts/lim-tze-peng
 
 Features a comprehensive and detailed biography of Lim, along with several images of his artworks and the artist himself, as well as a YouTube video of TributeSG’s interview with Lim.
 
@@ -420,7 +436,7 @@ Call no.: RSING Chinese 759.95957 LIM
 16-minute video chronicling Chen’s artistic development and refinement, creative process, governing philosophies, and visual vocabularies. Commentaries by fellow artist Ho Chee Lick and patron Koh Seow Chuan are included as well.
 
 
-* Pitt, K. W & Lye, S. C. (Interviewers). (1984, May 16). Oral History Interview with Lim Tze Peng. [Accession No. 000370]. Singapore: National Archives of Singapore.
+* Pitt, K. W & Lye, S. C. (Interviewers). (1984, May 16). [Oral History Interview with Lim Tze Peng](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/59d6c9ba-115f-11e3-83d5-0050568939ad). [Accession No. 000370]. Retrieved from National Archives of Singapore Archives Online.
 
 Interview in Mandarin Chinese where Lim elaborates on how his consistent involvement in the visual arts, including his championing of art during his tenure in the education service. Lim also opines on his then-preference for oil painting, the possible directions that the artistic circle in Singapore can undertake, and the fundamental principles that an artist should abide to. Transcripts in Chinese available.
 
@@ -428,19 +444,19 @@ Interview in Mandarin Chinese where Lim elaborates on how his consistent involve
 ### <u>Images</u>
 (listed in alphabetical order)
 
-* [Banyan tree](http://eresources.nlb.gov.sg/pictures/Details/3c133762-fea4-47a3-ad46-49c004d55f9b). (1995), [Image of painting], \[Online\]. (2007). Retrieved April 19, 2016, from PictureSG.
+* [Banyan tree](http://eresources.nlb.gov.sg/pictures/Details/3c133762-fea4-47a3-ad46-49c004d55f9b). (1995), [Image of painting], \[Online\]. (2007). Retrieved June 25, 2021, from PictureSG.
 
 
-* [Junction: Circular road and canton road](http://eresources.nlb.gov.sg/pictures/Details/5cec6181-cd58-4018-bb6e-e230a3a1d5bb). (1975), [Image of painting], \[Online\]. (2007). Retrieved April 19, 2016, from PictureSG.
+* [Junction: Circular road and canton road](http://eresources.nlb.gov.sg/pictures/Details/5cec6181-cd58-4018-bb6e-e230a3a1d5bb). (1975), [Image of painting], \[Online\]. (2007). Retrieved June 25, 2021, from PictureSG.
 
 
-* [Lim Tze Peng: Half-length portrait](http://eresources.nlb.gov.sg/pictures/Details/3c133762-fea4-47a3-ad46-49c004d55f9b). (2002–2006), [Image of photograph], \[Online\]. Retrieved April 19, 2016, from PictureSG.
+* [Lim Tze Peng: Half-length portrait](http://eresources.nlb.gov.sg/pictures/Details/3c133762-fea4-47a3-ad46-49c004d55f9b). (2002–2006), [Image of photograph], \[Online\]. Retrieved June 25, 2021, from PictureSG.
 
 
-* [River Seine](http://eresources.nlb.gov.sg/pictures/Details/1b966731-48f2-447c-9fe7-c57c499aa088). (2000), [Image of painting], \[Online\]. (2007). Retrieved April 19, 2016, from PictureSG.
+* [River Seine](http://eresources.nlb.gov.sg/pictures/Details/1b966731-48f2-447c-9fe7-c57c499aa088). (2000), [Image of painting], \[Online\]. (2007). Retrieved June 25, 2021, from PictureSG.
 
 
-* [Singapore River](http://eresources.nlb.gov.sg/pictures/Details/8a3cd008-6d6f-4e78-be44-fad8c4b478fe). (198–), [Image of painting], \[Online\]. (2007). Retrieved April 19, 2016, from PictureSG.
+* [Singapore River](http://eresources.nlb.gov.sg/pictures/Details/8a3cd008-6d6f-4e78-be44-fad8c4b478fe). (198–), [Image of painting], \[Online\]. (2007). Retrieved June 25, 2021, from PictureSG.
 
 
 ### <u>Accessing National Library Board Singapore Resources</u>
@@ -477,7 +493,8 @@ If you’re having problems registering or logging in, please [contact us](http:
 Wang Zineng<br>
 Ang Seow Leng<br>
 Jason Yan (Updated by)
+Goh Yu Mei (Updated by)
 
-The information in this resource guide is valid as at Feb 2017 and correct as far as we are able to ascertain from our sources. It is not intended to be an exhaustive or complete history on the subject. Please contact the Library for further reading materials on the topic.
+The information in this resource guide is valid as at June 2021 and correct as far as we are able to ascertain from our sources. It is not intended to be an exhaustive or complete history on the subject. Please contact the Library for further reading materials on the topic.
 
-All Rights Reserved. National Library Board Singapore 2017.
+All Rights Reserved. National Library Board Singapore 2021.
