@@ -86,12 +86,8 @@ Lim is referenced here in Kwok’s monograph on Singaporean art as a member of C
 
 Features Lim’s personal recount of his artistic process, vision, and motivations as well as a full-color reproduction of his Chinatown (1983).
 
-- Lim, T. P. (2016). [Works selected by Lim Tze Peng](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202893860). Singapore: Lim Tze Peng. (Call no.: RSING 759.95957 LIN)
-
-Published in conjunction with an exhibition, this art catalogue has images of paintings and calligraphic works from the 1950s to 2010s, majority of which have not been publicly shown before. These works were selected for the exhibition by Lim, and brings the viewer through the different periods of his artistic career.
-
-
-* Lim, T. P. (2016). [Works selected by Lim Tze Peng](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202893860). Singapore: Lim Tze Peng. (Call no.: RSING 759.95957 LIN)
+- Lim, T. P. (2016). [Works selected by Lim Tze Peng](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202893860). Singapore: Lim Tze Peng.
+Call no.: RSING 759.95957 LIN
 
 Published in conjunction with an exhibition, this art catalogue has images of paintings and calligraphic works from the 1950s to 2010s, majority of which have not been publicly shown before. These works were selected for the exhibition by Lim, and brings the viewer through the different periods of his artistic career.
 
@@ -225,7 +221,8 @@ Features multiple full-colour plates of Lim’s works that visually represent an
 
 Bilingual text (English and Simplified Chinese) published in conjunction with the similarly-titled exhibition held at the Nanyang Academy of Fine Arts in June 2006; correspondingly includes full-colour reproductions of the Lim works mounted.
 
-- Tan, Y. J. (2018). [Redefining the archaic: the art of Lim Tze Peng](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203211880). Singapore: Melvin Poh. (Call no.: RSING 759.95957 LIM)
+- Tan, Y. J. (2018). [Redefining the archaic: the art of Lim Tze Peng](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203211880). Singapore: Melvin Poh.
+Call no.: RSING 759.95957 LIM
 
 This book, divided into 11 sections, introduces the reader to the different periods of Lim Tze Peng’s artistic career, the major themes of his artworks and the style that he adopted. Images of his works accompany each essay facilitate the reader's appreciation of his works. A timeline of Lim as an artist and photographs of him painting included, providing a good overview of his artistic career.
 
@@ -246,7 +243,7 @@ A chapbook-like exhibition catalog of philanthropist Daniel Teo’s private coll
 
 A bilingual catalogue (English and Simplified Chinese) showcasing some 132 early works, reprinted in full color, by Lim as consolidated by the Friends of Lim Tze Peng society to recognize and honor Lim’s artistic legacy and centrality in Singapore’s cultural development, particularly in his function as chronicler of local history. Each chapter is inaugurated by a propaedeutic introduction that heavily features interview excerpts.
 
-- Woon, T. H. (2021). [Soul of Ink: Lim Tze Peng at 100](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=205396210). Singapore: World Scientific Publishing Co. Pte Ltd. (Call no.: RSING 759.95957 WOO)
+- Woon, T. H. (2021). [Soul of Ink: Lim Tze Peng at 100](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=205396210). Singapore: World Scientific Publishing Co. Pte Ltd. Call no.: RSING 759.95957 WOO
 
 Published to commemorate Lim Tze Peng’s 100th birthday, this book traces important developments in Lim’s art from his early beginnings, as well as different aspects of his works, such as paintings on Singapore landscapes and trees and calligraphic works. There are chapters on Lim’s personal values and Woon’s critique on 10 artworks chosen by the artist. Besides interviews with Lim and descriptions of important life events, the book also incorporates the views and comments of art collectors, artists, curators and gallerists with Lim, providing an all-embracing picture of Lim, the man and the artist.
 
@@ -311,10 +308,6 @@ Reports on how Lim transitioned into a full-time career as an artist as well as 
 - Leong, W.K. (2016, August 9). [Pioneer artist who brought scenes of old Singapore to life](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20160809-1.2.7.3.2). The Straits Times, p. 4. Retrieved from NewspaperSG.
 
 Reporting on Lim Tze Peng receiving the Meritorious Service Medal, this article provides a brief biography of the artist and updates on his activities, such as the donation of his paintings to his alma mater in 2014 and a retrospective exhibition in September 2016.
-
-* Leong, W.K. (2016, August 9). [Pioneer artist who brought scenes of old Singapore to life](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20160809-1.2.7.3.2). The Straits Times, p. 4. Retrieved from NewspaperSG.
-
-Reporting on Lim Tze Peng’s receiving the Meritorious Service Medal, this article provides a brief biography of the artist and updates on his activities, such as donating his paintings to his alma mater in 2014 and a retrospective exhibition in September 2016.
 
 - Loi, R. (2014, March 28). [A pioneer artist’s ‘new style’ of calligraphy](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20140328-1.2.45.4.3). The Business Times (Singapore), p. 33. Retrieved from NewspaperSG.
 
