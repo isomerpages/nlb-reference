@@ -488,8 +488,8 @@ If you’re having problems registering or logging in, please [contact us](http:
 
 Wang Zineng<br>
 Ang Seow Leng<br>
-Jason Yan (Updated by) 
-Goh Yu Mei (Updated by) 
+Jason Yan (Updated by) <br>
+Goh Yu Mei (Updated by) <br>
 
 The information in this resource guide is valid as at June 2021 and correct as far as we are able to ascertain from our sources. It is not intended to be an exhaustive or complete history on the subject. Please contact the Library for further reading materials on the topic.
 
