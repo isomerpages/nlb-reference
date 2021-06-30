@@ -196,15 +196,8 @@ A secondary companion text published in conjunction to the Siapa nama kamu exhib
 
 Exhibition catalogue published in conjunction with the Infinite Gestures: Recent Paintings by Lim Tze Peng organized by the Singapore Tyler Print Institute in 2006. Features a comprehensive essay by curator Bridget Tan in English and Simplified Chinese that both provides an introduction to Lim as well as a consideration of his aesthetic sensibilities, particularly with reference to his calligraphic ventures. Also reproduces in colour the works by Lim mounted at the exhibition.
 
-
-<<<<<<< Updated upstream
-* The Society of Chinese Artists. (2003). [Nanyangism](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12235844). Singapore: Author.
-
+* The Society of Chinese Artists. (2003). [Nanyangism](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12235844). Singapore: Author.
   Call no.: RSING Chinese 759.959597 NAN
-  =======
-* The Society of Chinese Artists. (2003). Nanyangism. Singapore: Author.
-  Call no.: RSING Chinese 759.959597 NAN
->>>>>>> Stashed changes
 
 A commemorative showcase of the Nanyang School of art and painting. Lim’s illustration of a tropical river scene is reprinted as a colour plate here.
 
@@ -255,20 +248,13 @@ A bilingual catalogue (English and Simplified Chinese) showcasing some 132 early
 
 - Woon, T. H. (2021). [Soul of Ink: Lim Tze Peng at 100](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=205396210). Singapore: World Scientific Publishing Co. Pte Ltd. (Call no.: RSING 759.95957 WOO)
 
-<<<<<<< Updated upstream
 Published to commemorate Lim Tze Peng’s 100th birthday, this book traces important developments in Lim’s art from his early beginnings, as well as different aspects of his works, such as paintings on Singapore landscapes and trees and calligraphic works. There are chapters on Lim’s personal values and Woon’s critique on 10 artworks chosen by the artist. Besides interviews with Lim and descriptions of important life events, the book also incorporates the views and comments of art collectors, artists, curators and gallerists with Lim, providing an all-embracing picture of Lim, the man and the artist.
-
->>>>>>> 
 
 ### <u>Newspaper Articles</u>
 
-<<<<<<< Updated upstream
-[A place in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900326-1.2.55.5.3.aspx). (1990, March 26). The Straits Times, p. 4. Retrieved from NewspaperSG.
-=======
 (listed in alphabetical order)
 
- [A place in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900326-1.2.55.5.3.aspx). (1990, March 26). The Straits Times, p. 4. Retrieved from NewspaperSG.
->>>>>>> Stashed changes
+- [A place in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900326-1.2.55.5.3.aspx). (1990, March 26). The Straits Times, p. 4. Retrieved from NewspaperSG.
 
 A special focus on Lim’s Chinese-ink A Street Scene (1979) with reference to his artist’s statement. The work in question is reproduced in black-and-white here.
 
@@ -430,7 +416,7 @@ An Infopedia resource that concisely chronicles Lim’s early life and works in 
 
 - Ode to Art. (n.d.). Lim Tze Peng. Retrieved June 25, 2021, from Ode to Art website: https://www.odetoart.com/?p=artist&a=126,Lim%20Tze%20Peng
 
-An artist’s page by Ode to Art gallery, this website features Lim Tze Peng’s biography, listings of his exhibitions, publications, clippings and videos on Lim Tze Peng, images of Lim’s paintings and a virtual exhibition of Lim’s works, A century of memories.
+An artist’s page by Ode to Art gallery, this website features Lim Tze Peng’s biography, listings of his exhibitions, publications, clippings and videos on Lim Tze Peng, images of Lim’s paintings and a virtual exhibition of Lim’s works, *A century of memories*.
 
 
 * The Private Museum. (2013). Lim Tze Peng: A private collection (23rd Jan – 10th Mar 2013). Retrieved June 25, 2021, from The Private Museum website:
@@ -447,7 +433,7 @@ Features a comprehensive and detailed biography of Lim, along with several image
 
 (listed in alphabetical order)
 
-- . (2003). \[Videotape\]. National Library Board and National Arts Council.
+- [Lim Tze Peng, Cultural Medallion award 2003 (Art)](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14166556). (2003). \[Videotape\]. National Library Board and National Arts Council.
   Call no.: RSING Chinese 759.95957 LIM
 
 16-minute video chronicling Chen’s artistic development and refinement, creative process, governing philosophies, and visual vocabularies. Commentaries by fellow artist Ho Chee Lick and patron Koh Seow Chuan are included as well.
