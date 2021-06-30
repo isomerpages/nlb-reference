@@ -326,17 +326,11 @@ Reports on how Lim transitioned into a full-time career as an artist as well as 
 
 Reporting on Lim Tze Peng receiving the Meritorious Service Medal, this article provides a brief biography of the artist and updates on his activities, such as the donation of his paintings to his alma mater in 2014 and a retrospective exhibition in September 2016.
 
-
-<<<<<<< Updated upstream
-* Loi, R. (2014, March 28). [A pioneer artist’s ‘new style’ of calligraphy](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20140328-1.2.45.4.3). The Business Times (Singapore), p.33. Retrieved from NewspaperSG.
-=======
 * Leong, W.K. (2016, August 9). [Pioneer artist who brought scenes of old Singapore to life](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20160809-1.2.7.3.2). The Straits Times, p. 4. Retrieved from NewspaperSG.
 
 Reporting on Lim Tze Peng’s receiving the Meritorious Service Medal, this article provides a brief biography of the artist and updates on his activities, such as donating his paintings to his alma mater in 2014 and a retrospective exhibition in September 2016.
 
 - Loi, R. (2014, March 28). [A pioneer artist’s ‘new style’ of calligraphy](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20140328-1.2.45.4.3). The Business Times (Singapore), p. 33. Retrieved from NewspaperSG.
-
->>>>>>> Stashed changes
 
 Reports on Lim’s current shift in primary artistic focus to calligraphy, or rather, his reinvention/appropriation of the tradition, which is showcased at the Tze Peng: Songs from the Heart exhibition.
 
@@ -395,12 +389,7 @@ Announces the awardees of the 2003 Cultural Medallion, Singapore’s most presti
 
 A critical appraisal and evaluation of Lim’s artistic merits with particular reference to four works that are mounted and for sale at the Moments by Lim Tze Peng solo exhibition at the Takashimaya Department Store in 1995.
 
-
-<<<<<<< Updated upstream
-* Wee, C. F. (2011, October 29). [Pioneer’s artistic journey](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20111029-1.2.112.1). The Straits Times, p. 2. Retrieved from NewspaperSG.
-=======
 * Wee, C. F. (2011, October 29). [Pioneer’s artistic journey](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20111029-1.2.112.1). The Straits Times. Retrieved from NewspaperSG.
->>>>>>> Stashed changes
 
 Advertises Lim’s 2011 solo exhibition, entitled Old and New, which as its name implies, charts and scrutinizes the development and maturation of Lim’s artistic career and aesthetics, including his relatively recent sustained ventures into a reinvented Chinese calligraphic tradition.
 
@@ -409,47 +398,25 @@ Advertises Lim’s 2011 solo exhibition, entitled Old and New, which as its name
 
 (listed in alphabetical order)
 
-<<<<<<< Updated upstream
-* ArtSafe. (n.d.). Lim Tze Peng. Retrieved June 25, 2021, from the ArtSafe Art Gallery website: https://www.artsafesg.com/lim-tze-peng
-=======
 * ArtSafe. (n.d.). Lim Tze Peng. Retrieved June 25, 2021, from the ArtSafe Art Gallery website:
   https://www.artsafesg.com/lim-tze-peng
->>>>>>> Stashed changes
 
 Provides a biographical timeline of Lim’s career milestones and notable events as an artist, as well as digital images of the Lim works in the ArtSafe collection available for sale.
 
 
-* Artsy. (2016, January 12). Lim Tze Peng. Retrieved June 25, 2021, from the Artsy website:
-<<<<<<< Updated upstream
-https://www.artsy.net/artist/lim-tze-peng
-=======
-  https://www.artsy.net/artist/lim-tze-peng
->>>>>>> Stashed changes
+* Artsy. (2016, January 12). Lim Tze Peng. Retrieved June 25, 2021, from the Artsy website: https://www.artsy.net/artist/lim-tze-peng
 
 Online repository of color images of 103 calligraphic and ink works by Lim, including their current location (private collections or galleries) as well as their auction prices. Also provides a brief overview and biographical sketch of the artist.
 
 
-* ArtyiiPerspective. (2010, December 15). Lim Tze Peng – Singapore’s national living treasure. Retrieved June 25, 2021, from YouTube:
-<<<<<<< Updated upstream
-https://www.youtube.com/watch?gl=SG&hl=en-GB&v=14_diuroNiE
-=======
-  https://www.youtube.com/watch?gl=SG&hl=en-GB&v=14_diuroNiE
->>>>>>> Stashed changes
+* ArtyiiPerspective. (2010, December 15). Lim Tze Peng – Singapore’s national living treasure. Retrieved June 25, 2021, from YouTube: https://www.youtube.com/watch?gl=SG&hl=en-GB&v=14_diuroNiE
 
 Short video clip of a conference commemorating Lim’s first traveling exhibition in China; includes speeches by Lim and his wife.
 
-
-<<<<<<< Updated upstream
-* Cape of Good Hope Art Gallery. (n.d.). Lim Tze Peng. Retrieved June 25, 2021, from the Cape of Good Hope Art Gallery website: https://www.capeofgoodhope.com.sg/lim-tze-peng
-
-This webpage provides a brief artist’s biography and major key events in his life and career and links to images to 10 of his representative pictorial and calligraphic works, and features photographs of Lim at various arts event and videos on Lim.
-=======
 * Cape of Good Hope Art Gallery. (n.d.). Lim Tze Peng. Retrieved June 25, 2021, from the Cape of Good Hope Art Gallery website:
   https://www.capeofgoodhope.com.sg/lim-tze-peng
 
-This webpage provides a brief artist’s biography and major key events in his life and career and links to images to 10 of his representative pictorial and calligraphic works, and features photographs of Lim at various arts event and videos on Lim
->>>>>>> Stashed changes
-
+This webpage provides a brief artist’s biography and major key events in his life and career and links to images to 10 of his representative pictorial and calligraphic works, and features photographs of Lim at various arts event and videos on Lim.
 
 * The Esplanade. (2012, October 12). Tribute.sg – Lim Tze Peng. Retrieved from YouTube:
   https://www.youtube.com/watch?v=42BNKAizysM
@@ -463,30 +430,15 @@ An Infopedia resource that concisely chronicles Lim’s early life and works in 
 
 - Ode to Art. (n.d.). Lim Tze Peng. Retrieved June 25, 2021, from Ode to Art website: https://www.odetoart.com/?p=artist&a=126,Lim%20Tze%20Peng
 
-<<<<<<< Updated upstream
-An artist’s page by Ode to Art gallery, this website features Lim Tze Peng’s biography, listings of his exhibitions, publications, clippings and videos on him, images of paintings and a virtual exhibition of his works, *A century of memories*.
-
-
-* The Private Museum. (2013). Lim Tze Peng: A private collection (23rd Jan – 10th Mar 2013). Retrieved June 25, 2021, from The Private Museum website:
-http://www.theprivatemuseum.org/index.php/exhibition/a-private-collection/
-=======
 An artist’s page by Ode to Art gallery, this website features Lim Tze Peng’s biography, listings of his exhibitions, publications, clippings and videos on Lim Tze Peng, images of Lim’s paintings and a virtual exhibition of Lim’s works, A century of memories.
 
 
-* The Private Museum. (2013). Lim Tze Peng: A private collection (23rd Jan – 10th Mar 2013). Retrieved April 18, 2016, from The Private Museum website:
+* The Private Museum. (2013). Lim Tze Peng: A private collection (23rd Jan – 10th Mar 2013). Retrieved June 25, 2021, from The Private Museum website:
   http://www.theprivatemuseum.org/index.php/exhibition/a-private-collection/
->>>>>>> Stashed changes
 
 Online exhibition site for the Private Museum’s 2013 exhibition on Lim. Includes a short essay by Sze Wee Low, digital images of the 14 Lim works mounted, relevant press releases, and an artist’s biography.
 
-
-<<<<<<< Updated upstream
-* TributeSG. (n.d.). Lim Tze Peng. Retrieved June 25, 2021, from the TributeSG website:
-
-  https://www.esplanade.com/offstage/arts/lim-tze-peng
-  =======
 * TributeSG. (n.d.). Lim Tze Peng. Retrieved June 25, 2021, from the Esplanade website: https://www.esplanade.com/offstage/arts/lim-tze-peng
->>>>>>> Stashed changes
 
 Features a comprehensive and detailed biography of Lim, along with several images of his artworks and the artist himself, as well as a YouTube video of TributeSG’s interview with Lim.
 
@@ -495,16 +447,12 @@ Features a comprehensive and detailed biography of Lim, along with several image
 
 (listed in alphabetical order)
 
-* [Lim Tze Peng, Cultural Medallion award 2003 (Art)](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14166556). (2003). \[Videotape\]. National Library Board and National Arts Council.
+- . (2003). \[Videotape\]. National Library Board and National Arts Council.
   Call no.: RSING Chinese 759.95957 LIM
-  16-minute video chronicling Chen’s artistic development and refinement, creative process, governing philosophies, and visual vocabularies. Commentaries by fellow artist Ho Chee Lick and patron Koh Seow Chuan are included as well.
 
+16-minute video chronicling Chen’s artistic development and refinement, creative process, governing philosophies, and visual vocabularies. Commentaries by fellow artist Ho Chee Lick and patron Koh Seow Chuan are included as well.
 
-<<<<<<< Updated upstream
-* Pitt, K. W & Lye, S. C. (Interviewers). (1984, May 16). [Oral History Interview with Lim Tze Peng](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/59d6c9ba-115f-11e3-83d5-0050568939ad). [Accession No. 000370]. Retrieved from National Archives of Singapore Archives Online.
-=======
 * Pitt, K. W & Lye, S. C. (Interviewers). (1984, May 16). [Oral History Interview with Lim Tze Peng](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/59d6c9ba-115f-11e3-83d5-0050568939ad). [Accession No. 000370]. Retrieve from National Archives of Singapore Archives Online.
->>>>>>> Stashed changes
 
 Interview in Mandarin Chinese where Lim elaborates on how his consistent involvement in the visual arts, including his championing of art during his tenure in the education service. Lim also opines on his then-preference for oil painting, the possible directions that the artistic circle in Singapore can undertake, and the fundamental principles that an artist should abide to. Transcripts in Chinese available.
 
@@ -561,13 +509,8 @@ If you’re having problems registering or logging in, please [contact us](http:
 
 Wang Zineng<br>
 Ang Seow Leng<br>
-<<<<<<< Updated upstream
-Jason Yan (Updated by)
-Goh Yu Mei (Updated by)
-=======
 Jason Yan (Updated by) 
 Goh Yu Mei (Updated by) 
->>>>>>> Stashed changes
 
 The information in this resource guide is valid as at June 2021 and correct as far as we are able to ascertain from our sources. It is not intended to be an exhaustive or complete history on the subject. Please contact the Library for further reading materials on the topic.
 
