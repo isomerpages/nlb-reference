@@ -93,7 +93,7 @@ Published in conjunction with an exhibition, this art catalogue has images of pa
 
 * Lim, T. P. (2016). [Works selected by Lim Tze Peng](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202893860). Singapore: Lim Tze Peng. (Call no.: RSING 759.95957 LIN)
 
-Published in conjunction with an exhibition, this art catalogue publishes images of paintings and calligraphies from 1950s to 2010s, of which majority of them have not been publicly shown before. These works were selected for the exhibition by Lim, and brought the viewer through the different periods of his artistic career.
+Published in conjunction with an exhibition, this art catalogue has images of paintings and calligraphic works from the 1950s to 2010s, majority of which have not been publicly shown before. These works were selected for the exhibition by Lim, and brings the viewer through the different periods of his artistic career.
 
 * Lin, Z. P. (Lim Tze Peng). (1991). [A collection of calligraphy by Lim Tze Peng](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84555003). Singapore: Gu Shi Qi.
   Call no.: RSING Chinese 745.619951 LZP
@@ -199,8 +199,9 @@ Exhibition catalogue published in conjunction with the Infinite Gestures: Recent
 
 <<<<<<< Updated upstream
 * The Society of Chinese Artists. (2003). [Nanyangism](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12235844). Singapore: Author.
-Call no.: RSING Chinese 759.959597 NAN
-=======
+
+  Call no.: RSING Chinese 759.959597 NAN
+  =======
 * The Society of Chinese Artists. (2003). Nanyangism. Singapore: Author.
   Call no.: RSING Chinese 759.959597 NAN
 >>>>>>> Stashed changes
@@ -235,11 +236,6 @@ Bilingual text (English and Simplified Chinese) published in conjunction with th
 
 This book, divided into 11 sections, introduces the reader to the different periods of Lim Tze Peng’s artistic career, the major themes of his artworks and the style that he adopted. Images of his works accompany each essay facilitate the reader's appreciation of his works. A timeline of Lim as an artist and photographs of him painting included, providing a good overview of his artistic career.
 
-
-* Tan, Y. J. (2018). [Redefining the archaic: the art of Lim Tze Pen](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203211880)g. Singapore: Melvin Poh. (Call no.: RSING 759.95957 LIM)
-
-This book is mainly divided into 11 sections which introduces the reader to the different periods of Lim Tze Peng’s artistic career, the major themes of his artworks and the style that he adopted. Images of the Lim’s works are also included with the essay, to facilitate readers’ appreciation of his works. Besides that, the book also included a timeline of the artist and photographs of Lim painting, giving a good overview of Lim’s artistic career.
-
 * Teo, H. W. (Ed.). (2008). [Inroads: Lim Tze Peng’s new ink work](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13212133). Singapore: Art Retreat Limited.
   Call no.: RSING 759.95957 LIM
 
@@ -260,11 +256,9 @@ A bilingual catalogue (English and Simplified Chinese) showcasing some 132 early
 - Woon, T. H. (2021). [Soul of Ink: Lim Tze Peng at 100](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=205396210). Singapore: World Scientific Publishing Co. Pte Ltd. (Call no.: RSING 759.95957 WOO)
 
 <<<<<<< Updated upstream
-Published to commemorate Lim Tze Peng’s 100th birthday, this book traces important developments in Lim’s art, from his early beginnings, as well as different aspects of his works, such as paintings on Singapore landscapes and trees and calligraphic works. There are chapters on Lim’s personal values and Woon’s critique on 10 artworks chosen by the artist. Besides interviews with Lim and descriptions of important life events, the book also incorporates the views and comments of art collectors, artists, curators and gallerists with Lim, providing an all-embracing picture of Lim, the man and the artist.
+Published to commemorate Lim Tze Peng’s 100th birthday, this book traces important developments in Lim’s art from his early beginnings, as well as different aspects of his works, such as paintings on Singapore landscapes and trees and calligraphic works. There are chapters on Lim’s personal values and Woon’s critique on 10 artworks chosen by the artist. Besides interviews with Lim and descriptions of important life events, the book also incorporates the views and comments of art collectors, artists, curators and gallerists with Lim, providing an all-embracing picture of Lim, the man and the artist.
 
-=======
-Published in honour of artist Lim Tze Peng’s 100th birthday, this title traces the important development of Lim’s art, including the early beginnings and important categories of his works, such as paintings on Singapore landscapes and trees and calligraphies. There are also chapters on Lim’s personal values and Woon’s critique on 10 artworks chosen by the artist. Besides interviews with Lim and descriptions of important life events, the book also incorporates the views and comments of art collectors, artists, curators and gallerists with Lim, to give a more complete picture of Lim, the man and the artist.
->>>>>>> Stashed changes
+>>>>>>> 
 
 ### <u>Newspaper Articles</u>
 
@@ -488,8 +482,9 @@ Online exhibition site for the Private Museum’s 2013 exhibition on Lim. Includ
 
 <<<<<<< Updated upstream
 * TributeSG. (n.d.). Lim Tze Peng. Retrieved June 25, 2021, from the TributeSG website:
-https://www.esplanade.com/offstage/arts/lim-tze-peng
-=======
+
+  https://www.esplanade.com/offstage/arts/lim-tze-peng
+  =======
 * TributeSG. (n.d.). Lim Tze Peng. Retrieved June 25, 2021, from the Esplanade website: https://www.esplanade.com/offstage/arts/lim-tze-peng
 >>>>>>> Stashed changes
 
