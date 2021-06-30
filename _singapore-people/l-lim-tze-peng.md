@@ -88,7 +88,7 @@ Features Lim’s personal recount of his artistic process, vision, and motivatio
 
 - Lim, T. P. (2016). [Works selected by Lim Tze Peng](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202893860). Singapore: Lim Tze Peng. (Call no.: RSING 759.95957 LIN)
 
-Published in conjunction with an exhibition, this art catalogue publishes images of paintings and calligraphies from 1950s to 2010s, of which majority of them have not been publicly shown before. These works were selected for the exhibition by Lim, and brought the viewer through the different periods of his artistic career.
+Published in conjunction with an exhibition, this art catalogue has images of paintings and calligraphic works from the 1950s to 2010s, majority of which have not been publicly shown before. These works were selected for the exhibition by Lim, and brings the viewer through the different periods of his artistic career.
 
 
 * Lin, Z. P. (Lim Tze Peng). (1991). [A collection of calligraphy by Lim Tze Peng](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84555003). Singapore: Gu Shi Qi.
@@ -224,7 +224,7 @@ Bilingual text (English and Simplified Chinese) published in conjunction with th
 
 - Tan, Y. J. (2018). [Redefining the archaic: the art of Lim Tze Peng](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203211880). Singapore: Melvin Poh. (Call no.: RSING 759.95957 LIM)
 
-This book is mainly divided into 11 sections which introduces the reader to the different periods of Lim Tze Peng’s artistic career, the major themes of his artworks and the style that he adopted. Images of the Lim’s works are also included with the essay, to facilitate readers’ appreciation of his works. Besides that, the book also included a timeline of the artist and photographs of Lim painting, giving a good overview of Lim’s artistic career.
+This book, divided into 11 sections, introduces the reader to the different periods of Lim Tze Peng’s artistic career, the major themes of his artworks and the style that he adopted. Images of his works accompany each essay facilitate the reader's appreciation of his works. A timeline of Lim as an artist and photographs of him painting included, providing a good overview of his artistic career.
 
 
 * Teo, H. W. (Ed.). (2008). [Inroads: Lim Tze Peng’s new ink work](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13212133). Singapore: Art Retreat Limited.
@@ -246,7 +246,7 @@ A bilingual catalogue (English and Simplified Chinese) showcasing some 132 early
 
 - Woon, T. H. (2021). [Soul of Ink: Lim Tze Peng at 100](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=205396210). Singapore: World Scientific Publishing Co. Pte Ltd. (Call no.: RSING 759.95957 WOO)
 
-Published in honour of artist Lim Tze Peng’s 100th birthday, this title traces the important development of Lim’s art, including the early beginnings and important categories of his works, such as paintings on Singapore landscapes and trees and calligraphies. There are also chapters on Lim’s personal values and Woon’s critique on 10 artworks chosen by the artist. Besides interviews with Lim and descriptions of important life events, the book also incorporates the views and comments of art collectors, artists, curators and gallerists with Lim, to give a more complete picture of Lim, the man and the artist.
+Published to commemorate Lim Tze Peng’s 100th birthday, this book traces important developments in Lim’s art, from his early beginnings, as well as different aspects of his works, such as paintings on Singapore landscapes and trees and calligraphic works. There are chapters on Lim’s personal values and Woon’s critique on 10 artworks chosen by the artist. Besides interviews with Lim and descriptions of important life events, the book also incorporates the views and comments of art collectors, artists, curators and gallerists with Lim, providing an all-embracing picture of Lim, the man and the artist.
 
 
 ### <u>Newspaper Articles</u>
@@ -308,7 +308,7 @@ Reports on how Lim transitioned into a full-time career as an artist as well as 
 
 - Leong, W.K. (2016, August 9). [Pioneer artist who brought scenes of old Singapore to life](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20160809-1.2.7.3.2). The Straits Times, p. 4. Retrieved from NewspaperSG.
 
-Reporting on Lim Tze Peng’s receiving the Meritorious Service Medal, this article provides a brief biography of the artist and updates on his activities, such as donating his paintings to his alma mater in 2014 and a retrospective exhibition in September 2016.
+Reporting on Lim Tze Peng receiving the Meritorious Service Medal, this article provides a brief biography of the artist and updates on his activities, such as the donation of his paintings to his alma mater in 2014 and a retrospective exhibition in September 2016.
 
 
 * Loi, R. (2014, March 28). [A pioneer artist’s ‘new style’ of calligraphy](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20140328-1.2.45.4.3). The Business Times (Singapore), p.33. Retrieved from NewspaperSG.
@@ -413,7 +413,7 @@ An Infopedia resource that concisely chronicles Lim’s early life and works in 
 
 - Ode to Art. (n.d.). Lim Tze Peng. Retrieved June 25, 2021, from Ode to Art website: https://www.odetoart.com/?p=artist&a=126,Lim%20Tze%20Peng
 
-An artist’s page by Ode to Art gallery, this website features Lim Tze Peng’s biography, listings of his exhibitions, publications, clippings and videos on Lim Tze Peng, images of Lim’s paintings and a virtual exhibition of Lim’s works, A century of memories.
+An artist’s page by Ode to Art gallery, this website features Lim Tze Peng’s biography, listings of his exhibitions, publications, clippings and videos on him, images of paintings and a virtual exhibition of his works, *A century of memories*.
 
 
 * The Private Museum. (2013). Lim Tze Peng: A private collection (23rd Jan – 10th Mar 2013). Retrieved June 25, 2021, from The Private Museum website:
