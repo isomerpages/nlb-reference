@@ -224,7 +224,7 @@ Bilingual text (English and Simplified Chinese) published in conjunction with th
 - Tan, Y. J. (2018). [Redefining the archaic: the art of Lim Tze Peng](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203211880). Singapore: Melvin Poh.
 Call no.: RSING 759.95957 LIM
 
-This book, divided into 11 sections, introduces the reader to the different periods of Lim Tze Peng’s artistic career, the major themes of his artworks and the style that he adopted. Images of his works accompany each essay facilitate the reader's appreciation of his works. A timeline of Lim as an artist and photographs of him painting included, providing a good overview of his artistic career.
+This book, divided into 11 sections, introduces the reader to the different periods of Lim Tze Peng’s artistic career, the major themes of his artworks and the style that he adopted. Images of his works accompany each essay and facilitate the reader's appreciation of his works. A timeline of Lim as an artist and photographs of him painting are included, providing a good overview of his artistic career.
 
 * Teo, H. W. (Ed.). (2008). [Inroads: Lim Tze Peng’s new ink work](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13212133). Singapore: Art Retreat Limited.
   Call no.: RSING 759.95957 LIM
@@ -377,28 +377,25 @@ Advertises Lim’s 2011 solo exhibition, entitled Old and New, which as its name
 
 (listed in alphabetical order)
 
-* ArtSafe. (n.d.). Lim Tze Peng. Retrieved June 25, 2021, from the ArtSafe Art Gallery website:
-  https://www.artsafesg.com/lim-tze-peng
+* ArtSafe. (n.d.). Lim Tze Peng. Retrieved June 25, 2021, from the ArtSafe Art Gallery website: <https://www.artsafesg.com/lim-tze-peng>
 
 Provides a biographical timeline of Lim’s career milestones and notable events as an artist, as well as digital images of the Lim works in the ArtSafe collection available for sale.
 
 
-* Artsy. (2016, January 12). Lim Tze Peng. Retrieved June 25, 2021, from the Artsy website: https://www.artsy.net/artist/lim-tze-peng
+* Artsy. (2016, January 12). Lim Tze Peng. Retrieved June 25, 2021, from the Artsy website: <https://www.artsy.net/artist/lim-tze-peng>
 
 Online repository of color images of 103 calligraphic and ink works by Lim, including their current location (private collections or galleries) as well as their auction prices. Also provides a brief overview and biographical sketch of the artist.
 
 
-* ArtyiiPerspective. (2010, December 15). Lim Tze Peng – Singapore’s national living treasure. Retrieved June 25, 2021, from YouTube: https://www.youtube.com/watch?gl=SG&hl=en-GB&v=14_diuroNiE
+* ArtyiiPerspective. (2010, December 15). Lim Tze Peng – Singapore’s national living treasure. Retrieved June 25, 2021, from YouTube: <https://www.youtube.com/watch?gl=SG&hl=en-GB&v=14_diuroNiE>
 
 Short video clip of a conference commemorating Lim’s first traveling exhibition in China; includes speeches by Lim and his wife.
 
-* Cape of Good Hope Art Gallery. (n.d.). Lim Tze Peng. Retrieved June 25, 2021, from the Cape of Good Hope Art Gallery website:
-  https://www.capeofgoodhope.com.sg/lim-tze-peng
+* Cape of Good Hope Art Gallery. (n.d.). Lim Tze Peng. Retrieved June 25, 2021, from the Cape of Good Hope Art Gallery website: <https://www.capeofgoodhope.com.sg/lim-tze-peng>
 
 This webpage provides a brief artist’s biography and major key events in his life and career and links to images to 10 of his representative pictorial and calligraphic works, and features photographs of Lim at various arts event and videos on Lim.
 
-* The Esplanade. (2012, October 12). Tribute.sg – Lim Tze Peng. Retrieved from YouTube:
-  https://www.youtube.com/watch?v=42BNKAizysM
+* The Esplanade. (2012, October 12). Tribute.sg – Lim Tze Peng. Retrieved from YouTube: <https://www.youtube.com/watch?v=42BNKAizysM>
 
 Short four-minute interview with Lim, with him introducing himself and elaborating on his creative process and the refinement of his artistic sensibilities.
 
@@ -407,17 +404,16 @@ Short four-minute interview with Lim, with him introducing himself and elaborati
 
 An Infopedia resource that concisely chronicles Lim’s early life and works in the form of a chronological timeline, as well as major exhibitions held and awards received. A colour photograph of Lim is also included.
 
-- Ode to Art. (n.d.). Lim Tze Peng. Retrieved June 25, 2021, from Ode to Art website: https://www.odetoart.com/?p=artist&a=126,Lim%20Tze%20Peng
+- Ode to Art. (n.d.). Lim Tze Peng. Retrieved June 25, 2021, from Ode to Art website: <https://www.odetoart.com/?p=artist&a=126,Lim%20Tze%20Peng>
 
 An artist’s page by Ode to Art gallery, this website features Lim Tze Peng’s biography, listings of his exhibitions, publications, clippings and videos on Lim Tze Peng, images of Lim’s paintings and a virtual exhibition of Lim’s works, *A century of memories*.
 
 
-* The Private Museum. (2013). Lim Tze Peng: A private collection (23rd Jan – 10th Mar 2013). Retrieved June 25, 2021, from The Private Museum website:
-  http://www.theprivatemuseum.org/index.php/exhibition/a-private-collection/
+* The Private Museum. (2013). Lim Tze Peng: A private collection (23rd Jan – 10th Mar 2013). Retrieved June 25, 2021, from The Private Museum website: <http://www.theprivatemuseum.org/index.php/exhibition/a-private-collection/>
 
 Online exhibition site for the Private Museum’s 2013 exhibition on Lim. Includes a short essay by Sze Wee Low, digital images of the 14 Lim works mounted, relevant press releases, and an artist’s biography.
 
-* TributeSG. (n.d.). Lim Tze Peng. Retrieved June 25, 2021, from the Esplanade website: https://www.esplanade.com/offstage/arts/lim-tze-peng
+* TributeSG. (n.d.). Lim Tze Peng. Retrieved June 25, 2021, from the Esplanade website: <https://www.esplanade.com/offstage/arts/lim-tze-peng>
 
 Features a comprehensive and detailed biography of Lim, along with several images of his artworks and the artist himself, as well as a YouTube video of TributeSG’s interview with Lim.
 
@@ -459,7 +455,7 @@ Interview in Mandarin Chinese where Lim elaborates on how his consistent involve
 
 <b><u>Accessing the Print Materials</u></b>
 
-You can search the library catalogue (for physical materials) in the library and from home (http://catalogue.nlb.gov.sg). The easy search function allows you to search/browse by author, title, keyword, subject and ISBN/ISSN whereas the advanced search allows you to narrow your searches to specific media types or language holdings. In both instances, you will also be able to limit your search to specific libraries by clicking on the “limit by branch” option.
+You can search the library catalogue (for physical materials) in the library and from home (<http://catalogue.nlb.gov.sg>). The easy search function allows you to search/browse by author, title, keyword, subject and ISBN/ISSN whereas the advanced search allows you to narrow your searches to specific media types or language holdings. In both instances, you will also be able to limit your search to specific libraries by clicking on the “limit by branch” option.
 
 **To search Lee Kong Chian Reference Library’s Holdings**
 
