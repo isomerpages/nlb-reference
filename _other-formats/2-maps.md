@@ -14,7 +14,7 @@ The National Library and the National Archives of Singapore have an extensive co
 
 ## Guide Index
 
-* [Locating physical map collections using the NLB Catalogue](#locating-physical-map-collections-using-the-nlb-Catalogue)
+* [Locating physical map collections using the NLB Catalogue](#locating-physical-map-collections-using-the-nlb-catalogue)
 * [BookSG](#booksg)
 * [Archives Online](#archives-online)
 * [Spatial Discovery](#spatial-discovery)
@@ -156,7 +156,7 @@ To access the Royal Air Force (RAF) photomap collection, use the keyword ‘phot
 
 As the place names are quite specific, use the photomap index overlay (keyword ‘index’) to coordinate your search. The photomap index shows all the areas surveyed by the RAF, with a place name assigned to each grid (Race Course, Thomson Village, Braddell Road, et cetera). In the example below, the Farrer Road (Grid 8) and Kallang (Grid 11) photomaps have been laid over the index. 
 
-<img src="\images\other-formats\maps-27.jpg" style="width:500px;" />
+<img src="\images\other-formats\maps-27.png" style="width:500px;" />
 
 ## OneSearch
 
