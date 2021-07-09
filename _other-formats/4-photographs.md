@@ -99,7 +99,7 @@ For this example, we search for photographs of the Singapore Volunteer Corps usi
 
 <img src="\images\other-formats\pictures-17.jpg" style="width:500px;" />
 
-e first result directs us to BookSG, an online collection of digitised books and printed materials, including rare and historical imprints related to Singapore and Southeast Asia from the National Library and its partner institutions. 
+The first result directs us to BookSG, an online collection of digitised books and printed materials, including rare and historical imprints related to Singapore and Southeast Asia from the National Library and its partner institutions. 
 
 It turns out our photograph is extracted from a book, *Our Security, 1819-1969: nation-building through service in the armed forces and police*. By clicking on the title, users will be directed to the NLB catalogue where the book’s Call Number will be available. Users can consult the physical book at the Lee Kong Chian Reference Library. 
 

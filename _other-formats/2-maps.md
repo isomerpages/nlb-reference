@@ -10,11 +10,19 @@ published: true
 
 Maps and charts hold immense historical and research value, helping to visualise an area’s development over time. When placed in their proper historical context, maps and charts reveal much about the mind-sets and preoccupations of their creators, thus providing a glimpse into how they understood the world around them.
 
-The National Library and the National Archives of Singapore have an extensive collection of current and historical maps. The physical map from the library’s collection is accessible from Level 11 of the Lee Kong Chian Reference Library. Some of the older maps, such as the Parry Map collection, have been digitised, and can be accessed for free through our online platform, [**BookSG**](https://eresources.nlb.gov.sg/printheritage/){:target="blank"}. Most maps from the National Archives’ Collection are also digitised and are available for viewing through [**Archives Online**](https://www.nas.gov.sg/archivesonline/){:target="blank"} and [**Spatial Discovery**](https://search.nlb.gov.sg/spatialdiscovery/){:target="blank"} website. This guide will explain how to access the Library and Archives’ map collections.
+The National Library and the National Archives of Singapore have an extensive collection of current and historical maps. The National Library's physical map collection is accessible from Level 11 of the Lee Kong Chian Reference Library. Some of our older maps, such as those of the [**David Parry Southeast Asian Map Collection**](https://eresources.nlb.gov.sg/printheritage/browse/David_Parry_Southeast_Asian.aspx){:target="blank"}, have been digitised and can be accessed for free through our [**BookSG**](https://eresources.nlb.gov.sg/printheritage/){:target="blank"} online platform. Most maps from the National Archives’ Collection are also digitised and are available for viewing through the [**Archives Online**](https://www.nas.gov.sg/archivesonline/){:target="blank"} and [**Spatial Discovery**](https://search.nlb.gov.sg/spatialdiscovery/){:target="blank"} websites. This guide will explain how to access the Library and Archives’ map collections.
 
-## Locating physical maps collections using the NLB Catalogue
+## Guide Index
 
-Most of the physical maps in the library’s collection have not been digitised. Some older, pre-colonial maps have been digitised and are accessible online via [BookSG](https://eresources.nlb.gov.sg/printheritage/). More information on BookSG can be found in the next section.
+* [Locating physical map collections using the NLB Catalogue](#locating-physical-map-collections-using-the-nlb-catalogue)
+* [BookSG](#booksg)
+* [Archives Online](#archives-online)
+* [Spatial Discovery](#spatial-discovery)
+* [OneSearch](#onesearch)
+
+## Locating physical map collections using the NLB Catalogue
+
+The physical maps in the National Library’s collection can only accessed through the NLB Catalogue. While many older maps can be found on BookSG, most of the physical maps in our collection have not been digitised. To locate maps on the NLB Catalogue, simply follow the steps below. 
 
 **Step 1**: Click on the <u>Advanced Search</u> on the [NLB Catalogue](https://catalogue.nlb.gov.sg/) homepage. This is found on the bottom right corner of the search bar.
 
@@ -32,7 +40,7 @@ Otherwise, consider using different keywords and simplifying your search terms. 
 
 <img src="\images\other-formats\maps-03.jpg" style="width:600px;" />
 
-**Step 4**: On the item description page, click on <u>View Availability</u>. Note down the Title and Call Number. Physical maps can be requested over at the Reference Counter at Level 11 of the Lee Kong Chian Reference Library. Noted that if the map is from the Rare Materials Collection, written permission is required to access the physical copy. If you require access, please fill up a Request for Rare Materials form. Once the form has been submitted, do note that approval process will require a few days. More information can be found [here](https://www.nlb.gov.sg/research/rarecollections.aspx). 
+**Step 4**: On the item description page, click on <u>View Availability</u>. Note down the Title and Call Number. Physical maps must be requested over at the Reference Counter at Level 11 of the Lee Kong Chian Reference Library. If the map is from the Rare Materials Collection, written permission is required to access the physical copy. If you require access, please fill up a Request for Rare Materials form. Once the form has been submitted, do note that approval process will require a few days. More information can be found [here](https://www.nlb.gov.sg/research/rarecollections.aspx). 
 
 Should you run into any issues, please approach our library staff for further assistance.
 
@@ -42,9 +50,9 @@ Most of the physical maps are not digitised. However, older, pre-colonial maps h
 
 ## BookSG
 
-[**BookSG**](https://eresources.nlb.gov.sg/printheritage/){:target="blank"} is an online collection of digitised books and printed materials, including rare and historical imprints related to Singapore and Southeast Asia from the National Library and its partner institutions. Our [BookSG](https://eresources.nlb.gov.sg/printheritage/) e-resource has over 10,000 titles that will offer you a glimpse into the past, including digitised [Maps and Charts](https://eresources.nlb.gov.sg/printheritage/browse/Charts_Maps_British_Library.aspx) from the British Library’s collection.
+[**BookSG**](https://eresources.nlb.gov.sg/printheritage/){:target="blank"} is an online collection of digitised books and printed materials, including rare and historical imprints related to Singapore and Southeast Asia from the National Library and our partner institutions. Our [BookSG](https://eresources.nlb.gov.sg/printheritage/) e-resource has over 10,000 titles that will offer you a glimpse into the past, including digitised [Maps and Charts](https://eresources.nlb.gov.sg/printheritage/browse/Charts_Maps_British_Library.aspx) from the British Library’s collection.
 
-In addition, some digitised maps from the National Library’s Rare Map Collection can be found here.  This collection forms part of the valuable Rare Materials Collection held in the Lee Kong Chian Reference Library. It contains topographic maps and navigational charts covering Singapore, Southeast Asia and Asia, as well as town plans and street maps of Singapore and Malaya. The oldest map in our collection is the [Vndecima Asiae Tabvla](https://eresources.nlb.gov.sg/printheritage/detailmap/ecec93db-7cc8-493c-98f5-53e1d6034169.aspx), which dates back to 1478. 
+Several digitised maps from the National Library’s Rare Map Collection can be found on the BookSG platform, comprising of topographic maps and navigational charts that cover Singapore, Southeast Asia and Asia, as well as town plans and street maps of Singapore and Malaya. The oldest map in our collection is the [Vndecima Asiae Tabvla](https://eresources.nlb.gov.sg/printheritage/detailmap/ecec93db-7cc8-493c-98f5-53e1d6034169.aspx), which dates back to 1478. 
 
 <img src="\images\other-formats\maps-05.jpg" style="width:600px;" />
 
@@ -54,11 +62,11 @@ In addition, some digitised maps from the National Library’s Rare Map Collecti
 
 If you have the map’s title in mind, simply conduct a keyword search on the [BookSG](https://eresources.nlb.gov.sg/printheritage/) search bar. The search bar can be toggled using the magnifying glass at the top right of your browser. 
 
-For a more general search, you can select the ‘geography and travels’ category on the BookSG homepage. Doing so will display a search results page, as indicated below. 
+For a more general search, you can select the ‘Geography and Travels’ category on the BookSG homepage. Doing so will display a search results page, as indicated below. 
 
 <img src="\images\other-formats\maps-07.jpg" style="width:600px;" />
 
-On the item details page, you can choose to download a copy of the map (if the option is available), or view it from your browser. You can also view the map’s availability, which will direct you to the NLB Catalogue. This is useful if you need to access the item’s physical copy. The process retrieving an item’s physical copy will be covered in the ‘NLB Catalogue’ section of this guide. 
+On the item details page, you can choose to download a copy of the map (if the option is available), or view it from your browser. You can also check the map’s availability, which will direct you to the NLB Catalogue. This is useful if you need to access the item’s physical copy. The process retrieving an item’s physical copy will be covered in the ‘NLB Catalogue’ section of this guide. 
 
 <img src="\images\other-formats\maps-08.jpg" style="width:600px;" />
 
@@ -94,7 +102,7 @@ Information on the map record can be found here, such as covering date, digital 
 
 ## Spatial Discovery
 
-[**Spatial Discovery**](https://search.nlb.gov.sg/spatialdiscovery/){:target="blank"} is a one-stop digital platform for users to explore, find and interact with maps related information across the National Archives of Singapore (NAS) collections. Here, users may retrieve over 8,000 geo-referenced maps of various types, both current and historical, from any internet-enabled devices. 
+[**Spatial Discovery**](https://search.nlb.gov.sg/spatialdiscovery/){:target="blank"} is a one-stop digital platform for users to explore, find and interact with maps related information across the National Archives of Singapore (NAS) collections. Here, users may retrieve over 4,000 geo-referenced maps of various types, both current and historical, from any internet-enabled devices. 
 
 A handy feature of the geo-referenced maps on this platform is the overlay feature, which allows users to layer historical maps over existing street or satellite maps. This makes it an invaluable resource to visualise and understand Singapore’s rapidly changing urban landscape. 
 
@@ -102,7 +110,7 @@ A handy feature of the geo-referenced maps on this platform is the overlay featu
 
  While on the [Spatial Discovery](https://search.nlb.gov.sg/spatialdiscovery/) homepage, select <u>View More</u> 
 
-<img src="\images\other-formats\maps-14.jpg" style="width:600px;" />
+<img src="\images\other-formats\maps-28.png" style="width:600px;" />
 
 This should redirect you to the map viewing page, where you can both view and add map overlays. Let’s take a closer look.
 
@@ -142,9 +150,17 @@ At this point, you can continue to add additional maps as layers. Click the **X*
 
 <img src="\images\other-formats\maps-20.jpg" style="width:500px;" />
 
+### **RAF Photomap Collection**
+
+To access the Royal Air Force (RAF) photomap collection, use the keyword ‘photomap’. You can narrow down your search using place names (e.g. ‘Kallang’, Bukit Timah’). 
+
+As the place names are quite specific, use the photomap index overlay (keyword ‘index’) to coordinate your search. The photomap index shows all the areas surveyed by the RAF, with a place name assigned to each grid (Race Course, Thomson Village, Braddell Road, et cetera). In the example below, the Farrer Road (Grid 8) and Kallang (Grid 11) photomaps have been laid over the index. 
+
+<img src="\images\other-formats\maps-27.png" style="width:500px;" />
+
 ## OneSearch
 
-Alternatively, users may choose to search for maps from Singapore is via the NLB [**OneSearch**](https://search.nlb.gov.sg/){:target="blank"} website. This method will retrieve records from NLB’s collection, including digitised maps from the National Archives of Singapore, where digital previews are available and can be accessed anywhere from any internet-enabled devices.
+Alternatively, users may choose to search for maps from Singapore via the NLB [**OneSearch**](https://search.nlb.gov.sg/){:target="blank"} website. This method will retrieve records from NLB’s collection, including digitised maps from the National Archives of Singapore, where digital previews are available and can be accessed anywhere from any internet-enabled devices.
 
 **Step 1**: On the OneSearch homepage, click on Advanced Search. This is found at the bottom right corner of the search bar.
 
@@ -164,7 +180,7 @@ Let’s take a closer look at some of our search results.
 
 <img src="\images\other-formats\maps-24.jpg" style="width:500px;" />
 
-The above result directs us to [BookSG](https://eresources.nlb.gov.sg/printheritage/), an online collection of digitised books and printed materials, including rare and historical imprints related to Singapore and Southeast Asia from the National Library and its partner institutions. 
+The above result directs us to [BookSG](https://eresources.nlb.gov.sg/printheritage/), an online collection of digitised books and printed materials, including rare and historical imprints related to Singapore and Southeast Asia from the National Library and our partner institutions. 
 
 <img src="\images\other-formats\maps-25.jpg" style="width:600px;" />
 
