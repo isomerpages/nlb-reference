@@ -10,15 +10,24 @@ published: true
 
 The National Library holds an extensive collection of local and regional newspapers, both archival and contemporary, to support research and learning needs.  Dating from the 19th century to the present day, our archival newspaper collection can be accessed physically via Lee Kong Chian Reference Library’s microfilm collection, or digitally via NewspaperSG and Factiva database. Contemporary news is also available through SPH eNewspapers, Factiva and Press Reader databases. 
 
-A summary of all our available formats and access restrictions can be found in the table below. Click on the respective format guides below for a detailed step-by-step guide on how to access our newspaper collections. 
+#### Newspaper Coverage
 
-| **Format Guide**            | **Access**                                                   |
-| --------------------------- | ------------------------------------------------------------ |
-| [**NewspaperSG**](#newspapersg) | Archived newspapers published in Singapore. All digitised issues are accessible from the Multimedia Stations (MMS) at NLB libraries, and off-site via most internet-enabled devices. <br>However, access to SPH-owned newspaper issues published after 1989, and third-party content is restricted to our on-site MMS. |
-| [**Microfilm**](#newspapers-on-microfilm) | Contains archived newspapers published in Singapore and the region. They are accessible from Level 11 of the Lee Kong Chian Reference Library only. <br>Note that our microfilm Newspaper collection is more extensive than what has been digitised in NewspaperSG. |
-| [**Factiva**](#factiva)<br> (requires [*myLibrary ID*](https://go.gov.sg/mylibraryid){:target="blank"})         | Subscribed e-database with international news and trade magazines available to NLB digital library members only. <br>There are two forms of access – namely on-site access at our NLB libraries and off-site access. For the former, users can access full suite of information and services, including SPH-owned newspapers archives (1989 to present) from NLB libraries. Off-site access is limited to 30 days archives, and does not include SPH-owned newspapers. |
-| [**SPH eNewspapers**](#sph-enewspapers) <br> (requires [*myLibrary ID*](https://go.gov.sg/mylibraryid){:target="blank"})      | This 7-day archive of SPH main dailies is available on-site at NLB libraries, and off-site via internet enabled devices to NLB digital library members only. |
-| [**Press Reader**](#pressreader)  <br> (requires [*myLibrary ID*](https://go.gov.sg/mylibraryid){:target="blank"})           | International news and magazines that are available to NLB digital library members only. |
+With a few exceptions, newspapers published before 1989 can be accessed from home on our NewspaperSG platform. Patrons can access post-1989 newspaper publications through our on-site Library Multimedia Stations and microfilm collection. For newspapers published within the last 7 to 30 days, users can access Factiva or SPH Newspapers from home. 
+
+A summary of all our available platforms and access restrictions can be found in the table below. Please refer to the respective links for a detailed step-by-step guide on how to access our newspaper collections. 
+
+| Publication Range       | Guide Index                               | Access                | Location                                                     |
+| ----------------------- | ----------------------------------------- | --------------------- | ------------------------------------------------------------ |
+| Before 1989             | [**NewspaperSG**](#newspapersg)           | Full remote access *  | Viewable from home                                           |
+|                         | [**Microfilm**](#newspapers-on-microfilm) | On-site access only   | Lee Kong Chian Reference Library Level 11 only               |
+| After 1989              | [**NewspaperSG**]((#newspapersg))         | On-site access only   | Available at all Library Multimedia Stations (MMS) **        |
+|                         | [**Microfilm**](#newspapers-on-microfilm) | On-site access only   | Lee Kong Chian Reference Library Level 11 only               |
+|                         | [**Factiva**](#factiva)                   | On-site access only   | Available at all Library Multimedia Stations (MMS)           |
+| Within the last 30 days | [**Factiva**](#factiva)                   | Limited remote access | Viewable from home; does not include articles published by SPH |
+| Within the last 7 days  | [**SPH Newspapers**](#sph-enewspapers)    | Full remote access    | Viewable from home                                           |
+
+\* Content published by non-SPH third parties (e.g. AFP, Reuters, Singapore Standard) are restricted to our on-site Multimedia Stations (MMS) only
+ ** Not available at the Esplanade and Chinatown Public Libraries. 
 
 ## NewspaperSG
 
@@ -62,7 +71,7 @@ To read an article, click on the article title. Doing so will direct you to the 
 
 <img src="\images\other-formats\newspapers-07.jpg" style="width:500px;" />
 
-On the right column of your browser, click the section highlighted in red to view the entire page which the article appears in. In this case - page 2 of the Morning Tribune 31 March 1941.
+On the right column of your browser, click the section highlighted in red to view the entire page which the article appears in. In this case - page 2 of the Morning Tribune 31 March 1941. Click on <u>Hide Article Zone</u> to remove the article borders. 
 
 <img src="\images\other-formats\newspapers-08.jpg" style="width:500px;" />
 
@@ -76,7 +85,7 @@ Clicking on the tab, the webpage will prompt you to choose between browsing by *
 
 <img src="\images\other-formats\newspapers-10.jpg" style="width:600px;" />
 
-Browsing by newspaper titles is simple and straight forward. From the dropdown menu, select the newspaper title you would like to read. Doing so will take you a page which holds information on the newspaper, as well as the copies held or digitised by the Library, in its top half. 
+Browsing by newspaper titles is simple and straight forward. From the dropdown menu, select the newspaper title you would like to read. Information on the relevant newspaper title and the copies currently held or digitised by the National Library will be displayed here. 
 
 <img src="\images\other-formats\newspapers-11.jpg" style="width:600px;" />
 
@@ -145,7 +154,7 @@ Finally, articles recovered from Factiva are **text-based** and will not have th
 
 <img src="\images\other-formats\newspapers-19.jpg" style="width:550px;" />
 
-This should direct you to the Search Builder. Simply enter your keywords and remember to adjust the date range. Note that the oldest SPH articles available on this database will only go back to 1989.
+This should direct you to the Search Builder. Simply enter your keywords and **remember to adjust the date** range. Note that the oldest SPH articles available on this database will only go back to 1989.
 
 As an example, the search term ‘SARS’ is used and the date range is set to ‘all dates’.
 
@@ -159,7 +168,7 @@ Here, the search is limited to articles from *The Straits Times*.
 
 <img src="\images\other-formats\newspapers-21.jpg" style="width:600px;" />
 
-Articles recovered from Factiva are **text-only** and will not have the relevant illustrations or graphics of the originals. Users are advised to use either NewspaperSG or SPH Newspapers to see full layout format.
+Articles recovered from Factiva are **text-only** and will not have the relevant illustrations or graphics of the originals. Users are advised to use either NewspaperSG or SPH Newspapers to see the articles in their full broadsheet layout.
 
 ## SPH eNewspapers
 
