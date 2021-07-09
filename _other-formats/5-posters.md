@@ -6,18 +6,17 @@ collection_name: other-formats
 published: true
 ---
 
-### Guide Index
-
-* [Posters](#posters)
-* [Using Archives Online](#archives-online)
-* [Using Onesearch](#onesearch)
-* [Locating posters on the NLB Catalogue](#locating-posters-on-the-nlb-catalogue)
-
-## Posters
+# Posters
 
 Posters refer to pictorial notices often issued for the promotion and marketing of programmes, campaigns and events. They form a record of issues of interest to Singaporeans and provide an important insight into the social, cultural and political concerns of the period it was created.
 
-The Lee Kong Chian Reference Library has over 4,000 posters either related to Singapore, or published by Singapore agencies and organisations in our collection.. Additionally, the National Archives of Singapore also holds an extensive collection of historical posters, most of which have been fully digitised for viewing on Archives Online. 
+The Lee Kong Chian Reference Library has over 4,000 posters either related to Singapore, or published by Singapore agencies and organisations in our collection. Additionally, the National Archives of Singapore also holds an extensive collection of over 5,000 historical posters, most of which have been fully digitised for viewing on Archives Online. 
+
+### Guide Index
+
+* [Using Archives Online](#archives-online)
+* [Using Onesearch](#onesearch)
+* [Locating posters on the NLB Catalogue](#locating-posters-on-the-nlb-catalogue)
 
 ### **Archives Online**
 
@@ -93,8 +92,6 @@ The second result directs to Archives Online, where the poster has been digitise
 
 <img src="\images\other-formats\posters-onesearch-09.png" style="width:600px;" />
 
-This concludes our step-by-step guide. Should you run into any issues, please approach our library staff for further assistance.
-
 ### **Locating posters on the NLB Catalogue**
 
 Currently, most posters in the library’s collection do not have a digital preview and must be viewed on-site. To locate these records, use the Advanced Search function on the [NLB Catalogue](https://catalogue.nlb.gov.sg/) to find the physical copies available on Level 11 of the Lee Kong Chian Reference Library. 
@@ -118,3 +115,5 @@ From here, click Search to pull up the National Library’s entire collection of
 Once done, please approach the Counter on Level 11 of the Lee Kong Chian Reference Library with the relevant Title and Call Number to retrieve the records for viewing. 
 
 <img src="\images\other-formats\posters-opac-04.png" style="width:500px;" />
+
+This concludes our step-by-step guide. Should you run into any issues, please approach our library staff for further assistance.
