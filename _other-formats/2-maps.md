@@ -12,13 +12,13 @@ Maps and charts hold immense historical and research value, helping to visualise
 
 The National Library and the National Archives of Singapore have an extensive collection of current and historical maps. The National Library's physical map collection is accessible from Level 11 of the Lee Kong Chian Reference Library. Some of our older maps, such as those of the [**David Parry Southeast Asian Map Collection**](https://eresources.nlb.gov.sg/printheritage/browse/David_Parry_Southeast_Asian.aspx){:target="blank"}, have been digitised and can be accessed for free through our [**BookSG**](https://eresources.nlb.gov.sg/printheritage/){:target="blank"} online platform. Most maps from the National Archives’ Collection are also digitised and are available for viewing through the [**Archives Online**](https://www.nas.gov.sg/archivesonline/){:target="blank"} and [**Spatial Discovery**](https://search.nlb.gov.sg/spatialdiscovery/){:target="blank"} websites. This guide will explain how to access the Library and Archives’ map collections.
 
-### Guide Index
+## Guide Index
 
-* [Locating physical map collections using the NLB Catalogue](#Locating-physical-map-collections-using-the-NLB-Catalogue)
-* [BookSG](#BookSG)
-* [Archives Online](#Archives-Online)
-* [Spatial Discovery](#Spatial-Discovery)
-* [OneSearch](#Onesearch)
+* [Locating physical map collections using the NLB Catalogue](#locating-physical-map-collections-using-the-nlb-Catalogue)
+* [BookSG](#booksg)
+* [Archives Online](#archives-online)
+* [Spatial Discovery](#spatial-discovery)
+* [OneSearch](#onesearch)
 
 ## Locating physical map collections using the NLB Catalogue
 
@@ -110,7 +110,7 @@ A handy feature of the geo-referenced maps on this platform is the overlay featu
 
  While on the [Spatial Discovery](https://search.nlb.gov.sg/spatialdiscovery/) homepage, select <u>View More</u> 
 
-<img src="\images\other-formats\maps-28.jpg" style="width:600px;" />
+<img src="\images\other-formats\maps-28.png" style="width:600px;" />
 
 This should redirect you to the map viewing page, where you can both view and add map overlays. Let’s take a closer look.
 
