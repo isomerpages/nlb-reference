@@ -60,8 +60,8 @@ links:
         url: /about-us/lkcrl/
       - title: Contact Us
         url: /contact-us/
-  - title: Reminiscence
-    url: /arl
+  - title: Reminiscence Library
+    url: /reminiscencelibrary
     sublinks:
       - title: Package 1
         url: /reminiscencelibrary-01
