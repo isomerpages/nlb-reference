@@ -11,8 +11,11 @@ Most of the guides in this section were developed for the [Singapore Biographica
 
 <p style = "font-size:20px">Names are listed in alphabetical order:</p>
 
-<details style= "font-size:20px; color:black">
-<summary><b>A - H</b></summary>
+<div class="new-accordion"><!--accordion start--> 
+<input type="checkbox" id="acc1">
+<label for="acc1"><b>A - H</b></label>
+<!--first accordion section-->
+<div class="new-accordion-content">
 <table style="width:100%">
 	<tr>
 		<td><b><a href = "/guides/singapore/people/aw-boon-haw">Aw Boon Haw / 胡文虎</a></b></td>
@@ -39,11 +42,11 @@ Most of the guides in this section were developed for the [Singapore Biographica
 		<td><b><a href = "/guides/singapore/people/huang-man-shi">Huang Man Shi / 黄曼士</a></b></td>
 	</tr>
 </table>
-</details>
-
-<p>
-<details style= "font-size:20px; color:black">
-<summary><b>I - S</b></summary>
+</div>
+<!--second accordion section-->
+<input type="checkbox" id="acc2">
+<label for="acc2"><b>I - S</b></label>
+<div class="new-accordion-content">
 <table style="width:100%">
 	<tr>
 		<td><b><a href = "/guides/singapore/people/koh-soh-goh/">Koh Soh Goh / 许甦吾</a></b></td>
@@ -82,11 +85,11 @@ Most of the guides in this section were developed for the [Singapore Biographica
 		<td><b><a href = "/guides/singapore/people/seow-poh-leng">Seow Poh Leng / 萧保龄</a></b></td>
 	</tr>
 </table>
-</details>
-
-<p>
-<details style= "font-size:20px; color:black">
-<summary><b>T - Z</b></summary>
+</div>
+<!--third accordion section-->
+<input type="checkbox" id="acc3">
+<label for="acc3"><b>T - Z</b></label>
+<div class="new-accordion-content">
 <table style="width:100%">
 	<tr>
 		<td><b><a href = "/guides/singapore/people/tan-boo-liat/">Tan Boo Liat / 陈武烈</a></b></td>
@@ -129,6 +132,6 @@ Most of the guides in this section were developed for the [Singapore Biographica
 	</tr>
 </table>
 </details>
+</div><!--accordion end--> 
 
 <p>
-
