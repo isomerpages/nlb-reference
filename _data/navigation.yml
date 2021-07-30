@@ -50,9 +50,4 @@ links:
       - title: Contact Us
         url: /contact-us/
   - title: Reminiscence Library
-    url: /reminiscencelibrary
-    sublinks:
-      - title: Package 1
-        url: /reminiscencelibrary-01
-  - title: Reminiscence Library
     collection: reminiscence-library
