@@ -1,7 +1,7 @@
 ---
 title: Short Stories (Tamil)
 permalink: /guides/arts/literaryarts/singaporetamilliterature/short-stories
-breadcrumb: Bibliography of Singapore Tamil Literature: Short Stories
+breadcrumb: Bibliography of Singapore Tamil Literature - Short Stories
 collection_name: arts-lit-arts
 third_nav_title: Bibliography of Singapore Tamil Literature
 published: true

@@ -1,7 +1,7 @@
 ---
 title: Criticism and Research (Chinese)
 permalink: /guides/arts/literaryarts/singaporechineseliterature/criticism-and-research
-breadcrumb: Bibliography of Singapore Chinese Literature: Criticism and Research
+breadcrumb: Bibliography of Singapore Chinese Literature - Criticism and Research
 collection_name: arts-lit-arts
 third_nav_title: Bibliography of Singapore Chinese Literature
 published: true

@@ -1,5 +1,5 @@
 ---
-title: Huang Man Shi 黄曼士
+title: Huang Man Shi
 permalink: /guides/singapore/people/huang-man-shi/
 breadcrumb: Huang Man Shi
 collection_name: singapore-people

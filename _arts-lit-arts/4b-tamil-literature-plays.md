@@ -1,7 +1,7 @@
 ---
 title: Plays (Tamil)
 permalink: /guides/arts/literaryarts/singaporetamilliterature/plays
-breadcrumb: Bibliography of Singapore Tamil Literature: Plays
+breadcrumb: Bibliography of Singapore Tamil Literature - Plays
 collection_name: arts-lit-arts
 third_nav_title: Bibliography of Singapore Tamil Literature
 published: true

@@ -1,7 +1,7 @@
 ---
 title: Novels (Tamil)
 permalink: /guides/arts/literaryarts/singaporetamilliterature/novel
-breadcrumb: Bibliography of Singapore Tamil Literature: Novels
+breadcrumb: Bibliography of Singapore Tamil Literature - Novels
 collection_name: arts-lit-arts
 third_nav_title: Bibliography of Singapore Tamil Literature
 published: true
