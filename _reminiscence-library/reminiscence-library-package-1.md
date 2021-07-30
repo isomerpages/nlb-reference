@@ -1,7 +1,8 @@
 ---
 title: Reminiscence Library Package 1
-permalink: /reminiscencelibrary-01
+permalink: /reminiscence-library/reminiscencelibrary-01
 ---
+
 # Testing
 
 package 1
