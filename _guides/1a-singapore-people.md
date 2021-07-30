@@ -12,9 +12,9 @@ Most of the guides in this section were developed for the [Singapore Biographica
 <p style = "font-size:20px">Names are listed in alphabetical order:</p>
 
 <div class="new-accordion"><!--accordion start--> 
+<!--first accordion section-->
 <input type="checkbox" id="acc1">
 <label for="acc1"><b>A - H</b></label>
-<!--first accordion section-->
 <div class="new-accordion-content">
 <table style="width:100%">
 	<tr>
@@ -131,7 +131,5 @@ Most of the guides in this section were developed for the [Singapore Biographica
 		<td><b><a href = "/guides/singapore/people/zhang-liqian"> Zhang Liqian / 张礼千</a></b></td>
 	</tr>
 </table>
-</details>
+</div>
 </div><!--accordion end--> 
-
-<p>

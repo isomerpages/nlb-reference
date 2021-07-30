@@ -7,8 +7,10 @@ third_nav_title: Arts
 ---
 <img src="/images/category/literary-arts.jpg" alt="literary arts banner" style="width:800px;" />
 
-<details style= "font-size:20px">
-<summary><b>Sastera Melayu Singapura</b></summary>
+<div class="new-accordion"><!--accordion start--> 
+<!--first accordion section-->
+<input type="checkbox" id="acc1">
+<label for="acc1"><b>Sastera Melayu Singapura</b></label>
 <table style="width:100%">
   <tr>
     <td><b><a href = "/guides/arts/literaryarts/sasteramelayusingapura/novel">Novel</a></b></td>
@@ -22,11 +24,10 @@ third_nav_title: Arts
     <td><b><a href = "/guides/arts/literaryarts/sasteramelayusingapura/drama">Drama</a></b></td>
   </tr>
 </table>
-</details>
-<p>
-
-<details style= "font-size:20px">
-<summary><b>新加坡华文文学书目</b></summary>
+</div>
+<!--second accordion section-->
+<input type="checkbox" id="acc2">
+<label for="acc2"><b>新加坡华文文学书目</b></label>
 <table style="width:100%">
   <tr>
     <td><b><a href = "/guides/arts/literaryarts/singaporechineseliterature/poetry">诗歌</a></b></td>
@@ -40,10 +41,10 @@ third_nav_title: Arts
     <td><b><a href = "/guides/arts/literaryarts/singaporechineseliterature/novels">小说</a></b></td>
   </tr>
 </table>
-</details>
-<p>
-<details style= "font-size:20px">
-<summary><b>Singapore Literature in English</b></summary>
+</div>
+<!--third accordion section-->
+<input type="checkbox" id="acc3">
+<label for="acc3"><b>Singapore Literature in English</b></label>
 <table style="width:100%">
   <tr>
     <td><b><a href = "/guides/arts/literaryarts/singaporeenglishliterature/miscellaneous">Miscellaneous</a></b></td>
@@ -62,12 +63,10 @@ third_nav_title: Arts
     <td><b><a href = "/guides/arts/literaryarts/singaporeenglishliterature/anthologies">Anthologies</a></b></td>
   </tr>
 </table>
-</details>
-<p>
-
-
-<details style= "font-size:20px">
-<summary><b>சிங்கப்பூர்த் தமிழ் இலக்கியம்</b></summary>
+</div>
+<!--fourth accordion section-->
+<input type="checkbox" id="acc4">
+<label for="acc4"><b>சிங்கப்பூர்த் தமிழ் இலக்கியம்</b></label>
 <table style="width:100%">
   <tr>
     <td><b><a href = "/guides/arts/literaryarts/singaporetamilliterature/novel">புதினம்</a></b></td>
@@ -81,5 +80,5 @@ third_nav_title: Arts
     <td><b><a href = "/guides/arts/literaryarts/singaporetamilliterature/articles-and-research">கட்டுரைகள், ஆய்வுக் கட்டுரைகள்</a></b></td>
   </tr>
 </table>
-</details>
-<p>
+</div>
+</div><!--accordion end--> 
