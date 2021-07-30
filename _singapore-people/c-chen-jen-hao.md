@@ -1,5 +1,5 @@
 ---
-title: Chen Jen Hao 陈人浩
+title: Chen Jen Hao
 permalink: /guides/singapore/people/chen-jen-hao/
 breadcrumb: Chen Jen Hao
 collection_name: singapore-people

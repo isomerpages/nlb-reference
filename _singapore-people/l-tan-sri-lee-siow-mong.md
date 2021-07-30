@@ -1,5 +1,5 @@
 ---
-title: Lee Siow Mong 李绍茂
+title: Lee Siow Mong
 permalink: /guides/singapore/people/lee-siow-mong/
 breadcrumb: Lee Siow Mong
 collection_name: singapore-people
@@ -18,7 +18,7 @@ published: true
 
 ### <u>Introduction</u>
 
-Tan Sri Lee Siow Mong (李绍茂) (1915 – 1989), also known as Lee Shao Mao, was a distinguished civil servant who had served in both the Singapore Civil Service and the public service of Malaysia. Lee was one of the four pairs of locals who were inducted into the Straits Settlement Civil Service since its establishment in 1934. He began his career opening letters and disseminating them to relevant departments for the Accountant-General in the Treasury. One of his last assignments in the Singapore Civil Service was to oversee the formation of the National Theatre and the television service in Singapore as the Permanent Secretary in the Ministry of Culture. He retired from the Singapore Civil Service in May 1965 and started work for the Malaysian government as General Manager of the Employees Provident Fund in December 1965, a position he held for the next 15 years till his retirement from the public service of Malaysia. He was conferred a Royal Award, the title of Johan Mangku Negara in June 1974 by Yang di-Pertuan Agong. Lee passed away in August 1989.
+Tan Sri Lee Siow Mong (李绍茂; 1915 – 1989), also known as Lee Shao Mao, was a distinguished civil servant who had served in both the Singapore Civil Service and the public service of Malaysia. Lee was one of the four pairs of locals who were inducted into the Straits Settlement Civil Service since its establishment in 1934. He began his career opening letters and disseminating them to relevant departments for the Accountant-General in the Treasury. One of his last assignments in the Singapore Civil Service was to oversee the formation of the National Theatre and the television service in Singapore as the Permanent Secretary in the Ministry of Culture. He retired from the Singapore Civil Service in May 1965 and started work for the Malaysian government as General Manager of the Employees Provident Fund in December 1965, a position he held for the next 15 years till his retirement from the public service of Malaysia. He was conferred a Royal Award, the title of Johan Mangku Negara in June 1974 by Yang di-Pertuan Agong. Lee passed away in August 1989.
 
  
 

@@ -1,5 +1,5 @@
 ---
-title: Chuang Chu Lin 庄竹林
+title: Chuang Chu Lin
 permalink: /guides/singapore/people/chuang-chu-lin/
 breadcrumb: Chuang Chu Lin
 collection_name: singapore-people
@@ -17,7 +17,7 @@ published: true
 
 ### <u>Introduction</u>
 
-Chuang Chu Lin (庄竹林) (1900 ﹘1973) was originally from Huian County, Fujian province, China. He completed his primary and secondary education in Fujian and graduated from Fukien Christen University. Chuang went to America in 1929 to study at the University of Michigan. He graduated with a master in municipal administration and, subsequently, a doctorate degree in political science in 1933. He was later employed by Sun Yat-sen University as a professor teaching political science. Chuang came to Singapore in 1939 to be the principal of Chung Cheng High School, where he remained for 18 years. Under Chuang’s leadership, Chung Cheng High School became the largest secondary school in Singapore. In 1957, he was arrested by the government due to student activism in Chung Cheng High School, but was later released. He was the vice-chancellor of Nanyang University from 1960 to 1964. Chuang passed away on 4 January 1973. The elegiac couplet written by his students reads: “He founded Chung Cheng, developed Nanyang University, and dedicated his life to education. These are his achievements. He was like the rain blessing the earth, and a spring wind blowing gently on everyone. The mountains shall lie crumbled and the trees ruined as they mourn at his passing.”
+Chuang Chu Lin (庄竹林; 1900 ﹘1973) was originally from Huian County, Fujian province, China. He completed his primary and secondary education in Fujian and graduated from Fukien Christen University. Chuang went to America in 1929 to study at the University of Michigan. He graduated with a master in municipal administration and, subsequently, a doctorate degree in political science in 1933. He was later employed by Sun Yat-sen University as a professor teaching political science. Chuang came to Singapore in 1939 to be the principal of Chung Cheng High School, where he remained for 18 years. Under Chuang’s leadership, Chung Cheng High School became the largest secondary school in Singapore. In 1957, he was arrested by the government due to student activism in Chung Cheng High School, but was later released. He was the vice-chancellor of Nanyang University from 1960 to 1964. Chuang passed away on 4 January 1973. The elegiac couplet written by his students reads: “He founded Chung Cheng, developed Nanyang University, and dedicated his life to education. These are his achievements. He was like the rain blessing the earth, and a spring wind blowing gently on everyone. The mountains shall lie crumbled and the trees ruined as they mourn at his passing.”
 
 
 ### <u>Selected books on Chuang Chu Lin</u>

@@ -1,5 +1,5 @@
 ---
-title: Tso Ping Lung 左秉隆
+title: Tso Ping Lung
 permalink: /guides/singapore/people/tso-ping-lung/
 breadcrumb: Tso Ping Lung
 collection_name: singapore-people
@@ -18,7 +18,7 @@ published: true
 
 ### <u>Introduction</u>
 
-Tso Ping Lung (左秉隆) (1850–1924) was the first officially appointed Chinese consul of Singapore by the Qing empire. He served for 10 years from 1881 to 1891, and was subsequently transferred to Hong Kong. Tso returned to Singapore for the second time in 1907 to serve as consul-general for the Straits Settlements until his resignation in 1910. He remained in Singapore until 1916 before moving to Hong Kong, subsequently returning to Guangzhou, China that the same year. Tso was a qualified translator and was fluent in English. During his term in Singapore, he focused on strengthening cultural links with China and also established several free schools. He started the first Chinese literary society in Southeast Asia known as Hui Hsien She (会贤社), with the aim of spreading Chinese culture. He also served as the first president of the English-medium debating society for Chinese called the Celestial Reasoning Association (英语雄辩会). Besides culture and education, Tso promoted the protection of women and girls, and banned the trafficking of Chinese workers. Tso passed away in Guangzhou in 1924.
+Tso Ping Lung (左秉隆; 1850–1924) was the first officially appointed Chinese consul of Singapore by the Qing empire. He served for 10 years from 1881 to 1891, and was subsequently transferred to Hong Kong. Tso returned to Singapore for the second time in 1907 to serve as consul-general for the Straits Settlements until his resignation in 1910. He remained in Singapore until 1916 before moving to Hong Kong, subsequently returning to Guangzhou, China that the same year. Tso was a qualified translator and was fluent in English. During his term in Singapore, he focused on strengthening cultural links with China and also established several free schools. He started the first Chinese literary society in Southeast Asia known as Hui Hsien She (会贤社), with the aim of spreading Chinese culture. He also served as the first president of the English-medium debating society for Chinese called the Celestial Reasoning Association (英语雄辩会). Besides culture and education, Tso promoted the protection of women and girls, and banned the trafficking of Chinese workers. Tso passed away in Guangzhou in 1924.
 
  
 

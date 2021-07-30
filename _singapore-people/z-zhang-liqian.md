@@ -1,5 +1,5 @@
 ---
-title: Zhang Liqian 张礼千
+title: Zhang Liqian
 permalink: /guides/singapore/people/zhang-liqian/
 breadcrumb: Zhang Liqian
 collection_name: singapore-people
@@ -15,7 +15,7 @@ published: true
 
 ### <u>Introduction</u>
 
-Zhang Liqian (张礼千) (1900﹘1955) was born in Nanhui, Jiangsu province, China in 1900, and arrived in Southeast Asia in the late 1920s. He was a teacher at Pay Fong High School in Malacca and was the principal of the Chinese High School in Singapore from 1932 to 1933. Zhang was ordered by the colonial government to leave the country for supporting student protests. He returned to Singapore in 1939. He was employed by Chinese-language daily newspaper Sin Chew Jit Poh as an editor for its commemorative publication Ten years of Singapore (《星洲十年》), and later became the chief editor of the economics supplement of the newspaper. Zhang, together with Hsu Yun Tsiao, Yao Nan and several others, founded the South Seas Society in 1940. Zhang returned to China in 1941. He was a professor at the Department of Oriental Language at Peking University in 1949. Zhang could not tolerate criticism levelled against him and committed suicide in 1955 by jumping into a lake.
+Zhang Liqian (张礼千; 1900﹘1955) was born in Nanhui, Jiangsu province, China in 1900, and arrived in Southeast Asia in the late 1920s. He was a teacher at Pay Fong High School in Malacca and was the principal of the Chinese High School in Singapore from 1932 to 1933. Zhang was ordered by the colonial government to leave the country for supporting student protests. He returned to Singapore in 1939. He was employed by Chinese-language daily newspaper Sin Chew Jit Poh as an editor for its commemorative publication Ten years of Singapore (《星洲十年》), and later became the chief editor of the economics supplement of the newspaper. Zhang, together with Hsu Yun Tsiao, Yao Nan and several others, founded the South Seas Society in 1940. Zhang returned to China in 1941. He was a professor at the Department of Oriental Language at Peking University in 1949. Zhang could not tolerate criticism levelled against him and committed suicide in 1955 by jumping into a lake.
 
 
 ### <u>Selected books on Zhang Liqian</u>

@@ -1,9 +1,9 @@
 ---
-title: கவிதைகள்
+title: Poems (Tamil)
 permalink: /guides/arts/literaryarts/singaporetamilliterature/poems
-breadcrumb: சிங்கப்பூர்த் தமிழ் இலக்கியம் – கவிதைகள்
+breadcrumb: Bibliography of Singapore Tamil Literature: Poems
 collection_name: arts-lit-arts
-third_nav_title: சிங்கப்பூர்த் தமிழ் இலக்கியம்
+third_nav_title: Bibliography of Singapore Tamil Literature
 published: true
 ---
 

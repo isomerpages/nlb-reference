@@ -1,5 +1,5 @@
 ---
-title: Yeh Chih Yun 叶季允
+title: Yeh Chih Yun
 permalink: /guides/singapore/people/yeh-chih-yun/
 breadcrumb: Yeh Chih Yun
 collection_name: singapore-people

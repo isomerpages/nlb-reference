@@ -1,5 +1,5 @@
 ---
-title: See Hoot Kee 薛佛记
+title: See Hoot Kee
 permalink: /guides/singapore/people/see-hoot-kee/
 breadcrumb: See Hoot Kee
 collection_name: singapore-people

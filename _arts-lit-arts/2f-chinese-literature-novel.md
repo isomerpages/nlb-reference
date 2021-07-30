@@ -1,9 +1,9 @@
 ---
-title: 小说 
+title: Novels (Chinese)
 permalink: /guides/arts/literaryarts/singaporechineseliterature/novels
-breadcrumb: 新加坡华文文学书目：小说 
+breadcrumb: Bibliography of Singapore Chinese Literature: Novels
 collection_name: arts-lit-arts
-third_nav_title: 新加坡华文文学书目
+third_nav_title: Bibliography of Singapore Chinese Literature
 published: true
 ---
 

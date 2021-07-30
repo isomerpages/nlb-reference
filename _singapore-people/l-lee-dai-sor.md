@@ -1,5 +1,5 @@
 ---
-title: Lee Dai Sor 李大傻
+title: Lee Dai Sor
 permalink: /guides/singapore/people/lee-dai-sor/
 breadcrumb: Lee Dai Sor
 collection_name: singapore-people
@@ -17,7 +17,7 @@ published: true
 
 ### <u>Introduction</u>
 
-Lee Dai Sor (李大傻or 李福鸿) (1913 – 1989), or Lee Dai Soh, Li Da Sha, Lee Fook Hai or Lee Fook Hong, was a renowned Cantonese storyteller. His legacy began in 1938 when he joined Radio Televisyen Malaysia (RTM), a Malaysian public broadcaster. He hosted a Cantonese programme, Tam Tin Shuit Tei, which ran for more than 30 years. Lee’s career took off when Rediffusion began operations in Singapore in 1949. He was, however, affected when the Malaysian Radio and Television Corporation decided that he could not continue hosting their programmes because he was not a Malaysian citizen. The launch of the Speak Mandarin Campaign in 1979 dealt a further blow to his career when Rediffusion and the other local Singapore radio stations were directed to cease all dialect programmes by the end of 1982. Lee left broadcasting on 30 December 1982. He continued to entertain audiences with his storytelling performances at clan associations and public events. Lee passed away on 23 March 1989 at the age of 76.
+Lee Dai Sor (李大傻or 李福鸿; 1913 – 1989), or Lee Dai Soh, Li Da Sha, Lee Fook Hai or Lee Fook Hong, was a renowned Cantonese storyteller. His legacy began in 1938 when he joined Radio Televisyen Malaysia (RTM), a Malaysian public broadcaster. He hosted a Cantonese programme, Tam Tin Shuit Tei, which ran for more than 30 years. Lee’s career took off when Rediffusion began operations in Singapore in 1949. He was, however, affected when the Malaysian Radio and Television Corporation decided that he could not continue hosting their programmes because he was not a Malaysian citizen. The launch of the Speak Mandarin Campaign in 1979 dealt a further blow to his career when Rediffusion and the other local Singapore radio stations were directed to cease all dialect programmes by the end of 1982. Lee left broadcasting on 30 December 1982. He continued to entertain audiences with his storytelling performances at clan associations and public events. Lee passed away on 23 March 1989 at the age of 76.
 
  
 

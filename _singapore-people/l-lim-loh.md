@@ -1,5 +1,5 @@
 ---
-title: Lim Loh 林路
+title: Lim Loh
 permalink: /guides/singapore/people/lim-loh/
 breadcrumb: Lim Loh
 collection_name: singapore-people
@@ -15,7 +15,7 @@ published: true
 
 ### <u>Introduction</u>
 
-Lim Loh (林路) (1852 – 1929), also known as Lim Chee Gee (林志义), 林露, or 林云龙, was born in Nan’an County in Fujian Province, China. He arrived at Penang in 1880 and moved to Singapore a few months later. He was a pioneer building contractor who built several well-known buildings like the Victoria Memorial Hall, Old Parliament House, Goodwood Park Hotel and Hong San See Temple. Besides being in the trading and construction businesses, he also owned a rubber plantation that was then bounded by Braddell, Woskel and Upper Serangoon roads; two brick factories and a biscuit factory around Braddell Heights. He had six wives, 19 sons, 10 of whom were adopted, and nine daughters. War hero Lim Bo Seng was his 11th son and first born. Lim Loh passed away at 77 on 11 December 1929.
+Lim Loh (林路; 1852 – 1929), also known as Lim Chee Gee (林志义), 林露, or 林云龙, was born in Nan’an County in Fujian Province, China. He arrived at Penang in 1880 and moved to Singapore a few months later. He was a pioneer building contractor who built several well-known buildings like the Victoria Memorial Hall, Old Parliament House, Goodwood Park Hotel and Hong San See Temple. Besides being in the trading and construction businesses, he also owned a rubber plantation that was then bounded by Braddell, Woskel and Upper Serangoon roads; two brick factories and a biscuit factory around Braddell Heights. He had six wives, 19 sons, 10 of whom were adopted, and nine daughters. War hero Lim Bo Seng was his 11th son and first born. Lim Loh passed away at 77 on 11 December 1929.
 
  
 

@@ -1,5 +1,5 @@
 ---
-title: Tan Chor Lam 陈楚楠
+title: Tan Chor Lam
 permalink: /guides/singapore/people/tan-chor-lam/
 breadcrumb: Tan Chor Lam
 collection_name: singapore-people
@@ -16,7 +16,7 @@ published: true
 
 ### <u>Introduction</u>
 
-Tan Chor Lam (陈楚楠, also known as Tan Lian Chye, 陈连才) (1884–1971), was the youngest son of Tan Tye, a wealthy merchant. Born in 1884 in Singapore, Tan received a private Chinese education and learned English and Malay at the same time.
+Tan Chor Lam (陈楚楠, also known as Tan Lian Chye, 陈连才; 1884–1971), was the youngest son of Tan Tye, a wealthy merchant. Born in 1884 in Singapore, Tan received a private Chinese education and learned English and Malay at the same time.
 
 Along with his childhood friend and neighbour, Teo Eng Hock, Tan Chor Lam was noted for his contributions towards the 1911 Chinese revolution. Both Tan and Teo set up a newspaper, Thoe Lam Jit Poh (图南日报), in 1904 to advocate revolutionary ideals. They first met Sun Yat Sen in 1905 through both the newspaper and an introduction from Yau Lit, and became Sun’s supporters.
 

@@ -1,5 +1,5 @@
 ---
-title: Yin Suat Chuan 殷雪村
+title: Yin Suat Chuan
 permalink: /guides/singapore/people/yin-suat-chuan/
 breadcrumb: Yin Suat Chuan
 collection_name: singapore-people
@@ -15,7 +15,7 @@ published: true
 
 ### <u>Introduction</u>
 
-Born in Xiamen, Fujian in China, Yin Suat Chuan (殷雪村) (1876–1958), was a Western-trained medical doctor. He came to Singapore in 1898 to work as a court interpreter. He left Singapore the following year to study medicine at the University of Michigan in the United States and completed his training at Toronto University in Canada. He obtained his postgraduate degree at University College London in 1904. He worked in several major hospitals in London before returning to Singapore to join his brother-in-law, Lim Boon Keng, in private practice. Yin and Lim established the Anti-Opium Society in 1906 and opened an opium refuge centre for addicts. Yin was the co-founder of the Eastern United Assurance Corporation, Overseas Assurance Corporation, Oversea-Chinese Bank Ltd and General Chinese Trade Affairs Association. He was also the founding president of the Straits Chinese Football Association, a municipal commissioner, and was made a Justice of Peace in 1925. Yin passed away on 2 April 1958 at 82.
+Born in Xiamen, Fujian in China, Yin Suat Chuan (殷雪村; 1876–1958), was a Western-trained medical doctor. He came to Singapore in 1898 to work as a court interpreter. He left Singapore the following year to study medicine at the University of Michigan in the United States and completed his training at Toronto University in Canada. He obtained his postgraduate degree at University College London in 1904. He worked in several major hospitals in London before returning to Singapore to join his brother-in-law, Lim Boon Keng, in private practice. Yin and Lim established the Anti-Opium Society in 1906 and opened an opium refuge centre for addicts. Yin was the co-founder of the Eastern United Assurance Corporation, Overseas Assurance Corporation, Oversea-Chinese Bank Ltd and General Chinese Trade Affairs Association. He was also the founding president of the Straits Chinese Football Association, a municipal commissioner, and was made a Justice of Peace in 1925. Yin passed away on 2 April 1958 at 82.
 
  
 

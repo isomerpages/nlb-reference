@@ -1,5 +1,5 @@
 ---
-title: Chia Ann Siang 谢安祥
+title: Chia Ann Siang
 permalink: /guides/singapore/people/chia-ann-siang/
 breadcrumb: Chia Ann Siang
 collection_name: singapore-people
@@ -16,7 +16,7 @@ published: true
 
 ### <u>Introduction</u>
 
-Chia Ann Siang (谢安祥) (1832–1892) was a Hokkien merchant born in Malacca. In 1848, when he was 16, Chia was hired by British firm Boustead and Company who traded in natural resources such as spices, coconut, tobacco, tin, tea and silk. Due to high demand, business was so good that Boustead’s ships plied the China-Europe routes in the early 19th century.
+Chia Ann Siang (谢安祥; 1832–1892) was a Hokkien merchant born in Malacca. In 1848, when he was 16, Chia was hired by British firm Boustead and Company who traded in natural resources such as spices, coconut, tobacco, tin, tea and silk. Due to high demand, business was so good that Boustead’s ships plied the China-Europe routes in the early 19th century.
 
 After eight years on the job, Chia was promoted to Chief Produce Storekeeper. After over 40 years of service in the company, he retired in 1890. Since 1863, Chia was also a partner of Geok Teat and Company. He became one of the richest landowner and leading merchants of his time in Singapore, and acquired Gemmill’s Hill, whose name was later changed to Ann Siang Hill, as well as Mount Erskine. He was also an generous philanthropist and donated to the building funds of institutions such as Chongwen Ge (崇文阁) next to the Thian Hock Keng Temple (天福宫) at Telok Ayer Street, and Cuiying Shuyuan (萃英书院) at Amoy Street. Chia passed away in 1892, aged 60.
 

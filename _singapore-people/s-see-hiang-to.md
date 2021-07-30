@@ -1,5 +1,5 @@
 ---
-title: See Hiang To 施香沱
+title: See Hiang To
 permalink: /guides/singapore/people/see-hiang-to/
 breadcrumb: See Hiang To
 collection_name: singapore-people

@@ -1,5 +1,5 @@
 ---
-title: Wee Bin 黄敏
+title: Wee Bin
 permalink: /guides/singapore/people/wee-bin/
 breadcrumb: Wee Bin
 collection_name: singapore-people
@@ -14,7 +14,7 @@ published: true
 
 ### <u>Introduction</u>
 
-Wee Bin (黄敏; Huang Min) (1823, Fujian, China–1868, Singapore) was a prominent Chinese Hokkien merchant in the 19th century. He founded Wee Bin & Co. (chop Hong Guan), which was primarily a shipping company located on Market Street.
+Wee Bin (黄敏 or Huang Min; 1823, Fujian, China–1868, Singapore) was a prominent Chinese Hokkien merchant in the 19th century. He founded Wee Bin & Co. (chop Hong Guan), which was primarily a shipping company located on Market Street.
 
 Wee Bin & Co. started off partnering businesses in Bali in the Dutch East Indies, and the company became the biggest importer of goods from Bali, trading in all manner of earthenware. The company grew to own as many as 20 ships, servicing the trade routes to China, Malaya and the East Indies.
 

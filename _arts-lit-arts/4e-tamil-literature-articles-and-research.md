@@ -1,9 +1,9 @@
 ---
-title: கட்டுரைகள், ஆய்வுக் கட்டுரைகள்
+title: Articles and Research (Tamil)
 permalink: /guides/arts/literaryarts/singaporetamilliterature/articles-and-research
-breadcrumb: சிங்கப்பூர்த் தமிழ் இலக்கியம் – கட்டுரைகள், ஆய்வுக் கட்டுரைகள்
+breadcrumb: Bibliography of Singapore Tamil Literature: Articles and Research
 collection_name: arts-lit-arts
-third_nav_title: சிங்கப்பூர்த் தமிழ் இலக்கியம்
+third_nav_title: Bibliography of Singapore Tamil Literature
 published: true
 ---
 

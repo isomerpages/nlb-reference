@@ -1,5 +1,5 @@
 ---
-title: Low Ing Sing 刘仁心
+title: Low Ing Sing
 permalink: /guides/singapore/people/low-ing-sing/
 breadcrumb: Low Ing Sing
 collection_name: singapore-people

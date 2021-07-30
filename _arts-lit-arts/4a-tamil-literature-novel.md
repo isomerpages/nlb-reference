@@ -1,9 +1,9 @@
 ---
-title: புதினம்
+title: Novels (Tamil)
 permalink: /guides/arts/literaryarts/singaporetamilliterature/novel
-breadcrumb: சிங்கப்பூர்த் தமிழ் இலக்கியம் – புதினம்
+breadcrumb: Bibliography of Singapore Tamil Literature: Novels
 collection_name: arts-lit-arts
-third_nav_title: சிங்கப்பூர்த் தமிழ் இலக்கியம்
+third_nav_title: Bibliography of Singapore Tamil Literature
 published: true
 ---
 

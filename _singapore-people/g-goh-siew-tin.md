@@ -1,5 +1,5 @@
 ---
-title: Goh Siew Tin 吴寿珍
+title: Goh Siew Tin
 permalink: /guides/singapore/people/goh-siew-tin/
 breadcrumb: Goh Siew Tin
 collection_name: singapore-people
@@ -15,7 +15,7 @@ published: true
 
 ### <u>Introduction</u>
 
-Goh Siew Tin (吴寿珍, also known as 吴世奇) (1854–1909) was the first president of the General Chinese Trade Affairs Association in 1906 and again in 1908. He was its vice-president in 1907, before the establishment was renamed the Singapore Chinese Chamber of Commerce in 1917. Goh was born in Singapore and was the second-generation owner of Chop Ann Hoe (万安号), a tin, timber and export business that was set up by his father who had migrated from Fujian, China to Singapore. In 1898, Goh was appointed as a committee member of Poh Leung Kuk, an establishment that protected women and children. Goh was also the first chairman of the founding school board of Tao Nan School in 1906, which was then known as Dao Nan Xue Tang (道南学堂), one of the schools set up by the Singapore Hokkien Huay Kuan.
+Goh Siew Tin (吴寿珍, also known as 吴世奇; 1854–1909) was the first president of the General Chinese Trade Affairs Association in 1906 and again in 1908. He was its vice-president in 1907, before the establishment was renamed the Singapore Chinese Chamber of Commerce in 1917. Goh was born in Singapore and was the second-generation owner of Chop Ann Hoe (万安号), a tin, timber and export business that was set up by his father who had migrated from Fujian, China to Singapore. In 1898, Goh was appointed as a committee member of Poh Leung Kuk, an establishment that protected women and children. Goh was also the first chairman of the founding school board of Tao Nan School in 1906, which was then known as Dao Nan Xue Tang (道南学堂), one of the schools set up by the Singapore Hokkien Huay Kuan.
 
 
 ### <u>Selected books on Goh Siew Tin</u>

@@ -1,5 +1,5 @@
 ---
-title: Koh Soh Goh 许甦吾
+title: Koh Soh Goh
 permalink: /guides/singapore/people/koh-soh-goh/
 breadcrumb: Koh Soh Goh
 collection_name: singapore-people
@@ -16,7 +16,7 @@ published: true
 
 ### <u>Introduction</u>
 
-Koh Soh Goh (许甦吾, Xu Suwu) (1908, Fujian, China–1988), also known as Xu Zhenxun (许振勋) and Xu Suwo (许苏我), was born in 1908 in Hui’an county in Fujian, China. In the autumn of 1922, Koh enrolled in Peiyuan Middle School in Quanzhou city. After his graduation in 1927, he became a primary and middle school teacher. In 1936, Koh moved to Gulang Yu in Xiamen, where he taught at Tongwen Middle School while working as an editor-and-translator for the Christian church. In 1938, Koh became the personal Chinese secretary of American missionary, Reverend Poppen. Koh lived in the American Church for two years to establish a school and maintained a low profile so as to evade the Japanese army. In 1941, Koh changed his name to Suwu and moved to Hong Kong, then to Singapore later that year. In Singapore, he went into business in an attempt to disguise his identity, and returned to teaching only after the Japanese surrendered in 1945. In 1947, Koh became the head of the sales at Nanyang Bookstore upon the invitation of its owner Tan Yeok Seong (陈育崧), and was promoted to managing director in 1949. When Nanyang Bookstore folded in 1962, Koh bought over its printing equipment and set up the South Seas Publishers in 1963. He continued to write for local newspapers and publications in his later years, under pseudonyms such as Suwu, Suwo and Qiyu. Koh passed away in 1988.
+Koh Soh Goh (许甦吾, Xu Suwu; 1908, Fujian, China–1988), also known as Xu Zhenxun (许振勋) and Xu Suwo (许苏我), was born in 1908 in Hui’an county in Fujian, China. In the autumn of 1922, Koh enrolled in Peiyuan Middle School in Quanzhou city. After his graduation in 1927, he became a primary and middle school teacher. In 1936, Koh moved to Gulang Yu in Xiamen, where he taught at Tongwen Middle School while working as an editor-and-translator for the Christian church. In 1938, Koh became the personal Chinese secretary of American missionary, Reverend Poppen. Koh lived in the American Church for two years to establish a school and maintained a low profile so as to evade the Japanese army. In 1941, Koh changed his name to Suwu and moved to Hong Kong, then to Singapore later that year. In Singapore, he went into business in an attempt to disguise his identity, and returned to teaching only after the Japanese surrendered in 1945. In 1947, Koh became the head of the sales at Nanyang Bookstore upon the invitation of its owner Tan Yeok Seong (陈育崧), and was promoted to managing director in 1949. When Nanyang Bookstore folded in 1962, Koh bought over its printing equipment and set up the South Seas Publishers in 1963. He continued to write for local newspapers and publications in his later years, under pseudonyms such as Suwu, Suwo and Qiyu. Koh passed away in 1988.
 
 
 ### <u>Selected books on Koh Soh Goh</u>

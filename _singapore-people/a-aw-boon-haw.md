@@ -1,5 +1,5 @@
 ---
-title: Aw Boon Haw 胡文虎
+title: Aw Boon Haw
 permalink: /guides/singapore/people/aw-boon-haw/
 breadcrumb: Aw Boon Haw
 collection_name: singapore-people
@@ -17,7 +17,7 @@ published: true
 
 ### <u>Introduction</u>
 
-Aw Boon Haw (1882﹘1954), whose name means gentle tiger, was also nicknamed the Tiger Balm King. He is known for establishing the Chinese cure-all ointment, Tiger Balm, and for building a business empire around it. His other contributions include Haw Par Villa (also known as Tiger Balm Gardens) in Singapore, as well as setting up the local Chinese newspaper, Sin Chew Jit Poh. Aw was a philanthropist, funding the construction of schools, hospitals, maternity clinics, orphanages and homes for the aged.
+Aw Boon Haw (胡文虎; 1882﹘1954), whose name means gentle tiger, was also nicknamed the Tiger Balm King. He is known for establishing the Chinese cure-all ointment, Tiger Balm, and for building a business empire around it. His other contributions include Haw Par Villa (also known as Tiger Balm Gardens) in Singapore, as well as setting up the local Chinese newspaper, Sin Chew Jit Poh. Aw was a philanthropist, funding the construction of schools, hospitals, maternity clinics, orphanages and homes for the aged.
 
  
 

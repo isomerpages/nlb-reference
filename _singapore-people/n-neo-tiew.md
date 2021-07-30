@@ -1,5 +1,5 @@
 ---
-title: Neo Tiew 梁宙
+title: Neo Tiew
 permalink: /guides/singapore/people/neo-tiew/
 breadcrumb: Neo Tiew
 collection_name: singapore-people
@@ -16,7 +16,7 @@ published: true
 
 ### <u>Introduction</u>
 
-Neo Tiew (梁宙) (1884 – 1975), also known as 梁后宙, was born and raised in Nan’an County in Fujian Province, China. Due to his impoverished circumstances, he left home for Singapore in 1897. Among his many jobs, he worked in a provision shop, started a bullock cart business, and spent about two years in Selangor as rubber plantation supervisor. In 1912, his uncle handed over his brick-kiln business to him.
+Neo Tiew (梁宙; 1884 – 1975), also known as 梁后宙, was born and raised in Nan’an County in Fujian Province, China. Due to his impoverished circumstances, he left home for Singapore in 1897. Among his many jobs, he worked in a provision shop, started a bullock cart business, and spent about two years in Selangor as rubber plantation supervisor. In 1912, his uncle handed over his brick-kiln business to him.
 
 He became acquainted with landowner Alexander William Cashin, who was to become one of his biggest clients. In 1914, Cashin invited him to clear and develop his land at Lim Chu Kang. Together with 800 men, Neo Tiew planted pineapples, coconut and rubber trees. He eventually became the headman of Ama Keng Village, and led in the setting up of Kay Wah School (present day Qihua Primary School) and a maternity clinic at Lim Chu Kang.
 

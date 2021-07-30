@@ -1,5 +1,5 @@
 ---
-title: Seah Song Seah 佘松城
+title: Seah Song Seah
 permalink: /guides/singapore/people/seah-song-seah/
 breadcrumb: Seah Song Seah
 collection_name: singapore-people
@@ -17,7 +17,7 @@ published: true
 
 ### <u>Introduction</u>
 
-Seah Song Seah (佘松城; She Songcheng) (1857, Singapore–1910s, China) was a Straits-born Chinese Teochew merchant. He was the third son of pioneer businessman Seah Eu Chin (佘有进), who arrived in Singapore in 1823. Seah was educated at St Joseph’s Institution.
+Seah Song Seah (佘松城; She Songcheng; 1857, Singapore–1910s, China) was a Straits-born Chinese Teochew merchant. He was the third son of pioneer businessman Seah Eu Chin (佘有进), who arrived in Singapore in 1823. Seah was educated at St Joseph’s Institution.
 
 Besides owning gambier and pepper plantations, Seah was also a chief partner of the syndicate that operated opium and spirit farms in Singapore, Johor and Melaka. Beyond his business interests, Seah was keen on horticulture, being a regular exhibitor at the annual Flower Show during the late 19th century. His plants and flowers often garnered awards. Seah was also a long-time member of the Straits Branch of the Royal Asiatic Society and the Singapore Sporting Club, as well as an honorary member of the Singapore Volunteer Infantry.
 

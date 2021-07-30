@@ -1,5 +1,5 @@
 ---
-title: Tan Kim Ching 陈金钟
+title: Tan Kim Ching
 permalink: /guides/singapore/people/tan-kim-ching/
 breadcrumb: Tan Kim Ching
 collection_name: singapore-people
@@ -16,7 +16,7 @@ published: true
 
 ### <u>Introduction</u>
 
-Tan Kim Ching (陈金钟, also spelt as Tan Kim Cheng) (1829–1892) was the eldest son of Tan Tock Seng. He inherited and expanded his father’s business, in particular, he set up branch offices in Bangkok and Saigon where he had expanded the rice business. He continued Tan Tock Seng’s philanthropic activities, donating generously to renovate Tan Tock Seng Hospital and set up Chong Wen Ge (崇文阁) and Cui Ying School (萃英书院), two of the earliest Chinese schools in Singapore. Tan Kim Ching was highly regarded in Singapore. Some of the positions and appointments he held included president of the Singapore Hokkien Huay Kuan, justice of the peace, consul for Siam, Japan and Russia respectively, among others. He was also noted for his close relationship with the Thai royalty.
+Tan Kim Ching (陈金钟, also spelt as Tan Kim Cheng; 1829–1892) was the eldest son of Tan Tock Seng. He inherited and expanded his father’s business, in particular, he set up branch offices in Bangkok and Saigon where he had expanded the rice business. He continued Tan Tock Seng’s philanthropic activities, donating generously to renovate Tan Tock Seng Hospital and set up Chong Wen Ge (崇文阁) and Cui Ying School (萃英书院), two of the earliest Chinese schools in Singapore. Tan Kim Ching was highly regarded in Singapore. Some of the positions and appointments he held included president of the Singapore Hokkien Huay Kuan, justice of the peace, consul for Siam, Japan and Russia respectively, among others. He was also noted for his close relationship with the Thai royalty.
 
 
 ### <u>Selected books on Tan Kim Ching</u>

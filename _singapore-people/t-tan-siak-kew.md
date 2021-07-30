@@ -1,5 +1,5 @@
 ---
-title: Tan Siak Kew 陈锡九
+title: Tan Siak Kew
 permalink: /guides/singapore/people/tan-siak-kew/
 breadcrumb: Tan Siak Kew
 collection_name: singapore-people
@@ -16,7 +16,7 @@ published: true
 
 ### <u>Introduction</u>
 
-Tan Siak Kew (陈锡九; Chen Xijiu) (31 May 1903, Teo Ann, Guangdong, China–5 February 1977, Singapore) was a prominent businessman, nominated member of the Legislative Assembly, president of the Singapore Chinese Chamber of Commerce, diplomat and philanthropist.
+Tan Siak Kew (陈锡九 or Chen Xijiu; 31 May 1903, Teo Ann, Guangdong, China–5 February 1977, Singapore) was a prominent businessman, nominated member of the Legislative Assembly, president of the Singapore Chinese Chamber of Commerce, diplomat and philanthropist.
 
 He came to Singapore in 1910 and received an English-language education from St Anthony’s Boys School and then Raffles Institution. However, he did not graduate from the latter as he had to return to China with his ageing father. During the two years Tan spent in China, he studied Chinese classics at a private school.
 

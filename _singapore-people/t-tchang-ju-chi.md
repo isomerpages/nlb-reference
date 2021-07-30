@@ -1,5 +1,5 @@
 ---
-title: Tchang Ju Chi 张汝器
+title: Tchang Ju Chi
 permalink: /guides/singapore/people/tchang-ju-chi/
 breadcrumb: Tchang Ju Chi
 collection_name: singapore-people
@@ -15,7 +15,7 @@ published: true
 
 ### <u>Introduction</u>
 
-Tchang Ju Chi (张汝器) (1904–1942), one of the earliest practising artists in Singapore, was born in Chaoan, Guangdong province in China. After graduating from high school, he studied western painting at the Shanghai Academy of Fine Arts. He later attended the Marseille Academy of Fine Arts in France and while on his return journey home to China in 1927, settled in Singapore at the invitation of the locals. Tchang taught art in Tuan Mong School and Yeung Ching School. He was also an editor of the pictorial supplement of the Chinese-language daily newspaper Sin Chew Jit Poh. He set up his private studio named after himself, Ju Chi Studio, in 1929. He was the president of the Society of Chinese Artists. Tchang was taken away by the Japanese military during the Sook Ching massacre in Singapore in 1942.
+Tchang Ju Chi (张汝器; 1904–1942), one of the earliest practising artists in Singapore, was born in Chaoan, Guangdong province in China. After graduating from high school, he studied western painting at the Shanghai Academy of Fine Arts. He later attended the Marseille Academy of Fine Arts in France and while on his return journey home to China in 1927, settled in Singapore at the invitation of the locals. Tchang taught art in Tuan Mong School and Yeung Ching School. He was also an editor of the pictorial supplement of the Chinese-language daily newspaper Sin Chew Jit Poh. He set up his private studio named after himself, Ju Chi Studio, in 1929. He was the president of the Society of Chinese Artists. Tchang was taken away by the Japanese military during the Sook Ching massacre in Singapore in 1942.
 
  
 

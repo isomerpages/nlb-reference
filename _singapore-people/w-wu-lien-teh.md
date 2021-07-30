@@ -1,5 +1,5 @@
 ---
-title: Wu Lien Teh 伍连徳
+title: Wu Lien Teh
 permalink: /guides/singapore/people/wu-lien-teh/
 breadcrumb: Wu Lien Teh
 collection_name: singapore-people
@@ -16,7 +16,7 @@ published: true
 
 ### <u>Introduction</u>
 
-Wu Lien Teh (Dr) (1879-1960) was a Penang-born doctor who was known internationally for successfully eradicating a deadly outbreak of the plague in northern China and Manchuria in 1910 and 1920. He was known as a “plague fighter”.
+Wu Lien Teh (Dr) (伍连徳; 1879-1960) was a Penang-born doctor who was known internationally for successfully eradicating a deadly outbreak of the plague in northern China and Manchuria in 1910 and 1920. He was known as a “plague fighter”.
 
 Wu came from a family of five sons and his mother was a Hakka born in Penang, Malaysia. His father was Cantonese and migrated from Taishan, Guangdong Province in China to Penang, where he ran a successful business as a goldsmith. Wu received his early education at the Free School in Penang from 1886 to 1896, where he excelled and won many prizes.  He was known as Gnoh Lean Tuck in school, a name he continued to use during his Cambridge education and career in London hospitals. When he became a qualified doctor, he was registered as G.L. Tuck. In 1896, Wu won the only Queen’s scholarship of that year and left Penang to study medicine as the first medical student of Chinese descent in Cambridge University in England. He returned and took up private practice in Chulia Street, Penang. He was also one of the editors of the Straits Chinese Magazine, together with Song Ong Siang and Lim Boon Keng (Dr), who was the elder brother of his first wife. During this period, he also founded the Anti-Opium Society and engaged in social reforms.
 

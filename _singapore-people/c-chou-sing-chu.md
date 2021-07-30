@@ -1,5 +1,5 @@
 ---
-title: Chou Sing Chu 周星衢
+title: Chou Sing Chu
 permalink: /guides/singapore/people/chou-sing-chu/
 breadcrumb: Chou Sing Chu
 collection_name: singapore-people
@@ -16,7 +16,7 @@ published: true
 
 ### <u>Introduction</u>
 
-Chou Sing Chu (周星衢) (1905–1986) was born in Shanghai, China. His family was originally from Pinghu City, Zhejiang Province. Founder of the Popular Bookstore, Chou was also recognised as a leader in the Chinese publishing industry in Southeast Asia. Due to impoverished circumstances, Chou only received three years of education before becoming an apprentice in a bookstore. His affinity with books was due to his time spent at the bookstore. Chou came to Singapore when he was 19 and set up the Cheng Hing Company in 1924. The company imported new year pictures and western paintings from Shanghai.
+Chou Sing Chu (周星衢; 1905–1986) was born in Shanghai, China. His family was originally from Pinghu City, Zhejiang Province. Founder of the Popular Bookstore, Chou was also recognised as a leader in the Chinese publishing industry in Southeast Asia. Due to impoverished circumstances, Chou only received three years of education before becoming an apprentice in a bookstore. His affinity with books was due to his time spent at the bookstore. Chou came to Singapore when he was 19 and set up the Cheng Hing Company in 1924. The company imported new year pictures and western paintings from Shanghai.
 
 In 1934, he established World Book Company to publish and distribute Chinese books. Popular Book Company was established in 1936 as the retail arm of World Book Company. Chou expanded his business to Hong Kong in 1949, setting up the World Publishing Company and later, Educational Publishing House. These two publishing houses played a vital role in promoting Chinese culture for youths. Popular Holdings Limited was listed in the Singapore Exchange in 1997. It is the largest bookstore chain selling bilingual and educational products. Chou’s youngest son, Chou Cheng Ngok, established the Chou Sing Chu Foundation in 2004 to continue his father’s spirit in promoting Chinese language and education.
 

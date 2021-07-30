@@ -1,5 +1,5 @@
 ---
-title: Tan Yeok Seong 陈育崧
+title: Tan Yeok Seong
 permalink: /guides/singapore/people/tan-yeok-seong/
 breadcrumb: Tan Yeok Seong
 collection_name: singapore-people
@@ -16,7 +16,7 @@ published: true
 
 ### <u>Introduction</u>
 
-Tan Yeok Seong (陈育崧) (1903–1984) was a historian specialising in Southeast Asia and a collector of books and historical artefacts. Educated at Amoy University (now known as Xiamen University, China), Tan was well versed in both English and Chinese. With experience gained as an inspector of Chinese schools with the Education Department of the Straits Settlements in Penang and a study trip to Shanghai, Tan ventured into the publishing business. In 1935, he set up Nanyang Book Company with some friends. In 1938, Tan left his government post  and concentrated on producing textbooks that catered to the needs of Chinese schools in Malaya. He became the supervising director of Nanyang Book Company in 1941.
+Tan Yeok Seong (陈育崧; 1903–1984) was a historian specialising in Southeast Asia and a collector of books and historical artefacts. Educated at Amoy University (now known as Xiamen University, China), Tan was well versed in both English and Chinese. With experience gained as an inspector of Chinese schools with the Education Department of the Straits Settlements in Penang and a study trip to Shanghai, Tan ventured into the publishing business. In 1935, he set up Nanyang Book Company with some friends. In 1938, Tan left his government post  and concentrated on producing textbooks that catered to the needs of Chinese schools in Malaya. He became the supervising director of Nanyang Book Company in 1941.
 
 He donated his private collection of books and periodicals to the National Library of Singapore in 1964. He passed away on 1 April 1984, aged 81.
 

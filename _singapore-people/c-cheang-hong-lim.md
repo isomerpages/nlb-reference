@@ -1,5 +1,5 @@
 ---
-title: Cheang Hong Lim 章芳琳
+title: Cheang Hong Lim
 permalink: /guides/singapore/people/cheang-hong-lim/
 breadcrumb: Cheang Hong Lim
 collection_name: singapore-people
@@ -15,7 +15,7 @@ published: true
 
 ### <u>Introduction</u>
 
-Cheang Hong Lim (章芳琳) (1841–1893) was born in Singapore, the eldest son of Cheang Sam Teo (章三潮), a successful businessman and philanthropist. Cheang was a leading licensed opium and spirit merchant. He was also a major property owner and had developed new houses along Havelock Road.
+Cheang Hong Lim (章芳琳; 1841–1893) was born in Singapore, the eldest son of Cheang Sam Teo (章三潮), a successful businessman and philanthropist. Cheang was a leading licensed opium and spirit merchant. He was also a major property owner and had developed new houses along Havelock Road.
 
 In 1876, Cheang donated funds to convert an open space into a public garden known as Hong Lim Green (present Hong Lim Park). He funded the Cheang Hong Lim Market in 1882 as well as a Chinese temple, Geok Hong Tian (玉皇殿), at Havelock Road in 1887. He was also known to be generous with his friends who did not always pay him back when he loaned them money. When he died, it was found that he had a total of $400,000 owed to him. Cheang was made a justice of peace in 1873, and was a committee member of Po Leung Kuk (保良局) for many years. In 1891, the government recognised him as the leader of the Hokkien community. He passed away on 11 February 1893. Places such as Hong Lim Park, Cheang Hong Lim Street, Cheang Wan Seng Place, Hong Lim Market and Hong Lim Complex are all named after him.
 

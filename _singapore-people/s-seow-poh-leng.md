@@ -1,5 +1,5 @@
 ---
-title: Seow Poh Leng 萧保龄
+title: Seow Poh Leng
 permalink: /guides/singapore/people/seow-poh-leng/
 breadcrumb: Seow Poh Leng
 collection_name: singapore-people

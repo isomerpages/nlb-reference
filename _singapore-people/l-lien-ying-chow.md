@@ -1,5 +1,5 @@
 ---
-title: Lien Ying Chow 连瀛洲
+title: Lien Ying Chow
 permalink: /guides/singapore/people/lien-ying-chow/
 breadcrumb: Lien Ying Chow
 collection_name: singapore-people
@@ -16,7 +16,7 @@ published: true
 
 ### <u>Introduction</u>
 
-Lien Ying Chow (连瀛洲) (1906–2004) was from Chaoyang district in Guangdong, China. He left for Singapore in 1920 when he was 14, where he started working as a provision shop assistant. In 1929, he founded an import-export firm called Wah Hin and Company, which made a windfall from contracts to supply provisions to British forces in Singapore and Malaya. Respected by the Chinese business community, Lien was elected as the youngest president of the Singapore Chinese Chamber of Commerce and Industry in 1941.
+Lien Ying Chow (连瀛洲; 1906–2004) was from Chaoyang district in Guangdong, China. He left for Singapore in 1920 when he was 14, where he started working as a provision shop assistant. In 1929, he founded an import-export firm called Wah Hin and Company, which made a windfall from contracts to supply provisions to British forces in Singapore and Malaya. Respected by the Chinese business community, Lien was elected as the youngest president of the Singapore Chinese Chamber of Commerce and Industry in 1941.
 
 In 1947, Lien founded the Overseas Union Bank (OUB), which opened for business two years later. By 1957, he had opened branches in Tokyo and London. OUB was one of Southeast Asia’s largest banks before it was acquired by the United Overseas Bank in 2001. Lien built a business empire in banking, hotels and property. After almost four decades, he realised his dream of building OUB’s headquarters, the OUB Centre, at 1 Raffles Place. It opened in 1988 and was then one of the world’s tallest buildings at 60 storeys. He retired as group chairman and director of OUB in 1995.
 

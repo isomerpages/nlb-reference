@@ -1,5 +1,5 @@
 ---
-title: Tan Kheam Hock 陈谦福
+title: Tan Kheam Hock
 permalink: /guides/singapore/people/tan-kheam-hock/
 breadcrumb: Tan Kheam Hock
 collection_name: singapore-people
@@ -16,7 +16,7 @@ published: true
 
 ### <u>Introduction</u>
 
-Tan Kheam Hock (陈谦福; Chen Qianfu) (1862, Penang–21 April 1922, Singapore) was a Straits Chinese born in Penang to wealthy merchant Tan Teng Poh (陈登榜). Educated at the Penang Free School, Tan worked for eight years at the Penang branch of the Chartered Mercantile Bank of India, London and China, before spending two years in Calcutta, where he started a produce business. Tan then came to Singapore in 1889 and became part of the syndicate that monopolised the spirit and opium farms until 1906. In 1901, he became the labour contractor for the Tanjong Pagar Dock Company and then for the Singapore Harbour Board, which replaced the former in 1913, supplying coolies to them. At the time of his death, he reportedly had as many as 5,000 coolies in his employment.
+Tan Kheam Hock (陈谦福 or Chen Qianfu; 1862, Penang–21 April 1922, Singapore) was a Straits Chinese born in Penang to wealthy merchant Tan Teng Poh (陈登榜). Educated at the Penang Free School, Tan worked for eight years at the Penang branch of the Chartered Mercantile Bank of India, London and China, before spending two years in Calcutta, where he started a produce business. Tan then came to Singapore in 1889 and became part of the syndicate that monopolised the spirit and opium farms until 1906. In 1901, he became the labour contractor for the Tanjong Pagar Dock Company and then for the Singapore Harbour Board, which replaced the former in 1913, supplying coolies to them. At the time of his death, he reportedly had as many as 5,000 coolies in his employment.
 
 He was a committee or council member of various organisations including the Chinese Advisory Board, Po Leung Kuk, Straits Chinese British Association and the King Edward VII Medical School. He was the chairman of the Eastern United Assurance Co. Ltd. and the director of a number of rubber, tin and industrial companies. Tan also served as a municipal commissioner from 1910 until his death, and was appointed a justice of the peace in 1912.
 

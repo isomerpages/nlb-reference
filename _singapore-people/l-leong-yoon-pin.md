@@ -24,7 +24,7 @@ published: true
 
 ### <u>Introduction</u>
 
-Leong Yoon Pin 梁荣平 (b. 5 August 1931, Singapore–d. 13 April 2011, Singapore) was a composer, conductor and educator. Described as the doyen of Singapore composers, Leong was well-known for his choral compositions, many of which were locally commissioned and performed by both amateur and professional choirs. His compositions were often infused with a local flavour. Leong was awarded the Cultural Medallion in 1982.
+Leong Yoon Pin (梁荣平; b. 5 August 1931, Singapore–d. 13 April 2011, Singapore) was a composer, conductor and educator. Described as the doyen of Singapore composers, Leong was well-known for his choral compositions, many of which were locally commissioned and performed by both amateur and professional choirs. His compositions were often infused with a local flavour. Leong was awarded the Cultural Medallion in 1982.
 
 <img src="/images/arts/performingarts/Leong-Yoon-Pin-half-length-portrait.jpg" alt="Leong yoon pin image" style="width:500px;" />
 

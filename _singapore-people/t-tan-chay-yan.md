@@ -1,5 +1,5 @@
 ---
-title: Tan Chay Yan 陈齐贤
+title: Tan Chay Yan
 permalink: /guides/singapore/people/tan-chay-yan/
 breadcrumb: Tan Chay Yan
 collection_name: singapore-people
@@ -18,7 +18,7 @@ published: true
 
 ### <u>Introduction</u>
 
-Born in Malacca, Tan Chay Yan (陈齐贤) (1871 ﹘1916) was the grandson of renowned businessman and philanthropist, Tan Tock Seng, and the son of Tan Teck Guan. Tan Chay Yan was best known for his role in pioneering large-scale rubber planting in Malaya. In the 1890s, he received rubber tree seedlings from the Singapore Botanic Gardens and planted them at Bukit Lintang. This eventually developed into large-scale rubber planting and Tan was thus credited as the owner of the first rubber plantation in Malaya. His rubber business expanded and by 1906, his plantation at Bukit Asahan was the largest Hevea rubber plantation in the world. Besides rubber, Tan also had business interests in the banking and insurance industries.
+Born in Malacca, Tan Chay Yan (陈齐贤; 1871 ﹘1916) was the grandson of renowned businessman and philanthropist, Tan Tock Seng, and the son of Tan Teck Guan. Tan Chay Yan was best known for his role in pioneering large-scale rubber planting in Malaya. In the 1890s, he received rubber tree seedlings from the Singapore Botanic Gardens and planted them at Bukit Lintang. This eventually developed into large-scale rubber planting and Tan was thus credited as the owner of the first rubber plantation in Malaya. His rubber business expanded and by 1906, his plantation at Bukit Asahan was the largest Hevea rubber plantation in the world. Besides rubber, Tan also had business interests in the banking and insurance industries.
 
 Highly regarded in society, he had also been a municipal commissioner and a justice of the peace. He was a member of the founding committee of the Straits Chinese British Association as well as part of the delegation of British subjects that presented loyal addresses to the Duke and Duchess of Cornwell and York during their visit to Singapore in 1901. Tan also actively contributed to philanthropic causes, donating generously towards the construction of an annexe for the Straits and Federated Malay States Government Medical School in Singapore and the establishment of Pay Fong High School in Malacca.
 

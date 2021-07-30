@@ -1,5 +1,5 @@
 ---
-title: Lee Choon Seng 李俊承
+title: Lee Choon Seng
 permalink: /guides/singapore/people/lee-choon-seng/
 breadcrumb: Lee Choon Sen
 collection_name: singapore-people
@@ -17,7 +17,7 @@ published: true
 
 ### <u>Introduction</u>
 
-Lee Choon Seng (李俊承) (*1888–1966*) was a businessman, philanthropist and a prominent leader of the Hokkien community in Singapore. He founded several companies including Eng Hin Company and Thye Hong Biscuit and was also one of the founders of the Singapore Buddhist Lodge. Lee also held leadership roles in various Chinese community organisations such as the Singapore Chinese Chamber of Commerce and Industry, Singapore Hokkien Huay Kuan and Ee Hoe Hean Club. He also led the Chinese community in Singapore to raise support for the China Revolution led by Sun Yat Sen. Lee was the managing director of Ho Hong Bank and advocated the merger of the Chinese banks to form the Oversea Chinese Banking Corporation, which he later served as chairman. Lee passed away in August 1966 at 78.
+Lee Choon Seng (李俊承; 1888–1966) was a businessman, philanthropist and a prominent leader of the Hokkien community in Singapore. He founded several companies including Eng Hin Company and Thye Hong Biscuit and was also one of the founders of the Singapore Buddhist Lodge. Lee also held leadership roles in various Chinese community organisations such as the Singapore Chinese Chamber of Commerce and Industry, Singapore Hokkien Huay Kuan and Ee Hoe Hean Club. He also led the Chinese community in Singapore to raise support for the China Revolution led by Sun Yat Sen. Lee was the managing director of Ho Hong Bank and advocated the merger of the Chinese banks to form the Oversea Chinese Banking Corporation, which he later served as chairman. Lee passed away in August 1966 at 78.
 
  
 

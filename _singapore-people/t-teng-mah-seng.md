@@ -1,5 +1,5 @@
 ---
-title: Teng Mah Seng 丁马成
+title: Teng Mah Seng
 permalink: /guides/singapore/people/teng-mah-seng/
 breadcrumb: Teng Mah Seng
 collection_name: singapore-people
@@ -16,7 +16,7 @@ published: true
 
 ### <u>Introduction</u>
 
-Teng Mah Seng（丁马成） (1915﹘1992) was a musician, lyricist and composer. A father of eight, Teng was born in December 1915 in Fujian Province, China and came to Singapore in 1935. In 1945, he started an import-export business.
+Teng Mah Seng（丁马成; 1915﹘1992) was a musician, lyricist and composer. A father of eight, Teng was born in December 1915 in Fujian Province, China and came to Singapore in 1935. In 1945, he started an import-export business.
 
 Teng’s first song was called The Spring Light. In the 1970s, he organised the first Asian International Nanyin Conference, which sparked a revival of interest in nanyin. He was later apointed the president of the Siong Leng Musical Association.
 

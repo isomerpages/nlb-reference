@@ -1,5 +1,5 @@
 ---
-title: Tan Boo Liat 陈武烈
+title: Tan Boo Liat
 permalink: /guides/singapore/people/tan-boo-liat/
 breadcrumb: Tan Boo Liat
 collection_name: singapore-people
@@ -16,7 +16,7 @@ published: true
 
 ## <u>Introduction</u>
 
-Tan Boo Liat (陈武烈) (c. 1874 – 1934) was the great-grandson of Tan Tock Seng and grandson of Tan Kim Ching. Like his great-grandfather and grandfather, he was a leader in the Hokkien community and was one of three key figures heading the renovation of Tian Hock Keng Temple (天福宫) in 1906. He was also one of the founding members of the Straits Chinese British Association, established in 1900. He was also conferred a title by Thai royalty. Tan helped to establish the Singapore Chinese Girls’ School in 1899 and was one of the trustees of the Anglo-Chinese Free School. Tan was also a member of the Chinese Revolutionary Alliance (中国同盟会) and contributed to the Chinese revolution, hosting Sun Yat Sen when he stopped over in Singapore en route to China after the success of the revolution.
+Tan Boo Liat (陈武烈; c. 1874 – 1934) was the great-grandson of Tan Tock Seng and grandson of Tan Kim Ching. Like his great-grandfather and grandfather, he was a leader in the Hokkien community and was one of three key figures heading the renovation of Tian Hock Keng Temple (天福宫) in 1906. He was also one of the founding members of the Straits Chinese British Association, established in 1900. He was also conferred a title by Thai royalty. Tan helped to establish the Singapore Chinese Girls’ School in 1899 and was one of the trustees of the Anglo-Chinese Free School. Tan was also a member of the Chinese Revolutionary Alliance (中国同盟会) and contributed to the Chinese revolution, hosting Sun Yat Sen when he stopped over in Singapore en route to China after the success of the revolution.
 
 
 ### <u>Selected books on Tan Boo Liat</u>

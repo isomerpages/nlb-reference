@@ -1,5 +1,5 @@
 ---
-title: Han Wai Toon 韩槐准
+title: Han Wai Toon
 permalink: /guides/singapore/people/han-wai-toon/
 breadcrumb: Han Wai Toon
 collection_name: singapore-people
@@ -16,7 +16,7 @@ published: true
 
 ### <u>Introduction</u>
 
-Han Wai Toon（韩槐准） (1892–1970) was born in 1892 in Hainan, China. Due to impoverished circumstances, he only started schooling at 14 and completed his primary education when he was 21. In 1913, together with friends, he ran a dye factory business after school. The business failed to take off and was forced to close down. He arrived in Singapore in 1915 and got a job as a clerk in a company in the Karimun islands. Due to the global demand for rubber at this time, a rubber plantation worker could get paid nearly 10 times more than a clerk and Han took on both jobs so as to earn enough to clear his debts incurred after his dye factory business failed. He joined his relative Foo Khee How in a medical office set up by German immigrants, working as a clerk-cum-dispenser.
+Han Wai Toon（韩槐准; 1892–1970) was born in 1892 in Hainan, China. Due to impoverished circumstances, he only started schooling at 14 and completed his primary education when he was 21. In 1913, together with friends, he ran a dye factory business after school. The business failed to take off and was forced to close down. He arrived in Singapore in 1915 and got a job as a clerk in a company in the Karimun islands. Due to the global demand for rubber at this time, a rubber plantation worker could get paid nearly 10 times more than a clerk and Han took on both jobs so as to earn enough to clear his debts incurred after his dye factory business failed. He joined his relative Foo Khee How in a medical office set up by German immigrants, working as a clerk-cum-dispenser.
 
 For over 20 years, Han worked as a dispenser as well as in pharmaceutical manufacturing. Through diligent self-study, he accumulated knowledge in Chemistry and pharmaceutical science.
 

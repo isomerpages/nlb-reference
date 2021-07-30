@@ -1,5 +1,5 @@
 ---
-title: Tay Koh Yat 郑古悦
+title: Tay Koh Yat
 permalink: /guides/singapore/people/tay-koh-yat/
 breadcrumb: Tay Koh Yat
 collection_name: singapore-people
@@ -16,7 +16,7 @@ published: true
 
 ### <u>Introduction</u>
 
-Tay Koh Yat (郑古悦) (1880 – 1957) was an entrepreneur and Chinese community leader in Singapore. Originally from Kinmen, Fujian, Tay started school at 11 and came to Singapore when he was 22. Eight years later in 1910, he joined Chop Guan Seng Hin and established Guan Soon Company when he was 32, with a branch at Pangkalpinang, Indonesia. In 1921, he started the Aik Seng Hin Company with branches in Jakarta and Surabaya, Indonesia. He established Chin Joo Seng Company the following year which imported Indonesian local produce into Singapore, dealing specially in salted and dried fish products. Tay established Tay Koh Yat Bus Company in 1938 and by 1949, owned a fleet of more than 60 buses and was the biggest Chinese bus company in Singapore.
+Tay Koh Yat (郑古悦; 1880 – 1957) was an entrepreneur and Chinese community leader in Singapore. Originally from Kinmen, Fujian, Tay started school at 11 and came to Singapore when he was 22. Eight years later in 1910, he joined Chop Guan Seng Hin and established Guan Soon Company when he was 32, with a branch at Pangkalpinang, Indonesia. In 1921, he started the Aik Seng Hin Company with branches in Jakarta and Surabaya, Indonesia. He established Chin Joo Seng Company the following year which imported Indonesian local produce into Singapore, dealing specially in salted and dried fish products. Tay established Tay Koh Yat Bus Company in 1938 and by 1949, owned a fleet of more than 60 buses and was the biggest Chinese bus company in Singapore.
 
 In 1941 in preparation for war, the Singapore colonial government invited him to be the organiser and commander of the the Chinese Civil Defence. In 1942, he escaped by boat to Java to avoid capture by the Japanese. After the surrender of the Japanese forces, Tay returned to Singapore and compiled a list of Chinese Civil Defence members who were killed by the Japanese and requested compensation from the government on their families’ behalf.
 

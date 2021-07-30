@@ -1,5 +1,5 @@
 ---
-title: See Ewe Lay 薛有礼
+title: See Ewe Lay
 permalink: /guides/singapore/people/see-ewe-lay/
 breadcrumb: See Ewe Lay
 collection_name: singapore-people
@@ -16,7 +16,7 @@ published: true
 
 ### <u>Introduction</u>
 
-Born in 1851, See Ewe Lay (薛有礼) (1851, Malacca–1906, Singapore) was a descendent of the See Clan, a well-known and wealthy Peranakan family in Malacca. Born in Malacca, See moved to Singapore to join the Hong Kong and Shanghai Bank as a comprador. In 1881, he started Lat Pau, Singapore’s first major Chinese newspaper, and insisted on publishing it despite facing a financial crisis in 1890. He even turned down an invitation from the Singapore Municipal Commission to be elected as its board member in 1892, so that he could focus on publishing Lat Pau. See passed away in Singapore in 1906.
+Born in 1851, See Ewe Lay (薛有礼; 1851, Malacca–1906, Singapore) was a descendent of the See Clan, a well-known and wealthy Peranakan family in Malacca. Born in Malacca, See moved to Singapore to join the Hong Kong and Shanghai Bank as a comprador. In 1881, he started Lat Pau, Singapore’s first major Chinese newspaper, and insisted on publishing it despite facing a financial crisis in 1890. He even turned down an invitation from the Singapore Municipal Commission to be elected as its board member in 1892, so that he could focus on publishing Lat Pau. See passed away in Singapore in 1906.
 
  
 

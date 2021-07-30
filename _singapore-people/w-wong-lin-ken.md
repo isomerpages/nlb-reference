@@ -1,5 +1,5 @@
 ---
-title: Wong Lin Ken 黄麟根
+title: Wong Lin Ken
 permalink: /guides/singapore/people/wong-lin-ken/
 breadcrumb: Wong Lin Ken
 collection_name: singapore-people

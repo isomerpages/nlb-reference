@@ -1,9 +1,9 @@
 ---
-title: நாடகங்கள்
+title: Plays (Tamil)
 permalink: /guides/arts/literaryarts/singaporetamilliterature/plays
-breadcrumb: சிங்கப்பூர்த் தமிழ் இலக்கியம் – நாடகங்கள்
+breadcrumb: Bibliography of Singapore Tamil Literature: Plays
 collection_name: arts-lit-arts
-third_nav_title: சிங்கப்பூர்த் தமிழ் இலக்கியம்
+third_nav_title: Bibliography of Singapore Tamil Literature
 published: true
 ---
 

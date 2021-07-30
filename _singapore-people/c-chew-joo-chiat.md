@@ -1,5 +1,5 @@
 ---
-title: Chew Joo Chiat 周如切
+title: Chew Joo Chiat
 permalink: /guides/singapore/people/chew-joo-chiat/
 breadcrumb: Chew Joo Chiat
 collection_name: singapore-people
@@ -18,7 +18,7 @@ published: true
 
 ### <u>Introduction</u>
 
-Chew Joo Chiat (周如切, 1857–1926), also known as the “King of Katong”, owned several parcels of land in the Joo Chiat and Katong districts. In the 19th century, land prices in these districts had been cheap as the areas were undeveloped. After World War I, more people bought land in Joo Chiat and Katong and developed them into coconut plantations. Land prices soared after the nearby Geylang area became a business district. During this time, Chew sold off his land and made a fortune. For his contributions to the local community, several places were eventually named after him, such as Joo Chiat Road, Joo Chiat Street, Joo Chiat Avenue, Joo Chiat Place, Joo Chiat Terrace, Joo Chiat Lane and the Joo Chiat district itself. It was recorded that Chew had donated $100 when the Tou Mu Temple was built. He passed away in February 1926.
+Chew Joo Chiat (周如切; 1857–1926), also known as the “King of Katong”, owned several parcels of land in the Joo Chiat and Katong districts. In the 19th century, land prices in these districts had been cheap as the areas were undeveloped. After World War I, more people bought land in Joo Chiat and Katong and developed them into coconut plantations. Land prices soared after the nearby Geylang area became a business district. During this time, Chew sold off his land and made a fortune. For his contributions to the local community, several places were eventually named after him, such as Joo Chiat Road, Joo Chiat Street, Joo Chiat Avenue, Joo Chiat Place, Joo Chiat Terrace, Joo Chiat Lane and the Joo Chiat district itself. It was recorded that Chew had donated $100 when the Tou Mu Temple was built. He passed away in February 1926.
 
 
 ### <u>Selected books on Chew Joo Chiat</u>

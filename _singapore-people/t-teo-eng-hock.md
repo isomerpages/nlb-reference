@@ -1,5 +1,5 @@
 ---
-title: Teo Eng Hock 张永福
+title: Teo Eng Hock
 permalink: /guides/singapore/people/teo-eng-hock/
 breadcrumb: Teo Eng Hock
 collection_name: singapore-people
@@ -18,7 +18,7 @@ published: true
 
 ### <u>Introduction</u>
 
-Teo Eng Hock (张永福) (1872﹘1959) was a revolutionist, with ancestral roots in Raoping County in Guangdong province, China. He invested in rubber plantations during the early days and established a rubber shoe factory. His domination of the rubber shoe industry, along with Tan Kah Kee, in the early 20th century, provided him with the finances to support his revolutionary activities.
+Teo Eng Hock (张永福; 1872﹘1959) was a revolutionist, with ancestral roots in Raoping County in Guangdong province, China. He invested in rubber plantations during the early days and established a rubber shoe factory. His domination of the rubber shoe industry, along with Tan Kah Kee, in the early 20th century, provided him with the finances to support his revolutionary activities.
 
 During the late Qing Period, Teo supported the reformists and was a member of the Chinese Philomatic Society. He became a revolutionist and later supported Sun Yat Sen and his revolutionary activities. Together with Tan Chor Lam, Teo set up and was the editor of the newspaper Thoe Lam Jit Poh. The newspaper folded after two years due to financial issues. Despite this, Teo continued to share his revolutionary ideas through the Sin Chew Reading Room. His bungalow, Wan Qing Yuan, also served as the headquarters of the revolutionists.
 

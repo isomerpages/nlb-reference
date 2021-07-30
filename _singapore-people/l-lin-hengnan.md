@@ -1,5 +1,5 @@
 ---
-title: Lin Hengnan 林衡南
+title: Lin Hengnan
 permalink: /guides/singapore/people/lin-hengnan/
 breadcrumb: Lin Hengnan
 collection_name: singapore-people
@@ -15,7 +15,7 @@ published: true
 
 ### <u>Introduction</u>
 
-Lin Hengnan (林衡南) (birth and death years unknown), also known as Lim Kong Chuan (林光铨), was from Jinmen in Fujian Province, China.
+Lin Hengnan (林衡南; birth and death years unknown), also known as Lim Kong Chuan (林光铨), was from Jinmen in Fujian Province, China.
 
 Not much has been written about Lin apart from the fact that he owned a printing and publishing company called Koh Yew Hean Press (古友轩). His press was well-known for publishing two Chinese language newspapers and numerous publications in various languages, including English, Chinese and Malay. Lin came to Singapore in 1861 and picked up his printing skills from the British.
 

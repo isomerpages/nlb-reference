@@ -1,5 +1,5 @@
 ---
-title: Lien Shih Sheng 连士升
+title: Lien Shih Sheng
 permalink: /guides/singapore/people/lien-shih-sheng/
 breadcrumb: Lien Shih Sheng
 collection_name: singapore-people
@@ -17,7 +17,7 @@ published: true
 
 ### <u>Introduction</u>
 
-Lien Shih Sheng (连士升) (1907 – 1973) was born and raised in Fu’an County in Fujian Province, China. He moved to Singapore in 1949. In 1948, he became a special correspondent for Nanyang Siang Pau (南洋商报) and, over the course of 20 years, rose through the ranks until his retirement in 1971. With his strong foundation in Chinese classics, Lien became a prominent literary pioneer in Malaya during the 1950s and 1960s. He published over 20 books about his travels and letters, as well as collections of essays and biographies of prominent Indian personalities, such as Tagore, Gandhi and Nehru, and western heroes. He was best remembered for his compilation of letters to his children and friends in the eight-volume series, Letters from the Coast (海滨寄简). He also held positions in various organisations and committees, serving as: a committee member in the Nanyang University Founding Committee, a member of the Singapore University Council, the president of the South Seas Society (1964–1969), the vice-president of the China Society for several years, and a member of the Public Service Commission (1961–1966). In 1963, he was awarded the Meritorious Public Service Award. He passed away in July 1973 at the age of 66.
+Lien Shih Sheng (连士升; 1907 – 1973) was born and raised in Fu’an County in Fujian Province, China. He moved to Singapore in 1949. In 1948, he became a special correspondent for Nanyang Siang Pau (南洋商报) and, over the course of 20 years, rose through the ranks until his retirement in 1971. With his strong foundation in Chinese classics, Lien became a prominent literary pioneer in Malaya during the 1950s and 1960s. He published over 20 books about his travels and letters, as well as collections of essays and biographies of prominent Indian personalities, such as Tagore, Gandhi and Nehru, and western heroes. He was best remembered for his compilation of letters to his children and friends in the eight-volume series, Letters from the Coast (海滨寄简). He also held positions in various organisations and committees, serving as: a committee member in the Nanyang University Founding Committee, a member of the Singapore University Council, the president of the South Seas Society (1964–1969), the vice-president of the China Society for several years, and a member of the Public Service Commission (1961–1966). In 1963, he was awarded the Meritorious Public Service Award. He passed away in July 1973 at the age of 66.
 
  
 
