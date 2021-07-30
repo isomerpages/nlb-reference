@@ -8,8 +8,7 @@ third_nav_title: Arts
 <img src="/images/category/literary-arts.jpg" alt="literary arts banner" style="width:800px;" />
 
 <div class="new-accordion"><!--accordion start--> 
-<!--first accordion section-->
-<input type="checkbox" id="acc1">
+<input type="checkbox" id="acc1"><!--first accordion section-->
 <label for="acc1"><b>Sastera Melayu Singapura</b></label>
 <table style="width:100%">
   <tr>
@@ -25,8 +24,7 @@ third_nav_title: Arts
   </tr>
 </table>
 </div>
-<!--second accordion section-->
-<input type="checkbox" id="acc2">
+<input type="checkbox" id="acc2"><!--second accordion section-->
 <label for="acc2"><b>新加坡华文文学书目</b></label>
 <table style="width:100%">
   <tr>
@@ -42,8 +40,7 @@ third_nav_title: Arts
   </tr>
 </table>
 </div>
-<!--third accordion section-->
-<input type="checkbox" id="acc3">
+<input type="checkbox" id="acc3"><!--third accordion section-->
 <label for="acc3"><b>Singapore Literature in English</b></label>
 <table style="width:100%">
   <tr>
@@ -64,8 +61,7 @@ third_nav_title: Arts
   </tr>
 </table>
 </div>
-<!--fourth accordion section-->
-<input type="checkbox" id="acc4">
+<input type="checkbox" id="acc4"><!--fourth accordion section-->
 <label for="acc4"><b>சிங்கப்பூர்த் தமிழ் இலக்கியம்</b></label>
 <table style="width:100%">
   <tr>
