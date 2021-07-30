@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - reminiscence-library-package-1.md
-      - package-2.md
+      - reminiscence-library-package-2.md
