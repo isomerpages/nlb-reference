@@ -10,6 +10,7 @@ third_nav_title: Arts
 <div class="new-accordion"><!--accordion start--> 
 <input type="checkbox" id="acc1"><!--first accordion section-->
 <label for="acc1"><b>Sastera Melayu Singapura</b></label>
+<div class="new-accordion-content">
 <table style="width:100%">
   <tr>
     <td><b><a href = "/guides/arts/literaryarts/sasteramelayusingapura/novel">Novel</a></b></td>
@@ -26,6 +27,7 @@ third_nav_title: Arts
 </div>
 <input type="checkbox" id="acc2"><!--second accordion section-->
 <label for="acc2"><b>新加坡华文文学书目</b></label>
+<div class="new-accordion-content">
 <table style="width:100%">
   <tr>
     <td><b><a href = "/guides/arts/literaryarts/singaporechineseliterature/poetry">诗歌</a></b></td>
@@ -42,6 +44,7 @@ third_nav_title: Arts
 </div>
 <input type="checkbox" id="acc3"><!--third accordion section-->
 <label for="acc3"><b>Singapore Literature in English</b></label>
+<div class="new-accordion-content">
 <table style="width:100%">
   <tr>
     <td><b><a href = "/guides/arts/literaryarts/singaporeenglishliterature/miscellaneous">Miscellaneous</a></b></td>
@@ -63,6 +66,7 @@ third_nav_title: Arts
 </div>
 <input type="checkbox" id="acc4"><!--fourth accordion section-->
 <label for="acc4"><b>சிங்கப்பூர்த் தமிழ் இலக்கியம்</b></label>
+<div class="new-accordion-content">
 <table style="width:100%">
   <tr>
     <td><b><a href = "/guides/arts/literaryarts/singaporetamilliterature/novel">புதினம்</a></b></td>
