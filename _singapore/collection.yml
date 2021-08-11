@@ -1,4 +1,5 @@
 collections:
   singapore:
     output: true
-    order: []
+    order:
+      - singapore-people/.keep
