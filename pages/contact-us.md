@@ -1,20 +1,22 @@
 ---
 layout: contact_us
-title: Contact Us
 permalink: /contact-us/
+breadcrumb: Contact Us
+title: Contact Us
 agency_name: Lee Kong Chian Reference Library
 locations:
   - address:
-      - Level 7 - 11
-      - 100 Victoria Street
+      - National Library Building
+      - "100 Victoria Street, Levels 7 - 11, "
       - Singapore 188064
     operating_hours:
       - days: Mon - Sun
         time: 10.00am - 9.00pm
         description: Closed at 5.00pm on eves of Christmas, New Year and Chinese New
-          Year. Closed on Public Holidays.
+          Year.  Closed on Public Holidays.
     maps_link: https://goo.gl/maps/LGbmQP3irhj6RuPk8
     title: National Library Building
+image-url: null
 contacts:
   - content:
       - phone: ""
