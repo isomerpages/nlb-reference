@@ -2,7 +2,7 @@ collections:
   reminiscence-library:
     output: true
     order:
-      - introduction.md
       - reminiscence-library-package-1.md
       - reminiscence-library-package-2.md
       - reminiscence-library-package-3.md
+      - introduction.md
