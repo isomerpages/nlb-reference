@@ -6,8 +6,8 @@ title: Contact Us
 agency_name: Lee Kong Chian Reference Library
 locations:
   - address:
-      - National Library Building
-      - "100 Victoria Street, Levels 7 - 11, "
+      - Level 7 - 11
+      - 100 Victoria Street
       - Singapore 188064
     operating_hours:
       - days: Mon - Sun
