@@ -1,6 +1,0 @@
-collections:
-  about-us:
-    output: true
-    order:
-      - about-lkcrl.md
-      - about-nl.md
