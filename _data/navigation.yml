@@ -1,53 +1,55 @@
 logo: /images/ReferenceNLB-logo.png
 links:
-    - title: Resource Guides
-      url: /guides/
-      sublinks:
-        - title: Singapore
-          url: /guides/singapore/people/
-        - title: Arts
-          url: /guides/arts/visual-arts/
-        - title: Business
-          url: /guides/business/career-guidance/
-        - title: Science & Technology
-          url: /guides/science-technology/technology/
-        - title: Social Sciences & Humanities
-          url: /guides/socialsciences-humanities/social-sciences/
-    - title: Getting Started
-      url: /getting-started/academicresearch/
-      sublinks:
-        - title: Accessing Reference Items
-          url: /getting-started/accessing-reference-items/
-        - title: Using OneSearch
-          url: /getting-started/onesearch/
-        - title: Using ProQuest
-          url: /getting-started/proquest/
-        - title: Using EBSCOHost
-          url: /getting-started/ebscohost/
-        - title: Using JSTOR
-          url: /getting-started/jstor/
-    - title: Other Formats
-      url: /other-formats
-      sublinks:
-        - title: Ephemera
-          url: /other-formats/ephemera/
-        - title: Maps
-          url: /other-formats/maps/
-        - title: Newspapers
-          url: /other-formats/newspapers/
-        - title: Photographs
-          url: /other-formats/photographs/
-        - title: Posters
-          url: /other-formats/posters
-        - title: Archived Websites
-          url: /other-formats/archived-websites
-    - title: About Us
-      sublinks:
-        - title: National Library
-          url: /about-us/national-library/
-        - title: Lee Kong Chian Reference Library
-          url: /about-us/lkcrl/
-        - title: Contact Us
-          url: /contact-us/
-    - title: Reminiscence Library
-      collection: reminiscence-library
+  - title: Resource Guides
+    url: /guides/
+    sublinks:
+      - title: Singapore
+        url: /guides/singapore/people/
+      - title: Arts
+        url: /guides/arts/visual-arts/
+      - title: Business
+        url: /guides/business/career-guidance/
+      - title: Science & Technology
+        url: /guides/science-technology/technology/
+      - title: Social Sciences & Humanities
+        url: /guides/socialsciences-humanities/social-sciences/
+  - title: Getting Started
+    url: /getting-started/academicresearch/
+    sublinks:
+      - title: Accessing Reference Items
+        url: /getting-started/accessing-reference-items/
+      - title: Using OneSearch
+        url: /getting-started/onesearch/
+      - title: Using ProQuest
+        url: /getting-started/proquest/
+      - title: Using EBSCOHost
+        url: /getting-started/ebscohost/
+      - title: Using JSTOR
+        url: /getting-started/jstor/
+  - title: Other Formats
+    url: /other-formats
+    sublinks:
+      - title: Ephemera
+        url: /other-formats/ephemera/
+      - title: Maps
+        url: /other-formats/maps/
+      - title: Newspapers
+        url: /other-formats/newspapers/
+      - title: Photographs
+        url: /other-formats/photographs/
+      - title: Posters
+        url: /other-formats/posters
+      - title: Archived Websites
+        url: /other-formats/archived-websites
+  - title: About Us
+    sublinks:
+      - title: National Library
+        url: /about-us/national-library/
+      - title: Lee Kong Chian Reference Library
+        url: /about-us/lkcrl/
+      - title: Contact Us
+        url: /contact-us/
+  - title: Reminiscence Library
+    collection: reminiscence-library
+  - title: About Us
+    collection: about-us
