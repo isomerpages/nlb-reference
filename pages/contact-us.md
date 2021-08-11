@@ -15,7 +15,7 @@ locations:
       - days: Public Holidays
         time: Closed
         description: ""
-    maps_link: https://goo.gl/maps/ad46m6owV2VLck5SA
+    maps_link: https://goo.gl/maps/LGbmQP3irhj6RuPk8
     title: National Library Building
 contacts:
   - content:
