@@ -1,6 +1,7 @@
 logo: /images/ReferenceNLB-logo.png
 links:
     - title: Resource Guides
+      false_collection: true
       url: /guides/
       sublinks:
         - title: Singapore
@@ -14,6 +15,7 @@ links:
         - title: Social Sciences & Humanities
           url: /guides/socialsciences-humanities/social-sciences/
     - title: Getting Started
+      false_collection: true
       url: /getting-started/academicresearch/
       sublinks:
         - title: Accessing Reference Items
@@ -27,6 +29,7 @@ links:
         - title: Using JSTOR
           url: /getting-started/jstor/
     - title: Other Formats
+      false_collection: true
       url: /other-formats
       sublinks:
         - title: Ephemera
@@ -42,6 +45,7 @@ links:
         - title: Archived Websites
           url: /other-formats/archived-websites
     - title: About Us
+      false_collection: true
       sublinks:
         - title: National Library
           url: /about-us/national-library/
