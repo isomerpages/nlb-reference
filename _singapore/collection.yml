@@ -1,0 +1,4 @@
+collections:
+  singapore:
+    output: true
+    order: []
