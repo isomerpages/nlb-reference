@@ -18,15 +18,16 @@ A summary of all our available platforms and access restrictions can be found in
 
 | Publication Range       | Guide Index                               | Access                | Location                                                     |
 | ----------------------- | ----------------------------------------- | --------------------- | ------------------------------------------------------------ |
-| Before 1989             | [**NewspaperSG**](#newspapersg)           | Full remote access*   | Viewable from home                                           |
+| Before 1989             | [**NewspaperSG**](#newspapersg)           | Full remote access *  | Viewable from home                                           |
 |                         | [**Microfilm**](#newspapers-on-microfilm) | On-site access only   | Lee Kong Chian Reference Library Level 11 only               |
-| After 1989              | [**NewspaperSG**]((#newspapersg))         | On-site access only   | Available at all Library Multimedia Stations (MMS)**         |
+| After 1989              | [**NewspaperSG**]((#newspapersg))         | On-site access only   | Available at all Library Multimedia Stations (MMS) **        |
 |                         | [**Microfilm**](#newspapers-on-microfilm) | On-site access only   | Lee Kong Chian Reference Library Level 11 only               |
 |                         | [**Factiva**](#factiva)                   | On-site access only   | Available at all Library Multimedia Stations (MMS)           |
 | Within the last 30 days | [**Factiva**](#factiva)                   | Limited remote access | Viewable from home; does not include articles published by SPH |
 | Within the last 7 days  | [**SPH Newspapers**](#sph-enewspapers)    | Full remote access    | Viewable from home                                           |
 
-\* Content published by non-SPH third parties (e.g. AFP, Reuters, Singapore Standard) are restricted to our on-site Multimedia Stations (MMS) only.<br>** Not available at the library@esplanade and library@chinatown Public Libraries. 
+\* Content published by non-SPH third parties (e.g. AFP, Reuters, Singapore Standard) are restricted to our on-site Multimedia Stations (MMS) only
+ ** Not available at the Esplanade and Chinatown Public Libraries. 
 
 ## NewspaperSG
 

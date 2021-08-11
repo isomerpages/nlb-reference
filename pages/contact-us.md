@@ -18,6 +18,6 @@ locations:
 contacts:
   - title: General Enquiries & Feedback
     content:
-    - other:  Did you learn something useful from our resources? Do you have a new idea to share with us? Tell us what you think!
+    - other:  Did you learn something useful from our resources? Do you have a new idea to share with us? Tell us what you think! Email us at
     - email: ref@nlb.gov.sg
 ---

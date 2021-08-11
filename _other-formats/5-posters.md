@@ -6,7 +6,7 @@ collection_name: other-formats
 published: true
 ---
 
-# **Posters**
+# Posters
 
 Posters refer to pictorial notices often issued for the promotion and marketing of programmes, campaigns and events. They form a record of issues of interest to Singaporeans and provide an important insight into the social, cultural and political concerns of the period it was created.
 
