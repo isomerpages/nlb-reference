@@ -1,9 +1,8 @@
 ---
 title: About the Lee Kong Chian Reference Library
 permalink: /about-us/lkcrl/
-breadcrumb: About the Lee Kong Chian Reference Library
+breadcrumb: 'About the Lee Kong Chian Reference Library'
 ---
-
 
 # ![Lee Kong Chian Reference Library](/images/about-us/LKCRL-image.jpg)
 
