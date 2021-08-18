@@ -1,0 +1,6 @@
+collections:
+  business-innovation:
+    output: true
+    order:
+      - skills/core-reads-for-innovation.md
+      - productivity-and-innovation.md

@@ -1,0 +1,9 @@
+collections:
+  arts-visual-arts:
+    output: true
+    order:
+      - visual-arts/modern-art-in-singapore.md
+      - visual-arts/the-arts-space-season-1-jalan-jalan.md
+      - visual-arts/the-arts-space-season-2-impressions-of-nature.md
+      - visual-arts/the-arts-space-season-3-makan-makan.md
+      - singapore-visual-arts-on-nora.md
