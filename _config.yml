@@ -19,73 +19,6 @@ colors:
       color: '#00838f'
     - title: media-color-five
       color: '#00838f'
-collections:
-  topics:
-    output: true
-  literature:
-    output: true
-  arts:
-    output: true
-  arts-lit-arts:
-    output: true
-  arts-performing-arts:
-    output: true
-  arts-visual-arts:
-    output: true
-  database:
-    output: true
-  category:
-    output: true
-  resource-guides:
-    output: true
-  getting-started:
-    output: true
-  other-formats:
-    output: true
-  about us:
-    output: true
-  Singapore:
-    output: true
-  business:
-    output: true
-  business-career-guidance:
-    output: true
-  business-innovation:
-    output: true
-  business-management:
-    output: true
-  temp:
-    output: true
-  people:
-    output: true
-  places:
-    output: true
-  history:
-    output: true
-  guides:
-    output: true
-  visual-arts:
-    output: true
-  sci-tech:
-    output: true
-  science-technology-physical-sciences:
-    output: true
-  science-technology-technology:
-    output: true
-  social-sciences-humanities-history:
-    output: true
-  social-sciences-humanities-humanities:
-    output: true
-  social-sciences-humanities-social-sciences:
-    output: true
-  socsci-hum:
-    output: true
-  singapore-people:
-    output: true
-  singapore-places:
-    output: true
-  singapore-history:
-    output: true
 resources_name: guides
 permalink: none
 baseurl: ''
@@ -114,10 +47,13 @@ custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
+description: test test
+is_government: true
+staging: https://nlb-reference-staging.netlify.app
+prod: https://nlb-reference-prod.netlify.app
 plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
-description: test test
-is_government: true
+  - jekyll-remote-theme

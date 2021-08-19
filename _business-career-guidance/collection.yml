@@ -1,0 +1,8 @@
+collections:
+  business-career-guidance:
+    output: true
+    order:
+      - education-training-lifelong-learning.md
+      - education-and-career-guidance-resources-for-students-primary.md
+      - education-and-career-guidance-resources-for-students-secondary-above.md
+      - resources-for-education-and-career-guidance-personnel.md
