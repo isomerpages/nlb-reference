@@ -1,6 +1,0 @@
-collections:
-  topics:
-    output: true
-    order:
-      - performing-arts.md
-      - business.md
