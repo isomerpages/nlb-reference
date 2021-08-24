@@ -3,10 +3,9 @@ title: About the Lee Kong Chian Reference Library
 permalink: /about-us/lkcrl/
 breadcrumb: About the Lee Kong Chian Reference Library
 ---
-
 # ![Lee Kong Chian Reference Library](/images/about-us/LKCRL-image.jpg)
 
-The Lee Kong Chian Reference Library, named after Dr Lee Kong Chian, in honour of the Lee Foundation's S$60 million donation, aims to be the premier resource for works on or about Singapore and the region for local and overseas researchers and academics.
+**The Lee Kong Chian Reference Library**, named after Dr Lee Kong Chian, in honour of the Lee Foundation's S$60 million donation, aims to be the premier resource for works on or about Singapore and the region for local and overseas researchers and academics.
 
 ## **Lee Kong Chian Reference Library Collection Directory**
 
