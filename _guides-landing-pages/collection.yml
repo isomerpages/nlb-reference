@@ -1,5 +1,5 @@
 collections:
-  guides:
+  guides-landing-pages:
     output: true
     order:
       - resource-guides.md
