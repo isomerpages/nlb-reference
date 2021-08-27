@@ -5,7 +5,6 @@ breadcrumb: Air Pollution
 collection_name: science-technology-physical-sciences
 third_nav_title: Physical Sciences
 ---
-
 ![Air Pollution](\images\sci-tech\air-pollution-banner.jpg)
 
 Photo credit: [www.pexels.com](https://www.pexels.com/photo/air-air-pollution-climate-change-dawn-221012/)
