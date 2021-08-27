@@ -6,14 +6,12 @@ collection_name: singapore-people
 third_nav_title: A - H
 published: true
 ---
-
 ### <u>Guide Index</u>
 
 * [Introduction](#introduction)
 * [Selected books on Aw Boon Haw](#selected-books-on-aw-boon-haw)
 * [Selected articles on Aw Boon Haw](#selected-articles-on-aw-boon-haw)
 * [Selected newspaper articles on Aw Boon Haw](#selected-newspaper-articles-on-aw-boon-haw)
-
 
 ### <u>Introduction</u>
 
