@@ -12,4 +12,9 @@ This bibliography is organized into the following fifteen categories: Official D
 
 [1. Official documents - print](/files/cpm-biblio/1%20Official%20documents%20-%20print.pdf)
 
-[2. Official documents - online](/files/cpm-biblio/2%20Official%20documents%20-%20online.pdf)
+
+[2. Official documents - online](/files/cpm-biblio/2%20Official%20documents%20-
+%20online.pdf)
+
+
+[3. Other Archivl Sources](/files/cpm-biblio/3%20Other%20Archival%20Sources.pdf)
