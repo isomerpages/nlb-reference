@@ -8,6 +8,10 @@ At the height of the Cold War in the 1960s, the CPM renewed its armed revolt aga
 This bibliography lays out the extent of the material on the CPM available to the interested researcher. Some of the sources focus primarily on the CPM whilst others are CPM related. The categorization of the bibliography is intended to enable the researcher to sense make the vast array of material on the CPM. Most sources not in the English, Chinese and Malay language have been excluded. Sources that cannot be verified by the research team are also excluded.
 This bibliography is organized into the following fifteen categories: Official Documents (Print); Official Documents (Online); Other Archival Sources; Published Non-Government Documents and Publications; Newspaper Articles; Books and Chapters (Print); Books and Chapters (Online); Journal Articles and Occasional Papers (Print); Journal Articles and Occasional Papers (Online); Dissertations (Print); Dissertations (Online); Unpublished Papers; Websites and Online Articles; Oral History Interviews; and Audio Visual Recordings.
 
+[Foreword](/files/cpm-biblio/Foreword.pdf)
+
 [1. Official documents - print](/files/cpm-biblio/1%20Official%20documents%20-%20print.pdf)
+
+[Example Filename](/files/cpm-biblio/2%20Official%20documents%20-%20online.pdf)
 
 
