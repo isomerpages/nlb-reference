@@ -23,3 +23,15 @@ This bibliography is organized into the following fifteen categories: Official D
 
 [5. Newspaper Articles](/files/cpm-biblio/5%20Newspaper%20Articles.pdf)
 
+[6. Books and Chapters - Print](/files/cpm-biblio/6%20Books%20and%20Chapters%20-%20Print.pdf)
+
+[7. Books and Chapters - Online](/files/cpm-biblio/7%20Books%20and%20Chapters%20-%20Online.pdf)
+
+[8. Journal Articles & Occasional Papers - Print](/files/cpm-biblio/8%20Journal%20Articles%20and%20Occasional%20Papers%20-%20Print.pdf)
+
+[9. Journal Articles & Occasional Papers - Online](/files/cpm-biblio/9%20Journal%20Articles%20and%20Occasional%20Papers%20-%20Online.pdf)
+
+[10. Dissertations - Print](/files/cpm-biblio/10%20Dissertations%20-%20Print.pdf)
+
+[11. Dissertations - Online](/files/cpm-biblio/11%20Dissertations%20-%20Online.pdf)
+
