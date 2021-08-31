@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - digital-preservation-info-guide.md
-      - resource-guide.md
+      - digital-preservation-resources.md
