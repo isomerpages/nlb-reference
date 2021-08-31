@@ -11,6 +11,3 @@ This bibliography is organized into the following fifteen categories: Official D
 [1. Official documents - print](/files/cpm-biblio/1%20Official%20documents%20-%20print.pdf)
 
 
-
-
-
