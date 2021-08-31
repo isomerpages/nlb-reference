@@ -18,3 +18,8 @@ This bibliography is organized into the following fifteen categories: Official D
 
 
 [3. Other Archivl Sources](/files/cpm-biblio/3%20Other%20Archival%20Sources.pdf)
+
+[4. Published Non-Government Documents and Publications](/files/cpm-biblio/4%20Published%20Non-Government%20Documents%20and%20Publications.pdf)
+
+[5. Newspaper Articles](/files/cpm-biblio/5%20Newspaper%20Articles.pdf)
+
