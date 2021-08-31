@@ -35,3 +35,10 @@ This bibliography is organized into the following fifteen categories: Official D
 
 [11. Dissertations - Online](/files/cpm-biblio/11%20Dissertations%20-%20Online.pdf)
 
+[12. Unpublished Papers](/files/cpm-biblio/12%20Unpublished%20Papers.pdf)
+
+[13. Websites and Online Articles ](/files/cpm-biblio/13%20Websites%20and%20Online%20Articles.pdf)
+
+[14. Oral History Interviews](/files/cpm-biblio/14%20Oral%20History%20Interviews.pdf)
+
+[15. Audio Visual Recordings](/files/cpm-biblio/15%20Audio%20Visual%20Recordings.pdf)
