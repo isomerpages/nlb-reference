@@ -49,4 +49,4 @@ Official Documents (Print); Official Documents (Online); Other Archival Sources;
 
 ### Citation
 
-Ong Weichong (ed), Communist Party of Malaya: A Comprehensive Bibliography, Singapore: National Library Board, 2021.
+Ong Weichong (ed), *Communist Party of Malaya: A Comprehensive Bibliography*, Singapore: National Library Board, 2021.
