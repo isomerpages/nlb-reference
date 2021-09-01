@@ -1,0 +1,7 @@
+collections:
+  singapore-places:
+    output: true
+    order:
+      - places/.keep
+      - places/garden-smart.md
+      - places/streets-and-places-in-singapore.md

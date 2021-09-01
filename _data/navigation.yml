@@ -1,11 +1,4 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/ReferenceNLB-logo.png
-
 links:
   - title: Resource Guides
     url: /guides/
@@ -20,6 +13,8 @@ links:
         url: /guides/science-technology/technology/
       - title: Social Sciences & Humanities
         url: /guides/socialsciences-humanities/social-sciences/
+#      - title: Digital Preservation
+#        url: /digital-preservation/info-guide
   - title: Getting Started
     url: /getting-started/academicresearch/
     sublinks:
@@ -31,12 +26,8 @@ links:
         url: /getting-started/proquest/
       - title: Using EBSCOHost
         url: /getting-started/ebscohost/
-#      - title: Using Factiva
-#        url: /getting-started/factiva/
       - title: Using JSTOR
         url: /getting-started/jstor/
- #     - title: Fighting Fake News
- #       url: /getting-started/fighting-fake-news/
   - title: Other Formats
     url: /other-formats
     sublinks:
@@ -60,5 +51,5 @@ links:
         url: /about-us/lkcrl/
       - title: Contact Us
         url: /contact-us/
-
-  # - title: testing
+#  - title: Reminiscence Library
+#    collection: reminiscence-library

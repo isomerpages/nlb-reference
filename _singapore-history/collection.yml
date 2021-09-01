@@ -1,0 +1,11 @@
+collections:
+  singapore-history:
+    output: true
+    order:
+      - singapore/.keep
+      - singapore/water-security.md
+      - singapore-history/.keep
+      - singapore-history/development-of-education-in-singapore.md
+      - singapore-history/primary-accounts-of-singapore-from-1800s-to-1942.md
+      - singapore-history/singapore-s-public-housing.md
+      - singapore-history/communist-party-of-malaya-a-comprehensive-bibliography.md

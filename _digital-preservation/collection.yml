@@ -1,0 +1,6 @@
+collections:
+  digital-preservation:
+    output: true
+    order:
+      - digital-preservation-info-guide.md
+      - digital-preservation-resources.md

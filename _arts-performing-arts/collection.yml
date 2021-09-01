@@ -1,0 +1,7 @@
+collections:
+  arts-performing-arts:
+    output: true
+    order:
+      - performing-arts/.keep
+      - performing-arts/the-substation-donor-collection.md
+      - performing-arts/music-101.md

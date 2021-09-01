@@ -1,0 +1,7 @@
+collections:
+  science-technology-technology:
+    output: true
+    order:
+      - physical-sciences/.keep
+      - physical-sciences/occupational-safety-and-health-resource-guide.md
+      - physical-sciences/standards-and-references-resource-guide.md
