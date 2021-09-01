@@ -13,8 +13,8 @@ links:
         url: /guides/science-technology/technology/
       - title: Social Sciences & Humanities
         url: /guides/socialsciences-humanities/social-sciences/
-#      - title: Digital Preservation
-#        url: /digital-preservation/info-guide
+      - title: Digital Preservation
+        url: /digital-preservation/info-guide
   - title: Getting Started
     url: /getting-started/academicresearch/
     sublinks:
@@ -51,5 +51,5 @@ links:
         url: /about-us/lkcrl/
       - title: Contact Us
         url: /contact-us/
-#  - title: Reminiscence Library
-#    collection: reminiscence-library
+  - title: Reminiscence Library
+    collection: reminiscence-library
