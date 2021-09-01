@@ -20,6 +20,6 @@ contacts:
       - phone: ""
       - email: ref@nlb.gov.sg
       - other: Did you learn something useful from our resources? Do you have a new idea
-          to share with us? Tell us what you think! Email us at
+          to share with us? Tell us what you think!
     title: General Enquiries & Feedback
 ---
