@@ -1,9 +1,10 @@
 ---
 title: Digital Preservation Info Guide
-permalink: /digital-preservation/info-guide
+permalink: /guides/digital-preservation/info-guide
 breadcrumb: Information Guide
 collection_name: digital-preservation
 ---
+
 
 
 
