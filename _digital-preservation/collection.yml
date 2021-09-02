@@ -4,3 +4,4 @@ collections:
     order:
       - preserve-memories/.keep
       - digital-preservation-info-guide.md
+      - digital-preservation-resources.md
