@@ -83,7 +83,7 @@ Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
 
 ### **Websites**
 
-<img src="/images/digital-preservation/article 1.jpg" style="width:150px;" />
+<img src="/images/digital-preservation/article-1.jpg" style="width:150px;" />
 
 [**Digital preservation at the Library of Congress**](https://www.loc.gov/preservation/digital/){:target="_blank"}
 
