@@ -82,3 +82,11 @@ In this book, the author shares tips on how to archive your family photograph co
 Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
 
 ### **Websites**
+
+<img src="/images/digital-preservation/article 1.jpg" style="width:150px;" />
+
+[**Personal digital archiving**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203203934){:target="_blank"}
+
+*The No-Nonsense Guide to Born Digital Content* provides entry level tips and advice for librarians and archivists involved in collecting and preserving born-digital content. It discusses the policies and processes for managing born-digital content and includes case studies collected from various institutions around the world.
+
+All rights reserved, London: Facet Publishing, 2018
