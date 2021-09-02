@@ -97,5 +97,8 @@ This website provides information from the Library of Congress detailing how you
 The Digital Preservation Coalition is an organisation from the United Kingdom that advocates digital preservation. Written for individuals and institutions with the responsibility of preserving digital materials, this handbook is a comprehensive guide covering all aspects of digital preservation.
 
 
+<img src="/images/digital-preservation/Article-3.jpg" style="width:150px;" />
 
+[**Digital Preservation Coalition Technology Watch publications**](https://www.dpconline.org/digipres/discover-good-practice/tech-watch-reports){:target="_blank"}
 
+The Digital Preservation Coalition is an organisation from the United Kingdom that advocates digital preservation. These publications consist of in-depth reference guides and bite-sized papers that provide guidance on a variety of digital preservation topics, such as audio-visual, email and social media preservation. 
