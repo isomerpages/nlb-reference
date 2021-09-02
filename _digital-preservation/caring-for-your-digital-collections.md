@@ -4,7 +4,6 @@ permalink: /guides/digital-preservation/main/caring-digital
 breadcrumb: Information Guide
 collection_name: digital-preservation
 ---
-
 1. [Why do we preserve?](#1-why-do-we-preserve)
 2. [Identify what you want to preserve](#2-identify-what-you-want-to-preserve)
 3. [Decide which items matter most](#3-decide-which-items-matter-most)
@@ -118,5 +117,5 @@ For NLB digital preservation enquiries, please email [ref@nlb.gov.sg](mailto:ref
 
 #### 9. <u>Additional resources</u>
 
-Find additional resources like books, ebooks, websites and videos on caring for your digital collections [here](https://reference.nlb.gov.sg/guides/digital-preservation/main/resources){:target="_blank"}.
+Find additional resources like books, ebooks, websites and videos on caring for your digital collections [here](/guides/digital-preservation/main/resources){:target="_blank"}.
 ____________________________________________________________________
