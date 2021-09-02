@@ -117,8 +117,18 @@ The Digital Curation Centre is a world-leading centre of expertise in digital in
 
 [**Library of Congress Recommended Formats Statement − 2021−2022**](https://www.loc.gov/preservation/resources/rfs/){:target="_blank"}
 
-This statement released by the Library of Congress is a list of recommended formats for the long-term preservation of a variety of works such as textual, still image, moving image, audio and musical scores. The latest release is the 2021−2022 version.  
+This statement released by the Library of Congress is a list of recommended formats for the long-term preservation of a variety of works such as textual, still image, moving image, audio and musical scores. The latest release is the 2021−2022 version.
 
 
+<img src="/images/digital-preservation/Article-1.jpg" style="width:150px;" />
+
+[**Sustainability of digital formats: Planning for Library of Congress collections**](https://www.loc.gov/preservation/digital/formats/index.html){:target="_blank"}
+
+The Sustainability of Digital Formats website provides information about various aspects related to the formats of digital content, including sustainability factors and the evaluation of formats. The analyses and resources presented here are updated periodically.
 
 
+<img src="/images/digital-preservation/Article-6.jpg" style="width:150px;" />
+
+[**Community Owned digital Preservation Tool Registry (COPTR)**](https://coptr.digipres.org/index.php/Main_Page){:target="_blank"}
+
+A comprehensive resource on digital preservation tools created by and for the international digital preservation community with more than 500 preservation tools including information on their functionality, licensing, provenance and user experiences.
