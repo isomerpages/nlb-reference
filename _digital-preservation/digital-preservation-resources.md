@@ -5,11 +5,10 @@ breadcrumb: Resource Guide
 collection_name: digital-preservation
 third_nav_title: Digital Preservation
 ---
+![Digital preservation resources banner](/images/digital-preservation/Digital-preservation-resources-banner.jpg)
 
 
-<img src="\images\china-overview\artificial-intelligence.jpg" alt="artificial intelligence banner" style="width:800px;" />
-
-This is a selection of resources on artificial intelligence in China available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list.
+This is a selection of resources on digital preservation available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list.
 
 ### **NLB print and digital resources**
 
