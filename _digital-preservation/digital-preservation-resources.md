@@ -1,9 +1,10 @@
 ---
 title: Digital Preservation Resources
-permalink: /digital-preservation/resources
+permalink: /guides/digital-preservation/main/resources
 breadcrumb: Resource Guide
 collection_name: digital-preservation
 ---
+
 
 
 
