@@ -87,9 +87,9 @@ Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
 
 <img src="/images/digital-preservation/Article-1.jpg" style="width:150px;" />
 
-[**Digital preservation at the Library of Congress**](https://www.loc.gov/preservation/digital/){:target="_blank"}
+[**Caring for your digital collections**](https://guides.slsa.sa.gov.au/YourDigitalCollections/Introduction){:target="_blank"}
 
-This website provides information from the Library of Congress detailing how you can ensure the long-term survival of personal digital materials of various formats, such as digital photographs, digital audio files, digital videos, electronic mail, personal digital records and websites. In addition, a guide with basic steps for scanning documents and photographs is included.
+This guide by the State Library of South Australia provides recommendations on how you can ensure the long-term survival of personal digital materials of various formats, such as digital photographs, digital audio files, digital videos, electronic mail, personal digital records and websites.
 
 
 <img src="/images/digital-preservation/Article-2.jpg" style="width:150px;" />
@@ -136,7 +136,7 @@ A comprehensive resource on digital preservation tools created by and for the in
 
 <img src="/images/digital-preservation/Article-2.jpg" style="width:150px;" />
 
-[**File Format Assessments Wiki**](https://wiki.dpconline.org/index.php?title=File_Formats_Assessments){:target="_blank"}
+[**File format assessments Wiki**](https://wiki.dpconline.org/index.php?title=File_Formats_Assessments){:target="_blank"}
 
 This is a collaboration by The British Library, Library of Congress, Harvard Library, National Archives and Records Administration and Digital Preservation Coalition to coordinate and make available their file format assessments. It is a valuable resource to understand specific file formats and its preservation risks.
 
@@ -164,7 +164,7 @@ This website is a catalogue of current and obsolete physical media formats for a
 
 <img src="/images/digital-preservation/Article-4.jpg" style="width:150px;" />
 
-[**International Association of Sound and Audiovisual Archives (IASA)**](https://www.iasa-web.org/){:target="_blank"}
+[**Digital archiving of film & video: Principles and guidance**](https://memoriav.ch/wp-content/uploads/2019/11/DAFV_1.2_EN.pdf){:target="_blank"}
 
 This document, published by Memoriav, outlines some recommendations in the handling of digital audio-visual data as well as advice on digitisation and digital archiving of film and video for archivists, curators and those in the media production sector.
 
@@ -176,3 +176,54 @@ This document, published by Memoriav, outlines some recommendations in the handl
 In the third revised edition of *From Grain to Pixel*, author Giovanna Fossati examines the transition from analogue to digital film and its impacts on filmmaking and film archiving. In particular, she looks at the practices of the preservation, restoration and presentation of film and current developments in the field.
 
 
+<img src="/images/digital-preservation/Article-6.jpg" style="width:150px;" />
+
+**International Association of Sound and Audiovisual Archives (IASA)**
+* [**Guidelines on the production and preservation of digital audio objects**](https://www.iasa-web.org/audio-preservation-tc04){:target="_blank"}
+* [**Handling and storage of audio and video carriers**](https://www.iasa-web.org/handling-storage-tc05){:target="_blank"}
+* [**Guidelines for the preservation of video recordings**](https://www.iasa-web.org/tc06/guidelines-preservation-video-recordings){:target="_blank"}
+
+The International Association of Sound and Audiovisual Archives (IASA) is a professional association which advocates the development of the best professional standards and practice on the care, access and long-term preservation of the world’s sound and moving image heritage. Read more about the standards on the production and preservation of digital audio objects, handling and storage of audio and video carriers as well as guidelines for the preservation of video recordings.
+
+
+<img src="/images/digital-preservation/Article-5.jpg" style="width:150px;" />
+
+[**Creating preservable websites**](https://www.loc.gov/programs/web-archiving/for-site-owners/creating-preservable-websites/){:target="_blank"}
+
+These best practices by the Library of Congress provide tips on designing your website so that archiving institutions can preserve it as successfully as possible.
+
+
+<img src="/images/digital-preservation/Article-3.jpg" style="width:150px;" />
+
+[**IIPC beginner’s level training course in web archiving**](https://netpreserve.org/web-archiving/training-materials/){:target="_blank"}
+
+An online training course by the International Internet Preservation Consortium (IIPC), this website contains training materials that outline what web archives are, why they are important and how they work.
+
+
+### **Videos**
+
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://player.vimeo.com/video/62131787?h=6a6cd9053a&title=0&byline=0&portrait=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+**Preserving your digital treasures**
+
+As new technologies emerge and existing ones become obsolete, there is a need to manage our personal digital assets to ensure ongoing accessibility. This video by the State Library of Queensland outlines an approach to archiving and managing personal digital collections like audio, video, text and photos to keep them accessible for the future.
+
+
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iUMH2svn_uM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+**Saving your [digital] life: How to preserve your digital photos and memories**
+
+This video is a presentation by Tricia Patterson, Digital Preservation Analyst at Harvard Library, who shares why digital preservation is important and what the risks to digital materials are. It also introduces good practices for digitising and preserving digital materials.
+
+
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8iEBaBbe-yk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+**Say hello to Web Archive Singapore**
+
+This is an introductory video to Web Archive Singapore (WAS). Managed by the National Library Board, WAS preserves Singapore websites, even those that are no longer active. From events to people, organisations to historical milestones, WAS is a comprehensive collection of websites covering various aspects of life in Singapore.
