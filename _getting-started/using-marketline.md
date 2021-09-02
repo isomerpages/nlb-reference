@@ -6,7 +6,7 @@ permalink: /getting-started/marketline
 
 ***MarketLine Advantage*** offers an <u>interactive platform</u> giving you anytime access to up-to-date information and financial data on [companies](www.google.com), industries and countries across every major marketplace in the world.
 
-error
+**error** [link](www.google.com)
 
 Accessing Marketline Advantage
 
@@ -48,6 +48,4 @@ Hyperlink to [Google](www.google.com)
 
 
 | Title | Description | 
-| -------- | -------- | 
-| Text     | 688. |     
-
+|
