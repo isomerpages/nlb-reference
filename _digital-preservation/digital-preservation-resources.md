@@ -37,10 +37,19 @@ This book is intended as a practical guide for libraries, archives and museums t
 All rights reserved, Lanham: Rowman & Littlefield, 2017
 
 
-<img src="/images/digital-preservation/take-control-digital-legacy.jpg" style="width:150px;" />
+<img src="/images/digital-preservation/libraries-archives-digital-age.jpg" style="width:150px;" />
 
 [**Libraries and archives in the digital age**](https://nlb.overdrive.com/media/C328898B-A056-4965-9ED4-B71D2232BD53 ){:target="_blank"}
 
 *Libraries and Archives in the Digital Age* contains a compilation of essays that discusses the digital future of libraries and archives. It is categorised into four sections covering access, preservation and community, archival politics and digital practice.
 
 Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
+
+
+<img src="/images/digital-preservation/guide-personal-digital-archiving.jpg" style="width:150px;" />
+
+[**The complete guide to personal digital archiving**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203221737){:target="_blank"}
+
+This book is intended as a practical guide for libraries, archives and museums to preserve their digital content for long term access. It explains what digital preservation is as well as its management, curation, technology and content-related aspects.
+
+All rights reserved, Lanham: Rowman & Littlefield, 2017
