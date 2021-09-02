@@ -230,4 +230,4 @@ This is an introductory video to Web Archive Singapore (WAS). Managed by the Nat
 
 
 The *Caring for Your Digital Collections*  guide offers useful tips on how you can ensure that your digital materials can be accessed in the future.
-View the guide [here](
+View the guide [here](/guides/digital-preservation/main/caring-digital)
