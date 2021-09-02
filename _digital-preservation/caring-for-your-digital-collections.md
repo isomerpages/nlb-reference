@@ -5,9 +5,6 @@ breadcrumb: Information Guide
 collection_name: digital-preservation
 ---
 
-
-### **Caring for your digital collections**
-
 1. [Why do we preserve?](#1-why-do-we-preserve)
 2. [Identify what you want to preserve](#2-identify-what-you-want-to-preserve)
 3. [Decide which items matter most](#3-decide-which-items-matter-most)
