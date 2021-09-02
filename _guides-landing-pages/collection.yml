@@ -2,8 +2,6 @@ collections:
   guides-landing-pages:
     output: true
     order:
-      - digital-preservation/.keep
-      - digital-preservation/resource-guides.md
       - singapore/.keep
       - singapore/people.md
       - singapore/places.md
@@ -24,3 +22,5 @@ collections:
       - social-sciences-humanities/social-sciences.md
       - social-sciences-humanities/history.md
       - social-sciences-humanities/humanities.md
+      - digital-preservation/.keep
+      - digital-preservation/resource-guides.md
