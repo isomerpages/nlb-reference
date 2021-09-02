@@ -6,7 +6,16 @@ collection_name: digital-preservation
 ---
 <img src="/images/digital-preservation/Digital-preservation-resources-banner.jpg" alt="digital preservation banner" style="width:800px;" />
 
+
+### <u>Guide Index</u>
+
+* [NLB print and digital resources](#nlb-print-and-digital-resources)
+* [Websites](#websites)
+
+
 This is a selection of resources on digital preservation available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list.
+
+
 
 ### **NLB print and digital resources**
 
@@ -73,4 +82,3 @@ In this book, the author shares tips on how to archive your family photograph co
 Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
 
 ### **Websites**
-
