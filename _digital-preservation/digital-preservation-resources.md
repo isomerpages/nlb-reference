@@ -53,3 +53,15 @@ Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
 This book is a collection of essays related to the management and preservation of personal digital archives. It covers the best practices for personal digital archives, case studies of community-based archiving and academic-based archiving as well as ethical implications of personal data.
 
 All rights reserved, Chicago: ALA Editions, an imprint of the American Library Association, 2018
+
+
+<img src="/images/digital-preservation/no-nonsense-guide-born-digital-content.jpg" style="width:150px;" />
+
+[**The no-nonsense guide to born-digital content**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203203934){:target="_blank"}
+
+*The No-Nonsense Guide to Born Digital Content* provides entry level tips and advice for librarians and archivists involved in collecting and preserving born-digital content. It discusses the policies and processes for managing born-digital content and includes case studies collected from various institutions around the world.
+
+All rights reserved, London: Facet Publishing, 2018
+
+
+
