@@ -12,6 +12,7 @@ collection_name: digital-preservation
 * [NLB print and digital resources](#nlb-print-and-digital-resources)
 * [Websites](#websites)
 * [Videos](#videos)
+* [Information guide on caring for your digital collections](#information-guide-on-caring-for-your-digital-collections)
 
 
 This is a selection of resources on digital preservation available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list.
@@ -229,5 +230,7 @@ This video is a presentation by Tricia Patterson, Digital Preservation Analyst a
 This is an introductory video to Web Archive Singapore (WAS). Managed by the National Library Board, WAS preserves Singapore websites, even those that are no longer active. From events to people, organisations to historical milestones, WAS is a comprehensive collection of websites covering various aspects of life in Singapore.
 
 
+### **Information guide on caring for your digital collections**
+
 The *Caring for Your Digital Collections*  guide offers useful tips on how you can ensure that your digital materials can be accessed in the future.
-View the guide [here](/guides/digital-preservation/main/caring-digital)
+View the guide [here](/guides/digital-preservation/main/caring-digital){:target="_blank"}.
