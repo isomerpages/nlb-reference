@@ -1,9 +1,10 @@
 ---
 title: Caring for your digital collections
-permalink: /guides/digital-preservation/main/info-guide
+permalink: /guides/digital-preservation/main/caring-digital
 breadcrumb: Information Guide
 collection_name: digital-preservation
 ---
+
 1. [Why do we preserve?](#1-why-do-we-preserve)
 2. [Identify what you want to preserve](#2-identify-what-you-want-to-preserve)
 3. [Decide which items matter most](#3-decide-which-items-matter-most)
