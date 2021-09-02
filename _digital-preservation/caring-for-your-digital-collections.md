@@ -13,6 +13,7 @@ collection_name: digital-preservation
 6. [Ensure sustainability](#6-ensure-sustainability)
 7. [NLB and digital preservation](#7-nlb-and-digital-preservation)
 8. [Contact us](#8-contact-us)
+9. [Additional resources](#9-additional-resources)
 
 #### 1. <u>Why do we preserve?</u>
 
@@ -113,3 +114,11 @@ If you are aware of the existence of Asian films of any genre in various formats
 #### 8. <u>Contact us</u>
 
 For NLB digital preservation enquiries, please email [ref@nlb.gov.sg](mailto:ref@nlb.gov.sg).
+
+
+#### 9. <u>Additional resources</u>
+
+The *Caring for Your Digital Collections*  guide offers useful tips on how you can ensure that your digital materials can be accessed in the future.
+View the guide [here](
+
+____________________________________________________________________
