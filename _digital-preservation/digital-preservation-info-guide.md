@@ -4,7 +4,7 @@ permalink: /guides/digital-preservation/main/info-guide
 breadcrumb: Information Guide
 collection_name: digital-preservation
 ---
-### **Caring for Your Digital Collections**
+### **Caring for your digital collections**
 
 1. [Why do we preserve?](#1-why-do-we-preserve)
 2. [Identify what you want to preserve](#2-identify-what-you-want-to-preserve)
@@ -114,5 +114,3 @@ If you are aware of the existence of Asian films of any genre in various formats
 #### 8. <u>Contact us</u>
 
 For NLB digital preservation enquiries, please email [ref@nlb.gov.sg](mailto:ref@nlb.gov.sg).
-
-------------------------------------------------------------------------------
