@@ -2,6 +2,7 @@ collections:
   guides-landing-pages:
     output: true
     order:
+      - digital-preservation/.keep
       - resource-guides.md
       - singapore/.keep
       - singapore/people.md
