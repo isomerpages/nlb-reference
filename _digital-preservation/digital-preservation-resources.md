@@ -11,13 +11,15 @@ collection_name: digital-preservation
 
 * [NLB print and digital resources](#nlb-print-and-digital-resources)
 * [Websites](#websites)
+* [Videos](#videos)
 
-
+# 
 This is a selection of resources on digital preservation available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list.
 
 
 
 ### **NLB print and digital resources**
+# 
 
 <img src="/images/digital-preservation/saving-your-digital-past-present-future.jpg" style="width:150px;" />
 
@@ -27,7 +29,7 @@ In this digital age, we generate and store a large volume of personal digital in
 
 Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
 
-
+# 
 <img src="/images/digital-preservation/take-control-digital-legacy.jpg" style="width:150px;" />
 
 [**Take control of your digital legacy**](https://nlb.overdrive.com/media/D37BD3C5-A115-4489-8171-98D7E6DAC077){:target="_blank"}
@@ -101,4 +103,4 @@ The Digital Preservation Coalition is an organisation from the United Kingdom th
 
 [**Digital Preservation Coalition Technology Watch publications**](https://www.dpconline.org/digipres/discover-good-practice/tech-watch-reports){:target="_blank"}
 
-The Digital Preservation Coalition is an organisation from the United Kingdom that advocates digital preservation. These publications consist of in-depth reference guides and bite-sized papers that provide guidance on a variety of digital preservation topics, such as audio-visual, email and social media preservation. 
+The Digital Preservation Coalition is an organisation from the United Kingdom that advocates digital preservation. These publications consist of in-depth reference guides and bite-sized papers that provide guidance on a variety of digital preservation topics, such as audio-visual, email and social media preservation.
