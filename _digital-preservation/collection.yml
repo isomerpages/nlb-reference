@@ -2,5 +2,5 @@ collections:
   digital-preservation:
     output: true
     order:
-      - digital-preservation-info-guide.md
+      - caring-for-your-digital-collections.md
       - digital-preservation-resources.md
