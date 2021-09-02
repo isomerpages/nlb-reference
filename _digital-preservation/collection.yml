@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - preserving-digital-materials/.keep
-      - digital-preservation-info-guide.md
       - digital-preservation-resources.md
