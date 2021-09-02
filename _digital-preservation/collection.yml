@@ -2,6 +2,6 @@ collections:
   digital-preservation:
     output: true
     order:
-      - dp/.keep
-      - dp/digital-preservation-info-guide.md
-      - dp/digital-preservation-resources.md
+      - digital/.keep
+      - digital/digital-preservation-info-guide.md
+      - digital/digital-preservation-resources.md
