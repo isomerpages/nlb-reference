@@ -132,3 +132,47 @@ The Sustainability of Digital Formats website provides information about various
 [**Community Owned digital Preservation Tool Registry (COPTR)**](https://coptr.digipres.org/index.php/Main_Page){:target="_blank"}
 
 A comprehensive resource on digital preservation tools created by and for the international digital preservation community with more than 500 preservation tools including information on their functionality, licensing, provenance and user experiences.
+
+
+<img src="/images/digital-preservation/Article-2.jpg" style="width:150px;" />
+
+[**File Format Assessments Wiki**](https://wiki.dpconline.org/index.php?title=File_Formats_Assessments){:target="_blank"}
+
+This is a collaboration by The British Library, Library of Congress, Harvard Library, National Archives and Records Administration and Digital Preservation Coalition to coordinate and make available their file format assessments. It is a valuable resource to understand specific file formats and its preservation risks.
+
+
+<img src="/images/digital-preservation/Article-3.jpg" style="width:150px;" />
+
+[**How to preserve family archives (papers and photographs)**](https://www.archives.gov/preservation/family-archives){:target="_blank"}
+
+These guides from the United States National Archives and Records Administration contain archiving tips on preserving family papers and photographs, including how to handle, store, display, digitise and repair original items. In particular, the guide on digitisation highlights some considerations to note when digitising papers and photographs. 
+
+
+<img src="/images/digital-preservation/Article-5.jpg" style="width:150px;" />
+
+[**Fundamentals of AV preservation**](https://www.nedcc.org/av-textbook){:target="_blank"}
+
+This textbook, developed by AVPreserve (now known as AVP) and the Northeast Document Conservation Center, covers topics on audio-visual preservation including the care and handling of physical carriers, inventory and assessment, digitisation, management of digital audio-visual collections and disaster planning.
+
+
+<img src="/images/digital-preservation/Article-1.jpg" style="width:150px;" />
+
+[**Museum of obsolete media**](https://obsoletemedia.org/){:target="_blank"}
+
+This website is a catalogue of current and obsolete physical media formats for audio, video, film and data storage. It provides a brief description of each format and includes information on its media stability and obsolescence ratings.
+
+
+<img src="/images/digital-preservation/Article-4.jpg" style="width:150px;" />
+
+[**International Association of Sound and Audiovisual Archives (IASA)**](https://www.iasa-web.org/){:target="_blank"}
+
+This document, published by Memoriav, outlines some recommendations in the handling of digital audio-visual data as well as advice on digitisation and digital archiving of film and video for archivists, curators and those in the media production sector.
+
+
+<img src="/images/digital-preservation/Article-2.jpg" style="width:150px;" />
+
+[**From grain to pixel: The archival life of film in transition**](https://library.oapen.org/viewer/web/viewer.html?file=/bitstream/handle/20.500.12657/24964/9789048543526_epdf.pdf?sequence=1&isAllowed=y){:target="_blank"}
+
+In the third revised edition of *From Grain to Pixel*, author Giovanna Fossati examines the transition from analogue to digital film and its impacts on filmmaking and film archiving. In particular, she looks at the practices of the preservation, restoration and presentation of film and current developments in the field.
+
+
