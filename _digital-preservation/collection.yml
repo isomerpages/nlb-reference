@@ -4,3 +4,4 @@ collections:
     order:
       - preserving-digital-materials/.keep
       - preserving-digital-materials/digital-preservation-info-guide.md
+      - preserving-digital-materials/digital-preservation-resources.md
