@@ -6,5 +6,5 @@ third_nav_title: Digital Preservation
 <img src="/images/digital-preservation/Digital-preservation-resources-banner.jpg" alt="digital preservation banner" style="width:800px;" />
 
 
-* [**Digital Preservation Info Guide- Caring for your digital collections**](/guides/digital-preservation/main/info-guide)
-* [**Digital Preservation Resources**](/guides/digital-preservation/main/resources)
+* [**Caring for your digital collections**](/guides/digital-preservation/main/info-guide)
+* [**Resources**](/guides/digital-preservation/main/resources)
