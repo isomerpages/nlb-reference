@@ -10,9 +10,9 @@ This is a selection of resources on digital preservation available from the [NLB
 
 ### **NLB print and digital resources**
 
-<img src="/images/book-covers/ai superpowers.jpg" style="width:150px;" />
+<img src="/images/digital-preservation/saving-your-digital-past-present-future.jpg" style="width:150px;" />
 
-[**AI superpowers: China, Silicon Valley, and the New World Order**](https://nlb.overdrive.com/media/3758806){:target="_blank"}
+[**Saving your digital past, present and future: A step-by-step guide**](https://nlb.overdrive.com/media/FFF67288-706B-4D73-AF30-2CDC87EC35E3){:target="_blank"}
 
 AI Superpower examines the rapid development of artificial intelligence (AI) in China, which has caught up to the Silicon Valley in the United States. Besides the impact that AI might have on jobs in both countries, this ebook also looks at how AI could enhance jobs and provide solutions to some of the most profound changes in human history.
 
