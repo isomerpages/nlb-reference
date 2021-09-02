@@ -14,7 +14,7 @@ links:
       - title: Social Sciences & Humanities
         url: /guides/socialsciences-humanities/social-sciences/
       - title: Digital Preservation
-        url: /digital-preservation/info-guide
+        url: /guides/digital-preservation/main/
   - title: Getting Started
     url: /getting-started/academicresearch/
     sublinks:
@@ -28,6 +28,8 @@ links:
         url: /getting-started/ebscohost/
       - title: Using JSTOR
         url: /getting-started/jstor/
+      - title: Using Marketline
+        url: /getting-started/marketline/
   - title: Other Formats
     url: /other-formats
     sublinks:
