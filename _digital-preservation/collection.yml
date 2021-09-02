@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - preserve-memories/.keep
-      - preserve-memories/digital-preservation-resources.md
       - digital-preservation-info-guide.md
