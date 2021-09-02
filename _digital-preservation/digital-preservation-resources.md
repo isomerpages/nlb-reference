@@ -89,4 +89,13 @@ Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
 
 This website provides information from the Library of Congress detailing how you can ensure the long-term survival of personal digital materials of various formats, such as digital photographs, digital audio files, digital videos, electronic mail, personal digital records and websites. In addition, a guide with basic steps for scanning documents and photographs is included.
 
-All rights reserved, London: Facet Publishing, 2018
+
+<img src="/images/digital-preservation/Article-2.jpg" style="width:150px;" />
+
+[**Digital preservation handbook**](https://www.dpconline.org/handbook){:target="_blank"}
+
+The Digital Preservation Coalition is an organisation from the United Kingdom that advocates digital preservation. Written for individuals and institutions with the responsibility of preserving digital materials, this handbook is a comprehensive guide covering all aspects of digital preservation.
+
+
+
+
