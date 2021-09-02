@@ -50,6 +50,6 @@ Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
 
 [**The complete guide to personal digital archiving**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203221737){:target="_blank"}
 
-This book is intended as a practical guide for libraries, archives and museums to preserve their digital content for long term access. It explains what digital preservation is as well as its management, curation, technology and content-related aspects.
+This book is a collection of essays related to the management and preservation of personal digital archives. It covers the best practices for personal digital archives, case studies of community-based archiving and academic-based archiving as well as ethical implications of personal data.
 
-All rights reserved, Lanham: Rowman & Littlefield, 2017
+All rights reserved, Chicago: ALA Editions, an imprint of the American Library Association, 2018
