@@ -18,3 +18,18 @@ In this digital age, we generate and store a large volume of personal digital in
 
 Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
 
+
+<img src="/images/digital-preservation/take-control-digital-legacy.jpg" style="width:150px;" />
+
+[**Take control of your digital legacy**](https://nlb.overdrive.com/media/D37BD3C5-A115-4489-8171-98D7E6DAC077){:target="_blank"}
+
+Learn about the need for the preservation of digital data from this ebook, which looks at how you can plan and manage your digital legacy. The author details the process of compiling one’s digital assets, documenting a personalised digital will, and preserving the data to pass on to future generations.
+
+Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
+
+
+[**Take control of your digital legacy**](https://nlb.overdrive.com/media/D37BD3C5-A115-4489-8171-98D7E6DAC077){:target="_blank"}
+
+Learn about the need for the preservation of digital data from this ebook, which looks at how you can plan and manage your digital legacy. The author details the process of compiling one’s digital assets, documenting a personalised digital will, and preserving the data to pass on to future generations.
+
+Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
