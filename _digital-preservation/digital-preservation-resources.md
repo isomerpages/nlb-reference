@@ -28,8 +28,10 @@ Learn about the need for the preservation of digital data from this ebook, which
 Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
 
 
-[**Take control of your digital legacy**](https://nlb.overdrive.com/media/D37BD3C5-A115-4489-8171-98D7E6DAC077){:target="_blank"}
+<img src="/images/digital-preservation/digital-preservation-libraries-archives-museums.jpeg" style="width:150px;" />
 
-Learn about the need for the preservation of digital data from this ebook, which looks at how you can plan and manage your digital legacy. The author details the process of compiling one’s digital assets, documenting a personalised digital will, and preserving the data to pass on to future generations.
+[**Digital preservation for libraries, archives and museums**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202818851){:target="_blank"}
 
-Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
+This book is intended as a practical guide for libraries, archives and museums to preserve their digital content for long term access. It explains what digital preservation is as well as its management, curation, technology and content-related aspects.
+
+All rights reserved, Lanham: Rowman & Littlefield, 2017
