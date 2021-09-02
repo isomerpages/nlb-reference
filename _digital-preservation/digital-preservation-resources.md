@@ -85,8 +85,8 @@ Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
 
 <img src="/images/digital-preservation/article 1.jpg" style="width:150px;" />
 
-[**Personal digital archiving**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203203934){:target="_blank"}
+[**Digital preservation at the Library of Congress**](https://www.loc.gov/preservation/digital/){:target="_blank"}
 
-*The No-Nonsense Guide to Born Digital Content* provides entry level tips and advice for librarians and archivists involved in collecting and preserving born-digital content. It discusses the policies and processes for managing born-digital content and includes case studies collected from various institutions around the world.
+This website provides information from the Library of Congress detailing how you can ensure the long-term survival of personal digital materials of various formats, such as digital photographs, digital audio files, digital videos, electronic mail, personal digital records and websites. In addition, a guide with basic steps for scanning documents and photographs is included.
 
 All rights reserved, London: Facet Publishing, 2018
