@@ -69,7 +69,7 @@ It would also be useful to record key information about your digital materials. 
 * Photo/video/audio/publication credit or rights (if any) (in YYYY);
 * Remarks/condition of items.
 
-[^1]: “Digital Preservation at the Library of Congress,” Library of Congress, accessed 1 September 2021, <https://www.loc.gov/preservation/digital/>{:target="_blank"}
+[^1]: “Digital preservation at the Library of Congress,” Library of Congress, accessed 1 September 2021, <https://www.loc.gov/preservation/digital/>{:target="_blank"}
 [^2]: “Personal digital archive toolbox,” National and State Libraries of Australia, last reviewed 1 December 2017, <https://www.nsla.org.au/publication/digital-archive-toolkit>{:target="_blank"}
 [^3]: “Digital preservation handbook – Content specific preservation,” Digital Preservation Coalition, accessed 1 March 2021, <https://www.dpconline.org/docman/digital-preservation-handbook2/1551-dp-handbook-content-specific-preservation>{:target="_blank"}
 
