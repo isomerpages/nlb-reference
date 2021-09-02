@@ -1,7 +1,6 @@
 ---
-title: Digital Preservation Resources
+title: Resources
 permalink: /guides/digital-preservation/main/resources
-breadcrumb: Resource Guide
 collection_name: digital-preservation
 ---
 <img src="/images/digital-preservation/Digital-preservation-resources-banner.jpg" alt="digital preservation banner" style="width:800px;" />
@@ -12,6 +11,7 @@ collection_name: digital-preservation
 * [NLB print and digital resources](#nlb-print-and-digital-resources)
 * [Websites](#websites)
 * [Videos](#videos)
+* [Information guide on caring for your digital collections](#information-guide-on-caring-for-your-digital-collections)
 
 
 This is a selection of resources on digital preservation available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list.
@@ -19,9 +19,8 @@ This is a selection of resources on digital preservation available from the [NLB
 
 
 ### **NLB print and digital resources**
- 
 
-<img src="/images/digital-preservation/saving-your-digital-past-present-future.jpg" style="width:150px;" />
+<a href="https://nlb.overdrive.com/media/FFF67288-706B-4D73-AF30-2CDC87EC35E3" target="_blank"><img src="/images/digital-preservation/saving-your-digital-past-present-future.jpg" style="width:150px;"></a>
 
 [**Saving your digital past, present and future: A step-by-step guide**](https://nlb.overdrive.com/media/FFF67288-706B-4D73-AF30-2CDC87EC35E3){:target="_blank"}
 
@@ -30,7 +29,7 @@ In this digital age, we generate and store a large volume of personal digital in
 Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
 
 
-<img src="/images/digital-preservation/take-control-digital-legacy.jpg" style="width:150px;" />
+<a href="https://nlb.overdrive.com/media/D37BD3C5-A115-4489-8171-98D7E6DAC077" target="_blank"><img src="/images/digital-preservation/take-control-digital-legacy.jpg" style="width:150px;"></a>
 
 [**Take control of your digital legacy**](https://nlb.overdrive.com/media/D37BD3C5-A115-4489-8171-98D7E6DAC077){:target="_blank"}
 
@@ -39,7 +38,7 @@ Learn about the need for the preservation of digital data from this ebook, which
 Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
 
 
-<img src="/images/digital-preservation/digital-preservation-libraries-archives-museums.jpg" style="width:150px;" />
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202818851" target="_blank"><img src="/images/digital-preservation/digital-preservation-libraries-archives-museums.jpg" style="width:150px;"></a>
 
 [**Digital preservation for libraries, archives and museums**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202818851){:target="_blank"}
 
@@ -48,7 +47,7 @@ This book is intended as a practical guide for libraries, archives and museums t
 All rights reserved, Lanham: Rowman & Littlefield, 2017
 
 
-<img src="/images/digital-preservation/libraries-archives-digital-age.jpg" style="width:150px;" />
+<a href="https://nlb.overdrive.com/media/C328898B-A056-4965-9ED4-B71D2232BD53" target="_blank"><img src="/images/digital-preservation/libraries-archives-digital-age.jpg" style="width:150px;"></a>
 
 [**Libraries and archives in the digital age**](https://nlb.overdrive.com/media/C328898B-A056-4965-9ED4-B71D2232BD53 ){:target="_blank"}
 
@@ -57,7 +56,7 @@ All rights reserved, Lanham: Rowman & Littlefield, 2017
 Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
 
 
-<img src="/images/digital-preservation/guide-personal-digital-archiving.jpg" style="width:150px;" />
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203221737" target="_blank"><img src="/images/digital-preservation/guide-personal-digital-archiving.jpg" style="width:150px;"></a>
 
 [**The complete guide to personal digital archiving**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203221737){:target="_blank"}
 
@@ -66,7 +65,7 @@ This book is a collection of essays related to the management and preservation o
 All rights reserved, Chicago: ALA Editions, an imprint of the American Library Association, 2018
 
 
-<img src="/images/digital-preservation/no-nonsense-guide-born-digital-content.jpg" style="width:150px;" />
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203203934" target="_blank"><img src="/images/digital-preservation/no-nonsense-guide-born-digital-content.jpg" style="width:150px;"></a>
 
 [**The no-nonsense guide to born-digital content**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203203934){:target="_blank"}
 
@@ -75,7 +74,7 @@ All rights reserved, Chicago: ALA Editions, an imprint of the American Library A
 All rights reserved, London: Facet Publishing, 2018
 
 
-<img src="/images/digital-preservation/how-to-archive-family-photos.jpg" style="width:150px;" />
+<a href="https://nlb.overdrive.com/media/FB65F0EE-AC97-4BAD-AB7A-1920317AE539" target="_blank"><img src="/images/digital-preservation/how-to-archive-family-photos.jpg" style="width:150px;"></a>
 
 [**How to archive family photos: A step-by-step guide to organize and share your photos digitally**](https://nlb.overdrive.com/media/FB65F0EE-AC97-4BAD-AB7A-1920317AE539){:target="_blank"}
 
@@ -206,7 +205,7 @@ An online training course by the International Internet Preservation Consortium 
 <iframe width="560" height="315" src="https://player.vimeo.com/video/62131787?h=6a6cd9053a&title=0&byline=0&portrait=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-**Preserving your digital treasures**
+[**Preserving your digital treasures**](https://vimeo.com/62131787){:target="_blank"}
 
 As new technologies emerge and existing ones become obsolete, there is a need to manage our personal digital assets to ensure ongoing accessibility. This video by the State Library of Queensland outlines an approach to archiving and managing personal digital collections like audio, video, text and photos to keep them accessible for the future.
 
@@ -215,7 +214,7 @@ As new technologies emerge and existing ones become obsolete, there is a need to
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iUMH2svn_uM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-**Saving your [digital] life: How to preserve your digital photos and memories**
+[**Saving your [digital] life: How to preserve your digital photos and memories**](https://www.youtube.com/watch?v=iUMH2svn_uM){:target="_blank"}
 
 This video is a presentation by Tricia Patterson, Digital Preservation Analyst at Harvard Library, who shares why digital preservation is important and what the risks to digital materials are. It also introduces good practices for digitising and preserving digital materials.
 
@@ -224,6 +223,12 @@ This video is a presentation by Tricia Patterson, Digital Preservation Analyst a
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8iEBaBbe-yk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-**Say hello to Web Archive Singapore**
+[**Say hello to Web Archive Singapore**](https://www.youtube.com/watch?v=8iEBaBbe-yk){:target="_blank"}
 
 This is an introductory video to Web Archive Singapore (WAS). Managed by the National Library Board, WAS preserves Singapore websites, even those that are no longer active. From events to people, organisations to historical milestones, WAS is a comprehensive collection of websites covering various aspects of life in Singapore.
+
+
+### **Information guide on caring for your digital collections**
+
+The *Caring for Your Digital Collections*  guide offers useful tips on how you can ensure that your digital materials can be accessed in the future.
+View the guide [here](/guides/digital-preservation/main/caring-digital){:target="_blank"}.

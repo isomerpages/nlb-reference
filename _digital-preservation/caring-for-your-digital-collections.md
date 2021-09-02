@@ -1,11 +1,14 @@
 ---
-title: Digital Preservation Info Guide
-permalink: /guides/digital-preservation/main/info-guide
-breadcrumb: Information Guide
+title: Caring for your digital collections
+permalink: /guides/digital-preservation/main/caring-digital
 collection_name: digital-preservation
 ---
-### **Caring for Your Digital Collections**
+Below is an infographic which summarises the key steps you can take in your own digital preservation journey. You can also refer to the more detailed guide under the infographic.
 
+<img src="/images/digital-preservation/Caring-for-your-digital-collections-infographic.png" alt="Caring for your digital collections infographic" style="width:1000px;" />
+
+
+### <u>Index</u>
 1. [Why do we preserve?](#1-why-do-we-preserve)
 2. [Identify what you want to preserve](#2-identify-what-you-want-to-preserve)
 3. [Decide which items matter most](#3-decide-which-items-matter-most)
@@ -14,6 +17,7 @@ collection_name: digital-preservation
 6. [Ensure sustainability](#6-ensure-sustainability)
 7. [NLB and digital preservation](#7-nlb-and-digital-preservation)
 8. [Contact us](#8-contact-us)
+9. [Additional resources](#9-additional-resources)
 
 #### 1. <u>Why do we preserve?</u>
 
@@ -115,4 +119,9 @@ If you are aware of the existence of Asian films of any genre in various formats
 
 For NLB digital preservation enquiries, please email [ref@nlb.gov.sg](mailto:ref@nlb.gov.sg).
 
-------------------------------------------------------------------------------
+
+#### 9. <u>Additional resources</u>
+
+Find additional resources like books, ebooks, websites and videos on caring for your digital collections [here](/guides/digital-preservation/main/resources){:target="_blank"}.
+
+____________________________________________________________________
