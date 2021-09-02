@@ -4,14 +4,7 @@ permalink: /guides/digital-preservation/main/resources
 breadcrumb: Resource Guide
 collection_name: digital-preservation
 ---
-
-
-
-
-
-
-![Digital preservation resources banner](/images/digital-preservation/Digital-preservation-resources-banner.jpg)
-
+<img src="/images/digital-preservation/Digital-preservation-resources-banner.jpg" alt="digital preservation banner" style="width:800px;" />
 
 This is a selection of resources on digital preservation available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list.
 
