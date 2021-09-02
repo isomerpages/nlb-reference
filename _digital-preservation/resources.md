@@ -4,7 +4,6 @@ permalink: /guides/digital-preservation/main/resources
 breadcrumb: Resource Guide
 collection_name: digital-preservation
 ---
-
 <img src="/images/digital-preservation/Digital-preservation-resources-banner.jpg" alt="digital preservation banner" style="width:800px;" />
 
 
@@ -228,3 +227,7 @@ This video is a presentation by Tricia Patterson, Digital Preservation Analyst a
 **Say hello to Web Archive Singapore**
 
 This is an introductory video to Web Archive Singapore (WAS). Managed by the National Library Board, WAS preserves Singapore websites, even those that are no longer active. From events to people, organisations to historical milestones, WAS is a comprehensive collection of websites covering various aspects of life in Singapore.
+
+
+The *Caring for Your Digital Collections*  guide offers useful tips on how you can ensure that your digital materials can be accessed in the future.
+View the guide [here](
