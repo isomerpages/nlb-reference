@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - digital-preservation/.keep
+      - digital-preservation/resource-guides.md
       - singapore/.keep
       - singapore/people.md
       - singapore/places.md
