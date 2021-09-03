@@ -206,7 +206,7 @@ An online training course by the International Internet Preservation Consortium 
 <iframe width="560" height="315" src="https://player.vimeo.com/video/62131787?h=6a6cd9053a&title=0&byline=0&portrait=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-**Preserving your digital treasures**
+[**Preserving your digital treasures**](https://vimeo.com/62131787){:target="_blank"}
 
 As new technologies emerge and existing ones become obsolete, there is a need to manage our personal digital assets to ensure ongoing accessibility. This video by the State Library of Queensland outlines an approach to archiving and managing personal digital collections like audio, video, text and photos to keep them accessible for the future.
 
