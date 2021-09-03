@@ -1,7 +1,6 @@
 ---
 title: Caring for your digital collections
 permalink: /guides/digital-preservation/main/caring-digital
-breadcrumb: Information Guide
 collection_name: digital-preservation
 ---
 
