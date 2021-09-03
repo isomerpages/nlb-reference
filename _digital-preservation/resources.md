@@ -215,7 +215,7 @@ As new technologies emerge and existing ones become obsolete, there is a need to
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iUMH2svn_uM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-**Saving your [digital] life: How to preserve your digital photos and memories**
+[**Saving your [digital] life: How to preserve your digital photos and memories**](https://www.youtube.com/watch?v=iUMH2svn_uM){:target="_blank"}
 
 This video is a presentation by Tricia Patterson, Digital Preservation Analyst at Harvard Library, who shares why digital preservation is important and what the risks to digital materials are. It also introduces good practices for digitising and preserving digital materials.
 
@@ -224,7 +224,7 @@ This video is a presentation by Tricia Patterson, Digital Preservation Analyst a
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8iEBaBbe-yk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-**Say hello to Web Archive Singapore**
+[**Say hello to Web Archive Singapore**](https://www.youtube.com/watch?v=8iEBaBbe-yk){:target="_blank"}
 
 This is an introductory video to Web Archive Singapore (WAS). Managed by the National Library Board, WAS preserves Singapore websites, even those that are no longer active. From events to people, organisations to historical milestones, WAS is a comprehensive collection of websites covering various aspects of life in Singapore.
 
