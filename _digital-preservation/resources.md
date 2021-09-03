@@ -39,7 +39,7 @@ Learn about the need for the preservation of digital data from this ebook, which
 Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
 
 
-<img src="/images/digital-preservation/digital-preservation-libraries-archives-museums.jpg" style="width:150px;" />
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202818851" target="_blank"><img src="/images/digital-preservation/digital-preservation-libraries-archives-museums.jpg" style="width:150px;"></a>
 
 [**Digital preservation for libraries, archives and museums**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202818851){:target="_blank"}
 
@@ -48,7 +48,7 @@ This book is intended as a practical guide for libraries, archives and museums t
 All rights reserved, Lanham: Rowman & Littlefield, 2017
 
 
-<img src="/images/digital-preservation/libraries-archives-digital-age.jpg" style="width:150px;" />
+<a href="https://nlb.overdrive.com/media/C328898B-A056-4965-9ED4-B71D2232BD53" target="_blank"><img src="/images/digital-preservation/libraries-archives-digital-age.jpg" style="width:150px;"></a>
 
 [**Libraries and archives in the digital age**](https://nlb.overdrive.com/media/C328898B-A056-4965-9ED4-B71D2232BD53 ){:target="_blank"}
 
@@ -57,7 +57,7 @@ All rights reserved, Lanham: Rowman & Littlefield, 2017
 Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
 
 
-<img src="/images/digital-preservation/guide-personal-digital-archiving.jpg" style="width:150px;" />
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203221737" target="_blank"><img src="/images/digital-preservation/guide-personal-digital-archiving.jpg" style="width:150px;"></a>
 
 [**The complete guide to personal digital archiving**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203221737){:target="_blank"}
 
@@ -66,7 +66,7 @@ This book is a collection of essays related to the management and preservation o
 All rights reserved, Chicago: ALA Editions, an imprint of the American Library Association, 2018
 
 
-<img src="/images/digital-preservation/no-nonsense-guide-born-digital-content.jpg" style="width:150px;" />
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203203934" target="_blank"><img src="/images/digital-preservation/no-nonsense-guide-born-digital-content.jpg" style="width:150px;"></a>
 
 [**The no-nonsense guide to born-digital content**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203203934){:target="_blank"}
 
@@ -75,7 +75,7 @@ All rights reserved, Chicago: ALA Editions, an imprint of the American Library A
 All rights reserved, London: Facet Publishing, 2018
 
 
-<img src="/images/digital-preservation/how-to-archive-family-photos.jpg" style="width:150px;" />
+<a href="https://nlb.overdrive.com/media/FB65F0EE-AC97-4BAD-AB7A-1920317AE539" target="_blank"><img src="/images/digital-preservation/how-to-archive-family-photos.jpg" style="width:150px;"></a>
 
 [**How to archive family photos: A step-by-step guide to organize and share your photos digitally**](https://nlb.overdrive.com/media/FB65F0EE-AC97-4BAD-AB7A-1920317AE539){:target="_blank"}
 
