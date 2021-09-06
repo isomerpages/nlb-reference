@@ -34,7 +34,7 @@ Official Documents (Print); Official Documents (Online); Other Archival Sources;
 
 [9. Journal Articles & Occasional Papers - Online](/files/cpm-biblio/9%20Journal%20Articles%20and%20Occasional%20Papers%20-%20Online.pdf)
 
-[10. Dissertations - Print](/files/cpm-biblio/10%20Dissertations%20-%20Print.pdf)
+[10. Dissertations - Print](/files/cpm-biblio/10%20Dissertations%20-%20Printv2.pdf)
 
 [11. Dissertations - Online](/files/cpm-biblio/11%20Dissertations%20-%20Online.pdf)
 
