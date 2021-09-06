@@ -3,17 +3,14 @@ title: Development of Education in Singapore
 permalink: /guides/singapore/history/development-of-education-in-singapore
 breadcrumb: Development of Education in Singapore
 collection_name: singapore-history
-third_nav_title: Singapore History
 published: true
 ---
-
 ### <u>Guide Index</u>
 
 * [Government Policies and Papers](#government-policies-and-papers)
 * [Publications](#publications)
 * [Accessing National Library Board Singapore Resources](#accessing-national-library-board-singapore-resources)
 * [Author](#author)
-
 
 ### <u>Introduction</u>
 
@@ -484,7 +481,7 @@ Call no.: RSING 370.7805957 IMP
 This study which began as a research project in 1990 under Dr. K.C. Cheung, was driven by the aim to provide “a knowledge base for the design of better school improvement programmes.” It documents the views and experiences of 58 principals of exemplary schools in Singapore on learning conditions, and teaching and learning processes that contribute to achievement in their schools.
 
 
-* Institute of Technical Education. (2012). [Reliving ITE’s transformation](hhttp://eservice.nlb.gov.sg/item_holding.aspx?bid=14343812). Singapore : Institute of Technical Education.
+* Institute of Technical Education. (2012). [Reliving ITE’s transformation](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14343812). Singapore : Institute of Technical Education.
 Call no.: 374.013 REL
 
 The publication gives a brief history of vocational and technical education in Singapore, and the milestones leading to the formation of the Institute of Techincal Education.
@@ -646,7 +643,7 @@ Call no.: RSING 379.5957023 WIL
 The paper gives an account of the Japanese educational policy for Singapore, and how it was implemented through eradicating western and anti-Japanese influence, making Japanese the lingua franca of Malaya, and emphasising technical and vocational training.
 
 
-* Wilson, H. E. (1978). [Social engineering in Singapore : educational policies and social change, 1819-1972](hhttp://eservice.nlb.gov.sg/item_holding.aspx?bid=1828179). Singapore : Singapore University Press.
+* Wilson, H. E. (1978). [Social engineering in Singapore : educational policies and social change, 1819-1972](http://eservice.nlb.gov.sg/item_holding.aspx?bid=1828179). Singapore : Singapore University Press.
 Call no.: RSING 379.5957 WIL
 
 This book examines the social impacts of the educational policies implemented in Singapore from 1819 to 1972. It focuses on the years from 1918 to 1959, during which the education policies underwent drastic changes and transformations under four different administrations, namely colonial rule, Japanese Military Administration, post-war colonial rule and early years of self-government.

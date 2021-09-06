@@ -6,7 +6,7 @@ collection_name: guides
 ---
 ![Resource Guides](\images\resource-guides-banner.jpg)
 # Discover our curated resource guides!
--------
+<hr>
 
 <p>
 <div>
