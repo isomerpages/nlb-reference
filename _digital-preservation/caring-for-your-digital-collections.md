@@ -123,9 +123,18 @@ For NLB digital preservation enquiries, please email [ref@nlb.gov.sg](mailto:ref
 #### 9. <u>Annex- Digitisation specifications</u>
 
 
-|** Audiovisual Recordings – Source Materials** | **Preservation copy** | **Access copy **|
+|**Audiovisual Recordings – Source Materials** | **Preservation copy** | ** Access copy** |
 | -------- | -------- | -------- |
-| Standard Definition Video     | Text     | Text     |
+| Standard Definition Video     |  JPEG2000 (wrapped in MXF OP1a) [ISO/IEC 15444-3] Constant bitrate 72Mbps video, 25fps, resolution 720 x 576 interlaced (TFF), as source. Aspect ratio 4:3, as source.
+PCM audio, 48kHz, 24 bit, 
+Stereo, mono or dual mono, as source
+    | MP4 [ISO/IEC 14496-10]
+MPEG-4 AVC (Advanced Video Coding)
+Constant bitrate 1.5 Mbps video long GOP,
+25fps, resolution 720 x 576
+Aspect ratio 4:3
+AAC audio, 48kHz, 16 bit
+Stereo or dual mono |
 
 
 
