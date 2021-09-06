@@ -131,7 +131,7 @@ For NLB digital preservation enquiries, please email [ref@nlb.gov.sg](mailto:ref
 |**Microfilms** | **400ppi** (TIFF 6.0, uncompressed) 8 bit greyscale; 1 bit (bitonal) | 1. **300ppi** (TIFF, bitonal) <Br> 2. **300ppi** (Multipage OCRed PDF/A) |
 
 _________________________________________________________________________________________________
-<Br>
+
 
 | **Audiovisual Recordings – Source Materials** | **Preservation copy** | **Access copy** |
 | -------- | -------- | -------- |
