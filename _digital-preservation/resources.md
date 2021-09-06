@@ -2,6 +2,7 @@
 title: Resources
 permalink: /guides/digital-preservation/main/resources
 collection_name: digital-preservation
+published: false
 ---
 <img src="/images/digital-preservation/Digital-preservation-resources-banner.jpg" alt="digital preservation banner" style="width:800px;" />
 
