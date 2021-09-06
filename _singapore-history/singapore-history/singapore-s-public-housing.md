@@ -6,7 +6,6 @@ collection_name: singapore-history
 third_nav_title: Singapore History
 published: true
 ---
-
 ### <u>Guide Index</u>
 
 * [Introduction](#introduction)
