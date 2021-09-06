@@ -122,7 +122,6 @@ For NLB digital preservation enquiries, please email [ref@nlb.gov.sg](mailto:ref
 
 #### 9. <u>Annex- Digitisation specifications</u>
 <Br>
-
 | **Print – Source Materials** | **Preservation copy** | **Access copy** |
 | -------- | -------- | -------- |
 | **Bound volume/loose copies <Br> of printed text, maps** | **400ppi** (TIFF 6.0, uncompressed), true resolution RGB 24 bit. <Br> For B&W, greyscale 16 bit. **600ppi** (maps and selected rare materials) | 1. **300ppi** (OCRed multipage PDF/A) <Br> 2. 72ppi (JPEG,lossy) thumbnail image of cover page at **144 x 192 pixels** |
