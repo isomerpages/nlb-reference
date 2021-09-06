@@ -111,7 +111,7 @@ To protect your treasure trove of valuable information from malware and virus th
 
 The National Library Board, Singapore (NLB) is the official custodian of Singapore's published and documentary heritage, archival materials of national and historical significance, government records and broadcast archives. As part of NLB’s Libraries and Archives Blueprint 2025, we are committed to an ongoing programme to collect, preserve and make accessible digital content on Singapore. We aspire to become a Trusted Digital Repository and an authority on digital preservation for the nation. 
 
-To learn about the specifications for digitising print and audio-visual recording materials in appropriate formats, please refer to the Annex. If you have materials that capture life in Singapore and would like to donate them to us, please visit this [link](https://www.nlb.gov.sg/GetInvolved/Donate/DonatetoourCollections.aspx){:target="_blank"}.
+To learn about the specifications for digitising print and audio-visual recording materials in appropriate formats, please refer to the [Annex](#9-annex--digitisation-specifications). If you have materials that capture life in Singapore and would like to donate them to us, please visit this [link](https://www.nlb.gov.sg/GetInvolved/Donate/DonatetoourCollections.aspx){:target="_blank"}.
 
 If you are aware of the existence of Asian films of any genre in various formats, please email us at: [info@asianfilmarchive.org](mailto:info@asianfilmarchive.org) so that we can help assess the content and condition of the materials. Alternatively, you can fill in the ["Asian Film Archive Film Submissions Form"](https://submissions.asianfilmarchive.org/){:target="_blank"}  and we will be in touch.
 
@@ -129,8 +129,4 @@ Find additional resources like books, ebooks, websites and videos on caring for 
 <Br>
 
 | **Print – Source Materials** | **Preservation copy** | **Access copy** |
-| -------- | -------- | -------- |
-| **Bound volume/loose copies <Br> of printed text, maps** | **400ppi** (TIFF 6.0,\ uncompressed), true resolution RGB 24 bit. <Br> For B&W, greyscale 16 bit. **600ppi** (maps and selected rare materials) | 1. **300ppi** (OCRed multipage PDF/A) <Br> 2. 72ppi (JPEG,lossy) thumbnail image of cover page at **144 x 192 pixels** |
-
-_______________________________________________________________________________
-
+|
