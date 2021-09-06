@@ -120,12 +120,17 @@ If you are aware of the existence of Asian films of any genre in various formats
 For NLB digital preservation enquiries, please email [ref@nlb.gov.sg](mailto:ref@nlb.gov.sg).
 
 
-#### 9. <u>Annex- Digitisation specifications</u>
-
-
-
 #### 10. <u>Additional resources</u>
 
 Find additional resources like books, ebooks, websites and videos on caring for your digital collections [here](/guides/digital-preservation/main/resources){:target="_blank"}.
 
-____________________________________________________________________
+
+#### 9. <u>Annex- Digitisation specifications</u>
+<Br>
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
+_______________________________________________________________________________
+
