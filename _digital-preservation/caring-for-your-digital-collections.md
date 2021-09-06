@@ -122,7 +122,6 @@ For NLB digital preservation enquiries, please email [ref@nlb.gov.sg](mailto:ref
 #### 9. <u>Annex- Digitisation specifications</u>
 
 
-
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 | **Print – Source Materials** | **Preservation copy** | **Access copy** |
