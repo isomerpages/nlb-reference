@@ -17,7 +17,8 @@ Below is an infographic which summarises the key steps you can take in your own 
 6. [Ensure sustainability](#6-ensure-sustainability)
 7. [NLB and digital preservation](#7-nlb-and-digital-preservation)
 8. [Contact us](#8-contact-us)
-9. [Additional resources](#9-additional-resources)
+9. [Annex- Digitisation specifications](#9-annex--digitisation-specifications)
+10. [Additional resources](#9-additional-resources)
 
 #### 1. <u>Why do we preserve?</u>
 
@@ -119,8 +120,12 @@ If you are aware of the existence of Asian films of any genre in various formats
 
 For NLB digital preservation enquiries, please email [ref@nlb.gov.sg](mailto:ref@nlb.gov.sg).
 
+#### 9. <u>Annex- Digitisation specifications</u>
 
-#### 9. <u>Additional resources</u>
+
+
+
+#### 10. <u>Additional resources</u>
 
 Find additional resources like books, ebooks, websites and videos on caring for your digital collections [here](/guides/digital-preservation/main/resources){:target="_blank"}.
 
