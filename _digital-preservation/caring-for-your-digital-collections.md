@@ -120,19 +120,19 @@ If you are aware of the existence of Asian films of any genre in various formats
 For NLB digital preservation enquiries, please email [ref@nlb.gov.sg](mailto:ref@nlb.gov.sg).
 
 
-#### 10. <u>Additional resources</u>
-
-Find additional resources like books, ebooks, websites and videos on caring for your digital collections [here](/guides/digital-preservation/main/resources){:target="_blank"}.
-
-
 #### 9. <u>Annex- Digitisation specifications</u>
-<Br>
+
 
 | **Print – Source Materials** | **Preservation copy** | **Access copy** |
 | -------- | -------- | -------- |
 | **Bound volume/loose copies <Br> of printed text, maps** | **400ppi** (TIFF 6.0,\ uncompressed), true resolution RGB 24 bit. <Br> For B&W, greyscale 16 bit. **600ppi** (maps and selected rare materials) | 1. **300ppi** (OCRed multipage PDF/A) <Br> 2. 72ppi (JPEG,lossy) thumbnail image of cover page at **144 x 192 pixels** |
 | **Photographic prints, posters, <Br> drawings, building plans including <Br> line drawings, and black & white<Br>  illustrations** | **600ppi** (TIFF 6.0, uncompressed), true resolution RGB 24 bit. <Br> For B&W, greyscale 16 bit |1. **300ppi** (JPEG, lossy) <Br> 2. 72ppi (JPEG, lossy) individual thumbnail image at **144 x 192 pixels** |
-| Text     | Text     | Text     |
+| **35mm slides, 35mm film, <Br> 120 film in 6x4.5cm, 6x6cm, 6x7cm and <Br> 6x9cm, 4x5 inch film, negatives** | **4000ppi** (TIFF 6.0. uncompressed), true resolution RGB 24 bit.
+<Br> For B&W, greyscale 16 bit.|1. **300ppi** (JPEG, lossy) <Br> 2. 72ppi (JPEG, lossy) individual thumbnail image at **144 x 192 pixels** |
+|**Microfilms** | **400ppi** (TIFF 6.0, uncompressed) 8 bit greyscale; 1 bit (bitonal) |1. **300ppi** (TIFF, bitonal) <Br> 2. **300ppi** (Multipage OCRed PDF/A) |
 
+
+#### 10. <u>Additional resources</u>
+Find additional resources like books, ebooks, websites and videos on caring for your digital collections [here](/guides/digital-preservation/main/resources){:target="_blank"}.
 _______________________________________________________________________________
 
