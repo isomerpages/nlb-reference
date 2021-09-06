@@ -1,5 +1,5 @@
 ---
-title: Preserving Your Digital Memories
+title: Preserving your digital memories
 permalink: /guides/digital-preservation/main/
 third_nav_title: Digital Preservation
 ---
