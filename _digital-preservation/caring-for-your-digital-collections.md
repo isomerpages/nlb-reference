@@ -128,8 +128,10 @@ Find additional resources like books, ebooks, websites and videos on caring for 
 #### 9. <u>Annex- Digitisation specifications</u>
 
 | **Print – Source Materials** | **Preservation copy** | **Access copy** |
-
-
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
 
 
 ____________________________________________________________________
