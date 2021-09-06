@@ -127,9 +127,8 @@ For NLB digital preservation enquiries, please email [ref@nlb.gov.sg](mailto:ref
 | -------- | -------- | -------- |
 | **Bound volume/loose copies of printed text, maps** | **400ppi** (TIFF 6.0,\ uncompressed), true resolution RGB 24 bit. <Br> For B&W, greyscale 16 bit. **600ppi** (maps and selected rare materials) | 1. **300ppi** (OCRed multipage PDF/A) <Br> 2. 72ppi (JPEG,lossy) thumbnail image of cover page at **144 x 192 pixels** |
 | **Photographic prints, posters, drawings, building plans including <Br> line drawings, and black & white  illustrations** | **600ppi** (TIFF 6.0, uncompressed), true resolution RGB 24 bit. <Br> For B&W, greyscale 16 bit |1. **300ppi** (JPEG, lossy) <Br> 2. 72ppi (JPEG, lossy) individual thumbnail image at **144 x 192 pixels** |
-| **35mm slides, 35mm film, 120 film in 6x4.5cm, 6x6cm, 6x7cm and 6x9cm, 4x5 inch film, negatives** | **4000ppi** (TIFF 6.0. uncompressed), true resolution RGB 24 bit.
-<Br> For B&W, greyscale 16 bit.|1. **300ppi** (JPEG, lossy) <Br> 2. 72ppi (JPEG, lossy) individual thumbnail image at **144 x 192 pixels** |
-|**Microfilms** | **400ppi** (TIFF 6.0, uncompressed) 8 bit greyscale; 1 bit (bitonal) |1. **300ppi** (TIFF, bitonal) <Br> 2. **300ppi** (Multipage OCRed PDF/A) |
+| **35mm slides, 35mm film, 120 film in 6x4.5cm, 6x6cm, 6x7cm and 6x9cm, 4x5 inch film, negatives** | **4000ppi** (TIFF 6.0. uncompressed), true resolution RGB 24 bit. <Br> For B&W, greyscale 16 bit. | 1. **300ppi** (JPEG, lossy) <Br> 2. 72ppi (JPEG, lossy) individual thumbnail image at **144 x 192 pixels** |
+|**Microfilms** | **400ppi** (TIFF 6.0, uncompressed) 8 bit greyscale; 1 bit (bitonal) | 1. **300ppi** (TIFF, bitonal) <Br> 2. **300ppi** (Multipage OCRed PDF/A) |
 
 
 #### 10. <u>Additional resources</u>
