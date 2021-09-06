@@ -129,4 +129,10 @@ Find additional resources like books, ebooks, websites and videos on caring for 
 <Br>
 
 | **Print – Source Materials** | **Preservation copy** | **Access copy** |
-|
+| -------- | -------- | -------- |
+| **Bound volume/loose copies <Br> of printed text, maps** | **400ppi** (TIFF 6.0,\ uncompressed), true resolution RGB 24 bit. <Br> For B&W, greyscale 16 bit. **600ppi** (maps and selected rare materials) | 1. **300ppi** (OCRed multipage PDF/A) <Br> 2. 72ppi (JPEG,lossy) thumbnail image of cover page at **144 x 192 pixels** |
+| **Photographic prints, posters, <Br> drawings, building plans including <Br> line drawings, and black & white<Br>  illustrations** | **600ppi** (TIFF 6.0, uncompressed), true resolution RGB 24 bit. <Br> For B&W, greyscale 16 bit |1. **300ppi** (JPEG, lossy) <Br> 2. 72ppi (JPEG, lossy) individual thumbnail image at **144 x 192 pixels** |
+| Text     | Text     | Text     |
+
+_______________________________________________________________________________
+
