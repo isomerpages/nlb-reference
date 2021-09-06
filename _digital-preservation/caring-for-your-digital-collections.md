@@ -130,6 +130,4 @@ Find additional resources like books, ebooks, websites and videos on caring for 
 
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
-
-
-Find additional resources
+| Text     | Text     | Text     |
