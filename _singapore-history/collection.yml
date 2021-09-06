@@ -2,9 +2,6 @@ collections:
   singapore-history:
     output: true
     order:
-      - singapore/.keep
-      - singapore/water-security.md
-      - singapore-history/.keep
       - development-of-education-in-singapore.md
       - primary-accounts-of-singapore-from-1800s-to-1942.md
       - singapore-s-public-housing.md
