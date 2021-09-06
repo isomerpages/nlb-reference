@@ -3,7 +3,6 @@ title: Development of Education in Singapore
 permalink: /guides/singapore/history/development-of-education-in-singapore
 breadcrumb: Development of Education in Singapore
 collection_name: singapore-history
-third_nav_title: Singapore History
 published: true
 ---
 ### <u>Guide Index</u>

@@ -3,7 +3,6 @@ title: Singapore's Public Housing
 permalink: /guides/singapore/history/singapores-public-housing
 breadcrumb: Singapore's Public Housing
 collection_name: singapore-history
-third_nav_title: Singapore History
 published: true
 ---
 ### <u>Guide Index</u>

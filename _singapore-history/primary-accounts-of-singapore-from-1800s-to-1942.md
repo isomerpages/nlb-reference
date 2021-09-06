@@ -3,7 +3,6 @@ title: Primary accounts of Singapore from 1800s to 1942
 permalink: /guides/singapore/history/primary-accounts-of-singapore-from-1800s-to-1942
 breadcrumb: Primary accounts of Singapore from 1800s to 1942
 collection_name: singapore-history
-third_nav_title: Singapore History
 published: true
 ---
 ### <u>Guide Index</u>
