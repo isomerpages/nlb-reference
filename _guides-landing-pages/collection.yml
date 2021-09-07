@@ -15,13 +15,13 @@ collections:
       - business/career-guidance.md
       - business/management.md
       - business/innovation.md
-      - science-technology/.keep
-      - science-technology/sustainability.md
-      - science-technology/technology.md
-      - science-technology/physical-sciences.md
-      - social-sciences-humanities/.keep
-      - social-sciences-humanities/social-sciences.md
-      - social-sciences-humanities/history.md
-      - social-sciences-humanities/humanities.md
+      - science-and-technology/.keep
+      - science-and-technology/sustainability.md
+      - science-and-technology/technology.md
+      - science-and-technology/physical-sciences.md
+      - social-sciences-and-humanities/.keep
+      - social-sciences-and-humanities/social-sciences.md
+      - social-sciences-and-humanities/history.md
+      - social-sciences-and-humanities/humanities.md
       - digital-preservation/.keep
       - digital-preservation/preserving-your-digital-memories.md

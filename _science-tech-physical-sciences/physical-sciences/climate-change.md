@@ -1,10 +1,11 @@
 ---
 title: Climate Change
-permalink: /guides/science-technology/physical-sciences/climate-change
+permalink: /guides/sci-tech/physical-sciences/climate-change
 breadcrumb: Climate Change
 collection_name: science-technology-physical-sciences
 third_nav_title: Physical Sciences
 ---
+
 
 ![Climate Change](/images/sci-tech/climate change main pic.jpg)
 
