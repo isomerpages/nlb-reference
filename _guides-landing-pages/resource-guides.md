@@ -42,7 +42,7 @@ collection_name: guides
 			</a>
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="/guides/science-technology/physical-sciences/" class="project-link">
+			<a href="/guides/science-technology/sustainability/" class="project-link">
 				<img src="/images/category/sci-tech.jpg" alt="Science & Technology" class="project-image">
 				<div class="project-title">	
 				<h5><b>Science & Technology</b></h5>

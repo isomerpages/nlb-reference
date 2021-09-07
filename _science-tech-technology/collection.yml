@@ -1,5 +1,5 @@
 collections:
-  science-technology-technology:
+  science-tech-technology:
     output: true
     order:
       - physical-sciences/.keep
