@@ -1,4 +1,5 @@
 collections:
   science-tech-sustainability:
     output: true
-    order: []
+    order:
+      - sustainable-living.md
