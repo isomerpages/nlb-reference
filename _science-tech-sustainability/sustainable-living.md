@@ -37,7 +37,7 @@ There are many ways to live sustainably, such as making conscious decisions abou
 
 [^4]: What is sustainable living? (2021). *Inspire*. Retrieved August 29, 2021, from <https://www.inspirecleanenergy.com/blog/sustainable-living/what-is-sustainable-living/>; What is sustainable living? (2021). *The Good Trade*. Retrieved August 29, 2021, from <https://www.thegoodtrade.com/features/sustainable-living-definition/>   
 
-This guide provides supplementary resources for those who are keen to further explore this topic. You can also visit <https://search.nlb.gov.sg/> to search for more resources. If you would like to view other resource guides created by our librarians, please visit <nlb.gov.sg/resourceguides/>. 
+This guide provides supplementary resources for those who are keen to further explore this topic. You can also visit <https://search.nlb.gov.sg/> to search for more resources. If you would like to view other resource guides created by our librarians, please visit <https://reference.nlb.gov.sg/guides/>. 
 
 This resource guide was prepared in September 2021 by Sharon Teng, a Librarian at the National Library, Singapore.
 
@@ -46,48 +46,48 @@ This resource guide was prepared in September 2021 by Sharon Teng, a Librarian a
 **Net zero: Why is it necessary?**<br>
 Net zero: Why is it necessary? (2018). *Energy & Climate Intelligence Unit*. Retrieved 2021, August 26, from <https://eciu.net/analysis/briefings/net-zero/net-zero-why/>
 
-**Sustainable lifestyles**
+**Sustainable lifestyles**<br>
 Sustainable lifestyles. (n.d.). *UN Environment Programme*. Retrieved 2021, August 26, from <https://www.unep.org/explore-topics/resource-efficiency/what-we-do/sustainable-lifestyles/> 
 
-**What is a circular economy?**
+**What is a circular economy?**<br>
 What is a circular economy? (n.d.). *Ellen MacArthur Foundation*. Retrieved 2021, August 26, from <https://ellenmacarthurfoundation.org/topics/circular-economy-introduction/overview/> 
 
-**What is sustainable living?**
+**What is sustainable living?**<br>
 What is sustainable living? (2021). *Sustainable Jungle*. Retrieved 2021, August 26, from <https://www.sustainablejungle.com/sustainable-living/what-is-sustainable-living/>
 
 **Videos**
 
-**The Circular Economy: A Simple Explanation: Cillian Lohan**
+**The Circular Economy: A Simple Explanation: Cillian Lohan**<br>
 The Circular Economy: A Simple Explanation: Cillian Lohan. (2018, February 18). *TEDx Talks*. Retrieved August 31, 2021, from <https://youtu.be/cbm1MCTobVc/>
 
-**Why I live a zero waste life: Lauren Singer**
+**Why I live a zero waste life: Lauren Singer**<br>
 Why I live a zero waste life: Lauren Singer. (2015, May 27). *TEDx Talks.* Retrieved August 31, 2021, from <https://youtu.be/pF72px2R3Hg/>
 
 **Journal articles**
 
-**Towards a greener lifestyle**
+**Towards a greener lifestyle**<br>
 Riddlestone, S. (2014, Jun-Aug). Towards a greener lifestyle. *EG Magazine*, 19(6), 9-11.
 
 Retrieved from Proquest Central via NLB’s eResources website <http://eresources.nlb.gov.sg/Main/browse/resource/1111/>  (myLibrary ID is required to access this article.)
 
-**The COVID-19 lockdown effect on the intention to purchase sustainable brands**
+**The COVID-19 lockdown effect on the intention to purchase sustainable brands**<br>
 Alexa, L., Apetrei, A. and Sapena, J. (2021). The COVID-19 lockdown effect on the intention to purchase sustainable bands. *Sustainability*, 13(6), 3241.
 
 Retrieved from Proquest Central via NLB’s eResources website <http://eresources.nlb.gov.sg/Main/browse/resource/1111 /> (myLibrary ID is required to access this article.)
 
-**To see a world in a grain of sand - the transformative potential of small community actions**
+**To see a world in a grain of sand - the transformative potential of small community actions**<br>
 Watabe, A. and Gilby, S. (2020). To see a world in a grain of sand - the transformative potential of small community actions. *Sustainability*, 12(18), 7404.
 
 Retrieved from Proquest Central via NLB’s eResources website <http://eresources.nlb.gov.sg/Main/browse/resource/1111/> (myLibrary ID is required to access this article.)
 
-**Urban gardening in Germany: Cultivating a sustainable lifestyle for the societal transition to a bioeconomy**
+**Urban gardening in Germany: Cultivating a sustainable lifestyle for the societal transition to a bioeconomy**<br>
 Maier, A. and Lewandowski, I. (2019). Urban gardening in Germany: Cultivating a sustainable lifestyle for the societal transition to a bioeconomy. *Sustainability*, 11(3), 801.
 
 Retrieved from Proquest Central via NLB’s eResources website <http://eresources.nlb.gov.sg/Main/browse/resource/1111/>  (myLibrary ID is required to access this article.)
 
 **eBooks**
 
-**Hackerspaces: Making the maker movement**
+**Hackerspaces: Making the maker movement**<br>
 Davies, S. R. (2017). *Hackerspaces: Making the maker movement*. Hoboken, New Jersey: Wiley.
 
 Retrieved from OverDrive. 
@@ -98,7 +98,7 @@ URL: <https://nlb.overdrive.com/media/3224208/>
 
 <img src="/images/sci-tech/sustainable-living/Hackerspaces.jpg" alt="hackerspaces" style="width:200px;" />
 
-**Simply sustainable: Moving toward plastic-free, low-waste living**
+**Simply sustainable: Moving toward plastic-free, low-waste living**<br>
 Cameron, L. (2021). *Simply sustainable: Moving toward plastic-free, low-waste living*. New York: Clarkson Potter/Ten Speed Press.
 
 Retrieved from OverDrive. 
@@ -110,8 +110,8 @@ URL: <https://nlb.overdrive.com/media/5487695/>
 
 **Books**
 
-**Industry 4.0 and circular economy: Towards a wasteless future or a wasteful planet?**
-Mavropoulos, A. and Nilsen, A. W. (2020).* Industry 4.0 and circular economy: Towards a wasteless future or a wasteful planet?* Hoboken, NJ: Wiley. (Call no.: R 338.927 MAV)
+**Industry 4.0 and circular economy: Towards a wasteless future or a wasteful planet?**<br>
+Mavropoulos, A. and Nilsen, A. W. (2020). *Industry 4.0 and circular economy: Towards a wasteless future or a wasteful planet?* Hoboken, NJ: Wiley. (Call no.: R 338.927 MAV)
 
 URL: <https://eservice.nlb.gov.sg/item_holding.aspx?bid=205340203/>
 
