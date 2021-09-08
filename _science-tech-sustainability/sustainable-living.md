@@ -71,50 +71,53 @@ Riddlestone, S. (2014, Jun-Aug). Towards a greener lifestyle. *EG Magazine*, 19(
 Retrieved from Proquest Central via NLB’s eResources website <http://eresources.nlb.gov.sg/Main/browse/resource/1111/>  (myLibrary ID is required to access this article.)
 
 **The COVID-19 lockdown effect on the intention to purchase sustainable brands**
-Alexa, L., Apetrei, A. and Sapena, J. (2021). The COVID-19 lockdown effect on the intention to purchase sustainable bands. Sustainability, 13(6), 3241.
+Alexa, L., Apetrei, A. and Sapena, J. (2021). The COVID-19 lockdown effect on the intention to purchase sustainable bands. *Sustainability*, 13(6), 3241.
 
 Retrieved from Proquest Central via NLB’s eResources website <http://eresources.nlb.gov.sg/Main/browse/resource/1111 /> (myLibrary ID is required to access this article.)
 
-To see a world in a grain of sand - the transformative potential of small community actions
-Watabe, A. and Gilby, S. (2020). To see a world in a grain of sand - the transformative potential of small community actions. Sustainability, 12(18), 7404.
+**To see a world in a grain of sand - the transformative potential of small community actions**
+Watabe, A. and Gilby, S. (2020). To see a world in a grain of sand - the transformative potential of small community actions. *Sustainability*, 12(18), 7404.
 
-Retrieved from Proquest Central via NLB’s eResources website http://eresources.nlb.gov.sg/Main/browse/resource/1111  (myLibrary ID is required to access this article.)
-Urban gardening in Germany: Cultivating a sustainable lifestyle for the societal transition to a bioeconomy
-Maier, A. and Lewandowski, I. (2019). Urban gardening in Germany: Cultivating a sustainable lifestyle for the societal transition to a bioeconomy. Sustainability, 11(3), 801.
+Retrieved from Proquest Central via NLB’s eResources website <http://eresources.nlb.gov.sg/Main/browse/resource/1111/> (myLibrary ID is required to access this article.)
 
-Retrieved from Proquest Central via NLB’s eResources website http://eresources.nlb.gov.sg/Main/browse/resource/1111  (myLibrary ID is required to access this article.)
+**Urban gardening in Germany: Cultivating a sustainable lifestyle for the societal transition to a bioeconomy**
+Maier, A. and Lewandowski, I. (2019). Urban gardening in Germany: Cultivating a sustainable lifestyle for the societal transition to a bioeconomy. *Sustainability*, 11(3), 801.
+
+Retrieved from Proquest Central via NLB’s eResources website <http://eresources.nlb.gov.sg/Main/browse/resource/1111/>  (myLibrary ID is required to access this article.)
 
 **eBooks**
 
-Hackerspaces: Making the maker movement
-Davies, S. R. (2017). Hackerspaces: Making the maker movement. Hoboken, New Jersey: Wiley.
+**Hackerspaces: Making the maker movement**
+Davies, S. R. (2017). *Hackerspaces: Making the maker movement*. Hoboken, New Jersey: Wiley.
 
 Retrieved from OverDrive. 
 (myLibrary ID is required to access the eBook)
 
-URL: https://nlb.overdrive.com/media/3224208 
+URL: <https://nlb.overdrive.com/media/3224208/>
 
 
 <img src="/images/sci-tech/sustainable-living/Hackerspaces.jpg" alt="hackerspaces" style="width:200px;" />
 
-Simply sustainable: Moving toward plastic-free, low-waste living
-Cameron, L. (2021). Simply sustainable: Moving toward plastic-free, low-waste living. New York: Clarkson Potter/Ten Speed Press.
+**Simply sustainable: Moving toward plastic-free, low-waste living**
+Cameron, L. (2021). *Simply sustainable: Moving toward plastic-free, low-waste living*. New York: Clarkson Potter/Ten Speed Press.
 
 Retrieved from OverDrive. 
 (myLibrary ID is required to access the eBook)
 
-URL: https://nlb.overdrive.com/media/5487695   
+URL: <https://nlb.overdrive.com/media/5487695/>   
 
 <img src="/images/sci-tech/sustainable-living/Simply%20sustainable.jpg" alt="simplysustainable" style="width:200px;" />
 
 **Books**
 
-Industry 4.0 and circular economy: Towards a wasteless future or a wasteful planet?
-Mavropoulos, A. and Nilsen, A. W. (2020). Industry 4.0 and circular economy: Towards a wasteless future or a wasteful planet? Hoboken, NJ: Wiley. (Call no.: R 338.927 MAV)
+**Industry 4.0 and circular economy: Towards a wasteless future or a wasteful planet?**
+Mavropoulos, A. and Nilsen, A. W. (2020).* Industry 4.0 and circular economy: Towards a wasteless future or a wasteful planet?* Hoboken, NJ: Wiley. (Call no.: R 338.927 MAV)
 
-URL: https://eservice.nlb.gov.sg/item_holding.aspx?bid=205340203
+URL: <https://eservice.nlb.gov.sg/item_holding.aspx?bid=205340203/>
 
 <img src="/images/sci-tech/sustainable-living/Industry%204.jpg" alt="industry4" style="width:200px;" />
 
 
+
 All Rights Reserved. National Library Board Singapore 2021.
+
