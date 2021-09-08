@@ -40,9 +40,9 @@ Accessing Marketline Advantage
 
 ***[MSN](www.msn.com)***
 
-<www.google.com>
+[www.google.com]
 
-Google URL is <www.google.com>
+Google URL is (www.google.com)
 
 
 text
