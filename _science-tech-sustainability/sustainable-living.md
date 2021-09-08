@@ -43,7 +43,7 @@ This resource guide was prepared in September 2021 by Sharon Teng, a Librarian a
 
 **Websites**
 
-**Net zero: Why is it necessary?**
+**Net zero: Why is it necessary?**<br>
 Net zero: Why is it necessary? (2018). *Energy & Climate Intelligence Unit*. Retrieved 2021, August 26, from <https://eciu.net/analysis/briefings/net-zero/net-zero-why/>
 
 **Sustainable lifestyles**
