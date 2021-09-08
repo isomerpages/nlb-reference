@@ -10,7 +10,7 @@ links:
       - title: Business
         url: /guides/business/career-guidance/
       - title: Science & Technology
-        url: /guides/sci-tech/sustainability/
+        url: /guides/sci-tech/physical-sciences/
       - title: Social Sciences & Humanities
         url: /guides/socialsciences-humanities/social-sciences/
       - title: Digital Preservation
@@ -28,8 +28,8 @@ links:
         url: /getting-started/ebscohost/
       - title: Using JSTOR
         url: /getting-started/jstor/
-      - title: Using Marketline
-        url: /getting-started/marketline/
+#      - title: Using Marketline
+#        url: /getting-started/marketline/
   - title: Other Formats
     url: /other-formats
     sublinks:
@@ -53,5 +53,5 @@ links:
         url: /about-us/lkcrl/
       - title: Contact Us
         url: /contact-us/
-  - title: Reminiscence Library
-    collection: reminiscence-library
+#  - title: Reminiscence Library
+#    collection: reminiscence-library
