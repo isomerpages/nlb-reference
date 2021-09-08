@@ -3,8 +3,9 @@ title: History
 permalink: /guides/socialsciences-humanities/history/
 breadcrumb: History
 collection_name: socsci-hum
-third_nav_title: Social Sciences & Humanities
+third_nav_title: Social Sciences And Humanities
 ---
+
 <img src="/images/category/history-2.jpg" alt="history banner" style="width:800px;" />
 
 * [**Angkor Wat**](/guides/socialsciences-humanities/history/angkor-wat)

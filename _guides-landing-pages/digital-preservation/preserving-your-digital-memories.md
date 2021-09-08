@@ -2,7 +2,6 @@
 title: Preserving your digital memories
 permalink: /guides/digital-preservation/main/
 third_nav_title: Digital Preservation
-published: false
 ---
 <img src="/images/digital-preservation/landing-page-banner.jpg" alt="digital preservation landing page banner" style="width:800px;" />
 

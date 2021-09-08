@@ -1,0 +1,6 @@
+collections:
+  science-tech-technology:
+    output: true
+    order:
+      - occupational-safety-and-health-resource-guide.md
+      - standards-and-references-resource-guide.md

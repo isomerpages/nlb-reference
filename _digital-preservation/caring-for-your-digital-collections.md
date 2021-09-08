@@ -2,7 +2,6 @@
 title: Caring for your digital collections
 permalink: /guides/digital-preservation/main/caring-digital
 collection_name: digital-preservation
-published: false
 ---
 Below is an infographic which summarises the key steps you can take in your own digital preservation journey. You can also refer to the more detailed guide under the infographic.
 
@@ -112,7 +111,7 @@ To protect your treasure trove of valuable information from malware and virus th
 
 The National Library Board, Singapore (NLB) is the official custodian of Singapore's published and documentary heritage, archival materials of national and historical significance, government records and broadcast archives. As part of NLB’s Libraries and Archives Blueprint 2025, we are committed to an ongoing programme to collect, preserve and make accessible digital content on Singapore. We aspire to become a Trusted Digital Repository and an authority on digital preservation for the nation. 
 
-To learn about the specifications for digitising print and audio-visual recording materials in appropriate formats, please refer to the Annex. If you have materials that capture life in Singapore and would like to donate them to us, please visit this [link](https://www.nlb.gov.sg/GetInvolved/Donate/DonatetoourCollections.aspx){:target="_blank"}.
+To learn about the specifications for digitising print and audio-visual recording materials in appropriate formats, please refer to the [Annex](#9-annex--digitisation-specifications). If you have materials that capture life in Singapore and would like to donate them to us, please visit this [link](https://www.nlb.gov.sg/GetInvolved/Donate/DonatetoourCollections.aspx){:target="_blank"}.
 
 If you are aware of the existence of Asian films of any genre in various formats, please email us at: [info@asianfilmarchive.org](mailto:info@asianfilmarchive.org) so that we can help assess the content and condition of the materials. Alternatively, you can fill in the ["Asian Film Archive Film Submissions Form"](https://submissions.asianfilmarchive.org/){:target="_blank"}  and we will be in touch.
 
@@ -120,15 +119,32 @@ If you are aware of the existence of Asian films of any genre in various formats
 
 For NLB digital preservation enquiries, please email [ref@nlb.gov.sg](mailto:ref@nlb.gov.sg).
 
+#### 9. <u>Annex- Digitisation specifications</u>
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+| **Print – Source Materials** | **Preservation copy** | **Access copy** |
+| -------- | -------- | -------- |
+| **Bound volume/loose copies of printed text, maps** | **400ppi** (TIFF 6.0, uncompressed), true resolution RGB 24 bit <Br> For B&W, greyscale 16 bit **600ppi** (maps and selected rare materials) | 1. **300ppi** (OCRed multipage PDF/A) <Br> 2. 72ppi (JPEG,lossy) thumbnail image of cover page at **144 x 192 pixels** |
+| **Photographic prints, posters, drawings, building plans including line drawings, and black & white  illustrations** | **600ppi** (TIFF 6.0, uncompressed), true resolution RGB 24 bit <Br> For B&W, greyscale 16 bit |1. **300ppi** (JPEG, lossy) <Br> 2. 72ppi (JPEG, lossy) individual thumbnail image at **144 x 192 pixels** |
+| **35mm slides, 35mm film, 120 film in 6x4.5cm, 6x6cm, 6x7cm and 6x9cm, 4x5 inch film, negatives** | **4000ppi** (TIFF 6.0. uncompressed), true resolution RGB 24 bit <Br> For B&W, greyscale 16 bit | 1. **300ppi** (JPEG, lossy) <Br> 2. 72ppi (JPEG, lossy) individual thumbnail image at **144 x 192 pixels** |
+|**Microfilms** | **400ppi** (TIFF 6.0, uncompressed) 8 bit greyscale; 1 bit (bitonal) | 1. **300ppi** (TIFF, bitonal) <Br> 2. **300ppi** (Multipage OCRed PDF/A) |
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+| **Audiovisual Recordings – Source Materials** | **Preservation copy** | **Access copy** |
+| -------- | -------- | -------- |
+| **Standard Definition Video** | **JPEG2000** (wrapped in MXF OP1a) [ISO/IEC 15444-3] Constant bitrate 72Mbps video, 25fps, resolution 720 x 576 interlaced (TFF), as source. <br>Aspect ratio 4:3, as source. <br>PCM audio, 48kHz, 24 bit, Stereo, mono or dual mono, as source| **MP4** [ISO/IEC 14496-10]  <br>**MPEG-4 AVC** (Advanced Video Coding) Constant bitrate 1.5 Mbps video long GOP, 25fps, resolution 720 x 576 Aspect ratio 4:3 AAC audio, 48kHz, 16 bitn Stereo or dual mono. |
+| **High Definition Video** | **JPEG2000** (wrapped in MXF OP1a) [ISO/IEC 15444-3] Constant bitrate 180Mbps video, 25fps, resolution 1920 x 1080 progressive. <br>Aspect ratio 16:9 PCM audio, 48kHz, 24 bit, Stereo, mono, dual mono or Multi-channels, as source. | **MP4** [ISO/IEC 14496-10] <br>**MPEG-4 AVC** (Advanced Video Coding) Constant bitrate 3 Mbps video long GOP, 25fps, resolution 1280 x 720 Aspect ratio 16:9 AAC audio, 48kHz, 16 bit Stereo or dual mono. |
+| **Audio** | **BWF [EBU Tech 3285]** Broadcast Wave Format PCM audio in WAV, minimum 48kHz sampling rate, 24 bit  Stereo, mono or dual mono, as source | **MP3** [ISO/IEC 11172-3] <br>**MPEG-1** audio layer III Constant bitrate 128 kbps 48kHz, 16 bit |
+
+
 
 #### 10. <u>Additional resources</u>
 
 Find additional resources like books, ebooks, websites and videos on caring for your digital collections [here](/guides/digital-preservation/main/resources){:target="_blank"}.
 
+----------------------------------------------------------------------------------------------------------------------------------------
 
-#### 9. <u>Annex- Digitisation specifications</u>
-
-
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |

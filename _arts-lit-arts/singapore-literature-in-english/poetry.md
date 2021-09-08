@@ -1,11 +1,12 @@
 ---
 title: Poetry
-permalink: /guides/arts/literaryarts/singaporeenglishliterature/poetry
+permalink: /guides/arts/lit-arts/biblio-sg-english/poetry
 breadcrumb: English Literature - Poetry
 collection_name: arts-lit-arts
-third_nav_title: Singapore Literature in English 
+third_nav_title: Singapore Literature In English
 published: true
 ---
+
 
 ## **Poetry**
 

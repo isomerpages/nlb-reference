@@ -1,11 +1,12 @@
 ---
 title: Miscellaneous
-permalink: /guides/arts/literaryarts/singaporeenglishliterature/miscellaneous
+permalink: /guides/arts/lit-arts/biblio-sg-english/misc
 breadcrumb: English Literature - Miscellaneous
 collection_name: arts-lit-arts
-third_nav_title: Singapore Literature in English
+third_nav_title: Singapore Literature In English
 published: true
 ---
+
 
 ## **Miscellaneous**
 

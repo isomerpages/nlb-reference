@@ -1,11 +1,12 @@
 ---
 title: Novels (Tamil)
-permalink: /guides/arts/literaryarts/singaporetamilliterature/novel
+permalink: /guides/arts/lit-arts/biblio-sg-tamil/novel
 breadcrumb: Bibliography of Singapore Tamil Literature - Novels
 collection_name: arts-lit-arts
-third_nav_title: Bibliography of Singapore Tamil Literature
+third_nav_title: Bibliography Of Singapore Tamil Literature
 published: true
 ---
+
 
 **புதினம்**
 

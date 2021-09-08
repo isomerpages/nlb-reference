@@ -1,11 +1,13 @@
 ---
 title: Esei
-permalink: /guides/arts/literaryarts/sasteramelayusingapura/esei
+permalink: /guides/arts/lit-arts/biblio-sg-malay/esei
 breadcrumb: Sastera Melayu Singapura - Esei
 collection_name: arts-lit-arts
 third_nav_title: Bibliografi Sastera Melayu Singapura
 published: true
 ---
+
+
 
 ## **Cerpen**
 
