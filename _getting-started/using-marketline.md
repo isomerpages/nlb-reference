@@ -42,13 +42,7 @@ Accessing Marketline Advantage
 
 <www.google.com>
 
-Google URL is www.google.com
+Google URL is <www.google.com>
 
-
-text
-
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
 
 text
