@@ -60,6 +60,7 @@ What is sustainable living? (2021). *Sustainable Jungle*. Retrieved 2021, August
 **The Circular Economy: A Simple Explanation: Cillian Lohan**<br>
 The Circular Economy: A Simple Explanation: Cillian Lohan. (2018, February 18). *TEDx Talks*. Retrieved August 31, 2021, from <https://youtu.be/cbm1MCTobVc/>
 
+
 **Why I live a zero waste life: Lauren Singer**<br>
 Why I live a zero waste life: Lauren Singer. (2015, May 27). *TEDx Talks.* Retrieved August 31, 2021, from <https://youtu.be/pF72px2R3Hg/>
 
@@ -120,4 +121,3 @@ URL: <https://eservice.nlb.gov.sg/item_holding.aspx?bid=205340203/>
 
 
 All Rights Reserved. National Library Board Singapore 2021.
-
