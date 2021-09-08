@@ -1,11 +1,13 @@
 ---
 title: Novel
-permalink: /guides/arts/literaryarts/sasteramelayusingapura/novel
+permalink: /guides/arts/lit-arts/biblio-sg-malay/novel
 breadcrumb: Sastera Melayu Singapura - Novel
 collection_name: arts-lit-arts
 third_nav_title: Bibliografi Sastera Melayu Singapura
 published: true
 ---
+
+
 
 ## **Novel**
 

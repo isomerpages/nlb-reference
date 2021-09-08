@@ -1,11 +1,12 @@
 ---
 title: Novels
-permalink: /guides/arts/literaryarts/singaporeenglishliterature/novels
+permalink: /guides/arts/lit-arts/biblio-sg-english/novels
 breadcrumb: English Literature - novels
 collection_name: arts-lit-arts
-third_nav_title: Singapore Literature in English 
+third_nav_title: Singapore Literature In English
 published: true
 ---
+
 
 ## **Novels**
 

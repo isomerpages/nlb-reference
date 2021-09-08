@@ -1,11 +1,13 @@
 ---
 title: Drama
-permalink: /guides/arts/literaryarts/sasteramelayusingapura/drama
+permalink: /guides/arts/lit-arts/biblio-sg-malay/drama
 breadcrumb: Sastera Melayu Singapura - Drama
 collection_name: arts-lit-arts
 third_nav_title: Bibliografi Sastera Melayu Singapura
 published: true
 ---
+
+
 
 ## **Drama**
 

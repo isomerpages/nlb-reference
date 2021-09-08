@@ -1,13 +1,12 @@
 ---
 title: Articles and Research (Tamil)
-permalink: /guides/arts/literaryarts/singaporetamilliterature/articles-and-research
+permalink: /guides/arts/lit-arts/biblio-sg-tamil/research
 breadcrumb: Bibliography of Singapore Tamil Literature - Articles and Research
 collection_name: arts-lit-arts
-third_nav_title: Bibliography of Singapore Tamil Literature
+third_nav_title: Bibliography Of Singapore Tamil Literature
 published: true
 ---
-
-**கவிதைகள்**
+**கட்டுரைகள், ஆய்வுக் கட்டுரைகள்**
 
 ### <u>Guide Index</u>
 

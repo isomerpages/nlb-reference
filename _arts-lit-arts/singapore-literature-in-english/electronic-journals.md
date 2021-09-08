@@ -1,11 +1,12 @@
 ---
 title: Electronic Journals
-permalink: /guides/arts/literaryarts/singaporeenglishliterature/electronic-journals
+permalink: /guides/arts/lit-arts/biblio-sg-english/ejournals
 breadcrumb: English Literature - Electronic Journals
 collection_name: arts-lit-arts
-third_nav_title: Singapore Literature in English
+third_nav_title: Singapore Literature In English
 published: true
 ---
+
 
 ## **Electronic Journals**
 

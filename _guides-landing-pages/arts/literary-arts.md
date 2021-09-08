@@ -11,15 +11,15 @@ third_nav_title: Arts
 <summary><b>Sastera Melayu Singapura</b></summary>
 <table style="width:100%">
   <tr>
-    <td><b><a href = "/guides/arts/literaryarts/sasteramelayusingapura/novel">Novel</a></b></td>
-    <td><b><a href = "/guides/arts/literaryarts/sasteramelayusingapura/esei">Esei</a></b></td>
+    <td><b><a href = "/guides/arts/lit-arts//biblio-sg-malay/novel">Novel</a></b></td>
+    <td><b><a href = "/guides/arts/lit-arts/biblio-sg-malay/esei">Esei</a></b></td>
   </tr>
   <tr>
-    <td><b><a href = "/guides/arts/literaryarts/sasteramelayusingapura/puisi">Puisi</a></b></td>
-    <td><b><a href = "/guides/arts/literaryarts/sasteramelayusingapura/cerpen">Cerpen</a></b></td>
+    <td><b><a href = "/guides/arts/lit-arts/biblio-sg-malay/puisi">Puisi</a></b></td>
+    <td><b><a href = "/guides/arts/lit-arts/biblio-sg-malay/cerpen">Cerpen</a></b></td>
   </tr>
   <tr>
-    <td><b><a href = "/guides/arts/literaryarts/sasteramelayusingapura/drama">Drama</a></b></td>
+    <td><b><a href = "/guides/arts/lit-arts/biblio-sg-malay/drama">Drama</a></b></td>
   </tr>
 </table>
 </details>
@@ -29,15 +29,15 @@ third_nav_title: Arts
 <summary><b>新加坡华文文学书目</b></summary>
 <table style="width:100%">
   <tr>
-    <td><b><a href = "/guides/arts/literaryarts/singaporechineseliterature/poetry">诗歌</a></b></td>
-    <td><b><a href = "/guides/arts/literaryarts/singaporechineseliterature/criticism-and-research">文学评论与研究</a></b></td>
+    <td><b><a href = "/guides/arts/lit-arts/biblio-sg-chinese/poetry">诗歌</a></b></td>
+    <td><b><a href = "/guides/arts/lit-arts/biblio-sg-chinese/criticism">文学评论与研究</a></b></td>
   </tr>
   <tr>
-    <td><b><a href = "/guides/arts/literaryarts/singaporechineseliterature/prose-and-miscellaneous-writing">散文与杂文</a></b></td>
-    <td><b><a href = "/guides/arts/literaryarts/singaporechineseliterature/drama-and-crosstalk">戏剧与相声</a></b></td>
+    <td><b><a href = "/guides/arts/lit-arts/biblio-sg-chinese/prose">散文与杂文</a></b></td>
+    <td><b><a href = "/guides/arts/lit-arts/biblio-sg-chinese/drama">戏剧与相声</a></b></td>
   </tr>
   <tr>
-    <td><b><a href = "/guides/arts/literaryarts/singaporechineseliterature/novels">小说</a></b></td>
+    <td><b><a href = "/guides/arts//lit-arts/biblio-sg-chinese/novels">小说</a></b></td>
   </tr>
 </table>
 </details>
@@ -46,20 +46,20 @@ third_nav_title: Arts
 <summary><b>Singapore Literature in English</b></summary>
 <table style="width:100%">
   <tr>
-    <td><b><a href = "/guides/arts/literaryarts/singaporeenglishliterature/miscellaneous">Miscellaneous</a></b></td>
-    <td><b><a href = "/guides/arts/literaryarts/singaporeenglishliterature/electronic-journals">Electronic Journals</a></b></td>
+    <td><b><a href = "/guides/arts/lit-arts/biblio-sg-english/misc">Miscellaneous</a></b></td>
+    <td><b><a href = "/guides/arts/lit-arts/biblio-sg-english/ejournals">Electronic Journals</a></b></td>
   </tr>
   <tr>
-    <td><b><a href = "/guides/arts/literaryarts/singaporeenglishliterature/novels">Novels</a></b></td>
-    <td><b><a href = "/guides/arts/literaryarts/singaporeenglishliterature/periodicals-electronic-journals-and-misc">Periodicals, Electronic Journals and Misc.</a></b></td>
+    <td><b><a href = "/guides/arts/lit-arts/biblio-sg-english/novels">Novels</a></b></td>
+    <td><b><a href = "/guides/arts/lit-arts/biblio-sg-english/periodical">Periodicals, Electronic Journals and Misc.</a></b></td>
   </tr>
   <tr>
-    <td><b><a href = "/guides/arts/literaryarts/singaporeenglishliterature/poetry">Poetry</a></b></td>
-    <td><b><a href = "/guides/arts/literaryarts/singaporeenglishliterature/short-stories">Short Stories</a></b></td>
+    <td><b><a href = "/guides/arts/lit-arts/biblio-sg-english/poetry">Poetry</a></b></td>
+    <td><b><a href = "/guides/arts/lit-arts/biblio-sg-english/stories">Short Stories</a></b></td>
   </tr>
   <tr>
-    <td><b><a href = "/guides/arts/literaryarts/singaporeenglishliterature/drama">Drama</a></b></td>
-    <td><b><a href = "/guides/arts/literaryarts/singaporeenglishliterature/anthologies">Anthologies</a></b></td>
+    <td><b><a href = "/guides/arts/lit-arts/biblio-sg-english/drama">Drama</a></b></td>
+    <td><b><a href = "/guides/arts/lit-arts/biblio-sg-english/anthology">Anthologies</a></b></td>
   </tr>
 </table>
 </details>
@@ -70,15 +70,15 @@ third_nav_title: Arts
 <summary><b>சிங்கப்பூர்த் தமிழ் இலக்கியம்</b></summary>
 <table style="width:100%">
   <tr>
-    <td><b><a href = "/guides/arts/literaryarts/singaporetamilliterature/novel">புதினம்</a></b></td>
-    <td><b><a href = "/guides/arts/literaryarts/singaporetamilliterature/plays">நாடகங்கள்</a></b></td>
+    <td><b><a href = "/guides/arts/lit-arts/biblio-sg-tamil/novel">புதினம்</a></b></td>
+    <td><b><a href = "/guides/arts/lit-arts/biblio-sg-tamil/plays">நாடகங்கள்</a></b></td>
   </tr>
   <tr>
-    <td><b><a href = "/guides/arts/literaryarts/singaporetamilliterature/short-stories">சிறுகதைகள்</a></b></td>
-    <td><b><a href = "/guides/arts/literaryarts/singaporetamilliterature/poems">கவிதைகள்</a></b></td>
+    <td><b><a href = "/guides/arts/lit-arts/biblio-sg-tamil/stories">சிறுகதைகள்</a></b></td>
+    <td><b><a href = "/guides/arts/lit-arts/biblio-sg-tamil/poems">கவிதைகள்</a></b></td>
   </tr>
   <tr>
-    <td><b><a href = "/guides/arts/literaryarts/singaporetamilliterature/articles-and-research">கட்டுரைகள், ஆய்வுக் கட்டுரைகள்</a></b></td>
+    <td><b><a href = "/guides/arts/lit-arts/biblio-sg-tamil/research">கட்டுரைகள், ஆய்வுக் கட்டுரைகள்</a></b></td>
   </tr>
 </table>
 </details>

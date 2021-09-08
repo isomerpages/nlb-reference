@@ -1,11 +1,12 @@
 ---
 title: Anthologies
-permalink: /guides/arts/literaryarts/singaporeenglishliterature/anthologies
+permalink: /guides/arts/lit-arts/biblio-sg-english/anthology
 breadcrumb: English Literature - Anthologies
 collection_name: arts-lit-arts
-third_nav_title: Singapore Literature in English 
+third_nav_title: Singapore Literature In English
 published: true
 ---
+
 
 ## **Anthologies**
 
