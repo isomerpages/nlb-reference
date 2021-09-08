@@ -1,11 +1,12 @@
 ---
 title: Short Stories
-permalink: /guides/arts/literaryarts/singaporeenglishliterature/short-stories
+permalink: /guides/arts/lit-arts/biblio-sg-english/stories
 breadcrumb: English Literature - Short Stories
 collection_name: arts-lit-arts
-third_nav_title: Singapore Literature in English 
+third_nav_title: Singapore Literature In English
 published: true
 ---
+
 
 ## **Short Stories**
 

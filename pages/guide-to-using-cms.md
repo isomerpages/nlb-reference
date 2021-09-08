@@ -69,6 +69,8 @@ In the left panel:
 
 * Buttons to include Images, Files, Hyperlinks and Tables are also available. Follow the instructions to do so. While you can add new images and files through here, this is not advisable as they will not be filed properly, which may be confusing
 
+* In-line hyperlinks (no hyperlink text) is denoted using the angled brackets "<" and ">". e.g. <www.google.com>
+
 ### Pictures
 
 * For images, you should specify the *Alt text*, for accessibility purposes (for the visually impaired using web readers).

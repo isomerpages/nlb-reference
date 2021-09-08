@@ -1,11 +1,12 @@
 ---
 title: Drama and Crosstalk (Chinese)
-permalink: /guides/arts/literaryarts/singaporechineseliterature/drama-and-crosstalk
+permalink: /guides/arts/lit-arts/biblio-sg-chinese/drama
 breadcrumb: Bibliography of Singapore Chinese Literature - Drama and Crosstalk
 collection_name: arts-lit-arts
-third_nav_title: Bibliography of Singapore Chinese Literature
+third_nav_title: Bibliography Of Singapore Chinese Literature
 published: true
 ---
+
 
 ## **新加坡华文文学书目：戏剧与相声 / Bibliography of Singapore Chinese Literature: Drama and Crosstalk**
 

@@ -3,8 +3,9 @@ title: Social Sciences
 permalink: /guides/socialsciences-humanities/social-sciences/
 breadcrumb: Social Sciences
 collection_name: socsci-hum
-third_nav_title: Social Sciences & Humanities
+third_nav_title: Social Sciences And Humanities
 ---
+
 <img src="/images/category/social-science.jpg" alt="social science banner" style="width:800px;" />
 
 - [**Effectiveness of Nonprofit Boards**](/guides/socialsciences-humanities/social-sciences/effectiveness-of-nonprofit-boards)
