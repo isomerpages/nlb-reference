@@ -8,13 +8,13 @@ This resource guide has been produced to complement the conversation on Sustaina
 
 The speakers for this session are:
 
-<img src="/images/sci-tech/sustainable-living/Sue%20Riddlestone.jpg" alt="sue riddlestone" style="width:200px;" /><br>
+<img src="/images/sci-tech/sustainable-living/Sue%20Riddlestone.jpg" alt="sue riddlestone" style="width:200px;" />
 <center>Sue Riddlestone OBE  <br>
 Chief Executive,    <br>
 Co-founder of Bioregional (UK)	 </center>
 <br>
 <br>
-<img src="/images/sci-tech/sustainable-living/Veerappan.jpg" alt="veerappan" style="width:200px;" /> <br>
+<img src="/images/sci-tech/sustainable-living/Veerappan.jpg" alt="veerappan" style="width:200px;" /> 
 <center>Veerappan Swaminathan<br> 
 Founder and Director of <br>
 Sustainable Living Lab (Singapore)	 </center> 
