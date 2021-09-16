@@ -1,6 +1,6 @@
 ---
 title: Food Sustainability
-permalink: /science-tech-sustainability/food-sustainability
+permalink: /guides/sci-tech/sustainability/food
 ---
 Four Conversations is an annual signature programme by the National Library where thought leaders share new possibilities for the future, while inspiring lifelong learning and the creation of new knowledge.
 
@@ -8,10 +8,10 @@ This resource guide has been produced to complement the conversation on Food Sus
 
 The speakers for the topic “Food Sustainability” are:
 
-<img src="images/sci-tech/food-sustainability/Oscar%20Ekponimo.jpg" alt="oscar ekponimo" style="width:200px;" />
-<center>Oscar Ekponimo  <br>
-Founder & CEO,    <br>
-Chowberry Inc (Nigeria)	 </center>
+<img src="/images/sci-tech/food-sustainability/Oscar%20Ekponimo.jpg" alt="oscar ekponimo" style="width:200px;" /> 
+<center>Oscar Ekponimo<br> 
+Founder & CEO, <br>
+Chowberry Inc (Nigeria)	 </center> 
 <br>
 <br>
 <img src="/images/sci-tech/food-sustainability/Bjorn%20Low.jpg" alt="bjorn low" style="width:200px;" /> 
@@ -29,7 +29,7 @@ Food plays a major role in our lives and food sustainability has gained greater 
 
 [^3]: Sustainable Food and Agriculture. (n.d.). *Food and Agriculture Organization of the United Nations.* Retrieved 6 September, 2021 from <http://www.fao.org/sustainability/en/>
 
-[^4]: More eateries in S'pore are putting local produce on their menus. (2021, August 22). *The Straits Times. *Retrieved 13 September, 2021, from <https://www.straitstimes.com/life/more-eateries-in-spore-put-local-produce-on-their-menus> ; No more old-school agriculture: Urban farming takes root in Singapore. (2021, June 18). *The Straits Times.* Retrieved 13 September, 2021, from <https://www.straitstimes.com/life/home-design/no-more-old-school-agriculture-urban-farming-takes-root-in-singapore>
+[^4]: More eateries in S'pore are putting local produce on their menus. (2021, August 22). *The Straits Times.* Retrieved 13 September, 2021, from <https://www.straitstimes.com/life/more-eateries-in-spore-put-local-produce-on-their-menus> ; No more old-school agriculture: Urban farming takes root in Singapore. (2021, June 18). *The Straits Times.* Retrieved 13 September, 2021, from <https://www.straitstimes.com/life/home-design/no-more-old-school-agriculture-urban-farming-takes-root-in-singapore>
 
 This guide provides supplementary resources for those who are keen to further explore this topic. You can also visit <catalogue.nlb.gov.sg> to search for more resources. 
 
@@ -99,21 +99,21 @@ Parasecoli, F.  (2019). *Food.* Cambridge, Massachusetts: The MIT Press. (Call n
 
 URL: <https://eservice.nlb.gov.sg/item_holding.aspx?bid=203978270/>
 
-<img src="/images/sci-tech/food-sustainability/Food.jpg" alt="food" style="width:200px;" />
+<img src="/images/sci-tech/food-sustainability/food.jpg" alt="food" style="width:200px;" />
 
 **Foodwise: a whole systems guide to sustainable and delicious food choices**<br>
 Berardi, G. (2020). *Foodwise: a whole systems guide to sustainable and delicious food choices.* Berkeley, California: North Atlantic Books. (Call no.: 338.19 BER -[BIZ])
 
 URL: <https://eservice.nlb.gov.sg/item_holding.aspx?bid=204090039/>
 
-<img src="/images/sci-tech/food-sustainability/Foodwise.jpg" alt="foodwise" style="width:200px;" />
+<img src="/images/sci-tech/food-sustainability/foodwise.jpg" alt="foodwise" style="width:200px;" />
 
 **Food & nutrition: sustainable food and health systems**<br>
 Wahlqvist, M. L. & Gallegos, D. (eds.). (2020). *Food & nutrition: sustainable food and health systems.* Crows Nest, N.S.W.: Allen & Unwin. (Call no.: 641.3 FOO)
 
 URL: <https://eservice.nlb.gov.sg/item_holding.aspx?bid=204348560/>
 
-<img src="/images/sci-tech/food-sustainability/Food%20and%20Nutrition.jpg" alt="foodandnutrition" style="width:200px;" />
+<img src="/images/sci-tech/food-sustainability/Food%20and%20nutrition.jpg" alt="foodandnutrition" style="width:200px;" />
 
 All Rights Reserved. National Library Board Singapore 2021.<br>
 <br>
