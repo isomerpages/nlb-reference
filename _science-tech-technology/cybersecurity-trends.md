@@ -1,7 +1,8 @@
 ---
 title: Cybersecurity Trends
-permalink: /sci-tech/tech/cyber-trends
+permalink: /guides/sci-tech/tech/cyber-trends
 ---
+
 The COVID-19 crisis has forced rapid changes in the world of cybersecurity. The smooth transition to remote work around the globe is a tribute to the skill and resilience of cybersecurity professionals. Research indicates there is a global shortage of some three million cyberserity professionals. [^1] Data suggest that the global cybersecurity workforce needs to grow 89 percent to fill the talent gap in defending organisations’ crical assets. [^1] Cybersecurity responsibilities include data security, security risk management and assessment, security compliance, threat detection and remediation, network security architecture, and monitoring or troubleshooting cybersecurity systems.[^2] The deficit of cybersecurity talent is a challenge for both the public and private sectors. Cultivating diversity in cybersecurity profession is vital to the growth and success of the industry. The International Consortium of Minority Cybersecurity Professionals reports that females represent only 14 percent of the cyber workforce in the United States.[^3] 
 
 This resource guide was prepared in September 2021 by Darren Seow, Senior Librarian at the National Library, Singapore.

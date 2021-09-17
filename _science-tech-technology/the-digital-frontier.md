@@ -1,7 +1,9 @@
 ---
 title: The Digital  Frontier
-permalink: /sci-tech/tech/digital-frontier
+permalink: /guides/sci-tech/tech/digital-frontier
 ---
+
+
 The COVID-19 pandemic has accelerated digitisation across many sectors of the economy and society.[^1] In the digital world, everything and everyone is connected to apps, data, purchases, services, and communication. Securing this world is critical for protecting people, organisations, infrastructure, and just about everything we rely on for health and prosperity.[^2]  
 
 Cybersecurity breaches are on the rise. Risks abound, but so do solutions, including those based on artificial intelligence. Digital threats demand vigilance and resolve to respond to an ever-expanding cycle of risk. The ability to combat cyber threats effectively requires changes to the international and security community response to cybersecurity.[^3] This will ensure that our digital infrastructure continues to provide the level of resilience and security needed. Effective partnership between private and public sector leaders is key to ensuring cyber resilience in Singapore.[^4] Different segments of the community need to collaborate and work together to ensure a more resilient and safer cyberspace.
