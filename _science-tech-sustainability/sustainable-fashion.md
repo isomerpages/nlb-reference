@@ -9,10 +9,13 @@ This resource guide was produced in accompaniment with the conversation on  Sust
 The speakers for this session are:
 <br><br>
 <img src="/images/sci-tech/sustainable-fashion/SF1.png" alt="therese" style="width:200px;" /> 
+
 <center><b>Therese Clarence Fernandez-Ruiz</b><br>
 President and founding partner, Rags2Riches Inc (Philippines)</center>
+<br>
 
 <img src="/images/sci-tech/sustainable-fashion/SF2.png" alt="xingyun" style="width:200px;" /> 
+
 <center><b>Shen Xingyun</b><br>
 Country Coordinator, Fashion Revolution (Singapore) </center>
 
@@ -46,11 +49,17 @@ La Torre, V. (2021, August 1). Can sustainable fashion be affordable? And should
 
 #### Videos
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y78UVWd5PHE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **A future sustainable fashion system**<br>
 A future sustainable fashion system. (2019, November 15). *TEDx Talks*. Retrieved 2021, September 1 from <https://youtu.be/i-NwdH2Wfu4/> 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n75jVQTUEE8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **Creating a circular economy for fashion**<br>
 Creating a circular economy for fashion. (2020, January 29). *Financial Times*. Retrieved 2021, September 1 from <https://youtu.be/y78UVWd5PHE/>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i-NwdH2Wfu4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Our Love For Cheap Clothes: What’s The TRUE Cost?**<br>
 Our Love For Cheap Clothes: What’s The TRUE Cost?. (2021, March 16). *CNA Insider*. Retrieved 2021, September 1 from <https://youtu.be/n75jVQTUEE8/> 
@@ -74,24 +83,21 @@ Our Love For Cheap Clothes: What’s The TRUE Cost?. (2021, March 16). *CNA Insi
 <br>Lavergne, M. (2015). *Fixing Fashion: Rethinking the Way We Make, Market and Buy Our Clothes*. Gabriola: New Society Publishers.
 <br>URL: <https://nlb.overdrive.com/media/2387124/> 
 
-<img src="/images/sci-tech/sustainable-fashion/SF3.PNG" align="left" alt="ebook1" style="width:100px;" /> 
-<br><br><br><br>
+<img src="/images/sci-tech/sustainable-fashion/SF3.PNG" alt="ebook1" style="width:200px;" /> 
+
 
 **Fibershed**
-<br>Burgess, R., White, C. & Rider, T. (2019). *Fibershed*. Vermont: Chelsea Green Publishing.
-<br>URL: <https://nlb.overdrive.com/media/5087039/> 
+<br>Burgess, R., White, C. & Rider, T. (2019). *Fibershed*. Vermont: Chelsea Green Publishing.<br>
+URL: <https://nlb.overdrive.com/media/5087039/> 
 
-<img src="/images/sci-tech/sustainable-fashion/SF4.PNG" align="left" alt="ebook2" style="width:100px;" /> 
-<br><br><br><br>
-																																											 
+<img src="/images/sci-tech/sustainable-fashion/SF4.PNG" alt="ebook2" style="width:200px;" /> 
+																																										 
+
 #### Books
 
 **A practical guide to sustainable fashion**
 <br>Gwilt, A. (2020). *A practical guide to sustainable fashion*. London: Bloomsbury Visual Arts. (Call no.:  746.92 GWI)<br>URL: <https://eservice.nlb.gov.sg/item_holding.aspx?bid=204500355/> 
-<br>
 
-<img src="/images/sci-tech/sustainable-fashion/SF5.PNG" align="left" alt="book1" style="width:100px;" />
-<br><br><br><br>
+<img src="/images/sci-tech/sustainable-fashion/SF5.PNG" alt="book1" style="width:200px;" />
 
 All Rights Reserved. National Library Board Singapore 2021.
-<br><br>

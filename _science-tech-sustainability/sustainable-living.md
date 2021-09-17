@@ -13,13 +13,12 @@ The speakers for this session are:
 Chief Executive,    <br>
 Co-founder of Bioregional (UK)	 </center>
 <br>
-<br>
 <img src="/images/sci-tech/sustainable-living/Veerappan.jpg" alt="veerappan" style="width:200px;" /> 
 <center>Veerappan Swaminathan<br> 
 Founder and Director of <br>
 Sustainable Living Lab (Singapore)	 </center> 
 
-This session was moderated by Stephanie Dickson, Founder and Editor in Chief of Green Is The New Black.
+This session was moderated by **Stephanie Dickson**, Founder and Editor in Chief of Green Is The New Black.
 
 Sustainable living involves making deliberate choices to reduce individual and collective environmental impact in the hope that future generations will be able to inherit a safe and healthy planet. As the earth's resources are finite, it is crucial to reduce one's carbon footprint by using the earth's natural resources economically and minimising the production of waste, pollution and greenhouse gases.  [^1]
 
@@ -57,9 +56,12 @@ What is sustainable living? (2021). *Sustainable Jungle*. Retrieved 2021, August
 
 **Videos**
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cbm1MCTobVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **The Circular Economy: A Simple Explanation: Cillian Lohan**<br>
 The Circular Economy: A Simple Explanation: Cillian Lohan. (2018, February 18). *TEDx Talks*. Retrieved August 31, 2021, from <https://youtu.be/cbm1MCTobVc/>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pF72px2R3Hg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Why I live a zero waste life: Lauren Singer**<br>
 Why I live a zero waste life: Lauren Singer. (2015, May 27). *TEDx Talks.* Retrieved August 31, 2021, from <https://youtu.be/pF72px2R3Hg/>

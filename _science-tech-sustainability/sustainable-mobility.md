@@ -12,6 +12,7 @@ The speakers for the topic “Sustainable Mobility” are:
 
 <center>Robin Chase<br>
 Transportation Entrepreneur (USA)</center>
+<br>
 
 <img src="/images/sci-tech/sustainable-mobility/Lynette%20Cheah%20pic.jpg" alt="lynette cheah" style="width:200px;" />
 
@@ -63,12 +64,16 @@ Chase, R. (2019, May 12). The technology that could transform congestion pricing
 
 #### Videos
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0bdnis3Mgyc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **Robin Chase on the future of transportation and mobility - 'On 
 Cities' masterclass series**<br>
-Robin Chase on the future of transportation and mobility - 'On Cities' masterclass series. (2021, April 21). *Norman Foster Foundation*. Retrieved 2021, September 6 from [https://www.youtube.com/watch?v=0bdnis3Mgyc&list=PLlPE3ELfQmH04FHWAPLchOrDx8z_-gO4G&index=8](https://www.youtube.com/watch?v=0bdnis3Mgyc&list=PLlPE3ELfQmH04FHWAPLchOrDx8z_-gO4G&index=8)
+Robin Chase on the future of transportation and mobility - 'On Cities' masterclass series. (2021, April 21). *Norman Foster Foundation*. Retrieved 2021, September 6 from [https://youtu.be/0bdnis3Mgyc](https://youtu.be/0bdnis3Mgyc)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ia1aljMoE9g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Tomorrow's cities: Sustainable mobility, compact districts, green space**<br>
-Tomorrow's Cities: Sustainable mobility, compact districts, green space. (2021, March 31). *WRI Ross Center for Sustainable Cities*. Retrieved 2021, September 6 from [https://www.youtube.com/watch?v=ia1aljMoE9g](https://www.youtube.com/watch?v=ia1aljMoE9g)
+Tomorrow's Cities: Sustainable mobility, compact districts, green space. (2021, March 31). *WRI Ross Center for Sustainable Cities*. Retrieved 2021, September 6 from [https://youtu.be/ia1aljMoE9g](https://youtu.be/ia1aljMoE9g)
 
 #### Journal Articles
 
