@@ -1,7 +1,6 @@
 ---
 title: The Digital Frontier
 permalink: /guides/sci-tech/tech/digital-frontier
-published: false
 ---
 
 
