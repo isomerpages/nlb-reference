@@ -1,6 +1,0 @@
-collections:
-  reminiscence-library:
-    output: true
-    order:
-      - introduction.md
-      - package-1.md

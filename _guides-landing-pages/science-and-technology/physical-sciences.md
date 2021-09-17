@@ -1,11 +1,8 @@
 ---
 title: Physical Sciences
 permalink: /guides/sci-tech/physical-sciences/
-breadcrumb: Physical Sciences
-collection_name: sci-tech
 third_nav_title: Science And Technology
 ---
-
 <img src="/images/category/physical-science.jpg" alt="physical science banner" style="width:800px;" />
 
 - [**Climate Change**](/guides/science-technology/physical-sciences/climate-change)

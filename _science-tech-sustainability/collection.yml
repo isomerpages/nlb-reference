@@ -3,3 +3,6 @@ collections:
     output: true
     order:
       - sustainable-living.md
+      - sustainable-mobility.md
+      - food-sustainability.md
+      - sustainable-fashion.md

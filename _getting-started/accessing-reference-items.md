@@ -1,11 +1,7 @@
 ---
 title: Accessing Reference Items
 permalink: /getting-started/accessing-reference-items/
-breadcrumb: Accessing Reference Items
-collection_name: getting-started
-published: true
 ---
-
 # **Accessing Reference Items**
 
 The National Library provides the largest public collection of reference materials and reference service in Singapore. It aims to be the premier resource centre for materials on Singapore, Southeast Asia and Asia serving the research and information needs of researchers, professionals and the general public. These collections and services are accessible through the Lee Kong Chian Reference Library (LKCRL).
@@ -43,16 +39,14 @@ For items from **Lee Kong Chian Reference Library**, please refer to the **Secti
        <label for="acc3">Items listed under <u>Reference Rare</u></label>
        <div class="new-accordion-content">
         <p>These rare items often hold heritage value and are not available for reference without written permission. Due to preservation considerations, the rare materials are kept in a controlled environment at the National Library.<br><br>
-        Researchers are encouraged to use the surrogate copies (microfilms ot digitised copies) of the rare materials.<br>
+        Researchers are encouraged to use the surrogate copies (microfilms or digitised copies) of the rare materials.<br><br>
         Please refer to the catalogue entries for details for each item:<br>
         - Refer to <b>Shelving Notes</b> for any microfilms (which begin with NLxxxxx), or<br>
         - Refer to <b>Electronic Access</b> for any digital surrogate copy (URLs mostly accessible from home, otherwise available at a dedicated terminal at Level 11 of the Library).<br><br>
         - Microfilms are viewable at Level 11 of the Library, while digitised copies are accessible on <a href="https://eresources.nlb.gov.sg/printheritage">BookSG</a>.<br><br>
-        - For requests to view the physical item, a request form to access the Rare Collection must be submitted. A detailed explanation for the purpose of research and explanation for the necessity to access the physical item is compulsory.<br>
-        - Please click <a href="https://www.nlb.gov.sg/Portals/0/Docs/Research/Collections/Form_RequestforRareMaterials(20-01-20)_fillable.pdf">here</a> to download a copy of the request form and email the completed form to us at <a href="mailto:ref@nlb.gov.sg">ref@nlb.gov.sg</a></p>
+        - For requests to view the physical item, a request form to access the Rare Collection must be submitted. A detailed explanation for the purpose of research and explanation for the necessity to access the physical item is compulsory. Please click <a href="https://form.gov.sg/611c69af928b860012c23309">here</a> to access the request form.</p>
        </div>
 </div><!--close accordion-->
-
 
 ## Items in the Repository Used Book Collection or PublicationSG
 
@@ -70,7 +64,6 @@ The **Repository Used Book Collection** includes items which are the last copies
 
 Should you require any further clarifications or any assistance, please email us at [ref@nlb.gov.sg](mailto:ref@nlb.gov.sg).
 
------
+<hr>
 
-[^1]: A reservation fee of S$1.55 per item applies. Please allow 3-5 working days for the item to be made available for consultation. Terms and conditions apply. 
-
+[^1]: A reservation fee of S$1.55 per item applies. Please allow 3-5 working days for the item to be made available for consultation. Terms and conditions apply.

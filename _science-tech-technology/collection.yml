@@ -2,5 +2,7 @@ collections:
   science-tech-technology:
     output: true
     order:
+      - cybersecurity-trends.md
+      - the-digital-frontier.md
       - occupational-safety-and-health-resource-guide.md
       - standards-and-references-resource-guide.md
