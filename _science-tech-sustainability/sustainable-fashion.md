@@ -2,7 +2,9 @@
 title: Sustainable Fashion
 permalink: /guides/sci-tech/sustainability/sustainablefashion
 ---
-This resource guide was produced in accompaniment with the conversation on  <b>Sustainable Fashion</b>.
+Four Conversations is an annual signature programme by the National Library where thought leaders share new possibilities for the future, while inspiring lifelong learning and the creation of new knowledge.
+
+This resource guide was produced in accompaniment with the conversation on  Sustainable Fashion.
 
 The speakers for this session are:
 <br><br>
@@ -20,13 +22,13 @@ Sustainable fashion has been gaining traction in recent years with consumers shi
 
 A major opposing force to a sustainable fashion industry is the ‘fast fashion’ phenomena – clothes that are made cheaply and rapidly to meet demands for the ever-changing fashion trends around the world. Across the globe, companies and countries have been taking different approaches to reduce the impact of fashion on the environment and society.[^3] <br> <br>
 
-[^1]: Cotler, A. (2019, October 7). Why sustainable fashion matters. *Forbes*. Retrieved 2021, September 1 from https://www.forbes.com/sites/ellevate/2019/10/07/why-sustainable-fashion-matters/
+[^1]: Cotler, A. (2019, October 7). Why sustainable fashion matters. *Forbes*. Retrieved 2021, September 1 from <https://www.forbes.com/sites/ellevate/2019/10/07/why-sustainable-fashion-matters/>
 
-[^2]: Gwilt, A. (2020). *A practical guide to sustainable fashion*. London: Bloomsbury Visual Arts, p. 2-5. (Call no.:  746.92 GWI)
+[^2]: Gwilt, A. (2020). [*A practical guide to sustainable fashion*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204500355). London: Bloomsbury Visual Arts, p. 2-5. (Call no.:  746.92 GWI)
 
-[^3]: Gwilt, A. (2020). *A practical guide to sustainable fashion*. London: Bloomsbury Visual Arts, p. 14-15. (Call no.:  746.92 GWI)
+[^3]: Gwilt, A. (2020). [*A practical guide to sustainable fashion*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204500355). London: Bloomsbury Visual Arts, p. 14-15. (Call no.:  746.92 GWI)
 
-This guide provides supplementary resources for those who are keen to further explore this topic. You can also visit <https://search.nlb.gov.sg/> to search for more resources. If you would like to view other resource guides created by our librarians, please visit <https://nlb.gov.sg/resourceguides/>. 
+This guide provides supplementary resources for those who are keen to further explore this topic. You can also visit <https://search.nlb.gov.sg/> to search for more resources. If you would like to view other resource guides created by our librarians, please visit <https://reference.nlb.gov.sg/guides/>. 
 <br>
 
 This resource guide was prepared in September 2021 by Zoe Yeo, an Associate Librarian at the National Library, Singapore.
@@ -56,13 +58,13 @@ Our Love For Cheap Clothes: What’s The TRUE Cost?. (2021, March 16). *CNA Insi
 #### Journal Articles
 
 **Understanding fashion complexity through a systemic data approach**
-<br>Marino, C., Remondino, C. L., & Tamborrini, P. M. Understanding fashion complexity through a systemic data approach. *Strategic Design Research Journal*. 2020, 13(2), 168-283. Retrieved from EBSCOhost research databases via NLB’s eResources website. (myLibrary ID is required to access this article.) 
+<br>Marino, C., Remondino, C. L., & Tamborrini, P. M. Understanding fashion complexity through a systemic data approach. *Strategic Design Research Journal*. 2020, 13(2), 168-283. Retrieved from EBSCOhost research databases via NLB’s eResources website <https://eresources.nlb.gov.sg/Main/browse/resource/1285/> (myLibrary ID is required to access this article.)
 
 **Doing Well While Doing Good: How the Hybrid Business Model Promotes Sustainability in the Fashion Industry**
-<br>Joy, A., Pena, C., & Armano, L. Doing Well While Doing Good: How the Hybrid Business Model Promotes Sustainability in the Fashion Industry. *Journal of Business Anthropology*. 2020, 9(2), 381-406. Retrieved from EBSCOhost research databases via NLB’s eResources website. (myLibrary ID is required to access this article.) 
+<br>Joy, A., Pena, C., & Armano, L. Doing Well While Doing Good: How the Hybrid Business Model Promotes Sustainability in the Fashion Industry. *Journal of Business Anthropology*. 2020, 9(2), 381-406. Retrieved from EBSCOhost research databases via NLB’s eResources website <https://eresources.nlb.gov.sg/Main/browse/resource/1285/> (myLibrary ID is required to access this article.)
 
 **Fashion Futuring in the Anthropocene: Sustainable Fashion as “Taming” and “Rewilding”**
-<br>Payne, A. Fashion Futuring in the Anthropocene: Sustainable Fashion as “Taming” and “Rewilding”. *Fashion Theory: The Journal of Dress, Body & Culture*. 2019, 23(1), 5-23. Retrieved from EBSCOhost research databases via NLB’s eResources website. (myLibrary ID is required to access this article.) 
+<br>Payne, A. Fashion Futuring in the Anthropocene: Sustainable Fashion as “Taming” and “Rewilding”. *Fashion Theory: The Journal of Dress, Body & Culture*. 2019, 23(1), 5-23. Retrieved from EBSCOhost research databases via NLB’s eResources website <https://eresources.nlb.gov.sg/Main/browse/resource/1285/> (myLibrary ID is required to access this article.)
 
 
 #### eBooks
