@@ -8,4 +8,4 @@ third_nav_title: Science And Technology
 - [**Sustainable Living**](/guides/sci-tech/sustainability/sustainable-living)
 - [**Sustainable Mobility**](/guides/sci-tech/sustainability/sustain-mobility)
 - [**Food Sustainability**](/guides/sci-tech/sustainability/food)
-- [**Sustainable RG 4**](/guides/science-technology/physical-sciences/air-pollution)
+- [**Sustainable Fashion**](/guides/sci-tech/sustainability/sustainablefashion)
