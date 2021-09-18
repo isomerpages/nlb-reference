@@ -2,8 +2,6 @@
 title: The Digital Frontier
 permalink: /guides/sci-tech/tech/digital-frontier
 ---
-
-
 The COVID-19 pandemic has accelerated digitisation across many sectors of the economy and society.[^1] In the digital world, everything and everyone is connected to apps, data, purchases, services, and communication. Securing this world is critical for protecting people, organisations, infrastructure, and just about everything we rely on for health and prosperity.[^2]  
 
 Cybersecurity breaches are on the rise. Risks abound, but so do solutions, including those based on artificial intelligence. Digital threats demand vigilance and resolve to respond to an ever-expanding cycle of risk. The ability to combat cyber threats effectively requires changes to the international and security community response to cybersecurity.[^3] This will ensure that our digital infrastructure continues to provide the level of resilience and security needed. Effective partnership between private and public sector leaders is key to ensuring cyber resilience in Singapore.[^4] Different segments of the community need to collaborate and work together to ensure a more resilient and safer cyberspace.
@@ -59,7 +57,7 @@ Cappelletti, F., & Martino, L. (2021, January). Achieving robust European cybers
 Grünberg, N., & Wessling, C. (Eds.). (2021, June 15). The CCP's next century: Expanding economic control, digital governance and national security. *Mercatos Institute for Chinese Studies*. Retrieved 2021, September 20 from [https://merics.org/sites/default/files/2021-07/MERICSPapersOnChinaCCP100_3_1.pdf](https://merics.org/sites/default/files/2021-07/MERICSPapersOnChinaCCP100_3_1.pdf)
 
 **Toward a collaborative cyber defense and enhanced threat intelligence structure**<br>
-Zabierek, L., et al. (2021, August). Toward a collaborative cyber defense and enhanced threat intelligence structure.*Belfer Center, Harvard Kennedy School*. Retrieved 2020, September 20 from [https://www.belfercenter.org/sites/default/files/files/publication/8.10.21%20Toward%20a%20Collaborative%20Cyber%20Defense%20and%20Enhanced%20Threat%20Intelligence%20Structure.pdf](https://www.belfercenter.org/sites/default/files/files/publication/8.10.21%20Toward%20a%20Collaborative%20Cyber%20Defense%20and%20Enhanced%20Threat%20Intelligence%20Structure.pdf)
+Zabierek, L., et al. (2021, August). Toward a collaborative cyber defense and enhanced threat intelligence structure. *Belfer Center, Harvard Kennedy School*. Retrieved 2020, September 20 from [https://www.belfercenter.org/sites/default/files/files/publication/8.10.21%20Toward%20a%20Collaborative%20Cyber%20Defense%20and%20Enhanced%20Threat%20Intelligence%20Structure.pdf](https://www.belfercenter.org/sites/default/files/files/publication/8.10.21%20Toward%20a%20Collaborative%20Cyber%20Defense%20and%20Enhanced%20Threat%20Intelligence%20Structure.pdf)
 
 
 **Reflections on digital sovereignty**<br> 
