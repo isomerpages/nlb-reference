@@ -1,0 +1,5 @@
+collections:
+  reminiscence-library:
+    output: true
+    order:
+      - reminiscence-package-1.md
