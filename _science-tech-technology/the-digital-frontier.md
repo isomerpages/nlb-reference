@@ -36,32 +36,38 @@ Implementation of norms for cyberspace–parallel or convergent perspectives? (2
 #### Journal Articles
 
 **Cyber diplomacy in Southeast Asia**<br>
-Van Raemdonck, N. (2021, May). Cyber diplomacy in Southeast Asia. *EU Cyber Direct*. Retrieved 2020, September 20 from[ https://eucd.s3.eu-central-1.amazonaws.com/eucd/assets/2ZycxfN1/dd-southeast-asia-nb-fb-nvr-09-05.pdf](https://eucd.s3.eu-central-1.amazonaws.com/eucd/assets/2ZycxfN1/dd-southeast-asia-nb-fb-nvr-09-05.pdf)
+Van Raemdonck, N. (2021, May). Cyber diplomacy in Southeast Asia. *EU Cyber Direct*. Retrieved 2020, September 20 from <br>
+[https://eucd.s3.eu-central-1.amazonaws.com/eucd/assets/2ZycxfN1/dd-southeast-asia-nb-fb-nvr-09-05.pdf](https://eucd.s3.eu-central-1.amazonaws.com/eucd/assets/2ZycxfN1/dd-southeast-asia-nb-fb-nvr-09-05.pdf)
 
 
 **Cybersecurity, emerging technology and systemic risk**<br>
-Creese, S., et al. (2020, November 16). Cybersecurity, emerging technology and systemic risk. *World Economic Forum*. Retrieved 2020, September 20 from [http://www3.weforum.org/docs/WEF_Future_Series_Cybersecurity_emerging_technology_and_systemic_risk_2020.pdf](http://www3.weforum.org/docs/WEF_Future_Series_Cybersecurity_emerging_technology_and_systemic_risk_2020.pdf)
+Creese, S., et al. (2020, November 16). Cybersecurity, emerging technology and systemic risk. *World Economic Forum*. Retrieved 2020, September 20 from<br>
+[http://www3.weforum.org/docs/WEF_Future_Series_Cybersecurity_emerging_technology_and_systemic_risk_2020.pdf](http://www3.weforum.org/docs/WEF_Future_Series_Cybersecurity_emerging_technology_and_systemic_risk_2020.pdf)
 
 
 **Cybersecurity Capacity Maturity Model for nations**<br>
 Cybersecurity Capacity Maturity Model for nations. (2021, March). *Global Cyber Security Capacity Centre, University of Oxford*. Retrieved 2021, September 20 from [https://gcscc.ox.ac.uk/files/cmm2021editiondocpdf](https://gcscc.ox.ac.uk/files/cmm2021editiondocpdf)
 
 **Exploring national cyber security strategies: Policy approaches and implications**<br>
-Dawda, S. (2021, February 3). Exploring national cyber security strategies: Policy approaches and implications. *Royal United Services Institute*. Retrieved 2021, September 20 from [https://static.rusi.org/220_ncss_web_0.pdf](https://static.rusi.org/220_ncss_web_0.pdf)
+Dawda, S. (2021, February 3). Exploring national cyber security strategies: Policy approaches and implications. *Royal United Services Institute*. Retrieved 2021, September 20 from<br>
+[https://static.rusi.org/220_ncss_web_0.pdf](https://static.rusi.org/220_ncss_web_0.pdf)
 
 
 **Achieving robust European cybersecurity through public-private partnerships: Approaches and developments** <br> 
-Cappelletti, F., & Martino, L. (2021, January). Achieving robust European cybersecurity through public-private partnerships: Approaches and developments. *European Liberal Forum*. Retrieved 2021, September 20 from [https://www.liberalforum.eu/wp-content/uploads/2021/01/ELF_DiscussionPaper_4_Cyber-PPPs.pdf](https://www.liberalforum.eu/wp-content/uploads/2021/01/ELF_DiscussionPaper_4_Cyber-PPPs.pdf)
+Cappelletti, F., & Martino, L. (2021, January). Achieving robust European cybersecurity through public-private partnerships: Approaches and developments. *European Liberal Forum*. Retrieved 2021, September 20 from<br>
+[https://www.liberalforum.eu/wp-content/uploads/2021/01/ELF_DiscussionPaper_4_Cyber-PPPs.pdf](https://www.liberalforum.eu/wp-content/uploads/2021/01/ELF_DiscussionPaper_4_Cyber-PPPs.pdf)
 
 **The CCP's next century: Expanding economic control, digital governance and national security**<br>
-Grünberg, N., & Wessling, C. (Eds.). (2021, June 15). The CCP's next century: Expanding economic control, digital governance and national security. *Mercatos Institute for Chinese Studies*. Retrieved 2021, September 20 from [https://merics.org/sites/default/files/2021-07/MERICSPapersOnChinaCCP100_3_1.pdf](https://merics.org/sites/default/files/2021-07/MERICSPapersOnChinaCCP100_3_1.pdf)
+Grünberg, N., & Wessling, C. (Eds.). (2021, June 15). The CCP's next century: Expanding economic control, digital governance and national security. *Mercatos Institute for Chinese Studies*. Retrieved 2021, September 20 from<br>[https://merics.org/sites/default/files/2021-07/MERICSPapersOnChinaCCP100_3_1.pdf](https://merics.org/sites/default/files/2021-07/MERICSPapersOnChinaCCP100_3_1.pdf)
 
 **Toward a collaborative cyber defense and enhanced threat intelligence structure**<br>
-Zabierek, L., et al. (2021, August). Toward a collaborative cyber defense and enhanced threat intelligence structure. *Belfer Center, Harvard Kennedy School*. Retrieved 2020, September 20 from [https://www.belfercenter.org/sites/default/files/files/publication/8.10.21%20Toward%20a%20Collaborative%20Cyber%20Defense%20and%20Enhanced%20Threat%20Intelligence%20Structure.pdf](https://www.belfercenter.org/sites/default/files/files/publication/8.10.21%20Toward%20a%20Collaborative%20Cyber%20Defense%20and%20Enhanced%20Threat%20Intelligence%20Structure.pdf)
+Zabierek, L., et al. (2021, August). Toward a collaborative cyber defense and enhanced threat intelligence structure. *Belfer Center, Harvard Kennedy School*. Retrieved 2020, September 20 from<br>
+[https://www.belfercenter.org/sites/default/files/files/publication/8.10.21%20Toward%20a%20Collaborative%20Cyber%20Defense%20and%20Enhanced%20Threat%20Intelligence%20Structure.pdf](https://www.belfercenter.org/sites/default/files/files/publication/8.10.21%20Toward%20a%20Collaborative%20Cyber%20Defense%20and%20Enhanced%20Threat%20Intelligence%20Structure.pdf)
 
 
 **Reflections on digital sovereignty**<br> 
-Moerel, L., & Timmers, P. (2021, January 15). Reflections on digital sovereignty. *EU Cyber Direct*. Retrieved 2020, September 20 from [https://eucd.s3.eu-central-1.amazonaws.com/eucd/assets/khGGovSY/rif_timmersmoerel-final-for-publication.pdf](https://eucd.s3.eu-central-1.amazonaws.com/eucd/assets/khGGovSY/rif_timmersmoerel-final-for-publication.pdf)
+Moerel, L., & Timmers, P. (2021, January 15). Reflections on digital sovereignty. *EU Cyber Direct*. Retrieved 2020, September 20 from<br>
+[https://eucd.s3.eu-central-1.amazonaws.com/eucd/assets/khGGovSY/rif_timmersmoerel-final-for-publication.pdf](https://eucd.s3.eu-central-1.amazonaws.com/eucd/assets/khGGovSY/rif_timmersmoerel-final-for-publication.pdf)
 
 
 **The EU’s cybersecurity strategy for the digital decade**<br>
@@ -74,8 +80,6 @@ The EU’s cybersecurity strategy for the digital decade. (2020, December 16). *
 Lilly, B., et. al. (2021). *RAND's Scalable Warning and Resilience Model (SWARM): Enhancing defenders' predictive power in cyberspace*. Santa Monica, CA: RAND. 
 
 URL: [https://www.rand.org/content/dam/rand/pubs/research_reports/RRA300/RRA382-1/RAND_RRA382-1.pdf](https://www.rand.org/content/dam/rand/pubs/research_reports/RRA300/RRA382-1/RAND_RRA382-1.pdf)
-
-
 
 All Rights Reserved. National Library Board Singapore 2021.
 
