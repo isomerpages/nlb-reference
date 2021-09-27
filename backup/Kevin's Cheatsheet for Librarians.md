@@ -3,7 +3,7 @@ title: Kevin's cheatsheet
 permalink: /guides/cheatsheet
 breadcrumb: Kevin's cheatsheet
 collection_name: guides
-published: false
+published: true
 ---
 
 # Guide Index
@@ -253,6 +253,41 @@ This visually appears as the table here:
 | Forest fires (Southeast Asia, Prevention and control), Forests and forestry, Fire management (Southeast Asia) | 634.9618         |
 
 As you can see, a table becomes increasingly complex the more content/text you put into it. Hence, the use of tables must be considered carefully before including.
+
+Alternatively, you may use HTML code to generate a table. This means that formatting has to be done in HTML code as well (e.g. < b > bold < /b >, < i > italic < /i >, etc.)
+
+Here is an example:
+
+<table style="width:100%">
+    <tr>     <!-- "<tr>" denotes a table row-->
+        <td style="width:30%"> <!-- "<td>" denotes a table cell within the row-->
+            <b>Books</b>
+        </td>
+        <td style="width:70%">
+        <b>Description</b>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img style="width:150px" src="/images/arts/visualarts/Lim-Tze-Peng.jpg">
+        </td>
+        <td>
+        Book Citation (1999), World Scientific.<br>
+        This book is about Lim Tze Peng.
+        </td>
+    </tr>
+        <tr>
+        <td>
+            <img style="width:150px" src="/images/arts/visualarts/head-of-ah-beng.jpg">
+        </td>
+        <td>
+        Book Citation (2020), Pearson.<br>
+        This book is about an artwork.
+        </td>
+    </tr>
+</table>
+
+
 
 ## KIV Content
 
