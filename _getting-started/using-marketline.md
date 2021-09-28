@@ -28,11 +28,11 @@ MarketLine Advantage offers an interactive platform giving you anytime access to
 
 2. Select ‘Company Profiles’ from the drop-down menu and hit ‘Search’
 
-<img src="/images/getting-started/marketline/3_company%20profile%20search.JPG" style="width:450px;" />
+<img src="/images/getting-started/marketline/3_company%20profile%20search.JPG" style="width:550px;" />
  
 3. Select the matching company name from the table
 
-<img src="/images/getting-started/marketline/4_selecting%20company%20name.JPG" style="width:450px;" />
+<img src="/images/getting-started/marketline/4_selecting%20company%20name.JPG" style="width:550px;" />
  
 4. From the company’s overview page, feel free to explore the different market intelligence options from the left-hand column, ranging from research reports to SWOT (Strengths, Weaknesses, Opportunities, Threats) analysis
 
@@ -47,11 +47,11 @@ MarketLine Advantage offers an interactive platform giving you anytime access to
 
 2. Select ‘Country/City Profiles’ from the drop-down menu and hit ‘Search’
 
-<img src="/images/getting-started/marketline/6_country%20search.JPG" style="width:450px;" />
+<img src="/images/getting-started/marketline/6_country%20search.JPG" style="width:550px;" />
 
 3. Select the matching country/city name from the table
  
- <img src="/images/getting-started/marketline/7_select%20country.JPG" style="width:450px;" />
+ <img src="/images/getting-started/marketline/7_select%20country.JPG" style="width:550px;" />
  
 4. Browse through the analysis report which analyses the PESTLE (political, economic, social, technological, legal and environmental) structure of the country. You can save a PDF copy of the report for your own reading and research. 
 
