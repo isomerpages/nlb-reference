@@ -2,8 +2,6 @@
 title: Climate Change
 permalink: /guides/sci-tech/physical-sciences/climate-change
 breadcrumb: Climate Change
-collection_name: science-technology-physical-sciences
-third_nav_title: Physical Sciences
 ---
 
 
