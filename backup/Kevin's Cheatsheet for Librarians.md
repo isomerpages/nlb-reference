@@ -3,7 +3,7 @@ title: Kevin's cheatsheet
 permalink: /guides/cheatsheet
 breadcrumb: Kevin's cheatsheet
 collection_name: guides
-published: true
+published: false
 ---
 
 # Guide Index
