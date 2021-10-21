@@ -1,11 +1,13 @@
 ---
-title: 100 Seminal Books on Social Services - Cyber Wellness
-permalink: /guides/socialsciences-humanities/social-sciences/100seminalbooks/cyber-wellness
+title: 100 Seminal Books on Social Services Cyber Wellness
+permalink: /guides/socscihum/soc-sci/seminal/cyber-wellness
 breadcrumb: Cyber Wellness
-third_nav_title: Seminal Books
+third_nav_title: 100 Seminal Books
 collection_name: social-sciences-humanities-social-sciences
 published: true
 ---
+
+
 
 ### <u>Guide Index</u>
 
