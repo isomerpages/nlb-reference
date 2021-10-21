@@ -2,6 +2,7 @@ collections:
   social-sciences-humanities-social-sciences:
     output: true
     order:
+      - Read to Be Sure | Fast Fashion.md
       - seminal-books/.keep
       - seminal-books/100-seminal-books-on-social-services.md
       - seminal-books/100-seminal-books-on-social-services-cyber-wellness.md
