@@ -93,6 +93,42 @@ Low- and middle-income countries have made substantial economic progress in the 
 Khurana, K., & S. S. Muthu. (2021, May). Are low- and middle-income countries profiting from fast fashion? Journal of Fashion Marketing and Management: An International Journal. Retrieved September 10, 2021, from
 <http://www.wiut.uz/images/publications/2021/8.pdf>
 
+##### Consumer adoption of fast-fashion, differences of perceptions, and the role of motivations across the adoption groups
+
+Adopters of fast fashion are classified as “innovators”, “early adopters”, “early majority”, “late majority”, and “laggards”. This research finds that perceptions of fast-fashion vary across different consumer adoption groups in terms of “being in-style products”, “expressing self-image”, “imitating luxury fashion products”, and “frequent renewal of collections”.
+
+Okur, N. (2021). Consumer adoption of fast-fashion, differences of perceptions, and the role of motivations across the adoption groups. AUTEX Research Journal. Retrieved September 10, 2021, from
+<https://sciendo.com/pdf/10.2478/aut-2021-0024>
+
+##### See it. Like it. Buy it. Repeat. Fast fashion gets faster. 
+
+This article highlights that “while trends used to be set twice a year in the pages of Vogue and on Paris runways, now they sprout up daily from the Instagram feeds of fashion models and celebrities.” Retailers are said to have recognised that “fashion’s centre of gravity has shifted, and have found a way to capitalise on it.”
+
+Porter, J. (2018, November). See it. Like it. Buy it. Repeat. Fast fashion gets faster. Inc., 40 (7). 
+
+Retrieved from [EBSCOhost Academic Search Complete](https://eresources.nlb.gov.sg/Main/browse/resource/1111) via NLB’s eResources website. (myLibrary ID is required to access this article.) 
+
+##### Is slow fashion the new luxury? If fast fashion defined the 2010s, slow fashion may be the marker of the new decade
+
+For years, the fashion industry is said to have pushed mass production and consumption so rapidly that, “quick-turn, quick-churn fashion is now falling out of favour and making way for its more measured counterpart.” The COVID-19 pandemic is seen to have helped foster a “buy less, buy better mentality with interest sparking in products with more value and longevity compared to disposable fast fashion.” 
+
+Donaldson, T. (2020, September 15). Is slow fashion the new luxury? If fast fashion defined the 2010s, slow fashion may be the marker of the new decade. Women's Wear Daily, p. 42. 
+
+Retrieved from [EBSCOhost Business Source Complete](https://eresources.nlb.gov.sg/Main/browse/resource/1049) via NLB’s eResources website. (myLibrary ID is required to access this article.) 
+
+The global environmental injustice of fast fashion	
+This paper posits that while fast fashion offers consumers an opportunity to buy more clothes for less, those who work in or live near textile manufacturing facilities bear a disproportionate burden of environmental health hazards. Furthermore, increased consumption patterns are also said to have created millions of tonnes of textile waste in landfills and unregulated settings. 
+
+Bick, R., Halsey, E., & Ekenga, C. C. (2018, December 12). The global environmental injustice of fast fashion. Environmental Health, 17 (1). 
+
+Retrieved from EBSCOhost Academic Search Complete via NLB’s eResources website. (myLibrary ID is required to access this article.) 
+
+A multi-dimensional view of consumer value to explain socially-responsible consumer behavior: A fuzzy-set analysis of Generation Y’s fast-fashion consumers
+Generation Y consumers are believed to be aware of the different environmental problems affecting society. However, their attitudes or intentions may not actually translate into action, particularly in the fashion domain. This study examines the consumption values that explain the presence or absence of socially-responsible behaviour among Gen Y fast fashion consumers. 
+
+Pauluzzo, R., & Mason, M. C. (2021, April). A multi-dimensional view of consumer value to explain socially-responsible consumer behavior: A fuzzy-set analysis of Generation Y’s fast-fashion consumers. Journal of Marketing Theory & Practice, p. 1-22.
+
+Retrieved from EBSCOhost Business Source Complete via NLB’s eResources website. (myLibrary ID is required to access this article.) 
 
 ### <u>Accessing National Library Board Singapore Resources</u>
 
