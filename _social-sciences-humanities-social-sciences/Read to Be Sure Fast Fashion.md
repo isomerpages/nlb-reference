@@ -2,18 +2,21 @@
 title: Read to Be Sure Fast Fashion
 permalink: /socscihum/social-sciences/fast-fashion
 ---
+## Read to be Sure: Fast Fashion
 
-### <u>Guide Index</u>
+This resource guide was curated to complement the Read to be Sure (RTBS) Learning Package on Fast Fashion.
+
+### Guide Index
 
 * [Introduction](#introduction)
 * [Websites](#websites)
-* [Posters and Videos](#posters-and-videos)
-* [Lesson Plans](#lesson-plans)
-* [Accessing National Library Board Singapore resources](#accessing-national-library-board-singapore-resources)
+* [Videos](#videos)
+* [Journal Articles](#journal-articles)
+* [E-Books](#e-books)
+* [Books](#books)
 * [Authors](#authors)
 
-
-## <u>Introduction</u>
+## **Introduction**
 
 “Fast fashion,” a term used to describe inexpensive and widely-available “in the moment” garments, has changed the way people buy and dispose of clothing. By making available large quantities of clothing at throwaway prices, fast fashion has emerged as a dominant business model, causing garment consumption to soar. While this trend may be considered as the “democratisation” of fashion in which the latest styles are available to all classes of consumers, the human and environmental health risks associated with fast fashion are said to be hidden throughout the life-cycle of each piece of clothing. 
 
@@ -21,9 +24,9 @@ Fast fashion’s speedy supply chains rely on outsourced and often underpaid lab
 
 This resource guide shines the spotlight on the phenomenon of fast fashion, why it is so popular, its environmental impacts, and alternative fashion trends that counter it. 
 
-The guide provides supplementary resources for those who are keen to further explore this topic. You can also visit <https://search.nlb.gov.sg/> to search for more resources. If you would like to view other resource guides created by our librarians, please visit [Reference@NLB](reference.nlb.gov.sg). 
+The guide provides supplementary resources for those who are keen to further explore this topic. You can also visit <https://search.nlb.gov.sg/> to search for more resources. If you would like to view other resource guides created by our librarians, please visit [Reference@NLB](https://reference.nlb.gov.sg). 
 
-### <u>Websites</u>
+### **Websites**
 
 ##### **Ultra fast-fashion is eating the world**
 
@@ -47,7 +50,7 @@ Fashion consumers in the United Kingdom are reported to be among the most voraci
 Siegle, L. (2019, June 21). Fast fashion is on the rampage, with the UK at the head of the charge. The Guardian. Retrieved September 10, 2021, from
 <https://www.theguardian.com/fashion/2019/jun/21/fast-fashion-is-on-the-rampage-with-uk-at-the-head-of-the-charge>
 
-### Videos
+### **Videos**
 
 ##### **The true cost of fast fashion**
 
@@ -85,31 +88,31 @@ Inditex, Zara’s parent company and H&M group are two of the biggest fashion re
 
 H&M and Zara: Can fast fashion be eco-friendly? (2021, January 8). DW Planet A. Retrieved September 10, 2021, from <https://youtu.be/00NIQgQE_d4>
 
-### Journal Articles
+### **Journal Articles**
 
-##### Are low- and middle-income countries profiting from fast fashion?
+##### **Are low- and middle-income countries profiting from fast fashion?**
 
 Low- and middle-income countries have made substantial economic progress in the past two decades due to the fast fashion industry. This, however, has come at a high social and environmental cost. This article suggests that now is the right time to find a balance between economic development and harm caused to the citizens of these nations.
 
 Khurana, K., & S. S. Muthu. (2021, May). Are low- and middle-income countries profiting from fast fashion? Journal of Fashion Marketing and Management: An International Journal. Retrieved September 10, 2021, from
 <http://www.wiut.uz/images/publications/2021/8.pdf>
 
-##### Consumer adoption of fast-fashion, differences of perceptions, and the role of motivations across the adoption groups
+##### **Consumer adoption of fast-fashion, differences of perceptions, and the role of motivations across the adoption groups**
 
 Adopters of fast fashion are classified as “innovators”, “early adopters”, “early majority”, “late majority”, and “laggards”. This research finds that perceptions of fast-fashion vary across different consumer adoption groups in terms of “being in-style products”, “expressing self-image”, “imitating luxury fashion products”, and “frequent renewal of collections”.
 
 Okur, N. (2021). Consumer adoption of fast-fashion, differences of perceptions, and the role of motivations across the adoption groups. AUTEX Research Journal. Retrieved September 10, 2021, from
 <https://sciendo.com/pdf/10.2478/aut-2021-0024>
 
-##### See it. Like it. Buy it. Repeat. Fast fashion gets faster. 
+##### **See it. Like it. Buy it. Repeat. Fast fashion gets faster.** 
 
 This article highlights that “while trends used to be set twice a year in the pages of Vogue and on Paris runways, now they sprout up daily from the Instagram feeds of fashion models and celebrities.” Retailers are said to have recognised that “fashion’s centre of gravity has shifted, and have found a way to capitalise on it.”
 
 Porter, J. (2018, November). See it. Like it. Buy it. Repeat. Fast fashion gets faster. Inc., 40 (7). 
 
-Retrieved from [EBSCOhost Academic Search Complete](https://eresources.nlb.gov.sg/Main/browse/resource/1111) via NLB’s eResources website. (myLibrary ID is required to access this article.) 
+Retrieved from [EBSCOhost Academic Search Complete](https://eresources.nlb.gov.sg/Main/browse/resource/1329) via NLB’s eResources website. (myLibrary ID is required to access this article.) 
 
-##### Is slow fashion the new luxury? If fast fashion defined the 2010s, slow fashion may be the marker of the new decade
+##### **Is slow fashion the new luxury? If fast fashion defined the 2010s, slow fashion may be the marker of the new decade**
 
 For years, the fashion industry is said to have pushed mass production and consumption so rapidly that, “quick-turn, quick-churn fashion is now falling out of favour and making way for its more measured counterpart.” The COVID-19 pandemic is seen to have helped foster a “buy less, buy better mentality with interest sparking in products with more value and longevity compared to disposable fast fashion.” 
 
@@ -117,47 +120,68 @@ Donaldson, T. (2020, September 15). Is slow fashion the new luxury? If fast fash
 
 Retrieved from [EBSCOhost Business Source Complete](https://eresources.nlb.gov.sg/Main/browse/resource/1049) via NLB’s eResources website. (myLibrary ID is required to access this article.) 
 
-The global environmental injustice of fast fashion	
+##### **The global environmental injustice of fast fashion**	
+
 This paper posits that while fast fashion offers consumers an opportunity to buy more clothes for less, those who work in or live near textile manufacturing facilities bear a disproportionate burden of environmental health hazards. Furthermore, increased consumption patterns are also said to have created millions of tonnes of textile waste in landfills and unregulated settings. 
 
 Bick, R., Halsey, E., & Ekenga, C. C. (2018, December 12). The global environmental injustice of fast fashion. Environmental Health, 17 (1). 
 
-Retrieved from EBSCOhost Academic Search Complete via NLB’s eResources website. (myLibrary ID is required to access this article.) 
+Retrieved from [EBSCOhost Academic Search Complete](https://eresources.nlb.gov.sg/Main/browse/resource/1329) via NLB’s eResources website. (myLibrary ID is required to access this article.) 
 
-A multi-dimensional view of consumer value to explain socially-responsible consumer behavior: A fuzzy-set analysis of Generation Y’s fast-fashion consumers
+##### **A multi-dimensional view of consumer value to explain socially-responsible consumer behavior: A fuzzy-set analysis of Generation Y’s fast-fashion consumers**
+
 Generation Y consumers are believed to be aware of the different environmental problems affecting society. However, their attitudes or intentions may not actually translate into action, particularly in the fashion domain. This study examines the consumption values that explain the presence or absence of socially-responsible behaviour among Gen Y fast fashion consumers. 
 
 Pauluzzo, R., & Mason, M. C. (2021, April). A multi-dimensional view of consumer value to explain socially-responsible consumer behavior: A fuzzy-set analysis of Generation Y’s fast-fashion consumers. Journal of Marketing Theory & Practice, p. 1-22.
 
-Retrieved from EBSCOhost Business Source Complete via NLB’s eResources website. (myLibrary ID is required to access this article.) 
+Retrieved from [EBSCOhost Business Source Complete](https://eresources.nlb.gov.sg/Main/browse/resource/1049) via NLB’s eResources website. (myLibrary ID is required to access this article.) 
 
-### <u>Accessing National Library Board Singapore Resources</u>
+### E-Books
 
-<b><u>Accessing the Print Materials</u></b>
+##### [**Unraveled: The life and death of a garment**](https://nlb.overdrive.com/media/5745439)
 
-You can search the library catalogue (for physical materials) in the library and from home (http://catalogue.nlb.gov.sg). The easy search function allows you to search/browse by author, title, keyword, subject and ISBN/ISSN whereas the advanced search allows you to narrow your searches to specific media types or language holdings. In both instances, you will also be able to limit your search to specific libraries by clicking on the “limit by branch” option.
+<img src="/images/socsci-hum/Unraveled%20The%20life%20and%20death%20of%20a%20garment.jpg" style="width: 200px" alt="Unraveled the life and death of a garment">
+All rights reserved, New York: Penguin, 2021.
 
-**To search Lee Kong Chian Reference Library’s Holdings**
+This book traces the life-cycle of a pair of jeans. Raw materials from a Texas cotton farm are sent for dyeing and weaving to factories in China, and then sewn in Bangladesh and Sri Lanka, before being transported back to the United States. The jeans’ journey usually ends in a landfill in Africa. The book sheds light on the hazards posed by fast fashion and how the "trend-based aesthetic of celebrity/influencer culture" has contributed to the rise of disposable fashion.
 
-If you wish to search for only materials available in the Lee Kong Chian Reference Library, please always click on the “Limit by Branch” button at the bottom of the page, after you have keyed in your search term. This brings you to a new page whereby you will be able to select the library of your choice. Choose “Lee Kong Chian Reference Library” and select “yes” under the “Display only items available in the selected branch below” and then click on search.
+Bedat, M. (2021). Unraveled: The life and death of a garment. New York: Penguin Publishing Group. 
 
-**Things to note:**
+Retrieved from OverDrive. (myLibrary ID is required to access the eBook)
 
-Once you have identified the title that you need, please double-check the following information and write down the necessary info:
+##### [**Fashionopolis: The price of fast fashion and the future of clothes**](https://nlb.overdrive.com/media/4887090 )
 
-i. The “Status” of the item: the item is <u>not available</u> in the library, if the status displayed is “in transit”, “in process” or “not ready for loan”.
+<img src="/images/socsci-hum/Fashionopolis The price of fast fashion and the future of clothes.jpg" style="width: 200px" alt="Fashionopolis The price of fast fashion and the future of clothes">
+All rights reserved, New York: Penguin Press, 2019.
 
-ii. Double-check that the item is in Lee Kong Chian Reference Library under “Branch”.
+This book outlines the human and environmental cost of fast fashion and reports on the efforts of those trying to make fast fashion less damaging and wasteful. It examines how online retailing and the technology revolution have resulted in an associated rise in the exploitation of the environment, labour and intellectual property.
 
-iii. Write down the <b><u>Location Code</u></b> and the <b><u>Call Number</u></b> of the item. This helps you to locate the item within Lee Kong Chian Reference Library. Please refer to the table below for more information (Note: Please feel free to approach the counter staff for help in locating the books.)
+Thomas, D. (2019). Fashionopolis: The price of fast fashion and the future of clothes. New York: Penguin Press. 
 
-All featured books and periodicals are located at the Lee Kong Chian Reference Library.
+Retrieved from OverDrive. (myLibrary ID is required to access the eBook)
 
-<b><u>Accessing the Databases</u></b>
+##### [**Over-dressed: The shockingly high cost of cheap fashion**](https://nlb.overdrive.com/media/631147)
 
-The National Library Board (NLB)’s eResources are free for all NLB members. Click [here](https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/) to find out how to register as a member.
+<img src="/images/socsci-hum/Over-dressed The shockingly high cost of cheap fashion.jpg" style="width: 200px" alt="Over-dressed The shockingly high cost of cheap fashion">
+All rights reserved, New York: Portfolio, 2012
 
-If you’re having problems registering or logging in, please [contact us](http://www.nlb.gov.sg/ContactUs.aspx). If you wish to find information in the databases but am not sure where to begin, or need recommendations on which databases to use, please use the [“Ask A Librarian”](https://www.nlb.gov.sg/SearchDiscover/Services/AskaLibrarian.aspx) function or send an email to [ref@nlb.gov.sg](mailto:ref@nlb.gov.sg) for research assistance. The librarian will get back to you within three working days.
+This book explores the rise of America’s “addiction to cheap fashion, the true nature of cheap fashion, the rise of budget clothing chains, and the death of middle-market and independent retailers.” The author also explores how cheap fashion harms the charity thrift shops and textile recyclers where most of the disposed clothing ends up.
+
+Cline, E. (2012). Over-dressed: The shockingly high cost of cheap fashion. New York: Portfolio. 
+
+Retrieved from OverDrive. (myLibrary ID is required to access the eBook)
+
+### Books
+
+##### [**How to break up with fast fashion**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205290588)
+
+<img src="/images/socsci-hum/How to break up with fast fashion.jpg" style="width: 200px" alt="Over-dressed The shockingly high cost of cheap fashion">
+All rights reserved, London: Headline Home, 2020.
+
+The author rethinks her “affair with fast fashion in search of a slower, saner way of dressing.” She helps people embrace more sustainable ways of shopping -- from the clothes swap to the charity shop. “Full of refreshing honesty and realistic advice,” she seeks to, “inspire you to repair, recycle and give your unloved items a new lease of life without sacrificing your style.”
+
+Bravo, L. (2020). How to break up with fast fashion. London: Headline Home.<br>
+(Call no.: 391 BRA)
 
 ### <u>Authors</u>
 

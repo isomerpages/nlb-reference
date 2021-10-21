@@ -3,6 +3,12 @@ collections:
     output: true
     order:
       - Read to Be Sure Fast Fashion.md
+      - effectiveness-of-nonprofit-boards.md
+      - environment-champion.md
+      - nonprofit-board-s-role-in-risk-management.md
+      - role-of-boards-in-setting-executive-director-s-compensation.md
+      - supporting-families.md
+      - volunteerism-and-philanthropy.md
       - seminal-books/.keep
       - seminal-books/100-seminal-books-on-social-services.md
       - seminal-books/100-seminal-books-on-social-services-cyber-wellness.md
@@ -11,9 +17,3 @@ collections:
       - seminal-books/100-seminal-books-on-social-services-youths-at-risk.md
       - seminal-books/100-seminal-books-on-social-services-vulnerable-children-and-youth.md
       - seminal-books/seminal-books-on-early-childhood-education.md
-      - effectiveness-of-nonprofit-boards.md
-      - environment-champion.md
-      - nonprofit-board-s-role-in-risk-management.md
-      - role-of-boards-in-setting-executive-director-s-compensation.md
-      - supporting-families.md
-      - volunteerism-and-philanthropy.md
