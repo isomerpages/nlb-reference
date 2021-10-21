@@ -47,46 +47,17 @@ Fashion consumers in the United Kingdom are reported to be among the most voraci
 Siegle, L. (2019, June 21). Fast fashion is on the rampage, with the UK at the head of the charge. The Guardian. Retrieved September 10, 2021, from
 <https://www.theguardian.com/fashion/2019/jun/21/fast-fashion-is-on-the-rampage-with-uk-at-the-head-of-the-charge>
 
-ame>
+### Videos
 
-* The Story of Stuff Project. (2015, September 4). Loop Scoops – Garbage [Video File]. Retrieved May 17, 2021, from website: [https://youtu.be/N9LfPq-H72g](https://youtu.be/N9LfPq-H72g)
+##### **The true cost of fast fashion**
 
-  This is a PBS Kids production on garbage and saving the environment by recycling and composting.
+Fast fashion allows consumers to buy more clothes, but they are wearing them less often and disposing of them at an unprecedented rate. Millions of tonnes of clothes are reported to be ending up in landfills every year. This video takes a look at how the fashion industry can continue to grow while addressing the environmental need for people to buy fewer clothes. 
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/N9LfPq-H72g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tLfNUD0-8ts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-  PBS Kids production on garbage and saving the environment by recycling and composting.
-
-(ii) A selection of videos on simple crafts
-
-There are quite a number of online videos on crafts from recycled materials. Please use your own discretion when trying out the samples shown.
-
-(listed in alphabetical order)
-
-
-* Expert Village. (2012, November 15). How Do I Create Christmas Cards Using Recycled Materials?: Christmas Crafts [Video File]. Retrieved May 17, 2021, from website: [https://youtu.be/z_RKmEhdzqs](https://youtu.be/z_RKmEhdzqs)
-
-  Fernandez, an experienced art educator provides tips on how to make a variety of different crafts such as Christmas cards.
-
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/z_RKmEhdzqs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-DisneyJuniorUK. (2014, November 22). Art Attack – Travel Bag – Disney Junior UK HD. [Video File]. Retrieved May 17, 2021, from website: [https://youtu.be/kvImAjsERY4](https://youtu.be/kvImAjsERY4)
-
-  Lloyd provides a step by step guide to make a super useful travel bag.
-
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/kvImAjsERY4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-* Make:. (2012, August 13). Maker Camp: Recycled Paper Baskets with Tiffany Threadgould [Video File]. Retrieved May 17, 2021, from website: [https://youtu.be/vIl3brhueyg](https://youtu.be/vIl3brhueyg)
-
-  Threadgould demonstrates weaving paper baskets from old maps.
-
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/vIl3brhueyg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-* Simplekidscraft.com. (2017, March 8). DIY Corrugated Cardboard Desk Organizer: Easy Cardboard Crafts [Video File]. Retrieved May 17, 2021, from website: [https://youtu.be/rdL5ETTF690](https://youtu.be/rdL5ETTF690)
-
-  This video provides a step by step guide to craft a cute desk organizer.
-
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/rdL5ETTF690" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+The true cost of fast fashion. (2018, November 30). The Economist. Retrieved September 10, 2021, from 
+<https://youtu.be/tLfNUD0-8ts>
+reen></iframe>
 
 ### <u>Accessing National Library Board Singapore Resources</u>
 
