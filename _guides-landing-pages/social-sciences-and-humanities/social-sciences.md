@@ -5,9 +5,9 @@ breadcrumb: Social Sciences
 collection_name: socsci-hum
 third_nav_title: Social Sciences And Humanities
 ---
-
 <img src="/images/category/social-science.jpg" alt="social science banner" style="width:800px;" />
 
+- [**Read to be Sure: Fast Fashion**](/socscihum/social-sciences/fast-fashion)
 - [**Effectiveness of Nonprofit Boards**](/guides/socialsciences-humanities/social-sciences/effectiveness-of-nonprofit-boards)
 - [**Environment Champion**](/guides/socialsciences-humanities/social-sciences/environment-champion)
 - [**Nonprofit Board's role in Risk Management**](/guides/socialsciences-humanities/social-sciences/nonprofit-boards-role-in-risk-management)
@@ -26,4 +26,3 @@ The Seminal Books series was developed in collaboration with the [Social Service
   - <a href = "/guides/socialsciences-humanities/social-sciences/seminal-books-early-childhood-education"><b>Seminal Books on Early Childhood Education</b></a><br>
 </details>
 <p></p>
-
