@@ -1,7 +1,8 @@
 ---
-title: Read to Be Sure | Fast Fashion
+title: Read to Be Sure Fast Fashion
 permalink: /socscihum/social-sciences/fast-fashion
 ---
+
 ### <u>Guide Index</u>
 
 * [Introduction](#introduction)
