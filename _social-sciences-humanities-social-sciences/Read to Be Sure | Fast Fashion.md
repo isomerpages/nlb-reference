@@ -20,8 +20,7 @@ Fast fashion’s speedy supply chains rely on outsourced and often underpaid lab
 
 This resource guide shines the spotlight on the phenomenon of fast fashion, why it is so popular, its environmental impacts, and alternative fashion trends that counter it. 
 
-The guide provides supplementary resources for those who are keen to further explore this topic. You can also visit <https://search.nlb.gov.sg/> to search for more resources. If you would like to view other resource guides created by our librarians, please visit [Reference@NLB](//). 
-
+The guide provides supplementary resources for those who are keen to further explore this topic. You can also visit <https://search.nlb.gov.sg/> to search for more resources. If you would like to view other resource guides created by our librarians, please visit [Reference@NLB](reference.nlb.gov.sg). 
 
 ### <u>Websites</u>
 
@@ -57,7 +56,43 @@ Fast fashion allows consumers to buy more clothes, but they are wearing them les
 
 The true cost of fast fashion. (2018, November 30). The Economist. Retrieved September 10, 2021, from 
 <https://youtu.be/tLfNUD0-8ts>
-reen></iframe>
+
+##### **Singapore swap shops offer alternative to fast fashion**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9MYprqBX-44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Several swapping initiatives from permanent shops to pop-up events have appeared in Singapore in a bid to encourage consumers to be environmentally conscious. However, challenges remain in persuading Singaporeans to swap rather than shop. 
+
+Singapore swap shops offer alternative to fast fashion. (2021, February 18). The Independent. 
+Retrieved September 10, 2021, from 
+<https://youtu.be/9MYprqBX-44>
+
+##### **Fast fashion’s effect on people, the planet, and you**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mPM9lhackHw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+The speaker in this video laments that “fast fashion is fooling us to believe we are saving money when in reality all we are doing is buying more of a lower quality product.” More importantly, “fast fashion is destroying people in the planet depending on where the products are made, how they are made, and where they ultimately end up.”
+
+Fast fashion’s effect on people, the planet, and you. (2017, March 9). TEDx Talks. Retrieved September 10, 2021, from 
+<https://youtu.be/mPM9lhackHw>
+
+##### **H&M and Zara: Can fast fashion be eco-friendly?**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/00NIQgQE_d4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Inditex, Zara’s parent company and H&M group are two of the biggest fashion retailers in the world and both have collections that aim to reduce the environmental impact of making clothes. The two fashion giants are saying they are making their entire brands more sustainable. This video takes a look at these promises and considers if the fashion giants can deliver on them. 
+
+H&M and Zara: Can fast fashion be eco-friendly? (2021, January 8). DW Planet A. Retrieved September 10, 2021, from <https://youtu.be/00NIQgQE_d4>
+
+### Journal Articles
+
+##### Are low- and middle-income countries profiting from fast fashion?
+
+Low- and middle-income countries have made substantial economic progress in the past two decades due to the fast fashion industry. This, however, has come at a high social and environmental cost. This article suggests that now is the right time to find a balance between economic development and harm caused to the citizens of these nations.
+
+Khurana, K., & S. S. Muthu. (2021, May). Are low- and middle-income countries profiting from fast fashion? Journal of Fashion Marketing and Management: An International Journal. Retrieved September 10, 2021, from
+<http://www.wiut.uz/images/publications/2021/8.pdf>
+
 
 ### <u>Accessing National Library Board Singapore Resources</u>
 
