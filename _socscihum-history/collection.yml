@@ -1,5 +1,5 @@
 collections:
-  social-sciences-humanities-history:
+  socscihum-history:
     output: true
     order:
       - history/.keep

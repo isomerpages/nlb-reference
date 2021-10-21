@@ -1,12 +1,12 @@
 collections:
-  social-sciences-humanities-social-sciences:
+  socscihum-social-sciences:
     output: true
     order:
       - Read to Be Sure Fast Fashion.md
-      - effectiveness-of-nonprofit-boards.md
-      - environment-champion.md
-      - nonprofit-board-s-role-in-risk-management.md
-      - role-of-boards-in-setting-executive-director-s-compensation.md
+      - Effectiveness of Nonprofit Boards.md
+      - Environment Champion.md
+      - Nonprofit Board's role in Risk Management.md
+      - Role of Boards in setting Executive Director's Compensation.md
       - supporting-families.md
       - volunteerism-and-philanthropy.md
       - seminal-books/.keep

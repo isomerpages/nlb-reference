@@ -1,10 +1,11 @@
 ---
 title: Environment Champion
-permalink: /guides/socialsciences-humanities/social-sciences/environment-champion
+permalink: /guides/socscihum/soc-sci/environment-champion
 breadcrumb: Environment Champion
 collection_name: social-sciences-humanities-social-sciences
 published: true
 ---
+
 
 ### <u>Guide Index</u>
 

@@ -1,10 +1,11 @@
 ---
 title: Nonprofit Board's role in Risk Management
-permalink: /guides/socialsciences-humanities/social-sciences/nonprofit-boards-role-in-risk-management
+permalink: /guides/socscihum/soc-sci/nonprofit-boards-risk
 breadcrumb: Nonprofit Board's role in Risk Management
 collection_name: social-sciences-humanities-social-sciences
 published: true
 ---
+
 
 ### <u>Guide Index</u>
 

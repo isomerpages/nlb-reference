@@ -1,7 +1,10 @@
 ---
 title: Read to Be Sure Fast Fashion
-permalink: /socscihum/social-sciences/fast-fashion
+permalink: /guides/socscihum/soc-sci/fast-fashion
 ---
+
+
+
 ## Read to be Sure: Fast Fashion
 
 This resource guide was curated to complement the Read to be Sure (RTBS) Learning Package on Fast Fashion.
