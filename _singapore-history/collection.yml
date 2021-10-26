@@ -2,6 +2,8 @@ collections:
   singapore-history:
     output: true
     order:
+      - Post Independence SEA.md
+      - Decolonisation Process.md
       - Colonial Period.md
       - Development of Education in Singapore.md
       - Primary accounts of Singapore from 1800s to 1942.md
