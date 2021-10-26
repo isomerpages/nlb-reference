@@ -7,10 +7,12 @@ third_nav_title: Singapore
 ---
 <img src="/images/category/history.jpg" alt="history banner" style="width:800px;" />
 
-* [**Development of Education in Singapore**](/guides/singapore/history/development-of-education-in-singapore)
+* [**Colonial Period**](/guides/singapore/history/colonial-period)
 
-* [**Primary accounts of Singapore from 1800s to 1942**](/guides/singapore/history/primary-accounts-of-singapore-from-1800s-to-1942)
+* [**Development of Education in Singapore**](/guides/singapore/history/development-education-sg)
 
-* [**Singapore's Public Housing**](/guides/singapore/history/singapores-public-housing)
+* [**Primary accounts of Singapore from 1800s to 1942**](/guides/singapore/history/pri-accounts-1800-1942)
+
+* [**Singapore's Public Housing**](/guides/singapore/history/sg-public-housing)
 
 * [**Communist Party of Malaya - A Comprehensive Bibliography**](/guides/singapore/history/cpm-biblio)

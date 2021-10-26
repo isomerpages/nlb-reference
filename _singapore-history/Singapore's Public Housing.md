@@ -1,10 +1,11 @@
 ---
 title: Singapore's Public Housing
-permalink: /guides/singapore/history/singapores-public-housing
+permalink: /guides/singapore/history/sg-public-housing
 breadcrumb: Singapore's Public Housing
 collection_name: singapore-history
 published: true
 ---
+
 ### <u>Guide Index</u>
 
 * [Introduction](#introduction)

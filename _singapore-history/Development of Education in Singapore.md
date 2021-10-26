@@ -1,10 +1,11 @@
 ---
 title: Development of Education in Singapore
-permalink: /guides/singapore/history/development-of-education-in-singapore
+permalink: /guides/singapore/history/development-education-sg
 breadcrumb: Development of Education in Singapore
 collection_name: singapore-history
 published: true
 ---
+
 ### <u>Guide Index</u>
 
 * [Government Policies and Papers](#government-policies-and-papers)
