@@ -1,7 +1,10 @@
 ---
 title: Decolonisation Process
-permalink: /guides/singapore-history/decolonisation-process
+permalink: /guides/singapore/history/decolonisation-process
 ---
+
+## Decolonisation Process
+
 This select bibliography that highlights books and journal articles relating to post-war Malaya and its path to Independence.
 
 ### **Books**

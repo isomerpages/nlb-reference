@@ -1,7 +1,10 @@
 ---
 title: Post Independence SEA
-permalink: /guides/singapore-history/post-independence-SEA
+permalink: /guides/singapore/history/post-independence-SEA
 ---
+
+## Post-Independence SEA
+
 This select bibliography highlights inter-state interactions within the region and regional cooperation between Southeast Asian nations.
 
 ### **Books**
@@ -54,7 +57,7 @@ Author:  Slater, D.
 Publisher: Cambridge ; New York : Cambridge University Press, 2010.  
 Call no.: RSEA 320.530959 SLA
 
-  
+
 Title: [(Re)negotiating East and Southeast Asia : region, regionalism, and the Association of Southeast Asian Nations](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13173897)
 Author: Ba, Alice D.  
 Publisher: Stanford, Calif. : Stanford University Press, 2009.  

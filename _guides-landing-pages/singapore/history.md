@@ -9,6 +9,10 @@ third_nav_title: Singapore
 
 * [**Colonial Period**](/guides/singapore/history/colonial-period)
 
+* [**Decolonisation Process**](/guides/singapore/history/decolonisation-process)
+
+* [**Post-Independence SEA**](/guides/singapore/history/post-independence-SEA)
+
 * [**Development of Education in Singapore**](/guides/singapore/history/development-education-sg)
 
 * [**Primary accounts of Singapore from 1800s to 1942**](/guides/singapore/history/pri-accounts-1800-1942)

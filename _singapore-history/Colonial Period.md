@@ -2,6 +2,8 @@
 title: Colonial Period
 permalink: /guides/singapore/history/colonial-period
 ---
+## Colonial Period
+
 A select bibliography of books and journal articles relating to Singapore’s colonial past (1819 to 1963).
 
 ### **Books**
