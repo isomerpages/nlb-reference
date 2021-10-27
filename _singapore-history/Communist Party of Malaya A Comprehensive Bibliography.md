@@ -3,7 +3,7 @@ title: Communist Party of Malaya A Comprehensive Bibliography
 permalink: /guides/singapore/history/cpm-biblio
 ---
 
-## Communist Party of Malaya A Comprehensive Bibliography
+## Communist Party of Malaya - A Comprehensive Bibliography
 
 The Communist Party of Malaya (CPM) also known as the Malayan Communist Party (MCP) was founded as a political party in 1930. The party fought a guerrilla war against the Japanese during the Second World War and subsequently against the British in the Malayan Emergency (1948-60). By the time of the Baling Talks in December 1955, it was clear that the government forces were winning militarily. This provided the impetus for Malaya’s independence in 1957 and the formal end of the Emergency in 1960. 
 
