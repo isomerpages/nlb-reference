@@ -53,5 +53,5 @@ links:
         url: /about-us/lkcrl/
       - title: Contact Us
         url: /contact-us/
-  - title: Reminiscence Library
-    collection: reminiscence-library
+#  - title: Reminiscence Library
+#    collection: reminiscence-library
