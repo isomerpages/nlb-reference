@@ -22,3 +22,5 @@ third_nav_title: Singapore
 * [**Communist Party of Malaya - A Comprehensive Bibliography**](/guides/singapore/history/cpm-biblio)
 
 * [**Understanding Singapore (I)**](/singapore-history/understandingsingapore-i)
+
+* [**Understanding Singapore (II)**](/singapore-history/understandingsingapore-ii)
