@@ -1,5 +1,5 @@
 ---
-title: Post Independence SEA
+title: Post-Independence SEA
 permalink: /guides/singapore/history/post-independence-SEA
 ---
 ## Post-Independence SEA
