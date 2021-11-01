@@ -40,13 +40,13 @@ This library guide highlights selected resources on how the environment influenc
 <p></p>
 
 
-*  [Gardens and parks part of gracious living](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720416-1.2.57?ST=1&AT=search&k=%E2%80%A2Gardens%20and%20parks%20part%20of%20gracious%20living&QT=gardens,and,parks,part,of,gracious,living&oref=article). (1972, April 16). *The Straits Times*, p. 9.
+*  [Gardens and parks part of gracious living](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720416-1.2.57?ST=1&AT=search&k=Gardens%20and%20parks%20part%20of%20gracious%20living&QT=gardens,and,parks,part,of,gracious,living&oref=article). (1972, April 16). *The Straits Times*, p. 9.
 
 "Singaporeans should be taught the importance of nature conservation for healthy and gracious living", the acting director of the Botanic Gardens, Mr. A.G. Alphonso, said. "And the best way to achieve this was to teach the young in schools."
 
 * Hoe, I. (1985, March 24). [Is the Bukit Timah Nature Reserve dying slowly? ](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850324-1.2.9.6?ST=1&AT=search&k=Is%20the%20Bukit%20Timah%20nature%20reserve%20dying%20slowly?&QT=is,the,bukit,timah,nature,reserve,dying&oref=article)*The Straits Times*, p 3.
 
-The Bukit Timah Nature Reserve may be dying a slow death. Some naturalists here believe that the 75 hectare reserve, one of the last patches of primary forest that is, the undisturbed rainforest is too small to regenerate.
+The Bukit Timah Nature Reserve may be dying a slow death. Some naturalists here believe that the 75 hectare reserve, one of the last patches of primary forest in Singapore, is too small to regenerate.
 
 * [Ministry to build six new major parks](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860819-1.2.55?ST=1&AT=search&k=Ministry%20to%20build%20six%20new%20major%20parks&QT=ministry,to,build,six,new,major,parks&oref=article). (1986, August 19). *The Straits Times*, p. 28.
 
@@ -58,11 +58,11 @@ Plans to attract the birds back and to grow more varieties of fruit trees. Singa
 
 * National Library Board. (2015). *[Bukit Timah Nature Reserve](https://eresources.nlb.gov.sg/infopedia/articles/SIP_55_2004-12-20.html?s=Bukit%20Timah%20Nature%20Reserve)* written by Lee, Meiyu. Retrieved April 9, 2020, from Singapore Infopedia.  
 
-The Bukit Timah Reserve, situated along Upper Bukit Timah Road, 1019 ha, is part of a limited area of primary rainforest left on Singapore island. The reserve is part of Singapore's highest hill, the Bukit Timah Hill, which stands 162.5 m above sea-level and is composed of ancient granite.
+The Bukit Timah Reserve, situated along Upper Bukit Timah Road, 1019 ha, is part of a limited area of primary rainforest left on Singapore island. Within the reserve lies Singapore’s highest point, the Bukit Timah Hill, which stands 162.5 m above sea-level and is composed of ancient granite.
 
 * National Library Board. (2009). *[MacRitchie Reservoir](https://eresources.nlb.gov.sg/infopedia/articles/SIP_159_2004-12-27.html?s=MacRitchie%20Reservoir)* written by Mohamed, Zaubida. Retrieved April 9, 2020, from Singapore Infopedia. 
 
-MacRitchie Reservoir, located off Lornie Road and completed in the late 1860s, was the first water supply system implemented in Singapore. The Impounding Reservoir, as it was then called, came about through the donation of S$13,000 by philanthropist Tan Kim Seng in 1857.
+MacRitchie Reservoir, located off Lornie Road and completed in the late 1860s, was the first water supply system implemented in Singapore. The Impounding Reservoir or Thomson Road Reservoir, as it was originally called, was renamed MacRitchie Reservoir in 1922 after James MacRitchie, the municipal engineer of Singapore from 1883 to 1895.
 
 * National Library Board. (2017). *[Mangrove](https://eresources.nlb.gov.sg/infopedia/articles/SIP_412_2005-01-03.html?s=Mangrove)* written by Ahmad, Nureza. Retrieved April 9, 2020, from Singapore Infopedia.  
 
@@ -132,7 +132,7 @@ This book is an important reference for conservation plans and efforts for natur
 Jeyarajasingam, A. (2012). *[A field guide to the birds of Peninsular Malaysia and Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14381651)*. Oxford; New York: Oxford University Press.  
 Call number: RSING 598.095951 JEY 
 
-This field guide to the birds of Peninsular Malaysia and Singapore covers more than 650 species known to occur in the region. Lavishly illustrated and painted, this book will be a useful reference for experienced ornithologists and beginners alike.
+This field guide to the birds of Peninsular Malaysia and Singapore covers more than 650 species known to occur in the region. Lavishly illustrated with bird paintings, this book will be a useful reference for experienced ornithologists and beginners alike.
 
 <img src="/images/singapore-history/understanding-singapore/book5.jpg" style="width:150px;">
 *All rights reserved, Singapore: NUS Press, 2008*
@@ -156,7 +156,7 @@ This atlas illustrates through diachronic mapping of the changing distribution o
 Leng, Grace S. Y., & Small, T. (2005). *[Discover nature with--](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12608839).* Singapore: Small Books. 
 Call number: JRSING 508 LEN
 
-A small activity book for children to better appreciate and care for the natural environment. Delightful drawings, facts, things to do, explore and learn are included.
+A small activity book for children to better appreciate and care for the natural environment. It includes delightful drawings, facts, as well as things to do, explore and learn.
 
 <img src="/images/singapore-history/understanding-singapore/book8.jpg" style="width:150px;">
 *All rights reserved, Singapore: Nature Society, 2010*
@@ -238,7 +238,7 @@ A collection of short stories and anecdotes about the life and times of the vari
 <img src="/images/singapore-history/understanding-singapore/book18.jpg" style="width:150px;">
 *All rights reserved, Singapore: Pearson Education Asia, 2002*
 
-Yeoh, Brenda S. A. (2002).*[Longman atlas: Singapore and the world.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10757097)* Singapore: Pearson Education Asia.  
+Yeoh, Brenda S. A. (2002). *[Longman atlas: Singapore and the world.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10757097)* Singapore: Pearson Education Asia.  
 Call number: RSING q912.5957 PEA
 
 A comprehensive resource and reference atlas which contains maps, information and statistics about Singapore and the world. It has a “map skills” section, more than 20 Singapore maps, Asia and World pages featuring maps and useful key facts, World Insights pages providing a look at important issues and a “world statistics” section that provides statistics about individual countries.
@@ -256,7 +256,7 @@ Once you have identified the title that you need, please check the following and
 
 i. The "Status" of the item: the item is unavailable in the library, if the status displayed is "in transit", "in process" or "not ready for loan". 
 
-ii. Check that the item is in Lee Kong Chian Reference Library under "Branch". 
+ii. Check that the item is in Lee Kong Chian Reference Library under "Library". 
 
 iii. Write down the Location Code and the Call Number of the item. This helps you to locate the item within Lee Kong Chian Reference Library. Please feel free to approach the counter staff for help in locating the books.
 
