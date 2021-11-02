@@ -40,7 +40,7 @@ This library guide highlights selected resources on how the environment influenc
 
 * [50,000 homes to go up in S'pore this year](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650102-1.2.52?ST=1&AT=filter&K=50%2C000%20homes%20to%20go%20up%20in%20S%27pore%20this%20year&KA=50%2C000%20homes%20to%20go%20up%20in%20S%27pore%20this%20year&DF=&DT=&Display=0&AO=false&NPT=&L=&CTA=&NID=straitstimes&CT=&WC=&YR=1965&QT=50000,homes,to,go,up,in,spore,this,year&oref=article). (1965, January 2). *The Straits Times*, p. 7.
 
-Work to begin on re-development of city. Board has completed 51,000 housing units during past year. The Housing and Development Board will launch five ambitious development projects this year to bring greater prosperity for the people and raise their standard of living.
+Work to begin on re-development of city. The Housing & Development Board has completed 51,000 housing units during past year. The Board will launch five ambitious development projects this year to bring greater prosperity for the people and raise their standard of living.
 
 * Grow local. (2020, March 29). *The Sunday Times*. Retrieved September 17, 2020, from The Straits Times website: <https://www.straitstimes.com/lifestyle/food/grow-local>
 <p></p>
@@ -61,7 +61,7 @@ Farm producing 250,000 eggs daily is first to be fully operational under agrotec
 
 * National Library Board. (2016). *[Bullock carts](https://eresources.nlb.gov.sg/infopedia/articles/SIP_955_2005-01-26.html?s=Bullock%20carts)* written by Thulaja, Naidu Ratnala. Retrieved April 13, 2020, from Singapore Infopedia.  
 
-Bullock carts, one of the earliest and most popular modes of transport in the 19th and early 20th century Singapore. They were used for a variety of purposes, such as travelling and transportation of goods. They were phased out slowly with rising levels of traffic and the advent of mechanised transport from 1867 onwards.
+Bullock carts were one of the earliest and most popular modes of transport in the 19th and early 20th century Singapore. They were used for a variety of purposes, such as travelling and transportation of goods. They were phased out slowly with rising levels of traffic and the advent of mechanised transport from 1867 onwards.
 
 * National Library Board. (2009). *[Farmlands in Lim Chu Kang](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1611_2009-11-30.html?s=Farmlands%20in%20Lim%20Chu%20Kang)* written by Lim, Jean. Retrieved April 13, 2020, from Singapore Infopedia. 
 
@@ -73,7 +73,7 @@ The Housing and Development Board is the national public housing authority of Si
 
 * National Library Board. (2016). *[Lim Kim San](https://eresources.nlb.gov.sg/infopedia/articles/SIP_645_2005-01-11.html?s=Lim%20Kim%20San)* written by Tien, Mui Mun. Retrieved April 13, 2020, from Singapore Infopedia. 
 
-Lim Kim San is the first Chairman of Housing and Development Board, best known for his contributions in housing the population of Singapore in the 1960s.
+Lim Kim San is the first Chairman of the Housing and Development Board, best known for his contributions in housing the population of Singapore in the 1960s.
 
 * National Library Board. (2009). *[Punggol reclamation](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1011_2008-10-28.html?s=Punggol%20reclammation)* written by Marsita, Omar. Retrieved April 13, 2020, from Singapore Infopedia. 
 
@@ -85,7 +85,7 @@ Urban planning in Singapore aims to optimise the use of the country's scarce lan
 
 * National Library Board. (2009). *[Yishun New Town](https://eresources.nlb.gov.sg/infopedia/articles/SIP_363_2005-01-18.html?s=Yishun%20New%20Town)* written by Thulaja, Naidu Ratnala. Retrieve April 13, 2020, from Singapore Infopedia.  
 
-Yishun New Town, one of the first comprehensive urban developments in the northern part of Singapore. Yishun Ring Road was home to many kampongs in the past.
+Yishun New Town is one of the first comprehensive urban developments in the northern part of Singapore. Yishun Ring Road was home to many kampongs in the past.
 
 #### PictureSG - photographs
 
@@ -206,6 +206,7 @@ Call number: RSING 307.762095957 KAM
 
 This is part 1 of 3 of a 23 min short documentary on the last rural village, or “kampong”, in Singapore - Kampong Lorong Buangkok. Produced by final-year students from Nanyang Technological University's School of Communication & Information.
 
+
 <img src="/images/singapore-history/understanding-singapore/video5.jpg" style="width:150px;">
 *All rights reserved. Singapore: Eng Yee Peng, 2005*
 
@@ -213,18 +214,20 @@ This is part 1 of 3 of a 23 min short documentary on the last rural village, or 
 Call number: RSING 959.57092 DIM-[HIS]
 
 In the 1960s, the Singapore government started resettling people from the villages to make way for industrialization. Decades have passed and most of the villages are replaced by tall buildings. This film takes you on a personal journey with the filmmaker to recollect on her childhood memories of living in the countryside of Singapore - Lim Chu Kang, a village that has already died and its spirit dispersed. 
+
 <img src="/images/singapore-history/understanding-singapore/video6.jpg" style="width:150px;">
 *All rights reserved. Singapore: Eng Yee Peng, 2008*
 * Eng, Y. P. (Producer). (2008). *[Diminishing memories II](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13607197)*. [DVD]. Singapore: Eng Yee Peng.
 Call number: RSING 959.57092 QIA - [HIS] 
 
-A sequel to the documentary Diminishing Memories I, the director revisits her old home at Lim Chu Kang that is slated for redevelopment into a recreational site. Yee Peng speaks to the farming residents whose lives have been affected by the changing landscape and rediscovers her purpose in making the film.
+A sequel to the documentary *Diminishing Memories I*, the director revisits her old home at Lim Chu Kang that is slated for redevelopment into a recreational site. Yee Peng speaks to the farming residents whose lives have been affected by the changing landscape and rediscovers her purpose in making the film.
+
 <img src="/images/singapore-history/understanding-singapore/video7.jpg" style="width:150px;">
 *All rights reserved. Singapore: MediaCorp News, 2002*
 * Goodenough, G. (Producer). (2002). *[Singapore first. Episode 2. The port of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12802880)*. [DVD]. Singapore: MediaCorp News.
 Call number: RSING 387.1095957 SIN
 
-In the second episode of Singapore's Firsts the documentary zooms in on the achievements of the local port. Chairman of PSA Corporation Dr Yeo Ning Hong gives an insight into the workings of a world class port and how it has achieve its numerous accolades. The documentary also sheds light on Singapore's land reclamation achievements by following two pioneers, Ong Geok Soo and Dr Lee Sing Kong who have stayed true to the land reclamation project for the last three decades - their struggles, their vision and the fruits of their labour.
+In the second episode of *Singapore's Firsts* the documentary zooms in on the achievements of the local port. Chairman of PSA Corporation Dr Yeo Ning Hong gives an insight into the workings of a world class port and how it has achieve its numerous accolades. The documentary also sheds light on Singapore's land reclamation achievements by following two pioneers, Ong Geok Soo and Dr Lee Sing Kong who have stayed true to the land reclamation project for the last three decades - their struggles, their vision and the fruits of their labour.
 
 <img src="/images/singapore-history/understanding-singapore/video8.jpg" style="width:150px;">
 *All rights reserved. Singapore: MediaCorp News, 2005*
@@ -314,7 +317,7 @@ This Great Singapore Stories series comprises 10 books in the collection on the 
 * Mah, B. T. (2011). *[Reflections on housing a nation: a collection of commentaries](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13827284)*. Singapore: Ministry of National Development.
 Call number: RSING 363.585095957 MAH
 
-The commentaries were first published in the Today newspaper from September to December 2010. The commentaries were written in conjunction with the Housing & Development Board's 50th anniversary in 2010.
+The commentaries were first published in the *Today *newspaper from September to December 2010. The commentaries were written in conjunction with the Housing & Development Board's 50th anniversary in 2010.
 
 <img src="/images/singapore-history/understanding-singapore/book26.jpg" style="width:150px;">
 *All rights reserved, Singapore: Singapore Concrete Institute, 2006*
