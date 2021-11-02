@@ -73,7 +73,7 @@ The Housing and Development Board is the national public housing authority of Si
 
 * National Library Board. (2016). *[Lim Kim San](https://eresources.nlb.gov.sg/infopedia/articles/SIP_645_2005-01-11.html?s=Lim%20Kim%20San)* written by Tien, Mui Mun. Retrieved April 13, 2020, from Singapore Infopedia. 
 
-Lim Kim San is the first Chairman of Housing and Development Board, best known for his contributions in housing the population of Singapore in the 1960s.
+Lim Kim San is the first Chairman of the Housing and Development Board, best known for his contributions in housing the population of Singapore in the 1960s.
 
 * National Library Board. (2009). *[Punggol reclamation](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1011_2008-10-28.html?s=Punggol%20reclammation)* written by Marsita, Omar. Retrieved April 13, 2020, from Singapore Infopedia. 
 
