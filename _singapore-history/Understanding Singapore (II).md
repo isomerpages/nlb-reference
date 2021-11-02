@@ -85,7 +85,7 @@ Urban planning in Singapore aims to optimise the use of the country's scarce lan
 
 * National Library Board. (2009). *[Yishun New Town](https://eresources.nlb.gov.sg/infopedia/articles/SIP_363_2005-01-18.html?s=Yishun%20New%20Town)* written by Thulaja, Naidu Ratnala. Retrieve April 13, 2020, from Singapore Infopedia.  
 
-Yishun New Town, one of the first comprehensive urban developments in the northern part of Singapore. Yishun Ring Road was home to many kampongs in the past.
+Yishun New Town is one of the first comprehensive urban developments in the northern part of Singapore. Yishun Ring Road was home to many kampongs in the past.
 
 #### PictureSG - photographs
 
