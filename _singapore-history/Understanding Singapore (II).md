@@ -61,7 +61,7 @@ Farm producing 250,000 eggs daily is first to be fully operational under agrotec
 
 * National Library Board. (2016). *[Bullock carts](https://eresources.nlb.gov.sg/infopedia/articles/SIP_955_2005-01-26.html?s=Bullock%20carts)* written by Thulaja, Naidu Ratnala. Retrieved April 13, 2020, from Singapore Infopedia.  
 
-Bullock carts, one of the earliest and most popular modes of transport in the 19th and early 20th century Singapore. They were used for a variety of purposes, such as travelling and transportation of goods. They were phased out slowly with rising levels of traffic and the advent of mechanised transport from 1867 onwards.
+Bullock carts were one of the earliest and most popular modes of transport in the 19th and early 20th century Singapore. They were used for a variety of purposes, such as travelling and transportation of goods. They were phased out slowly with rising levels of traffic and the advent of mechanised transport from 1867 onwards.
 
 * National Library Board. (2009). *[Farmlands in Lim Chu Kang](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1611_2009-11-30.html?s=Farmlands%20in%20Lim%20Chu%20Kang)* written by Lim, Jean. Retrieved April 13, 2020, from Singapore Infopedia. 
 
