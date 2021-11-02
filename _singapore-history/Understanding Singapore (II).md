@@ -206,6 +206,7 @@ Call number: RSING 307.762095957 KAM
 
 This is part 1 of 3 of a 23 min short documentary on the last rural village, or “kampong”, in Singapore - Kampong Lorong Buangkok. Produced by final-year students from Nanyang Technological University's School of Communication & Information.
 
+
 <img src="/images/singapore-history/understanding-singapore/video5.jpg" style="width:150px;">
 *All rights reserved. Singapore: Eng Yee Peng, 2005*
 
@@ -213,6 +214,7 @@ This is part 1 of 3 of a 23 min short documentary on the last rural village, or 
 Call number: RSING 959.57092 DIM-[HIS]
 
 In the 1960s, the Singapore government started resettling people from the villages to make way for industrialization. Decades have passed and most of the villages are replaced by tall buildings. This film takes you on a personal journey with the filmmaker to recollect on her childhood memories of living in the countryside of Singapore - Lim Chu Kang, a village that has already died and its spirit dispersed. 
+
 <img src="/images/singapore-history/understanding-singapore/video6.jpg" style="width:150px;">
 *All rights reserved. Singapore: Eng Yee Peng, 2008*
 * Eng, Y. P. (Producer). (2008). *[Diminishing memories II](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13607197)*. [DVD]. Singapore: Eng Yee Peng.
