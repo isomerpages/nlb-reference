@@ -317,7 +317,7 @@ This Great Singapore Stories series comprises 10 books in the collection on the 
 * Mah, B. T. (2011). *[Reflections on housing a nation: a collection of commentaries](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13827284)*. Singapore: Ministry of National Development.
 Call number: RSING 363.585095957 MAH
 
-The commentaries were first published in the Today newspaper from September to December 2010. The commentaries were written in conjunction with the Housing & Development Board's 50th anniversary in 2010.
+The commentaries were first published in the *Today *newspaper from September to December 2010. The commentaries were written in conjunction with the Housing & Development Board's 50th anniversary in 2010.
 
 <img src="/images/singapore-history/understanding-singapore/book26.jpg" style="width:150px;">
 *All rights reserved, Singapore: Singapore Concrete Institute, 2006*
