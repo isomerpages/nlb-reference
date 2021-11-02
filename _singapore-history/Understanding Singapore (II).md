@@ -220,7 +220,7 @@ In the 1960s, the Singapore government started resettling people from the villag
 * Eng, Y. P. (Producer). (2008). *[Diminishing memories II](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13607197)*. [DVD]. Singapore: Eng Yee Peng.
 Call number: RSING 959.57092 QIA - [HIS] 
 
-A sequel to the documentary Diminishing Memories I, the director revisits her old home at Lim Chu Kang that is slated for redevelopment into a recreational site. Yee Peng speaks to the farming residents whose lives have been affected by the changing landscape and rediscovers her purpose in making the film.
+A sequel to the documentary *Diminishing Memories I*, the director revisits her old home at Lim Chu Kang that is slated for redevelopment into a recreational site. Yee Peng speaks to the farming residents whose lives have been affected by the changing landscape and rediscovers her purpose in making the film.
 
 <img src="/images/singapore-history/understanding-singapore/video7.jpg" style="width:150px;">
 *All rights reserved. Singapore: MediaCorp News, 2002*
