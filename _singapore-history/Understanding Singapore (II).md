@@ -227,7 +227,7 @@ A sequel to the documentary *Diminishing Memories I*, the director revisits her 
 * Goodenough, G. (Producer). (2002). *[Singapore first. Episode 2. The port of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12802880)*. [DVD]. Singapore: MediaCorp News.
 Call number: RSING 387.1095957 SIN
 
-In the second episode of Singapore's Firsts the documentary zooms in on the achievements of the local port. Chairman of PSA Corporation Dr Yeo Ning Hong gives an insight into the workings of a world class port and how it has achieve its numerous accolades. The documentary also sheds light on Singapore's land reclamation achievements by following two pioneers, Ong Geok Soo and Dr Lee Sing Kong who have stayed true to the land reclamation project for the last three decades - their struggles, their vision and the fruits of their labour.
+In the second episode of *Singapore's Firsts* the documentary zooms in on the achievements of the local port. Chairman of PSA Corporation Dr Yeo Ning Hong gives an insight into the workings of a world class port and how it has achieve its numerous accolades. The documentary also sheds light on Singapore's land reclamation achievements by following two pioneers, Ong Geok Soo and Dr Lee Sing Kong who have stayed true to the land reclamation project for the last three decades - their struggles, their vision and the fruits of their labour.
 
 <img src="/images/singapore-history/understanding-singapore/video8.jpg" style="width:150px;">
 *All rights reserved. Singapore: MediaCorp News, 2005*
