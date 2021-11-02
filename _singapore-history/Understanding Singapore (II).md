@@ -40,7 +40,7 @@ This library guide highlights selected resources on how the environment influenc
 
 * [50,000 homes to go up in S'pore this year](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650102-1.2.52?ST=1&AT=filter&K=50%2C000%20homes%20to%20go%20up%20in%20S%27pore%20this%20year&KA=50%2C000%20homes%20to%20go%20up%20in%20S%27pore%20this%20year&DF=&DT=&Display=0&AO=false&NPT=&L=&CTA=&NID=straitstimes&CT=&WC=&YR=1965&QT=50000,homes,to,go,up,in,spore,this,year&oref=article). (1965, January 2). *The Straits Times*, p. 7.
 
-Work to begin on re-development of city. Board has completed 51,000 housing units during past year. The Housing and Development Board will launch five ambitious development projects this year to bring greater prosperity for the people and raise their standard of living.
+Work to begin on re-development of city. The Housing & Development Board has completed 51,000 housing units during past year. The Board will launch five ambitious development projects this year to bring greater prosperity for the people and raise their standard of living.
 
 * Grow local. (2020, March 29). *The Sunday Times*. Retrieved September 17, 2020, from The Straits Times website: <https://www.straitstimes.com/lifestyle/food/grow-local>
 <p></p>
