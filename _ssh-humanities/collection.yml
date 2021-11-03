@@ -1,5 +1,5 @@
 collections:
-  socscihum-humanities:
+  ssh-humanities:
     output: true
     order:
       - humanities/.keep

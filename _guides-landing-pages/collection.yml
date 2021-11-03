@@ -21,8 +21,8 @@ collections:
       - science-and-technology/technology.md
       - science-and-technology/physical-sciences.md
       - social-sciences-and-humanities/.keep
-      - social-sciences-and-humanities/social-sciences.md
-      - social-sciences-and-humanities/history.md
-      - social-sciences-and-humanities/humanities.md
+      - social-sciences-and-humanities/Social Sciences.md
+      - social-sciences-and-humanities/History.md
+      - social-sciences-and-humanities/Humanities.md
       - digital-preservation/.keep
       - digital-preservation/preserving-your-digital-memories.md

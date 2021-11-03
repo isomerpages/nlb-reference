@@ -1,10 +1,11 @@
 ---
 title: Social Sciences
-permalink: /guides/socialsciences-humanities/social-sciences/
+permalink: /guides/socscihum/soc-sci/
 breadcrumb: Social Sciences
 collection_name: socsci-hum
 third_nav_title: Social Sciences And Humanities
 ---
+
 <img src="/images/category/social-science.jpg" alt="social science banner" style="width:800px;" />
 
 - [**Read to be Sure: Fast Fashion**](/guides/socscihum/soc-sci/fast-fashion)

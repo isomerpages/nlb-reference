@@ -1,5 +1,5 @@
 collections:
-  socscihum-history:
+  ssh-history:
     output: true
     order:
       - history/.keep

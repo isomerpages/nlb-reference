@@ -1,10 +1,11 @@
 ---
 title: History
-permalink: /guides/socialsciences-humanities/history/
+permalink: /guides/socscihum/history/
 breadcrumb: History
 collection_name: socsci-hum
 third_nav_title: Social Sciences And Humanities
 ---
+
 
 <img src="/images/category/history-2.jpg" alt="history banner" style="width:800px;" />
 

@@ -1,5 +1,5 @@
 collections:
-  socscihum-social-sciences:
+  ssh-social-sciences:
     output: true
     order:
       - Fast Fashion.md
