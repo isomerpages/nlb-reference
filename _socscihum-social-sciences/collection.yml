@@ -2,7 +2,7 @@ collections:
   socscihum-social-sciences:
     output: true
     order:
-      - Read to Be Sure Fast Fashion.md
+      - Fast Fashion.md
       - Effectiveness of Nonprofit Boards.md
       - Environment Champion.md
       - Nonprofit Board's role in Risk Management.md
