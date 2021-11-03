@@ -1,11 +1,12 @@
 ---
 title: Linguistics
-permalink: /guides/socialsciences-humanities/humanities/linguistics
+permalink: /guides/socscihum/humanities/linguistics
 breadcrumb: Linguistics
 collection_name: social-sciences-humanities-humanities
-third_nav_title: Humanities
 published: true
 ---
+
+
 
 ### <u>Guide Index</u>
 

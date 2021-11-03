@@ -2,9 +2,8 @@ collections:
   ssh-history:
     output: true
     order:
-      - history/.keep
-      - history/angkor-wat.md
-      - history/cold-war.md
-      - history/the-cuban-missile-crisis.md
-      - history/indian-national-army-ina.md
-      - history/the-korean-war.md
+      - The Korean War.md
+      - Indian National Army (INA).md
+      - The Cuban Missile Crisis.md
+      - Cold War.md
+      - Angkor Wat.md

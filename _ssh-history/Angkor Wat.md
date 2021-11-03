@@ -1,11 +1,13 @@
 ---
 title: Angkor Wat
-permalink: /guides/socialsciences-humanities/history/angkor-wat
+permalink: /guides/socscihum/history/angkor-wat
 breadcrumb: Angkor Wat
 collection_name: social-sciences-humanities-history
-third_nav_title: History
 published: true
 ---
+
+
+
 
 ### <u>Guide Index</u>
 
