@@ -1,7 +1,0 @@
-collections:
-  socscihum-humanities:
-    output: true
-    order:
-      - humanities/.keep
-      - humanities/english-language.md
-      - humanities/linguistics.md

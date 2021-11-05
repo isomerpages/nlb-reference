@@ -1,8 +1,7 @@
 ---
-title: Post Independence SEA
+title: Post-Independence SEA
 permalink: /guides/singapore/history/post-independence-SEA
 ---
-
 ## Post-Independence SEA
 
 This select bibliography highlights inter-state interactions within the region and regional cooperation between Southeast Asian nations.
@@ -58,7 +57,7 @@ Publisher: Cambridge ; New York : Cambridge University Press, 2010.
 Call no.: RSEA 320.530959 SLA
 
 
-Title: [(Re)negotiating East and Southeast Asia : region, regionalism, and the Association of Southeast Asian Nations](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13173897)
+Title: [(Re)negotiating East and Southeast Asia : region, regionalism, and the Association of Southeast Asian Nations](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13173897)  
 Author: Ba, Alice D.  
 Publisher: Stanford, Calif. : Stanford University Press, 2009.  
 Call no.: RSEA 341.2473 BA
@@ -70,7 +69,7 @@ Publisher: Ardsley, N.Y. : Transnational Publishers, 2004
 Call no.: RSING 382.9159 HAF
 
 
-### Full-text journal articles that are available in **Ebscohost academic search premier**.
+### Full-text journal articles available in **Ebscohost academic search premier**.
 Please access the database via NLB's [eResources page](https://eresources.nlb.gov.sg/main/Browse?startsWith=E). 
 
 Prospects for Regional Cooperation on Environmental Impact Assessment in Mainland Southeast Asia.  
@@ -93,7 +92,7 @@ The rise of trans-border regions in Southeast Asia: behind the dynamics of infor
 By: Nadalutti, Elisabetta. Pacific Review. Sep2015, Vol. 28 Issue 4, p607-630.
 
 
-### Full-text journal articles that are available in **JSTOR**.
+### Full-text journal articles available in **JSTOR**.
 Please access the database via NLB's [eResources page](https://eresources.nlb.gov.sg/main/Browse?startsWith=J).
 
 ASEAN Counter-terrorism Weaknesses
@@ -121,7 +120,7 @@ Kishore C. Dash
 Pacific Affairs, Vol. 69, No. 2 (Summer, 1996), pp. 185-209
 
 
-### Full-text journal articles that are available in **Proquest Central**.
+### Full-text journal articles available in **Proquest Central**.
 Please access the database via NLB's [eResources page](https://eresources.nlb.gov.sg/main/Browse?startsWith=P).
 
 Approach to the Geopolitical Influences of Great Powers in Southeast Asia: Case Studies of China and the US  

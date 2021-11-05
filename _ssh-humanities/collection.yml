@@ -1,0 +1,6 @@
+collections:
+  ssh-humanities:
+    output: true
+    order:
+      - Linguistics.md
+      - English Language.md

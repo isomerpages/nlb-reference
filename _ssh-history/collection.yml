@@ -1,0 +1,9 @@
+collections:
+  ssh-history:
+    output: true
+    order:
+      - The Korean War.md
+      - Indian National Army (INA).md
+      - The Cuban Missile Crisis.md
+      - Cold War.md
+      - Angkor Wat.md

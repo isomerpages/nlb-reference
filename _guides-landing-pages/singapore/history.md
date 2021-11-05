@@ -20,3 +20,9 @@ third_nav_title: Singapore
 * [**Singapore's Public Housing**](/guides/singapore/history/sg-public-housing)
 
 * [**Communist Party of Malaya - A Comprehensive Bibliography**](/guides/singapore/history/cpm-biblio)
+
+* [**Understanding Singapore (I)**](/singapore-history/understandingsingapore-i)
+
+<!---
+* [**Understanding Singapore (II)**](/singapore-history/understandingsingapore-ii)
+-->

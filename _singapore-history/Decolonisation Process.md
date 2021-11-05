@@ -2,7 +2,6 @@
 title: Decolonisation Process
 permalink: /guides/singapore/history/decolonisation-process
 ---
-
 ## Decolonisation Process
 
 This select bibliography that highlights books and journal articles relating to post-war Malaya and its path to Independence.
@@ -63,7 +62,7 @@ Publisher: Kowloon, Hong Kong : University of Hong Kong Press, [2019].
 Call no.: RSEA 959.5104 PRI
 
 
-### Full-text journal articles that are available in **Ebscohost academic search premier**.
+### Full-text journal articles available in **Ebscohost academic search premier**.
 Please access the database via NLB's [eResources page](https://eresources.nlb.gov.sg/main/Browse?startsWith=E). 
 
 Disguised anti-colonialism: protest against the White Australia Policy in Malaya and Singapore, 1947–1962.  
@@ -86,7 +85,7 @@ Violent civic nationalism versus civil ethnic nationalism: Contrasting Indonesia
 By: Kreuzer, Peter. National Identities. Mar 2006, Vol. 8 Issue 1, p41-59
 
 
-### Full-text journal articles that are available in **JSTOR**.
+### Full-text journal articles available in **JSTOR**.
 Please access the database via NLB's [eResources page](https://eresources.nlb.gov.sg/main/Browse?startsWith=J).
 
 Australia, the 'Marshall experiment' and the decolonisation of Singapore, 1955-56  
@@ -114,7 +113,7 @@ Nicholas J. White
 Bijdragen tot de Taal-, Land- en Volkenkunde, Vol. 173, No. 2/3 (2017), pp. 208-241
 
 
-### Full-text journal articles that are available in **Proquest Central**.
+### Full-text journal articles available in **Proquest Central**.
 Please access the database via NLB's [eResources page](https://eresources.nlb.gov.sg/main/Browse?startsWith=P).
 
 Indigenizing the Cold War in Malaysia and Singapore: Interethnic Decolonization, Developmental Syntheses and the Quest for Sovereignty  
@@ -137,28 +136,28 @@ THE UNIVERSITY SOCIALIST CLUB AND THE CONTEST FOR MALAYA: Tangled Strands of Mod
 Koon, Wong Soak. Pacific Affairs; Vancouver Vol. 88, Iss. 1,  (Mar 2015): 226-228.
 
 
-### Materials that are available in the  [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/).
+### Materials available in the  [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/).
 
 A curation of articles from Off the Record and Singapore Policy History Project, giving insights into the various facets of Singapore history relating to the decolonisation process.
 
 
-ALL MUST VOTE, 1959
+ALL MUST VOTE, 1959   
 <https://corporate.nas.gov.sg/media/collections-and-research/all-must-vote>
 
-External threats: Storm Clouds over Indochina
+External threats: Storm Clouds over Indochina   
 <https://corporate.nas.gov.sg/media/collections-and-research/external-threats>
 
-David Marshall: Singapore’s First Chief Minister
+David Marshall: Singapore’s First Chief Minister   
 <https://corporate.nas.gov.sg/media/collections-and-research/david-marshall>
 
-S. Rajaratnam on Singapore’s State Symbols
+S. Rajaratnam on Singapore’s State Symbols   
 <https://corporate.nas.gov.sg/media/collections-and-research/s-rajaratnam>
 
-PROCLAMATION OF SINGAPORE, 1965
+PROCLAMATION OF SINGAPORE, 1965   
 <https://corporate.nas.gov.sg/media/collections-and-research/proclamationofsingapore>
 
-INDEPENDENCE DAY?
+INDEPENDENCE DAY?   
 <https://corporate.nas.gov.sg/media/collections-and-research/independenceday>
 
-Keeping Communist Propaganda At Bay - Regulation Of Media Content
+Keeping Communist Propaganda At Bay - Regulation Of Media Content   
 <https://www.nas.gov.sg/archivesonline/policy_history/card?id=3>

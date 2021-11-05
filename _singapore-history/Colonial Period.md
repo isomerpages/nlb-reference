@@ -7,7 +7,7 @@ permalink: /guides/singapore/history/colonial-period
 A select bibliography of books and journal articles relating to Singapore’s colonial past (1819 to 1963).
 
 ### **Books**
-(Please check the availability of items via NLB's [online catalogue](https://catalogue.nlb.gov.sg).
+Please check the availability of items via NLB's [online catalogue](https://catalogue.nlb.gov.sg).
 
 Title: [ Company of planters : confessions of a colonial rubber planter in 1950s Malaya ](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202970275)
 Author:  Dodd, J.  
@@ -96,7 +96,7 @@ Microfiche: MFC NL0030/022-026
 This publication provides a comprehensive analysis of the Straits Settlements prior to its becoming a Crown Colony. It examines the government structure, economy, social conditions and defence system of the Straits Settlements. It also explores the wider context of the Malay States and the impact of the transfer movement. It includes a fold out map of Singapore in the1860s, a bibliography and an index.
 
 
-### Full-text journal articles that are available in **Ebscohost academic search premier**.
+### Full-text journal articles available in **Ebscohost academic search premier**.
 Please access the database via NLB's [eResources page](https://eresources.nlb.gov.sg/main/Browse?startsWith=E). 
 
 Imagining Malaya, practising multiculturalism: the Malayan consciousness of Singapore Chinese intellectuals in the 1950s.  
@@ -118,7 +118,7 @@ By: Chua, Ai Lin. Inter-Asia Cultural Studies. Dec 2012, Vol. 13 Issue 4, p592-6
 Toddy, Race, and Urban Space in Colonial Singapore, 1900–59.  
 By: ALAGIRISAMY, DARINEE. Modern Asian Studies. Sep 2019, Vol. 53 Issue 5, p1675-1699.
 
-### Full-text journal articles that are available in **JSTOR**.
+### Full-text journal articles available in **JSTOR**.
 Please access the database via NLB's [eResources page](https://eresources.nlb.gov.sg/main/Browse?startsWith=J).
 
 Coffee-shops in Colonial Singapore: Domains of Contentious Publics  
@@ -146,7 +146,7 @@ KH Phua
 Asia Pacific Journal of Public Health, Vol. 3, No. 4 (1989), pp. 315-323
 
 
-### Full-text journal articles that are available in **Proquest Central**.
+### Full-text journal articles available in **Proquest Central**.
 Please access the database via NLB's [eResources page](https://eresources.nlb.gov.sg/main/Browse?startsWith=P).
 
 Common ground: Race and the colonial universe in British Malaya  
@@ -167,7 +167,7 @@ Bhattacharya, Jayati. Journal of Southeast Asian Studies; Singapore Vol. 50, Iss
 'The Modern Magic Carpet': Wireless radio in interwar colonial Singapore  
 Ai Lin, Chua. Modern Asian Studies, suppl. Everyday Technology in South and Southeast Asia; Cambridge 
 
-### Materials that are available in the [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/).
+### Materials available in the [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/).
 
 
 A curation of articles from Off the Record and Singapore Policy History Project, giving insights into the various facets of Singapore history relating to the colonial period.
