@@ -23,6 +23,4 @@ third_nav_title: Singapore
 
 * [**Understanding Singapore (I)**](/singapore-history/understandingsingapore-i)
 
-<!---
 * [**Understanding Singapore (II)**](/singapore-history/understandingsingapore-ii)
--->
