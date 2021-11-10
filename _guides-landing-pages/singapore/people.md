@@ -28,7 +28,11 @@ Most of the guides in this section were developed for the [Singapore Biographica
 	</tr>
 	<tr>
 		<td><b><a href = "/guides/singapore/people/chua-ek-kay">Chua Ek Kay</a></b></td>
+		<td><b><a href = "/guides/singapore/people/chua-mia-tee/">Chua Mia Tee 庄竹林</a></b></td>
+	</tr>
+	<tr>
 		<td><b><a href = "/guides/singapore/people/chuang-chu-lin/">Chuang Chu Lin 庄竹林</a></b></td>
+		<td><b><a href = ""> </a></b></td>
 	</tr>
 	<tr>
 		<td><b><a href = "/guides/singapore/people/goh-siew-tin">Goh Siew Tin / 吴寿珍</a></b></td>
@@ -46,31 +50,42 @@ Most of the guides in this section were developed for the [Singapore Biographica
 <summary><b>I - S</b></summary>
 <table style="width:100%">
 	<tr>
+		<td><b><a href = "/guides/singapore/people/joanna-wong/">Joanna Wong</a></b></td>
+		<td><b><a href = ""><a></b></td>
+	</tr>	<tr>
 		<td><b><a href = "/guides/singapore/people/koh-soh-goh/">Koh Soh Goh / 许甦吾</a></b></td>
+		<td><b><a href = "/guides/singapore/people/law-wai-lun">Law Wai Lun<a></b></td>
+	</tr>
+	<tr>
 		<td><b><a href = "/guides/singapore/people/lee-choon-seng">Lee Choon Seng / 李俊承</a></b></td>
-	</tr>
-	<tr>
 		<td><b><a href = "/guides/singapore/people/lee-dai-sor">Lee Dai Sor / 李大傻</a></b></td>
-		<td><b><a href = "/guides/singapore/people/lee-siow-mong/">Lee Siow Mong / 李绍茂</a></b></td>
 	</tr>
 	<tr>
+		<td><b><a href = "/guides/singapore/people/lee-siow-mong/">Lee Siow Mong / 李绍茂</a></b></td>
 		<td><b><a href = "/guides/singapore/people/leong-yoon-pin/">Leong Yoon Pin</a></b></td>
+	</tr>
+	<tr>
+		<td><b><a href = "/guides/singapore/people/lew-poo-chan/">Lew Poo Chan</a></b></td>
 		<td><b><a href = "/guides/singapore/people/lien-shih-sheng/">Lien Shih Sheng / 连士升</a></b></td>
 	</tr>
 	<tr>
 		<td><b><a href = "/guides/singapore/people/lien-ying-chow/">Lien Ying Chow / 连瀛洲</a></b></td>
-		<td><b><a href = "/guides/singapore/people/lim-loh">Lim Loh / 林路</a></b></td>
+		<td><b><a href = "/guides/singapore/people/lim-fei-shen">Lim Fei Shen</a></b></td>
 	</tr>
 	<tr>
-		<td><b><a href = "/guides/singapore/people/lin-hengnan">Lin Hengnan / 林衡南</a></b></td>
+		<td><b><a href = "/guides/singapore/people/lim-loh">Lim Loh / 林路</a></b></td>
 		<td><b><a href = "/guides/singapore/people/lim-tze-peng">Lim Tze Peng</a></b></td>
 	</tr>
 	<tr>
+		<td><b><a href = "/guides/singapore/people/lin-hengnan">Lin Hengnan / 林衡南</a></b></td>
 		<td><b><a href = "/guides/singapore/people/low-ing-sing">Low Ing Sing / 刘仁心</a></b></td>
-		<td><b><a href = "/guides/singapore/people/neo-tiew">Neo Tiew / 梁宙</a></b></td>
 	</tr>
 	<tr>
+		<td><b><a href = "/guides/singapore/people/neo-tiew">Neo Tiew / 梁宙</a></b></td>
 		<td><b><a href = "/guides/singapore/people/raffles-in-southeast-asia">Raffles in Southeast Asia</a></b></td>
+	</tr>
+	<tr>
+		<td><b><a href = "/guides/singapore/people/sarkasi-said">Sarkasi Said</a></b></td>
 		<td><b><a href = "/guides/singapore/people/seah-song-seah">Seah Song Seah / 佘松城</a></b></td>
 	</tr>
 	<tr>
@@ -118,17 +133,17 @@ Most of the guides in this section were developed for the [Singapore Biographica
 	</tr>
 	<tr>
 		<td><b><a href = "/guides/singapore/people/wong-nai-siong">Wong Nai Siong / 黄乃裳</a></b></td>
+		<td><b><a href = "/guides/singapore/people/wong-yoon-wah">Wong Yoon Wah</a></b></td>
+	</tr>
+	<tr>
 		<td><b><a href = "/guides/singapore/people/wu-lien-teh">Wu Lien Teh / 伍连徳</a></b></td>
-	</tr>
-	<tr>
 		<td><b><a href = "/guides/singapore/people/yeh-chih-yun">Yeh Chih Yun / 叶季允</a></b></td>
-		<td><b><a href = "/guides/singapore/people/yin-suat-chuan">Yin Suat Chuan / 殷雪村</a></b></td>
 	</tr>
 	<tr>
+		<td><b><a href = "/guides/singapore/people/yin-suat-chuan">Yin Suat Chuan / 殷雪村</a></b></td>
 		<td><b><a href = "/guides/singapore/people/zhang-liqian"> Zhang Liqian / 张礼千</a></b></td>
 	</tr>
 </table>
 </details>
 
 <p>
-
