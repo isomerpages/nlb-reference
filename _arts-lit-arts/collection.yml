@@ -2,6 +2,7 @@ collections:
   arts-lit-arts:
     output: true
     order:
+      - Tamil pubs 2014 to 2021/.keep
       - bibliografi-sastera-melayu-singapura/.keep
       - bibliografi-sastera-melayu-singapura/novel.md
       - bibliografi-sastera-melayu-singapura/esei.md
