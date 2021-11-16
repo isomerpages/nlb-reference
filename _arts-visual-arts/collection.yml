@@ -2,6 +2,7 @@ collections:
   arts-visual-arts:
     output: true
     order:
+      - visual-arts/Nanyang Artists.md
       - visual-arts/.keep
       - visual-arts/modern-art-in-singapore.md
       - visual-arts/the-arts-space-season-1-jalan-jalan.md
