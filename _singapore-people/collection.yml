@@ -2,62 +2,62 @@ collections:
   singapore-people:
     output: true
     order:
-      - a-h/.keep
-      - a-h/aw-boon-haw.md
-      - a-h/cheang-hong-lim.md
-      - a-h/chen-jen-hao.md
-      - a-h/chew-joo-chiat.md
-      - a-h/chia-ann-siang.md
-      - a-h/chou-sing-chu.md
-      - a-h/chua-ek-kay.md
-      - a-h/Chua Mia Tee.md
-      - a-h/chuang-chu-lin.md
-      - a-h/georgette-chen.md
-      - a-h/goh-siew-tin.md
-      - a-h/han-wai-toon.md
-      - a-h/huang-man-shi.md
-      - i-s/.keep
-      - i-s/Joanna Wong.md
-      - i-s/koh-soh-goh.md
-      - i-s/Law Wai Lun.md
-      - i-s/lee-choon-seng.md
-      - i-s/lee-dai-sor.md
-      - i-s/lee-siow-mong.md
-      - i-s/leong-yoon-pin.md
-      - i-s/Lew Poo Chan.md
-      - i-s/lien-shih-sheng.md
-      - i-s/lien-ying-chow.md
-      - i-s/Lim Fei Shen.md
-      - i-s/lim-loh.md
-      - i-s/lim-tze-peng.md
-      - i-s/lin-hengnan.md
-      - i-s/low-ing-sing.md
-      - i-s/neo-tiew.md
-      - i-s/raffles-in-southeast-asia.md
-      - i-s/Sarkasi Said.md
-      - i-s/seah-song-seah.md
-      - i-s/see-ewe-lay.md
-      - i-s/see-hiang-to.md
-      - i-s/see-hoot-kee.md
-      - i-s/seow-poh-leng.md
-      - t-z/.keep
-      - t-z/tan-boo-liat.md
-      - t-z/tan-chay-yan.md
-      - t-z/tan-chor-lam.md
-      - t-z/tan-kheam-hock.md
-      - t-z/tan-kim-ching.md
-      - t-z/tan-siak-kew.md
-      - t-z/tan-yeok-seong.md
-      - t-z/tay-koh-yat.md
-      - t-z/tchang-ju-chi.md
-      - t-z/teng-mah-seng.md
-      - t-z/teo-eng-hock.md
-      - t-z/tso-ping-lung.md
-      - t-z/wee-bin.md
-      - t-z/wong-lin-ken.md
-      - t-z/wong-nai-siong.md
-      - t-z/Wong Yoon Wah.md
-      - t-z/wu-lien-teh.md
-      - t-z/yeh-chih-yun.md
-      - t-z/yin-suat-chuan.md
-      - t-z/zhang-liqian.md
+      - A to H/.keep
+      - A to H/aw-boon-haw.md
+      - A to H/cheang-hong-lim.md
+      - A to H/chen-jen-hao.md
+      - A to H/chew-joo-chiat.md
+      - A to H/chia-ann-siang.md
+      - A to H/chou-sing-chu.md
+      - A to H/chua-ek-kay.md
+      - A to H/Chua Mia Tee.md
+      - A to H/chuang-chu-lin.md
+      - A to H/georgette-chen.md
+      - A to H/goh-siew-tin.md
+      - A to H/han-wai-toon.md
+      - A to H/huang-man-shi.md
+      - I to S/.keep
+      - I to S/Joanna Wong.md
+      - I to S/Koh Soh Goh.md
+      - I to S/Law Wai Lun.md
+      - I to S/Lee Choon Seng.md
+      - I to S/Lee Dai Sor.md
+      - I to S/Lee Siow Mong.md
+      - I to S/Leong Yoon Pin.md
+      - I to S/Lew Poo Chan.md
+      - I to S/Lien Shih Sheng.md
+      - I to S/Lien Ying Chow.md
+      - I to S/Lim Fei Shen.md
+      - I to S/Lim Loh.md
+      - I to S/Lim Tze Peng.md
+      - I to S/Lin Hengnan.md
+      - I to S/Low Ing Sing.md
+      - I to S/Neo Tiew.md
+      - I to S/Raffles in Southeast Asia.md
+      - I to S/Sarkasi Said.md
+      - I to S/Seah Song Seah.md
+      - I to S/See Ewe Lay.md
+      - I to S/See Hiang To.md
+      - I to S/See Hoot Kee.md
+      - I to S/Seow Poh Leng.md
+      - T to Z/.keep
+      - T to Z/tan-boo-liat.md
+      - T to Z/tan-chay-yan.md
+      - T to Z/tan-chor-lam.md
+      - T to Z/tan-kheam-hock.md
+      - T to Z/tan-kim-ching.md
+      - T to Z/tan-siak-kew.md
+      - T to Z/tan-yeok-seong.md
+      - T to Z/tay-koh-yat.md
+      - T to Z/tchang-ju-chi.md
+      - T to Z/teng-mah-seng.md
+      - T to Z/teo-eng-hock.md
+      - T to Z/tso-ping-lung.md
+      - T to Z/wee-bin.md
+      - T to Z/wong-lin-ken.md
+      - T to Z/wong-nai-siong.md
+      - T to Z/Wong Yoon Wah.md
+      - T to Z/wu-lien-teh.md
+      - T to Z/yeh-chih-yun.md
+      - T to Z/yin-suat-chuan.md
+      - T to Z/zhang-liqian.md
