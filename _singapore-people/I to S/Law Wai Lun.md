@@ -4,7 +4,6 @@ permalink: /guides/singapore/people/law-wai-lun/
 description: ""
 third_nav_title: I to S
 ---
-
 # Law Wai Lun (罗伟伦)
 Law Wai Lun (罗伟伦; b. 1944, Shanghai, China–) is a composer known for his contributions to the development of the Nanyang Style in Chinese orchestral music. When Law was 12, he entered the Central Conservatory of Music in Beijing where he studied Western classical composition. In 1980, he migrated to Hong Kong where he stayed for 15 years before relocating to Singapore in 1995. While he had experimented with Chinese instruments in his compositions when he was in Hong Kong, it was only until he moved to Singapore when his explorations soared to greater heights and Chinese orchestral music became his main creative output. Inspired by the multi-cultural background of Singapore, Law has composed major works such as The Celestial Web (2003), Prince Sang Nila Utama and Singa (2003), Admiral of the Seven Seas – Zheng He (2005), and Elegance in Nanyin (2011). Besides the Cultural Medallion awarded to him in 2017, Law has received various accolades such as the Golden Sail Award from The Composers and Authors Society of Hong Kong (2007 and 2016), as well as the Artistic Excellence Award by the Composers and Authors Society of Singapore (COMPASS) in 2017.[^1]  He was also appointed composer-in-residence at the Singapore Chinese Orchestra from 2012 to 2014 and 2018 to 2020.[^2]
 
@@ -55,4 +54,4 @@ This guide provides supplementary resource for those who are keen to find inform
 * Legend Music Production. (2021). ***Law Wai Lun*** (Singapore). Retrieved 2021, November 1 from Legend Music website: [http://legend-me.com/law-wai-lun-singapore/](http://legend-me.com/law-wai-lun-singapore/)
 
 * * *
-**Footnotes**
+##### **Footnotes**
