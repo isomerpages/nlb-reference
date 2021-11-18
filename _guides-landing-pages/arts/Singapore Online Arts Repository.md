@@ -5,7 +5,7 @@ third_nav_title: Arts
 ---
 ## SOAR - The Singapore Online Arts Repository
 
-<img src="/images/arts/soar/CMR%20composite%20test.png" style="width:340px;">
+![CMR Collage 1979-2020](/images/arts/soar/CMR%20Collage%201979-2020.png)*<center>Images courtesy of National Arts Council</center>*
 
 The **Singapore Online Arts Repository (SOAR)** is a collaboration between National Arts Council (NAC) and the National Library Board (NLB) to enhance the national collection of Singapore arts content, and to make the materials digitally available for future generations of Singaporeans. 
 
