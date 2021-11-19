@@ -40,3 +40,5 @@ Introduction on Joanna Wong adapted from Chor, Poh Chin, “Joanna Wong Quee Hen
 
 ### Websites
 * Chor, P. C. (2014, February 6). ***Joanna Wong Quee Heng.*** Retrieved 2021, November 12 from *Infopedia* website: [https://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-02-10_162823.html](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-02-10_162823.html)
+
+### References

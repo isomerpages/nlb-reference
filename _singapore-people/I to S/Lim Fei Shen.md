@@ -26,9 +26,9 @@ Introduction on Lim Fei Shen adapted from Chor, Poh Chin, “Lim Fei Shen,” Si
 ### Books
 
 * Purushothaman, Venka. *[Narratives: notes on a cultural journey: cultural medallion recipients 1979 - 2001](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11789181)*. Singapore: National Arts Council, 2002. (Call no.: RSING 700.95957 NAR)
-* Burridge, Stephanie and Carino, Caren, eds. *Evolving synergies: Celebrating dance in Singapore*. Taylor and Francis, 2017. https://nlb.overdrive.com/media/4171313
+* Burridge, Stephanie and Carino, Caren, eds. *Evolving synergies: Celebrating dance in Singapore*. Taylor and Francis, 2017. <https://nlb.overdrive.com/media/4171313>
 
-To access the ebooks listed, you must log in to [**NLB eResources**](https://eresources.nlb.gov.sg) using a *myLibraryID*. Don’t have a *myLibraryID* yet? Go to https://account.nlb.gov.sg/ and sign up now using your SingPass or NRIC/FIN.
+To access the ebooks listed, you must log in to [**NLB eResources**](https://eresources.nlb.gov.sg) using a *myLibraryID*. Don’t have a *myLibraryID* yet? Go to <https://account.nlb.gov.sg/> and sign up now using your SingPass or NRIC/FIN.
 
 ### Performance booklets & posters
 

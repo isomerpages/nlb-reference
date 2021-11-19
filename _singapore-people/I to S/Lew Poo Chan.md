@@ -41,13 +41,10 @@ Introduction on Dan Ying adapted from Chor, Poh Chin, “Lew Poo Chan (Dan Ying)
 ### Journal articles
 
 * 廖冰凌 [Liau, Pingleng]. “存在之思——新加坡女作家淡莹作品中的哲理意蕴” [Sense of existence: the Philosophical implication in Singapore Chinese writer Dan Ying’s literary works]. 《外国文学研究》, no. 6 (2014): 159 – 165.
-Retrieved from 中国学术期刊数据库 [China Online Journals Database]. (*mylibrary ID* is required to access this database.)
-https://eresources.nlb.gov.sg/Main/browse/resource/1293. 
+Retrieved from 中国学术期刊数据库 [China Online Journals Database]. (*mylibrary ID* is required to access this database.) <https://eresources.nlb.gov.sg/Main/browse/resource/1293>. 
 * 孙一凤 [Sun, I-Feng]. “淡莹诗中的文学地景与身体书写” [The literary landscape and body writing in Dan Ying (Lew Poo Choo)’s poetry]. 《华文文学》, no. 1 (2016): 78 – 91.
-Retrieved from 中国学术期刊数据库 [China Online Journals Database]. (*mylibrary ID* is required to access this database.)
-https://eresources.nlb.gov.sg/Main/browse/resource/1293. 
+Retrieved from 中国学术期刊数据库 [China Online Journals Database]. (*mylibrary ID* is required to access this database.) <https://eresources.nlb.gov.sg/Main/browse/resource/1293>. 
 * 朱崇科 [Zhu, Chongke]. “论淡莹作品中的“新”华性” [On the Singapore Chineseness of the works by Dan Ying (Lew Poo Chan)]. 《华文文学》, no. 4 (2017): 67-79.
-Retrieved from 中国学术期刊数据库 [China Online Journals Database]. (*mylibrary ID* is required to access this database.)
-https://eresources.nlb.gov.sg/Main/browse/resource/1293.
+Retrieved from 中国学术期刊数据库 [China Online Journals Database]. (*mylibrary ID* is required to access this database.) <https://eresources.nlb.gov.sg/Main/browse/resource/1293>.
 
 To access the journal articles in subscribed databases, you must log in to [**NLB eResources**](https://eresources.nlb.gov.sg) using a *myLibraryID*. Don’t have a *myLibraryID* yet? Go to <https://account.nlb.gov.sg/> and sign up now using your SingPass or NRIC/FIN.
