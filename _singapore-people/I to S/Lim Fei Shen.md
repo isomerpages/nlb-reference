@@ -42,7 +42,7 @@ To access the ebooks listed, you must log in to [**NLB eResources**](https://ere
 * “[Lim Fei Shen](https://www.esplanade.com/tributesg/performing-arts/lim-fei-shen).” TributeSG, Esplanade. Accessed November 1, 2021. https://www.esplanade.com/tributesg/performing-arts/lim-fei-shen. 
 * “[Performing artiste – Lim Fei Shen](https://tfcsea.nafa.edu.sg/artist_biography.aspx?id=47).” Tanoto Foundation Centre for Southeast Asian Arts at NAFA. Accessed November 3, 2021. https://tfcsea.nafa.edu.sg/artist_biography.aspx?id=47.
 
-Newspaper articles
+### Newspaper articles
 * Koh, Edgar. “[Shen’s big plans…](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19730418-1.2.64.4)” *New Nation*, April 18, 1973. http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19730418-1.2.64.4.
 * Tang, Geraldine. “[Body language and all that jazz](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800331-1.2.122.9.1).” *The Straits Times*, March 31, 1980.  http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800331-1.2.122.9.1.
 * Lo, Tien Yin. “[Dance begins in her head](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19890105-1.2.18).” *New Paper*, January 5, 1989. https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19890105-1.2.18. (This article may only be viewed from the multimedia stations at NLB Libraries.)
