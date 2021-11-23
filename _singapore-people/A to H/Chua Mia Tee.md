@@ -4,14 +4,11 @@ permalink: /guides/singapore/people/chua-mia-tee/
 description: ""
 third_nav_title: A to H
 ---
-![Alt text for image on Isomer site](/images/arts/visualarts/chua-mia-tee/chua_mia_tee.JPG)
-Chua Mia Tee. All rights reserved, National Arts Council, 2015. Digital image retrieved from [NORA](https://eresources.nlb.gov.sg/arts/website/Contents/ArticleDetails.aspx?Id=0e7dbf8e-b393-4c06-ae92-aa2bb1f4b886).
-
 Chua Mia Tee (b. 25 November 1931, Shantou, Guangdong, China) is one of Singapore’s foremost realist painters. Born in Shantou, Guangdong province, China, in 1931, Chua was six years old when he came to Singapore in 1937. He was a student at Shuqun School and then Tuan Mong School. In 1947, he enrolled in Chung Cheng High School but left school midway to pursue a formal arts education at the Nanyang Academy of Fine Arts (NAFA). [^1]
 
 At NAFA, he received training in drawing, sketching with watercolour and painting, both with oils on canvas and with Chinese ink and colours on paper. He was taught by the academy’s director Lim Hak Tai as well as artists Cheong Soo Pieng, Koh Tong Leong, and See Hiang To. He graduated from NAFA in 1952. [^2]
 
-While studying in NAFA, Chua was asked to teach part-time at the school, and he continued to teach at NAFA as a fulltime staff after graduation. [^3] In 1954, Chua went back to Chung Cheng High School to complete his secondary education. Thereafter, he returned to NAFA to teach from 1956 to 1957. [^4]
+While studying in NAFA, Chua was asked to teach part-time at the school, and he continued to teach as a fulltime staff after graduation. [^3] In 1954, Chua went back to Chung Cheng High School to complete his secondary education. Thereafter, he returned to NAFA to teach from 1956 to 1957. [^4]
 
 Between 1957 and 1974, Chua used his skills in the field of commercial art. The year 1974 was a watershed period for Chua. At the age of 43, he staged his maiden exhibition at the Rising Gallery on Telok Ayer Street. The exhibition was a success and this gave him the confidence to become a full-time artist. [^5]
 
@@ -21,9 +18,9 @@ Chua has also been called upon to paint illustrious personalities such as former
 
 Besides oil, Chua also uses other mediums such as acrylic, mixed media, watercolour, bronze and relief. [^9]
 
-In 2015, Chua was conferred the Cultural Medallion, a national honour that recognises his artistic contributions to Singapore. [^10] The National Gallery of Singapore’s inaugural exhibition, Siapa Nama Kamu?, takes its name from Chua Mia Tee’s iconic painting, “National Language Class”. [^11]
+In 2015, Chua was conferred the Cultural Medallion, a national honour that recognises his artistic contributions to Singapore. [^10] The National Gallery of Singapore’s inaugural exhibition, *Siapa Nama Kamu?*, takes its name from Chua Mia Tee’s iconic painting, “National Language Class”. [^11]
 
-Chua’s latest exhibition, titled “Chua Mia Tee: Directing the Real,” opens at the National Gallery of Singapore in November 2021, and focuses on his early practice from the 1950s to 1980s.
+Chua’s latest exhibition, titled *Chua Mia Tee: Directing the Real*, opens at the National Gallery of Singapore in November 2021, and focuses on his early practice from the 1950s to 1980s.
 
 #### Books
 
@@ -134,14 +131,14 @@ All Rights Reserved. National Library Board Singapore 2021.
 
 #### References
 
-[^1]: Cai, M. Z. (1988). [Chua Mia Tee, 1988](https://www.nlb.gov.sg/biblio/4740697). Singapore: National Museum, [n.p.]. (Call no.: RSING 759.95957074 CHU)
+[^1]: Cai, M. Z. (1988). [*Chua Mia Tee, 1988*](https://www.nlb.gov.sg/biblio/4740697). Singapore: National Museum, [n.p.]. (Call no.: RSING 759.95957074 CHU)
 [^2]: Ibid.
-[^3]: Tan, B., & Ng, S. (2015). [Lives of the artists: A Singapore story: The Cultural Medallion and visual arts 1979–2015](https://www.nlb.gov.sg/biblio/202364796). Singapore: Nanyang Academy of Fine Arts, p. 359. (Call no.: RSING 709.5957 TAN)
-[^4]: Cai, M. Z. (1988). [Chua Mia Tee, 1988](https://www.nlb.gov.sg/biblio/4740697). Singapore: National Museum, [n.p.]. (Call no.: RSING 759.95957074 CHU)
-[^5]: Autobiographies in art. (1991, 2nd Qtr.). [Goodwood Journal](https://www.nlb.gov.sg/biblio/4818488), 15. (Call no.: RSING 052 GHCGJ); Cai, M. Z. (1988).[ Chua Mia Tee, 1988](https://www.nlb.gov.sg/biblio/4740697). Singapore: National Museum, [n.p.]. (Call no.: RSING 759.95957074 CHU); [Page 17 advertisements column 2](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19741124-1.2.58.2.aspx). (1974, November 24). New Nation, p. 17. Retrieved from NewspaperSG.
-[^6]: Cai, M. Z. (1988). [Chua Mia Tee, 1988](https://www.nlb.gov.sg/biblio/4740697). Singapore: National Museum, [n.p.]. (Call no.: RSING 759.95957074 CHU)
-[^7]: Autobiographies in art. (1991, 2nd Qtr.). [Goodwood Journal](https://www.nlb.gov.sg/biblio/4818488), 14. (Call no.: RSING 052 GHCGJ)
-[^8]: Low, K. T. (Ed.). (2006). [Who’s who in Singapore 2006](https://www.nlb.gov.sg/biblio/12648149). Singapore: Who’s Who Pub., p. 117. (Call no.: RSING 920.05957 WHO)
-[^9]: Autobiographies in art. (1991, 2nd Qtr.). [Goodwood Journal](https://www.nlb.gov.sg/biblio/4818488), 27. (Call no.: RSING 052 GHCGJ)
-[^10]: Tan, B., Ng,S. (2015). [Lives of the artists: A Singapore story: The Cultural Medallion and visual arts 1979–2015](https://www.nlb.gov.sg/biblio/202364796). Singapore: Nanyang Academy of Fine Arts, p. 216. (Call no.: RSING 709.5957 TAN); Lee, R., Leong, W. K., & Martin, M. (2015, October 17). 4 awarded Cultural Medallion. Channel NewsAsia. Retrieved from Factiva via NLB’s eResources website: <http://eresources.nlb.gov.sg/>
-[^11]: Yusof, H. (2015, December 25). Singapore art in the global spotlight. The Business Times. Retrieved from Factiva via NLB’s eResources website:<http://eresources.nlb.gov.sg/>
+[^3]: Tan, B., & Ng, S. (2015). [*Lives of the artists: A Singapore story: The Cultural Medallion and visual arts 1979–2015*](https://www.nlb.gov.sg/biblio/202364796). Singapore: Nanyang Academy of Fine Arts, p. 359. (Call no.: RSING 709.5957 TAN)
+[^4]: Cai, M. Z. (1988). [*Chua Mia Tee, 1988*](https://www.nlb.gov.sg/biblio/4740697). Singapore: National Museum, [n.p.]. (Call no.: RSING 759.95957074 CHU)
+[^5]: Autobiographies in art. (1991, 2nd Qtr.). [*Goodwood Journal*](https://www.nlb.gov.sg/biblio/4818488), 15. (Call no.: RSING 052 GHCGJ); Cai, M. Z. (1988).[*Chua Mia Tee, 1988*](https://www.nlb.gov.sg/biblio/4740697). Singapore: National Museum, [n.p.]. (Call no.: RSING 759.95957074 CHU); [Page 17 advertisements column 2](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19741124-1.2.58.2.aspx). (1974, November 24). *New Nation*, p. 17. Retrieved from NewspaperSG.
+[^6]: Cai, M. Z. (1988). [*Chua Mia Tee, 1988*](https://www.nlb.gov.sg/biblio/4740697). Singapore: National Museum, [n.p.]. (Call no.: RSING 759.95957074 CHU)
+[^7]: Autobiographies in art. (1991, 2nd Qtr.). [*Goodwood Journal*](https://www.nlb.gov.sg/biblio/4818488), 14. (Call no.: RSING 052 GHCGJ)
+[^8]: Low, K. T. (Ed.). (2006). [*Who’s who in Singapore 2006*](https://www.nlb.gov.sg/biblio/12648149). Singapore: Who’s Who Pub., p. 117. (Call no.: RSING 920.05957 WHO)
+[^9]: Autobiographies in art. (1991, 2nd Qtr.). [*Goodwood Journal*](https://www.nlb.gov.sg/biblio/4818488), 27. (Call no.: RSING 052 GHCGJ)
+[^10]: Tan, B., Ng,S. (2015). [*Lives of the artists: A Singapore story: The Cultural Medallion and visual arts 1979–2015*](https://www.nlb.gov.sg/biblio/202364796). Singapore: Nanyang Academy of Fine Arts, p. 216. (Call no.: RSING 709.5957 TAN); Lee, R., Leong, W. K., & Martin, M. (2015, October 17). 4 awarded Cultural Medallion. *Channel NewsAsia*. Retrieved from Factiva via NLB’s eResources website: <http://eresources.nlb.gov.sg/>
+[^11]: Yusof, H. (2015, December 25). Singapore art in the global spotlight. *The Business Times*. Retrieved from Factiva via NLB’s eResources website: <http://eresources.nlb.gov.sg/>
