@@ -37,7 +37,7 @@ Piyadasa identifies 1938 to 1965 as the golden period of the Nanyang art movemen
             <img style="width:150px" src="/images/arts/visualarts/nanyang-artists/pameran-retrospektif-pelukis-pelukis-nanyang.JPG ">
         </td>
         <td>
-            Muzium Seni Negara (1979). <a href="https://www.nlb.gov.sg/biblio/4125450"> Pameran Retrospektif Pelukis-Pelukis
+            Muzium Seni Negara (1979). <a href="https://www.nlb.gov.sg/biblio/4125450"> Pameran retrospektif pelukis-pelukis
 					Nanyang</a>. Kuala Lumpur: Muzium Seni Negara. (Call no.: RSING Malay 759.959 PAM) <br>
 <br>
             Written in Malay and English, this catalogue highlights a seminal exhibition at the Muzium Seni Negara in Malaysia in 1979 and includes essays by art historians Redza Piyadasa and T.K. Sabapathy on the Nanyang art movement. The practices of artists such as Chen Chong Swee, Chen Wen Hsi, Cheong Soo Pieng, Georgette Chen, and Lim Hak Tai are also briefly discussed.
@@ -78,12 +78,12 @@ beginnings of the Nanyang art style.
             <img style="width:150px" src="/images/arts/visualarts/nanyang-artists/from-ritual-to-romance.JPG">
         </td>
         <td>
-            Singapore Art Museum (1994). <a href="https://www.nlb.gov.sg/biblio/67925882">From ritual to romance: Paintings
+            Singapore Art Museum (1994). <a href="https://www.nlb.gov.sg/biblio/6792588">From ritual to romance: Paintings
 					inspired by Bali</a>. Singapore: Singapore Art Museum. (Call no.: RSING 759.9598 SIN)
 <br> <br>
 This is a catalogue of works inspired by Bali, and painted by Balinese
 artists, other Indonesian artists, foreign artists, and 4 Singapore artists – Chen
-Chong Swee, Chen Wen Hsi, Cheong Soo Pieng and Liu Kang. Three
+Chong Swee, Chen Wen Hsi, Cheong Soo Pieng, and Liu Kang. Three
 articles, with translations in Malay, discuss the inspiration for the arts in
 Bali and Bali as a visual source in Singapore art.
         </td>
@@ -136,7 +136,7 @@ Art historian T.K. Sabapathy has written extensively on Singapore art for severa
         <td>
             Low, S.W. (Ed.). (2015). <a href="https://www.nlb.gov.sg/biblio/202122304"> Siapa nama kamu? Art in Singapore since the 19th century</a>. Singapore: National Gallery Singapore. (Call no.: 709.5957074 SIA)
 <br> <br>
-This catalogue was published to accompany the inaugural exhibition Siapa Nama Kamu? at the National Gallery Singapore in 2015 and features curatorial essays on various topics in Singapore art, including Ong Zhen Min’s “Nanyang Reverie.”
+This catalogue was published to accompany the inaugural exhibition *Siapa Nama Kamu?* at the National Gallery Singapore in 2015 and features curatorial essays on various topics in Singapore art, including Ong Zhen Min’s “Nanyang Reverie.”
         </td>
     </tr>
 		<tr>
@@ -208,7 +208,7 @@ Sabapathy, T.K. (February 1983). Modern art in Singapore: Pioneers and premises.
 
 Sabapathy, T.K. (1995). Bali revisited. [*The Arts*](https://www.nlb.gov.sg/biblio/7448591), April 1995, 1(1), 12-18. Call no.: RSING 700.5 A
 
-* The author examines Chen Chong Swee, Chen Wen Hsi, Cheong Soo Pieng and Liu Kang’s landmark 1952 Bali trip, with a critical appraisal of some of the artists’ works. 
+* The author examines Chen Chong Swee, Chen Wen Hsi, Cheong Soo Pieng, and Liu Kang’s landmark 1952 Bali trip, with a critical appraisal of some of the artists’ works. 
 
 Sabapathy, T.K. (1980, October 4). [Traditions and modernity: The Nanyang artists I](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19801004-1.2.143.12). *The Straits Times*,
 Section Two, p.6-7.
@@ -236,9 +236,9 @@ Sabapathy, T.K. (1981, December 6). [Nanyang artists and their style](http://ere
 
 * The characteristics of Chinese painting traditions and the School of Paris are introduced in this article in relation to the Nanyang style.
 
-Cheah, U.H. (2013, August 23). [An insight into Singapore’s Nanyang art period](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20130823-1.2.45.4.3.). *Business Times*. 
+Cheah, U.H. (2013, August 23). [An insight into Singapore’s Nanyang art period](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20130823-1.2.45.4). *Business Times*. 
 
-* This article introduces the exhibition at the NUS Museum titled Between Here and Nanyang: Marco Hsu’s Brief History of Malayan Art. It provides a brief overview of Marco Hsu’s book and the Nanyang style of art.
+* This article introduces the exhibition at the NUS Museum titled *Between Here and Nanyang: Marco Hsu’s Brief History of Malayan Art*. It provides a brief overview of Marco Hsu’s book and the Nanyang style of art.
 
 Kwok, K.C. (undated). [The Bali Field Trip, Liu Kang, Chen Chong Swee, Chen Wen Hsi and Cheong Soo Pieng](http://www.postcolonialweb.org/singapore/arts/painters/channel/12.html). Retrieved 2021, November 1.
 
@@ -254,11 +254,11 @@ Martin, M. (2010, March 16). [Beyond Bali](http://eresources.nlb.gov.sg/newspape
 
 #### Academic writing
 
-Tan, M.K. (1997). [*The evolution of the Nanyang art style: A study in the search for an artistic identity in Singapore, 1930-1960*](https://www.nlb.gov.sg/biblio/9766875) (Master’s thesis, Hong Kong University of Science and Technology). (Call no.: RSING q709.5957 TAN; also accessible at https://lbezone.ust.hk/bib/b538296)
+Tan, M.K. (1997). [*The evolution of the Nanyang art style: A study in the search for an artistic identity in Singapore, 1930-1960*](https://www.nlb.gov.sg/biblio/9766875) (Master’s thesis, Hong Kong University of Science and Technology). (Call no.: RSING q709.5957 TAN; also accessible [here](https://lbezone.ust.hk/bib/b538296).)
 
 * This thesis studies the reasons and events behind the evolution of the Nanyang Art Style in Singapore, from 1930 to 1960. It is divided into two parts: the first covers the history of the country and the other analyses the art style itself.
 
-Teo, L.K. (2011). [*Defining the Nanyang style in painting*](https://www.nlb.gov.sg/biblio/1368361)* (Master’s thesis, LASALLE College of the Arts, Singapore). (Call no.: 759.95957 TEO)
+Teo, L.K. (2011). [*Defining the Nanyang style in painting*](https://www.nlb.gov.sg/biblio/201148673) (Master’s thesis, LASALLE College of the Arts, Singapore). (Call no.: 759.95957 TEO)
 
 * This thesis attempts to define the Nanyang style in painting by applying the scholarships of Meyer Schapiro and Judith Genova on the subject of style.
 
@@ -286,12 +286,12 @@ All Rights Reserved. National Library Board Singapore 2021.
 
 #### References
 
-[^1]: Ong, Z.M. (2015). “Nanyang Reverie.” In Siapa nama kamu: Art in Singapore since the 19th century. Singapore: National Gallery Singapore, p. 42.
-[^2]: Piyadasa, R. (1979). The Nanyang Academy of Fine Arts. In Pameran retrospektif pelukis-pelukis Nanyang. Kuala Lumpur: Muzium Seni Negara, p. 28.
-[^3]: Sabapathy, T.K. (1979). The Nanyang artists: Some general remarks. In Pameran retrospektif pelukis-pelukis Nanyang, Kuala Lumpur: Muzium Seni Negara, p. 44.
+[^1]: Ong, Z.M. (2015). “Nanyang Reverie.” In *Siapa nama kamu: Art in Singapore since the 19th century*. Singapore: National Gallery Singapore, p. 42.
+[^2]: Piyadasa, R. (1979). The Nanyang Academy of Fine Arts. In *Pameran retrospektif pelukis-pelukis Nanyang*. Kuala Lumpur: Muzium Seni Negara, p. 28.
+[^3]: Sabapathy, T.K. (1979). The Nanyang artists: Some general remarks. In *Pameran retrospektif pelukis-pelukis Nanyang*. Kuala Lumpur: Muzium Seni Negara, p. 44.
 [^4]: Ong. p. 45-46.
-[^5]: Ong. p. 46
-[^6]: Sabapathy. p. 44
+[^5]: Ong. p. 46.
+[^6]: Sabapathy. p. 44.
 [^7]: Piyadasa. p. 7.
 [^8]: Piyadasa. p. 6.
-[^9]: Ong. p. 51
+[^9]: Ong. p. 51.
