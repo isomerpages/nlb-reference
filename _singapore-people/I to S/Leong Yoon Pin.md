@@ -7,9 +7,6 @@ third_nav_title: I to S
 published: true
 description: ""
 ---
-
-
-
 ### <u>Guide Index</u>
 
 * [Introduction](#introduction)
@@ -112,7 +109,7 @@ Call no.: No holdings in NL (Available in NIE Library)
 This is essentially a survey-based evaluation of the revised 1984 music text Active Approach to Music-Making (Module 1) for local primary schools. A questionnaire was answered by seventy teachers from twenty eight Pilot and Non-Pilot schools and the findings were published in this book.
 
 
-* Tan, B. (2002). Sounding board: Music and cultural heritage. In V. Purushothaman (Ed.), [Narratives: Notes on a cultural journey: Cultural medallion recipients 1979 – 2001](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11769181) (pp.80-83). Singapore: National Arts Council.
+* Tan, B. (2002). Sounding board: Music and cultural heritage. In V. Purushothaman (Ed.), [Narratives: Notes on a cultural journey: Cultural medallion recipients 1979 – 2001](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11769181) (pp. 80-83). Singapore: National Arts Council.
 Call no.: RSING 700.95957 NAR
 
 Tan briefly traces the musical beginnings of Singapore, providing a context to the awarding of the Cultural Medallion for musicians from the first winners Choo Hoey and David Lim Kim San in 1979, to the first composer Leong Yoon Pin in 1982, and others. In addition, choral music, Asian music cultures, and Singapore’s musical future are broached.
@@ -869,7 +866,7 @@ This is the programme booklet for the “New Music Forum” concert held on 14 N
 
 <b><u>Accessing the Print Materials</u></b>
 
-You can search the library catalogue (for physical materials) in the library and from home (http://catalogue.nlb.gov.sg). The easy search function allows you to search/browse by author, title, keyword, subject and ISBN/ISSN whereas the advanced search allows you to narrow your searches to specific media types or language holdings. In both instances, you will also be able to limit your search to specific libraries by clicking on the “limit by branch” option.
+You can search the library catalogue (for physical materials) in the library and from home (<http://catalogue.nlb.gov.sg>). The easy search function allows you to search/browse by author, title, keyword, subject and ISBN/ISSN whereas the advanced search allows you to narrow your searches to specific media types or language holdings. In both instances, you will also be able to limit your search to specific libraries by clicking on the “limit by branch” option.
 
 **To search Lee Kong Chian Reference Library’s Holdings**
 

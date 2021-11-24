@@ -6,8 +6,6 @@ collection_name: singapore-people
 third_nav_title: A to H
 published: true
 ---
-
-
 ### <u>Guide Index</u>
 
 * [Introduction](#introduction)
@@ -23,7 +21,7 @@ published: true
 
 Chua Ek Kay (1947–2008) was a Singaporean visual artist and a Cultural Medallion recipient for Visual Arts in 1999. Chua worked primarily with ink as a paint medium and his works both constituted and later departed from the Chinese ink painting tradition. His iconic works include Song of the Cicada (1995), Street Scene at Jalan Sultan (1997), After the Rain (2004), and Morning Breeze in Early Summer (2006).
 
-<img src="/images/arts/visualarts/Chua-Ek-Kay.jpg" alt="Chua ek kay image" style="width:500px;" />
+<img style="width:500px;" alt="Chua ek kay image" src="/images/arts/visualarts/Chua-Ek-Kay.jpg">
 
 Chua Ek Kay<br>
 Chua Ek Kay (Half-Length Portrait).<br>
@@ -33,7 +31,7 @@ Retrieved from PictureSG.
 
 Born in China in 1947 but raised in Singapore from the age of six following his family’s relocation in the early 1950s, Chua was first introduced to Chinese aesthetics when he began learning Chinese calligraphy from his father at seven years old. He subsequently studied Chinese ink painting under Fan Chang Tien, a maestro whose artistic inclinations were resolutely that of the Shanghai School’s, in 1975 until Fan’s death in 1987. While Chua began teaching Chinese calligraphy and ink painting at the National University of Singapore’s now-defunct Extramural Studies Department in 1987, he did not, however, pursue a professional full-time career in fine art until the enthusiastic reception to his first solo exhibition, A Selection of Chua Ek Kay’s Chinese Brush Paintings, in 1988 ascertained the viability of such an option. Chua later enrolled in higher education to refine and further develop his craft—he graduated with an Advanced Diploma in Painting from LaSalle College of the Arts, Singapore in 1990 and a Master of Arts (Honours) in Visual Arts from the University of Western Sydney, Australia in 1995.
 
-Following the success of Chinese Brush Paintings, Chua has held multiple solo exhibitions, such as Street Scene by Chua Ek Kay at Art Affairs in 1990 and Duality & Tension at the National Museum Art Gallery in 1992, and participated in just as many group exhibitions. He was the grand prize winner at the 10th United Overseas Bank Painting of the Year competition in 1991—the first Chinese ink painter to do so; he received a Distinction Award at the same competition the year before. Chua also won the Philip Morris ASEAN Arts Award (Juror’s Choice) in 1998 and secured a National Arts Council scholarship for practicing artists in 1993. In 1999, he received the prestigious Cultural Medallion for Visual Arts.
+Following the success of Chinese Brush Paintings, Chua has held multiple solo exhibitions, such as Street Scene by Chua Ek Kay at Art Affairs in 1990 and Duality &amp; Tension at the National Museum Art Gallery in 1992, and participated in just as many group exhibitions. He was the grand prize winner at the 10th United Overseas Bank Painting of the Year competition in 1991—the first Chinese ink painter to do so; he received a Distinction Award at the same competition the year before. Chua also won the Philip Morris ASEAN Arts Award (Juror’s Choice) in 1998 and secured a National Arts Council scholarship for practicing artists in 1993. In 1999, he received the prestigious Cultural Medallion for Visual Arts.
 
 Chua’s body of work is arguably most notable for its renovation of conventional Chinese ink principles in both form and content, as informed and imparted by his transnational/cosmopolitan impulses (evidenced in his multiple excursions to locations such as Australia, India, Nepal, and Indonesia): for instance, his works deploy more colour than dictated by Chinese ink tradition and his subject matter incorporates local material, as attested to by his Chinatown series. This could perhaps be apprehended as an endeavour to reframe the practice as a Singaporean aesthetic. That Chua is inspired by Western artists such as Picasso and Matisse counterbalances his training in Chinese art; his oeuvre consequently communicates a distinctive synthesis of Chinese and Euro-American artistic traditions.
 
@@ -42,7 +40,7 @@ Chua passed away in 2008 and is survived by his wife and his son. In 2015, the n
 | **Search Terms** | **Call Number** |
 | The Arts | 700 |
 | The Arts: History, Biography | 709 |
-| Painting & Paintings | 750 |
+| Painting &amp; Paintings | 750 |
 | Paintings: History, Biography | 759 |
 
 
@@ -85,7 +83,7 @@ Call no.: RSING q709.59 SOU
 Includes a concise introduction to Chua as a Singaporean artist, an artist’s statement, and a brief timeline of key events in his career such as major solo and group exhibitions; accompanied by colour reproductions of three of his works: Backyard of an Old Shop House (1988), Lotus Pond—Space of Stillness Beyond (1996), and Dream of Borobudur (1996).
 
 
-* Kwok, K. C. (1996). [Channels & confluences: A history of Singapore art](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7628104). Singapore: Singapore Art Museum, National Heritage Board.
+* Kwok, K. C. (1996). [Channels &amp; confluences: A history of Singapore art](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7628104). Singapore: Singapore Art Museum, National Heritage Board.
 Call no.: RSING 709.5957 KWO
 
 Briefly references Chua as a member of a new faction of Singaporean ink painters who, in evincing a preference for regional/local subject material and an intercultural orientation, further the work of their spiritual forebears such as Chen Chong Swee. Chua’s Corner House (1988) is reproduced here in colour to endorse Kwok’s thesis.
@@ -103,7 +101,7 @@ Call no.: RSING 759.95957 CHU
 Bilingual text in English and Chinese (Simplified) published in conjunction to the similarly-titled exhibition held in honour of Chua at the National Gallery from 26 November 2015 to 3 May 2016. Five critical and art historical essays on Chua are included along with multiple full-colour plate reproductions of Chua’s oeuvre and a comprehensive biographical timeline of his life and artistic career.
 
 
-* Nadarajan, G., Storer, R. & Tan, E. (2007). [Contemporary art in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12872941). Singapore: Institute of Contemporary Arts Singapore.
+* Nadarajan, G., Storer, R. &amp; Tan, E. (2007). [Contemporary art in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12872941). Singapore: Institute of Contemporary Arts Singapore.
 Call no. RSING 709.59570905 GUN
 
 Nadarajan’s two-column write-up on Chua examines the diasporic registers of Chua’s art and its incisive appropriation of established artistic traditions, such as the erstwhile unrealized liberal deployment of colour in Chinese brush painting. A short timeline is included along with full-page colour reproductions of Chua’s Song of the Cicada (1995) and A Distant Landscape (2002), which give force to Nadarajan’s thesis.
@@ -157,7 +155,7 @@ Call no.: RSING 700. 95957 NAR
 Contains a brief but informative two-column biography on Chua and introduction to his artistic career and persuasions, such as the Buddhist dimensions undergirding his works. Includes a photograph of Chen as well as reproductions of three of ink artworks from the Singapore Art Museum and Merrill Lynch collections.
 
 
-* Singapore Art Museum (1998). [Fan Chang Tien: His art & passion [范昌乾遗作暨范门桃李]](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84464655). Singapore: Author.
+* Singapore Art Museum (1998). [Fan Chang Tien: His art &amp; passion [范昌乾遗作暨范门桃李]](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84464655). Singapore: Author.
 Call no.: RSING Chinese 759.95957 FCT
 
 Bilingual (English and Simplified Chinese) exhibition catalogue for an exhibition featuring works by Fan and his students such as Chua held at the Singapore Art Museum. Includes a curatorial essay by Chua that considers Fan’s formal aesthetics as well as their mentor-mentee relationship.
@@ -199,7 +197,7 @@ Call no.: RSING 759.95957 CHU
 A revisitation of the late Chua, who served two residencies at the Tyler Print Institute (see entries above), featuring tribute essays by Kwok Kian Chow and Lindy Poh that examine the refinement of his artistic sensibilities throughout his career, especially in relation to the Chinese brushwork tradition, as well as his work produced during his residencies in terms of his tropes, techniques, and formal approaches. Some 30-odd of his works dating from 1987 to 2002 are reprinted here in colour.
 
 
-* Tan, B. T. & Ng, S. (2015). [Lives of the artists, a Singapore story: The Cultural Medallion and visual arts, 1979–2015](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202364796). Singapore: Nanyang Academy of Fine Arts (Commissioned by the National Arts Council and supported by the Ministry of Culture, Communication, and Youth).
+* Tan, B. T. &amp; Ng, S. (2015). [Lives of the artists, a Singapore story: The Cultural Medallion and visual arts, 1979–2015](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202364796). Singapore: Nanyang Academy of Fine Arts (Commissioned by the National Arts Council and supported by the Ministry of Culture, Communication, and Youth).
 Call no.: RSING 709.5957 TAN
 
 A volume on Cultural Medallion awardees and a means to chart and take stock of Singapore’s cultural and artistic trajectory to date. Identifies Chua, recipient of the award in 1999, as an artist who integrates language and art and whose transnational orientation, which precipitated in study and research visits to China, Australia, and the like, informs his artistic approach, as evidenced in its syncretic overtones. Also featured in a brief explication of the Shanghai school of ink painting, of which he was formally/formerly trained in. Colour reproductions of several works such as Awaiting a Dragonfly (2002), Dunhuang (1981), and Still Life—Orchid 4 (1999) are included.
@@ -369,7 +367,7 @@ Advertises and reviews the joint exhibition, New Works by Kuan Soong and Chua Ek
 
 * Sabapathy, T. K. (1992, September 10). [Breaking barriers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19920910-1.2.62.4.2.aspx). The Straits Times, p. 6. Retrieved from NewspaperSG.
 
-Reviews Chua’s solo exhibition, Duality & Tension: Recent Paintings, held after his win of the grand prize at the United Overseas Bank Painting of the Year award (as is customary of champions). Identifies several works, such as My Haunt (1991), the winning entry, as signalling a new pinnacle in Chua’s artistic maturity.
+Reviews Chua’s solo exhibition, Duality &amp; Tension: Recent Paintings, held after his win of the grand prize at the United Overseas Bank Painting of the Year award (as is customary of champions). Identifies several works, such as My Haunt (1991), the winning entry, as signalling a new pinnacle in Chua’s artistic maturity.
 
 
 * Sabapathy, T. K. (1993, June 4). [Historical journey in Chinese ink](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19930604-1.2.73.4.10.aspx). The Straits Times, p. 19. Retrieved from NewspaperSG.
@@ -429,7 +427,7 @@ Reviews the 1991 United Overseas Bank Painting of the Year competition, where Ch
 
 * Wong, S. (1994, March 26). [Eclectic selection, but some promising works](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19940326-1.2.153.5.2.aspx). The Straits Times, p. 20. Retrieved from NewspaperSG.
 
-Reviews the large-scale group exhibition, Rhythm & Vitality, at the Empress Place Art Gallery. Chua’s works were amongst the 400-odd featured; his Bicycle along Pavement (1993) is reproduced here in black-and-white.
+Reviews the large-scale group exhibition, Rhythm &amp; Vitality, at the Empress Place Art Gallery. Chua’s works were amongst the 400-odd featured; his Bicycle along Pavement (1993) is reproduced here in black-and-white.
 
 
 * Yap, S. (2008, May 18). [Late artist’s works donated to museum](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20080518-1.2.6.7.aspx). The Straits Times, p. 5. Retrieved from NewspaperSG.
@@ -441,59 +439,48 @@ Reports on Chua’s widow’s decision to gift a “representative collection”
 
 Feature article on Chua’s artistic practices and sensibilities following his win at the 1991 United Overseas Bank Painting of the Year competition; includes a photograph of him with his winning entry, My Haunt (1991).
 
-
 ### <u>Websites</u>
 (listed in alphabetical order)
 
- 
-
 * Chua Ek Kay. (2012). Chuaekkayfilm. Retrieved March 9, 2016, from the Second Avenue Productions website: 
-http://www.secondavenueproductions.com/chuaekkayfilm/home/
+
 
 Online portal for the Second Avenue Productions-produced feature documentary on the late Chua’s artistic career. Includes a film synopsis, a brief introduction to the artist, regular film updates, and an option to purchase the film.
 
-
 * Chan Hampe Galleries. (2015). Chua Ek Kay. Retrieved March 9, 2016, from the Chan Hampe Galleries website:
-http://www.chanhampegalleries.com/chua-ek-kay
+
 
 Online webpage for a solo exhibition featuring Chua’s Archipelago series organised and held at the Chan Hampe Galleries, Singapore between 9 July 2015 and 8 August 2015. Provides a brief introduction to Chua, critically approaches a selection of his works featured at the exhibition, and accesses the means by which Chua’s oeuvre coheres with the foundational tenets of traditional Chinese ink painting.
 
-
 * Chua Ek Kay. (2000, April). Retrieved March 9, 2016, from the Postcolonial Web website:
-http://www.postcolonialweb.org/singapore/arts/painters/chuaekkay/index.html
+
 
 From the Singaporean chapter of the Postcolonial Web, maintained by the University Scholars Programme at the National University of Singapore. Contains a link to an image of Chua’s Corner House (1988), one of his most exemplary works.
 
-
 * National Gallery Singapore. (2015). Chua Ek Kay: After the rain. Retrieved March 9, 2016, from the National Gallery Singapore website:
-https://www.nationalgallery.sg/see-do/programme-detail/34/chua-ek-kay-after-the-rain
+
 
 Exhibition website for the National Gallery-organised and -hosted large-scale solo exhibition of Chua’s works from 26 November 2015 to 3 May 2016, structured around the thematic rubric of water. Explicates the exhibition’s theme and announces other programme and logistical information.
-
 
 * National Library Board. (2002). [Chua Ek Kay](http://eresources.nlb.gov.sg/infopedia/articles/SIP_431_2005-01-14.html), written by Nureza Ahmad. Retrieved March 9, 2016, from Singapore Infopedia.
 
 An Infopedia resource that concisely chronicles Chua’s early life and subsequent professional career as a full-time artist; includes a biographical timeline and list of awards conferred as well.
 
-
 * Singapore Tyler Print Institute (STPI). (n.d.). Chua Ek Kay. Retrieved March 9, 2016, from the STPI website:
-http://www.stpi.com.sg/artist_chuaekkay.htm
+
 
 Provides an introduction to the artist, image links to selected works mounted at galleries, and key press release statements.
 
 
 * Trailer—Being and becoming Chua Ek Kay. (2013, July 25). Retrieved March 9, 2016, from the YouTube website:
-https://www.youtube.com/watch?v=Acs67EmSYSo
 
-A three-minute-odd trailer for the Second Avenue Productions documentary on Chua (see above entry titled “Being & becoming: Chua Ek Kay”).
 
+A three-minute-odd trailer for the Second Avenue Productions documentary on Chua (see above entry titled “Being &amp; becoming: Chua Ek Kay”).
 
 ### <u>Audio-Visual Materials</u>
 (listed in alphabetical order)
 
- 
-
-* [Chua Ek Kay, Cultural Medallion recipient 1999 (Visual Arts)](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13232608). (2008). \[Videotape\]. Singapore: Ken Cheong (on behalf of Singapore Art Museum for National Library Board, in collaboration with National Arts Council Singapore).
+ * [Chua Ek Kay, Cultural Medallion recipient 1999 (Visual Arts)](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13232608). (2008). \[Videotape\]. Singapore: Ken Cheong (on behalf of Singapore Art Museum for National Library Board, in collaboration with National Arts Council Singapore).
 Call no.: RSING 759.95957 CHU
 
 17-minute video chronicling Chua’s artistic development/maturation throughout his career. Excavates the influences and inspiration that motivate Chua’s art and details his art training and his formal techniques and strategies such as his synthesis of Chinese and Western artistic traditions. Chua’s Street Scene, Lotus Pond, Reflections, and Grass Series, along with photographs of urban Singapore from which Chua translated into his paintings, are included.
@@ -551,7 +538,7 @@ In the final reel of seven, Lim articulates his opinions on the Singaporean art 
 
 <b><u>Accessing the Print Materials</u></b>
 
-You can search the library catalogue (for physical materials) in the library and from home (http://catalogue.nlb.gov.sg). The easy search function allows you to search/browse by author, title, keyword, subject and ISBN/ISSN whereas the advanced search allows you to narrow your searches to specific media types or language holdings. In both instances, you will also be able to limit your search to specific libraries by clicking on the “limit by branch” option.
+You can search the library catalogue (for physical materials) in the library and from home (). The easy search function allows you to search/browse by author, title, keyword, subject and ISBN/ISSN whereas the advanced search allows you to narrow your searches to specific media types or language holdings. In both instances, you will also be able to limit your search to specific libraries by clicking on the “limit by branch” option.
 
 **To search Lee Kong Chian Reference Library’s Holdings**
 
