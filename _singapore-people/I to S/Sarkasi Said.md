@@ -4,6 +4,8 @@ permalink: /guides/singapore/people/sarkasi-said/
 description: ""
 third_nav_title: I to S
 ---
+# Sarkasi Said
+
 **Sarkasi bin Said** (b. 27 March 1940, Singapore–d. 14 October 2021, Singapore), who went by the artist name Tzee, was an internationally renowned Singaporean batik painter.[^i] The artist was noted for his unconventional use of a wax-resisting technique for batik painting, his bold use of colours and his frequent depictions of nature.[^ii] In May 2003, Sarkasi’s 103-metre batik painting set a Guinness World Record for the world’s longest batik painting.[^iii]
 
 Sarkasi’s exposure to batik art came during his formative years. However, he began to develop a serious interest after he saw an Italian artist’s exhibition in Singapore in the 1960s. As a Javanese, he felt that it was important that he return to his cultural roots, and focus on batik art because of its significance in Malay culture.[^iv] To deepen his knowledge and understanding , he travelled extensively in the region to learn from the batik printing centres.[^v]
@@ -63,3 +65,5 @@ This resource guide was prepared in November 2021 by Juffri Supa’at, Senior Li
 - Mohamed Noh Daipi (2020). [Bicara budiman Sarkasi Said / wawancara dan susunan, Mohamed Noh Daipi dan Rahmat Subadah](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205289434). Singapura : Pusat Bahasa Melayu Singapura (Malay Language Centre of Singapore), Akademi Guru Singapura, Kementerian Pendidikan Singapura, 2020. (Call no: 899.280928 BIC)
 
 - Sarkasi Said (1991). [Introspection / Tzee Sarkasi](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6189997). [Singapore : Tzee Creation], 1991. (Call no: 759.95957 SAR)
+
+### References

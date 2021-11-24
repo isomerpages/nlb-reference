@@ -4,6 +4,8 @@ permalink: /guides/singapore/people/chua-mia-tee/
 description: ""
 third_nav_title: A to H
 ---
+# Chua Mia Tee
+
 Chua Mia Tee (b. 25 November 1931, Shantou, Guangdong, China) is one of Singapore’s foremost realist painters. Born in Shantou, Guangdong province, China, in 1931, Chua was six years old when he came to Singapore in 1937. He was a student at Shuqun School and then Tuan Mong School. In 1947, he enrolled in Chung Cheng High School but left school midway to pursue a formal arts education at the Nanyang Academy of Fine Arts (NAFA). [^1]
 
 At NAFA, he received training in drawing, sketching with watercolour and painting, both with oils on canvas and with Chinese ink and colours on paper. He was taught by the academy’s director Lim Hak Tai as well as artists Cheong Soo Pieng, Koh Tong Leong, and See Hiang To. He graduated from NAFA in 1952. [^2]

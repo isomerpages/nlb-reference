@@ -4,16 +4,13 @@ permalink: /guides/singapore/people/wong-yoon-wah/
 description: ""
 third_nav_title: T to Z
 ---
+# Wong Yoon Wah
+
 <img style="width:500px;" alt="Wong Yoon Wah image" src="/images/arts/soar/CMR_Wong_Yoon_Wah.jpg">
 
-**Wong Yoon Wah** (b. 13 August 1941, Perak, Malaysia–) is one of the few Singaporeans who excel as an international poet, critic and scholar.[^1] Prolific in both creative and academic writing, Wong has published more than 20 collections of prose, poetry, and academic writings on Chinese and comparative literature in Chinese and English.[^2] For his commitment to promoting literature regionally, Wong was awarded the Southeast Asia Write Award (1984), the [Cultural Medallion](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1867_2012-01-30.html) (1986), and the ASEAN Cultural Award (1993).[^3]
+**Wong Yoon Wah** (b. 13 August 1941, Perak, Malaysia–) is one of the few Singaporeans who excel as an international poet, critic and scholar.[^1] Born in Malaysia in 1941, Wong studied English literature at Taiwan's National Chengchi University, before pursuing his Doctor of Philosophy degree in Chinese literature at the University of Wisconsin in Madison, USA.[^4] Following the completion of his doctoral studies, he came to Singapore in 1973 to teach at Nanyang University, and later became the head of the Department of Chinese Studies at the National University of Singapore (NUS).[^5] 
 
-### Education and career
-
-Born in Malaysia in 1941, Wong studied English literature at Taiwan's National Chengchi University, before pursuing his Doctor of Philosophy degree in Chinese literature at the University of Wisconsin in Madison, USA.[^4] Following the completion of his doctoral studies, he came to Singapore in 1973 to teach at [Nanyang University](http://eresources.nlb.gov.sg/infopedia/articles/SIP_91_2005-02-02.html), and later became the head of the Department of Chinese Studies at the [National University of Singapore](National University of Singapore) (NUS).[^5] 
-
-In 2002, Wong was appointed Dean of the College of Humanities and Social Sciences at Taiwan's Yuan Ze University, where he had served as the university's Faculty Professor of Chinese Language and Literature as well as Director of International Language and Culture Centre. He is currently Chair Professor and Senior Vice President of Malaysia’s Southern University College.[^6]
-
+Prolific in both creative and academic writing, Wong has published more than 20 collections of prose, poetry, and academic writings on Chinese and comparative literature in Chinese and English.[^2] For his commitment to promoting literature regionally, Wong was awarded the Southeast Asia Write Award (1984), the [Cultural Medallion](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1867_2012-01-30.html) (1986), and the ASEAN Cultural Award (1993).[^3]
 
 [^1]: The Esplanade Co Ltd. (2018). *Wong Yoon Wah*. Retrieved 2018, April 2 from Esplanade Theatres on the Bay website: <http://www.esplanade.com/tributesg/literary-arts/wong-yoon-wah>
 
@@ -25,11 +22,9 @@ In 2002, Wong was appointed Dean of the College of Humanities and Social Science
 
 [^5]: National University of Singapore. (2008, September 18). 王润华 [Wong Woon Wah]. Retrieved 2018, April 2 from National University of Singapore Libraries website: <http://www.lib.nus.edu.sg/chz/chineseoverseas/oc_wangrh.htm>; Southern University College. (2013, March). *President office*. Retrieved 2018, April 2 from Southern University College website: <http://www.southern.edu.my/chinese/administration/wongvitae.html>
 
-[^6]: Southern University College. (2013, March). *President office*. Retrieved 2018, April 2 from Southern University College website: <http://www.southern.edu.my/chinese/administration/wongvitae.html>
+This guide provides supplementary resources for those who are keen to further explore the books and other reference resources. You can also visit <https://search.nlb.gov.sg/> to search for more resources.
 
-This guide provides supplementary resources for those who are keen to further explore the books and other reference resources on Professor Wong Yoon Wah. You can also visit <https://search.nlb.gov.sg/> to search for more resources. If you would like to view other resource guides created by our librarians, please visit <https://reference.nlb.gov.sg>.
-
-This resource guide was prepared in November 2021 by Michelle Heng, a Librarian at the National Library, Singapore.
+The above introduction is adapted from the Infopedia entry on [Wong Yoon Wah](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1400_2008-12-16.html). This resource guide was prepared in November 2021 by Michelle Heng, a Librarian at the National Library, Singapore.
 
 ### Books
 
@@ -67,3 +62,5 @@ This resource guide was prepared in November 2021 by Michelle Heng, a Librarian 
 
 - **王润华词，李德华曲 - *根*  (2010)**. 
 [花葩山 : 新加坡歌曲创作/Songs by Singapore composers](https://eservice.nlb.gov.sg/item_holding.aspx?bid=264951247) 新加坡: 教育出版社私营有限公司/ Xinjiapo : Jiao yu chu ban she si ying you xian gong si  (Call No.: RAV 782.42095957 SON)
+
+### References

@@ -7,9 +7,7 @@ third_nav_title: I to S
 published: true
 description: ""
 ---
-
-
-
+# Lim Tze Peng
 
 ### <u>Guide Index</u>
 
@@ -27,7 +25,7 @@ description: ""
 
 Born on September 28, 1921 in Singapore, Lim Tze Peng is recognised as one of Singapore’s most pre-eminent visual artists, particularly within the Chinese ink and calligraphic tradition, and a second-generation member of the Nanyang Artists. Over the course of his long artistic career which started in the 1950s (alongside his equally impressive tenure in the education service as the principal of Xinmin Secondary School), the self-taught and home-grown artist has come to develop a culturally, aesthetically, and critically significant oeuvre. In 2003, Lim was conferred the prestigious Cultural Medallion (Visual Arts) in honour of his centrality in Singapore art and culture. Lim was also the recipient of the Public Administration Medal in 1963 and Public Service Medal in 1981, as well as a Special Prize at the 1977 Commonwealth Art Exhibition. In May 2012, Lim’s "Singapore River Scene" (1978) broke records by fetching HK$620,000 (S$101,800) at a Christie’s auction, which was, at that time, an unsurpassed price for a work by a living Singaporean artist.
 
-<img src="/images/arts/visualarts/Lim-Tze-Peng.jpg" alt="Lim tze peng image" style="width:500px;" />
+<img style="width:500px;" alt="Lim tze peng image" src="/images/arts/visualarts/Lim-Tze-Peng.jpg">
 
 Lim Tze Peng© Lim Tze Peng, 2002–2006. All rights reserved.<br>
 Courtesy of the National Arts Council.<br>
@@ -40,7 +38,7 @@ Lim’s first solo exhibition was mounted in 1970 and he has since participated 
 | **Search Terms** | **Call Number** |
 | The Arts | 700 |
 | The Arts: History, Biography | 709 |
-| Painting & Paintings | 750 |
+| Painting &amp; Paintings | 750 |
 | Paintings: History, Biography | 759 |
 
 
@@ -53,19 +51,19 @@ Lim’s first solo exhibition was mounted in 1970 and he has since participated 
 Exhibition catalogue in accompaniment to Lim’s solo exhibition, Calligraphic Impulses, Ink Mastery, at the Cape of Good Hope Art Gallery in 2009, which showcased about 80 new and old works by Lim. Other than colour replications of the works showcased, the text is also prefaced by a biographical timeline that itemizes Lim’s selected exhibitions, awards accorded, and published collections.
 
 
-* Chua, C. K. & Tan, B. T. (Eds.). (2003). [Tze Peng](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12263533). Singapore: Singapore Art Museum.
+* Chua, C. K. &amp; Tan, B. T. (Eds.). (2003). [Tze Peng](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12263533). Singapore: Singapore Art Museum.
   Call no.: RSING 759.95957 LIM
 
 This exhibition catalogue in both English and Simplified Chinese for the 2003 solo exhibition entitled "Tze Peng" (Zi Ping) hosted by the Singapore Art Museum (SAM). Includes several essays, including one by Mr. and Mrs. Koh Seow Chuan, who donated over 200 works by Lim for the exhibition, and others by curators, fellow artists, and Kwok Kian Chow, director of the SAM. Full-colour reproductions of his works are included, and organised into 11 themes, such as “The Rural Idyll: Bali and Beyond,” “Life in Action: Trade and Tradition,” and “Festive Delights.”
 
 
-* Ho, S. P., Ma, P. Y. & Lee, D. (2014). [Tze Peng: Songs from the heart](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200738123). Singapore: Friends of Lim Tze Peng.
+* Ho, S. P., Ma, P. Y. &amp; Lee, D. (2014). [Tze Peng: Songs from the heart](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200738123). Singapore: Friends of Lim Tze Peng.
   Call no.: RSING 759.95957 HO
 
 A companion text to the 2014 Friends of Lim Tze Peng exhibition held on the grounds of the Singapore Management University, this is arguably one of the most comprehensive monographs or textual resources on Lim and his calligraphic/ink work, in particular. It includes three essays on his artistic career and aesthetic sensibilities in addition to an artist’s biography and over 50 full colour plates of the works mounted at the exhibition.
 
 
-* Hong, J. B. Y. & Mok, J. K. P. (Eds.). (2012). [The art of Lim Tze Peng: A private collection](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201190952). Singapore: ArtSafe.
+* Hong, J. B. Y. &amp; Mok, J. K. P. (Eds.). (2012). [The art of Lim Tze Peng: A private collection](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201190952). Singapore: ArtSafe.
   Call no.: RSING 759.95957 LIN
 
 A catalogue of works by Lim in the private collection of Ong Teng Huat to commemorate the establishment of ArtSafe, an art storage and gallery space, in 2012. Full-colour plate reproductions of Lim’s works are structured by their thematic concerns, such as “Nature,” “Travel,” and “Singapore River,” with each division prefaced by an instructive preamble.
@@ -142,7 +140,7 @@ Published in conjunction with the 2007 solo exhibition at the Cape of Good Hope 
 The primary exhibition catalogue published to accompany the "Siapa nama kamu" exhibition at the National Gallery, Heng Cai’s essay entitled “Tradition Unfettered: The Story of Singapore Ink,” which scrutinises and elaborates on the history of ink and calligraphic painting in Singapore, briefly discusses Lim with reference to his work, "Blacksmith" (1980) and instructively locates him within a larger artistic canon or tradition. A colour plate of the aforementioned work is also included in the catalogue.
 
 
-* Ministry of Culture, Youth & Sports (Negara Brunei Darussalam), the Singapore High Commission in Brunei Darussalam & Sun Craft Fine Art Gallery (Singapore). (1988). [1st Bru-Sin art exhibition 1989: Brunei Museums, Negara Brunei Darussalam, 2 – 17 September 1989](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5832130). Brunei Darussalam & Singapore: Authors.
+* Ministry of Culture, Youth &amp; Sports (Negara Brunei Darussalam), the Singapore High Commission in Brunei Darussalam &amp; Sun Craft Fine Art Gallery (Singapore). (1988). [1st Bru-Sin art exhibition 1989: Brunei Museums, Negara Brunei Darussalam, 2 – 17 September 1989](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5832130). Brunei Darussalam &amp; Singapore: Authors.
   Call no.: RSING 759.95957 BRU
 
 An exhibition catalogue published in conjunction with the first joint art exhibition by the Singaporean and Bruneian governments showcasing works from both countries. Lim’s "Kampong Air Link" was featured, and accordingly reproduced here in colour along with a biographical timeline of the artist.
@@ -166,7 +164,7 @@ An extended and comprehensive contemplation on the Nanyang art movement and its 
 Published in conjunction with a 1984 exhibition, which retrospectively celebrates and showcases Singapore’s artistic/cultural milestones in the past decade at the National Museum Art Gallery for the year’s edition of the Singapore Festival of the Arts. Lim’s "Street Scene" (1981) figures in the exhibition and is correspondingly catalogued in the list of exhibits.
 
 
-* National Museum & Ministry of Community Development. (1988). [Masterpieces from private collections](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4740666). Singapore: National Museum.
+* National Museum &amp; Ministry of Community Development. (1988). [Masterpieces from private collections](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4740666). Singapore: National Museum.
   Call no.: RSING q709.5957 MAS
 
 A companion text to the exhibition of Singapore works from private art collections that was organised to commemorate two decades of the Singapore Festival of the Arts, Lim is referenced here as constitutive of the ‘second-generation artists’; several of his works, such as "Sumatra" (1970) and "Ruins" (c1976) are reproduced here as both colour and black-and-white plates.
@@ -380,25 +378,25 @@ A report on Lim’s 2011 solo exhibition, entitled "Old and New", which charts a
 
 (listed in alphabetical order)
 
-* ArtSafe. (n.d.). Lim Tze Peng. Retrieved June 25, 2021, from the ArtSafe Art Gallery website: <https://www.artsafesg.com/lim-tze-peng>
+* ArtSafe. (n.d.). Lim Tze Peng. Retrieved June 25, 2021, from the ArtSafe Art Gallery website: 
 
 Provides a biographical timeline of Lim’s career milestones and notable events as an artist, as well as digital images of the Lim works in the ArtSafe collection available for sale.
 
 
-* Artsy. (2016, January 12). Lim Tze Peng. Retrieved June 25, 2021, from the Artsy website: <https://www.artsy.net/artist/lim-tze-peng>
+* Artsy. (2016, January 12). Lim Tze Peng. Retrieved June 25, 2021, from the Artsy website: 
 
 Online repository of colour images of 103 calligraphic and ink works by Lim, including their current location (private collections or galleries) as well as their auction prices. Also provides a brief overview and biographical sketch of the artist.
 
 
-* ArtyiiPerspective. (2010, December 15). Lim Tze Peng – Singapore’s national living treasure. Retrieved June 25, 2021, from YouTube: <https://www.youtube.com/watch?gl=SG&hl=en-GB&v=14_diuroNiE>
+* ArtyiiPerspective. (2010, December 15). Lim Tze Peng – Singapore’s national living treasure. Retrieved June 25, 2021, from YouTube: 
 
 Short video clip of a conference commemorating Lim’s first traveling exhibition in China; includes speeches by Lim and his wife.
 
-* Cape of Good Hope Art Gallery. (n.d.). Lim Tze Peng. Retrieved June 25, 2021, from the Cape of Good Hope Art Gallery website: <https://www.capeofgoodhope.com.sg/lim-tze-peng>
+* Cape of Good Hope Art Gallery. (n.d.). Lim Tze Peng. Retrieved June 25, 2021, from the Cape of Good Hope Art Gallery website: 
 
 This webpage provides a brief artist’s biography and major key events in his life and career and links to images to 10 of his representative pictorial and calligraphic works, and features photographs of Lim at various arts event and videos on Lim.
 
-* The Esplanade. (2012, October 12). Tribute.sg – Lim Tze Peng. Retrieved from YouTube: <https://www.youtube.com/watch?v=42BNKAizysM>
+* The Esplanade. (2012, October 12). Tribute.sg – Lim Tze Peng. Retrieved from YouTube: 
 
 Short four-minute interview with Lim, where Lim introduces himself and elaborates on his creative process and the refinement of his artistic sensibilities.
 
@@ -407,16 +405,16 @@ Short four-minute interview with Lim, where Lim introduces himself and elaborate
 
 An Infopedia article that concisely chronicles Lim’s early life and works in the form of a chronological timeline, as well as major exhibitions held and awards received. A colour photograph of Lim is also included.
 
-- Ode to Art. (n.d.). Lim Tze Peng. Retrieved June 25, 2021, from Ode to Art website: <https://www.odetoart.com/?p=artist&a=126,Lim%20Tze%20Peng>
+- Ode to Art. (n.d.). Lim Tze Peng. Retrieved June 25, 2021, from Ode to Art website: 
 
 An artist’s page by Ode to Art gallery, this website features Lim Tze Peng’s biography, listings of his exhibitions, publications, clippings and videos on Lim Tze Peng, images of Lim’s paintings and a virtual exhibition of Lim’s works, "A Century of Memories".
 
 
-* The Private Museum. (2013). Lim Tze Peng: A private collection (23rd Jan – 10th Mar 2013). Retrieved June 25, 2021, from The Private Museum website: <http://www.theprivatemuseum.org/index.php/exhibition/a-private-collection/>
+* The Private Museum. (2013). Lim Tze Peng: A private collection (23rd Jan – 10th Mar 2013). Retrieved June 25, 2021, from The Private Museum website: 
 
 Online exhibition site for the Private Museum’s 2013 exhibition on Lim. Includes a short essay by Sze Wee Low, digital images of the 14 Lim works mounted, relevant press releases, and an artist’s biography.
 
-* TributeSG. (n.d.). Lim Tze Peng. Retrieved June 25, 2021, from the Esplanade website: <https://www.esplanade.com/offstage/arts/lim-tze-peng>
+* TributeSG. (n.d.). Lim Tze Peng. Retrieved June 25, 2021, from the Esplanade website: 
 
 Features a comprehensive and detailed biography of Lim, along with several images of his artworks and the artist himself, as well as a YouTube video of TributeSG’s interview with Lim.
 
@@ -430,7 +428,7 @@ Features a comprehensive and detailed biography of Lim, along with several image
 
 16-minute video chronicling Lim’s artistic development and refinement, creative process, governing philosophies, and visual vocabularies. Commentaries by fellow artist Ho Chee Lick and patron Koh Seow Chuan are included as well.
 
-* Pitt, K. W & Lye, S. C. (Interviewers). (1984, May 16). [Oral History Interview with Lim Tze Peng](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/59d6c9ba-115f-11e3-83d5-0050568939ad). [Accession No. 000370]. Retrieve from National Archives of Singapore Archives Online.
+* Pitt, K. W &amp; Lye, S. C. (Interviewers). (1984, May 16). [Oral History Interview with Lim Tze Peng](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/59d6c9ba-115f-11e3-83d5-0050568939ad). [Accession No. 000370]. Retrieve from National Archives of Singapore Archives Online.
 
 Interview in Chinese where Lim elaborates on how his consistent involvement in the visual arts, including his championing of art during his tenure in the education service. Lim also opines on his then-preference for oil painting, the possible directions that the artistic circle in Singapore can undertake, and the fundamental principles that an artist should abide to. Transcripts in Chinese available.
 
@@ -458,7 +456,7 @@ Interview in Chinese where Lim elaborates on how his consistent involvement in t
 
 <b><u>Accessing the Print Materials</u></b>
 
-You can search the library catalogue (for physical materials) in the library and from home (<http://catalogue.nlb.gov.sg>). The easy search function allows you to search/browse by author, title, keyword, subject and ISBN/ISSN whereas the advanced search allows you to narrow your searches to specific media types or language holdings. In both instances, you will also be able to limit your search to specific libraries by clicking on the “limit by branch” option.
+You can search the library catalogue (for physical materials) in the library and from home (). The easy search function allows you to search/browse by author, title, keyword, subject and ISBN/ISSN whereas the advanced search allows you to narrow your searches to specific media types or language holdings. In both instances, you will also be able to limit your search to specific libraries by clicking on the “limit by branch” option.
 
 **To search Lee Kong Chian Reference Library’s Holdings**
 
