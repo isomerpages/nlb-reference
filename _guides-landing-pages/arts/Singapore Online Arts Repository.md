@@ -2,11 +2,10 @@
 title: Singapore Online Arts Repository
 permalink: /guides/arts/soar/
 third_nav_title: Arts
-published: false
 ---
-## Singapore Online Arts Repository (SOAR)
+## SOAR - The Singapore Online Arts Repository
 
-### SOAR - The Singapore Online Arts Repository
+![CMR Collage 1979-2020](/images/arts/soar/CMR%20Collage%201979-2020.png)*<center>Images courtesy of National Arts Council</center>*
 
 The **Singapore Online Arts Repository (SOAR)** is a collaboration between National Arts Council (NAC) and the National Library Board (NLB) to enhance the national collection of Singapore arts content, and to make the materials digitally available for future generations of Singaporeans. 
 
@@ -18,28 +17,28 @@ The first phase of SOAR honours our Cultural Medallion recipients who now have a
 
 ### List of Resource Guides 
 
-* [Chua Ek Kay](https://reference.nlb.gov.sg/guides/singapore/people/chua-ek-kay)
+* [Chua Ek Kay](/guides/singapore/people/chua-ek-kay)
 
-* [Chua Mia Tee]()
+* [Chua Mia Tee](/guides/singapore/people/chua-mia-tee)
 
-* [Georgette Chen](https://reference.nlb.gov.sg/guides/singapore/people/georgette-chen)
+* [Georgette Chen](/guides/singapore/people/georgette-chen)
 
-* [Joanna Wong]()
+* [Joanna Wong](/guides/singapore/people/joanna-wong)
 
-* [Law Wai Lun]()
+* [Law Wai Lun](/guides/singapore/people/law-wai-lun)
 
-* [Leong Yoon Pin]()
+* [Leong Yoon Pin](/guides/singapore/people/leong-yoon-pin)
 
-* [Lew Poo Chan]()
+* [Lew Poo Chan](/guides/singapore/people/lew-poo-chan)
 
-* [Lim Fei Shen]()
+* [Lim Fei Shen](/guides/singapore/people/lim-fei-shen)
 
-* [Lim Tze Peng](https://reference.nlb.gov.sg/guides/singapore/people/lim-tze-peng)
+* [Lim Tze Peng](/guides/singapore/people/lim-tze-peng)
 
-* [Low Ing Sing]()
+* [Low Ing Sing](/guides/singapore/people/low-ing-sing)
 
-* [Sarkasi Said]()
+* [Sarkasi Said](/guides/singapore/people/sarkasi-said)
 
-* [Teng Mah Seng]()
+* [Teng Mah Seng](/guides/singapore/people/teng-mah-seng)
 
-* [Wong Yoon Wah]()
+* [Wong Yoon Wah](/guides/singapore/people/wong-yoon-wah)

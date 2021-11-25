@@ -9,6 +9,8 @@ third_nav_title: Arts
 
 * [**Music 101**](/guides/arts/performing-arts/music-101)
 
+* [**Law Wai Lun / 罗伟伦**](/guides/singapore/people/law-wai-lun)
+
 * [**Leong Yoon Pin**](/guides/singapore/people/leong-yoon-pin)
 
 * [**Low Ing Sing**](/guides/singapore/people/low-ing-sing/)
