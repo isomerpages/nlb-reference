@@ -1,7 +1,6 @@
 ---
 title: Understanding Singapore (II)
 permalink: /singapore-history/understandingsingapore-ii
-published: false
 ---
 ### Guide Index 
 
