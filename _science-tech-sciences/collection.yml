@@ -2,7 +2,7 @@ collections:
   science-tech-sciences:
     output: true
     order:
-      - Example Title.md
+      - The Spanish Flu.md
       - "Viruses : An Overview.md"
       - Climate Change.md
       - Air Pollution.md
