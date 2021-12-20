@@ -2,5 +2,6 @@ collections:
   business-global-economy:
     output: true
     order:
+      - Supply Chains in a Globalised World.md
       - Interconnected Economies.md
       - Economic Downturns.md
