@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - physical-sciences/.keep
-      - physical-sciences/air-pollution.md
+      - physical-sciences/Air Pollution.md
       - physical-sciences/climate-change.md
       - physical-sciences/environmental-champion.md
