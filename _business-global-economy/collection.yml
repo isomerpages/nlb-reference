@@ -1,4 +1,5 @@
 collections:
   business-global-economy:
     output: true
-    order: []
+    order:
+      - Economic Downturns.md
