@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - physical-sciences/.keep
-      - physical-sciences/Air Pollution.md
       - physical-sciences/Climate Change.md
