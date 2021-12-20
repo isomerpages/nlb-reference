@@ -2,4 +2,5 @@ collections:
   business-global-economy:
     output: true
     order:
+      - Interconnected Economies.md
       - Economic Downturns.md
