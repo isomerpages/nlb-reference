@@ -19,6 +19,8 @@ third_nav_title: Singapore
 
 * [**Singapore's Public Housing**](/guides/singapore/history/sg-public-housing)
 
+* [**Public Health in Singapore**](/guides/singapore/history/public-health-sg)
+
 * [**Communist Party of Malaya - A Comprehensive Bibliography**](/guides/singapore/history/cpm-biblio)
 
 * [**Understanding Singapore (I)**](/singapore-history/understandingsingapore-i)

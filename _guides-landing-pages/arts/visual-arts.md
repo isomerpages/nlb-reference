@@ -13,6 +13,7 @@ third_nav_title: Arts
 - [**Georgette Chen**](/guides/singapore/people/georgette-chen)
 - [**Lim Tze Peng**](/guides/singapore/people/lim-tze-peng)
 - [**Modern Art in Singapore**](/guides/arts/visual-arts/modern-art-in-singapore)
+- [**Virtual Arts and Culture**](/guides/arts/visual-arts/virtual-arts)
 - **The Arts Space**
   - [**The Arts Space (Season 1) Jalan-Jalan**](/guides/arts/visual-arts/the-arts-space-season1-jalan-jalan)
   - [**The Arts Space (Season 2) Impressions of Nature**](/guides/arts/visual-arts/the-arts-space-season2-impressions-of-nature)

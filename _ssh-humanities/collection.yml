@@ -2,5 +2,7 @@ collections:
   ssh-humanities:
     output: true
     order:
+      - Social Relationships.md
+      - Community Spirit.md
       - Linguistics.md
       - English Language.md

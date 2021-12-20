@@ -2,12 +2,13 @@ collections:
   singapore-history:
     output: true
     order:
-      - Understanding Singapore (II).md
-      - Understanding Singapore (I).md
       - Colonial Period.md
       - Decolonisation Process.md
       - Post Independence SEA.md
       - Development of Education in Singapore.md
       - Primary accounts of Singapore from 1800s to 1942.md
       - Singapore's Public Housing.md
+      - Public Health in Singapore.md
       - Communist Party of Malaya A Comprehensive Bibliography.md
+      - Understanding Singapore (I).md
+      - Understanding Singapore (II).md
