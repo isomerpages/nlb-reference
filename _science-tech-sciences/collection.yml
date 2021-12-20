@@ -2,7 +2,7 @@ collections:
   science-tech-sciences:
     output: true
     order:
-      - "Viruses : An Overview.md"
+      - An Overview of Viruses.md
       - The Spanish Flu.md
       - Climate Change.md
       - Air Pollution.md
