@@ -24,10 +24,11 @@ This guide provides supplementary resources for those who are keen to further ex
 This resource guide was prepared in December 2021 by Andrea Kee, an Associate Librarian at the National Library, Singapore.
 
 **Entertainment in Singapore**
-           <table style="width:100%">
+     <br> Books    
+					<table style="width:100%">
     <tr>
         <td style="width:30%">
-            <b>Books</b>
+            <b></b>
         </td>
         <td style="width:70%">
         </td>
@@ -70,6 +71,9 @@ This resource guide was prepared in December 2021 by Andrea Kee, an Associate Li
         A compilation of Chia’s disparate and rich contemplations on modern/postmodern Singaporean art, from his reviews of art exhibitions broadcasted over Radio Singapore to his catalog essays and from his papers on art education to published reviews in the 1960s and 1970s. Provides a pertinent insight into the development of Singaporean art over the mid-twentieth century.
         </td>
     </tr>
-	
-	Videos
-	
+	</table>
+
+Videos
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c986BixuabU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**The Capitol**
