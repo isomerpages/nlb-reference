@@ -32,21 +32,22 @@ This resource guide was prepared in December 2021 by Andrea Kee, an Associate Li
         <td style="width:70%">
         </td>
     </tr>
-    <tr>
+	   <tr>
         <td>
-					 <img style="width:150px" src="/images/arts/visualarts/modern-art-in-sg/33%20auction.jpg">
+            <img style="width:150px" src="/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/entertainment%20forms%20of%20leisure%20thumb.jpg">
         </td>
         <td>
-           33 Auction. (2014).  <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202413305">Singaporean art (Singapore, 11 October 2014)</a>. Singapore: Author. 
-<br>Call no.: 759.959597074 THI
+        Chia, W. H. (Author). Sabapathy, T. K. (Ed.). (2002). 
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=11235904"> Bits and pieces: Writings on art</a>. Singapore: Contemporary Asian Arts Centre. 
+<br>Call no.: RSING 709.5957 CHI
 <br>
 <br>
-            The might of curators and auctioneers to partially determine the development, prominence, and canonization of an art-world cannot be underestimated, and such is the case in Singaporean art as well. This auction catalog by 33 Auction, wherein some 70-odd works by Singaporean artists in different media and composed over multiple points in art history in different styles, signify as a microcosm of the development of modern Singapore art. Each work, reproduced here in full colour, is accompanied by an informative caption.  
+        A compilation of Chia’s disparate and rich contemplations on modern/postmodern Singaporean art, from his reviews of art exhibitions broadcasted over Radio Singapore to his catalog essays and from his papers on art education to published reviews in the 1960s and 1970s. Provides a pertinent insight into the development of Singaporean art over the mid-twentieth century.
         </td>
     </tr>
     <tr>
         <td>
-            <img style="width:150px" src="/images/arts/visualarts/modern-art-in-sg/Awakenings.jpg">
+            <img style="width:150px" src="/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/past%20time%20thumb.jpg">
         </td>
         <td>
             Bae, M. et al. (Eds.). (2019). <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203232312">Awakenings: Art in society in Asia, 1960s-1990s.</a>. Singapore: National Gallery Singapore.
@@ -58,7 +59,7 @@ This resource guide was prepared in December 2021 by Andrea Kee, an Associate Li
     </tr>
    <tr>
         <td>
-            <img style="width:150px" src="/images/arts/visualarts/modern-art-in-sg/Bits and pieces.jpg">
+            <img style="width:150px" src="/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/singapore%20cinema%20thumb.jpg">
         </td>
         <td>
         Chia, W. H. (Author). Sabapathy, T. K. (Ed.). (2002). 
@@ -69,3 +70,6 @@ This resource guide was prepared in December 2021 by Andrea Kee, an Associate Li
         A compilation of Chia’s disparate and rich contemplations on modern/postmodern Singaporean art, from his reviews of art exhibitions broadcasted over Radio Singapore to his catalog essays and from his papers on art education to published reviews in the 1960s and 1970s. Provides a pertinent insight into the development of Singaporean art over the mid-twentieth century.
         </td>
     </tr>
+	
+	Videos
+	
