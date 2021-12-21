@@ -47,8 +47,8 @@ This resource guide was prepared in December 2021 by Andrea Kee, an Associate Li
 <br>Call no.: RSING 790.0135095957 MUR
 <br>
 <br>
-             </td>
-    </tr>
+        </td>
+     </tr>
     <tr>
         <td>
             <img style="width:150px" src="/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/past%20time%20thumb.jpg">
@@ -80,7 +80,7 @@ This resource guide was prepared in December 2021 by Andrea Kee, an Associate Li
 
 Videos
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c986BixuabU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
+
 <b>Goh Yu Mei and Michelle Heng: Movie Magic!</b>
 <br>
 Goh, Yu Mei and Michelle Heng. “<a href="https://youtu.be/c986BixuabU">Goh Yu Mei and Michelle Heng: Movie Magic!</a>” In *A Librarian’s World*, 20 March 2020. YouTube video. 
