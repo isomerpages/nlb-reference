@@ -15,7 +15,9 @@ Accessible both in-person and online, Curiocity invites you to discover, learn a
 
 This resource guide has been produced to complement the main showcase ‘XXX’ at National Library Building, exploring the thematic focus of **‘Places of Entertainment in the Bras Basah Bugis and Civic District areas’**.
 
-Entertainment today consists of a myriad of possibilities that we are spoilt for choice. We can visit a shopping mall, watch TV shows on our favourite streaming platforms, or even scroll endlessly on social media sites like TikTok and Instagram. Prior to the late 19th century, however, there were few amusements to entertain Singapore’s early immigrants and residents beyond vices like gambling, and larger organised forms of entertainment associated with religious events. It was only in the late 19th century that entertainment in Singapore started becoming consumptive, and specific indoor entertainment places emerged.  
+Entertainment today consists of a myriad of possibilities that we are spoilt for choice. We can visit a shopping mall, watch TV shows on our favourite streaming platforms, or even scroll endlessly on social media sites like TikTok and Instagram. Prior to the late 19th century, however, there were few amusements to entertain Singapore’s early immigrants and residents beyond vices like gambling, and larger organised forms of entertainment associated with religious events. It was only in the late 19th century that entertainment in Singapore started becoming consumptive, and specific indoor entertainment places emerged.[^1]
+
+[^1]: Sai Shing Yung & Chan Kwok Bun, “Leisure, Pleasure and Consumption: Ways of Entertaining oneself,” in [Past Times: A Social History of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11800570), 153-154. (Call no.: RSING 959.57 PAS -[HIS])
 
 Bras Basah Bugis and the Civic District are two of Singapore’s oldest districts and are well-known for their concentration of heritage buildings and historic places of worship. These areas were also home to several entertainment places like cinemas, theatres and even a food street that came to life with drag queens, singing, and other revelry at night. Some of these places may have taken on new identities today, but they served as important places for society to gather and share laughter and happiness with fellow leisure seekers, especially at the turn of the 20th century. 
 
@@ -84,5 +86,6 @@ Videos
 Goh, Yu Mei and Michelle Heng. “<a href="https://youtu.be/c986BixuabU">Goh Yu Mei and Michelle Heng: Movie Magic!</a>” In *A Librarian’s World*, 20 March 2020. YouTube video. 
 
 
-
 **The Capitol**
+<br>
+BiblioAsia - articles
