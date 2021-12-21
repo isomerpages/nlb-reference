@@ -38,24 +38,26 @@ This resource guide was prepared in December 2021 by Andrea Kee, an Associate Li
             <img style="width:150px" src="/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/entertainment%20forms%20of%20leisure%20thumb.jpg">
         </td>
         <td>
-        Chia, W. H. (Author). Sabapathy, T. K. (Ed.). (2002). 
-<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=11235904"> Bits and pieces: Writings on art</a>. Singapore: Contemporary Asian Arts Centre. 
-<br>Call no.: RSING 709.5957 CHI
+					<b>Entertainment, forms of leisure in Singapore, 1920s-1970s</b>
+					<br>
+        Murthy, Vidya. 
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202933027"> Entertainment, forms of leisure in Singapore, 1920s-1970s</a>. Singapore: National Museum of Singapore, 2017. 
+<br>Call no.: RSING 790.0135095957 MUR
 <br>
 <br>
-        A compilation of Chia’s disparate and rich contemplations on modern/postmodern Singaporean art, from his reviews of art exhibitions broadcasted over Radio Singapore to his catalog essays and from his papers on art education to published reviews in the 1960s and 1970s. Provides a pertinent insight into the development of Singaporean art over the mid-twentieth century.
-        </td>
+             </td>
     </tr>
     <tr>
         <td>
             <img style="width:150px" src="/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/past%20time%20thumb.jpg">
         </td>
         <td>
-            Bae, M. et al. (Eds.). (2019). <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203232312">Awakenings: Art in society in Asia, 1960s-1990s.</a>. Singapore: National Gallery Singapore.
-<br>Call no.: RSING 709.50904 AWA
+					<b>Leisure, Pleasure and Consumption: Ways of entertaining oneself</b>
+					<br>
+            Yung, Sai Shing & Kwok Bun Chan. “Leisure, Pleasure and Consumption: Ways of entertaining oneself.” In <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203232312">Past Times: A social history of Singapore</a>, edited by Chan, Kwok Bun & Chee Kiong Tong, 153-182. Singapore: Times Editions, 2003. 
+<br>Call no.: RSING 959.57 PAS -[HIS]
 <br>
-<br>
-            Published in conjunction with the exhibition of the same name, this publication includes essays from curators from the organising institutions: The National Museum of Modern Art, Tokyo (MOMAT); National Museum of Modern and Contemporary Art, Korean (MMCA); National Gallery Singapore and The Japan Foundation Asia Center. The exhibition adopted a comparative approach to art history within a transnational framework, focused on complex relationships between art and society. Included in this publication are essays on art movements across Asia such as Singapore, Malaysia, Thailand, Korea and Japan. 
+<br> 
         </td>
     </tr>
    <tr>
@@ -63,17 +65,24 @@ This resource guide was prepared in December 2021 by Andrea Kee, an Associate Li
             <img style="width:150px" src="/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/singapore%20cinema%20thumb.jpg">
         </td>
         <td>
-        Chia, W. H. (Author). Sabapathy, T. K. (Ed.). (2002). 
-<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=11235904"> Bits and pieces: Writings on art</a>. Singapore: Contemporary Asian Arts Centre. 
-<br>Call no.: RSING 709.5957 CHI
+					<b> Singapore Cinema</b>
+					<br>
+				Millet, Raphaël. 
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044"> Singapore cinema</a>. Singapore: Editions Didier Millet, 2006. 
+<br>Call no.: q791.43095957 MIL
 <br>
 <br>
-        A compilation of Chia’s disparate and rich contemplations on modern/postmodern Singaporean art, from his reviews of art exhibitions broadcasted over Radio Singapore to his catalog essays and from his papers on art education to published reviews in the 1960s and 1970s. Provides a pertinent insight into the development of Singaporean art over the mid-twentieth century.
         </td>
     </tr>
 	</table>
 
 Videos
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c986BixuabU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<b>Goh Yu Mei and Michelle Heng: Movie Magic!</b>
+<br>
+Goh, Yu Mei and Michelle Heng. “<a href="https://youtu.be/c986BixuabU">Goh Yu Mei and Michelle Heng: Movie Magic!</a>” In *A Librarian’s World*, 20 March 2020. YouTube video. 
+
+
 
 **The Capitol**
