@@ -2,6 +2,13 @@ collections:
   singapore-places:
     output: true
     order:
+      - Curiocity Showcase/.keep
+      - Curiocity Showcase/Notable Landmarks in the Bras Basah Bugis and Civic
+        District Areas.md
+      - Curiocity Showcase/Bridges along Singapore River.md
+      - Curiocity Showcase/Sports and Recreation in the Civic District.md
+      - Curiocity Showcase/Places of Entertainment in the Bras Basah Bugis and
+        Civic District Areas.md
       - places/.keep
       - places/garden-smart.md
       - places/streets-and-places-in-singapore.md
