@@ -3,9 +3,10 @@ title: Garden Smart
 permalink: /guides/singapore/places/garden-smart
 breadcrumb: Garden Smart
 collection_name: singapore-places
-third_nav_title: Places
 published: true
+description: ""
 ---
+
 
 ### <u>Guide Index</u>
 

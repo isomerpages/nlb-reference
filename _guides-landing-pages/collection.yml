@@ -4,9 +4,9 @@ collections:
     order:
       - resource-guides.md
       - singapore/.keep
-      - singapore/people.md
-      - singapore/places.md
-      - singapore/history.md
+      - singapore/People.md
+      - singapore/Places.md
+      - singapore/History.md
       - arts/.keep
       - arts/visual-arts.md
       - arts/literary-arts.md

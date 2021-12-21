@@ -4,7 +4,9 @@ permalink: /guides/singapore/history/
 breadcrumb: history
 collection_name: singapore
 third_nav_title: Singapore
+description: ""
 ---
+
 <img src="/images/category/history.jpg" alt="history banner" style="width:800px;" />
 
 * [**Colonial Period**](/guides/singapore/history/colonial-period)
