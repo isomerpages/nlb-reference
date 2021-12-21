@@ -24,7 +24,17 @@ This guide provides supplementary resources for those who are keen to further ex
 This resource guide was prepared in December 2021 by Andrea Kee, an Associate Librarian at the National Library, Singapore.
 
 **Entertainment in Singapore**
-            <img style="width:150px" src="/images/arts/visualarts/modern-art-in-sg/33%20auction.jpg">
+           <table style="width:100%">
+    <tr>
+        <td style="width:30%">
+            <b>Books</b>
+        </td>
+        <td style="width:70%">
+        </td>
+    </tr>
+    <tr>
+        <td>
+					 <img style="width:150px" src="/images/arts/visualarts/modern-art-in-sg/33%20auction.jpg">
         </td>
         <td>
            33 Auction. (2014).  <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202413305">Singaporean art (Singapore, 11 October 2014)</a>. Singapore: Author. 
