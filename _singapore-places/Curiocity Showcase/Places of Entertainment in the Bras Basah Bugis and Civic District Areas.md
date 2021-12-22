@@ -34,6 +34,7 @@ This resource guide was prepared in December 2021 by Andrea Kee, an Associate Li
 			<br>
 				Murthy, Vidya. [Entertainment, forms of leisure in Singapore, 1920s-1970s](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202933027).  Singapore: National Museum of Singapore, 2017. 
 <br>Call no.: RSING 790.0135095957 MUR
+		</td>
 	</tr>
 	<tr>
 		<td>![Cover page of the book "Past Times: A Social History of Singapore"](/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/past%20time%20thumb.jpg)</td>
@@ -42,6 +43,7 @@ This resource guide was prepared in December 2021 by Andrea Kee, an Associate Li
 			 Yung, Sai Shing & Kwok Bun Chan. “Leisure, Pleasure and Consumption: Ways of entertaining oneself.” In [Past Times: A social history of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203232312), edited by Chan, Kwok Bun & Chee Kiong Tong, 153-182. Singapore: Times Editions, 2003. 
 			<br>Call no.: RSING 959.57 PAS -[HIS]
 		</td>
+	</tr>
 		</table>
 			
 	
