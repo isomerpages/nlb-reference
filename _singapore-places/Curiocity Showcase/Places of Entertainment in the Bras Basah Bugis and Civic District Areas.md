@@ -25,7 +25,7 @@ This guide provides resources for those who are keen to further explore this top
 
 This resource guide was prepared in December 2021 by Andrea Kee, an Associate Librarian at the National Library, Singapore.
 
-### Entertainment in Singapore
+### <u> Entertainment in Singapore</u>
 
 #### Books
 
@@ -87,7 +87,7 @@ This resource guide was prepared in December 2021 by Andrea Kee, an Associate Li
 <br>
 Goh, Yu Mei and Michelle Heng. “<a href="https://youtu.be/c986BixuabU">Goh Yu Mei and Michelle Heng: Movie Magic!</a>” In *A Librarian’s World*, 20 March 2020. YouTube video. 
 
-### The Capitol
+### <u>The Capitol</u>
 #### BiblioAsia - articles
  
 **Living it up at The Capitol**
@@ -103,7 +103,7 @@ Tan, Bonny. "[Living it up at The Capitol](https://biblioasia.nlb.gov.sg/files/p
 <b>Capitol Cinema: exterior</b><br>
 [Capitol Cinema: exterior [1]](https://eresources.nlb.gov.sg/pictures/Details/637885d6-5e1d-4287-a78f-8bc50525a43f). 28 Sep 1982. Photograph. Lee Kip Lin Collection, PictureSG, National Library, Singapore
 
-### Bugis Street
+### <u> Bugis Street</u>
 #### BiblioAsia - articles
 <b>Bugis Street: From Sleazy to Sanitised</b><br>
 Lee, Meiyu. “[Bugis Street: From Sleazy to Sanitised](https://biblioasia.nlb.gov.sg/vol-11/issue-3/oct-dec-2015/bugis).” *BiblioAsia* 11, issue 3 (2015): 42-47. 
@@ -131,5 +131,4 @@ Cheah, Phillip, Lay Wah Ang & David Toh. “[The street that wouldn't sleep...](
 #### Photographs - PictureSG
 <img style="width:500px" src="/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/rg-images/bugis%20street.jpg">
 <b>Bugis Street, 1980s: general view</b><br>
-[Bugis Street, 1980s: general view](http://eresources.nlb.gov.sg/pictures/Details/56ed5698-3b7a-4521-9b0e-6ad01a6c7c08). 1980s. Photograph. David Loke, PictureSG, National Library, Singapore 
-
+[Bugis Street, 1980s: general view](http://eresources.nlb.gov.sg/pictures/Details/56ed5698-3b7a-4521-9b0e-6ad01a6c7c08). 1980s. Photograph. David Loke, PictureSG, National Library, Singapore
