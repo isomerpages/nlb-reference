@@ -143,7 +143,6 @@ Cheah, Phillip, Lay Wah Ang & David Toh. “[The street that wouldn't sleep...](
 		<td style="width:70%">
 			<b>Cathay: 55 years of cinema</b><br>
 Lim, Kay Tong. [Cathay: 55 years of cinema](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688). Singapore: Landmark Books for Meileen Choo, 1991. <br>Call no.: RSING 791.43095957 LIM
-
 		</td>
 </tr>
 	</table>
