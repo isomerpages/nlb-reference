@@ -27,6 +27,8 @@ This resource guide was prepared in December 2021 by Andrea Kee, an Associate Li
 
 #### Entertainment in Singapore
 <b>Books</b>    
+|**Section Name**|**Description**|
+|----------------------|--------------------|
 |![Cover page of the book "Entertainment: Forms of Leisure in Singapore, 1920s - 1970s"](/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/entertainment%20forms%20of%20leisure%20thumb.jpg)|	<b>Entertainment, forms of leisure in Singapore, 1920s-1970s</b>
 			<br>Murthy, Vidya. 
 <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202933027"> Entertainment, forms of leisure in Singapore, 1920s-1970s</a>. Singapore: National Museum of Singapore, 2017. 
@@ -98,5 +100,4 @@ This resource guide was prepared in December 2021 by Andrea Kee, an Associate Li
 Goh, Yu Mei and Michelle Heng. “<a href="https://youtu.be/c986BixuabU">Goh Yu Mei and Michelle Heng: Movie Magic!</a>” In *A Librarian’s World*, 20 March 2020. YouTube video. 
 
 #### The Capitol
-#### 
 <b>BiblioAsia - articles</b>
