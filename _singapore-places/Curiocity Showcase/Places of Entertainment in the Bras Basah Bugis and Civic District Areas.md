@@ -45,10 +45,7 @@ This resource guide was prepared in December 2021 by Andrea Kee, an Associate Li
 		</td>
 	</tr>
 		</table>
-			
-	
-			
-
+		
 <b>Videos</b>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c986BixuabU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
