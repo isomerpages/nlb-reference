@@ -27,6 +27,18 @@ This resource guide was prepared in December 2021 by Andrea Kee, an Associate Li
 
 #### Entertainment in Singapore
 <b>Books</b>    
+|![Cover page of the book "Entertainment: Forms of Leisure in Singapore, 1920s - 1970s"](/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/entertainment%20forms%20of%20leisure%20thumb.jpg)|	<b>Entertainment, forms of leisure in Singapore, 1920s-1970s</b>
+			<br>Murthy, Vidya. 
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202933027"> Entertainment, forms of leisure in Singapore, 1920s-1970s</a>. Singapore: National Museum of Singapore, 2017. 
+<br>Call no.: RSING 790.0135095957 MUR|
+|----------------------|--------------------|
+|**My Workspace**|Webpages to edit.<br>Also, Main website elements (DO NOT EDIT)|
+|**Resources**|Blog posts; Pages organised by date|
+|**Images**|Picture, photos, images|
+|**Files**|Documents for downloading; PDFs; MS Office files|
+|**Settings**|**(DO NOT EDIT)** Website settings|
+|**Guide**|Govtech's Isomer CMS Guide (new tab)|
+|**Help**|Form to request for Isomer - But you can consult Kevin first|
 		<table style="width:100%">
 <tr>
 		<td style="width:30%">
