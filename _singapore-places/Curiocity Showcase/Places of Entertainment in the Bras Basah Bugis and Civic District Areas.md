@@ -15,13 +15,13 @@ Accessible both in-person and online, Curiocity invites you to discover, learn a
 
 This resource guide has been produced to complement the main showcase ‘XXX’ at National Library Building, exploring the thematic focus of **‘Places of Entertainment in the Bras Basah Bugis and Civic District areas’**.
 
-Entertainment today consists of a myriad of possibilities that we are spoilt for choice. We can visit a shopping mall, watch TV shows on our favourite streaming platforms, or even scroll endlessly on social media sites like TikTok and Instagram. Prior to the late 19th century, however, there were few amusements to entertain Singapore’s early immigrants and residents beyond vices like gambling, and larger organised forms of entertainment associated with religious events. It was only in the late 19th century that entertainment in Singapore started becoming consumptive, and specific indoor entertainment places emerged.[^1]
+When it comes to entertainment today, we are spoilt for choice. We can visit a shopping mall, watch shows on our favourite streaming platforms, or scroll endlessly on social media sites like TikTok and Instagram. Singapore’s early immigrants and residents, however, had few activities to occupy themselves beyond vices (such as gambling) and larger organised forms of entertainment associated with religious events. It was only in the late 19th century that entertainment in Singapore started becoming consumptive, and specific indoor entertainment spaces emerged.[^1]
 
 [^1]: Sai Shing Yung & Chan Kwok Bun, “Leisure, Pleasure and Consumption: Ways of Entertaining oneself,” in [Past Times: A Social History of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11800570), 153-154. (Call no.: RSING 959.57 PAS -[HIS])
 
-Bras Basah Bugis and the Civic District are two of Singapore’s oldest districts and are well-known for their concentration of heritage buildings and historic places of worship. These areas were also home to several entertainment places like cinemas, theatres and even a food street that came to life with drag queens, singing, and other revelry at night. Some of these places may have taken on new identities today, but they served as important places for society to gather and share laughter and happiness with fellow leisure seekers, especially at the turn of the 20th century. 
+Bras Basah.Bugis and the Civic District are two of Singapore’s oldest districts and are well-known for their concentration of heritage buildings and historic places of worship. These areas were once home to entertainment venues like cinemas and theatres and even a food street that came to life at night with drag queens, singing and other revelry. These places allowed society to gather and share in laughter and happiness with fellow leisure seekers, especially at the turn of the 20th century.  
 
-This guide provides supplementary resources for those who are keen to further explore this topic. You can also visit https://search.nlb.gov.sg/ to search for more resources. If you would like to view other resource guides created by our librarians, please visit https://reference.nlb.gov.sg/guides/.
+This guide provides resources for those who are keen to further explore this topic. To search for more resources, go to <https://search.nlb.gov.sg/>. To view other resource guides created by our librarians, please visit <https://reference.nlb.gov.sg/guides/>.
 
 This resource guide was prepared in December 2021 by Andrea Kee, an Associate Librarian at the National Library, Singapore.
 
@@ -95,5 +95,10 @@ Goh, Yu Mei and Michelle Heng. “<a href="https://youtu.be/c986BixuabU">Goh Yu 
 Tan, Bonny. "[Living it up at The Capitol](https://biblioasia.nlb.gov.sg/files/pdf/vol-13/v13-issue4_Capitol.pdf).” *BiblioAsia* 13, issue 4 (2018): 16-21. 
 
 #### Newspaper articles
-<b>Today's Opening of The Capitol Theatre</b>
+<b>Today's Opening of The Capitol Theatre</b><br>
 “[Today's Opening of The Capitol Theatre](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19300522-1.2.110).” *The Straits Times*, 22 May 1930, 16. (From NewspaperSG)
+
+#### Photographs - PictureSG
+![Alt text for image on Isomer site](/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/rg-images/capitol%20cinema.jpg)
+<b>Capitol Cinema: exterior</b><br>
+[Capitol Cinema: exterior [1]](https://eresources.nlb.gov.sg/pictures/Details/637885d6-5e1d-4287-a78f-8bc50525a43f). 28 Sep 1982. Photograph. Lee Kip Lin Collection, National Library Board.
