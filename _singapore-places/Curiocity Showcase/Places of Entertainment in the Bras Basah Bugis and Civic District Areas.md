@@ -6,9 +6,9 @@ third_nav_title: Curiocity Showcase
 ---
 # Places of Entertainment in the Bras Basah Bugis and Civic District Areas
 
-**Curiocity: Places & Perspectives**
+## Curiocity: Places & Perspectives
 
-**Overview**<br>
+### Overview
 Looking at Singapore today, it is easy to forget that it was once dotted with kampungs and plantations. And as we have changed, so has our cityscape. By spotlighting selected leisure and entertainment places in downtown Singapore as well as presenting fascinating histories hidden in plain sight, Curiocity gives us an opportunity to examine the evolution of our spaces and reflect on our relationship with them.
 
 Accessible both in-person and online, Curiocity invites you to discover, learn and engage with our island’s history through the content and collections from the National Library Board and its partners. Presented in partnership with the Light to Night Festival 2022, Curiocity: Places & Perspectives will be held at the National Library Building (3 January – 3 February 2022) and across several locations in the Civic District (14 January – 3 February 2022).
@@ -25,24 +25,24 @@ This guide provides supplementary resources for those who are keen to further ex
 
 This resource guide was prepared in December 2021 by Andrea Kee, an Associate Librarian at the National Library, Singapore.
 
-**Entertainment in Singapore**
-     <br> Books    
-					<table style="width:100%">
-    <tr>
-        <td style="width:30%">
-            <b></b>
-        </td>
-        <td style="width:70%">
-        </td>
-    </tr>
-	   <tr>
-        <td>
-            <img style="width:150px" src="/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/entertainment%20forms%20of%20leisure%20thumb.jpg">
-        </td>
-        <td>
-					<b>Entertainment, forms of leisure in Singapore, 1920s-1970s</b>
-					<br>
-        Murthy, Vidya. 
+#### Entertainment in Singapore
+<b>Books</b>    
+		<table style="width:100%">
+<tr>
+		<td style="width:30%">
+				<b></b>
+		</td>
+		<td style="width:70%">
+		</td>
+</tr>
+ <tr>
+		<td>
+				<img style="width:150px" src="/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/entertainment%20forms%20of%20leisure%20thumb.jpg">
+		</td>
+		<td>
+			<b>Entertainment, forms of leisure in Singapore, 1920s-1970s</b>
+			<br>
+		Murthy, Vidya. 
 <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202933027"> Entertainment, forms of leisure in Singapore, 1920s-1970s</a>. Singapore: National Museum of Singapore, 2017. 
 <br>Call no.: RSING 790.0135095957 MUR
 <br>
@@ -78,14 +78,13 @@ This resource guide was prepared in December 2021 by Andrea Kee, an Associate Li
     </tr>
 	</table>
 
-Videos
+<b>Videos</b>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c986BixuabU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <b>Goh Yu Mei and Michelle Heng: Movie Magic!</b>
 <br>
 Goh, Yu Mei and Michelle Heng. “<a href="https://youtu.be/c986BixuabU">Goh Yu Mei and Michelle Heng: Movie Magic!</a>” In *A Librarian’s World*, 20 March 2020. YouTube video. 
 
-
-**The Capitol**
-<br>
-BiblioAsia - articles
+#### The Capitol
+#### 
+<b>BiblioAsia - articles</b>
