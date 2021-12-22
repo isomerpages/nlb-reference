@@ -19,7 +19,7 @@ third_nav_title: Curiocity Showcase
 				<img style="width:150px" src="/images/singapore-places/curiocity-showcase-2022/bridges-sg-river/singapore%20lifeline%20thumb.jpg">
 		</td>
 		<td style="width:70%">
-			<b>Singapore Lifeline: The River and its People</b><br>National Archives of Singapore. <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4182975">Singapore lifeline: The river and its people</>. Singapore: Times Books International, 1986. <br>Call no.: RSING 779.995957 SIN
+			<b>Singapore Lifeline: The River and its People</b><br>National Archives of Singapore. <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4182975">Singapore lifeline: The river and its people</a>. Singapore: Times Books International, 1986. <br>Call no.: RSING 779.995957 SIN
 <br>
 <br>
         </td>
