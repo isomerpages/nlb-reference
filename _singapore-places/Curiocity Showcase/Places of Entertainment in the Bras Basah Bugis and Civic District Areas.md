@@ -101,7 +101,7 @@ Tan, Bonny. "[Living it up at The Capitol](https://biblioasia.nlb.gov.sg/files/p
 #### Photographs - PictureSG
 <img style="width:500px" src="/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/rg-images/capitol%20cinema.jpg">
 <b>Capitol Cinema: exterior</b><br>
-[Capitol Cinema: exterior [1]](https://eresources.nlb.gov.sg/pictures/Details/637885d6-5e1d-4287-a78f-8bc50525a43f). 28 Sep 1982. Photograph. Lee Kip Lin Collection, National Library Board.
+[Capitol Cinema: exterior [1]](https://eresources.nlb.gov.sg/pictures/Details/637885d6-5e1d-4287-a78f-8bc50525a43f). 28 Sep 1982. Photograph. Lee Kip Lin Collection, PictureSG, National Library, Singapore
 
 ### Bugis Street
 #### BiblioAsia - articles
@@ -115,8 +115,21 @@ Lee, Meiyu. “[Bugis Street: From Sleazy to Sanitised](https://biblioasia.nlb.g
 	<img style="width:150px" src="/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/yonfan%20bugis%20thumb.jpg">			<b></b>
 		</td>
 		<td style="width:70%">
-			<b>Yonfan's Bugis Street</b><br>
-Chan, Kenneth. [Yonfan's Bugis Street](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202367790). Hong Kong: Hong Kong University Pres, 2015. <br>Call no.: RSING 791.437209 CHA
+<b>Yonfan's Bugis Street</b><br>
+Chan, Kenneth. <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202367790"> Yonfan's Bugis street</a>. Hong Kong: Hong Kong University Pres, 2015. <br>Call no.: RSING 791.437209 CHA
 		</td>
 </tr>
 	</table>
+
+#### Newspaper articles
+<b>Anti-vice to clean up Bugis Street</b><br>
+“[Anti-vice to clean up Bugis Street](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19800822-1.2.20).” New Nation, 22 August 1980, 5. (From NewspaperSG)
+
+<b>The street that wouldn't sleep...</b><br>
+Cheah, Phillip, Lay Wah Ang & David Toh. “[The street that wouldn't sleep...](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19851011-1.2.23.34)” Straits Times, 11 October 1985, 16. (From NewspaperSG) 
+
+#### Photographs - PictureSG
+<img style="width:500px" src="/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/rg-images/bugis%20street.jpg">
+<b>Bugis Street, 1980s: general view</b><br>
+[Bugis Street, 1980s: general view](http://eresources.nlb.gov.sg/pictures/Details/56ed5698-3b7a-4521-9b0e-6ad01a6c7c08). 1980s. Photograph. David Loke, PictureSG, National Library, Singapore 
+
