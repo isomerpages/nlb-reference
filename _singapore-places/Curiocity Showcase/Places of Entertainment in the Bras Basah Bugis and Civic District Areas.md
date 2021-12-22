@@ -28,7 +28,8 @@ This resource guide was prepared in December 2021 by Andrea Kee, an Associate Li
 #### Entertainment in Singapore
 
 <b>Books</b>    
-			<table style="width:100%">
+
+<table style="width:100%">
 <tr>
 		<td style="width:30%">
 				<b></b>
@@ -71,7 +72,7 @@ This resource guide was prepared in December 2021 by Andrea Kee, an Associate Li
 					<b> Singapore Cinema</b>
 					<br>
 				Millet, Raphaël. 
-<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044"> Singapore cinema</a>. Singapore: Editions Didier Millet, 2006. 
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044">Singapore cinema</a>. Singapore: Editions Didier Millet, 2006. 
 <br>Call no.: q791.43095957 MIL
 <br>
 <br>
