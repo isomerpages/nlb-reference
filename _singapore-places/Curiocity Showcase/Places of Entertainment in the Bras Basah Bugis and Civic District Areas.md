@@ -25,9 +25,9 @@ This guide provides supplementary resources for those who are keen to further ex
 
 This resource guide was prepared in December 2021 by Andrea Kee, an Associate Librarian at the National Library, Singapore.
 
-#### Entertainment in Singapore
+### Entertainment in Singapore
 
-<b>Books</b>    
+#### Books
 
 <table style="width:100%">
 <tr>
@@ -87,5 +87,13 @@ This resource guide was prepared in December 2021 by Andrea Kee, an Associate Li
 <br>
 Goh, Yu Mei and Michelle Heng. “<a href="https://youtu.be/c986BixuabU">Goh Yu Mei and Michelle Heng: Movie Magic!</a>” In *A Librarian’s World*, 20 March 2020. YouTube video. 
 
-#### The Capitol
-<b>BiblioAsia - articles</b>
+### The Capitol
+#### BiblioAsia - articles
+ 
+**Living it up at The Capitol**
+<br>
+Tan, Bonny. "[Living it up at The Capitol](https://biblioasia.nlb.gov.sg/files/pdf/vol-13/v13-issue4_Capitol.pdf).” *BiblioAsia* 13, issue 4 (2018): 16-21. 
+
+#### Newspaper articles
+<b>Today's Opening of The Capitol Theatre</b>
+“[Today's Opening of The Capitol Theatre](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19300522-1.2.110).” *The Straits Times*, 22 May 1930, 16. (From NewspaperSG)
