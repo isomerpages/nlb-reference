@@ -99,6 +99,24 @@ Tan, Bonny. "[Living it up at The Capitol](https://biblioasia.nlb.gov.sg/files/p
 “[Today's Opening of The Capitol Theatre](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19300522-1.2.110).” *The Straits Times*, 22 May 1930, 16. (From NewspaperSG)
 
 #### Photographs - PictureSG
-<img style="width:200px" src="/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/rg-images/capitol%20cinema.jpg">
+<img style="width:500px" src="/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/rg-images/capitol%20cinema.jpg">
 <b>Capitol Cinema: exterior</b><br>
 [Capitol Cinema: exterior [1]](https://eresources.nlb.gov.sg/pictures/Details/637885d6-5e1d-4287-a78f-8bc50525a43f). 28 Sep 1982. Photograph. Lee Kip Lin Collection, National Library Board.
+
+### Bugis Street
+#### BiblioAsia - articles
+<b>Bugis Street: From Sleazy to Sanitised</b><br>
+Lee, Meiyu. “[Bugis Street: From Sleazy to Sanitised](https://biblioasia.nlb.gov.sg/vol-11/issue-3/oct-dec-2015/bugis).” *BiblioAsia* 11, issue 3 (2015): 42-47. 
+
+#### Books
+<table style="width:100%">
+<tr>
+		<td style="width:30%">
+	<img style="width:150px" src="/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/yonfan%20bugis%20thumb.jpg">			<b></b>
+		</td>
+		<td style="width:70%">
+			<b>Yonfan's Bugis Street</b><br>
+Chan, Kenneth. [Yonfan's Bugis Street](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202367790). Hong Kong: Hong Kong University Pres, 2015. <br>Call no.: RSING 791.437209 CHA
+		</td>
+</tr>
+	</table>
