@@ -99,6 +99,6 @@ Tan, Bonny. "[Living it up at The Capitol](https://biblioasia.nlb.gov.sg/files/p
 “[Today's Opening of The Capitol Theatre](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19300522-1.2.110).” *The Straits Times*, 22 May 1930, 16. (From NewspaperSG)
 
 #### Photographs - PictureSG
-![Alt text for image on Isomer site](/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/rg-images/capitol%20cinema.jpg)
+<img style="width:200px" src="/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/rg-images/capitol%20cinema.jpg">
 <b>Capitol Cinema: exterior</b><br>
 [Capitol Cinema: exterior [1]](https://eresources.nlb.gov.sg/pictures/Details/637885d6-5e1d-4287-a78f-8bc50525a43f). 28 Sep 1982. Photograph. Lee Kip Lin Collection, National Library Board.
