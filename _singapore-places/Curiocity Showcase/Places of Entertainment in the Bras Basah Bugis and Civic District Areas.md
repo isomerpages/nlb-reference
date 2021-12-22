@@ -27,70 +27,25 @@ This resource guide was prepared in December 2021 by Andrea Kee, an Associate Li
 
 #### Entertainment in Singapore
 <b>Books</b>    
-|**Section Name**|**Description**|
-|----------------------|--------------------|
-|![Cover page of the book "Entertainment: Forms of Leisure in Singapore, 1920s - 1970s"](/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/entertainment%20forms%20of%20leisure%20thumb.jpg)|	<b>Entertainment, forms of leisure in Singapore, 1920s-1970s</b>
-			<br>Murthy, Vidya. 
-<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202933027"> Entertainment, forms of leisure in Singapore, 1920s-1970s</a>. Singapore: National Museum of Singapore, 2017. 
-<br>Call no.: RSING 790.0135095957 MUR|
-|----------------------|--------------------|
-|**My Workspace**|Webpages to edit.<br>Also, Main website elements (DO NOT EDIT)|
-|**Resources**|Blog posts; Pages organised by date|
-|**Images**|Picture, photos, images|
-|**Files**|Documents for downloading; PDFs; MS Office files|
-|**Settings**|**(DO NOT EDIT)** Website settings|
-|**Guide**|Govtech's Isomer CMS Guide (new tab)|
-|**Help**|Form to request for Isomer - But you can consult Kevin first|
-		<table style="width:100%">
-<tr>
-		<td style="width:30%">
-				<b></b>
-		</td>
-		<td style="width:70%">
-		</td>
-</tr>
- <tr>
-		<td>
-				<img style="width:150px" src="/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/entertainment%20forms%20of%20leisure%20thumb.jpg">
-		</td>
-		<td>
-			<b>Entertainment, forms of leisure in Singapore, 1920s-1970s</b>
+	<table>	
+	<tr>
+		<td>![Cover page of the book "Entertainment: Forms of leisure in Singapore, 1920s -1970s"](/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/entertainment%20forms%20of%20leisure%20thumb.jpg)</td>
+		<td><b>Entertainment, forms of leisure in Singapore, 1920s-1970s</b>
 			<br>
-		Murthy, Vidya. 
-<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202933027"> Entertainment, forms of leisure in Singapore, 1920s-1970s</a>. Singapore: National Museum of Singapore, 2017. 
+				Murthy, Vidya. [Entertainment, forms of leisure in Singapore, 1920s-1970s](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202933027).  Singapore: National Museum of Singapore, 2017. 
 <br>Call no.: RSING 790.0135095957 MUR
-<br>
-<br>
-        </td>
-     </tr>
-    <tr>
-        <td>
-            <img style="width:150px" src="/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/past%20time%20thumb.jpg">
-        </td>
-        <td>
-					<b>Leisure, Pleasure and Consumption: Ways of entertaining oneself</b>
-					<br>
-            Yung, Sai Shing & Kwok Bun Chan. “Leisure, Pleasure and Consumption: Ways of entertaining oneself.” In <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203232312">Past Times: A social history of Singapore</a>, edited by Chan, Kwok Bun & Chee Kiong Tong, 153-182. Singapore: Times Editions, 2003. 
-<br>Call no.: RSING 959.57 PAS -[HIS]
-<br>
-<br> 
-        </td>
-    </tr>
-   <tr>
-        <td>
-            <img style="width:150px" src="/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/singapore%20cinema%20thumb.jpg">
-        </td>
-        <td>
-					<b> Singapore Cinema</b>
-					<br>
-				Millet, Raphaël. 
-<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044"> Singapore cinema</a>. Singapore: Editions Didier Millet, 2006. 
-<br>Call no.: q791.43095957 MIL
-<br>
-<br>
-        </td>
-    </tr>
-	</table>
+	</tr>
+	<tr>
+		<td>![Cover page of the book "Past Times: A Social History of Singapore"](/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/past%20time%20thumb.jpg)</td>
+		<td><b>Leisure, Pleasure and Consumption: Ways of entertaining oneself</b>
+			<br>
+			 Yung, Sai Shing & Kwok Bun Chan. “Leisure, Pleasure and Consumption: Ways of entertaining oneself.” In [Past Times: A social history of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203232312), edited by Chan, Kwok Bun & Chee Kiong Tong, 153-182. Singapore: Times Editions, 2003. 
+			<br>Call no.: RSING 959.57 PAS -[HIS]
+		</td>
+		</table>
+			
+	
+			
 
 <b>Videos</b>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c986BixuabU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
