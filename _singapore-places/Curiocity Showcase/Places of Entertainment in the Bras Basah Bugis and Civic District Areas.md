@@ -26,6 +26,7 @@ This guide provides supplementary resources for those who are keen to further ex
 This resource guide was prepared in December 2021 by Andrea Kee, an Associate Librarian at the National Library, Singapore.
 
 #### Entertainment in Singapore
+
 <b>Books</b>    
 	<table style="width:100%">
 <tr>
@@ -37,14 +38,10 @@ This resource guide was prepared in December 2021 by Andrea Kee, an Associate Li
 </tr>
  <tr>
 		<td style="width:30%">
-				<img style="width:150px" src="/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/entertainment%20forms%20of%20leisure%20thumb.jpg">
+				<img style="width:150px" src="/images/singapore-places/curiocity-showcase-2022/bridges-sg-river/singapore%20lifeline%20thumb.jpg">
 		</td>
 		<td style="width:70%">
-			<b>Entertainment, forms of leisure in Singapore, 1920s-1970s</b>
-			<br>
-		Murthy, Vidya. 
-<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202933027"> Entertainment, forms of leisure in Singapore, 1920s-1970s</a>. Singapore: National Museum of Singapore, 2017. 
-<br>Call no.: RSING 790.0135095957 MUR
+			<b>Singapore Lifeline: The River and its People</b><br>National Archives of Singapore. <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4182975">Singapore lifeline: The river and its people</a>. Singapore: Times Books International, 1986. <br>Call no.: RSING 779.995957 SIN
 <br>
 <br>
         </td>
