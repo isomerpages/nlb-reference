@@ -6,10 +6,9 @@ collection_name: singapore
 third_nav_title: Singapore
 description: ""
 ---
-
 <img src="/images/category/places.jpg" alt="places banner" style="width:800px;" />
 
-#### Curiocity Showcase
+#### Curiocity Showcase 2022
 
 - [**Places of Entertainment in the Bras Basah Bugis and Civic District Areas**](/guides/singapore/places/entertainment-bras-basah)
 
