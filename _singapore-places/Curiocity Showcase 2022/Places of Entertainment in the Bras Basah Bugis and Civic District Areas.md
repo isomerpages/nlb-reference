@@ -73,18 +73,6 @@ This resource guide was prepared in December 2021 by Andrea Kee, an Associate Li
 <br>
 Goh, Yu Mei and Michelle Heng. “<a href="https://youtu.be/c986BixuabU">Goh Yu Mei and Michelle Heng: Movie Magic!</a>” In *A Librarian’s World*, 20 March 2020. YouTube video. 
 
-### <u>The Capitol</u>
-#### BiblioAsia - articles
-*  
-Tan, Bonny. "[Living it up at The Capitol](https://biblioasia.nlb.gov.sg/files/pdf/vol-13/v13-issue4_Capitol.pdf).” *BiblioAsia* 13, issue 4 (2018): 16-21. 
-
- #### Newspaper articles
-* “[Today's Opening of The Capitol Theatre](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19300522-1.2.110).” *The Straits Times*, 22 May 1930, 16. (From NewspaperSG)
-
-#### Photographs - PictureSG
-<img style="width:500px" src="/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/rg-images/capitol%20cinema.jpg">
-[Capitol Cinema: exterior [1]](https://eresources.nlb.gov.sg/pictures/Details/637885d6-5e1d-4287-a78f-8bc50525a43f). 28 Sep 1982. Photograph. Lee Kip Lin Collection, PictureSG, National Library, Singapore
-
 ### <u> Bugis Street</u>
 #### BiblioAsia - articles
 
@@ -130,6 +118,17 @@ Lim, Kay Tong. <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=609568
 #### Newspaper articles
 * “[Cathay Cinema Opens Doors Tonight](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19391003-1.2.55).” *Singapore Free Press and Mercantile Advertiser*, 3 October 1939, 5. (From NewspaperSG)
 
+### <u>Jubilee Theatre</u>
+
+#### Photographs - PictureSG
+<img style="width:500px" src="/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/rg-images/jubilee%20theatre.jpg">
+[Jubilee Theatre](https://eresources.nlb.gov.sg/pictures/details/7c8de66e-a7ed-4463-b368-0017d7d7ba7a). 16 Jan 1983. Photograph. Lee Kip Lin Collection, PictureSG, National Library, Singapore.
+
+#### Newspaper articles 
+* “[Chang Wei Chung](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19370121-1.2.16).” *Singapore Free Press and Mercantile Advertiser*, 5 December 1935, 7. (From NewspaperSG)
+* “[Movie League for Children](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19480206-1.2.34.12).” The *Singapore Free Press*, 6 February 1948, 5. (From NewspaperSG)
+* Teo, Lian Huay. “[Curtains to come down on another theatre](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19780929-1.2.9).” *New Nation*, 29 September 1978, 2. (From NewspaperSG)
+
 ### <u>Odeon Cinema</u>
 #### Singapore Infopedia - articles
 * Chia, Joshua Yeong Jia. “[Odeon Cinema](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1143_2006-06-21.html).” Singapore Infopedia. Published September 2017.
@@ -151,6 +150,18 @@ Lim, Kay Tong. <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=609568
 <img style="width:250px" src="/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/rg-images/rex%20cinema.jpg">
 [MacKenzie Road, with Rex Cinema, 1982: general view](https://eresources.nlb.gov.sg/pictures/Details/17b1c2c2-66e3-4d2e-98d1-6d851980695e). 18 July 1982. Photograph. Lee Kip Lin Collection, PictureSG, National Library, Singapore.
 
+### <u>The Capitol</u>
+#### BiblioAsia - articles
+*  
+Tan, Bonny. "[Living it up at The Capitol](https://biblioasia.nlb.gov.sg/files/pdf/vol-13/v13-issue4_Capitol.pdf).” *BiblioAsia* 13, issue 4 (2018): 16-21. 
+
+#### Newspaper articles
+* “[Today's Opening of The Capitol Theatre](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19300522-1.2.110).” *The Straits Times*, 22 May 1930, 16. (From NewspaperSG)
+
+#### Photographs - PictureSG
+<img style="width:500px" src="/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/rg-images/capitol%20cinema.jpg">
+[Capitol Cinema: exterior [1]](https://eresources.nlb.gov.sg/pictures/Details/637885d6-5e1d-4287-a78f-8bc50525a43f). 28 Sep 1982. Photograph. Lee Kip Lin Collection, PictureSG, National Library, Singapore
+
 ### <u>Victoria Theatre</u>
 #### Books
 <table style="width:100%">
@@ -159,7 +170,7 @@ Lim, Kay Tong. <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=609568
 	<img style="width:150px" src="/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/granite%20and%20chunan%20thumb.jpg">		
 		</td>
 		<td style="width:70%">
-Liu, Gretchen. [In granite and chunam: The national monuments of S](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7919754)ingapore. Singapore: Landmark Books and Preservation of Monuments Board, 1996. <br>Call no.: RSING 725.94095957 LIU
+Liu, Gretchen. <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=7919754"> In granite and chunam: The national monuments of Singapore.</a> Singapore: Landmark Books and Preservation of Monuments Board, 1996. <br>Call no.: RSING 725.94095957 LIU
 		</td>
 </tr>
 	</table>
@@ -170,17 +181,6 @@ Liu, Gretchen. [In granite and chunam: The national monuments of S](https://eser
 
 #### Singapore Infopedia - articles
 * Tan, Bonny. “[Victoria Theatre and Concert Hall](https://eresources.nlb.gov.sg/infopedia/articles/SIP_770_2004-12-16.html).” Singapore Infopedia. Published 2016. 
-
-### <u>Jubilee Theatre</u>
-
-#### Photographs - PictureSG
-<img style="width:500px" src="/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/rg-images/jubilee%20theatre.jpg">
-[Jubilee Theatre](https://eresources.nlb.gov.sg/pictures/details/7c8de66e-a7ed-4463-b368-0017d7d7ba7a). 16 Jan 1983. Photograph. Lee Kip Lin Collection, PictureSG, National Library, Singapore.
-
-#### Newspaper articles 
-* “[Chang Wei Chung](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19370121-1.2.16).” *Singapore Free Press and Mercantile Advertiser*, 5 December 1935, 7. (From NewspaperSG)
-* “[Movie League for Children](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19480206-1.2.34.12).” The *Singapore Free Press*, 6 February 1948, 5. (From NewspaperSG)
-* Teo, Lian Huay. “[Curtains to come down on another theatre](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19780929-1.2.9).” *New Nation*, 29 September 1978, 2. (From NewspaperSG)
 
 All Rights Reserved. National Library Board Singapore 2022.
 <br><br>
