@@ -138,7 +138,6 @@ Lim, Kay Tong. <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=609568
 * Boland, Geoffery. “[This new cinema will have 'cry room,’ five bars—and 3D](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530329-1.2.104)”. *Straits Times*, 29 March 1953, 11. (From NewspaperSG) 
 
 #### Photographs - PictureSG
-
 <img style="width:250px" src="/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/rg-images/odeon%20cinema.jpg">
 [Odeon Cinema, 1983](https://eresources.nlb.gov.sg/pictures/details/d87b36df-3e0e-4414-8f61-50d7d83ebd4c). 16 Jan 1983. Photograph. Lee Kip Lin Collection, PictureSG, National Library, Singapore.
 
@@ -148,4 +147,39 @@ Lim, Kay Tong. <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=609568
 * “[New (Million Dollar) Theatre for Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19460521-1.2.25).” *Malaya Tribune*, 21 May 1946, 2. (From NewspaperSG)
 * Tan, Catherine. “[Curtains for cinema](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19831106-1.2.3).” *Straits Times*, 6 November 1983, 1. (From NewspaperSG)
 
+#### Photographs - PictureSG
+<img style="width:250px" src="/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/rg-images/rex%20cinema.jpg">
+[MacKenzie Road, with Rex Cinema, 1982: general view](https://eresources.nlb.gov.sg/pictures/Details/17b1c2c2-66e3-4d2e-98d1-6d851980695e). 18 July 1982. Photograph. Lee Kip Lin Collection, PictureSG, National Library, Singapore.
 
+### <u>Victoria Theatre</u>
+#### Books
+<table style="width:100%">
+<tr>
+		<td style="width:30%">
+	<img style="width:150px" src="/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/granite%20and%20chunan%20thumb.jpg">		
+		</td>
+		<td style="width:70%">
+Liu, Gretchen. [In granite and chunam: The national monuments of S](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7919754)ingapore. Singapore: Landmark Books and Preservation of Monuments Board, 1996. <br>Call no.: RSING 725.94095957 LIU
+		</td>
+</tr>
+	</table>
+
+#### 	Photographs - PictureSG
+<img style="width:500px" src="/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/rg-images/victoria%20theatre.jpg">
+[Town Hall, Singapore](http://eresources.nlb.gov.sg/pictures/Details/5195f3a7-d7d9-42b9-b0c2-87de42dd8446). 1900s. Photograph. Lim Shao Bin Collection, PictureSG, National Library, Singapore.
+
+#### Singapore Infopedia - articles
+* Tan, Bonny. “[Victoria Theatre and Concert Hall](https://eresources.nlb.gov.sg/infopedia/articles/SIP_770_2004-12-16.html).” Singapore Infopedia. Published 2016. 
+
+### <u>Jubilee Theatre</u>
+
+#### Photographs - PictureSG
+<img style="width:500px" src="/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/rg-images/jubilee%20theatre.jpg">
+[Jubilee Theatre](https://eresources.nlb.gov.sg/pictures/details/7c8de66e-a7ed-4463-b368-0017d7d7ba7a). 16 Jan 1983. Photograph. Lee Kip Lin Collection, PictureSG, National Library, Singapore.
+
+#### Newspaper articles 
+* “[Chang Wei Chung](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19370121-1.2.16).” *Singapore Free Press and Mercantile Advertiser*, 5 December 1935, 7. (From NewspaperSG)
+* “[Movie League for Children](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19480206-1.2.34.12).” The *Singapore Free Press*, 6 February 1948, 5. (From NewspaperSG)
+* Teo, Lian Huay. “[Curtains to come down on another theatre](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19780929-1.2.9).” *New Nation*, 29 September 1978, 2. (From NewspaperSG)
+
+All Rights Reserved. National Library Board Singapore 2022.
