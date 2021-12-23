@@ -8,13 +8,13 @@ third_nav_title: Curiocity Showcase 2022
 
 ## Curiocity: Places & Perspectives
 
-### Overview
 Looking at Singapore today, it is easy to forget that it was once dotted with kampungs and plantations. And as we have changed, so has our cityscape. By spotlighting selected leisure and entertainment places in downtown Singapore as well as presenting fascinating histories hidden in plain sight, Curiocity gives us an opportunity to examine the evolution of our spaces and reflect on our relationship with them.
 
 Accessible both in-person and online, Curiocity invites you to discover, learn and engage with our island’s history through the content and collections from the National Library Board and its partners. Presented in partnership with the Light to Night Festival 2022, Curiocity: Places & Perspectives will be held at the National Library Building (3 January – 3 February 2022) and across several locations in the Civic District (14 January – 3 February 2022).
 
 This resource guide has been produced to complement the main showcase ‘XXX’ at National Library Building, exploring the thematic focus of **‘Places of Entertainment in the Bras Basah Bugis and Civic District areas’**.
 
+### <u>Introduction</u>
 When it comes to entertainment today, we are spoilt for choice. We can visit a shopping mall, watch shows on our favourite streaming platforms, or scroll endlessly on social media sites like TikTok and Instagram. Singapore’s early immigrants and residents, however, had few activities to occupy themselves beyond vices (such as gambling) and larger organised forms of entertainment associated with religious events. It was only in the late 19th century that entertainment in Singapore started becoming consumptive, and specific indoor entertainment spaces emerged.[^1]
 
 [^1]: Sai Shing Yung & Chan Kwok Bun, “Leisure, Pleasure and Consumption: Ways of Entertaining oneself,” in [Past Times: A Social History of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11800570), 153-154. (Call no.: RSING 959.57 PAS -[HIS])
@@ -183,3 +183,4 @@ Liu, Gretchen. [In granite and chunam: The national monuments of S](https://eser
 * Teo, Lian Huay. “[Curtains to come down on another theatre](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19780929-1.2.9).” *New Nation*, 29 September 1978, 2. (From NewspaperSG)
 
 All Rights Reserved. National Library Board Singapore 2022.
+<br><br>
