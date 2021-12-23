@@ -4,7 +4,6 @@ permalink: /guides/singapore/places/entertainment-bras-basah
 description: ""
 third_nav_title: Curiocity Showcase 2022
 ---
-
 # Places of Entertainment in the Bras Basah Bugis and Civic District Areas
 
 ## Curiocity: Places & Perspectives
@@ -143,7 +142,21 @@ Cheah, Phillip, Lay Wah Ang & David Toh. “[The street that wouldn't sleep...](
 		</td>
 		<td style="width:70%">
 			<b>Cathay: 55 years of cinema</b><br>
-Lim, Kay Tong. [Cathay: 55 years of cinema](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688). Singapore: Landmark Books for Meileen Choo, 1991. <br>Call no.: RSING 791.43095957 LIM
+Lim, Kay Tong. <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688">Cathay: 55 years of cinema </a>. Singapore: Landmark Books for Meileen Choo, 1991. <br>Call no.: RSING 791.43095957 LIM
 		</td>
 </tr>
 	</table>
+	
+#### 	Photographs - PictureSG
+<img style="width:500px" src="/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/rg-images/cathay%20building.jpg">
+<b>Cathay Building, 1941</b><br>
+<a href="https://eresources.nlb.gov.sg/pictures/Details/b66ccd53-2804-43e4-9599-854546140e75">Cathay Building, 1941.</a> 1941. Photograph. Chung Shui Ken, PictureSG, National Library, Singapore. 
+
+#### Newspaper articles
+**Cathay Cinema Opens Doors Tonight**
+“[Cathay Cinema Opens Doors Tonight](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19391003-1.2.55).” *Singapore Free Press and Mercantile Advertiser*, 3 October 1939, 5. (From NewspaperSG)
+
+### <u>Odeon Cinema</u>
+
+
+	
