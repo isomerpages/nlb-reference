@@ -14,7 +14,7 @@ Accessible both in-person and online, Curiocity invites you to discover, learn a
 
 This resource guide has been produced to complement the main showcase ‘XXX’ at National Library Building, exploring the thematic focus of **‘Places of Entertainment in the Bras Basah Bugis and Civic District areas’**.
 
-### <u>Introduction</u>
+### Introduction
 When it comes to entertainment today, we are spoilt for choice. We can visit a shopping mall, watch shows on our favourite streaming platforms, or scroll endlessly on social media sites like TikTok and Instagram. Singapore’s early immigrants and residents, however, had few activities to occupy themselves beyond vices (such as gambling) and larger organised forms of entertainment associated with religious events. It was only in the late 19th century that entertainment in Singapore started becoming consumptive, and specific indoor entertainment spaces emerged.[^1]
 
 [^1]: Sai Shing Yung & Chan Kwok Bun, “Leisure, Pleasure and Consumption: Ways of Entertaining oneself,” in [Past Times: A Social History of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11800570), 153-154. (Call no.: RSING 959.57 PAS -[HIS])
@@ -25,10 +25,9 @@ This guide provides resources for those who are keen to further explore this top
 
 This resource guide was prepared in December 2021 by Andrea Kee, an Associate Librarian at the National Library, Singapore.
 
-### <u> Entertainment in Singapore</u>
+### Entertainment in Singapore
 
-#### Books
-
+**Books**
 <table style="width:100%">
 <tr>
 	<td style="width:30%">
@@ -37,7 +36,7 @@ This resource guide was prepared in December 2021 by Andrea Kee, an Associate Li
         <td style="width:70%">
 				Millet, Raphaël. 
 <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044">Singapore cinema</a>. Singapore: Editions Didier Millet, 2006. 
-<br>Call no.: q791.43095957 MIL
+<br>Call no.: RSING q791.43095957 MIL
 <br>
 <br>
 		</td>
@@ -67,18 +66,17 @@ This resource guide was prepared in December 2021 by Andrea Kee, an Associate Li
     </tr>
 	</table>
 	
-<b>Videos</b>
+**Videos**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c986BixuabU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br>
 Goh, Yu Mei and Michelle Heng. “<a href="https://youtu.be/c986BixuabU">Goh Yu Mei and Michelle Heng: Movie Magic!</a>” In *A Librarian’s World*, 20 March 2020. YouTube video. 
 
-### <u> Bugis Street</u>
-#### BiblioAsia - articles
-
+### Bugis Street
+ 
+**BiblioAsia - articles**
 * Lee, Meiyu. “[Bugis Street: From Sleazy to Sanitised](https://biblioasia.nlb.gov.sg/vol-11/issue-3/oct-dec-2015/bugis).” *BiblioAsia* 11, issue 3 (2015): 42-47. 
 
-#### Books
+**Books**
 <table style="width:100%">
 <tr>
 		<td style="width:30%">
@@ -90,16 +88,16 @@ Chan, Kenneth. <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202367
 </tr>
 	</table>
 
-#### Newspaper articles
-* “[Anti-vice to clean up Bugis Street](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19800822-1.2.20).” New Nation, 22 August 1980, 5. (From NewspaperSG)
-* Cheah, Phillip, Lay Wah Ang & David Toh. “[The street that wouldn't sleep...](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19851011-1.2.23.34)” Straits Times, 11 October 1985, 16. (From NewspaperSG) 
+**Newspaper articles**
+* “[Anti-vice to clean up Bugis Street](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19800822-1.2.20).” *New Nation*, 22 August 1980, 5. (From NewspaperSG)
+* Cheah, Phillip, Lay Wah Ang & David Toh. “[The street that wouldn't sleep...](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19851011-1.2.23.34)” *Straits Times*, 11 October 1985, 16. (From NewspaperSG) 
 
-#### Photographs - PictureSG
+**Photographs - PictureSG**
 <img style="width:500px" src="/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/rg-images/bugis%20street.jpg">
 [Bugis Street, 1980s: general view](http://eresources.nlb.gov.sg/pictures/Details/56ed5698-3b7a-4521-9b0e-6ad01a6c7c08). 1980s. Photograph. David Loke, PictureSG, National Library, Singapore.
 
-### <u>Cathay Building</u>
-#### Books
+### Cathay Building
+**Books**
 <table style="width:100%">
 <tr>
 		<td style="width:30%">
@@ -111,59 +109,59 @@ Lim, Kay Tong. <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=609568
 </tr>
 	</table>
 	
-#### 	Photographs - PictureSG
+**Photographs - PictureSG**
 <img style="width:500px" src="/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/rg-images/cathay%20building.jpg">
 <a href="https://eresources.nlb.gov.sg/pictures/Details/b66ccd53-2804-43e4-9599-854546140e75">Cathay Building, 1941.</a> 1941. Photograph. Chung Shui Ken, PictureSG, National Library, Singapore. 
 
-#### Newspaper articles
+**Newspaper articles**
 * “[Cathay Cinema Opens Doors Tonight](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19391003-1.2.55).” *Singapore Free Press and Mercantile Advertiser*, 3 October 1939, 5. (From NewspaperSG)
 
-### <u>Jubilee Theatre</u>
+### Jubilee Theatre
 
-#### Photographs - PictureSG
+**Photographs - PictureSG**
 <img style="width:500px" src="/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/rg-images/jubilee%20theatre.jpg">
 [Jubilee Theatre](https://eresources.nlb.gov.sg/pictures/details/7c8de66e-a7ed-4463-b368-0017d7d7ba7a). 16 Jan 1983. Photograph. Lee Kip Lin Collection, PictureSG, National Library, Singapore.
 
-#### Newspaper articles 
+**Newspaper articles**
 * “[Chang Wei Chung](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19370121-1.2.16).” *Singapore Free Press and Mercantile Advertiser*, 5 December 1935, 7. (From NewspaperSG)
 * “[Movie League for Children](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19480206-1.2.34.12).” The *Singapore Free Press*, 6 February 1948, 5. (From NewspaperSG)
 * Teo, Lian Huay. “[Curtains to come down on another theatre](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19780929-1.2.9).” *New Nation*, 29 September 1978, 2. (From NewspaperSG)
 
-### <u>Odeon Cinema</u>
-#### Singapore Infopedia - articles
+### Odeon Cinema
+**Singapore Infopedia - articles**
 * Chia, Joshua Yeong Jia. “[Odeon Cinema](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1143_2006-06-21.html).” Singapore Infopedia. Published September 2017.
 
-#### Newspaper articles
+**Newspaper articles**
 * Boland, Geoffery. “[This new cinema will have 'cry room,’ five bars—and 3D](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530329-1.2.104)”. *Straits Times*, 29 March 1953, 11. (From NewspaperSG) 
 
-#### Photographs - PictureSG
+**Photographs - PictureSG**
 <img style="width:250px" src="/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/rg-images/odeon%20cinema.jpg">
 [Odeon Cinema, 1983](https://eresources.nlb.gov.sg/pictures/details/d87b36df-3e0e-4414-8f61-50d7d83ebd4c). 16 Jan 1983. Photograph. Lee Kip Lin Collection, PictureSG, National Library, Singapore.
 
-### <u>Rex Cinema</u>
-#### Newspaper articles
+### Rex Cinema
+**Newspaper articles**
 * Low, Genevieve. “[The return of Rex](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20090420-1.2.30.4).” *TODAY*, 20 April 2009, 24. (From NewspaperSG)
 * “[New (Million Dollar) Theatre for Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19460521-1.2.25).” *Malaya Tribune*, 21 May 1946, 2. (From NewspaperSG)
 * Tan, Catherine. “[Curtains for cinema](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19831106-1.2.3).” *Straits Times*, 6 November 1983, 1. (From NewspaperSG)
 
-#### Photographs - PictureSG
+**Photographs - PictureSG**
 <img style="width:250px" src="/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/rg-images/rex%20cinema.jpg">
 [MacKenzie Road, with Rex Cinema, 1982: general view](https://eresources.nlb.gov.sg/pictures/Details/17b1c2c2-66e3-4d2e-98d1-6d851980695e). 18 July 1982. Photograph. Lee Kip Lin Collection, PictureSG, National Library, Singapore.
 
-### <u>The Capitol</u>
-#### BiblioAsia - articles
+### The Capitol
+**BiblioAsia - articles**
 *  
 Tan, Bonny. "[Living it up at The Capitol](https://biblioasia.nlb.gov.sg/files/pdf/vol-13/v13-issue4_Capitol.pdf).” *BiblioAsia* 13, issue 4 (2018): 16-21. 
 
-#### Newspaper articles
+**Newspaper articles**
 * “[Today's Opening of The Capitol Theatre](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19300522-1.2.110).” *The Straits Times*, 22 May 1930, 16. (From NewspaperSG)
 
-#### Photographs - PictureSG
+**Photographs - PictureSG**
 <img style="width:500px" src="/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/rg-images/capitol%20cinema.jpg">
 [Capitol Cinema: exterior [1]](https://eresources.nlb.gov.sg/pictures/Details/637885d6-5e1d-4287-a78f-8bc50525a43f). 28 Sep 1982. Photograph. Lee Kip Lin Collection, PictureSG, National Library, Singapore
 
-### <u>Victoria Theatre</u>
-#### Books
+### Victoria Theatre
+**Books**
 <table style="width:100%">
 <tr>
 		<td style="width:30%">
@@ -175,11 +173,11 @@ Liu, Gretchen. <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=791975
 </tr>
 	</table>
 
-#### 	Photographs - PictureSG
+**Photographs - PictureSG**
 <img style="width:500px" src="/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/rg-images/victoria%20theatre.jpg">
 [Town Hall, Singapore](http://eresources.nlb.gov.sg/pictures/Details/5195f3a7-d7d9-42b9-b0c2-87de42dd8446). 1900s. Photograph. Lim Shao Bin Collection, PictureSG, National Library, Singapore.
 
-#### Singapore Infopedia - articles
+**Singapore Infopedia - articles**
 * Tan, Bonny. “[Victoria Theatre and Concert Hall](https://eresources.nlb.gov.sg/infopedia/articles/SIP_770_2004-12-16.html).” Singapore Infopedia. Published 2016. 
 
 All Rights Reserved. National Library Board Singapore 2022.
