@@ -167,6 +167,19 @@ Boland, Geoffery. “[This new cinema will have 'cry room,’ five bars—and 3D
 
 #### Photographs - PictureSG
 
-<img style="width:500px" src="/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/rg-images/odeon%20cinema.jpg">
+<img style="width:250px" src="/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/rg-images/odeon%20cinema.jpg">
 **Odeon Cinema, 1983**<br>
 [Odeon Cinema, 1983](https://eresources.nlb.gov.sg/pictures/details/d87b36df-3e0e-4414-8f61-50d7d83ebd4c). 16 Jan 1983. Photograph. Lee Kip Lin Collection, PictureSG, National Library, Singapore.
+
+### <u>Rex Cinema</u>
+#### Newspaper articles
+Curtains for cinema<br>
+Tan, Catherine. “[Curtains for cinema](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19831106-1.2.3).” *Straits Times*, 6 November 1983, 1. (From NewspaperSG)
+
+New (Million Dollar) Theatre for Singapore<br>
+“[New (Million Dollar) Theatre for Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19460521-1.2.25).” *Malaya Tribune*, 21 May 1946, 2. (From NewspaperSG)
+
+The return of Rex<br>
+Low, Genevieve. “[The return of Rex](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20090420-1.2.30.4).” *TODAY*, 20 April 2009, 24. (From NewspaperSG)
+
+
