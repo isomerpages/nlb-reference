@@ -157,6 +157,16 @@ Lim, Kay Tong. <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=609568
 “[Cathay Cinema Opens Doors Tonight](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19391003-1.2.55).” *Singapore Free Press and Mercantile Advertiser*, 3 October 1939, 5. (From NewspaperSG)
 
 ### <u>Odeon Cinema</u>
+#### Singapore Infopedia - articles
+**Odeon Cinema**<br>
+Chia, Joshua Yeong Jia. “[Odeon Cinema](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1143_2006-06-21.html).” Singapore Infopedia. Published September 2017.
 
+#### Newspaper articles
+**This new cinema will have 'cry room,’ five bars—and 3D**<br>
+Boland, Geoffery. “[This new cinema will have 'cry room,’ five bars—and 3D](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530329-1.2.104)”. *Straits Times*, 29 March 1953, 11. (From NewspaperSG) 
 
-	
+#### Photographs - PictureSG
+
+<img style="width:500px" src="/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/rg-images/odeon%20cinema.jpg">
+**Odeon Cinema, 1983**<br>
+[Odeon Cinema, 1983](https://eresources.nlb.gov.sg/pictures/details/d87b36df-3e0e-4414-8f61-50d7d83ebd4c). 16 Jan 1983. Photograph. Lee Kip Lin Collection, PictureSG, National Library, Singapore.
