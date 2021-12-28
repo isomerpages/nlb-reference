@@ -16,7 +16,7 @@ description: ""
 
 - [**Bridges along Singapore River**](/guides/singapore/places/bridges-sg-river)
 
-- [**Sports and Recreation in the Civic District**](/guides/singapore/places/sports-recreation-civic-district)
+- [**Sports in the Civic District**](/guides/singapore/places/sports-civic-district)
 
 #### Other Guides
 
