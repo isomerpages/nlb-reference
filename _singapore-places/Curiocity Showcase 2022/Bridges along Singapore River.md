@@ -25,16 +25,16 @@ This guide provides supplementary resources for those who are keen to further ex
 This resource guide was prepared in December 2021 by Andrea Kee, an Associate Librarian at the National Library, Singapore.
 
 ### BiblioAsia - articles
-* Lim, Tin Seng. “[Bridging History: Passageways Across Wate](https://biblioasia.nlb.gov.sg/vol-14/issue-4/jan-mar-2019/bridging-history-wtr/). *BiblioAsia* 14, issue 4 (2019): 42-49. 
+* Lim, Tin Seng. “[Bridging History: Passageways Across Water](https://biblioasia.nlb.gov.sg/vol-14/issue-4/jan-mar-2019/bridging-history-wtr/). *BiblioAsia* 14, issue 4 (2019): 42-49. 
 
 ### Books
-<table style="width:100%">
+<table style="width:100%" style="font-size:125%">
 <tr>
 		<td style="width:30%">
 			<img style="width:150px" src="/images/singapore-places/curiocity-showcase-2022/bridges-sg-river/sg%20river%20living%20legacy%20thumb.jpg">
 		</td>
 		<td style="width:70%">
-			Berry, Linda. <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082388">Singapore's river: A living legacy</a>. Singapore: Eastern Universities Press, 1982. <br>Call no.: RSING 959.57 BER -[HIS]
+			Berry, Linda. <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082388"><i>Singapore's river: A living legacy</i></a>. Singapore: Eastern Universities Press, 1982. (Call no.: RSING 959.57 BER -[HIS])
 	</td>
 	</tr>
 	<tr>
@@ -42,9 +42,8 @@ This resource guide was prepared in December 2021 by Andrea Kee, an Associate Li
             <img style="width:150px" src="/images/singapore-places/curiocity-showcase-2022/bridges-sg-river/sg%20river%20walk%20thumb.jpg">
         </td>
         <td style="width:70%">
-				Chuan, Marcus Ng Fu. 
-<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202919344"> Singapore River Walk</a>. Singapore: National Heritage Board, 2016. 
-					<br>Call no.: RSING 915.95704 NG -[TRA])
+				Ng, Marcus Fu Chuan. 
+					<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202919344"><i>Singapore River Walk</i></a>. Singapore: National Heritage Board, 2016. (Call no.: RSING 915.95704 NG -[TRA])
 <br>
 <br>
         </td>
@@ -53,7 +52,7 @@ This resource guide was prepared in December 2021 by Andrea Kee, an Associate Li
 		<td style="width:30%">
 				<img style="width:150px" src="/images/singapore-places/curiocity-showcase-2022/bridges-sg-river/singapore%20lifeline%20thumb.jpg">
 		</td>
-		<td>National Archives of Singapore. <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4182975">Singapore lifeline: The river and its people</a>. Singapore: Times Books International, 1986. <br>Call no.: RSING 779.995957 SIN
+		<td>National Archives of Singapore. <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4182975"><i>Singapore lifeline: The river and its people</i></a>. Singapore: Times Books International, 1986. (Call no.: RSING 779.995957 SIN)
 <br>
 <br>
         </td>
@@ -61,13 +60,13 @@ This resource guide was prepared in December 2021 by Andrea Kee, an Associate Li
 	</table>
 	
 ### 	eBooks
-<table style="width:100%">
+<table style="width:100%" style="font-size:125%">
 <tr>
 		<td style="width:30%">
 	<img style="width:150px" src="/images/singapore-places/curiocity-showcase-2022/bridges-sg-river/singapore%20river%20social%20history%20thumb.jpg">
 		</td>
 		<td style="width:70%">
-Dobbs, Stephen. <a href="https://nlb.overdrive.com/media/3236263">The Singapore River: A social history </a>. Singapore: Singapore University Press, 2003. <br><br>Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/">myLibrary ID</a> is required to access the eBook)
+Dobbs, Stephen. <a href="https://nlb.overdrive.com/media/3236263"><i>The Singapore River: A social history</i></a>. Singapore: Singapore University Press, 2003. <br><br>Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/">myLibrary ID</a> is required to access the eBook)
 		</td>
 </tr>
 	</table>
@@ -83,12 +82,12 @@ Dobbs, Stephen. <a href="https://nlb.overdrive.com/media/3236263">The Singapore 
 * “[The Anderson Bridge](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19100317-1.2.53).” *Singapore Free Press and Mercantile Advertiser (Weekly)*, 17 March 1910, 8. (From NewspaperSG)
 
 **Cavenagh bridge**
-* Kho, Betty L. [“Lovers stroll across this historic bridge](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19720428-1.2.54.1)”. *New Nation*, 28 April 1972, 9. (From NewspaperSG)
+* Khoo, Betty L. [“Lovers stroll across this historic bridge](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19720428-1.2.54.1)”. *New Nation*, 28 April 1972, 9. (From NewspaperSG)
 * 
-“[NOTES & COMMENTS: Cavenagh Bridge](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19370217-1.2.36).” *Malaya Tribune*, 17 February 1937, 12. (From NewspaperSG)
+“[Notes and Comments: Cavenagh Bridge](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19370217-1.2.36).” *Malaya Tribune*, 17 February 1937, 12. (From NewspaperSG)
 
 **Clemenceau bridge**
-* "[‘CLEMENCEAU BRIDGE’ AT PULAU SAIGON](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19400330-1.2.51)”.   *Singapore Free Press and Mercantile Advertiser*, 30 March 1940, 5. (From NewspaperSG)
+* “[‘Clemenceau bridge’ at Pulau Saigon](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19400330-1.2.51)”.   *Singapore Free Press and Mercantile Advertiser*, 30 March 1940, 5. (From NewspaperSG)
 * “[Stretch of Clemenceau Ave to be closed for CTE works](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890903-1.2.24.2)”. *Straits Times*, 3 September 1989, 14. (From NewspaperSG)
 
 **Coleman Bridge**
@@ -102,7 +101,7 @@ Times*, 12 August 1989, 22. (From NewspaperSG)
 * “[Elgin Bridge](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19281031-1.2.39).” *Malaya Tribune*, 31 October 1928, 9. (From NewspaperSG)
 
 **Read bridge**
-* Chia, Harry. “[BRIDGES THAT ARE 'HOMES' TO BOAT MEN](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19600202-1.2.43)”. *The Singapore Free Press*, 2 February 1960, 3. (From NewspaperSG)
+* Chia, Harry. “[Bridges that are 'Homes' to boat men](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19600202-1.2.43)”. *The Singapore Free Press*, 2 February 1960, 3. (From NewspaperSG)
 * “[Merchants Bridge](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18870228-1.2.13).” *Straits Times Weekly Issue*, 28 February 1887, 4. (From NewspaperSG) 
 * Sim, Serena. “[A bridge of their own](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20020404-1.2.28.1)”. *TODAY*, 4 April 2002, 17. (From NewspaperSG)
 
@@ -115,11 +114,11 @@ Times*, 12 August 1989, 22. (From NewspaperSG)
 <br>
 <br>
 <img style="width:500px" src="/images/singapore-places/curiocity-showcase-2022/bridges-sg-river/rg-images/cavenagh%20bridge.jpg">
-[Cavenagh Bridge, 2003: panoramic view](https://eresources.nlb.gov.sg/pictures/details/91f2c39e-4252-4e15-bb41-a8c35aac16ae). 6 Sep 2003. Photograph. Collection of National Library, Singapore. 
+[Cavenagh Bridge, 2003: panoramic view](https://eresources.nlb.gov.sg/pictures/details/91f2c39e-4252-4e15-bb41-a8c35aac16ae). 6 September 2003. Photograph. Collection of National Library, Singapore. 
 <br>
 <br>
 <img style="width:500px" src="/images/singapore-places/curiocity-showcase-2022/bridges-sg-river/rg-images/clemenceau%20bridge.jpg">
-[SINGAPORE RIVER AND CLEMENCEAU BRIDGE](https://www.nas.gov.sg/archivesonline/photographs/record-details/df792a0b-1161-11e3-83d5-0050568939ad). 
+[Singapore River and Clemenceau Bridge](https://www.nas.gov.sg/archivesonline/photographs/record-details/df792a0b-1161-11e3-83d5-0050568939ad). 
 20 October 1974. Photograph. Lim Hock Heng Collection, National Archives of Singapore.
 <br>
 <br>
@@ -128,15 +127,15 @@ Times*, 12 August 1989, 22. (From NewspaperSG)
 <br>
 <br>
 <img style="width:500px" src="/images/singapore-places/curiocity-showcase-2022/bridges-sg-river/rg-images/elgin%20bridge.jpg">
-[Elgin Bridge: side view](http://eresources.nlb.gov.sg/pictures/Details/ca30930c-17c7-4b96-a01a-c6113111248b). 6 Sep 2003. Photograph. Collection of National Library, Singapore.
+[Elgin Bridge: side view](http://eresources.nlb.gov.sg/pictures/Details/ca30930c-17c7-4b96-a01a-c6113111248b). 6 September 2003. Photograph. Collection of National Library, Singapore.
 <br>
 <br>
 <img style="width:500px" src="/images/singapore-places/curiocity-showcase-2022/bridges-sg-river/rg-images/ord%20bridge.jpg">
-[Singapore River, with Ord Bridge, 1984: general view [5]](https://eresources.nlb.gov.sg/pictures/Details/b5345eee-bd9c-4fdc-a9eb-2c92c2cdba7b). 25 Mar 1984. Photograph. Lee Kip Lin Collection, PictureSG, National Library, Singapore.
+[Singapore River, with Ord Bridge, 1984: general view [5]](https://eresources.nlb.gov.sg/pictures/Details/b5345eee-bd9c-4fdc-a9eb-2c92c2cdba7b). 25 March 1984. Photograph. Lee Kip Lin Collection, PictureSG, National Library, Singapore.
 <br>
 <br>
 <img style="width:500px" src="/images/singapore-places/curiocity-showcase-2022/bridges-sg-river/rg-images/read%20bridge.jpg">
-[Read Bridge, 2003: general view [1]](https://eresources.nlb.gov.sg/pictures/Details/7ca0d5ae-c2a2-4279-97c1-86e9e8995733). 6 Sep 2003. Photograph. Collection of National Library, Singapore.
+[Read Bridge, 2003: general view [1]](https://eresources.nlb.gov.sg/pictures/Details/7ca0d5ae-c2a2-4279-97c1-86e9e8995733). 6 September 2003. Photograph. Collection of National Library, Singapore.
 
 ### Singapore Infopedia - articles
 * Cornelius-Takahama, Vernon & Damien Wang. “[Singapore River (historical overview)](https://eresources.nlb.gov.sg/infopedia/articles/SIP_148_2005-02-02.html).” Singapore Infopedia. Published 2016.
