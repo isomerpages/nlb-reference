@@ -4,14 +4,15 @@ collections:
     order:
       - resource-guides.md
       - singapore/.keep
-      - singapore/people.md
-      - singapore/places.md
-      - singapore/history.md
+      - singapore/People.md
+      - singapore/Places.md
+      - singapore/History.md
       - arts/.keep
       - arts/visual-arts.md
       - arts/literary-arts.md
       - arts/performing-arts.md
       - arts/Singapore Online Arts Repository.md
+      - business/The Global Economy.md
       - business/.keep
       - business/career-guidance.md
       - business/management.md
@@ -19,7 +20,7 @@ collections:
       - science-and-technology/.keep
       - science-and-technology/sustainability.md
       - science-and-technology/technology.md
-      - science-and-technology/physical-sciences.md
+      - science-and-technology/Sciences.md
       - social-sciences-and-humanities/.keep
       - social-sciences-and-humanities/Social Sciences.md
       - social-sciences-and-humanities/History.md

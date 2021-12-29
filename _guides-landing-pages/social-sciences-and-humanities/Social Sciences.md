@@ -8,6 +8,11 @@ third_nav_title: Social Sciences And Humanities
 <img src="/images/category/social-science.jpg" alt="social science banner" style="width:800px;" />
 
 - [**Fast Fashion**](/guides/socscihum/soc-sci/fast-fashion)
+
+<!-- - [**Home-based Learning**](/guides/socscihum/soc-sci/home-based-learning)
+- [**Impact of Technology on Learning**](/guides/socscihum/soc-sci/impact-tech-learning)
+- [**Virtual Sports and Fitness**](/guides/socscihum/soc-sci/virtual-sports)-->
+
 - [**Effectiveness of Nonprofit Boards**](/guides/socscihum/soc-sci/effectiveness-nonprofit)
 - [**Environment Champion**](/guides/socscihum/soc-sci/environment-champion)
 - [**Nonprofit Board's role in Risk Management**](/guides/socscihum/soc-sci/nonprofit-boards-risk)

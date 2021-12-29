@@ -2,6 +2,8 @@ collections:
   business-management:
     output: true
     order:
+      - Digital Workplaces.md
+      - Digital Transformation in Businesses.md
       - economic-productivity-growth.md
       - internationalisation-scaling-up.md
       - business-resource-guide.md
