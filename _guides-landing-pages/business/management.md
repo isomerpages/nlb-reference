@@ -7,9 +7,8 @@ third_nav_title: Business
 ---
 <img src="/images/category/management.jpg" alt="management banner" style="width:800px;" />
 
-* [**Digital Workplaces**](/guides/business/management/digital-workplaces)
-
-* [**Digital Transformation in Businesses**](/guides/business/management/digital-transformation)
+<!--* [**Digital Workplaces**](/guides/business/management/digital-workplaces)
+* [**Digital Transformation in Businesses**](/guides/business/management/digital-transformation)-->
 
 * [**Business Resource Guide**](/guides/business/management/business-resource-guide)
 

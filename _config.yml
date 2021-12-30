@@ -1,27 +1,24 @@
-title: Lee Kong Chian Reference Library
-url: 'https://reference.nlb.gov.sg'
+title: Reference@NLB
+url: https://reference.nlb.gov.sg
 favicon: /images/favicon-nlb.ico
-
-# Analytics
 google_analytics: UA-50449401-34
-
 colors:
-  primary-color: '#6031b6'
-  secondary-color: '#4372d6'
+  primary-color: "#6031b6"
+  secondary-color: "#4372d6"
   media-colors:
     - title: media-color-one
-      color: '#49759a'
+      color: "#49759a"
     - title: media-color-two
-      color: '#744d9f'
+      color: "#744d9f"
     - title: media-color-three
-      color: '#00838f'
+      color: "#00838f"
     - title: media-color-four
-      color: '#00838f'
+      color: "#00838f"
     - title: media-color-five
-      color: '#00838f'
+      color: "#00838f"
 resources_name: guides
 permalink: none
-baseurl: ''
+baseurl: ""
 exclude:
   - travis-script.js
   - .travis.yml
@@ -39,7 +36,7 @@ include:
   - _redirects
 defaults:
   - scope:
-      path: ''
+      path: ""
     values:
       layout: page
 custom_css_path: /misc/custom.css
@@ -47,7 +44,11 @@ custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-description: test test
+description: Reference@NLB is an information repository containing resource
+  guides, research guides and how-to guides to provide you with the necessary
+  details to kickstart your research journey. Guides covering both print and
+  online materials deal with general topics on Singapore & Southeast Asia, Arts,
+  Business, Science & Technology, and Social Science & Humanities.
 is_government: true
 staging: https://nlb-reference-staging.netlify.app
 prod: https://nlb-reference-prod.netlify.app
