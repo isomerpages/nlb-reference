@@ -24,20 +24,17 @@ The resource guide was prepared in December 2021 by Darren Seow, Librarian, at t
 ### Websites
 
 **To get through the COVID-19 pandemic, we need to learn how to live in an ongoing disaster**
-
 COVID-19 does not respond to established practices of how we deal with disaster. We need to learn how to live in an ongoing disaster for the foreseeable future. Emergency management planning often entails a four-phase disaster cycle: mitigation, preparedness, response and recovery. We are still in the emergency part of the pandemic. Recovery is not yet discernible. People are too fatigued to be in a constant state of preparedness. Mitigation is a distant goal at this juncture. “We just have to cope as best we can by hunkering down.” 
 
 Rozdilsky, J. L. (2021, December 23). To get through the COVID-19 pandemic, we need to learn how to live in an ongoing disaster. The Conversation. Retrieved December 27, 2021, from [https://theconversation.com/to-get-through-the-covid-19-pandemic-we-need-to-learn-how-to-live-in-an-ongoing-disaster-174189
 ](https://theconversation.com/to-get-through-the-covid-19-pandemic-we-need-to-learn-how-to-live-in-an-ongoing-disaster-174189)
 
 **Vaccine mandates**
-
 Several countries have introduced vaccine mandates, which are “a way to compel people to get vaccinations.” This could mean that a person must be vaccinated or be excluded from certain activities and locations like food and beverage establishments or workplaces. Vaccine mandates in relation to childhood vaccinations have been around for a long time. Vaccine mandates aim to increase vaccination rates by incentivising people to get vaccinated. Vaccine mandates also raise ethical questions. Some people consider them an infringement of individual liberty. Vaccine mandates might exacerbate inequity for the most vulnerable or marginalised. 
 
 Hodgkin, R. (2021, December 23). Vaccine mandates. The Institute for Government. Retrieved December 27, 2021, from [https://www.instituteforgovernment.org.uk/explainers/vaccine-mandates](https://www.instituteforgovernment.org.uk/explainers/vaccine-mandates)
 
 **New variants show why the world urgently needs vaccine equity**
-
 Low-income countries have much lower Covid-19 vaccination rates compared to high-income countries. The persistent presence of large unvaccinated populations globally increases the emergence of vaccine-resistant variants, as in the case of Omicron. Omicron reminds us of the need to expedite efforts to protect populations everywhere. If we cannot address vaccine inequity, we will continue to face the risk of a prolonged pandemic, with the emergence of new variants and constant changes between the opening and closing of schools, offices, restaurants, borders and economies. 
 
 Yadav, P. (2021, November 30). New variants show why the world urgently needs vaccine equity. INSEAD Knowledge. Retrieved December 27, 2021, from [https://knowledge.insead.edu/blog/insead-blog/new-variants-show-why-the-world-urgently-needs-vaccine-equity-17766](https://knowledge.insead.edu/blog/insead-blog/new-variants-show-why-the-world-urgently-needs-vaccine-equity-17766)
