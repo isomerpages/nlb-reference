@@ -109,3 +109,9 @@ A fragmented global response risks extending the COVID-19 pandemic. Further vari
 Sasse, T. (2021, July 26). Tackling COVID-19 over the long term: How to strengthen international efforts to end the pandemic. The Institute for Government. Retrieved December 27, 2021, from [https://www.instituteforgovernment.org.uk/sites/default/files/publications/tackling-covid-long-term.pdf](https://www.instituteforgovernment.org.uk/sites/default/files/publications/tackling-covid-long-term.pdf)
 
 ### Videos
+
+**Virtual roundtables on the future of the COVID-19 pandemic and other infectious threats**
+
+The World Health Organization and partners discuss the future of the COVID-19 pandemic and other infectious threats in the next three to five years. They explore four potential scenarios and discuss the implications, potential risks and possible solutions, namely the pandemic is over, and COVID-19 is under control; five years later, the virus through multiple mutations manages to persist and become part of our lives; the virus has evolved to become even more infectious; and in addition to a worsening COVID-19 pandemic, a new pandemic emerges.
+
+Virtual roundtables (#1 & #2) on the future of the COVID-19 pandemic and other infectious threats. (2021, November 4 & 9). WHO’s Information Network for Epidemics. Retrieved December 27, 2021, from https://www.youtube.com/watch?v=Z0OaNAYKpAQ (#1) & https://www.youtube.com/watch?v=DrzHj_mib1c (#2)
