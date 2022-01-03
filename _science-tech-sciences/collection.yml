@@ -2,6 +2,7 @@ collections:
   science-tech-sciences:
     output: true
     order:
+      - COVID 19 Resilience and Restrictions.md
       - Vaccinations.md
       - An Overview of Viruses.md
       - The Spanish Flu.md
