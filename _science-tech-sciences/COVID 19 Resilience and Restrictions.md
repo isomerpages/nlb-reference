@@ -90,3 +90,8 @@ Tang, J. L., & Abbasi, K. (2021, December 2). What can the world learn from Chin
 
 ### Reports
 
+**Losing time: End this pandemic and secure the future**
+
+COVID-19 has revealed the urgent need for the world to respond to the current pandemic and to prepare for the next health threat. These health emergencies go beyond the health sector including finance, trade, labour, and education. Pandemic preparedness and response requires a whole-of-society approach. Countries must employ the full range of tools available beyond vaccines including equitable access to diagnostics and novel antivirals, masking, distancing, and ventilation. “There is no single magic bullet to end pandemics, but there is a combination of measures that will: commitment, finance, global public goods, alerts and preparedness, and leadership.”
+
+Sirleaf, J., & Clark, H. (2021, November 21). Losing time: End this pandemic and secure the future. The Independent Panel for Pandemic Preparedness and Response. Retrieved December 27, 2021, from [https://theindependentpanel.org/wp-content/uploads/2021/11/COVID-19-Losing-Time_Final.pdf](https://theindependentpanel.org/wp-content/uploads/2021/11/COVID-19-Losing-Time_Final.pdf)
