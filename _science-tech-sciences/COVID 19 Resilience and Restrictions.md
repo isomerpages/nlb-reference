@@ -29,3 +29,9 @@ COVID-19 does not respond to established practices of how we deal with disaster.
 
 Rozdilsky, J. L. (2021, December 23). To get through the COVID-19 pandemic, we need to learn how to live in an ongoing disaster. The Conversation. Retrieved December 27, 2021, from [https://theconversation.com/to-get-through-the-covid-19-pandemic-we-need-to-learn-how-to-live-in-an-ongoing-disaster-174189
 ](https://theconversation.com/to-get-through-the-covid-19-pandemic-we-need-to-learn-how-to-live-in-an-ongoing-disaster-174189)
+
+**Vaccine mandates**
+
+Several countries have introduced vaccine mandates, which are “a way to compel people to get vaccinations.” This could mean that a person must be vaccinated or be excluded from certain activities and locations like food and beverage establishments or workplaces. Vaccine mandates in relation to childhood vaccinations have been around for a long time. Vaccine mandates aim to increase vaccination rates by incentivising people to get vaccinated. Vaccine mandates also raise ethical questions. Some people consider them an infringement of individual liberty. Vaccine mandates might exacerbate inequity for the most vulnerable or marginalised. 
+
+Hodgkin, R. (2021, December 23). Vaccine mandates. The Institute for Government. Retrieved December 27, 2021, from https://www.instituteforgovernment.org.uk/explainers/vaccine-mandates
