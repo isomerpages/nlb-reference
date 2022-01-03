@@ -60,3 +60,5 @@ Finance industry group ups pressure on Hong Kong to abandon COVID-zero policy, e
 COVID-19 cases have been falling across Asia since early September. A rise in COVID-19 vaccinations is likely the key reason for Asia’s downward trend. But other factors like natural immunity from past infections, Asia’s slower reopening, and even seasonal weather patterns may contribute to the decreasing COVID rates. However, the more transmissible Omicron variant may disrupt Asia’s declining COVID rates as the virus is more likely to bypass vaccine protection and increase the risk of reinfection in people who previously contracted COVID-19. Improving vaccine rates remains the best protection against the new variant. 
 
 Mcgregor, G. (2021, December 10). COVID-19 cases are plummeting in Asia, and scientists aren’t 100% sure why. Fortune. Retrieved December 27, 2021, from [https://fortune.com/2021/12/09/covid-19-cases-drop-asia-singapore-cambodia-malaysia-india-indonesia-philippines-why/ ](https://fortune.com/2021/12/09/covid-19-cases-drop-asia-singapore-cambodia-malaysia-india-indonesia-philippines-why/)
+
+### Journal Articles
