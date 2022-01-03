@@ -107,3 +107,5 @@ Bell, J. A., & Nuzzo, J. B. (2021, December). Global Health Security Index: Adva
 A fragmented global response risks extending the COVID-19 pandemic. Further variants are likely to emerge and all countries remain in a dangerous phase of the pandemic. Policy makers need to take action to develop a stronger plan for vaccinating the world, as well as invest in the surveillance and healthcare capacity that will be essential to combating the virus over the coming years. Countries should take it that their contributions would not only help end the pandemic, but equip the world to face future threats.
 
 Sasse, T. (2021, July 26). Tackling COVID-19 over the long term: How to strengthen international efforts to end the pandemic. The Institute for Government. Retrieved December 27, 2021, from [https://www.instituteforgovernment.org.uk/sites/default/files/publications/tackling-covid-long-term.pdf](https://www.instituteforgovernment.org.uk/sites/default/files/publications/tackling-covid-long-term.pdf)
+
+### Videos
