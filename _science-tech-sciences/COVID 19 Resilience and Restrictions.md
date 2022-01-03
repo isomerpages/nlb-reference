@@ -47,3 +47,10 @@ Yadav, P. (2021, November 30). New variants show why the world urgently needs va
 The Omicron variant may further establish China’s strict restrictions on business travel. Omicron may cause more disruption to China’s economy than to other countries with high GDP. China’s zero-COVID policy requires at least 14 days of quarantine in a hotel for international visitors. Travel is essential to innovation. The restrictions on cross-border travel will have a negative impact on innovation. If Omicron is more contagious than other strains, it will increase the likelihood of COVID-19 outbreaks and more frequent lockdowns in China. 
 
 Omicronomics: China’s economy looks especially vulnerable to the spread of Omicron. (2021, December 4). The Economist. Retrieved December 27, 2021, from [https://www.economist.com/finance-and-economics/chinas-economy-looks-especially-vulnerable-to-the-spread-of-omicron/21806564](https://www.economist.com/finance-and-economics/chinas-economy-looks-especially-vulnerable-to-the-spread-of-omicron/21806564)
+
+
+**Finance industry group ups pressure on Hong Kong to abandon COVID-zero policy, ease restrictions **
+
+A financial industry group said that Hong Kong’s zero-COVID policy and strict quarantine requirements for international travellers threaten to undermine the city’s status as a financial hub. The Asia Securities Industry and Financial Markets Association said a survey of its members indicated that 48 percent of companies were considering moving staff or functions away from Hong Kong due to operational challenges. Hong Kong has some of the world’s tightest travel restrictions; and has no public plan for opening up to international travellers. 
+
+Finance industry group ups pressure on Hong Kong to abandon COVID-zero policy, ease restrictions. (2021, October 25). The Straits Times (Reuters, Bloomberg). Retrieved December 27, 2021, from [https://www.straitstimes.com/asia/east-asia/industry-group-says-hong-kongs-covid-zero-policy-undermining-financial-hub-status](https://www.straitstimes.com/asia/east-asia/industry-group-says-hong-kongs-covid-zero-policy-undermining-financial-hub-status)
