@@ -19,3 +19,13 @@ This resource guide shines the spotlight on various COVID-19 restrictions and me
 The guide provides supplementary resources for those who are keen to further explore this topic. You can also visit https://search.nlb.gov.sg/ to search for more resources. If you would like to view other resource guides created by our librarians, please visit [nlb.gov.sg/resourceguides](http://www.nlb.gov.sg/resourceguides/)/. 
 
 The resource guide was prepared in December 2021 by Darren Seow, Librarian, at the National Library, Singapore.
+
+
+### Websites
+
+**To get through the COVID-19 pandemic, we need to learn how to live in an ongoing disaster**
+
+COVID-19 does not respond to established practices of how we deal with disaster. We need to learn how to live in an ongoing disaster for the foreseeable future. Emergency management planning often entails a four-phase disaster cycle: mitigation, preparedness, response and recovery. We are still in the emergency part of the pandemic. Recovery is not yet discernible. People are too fatigued to be in a constant state of preparedness. Mitigation is a distant goal at this juncture. “We just have to cope as best we can by hunkering down.” 
+
+Rozdilsky, J. L. (2021, December 23). To get through the COVID-19 pandemic, we need to learn how to live in an ongoing disaster. The Conversation. Retrieved December 27, 2021, from [https://theconversation.com/to-get-through-the-covid-19-pandemic-we-need-to-learn-how-to-live-in-an-ongoing-disaster-174189
+](https://theconversation.com/to-get-through-the-covid-19-pandemic-we-need-to-learn-how-to-live-in-an-ongoing-disaster-174189)
