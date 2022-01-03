@@ -10,3 +10,10 @@ This resource guide is curated to complement the Read to be Sure Learning Packag
 ## COVID-19 Resilience and Restrictions 
 
 COVID-19 has had an increasingly devastating impact since the World Health Organization (WHO) declared the novel coronavirus outbreak a [pandemic](https://www.who.int/director-general/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020) in March 2020  COVID-19 has challenged national and global capacities to prepare and respond. Many countries have implemented [restrictions](https://www.nature.com/articles/s41598-021-92766-z) to curb the spread of the virus and prevent [health systems](https://www.nature.com/articles/s41591-021-01381-y) from becoming overwhelmed. The relative success of the various national strategies taken to control viral transmission depends largely on the resilience of health systems in managing the pandemic.
+
+We now have the knowledge and tools needed to control the pandemic. [Vaccine mandates](https://www.reuters.com/business/healthcare-pharmaceuticals/countries-making-covid-19-vaccines-mandatory-2021-08-16/) have been deployed broadly, and new treatments show promise in reducing the risk of severe COVID-19. The WHO has called for countries to use masks, social distancing, proper ventilation and hand hygiene to prevent contagion. Countries that have strong healthcare safety nets and societal cohesion are more resilient to COVID-19. Trust in government and people’s willingness to comply with rules help with containing the virus. 
+
+“Parts of the world are approaching a transition or a new phase of the COVID-19 pandemic.” Moving into a post-pandemic world will be more complicated than scenarios such as “Zero COVID.” The challenge is for individual nations to determine the acceptable level of COVID-19 in an interconnected world.
+
+This resource guide shines the spotlight on various COVID-19 restrictions and measures, how to live with COVID-19 as well as the future of the pandemic. 
+
