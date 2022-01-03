@@ -123,3 +123,5 @@ The speakers describe resilience and post-traumatic growth (PTG), consider oppor
 
 Resilience, post-traumatic growth and the COVID-19 pandemic. (2021, November 30). The Centre for Addiction and Mental Health. Retrieved December 27, 2021, from https://www.youtube.com/watch?v=MxZc5cFg_bw
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MxZc5cFg_bw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
