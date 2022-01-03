@@ -41,3 +41,9 @@ Hodgkin, R. (2021, December 23). Vaccine mandates. The Institute for Government.
 Low-income countries have much lower Covid-19 vaccination rates compared to high-income countries. The persistent presence of large unvaccinated populations globally increases the emergence of vaccine-resistant variants, as in the case of Omicron. Omicron reminds us of the need to expedite efforts to protect populations everywhere. If we cannot address vaccine inequity, we will continue to face the risk of a prolonged pandemic, with the emergence of new variants and constant changes between the opening and closing of schools, offices, restaurants, borders and economies. 
 
 Yadav, P. (2021, November 30). New variants show why the world urgently needs vaccine equity. INSEAD Knowledge. Retrieved December 27, 2021, from [https://knowledge.insead.edu/blog/insead-blog/new-variants-show-why-the-world-urgently-needs-vaccine-equity-17766](https://knowledge.insead.edu/blog/insead-blog/new-variants-show-why-the-world-urgently-needs-vaccine-equity-17766)
+
+**Omicronomics: China’s economy looks especially vulnerable to the spread of Omicron** 
+
+The Omicron variant may further establish China’s strict restrictions on business travel. Omicron may cause more disruption to China’s economy than to other countries with high GDP. China’s zero-COVID policy requires at least 14 days of quarantine in a hotel for international visitors. Travel is essential to innovation. The restrictions on cross-border travel will have a negative impact on innovation. If Omicron is more contagious than other strains, it will increase the likelihood of COVID-19 outbreaks and more frequent lockdowns in China. 
+
+Omicronomics: China’s economy looks especially vulnerable to the spread of Omicron. (2021, December 4). The Economist. Retrieved December 27, 2021, from https://www.economist.com/finance-and-economics/chinas-economy-looks-especially-vulnerable-to-the-spread-of-omicron/21806564
