@@ -16,3 +16,6 @@ We now have the knowledge and tools needed to control the pandemic. [Vaccine man
 “Parts of the [world](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02790-2/fulltext#coronavirus-linkback-header) are approaching a transition or a new phase of the COVID-19 pandemic.” Moving into a post-pandemic world will be more complicated than scenarios such as “Zero COVID.” The challenge is for individual nations to determine the acceptable level of COVID-19 in an interconnected world.
 
 This resource guide shines the spotlight on various COVID-19 restrictions and measures, how to live with COVID-19 as well as the future of the pandemic.
+The guide provides supplementary resources for those who are keen to further explore this topic. You can also visit https://search.nlb.gov.sg/ to search for more resources. If you would like to view other resource guides created by our librarians, please visit [nlb.gov.sg/resourceguides](http://www.nlb.gov.sg/resourceguides/)/. 
+
+The resource guide was prepared in December 2021 by Darren Seow, Librarian, at the National Library, Singapore.	
