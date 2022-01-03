@@ -75,3 +75,10 @@ Haldane, V., et al. (2021, November 29). From response to transformation: How co
 Four key lessons that governments can learn from behavioural science to protect against future pandemics, as well as to inform our thinking about wider issues, from vaccine uptake to public health messaging. Firstly, trust in government is one of the key predictors of adherence to public and social measures and vaccine acceptance. Secondly, governments should invest in improving people’s opportunities and capabilities to adhere to measures such as self-isolation. Thirdly, clarity and consistency of policy and message is essential. Fourthly, protection rather than restriction should be the focus of pandemic preparedness. 
 
 Williams, S., et al. (2021, December 6). Covid-19: What we have learnt from behavioural science during the pandemic so far that can help prepare us for the future. British Medical Journal, 375. Retrieved December 27, 2021, from [https://www.bmj.com/content/375/bmj.n3028.full.pdf](https://www.bmj.com/content/375/bmj.n3028.full.pdf)
+
+**Beyond Omicron: What’s next for COVID’s viral evolution**
+
+The spread of new variants offers clues about how the COVID-19 will evolve. How the coronavirus evades immune response has implications for its transition to an endemic virus. COVID-19 is likely to cause outbreaks like other respiratory viruses. How these outbreaks will turn out depends on how quickly a population becomes newly susceptible to infection, and whether that happens through viral evolution, waning immunity, or the birth of new children without immunity to the virus. “Vaccinating as many people as possible could stop the virus from unlocking changes that drive a new wave.” 
+
+Callaway, E. (2021, December 7). Beyond Omicron: What’s next for COVID’s viral evolution. Nature, 600. Retrieved December 27, 2021, from [https://media.nature.com/original/magazine-assets/d41586-021-03619-8/d41586-021-1-036-021-03619-8/d41586-021-03619-8.pdf](https://media.nature.com/original/magazine-assets/d41586-021-03619-8/d41586-021-03619-8.pdf)
+
