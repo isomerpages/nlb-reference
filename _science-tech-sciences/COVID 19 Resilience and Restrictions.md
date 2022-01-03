@@ -62,3 +62,9 @@ COVID-19 cases have been falling across Asia since early September. A rise in CO
 Mcgregor, G. (2021, December 10). COVID-19 cases are plummeting in Asia, and scientists aren’t 100% sure why. Fortune. Retrieved December 27, 2021, from [https://fortune.com/2021/12/09/covid-19-cases-drop-asia-singapore-cambodia-malaysia-india-indonesia-philippines-why/ ](https://fortune.com/2021/12/09/covid-19-cases-drop-asia-singapore-cambodia-malaysia-india-indonesia-philippines-why/)
 
 ### Journal Articles
+
+**From response to transformation: How countries can strengthen national pandemic preparedness and response systems**
+
+As the COVID-19 pandemic evolves, we must learn how to move from response to transformation. Countries should partner, develop and strengthen across a range of domains such as preparing systems for pandemic preparedness and response, and building resilient and equitable societies that can save lives and livelihoods. High performing national responses to COVID-19 are characterised by developing a suite of public health and socioeconomic measures to break chains of transmission in communities. Low performing countries’ national approaches are hindered by devaluing, delays and distrust that render national efforts ineffective in stopping chains of transmission. 
+
+Haldane, V., et al. (2021, November 29). From response to transformation: How countries can strengthen national pandemic preparedness and response systems. British Medical Journal, 375. Retrieved December 27, 2021, from [https://www.bmj.com/content/375/bmj-2021-067507.full.pdf](https://www.bmj.com/content/375/bmj-2021-067507.full.pdf)
