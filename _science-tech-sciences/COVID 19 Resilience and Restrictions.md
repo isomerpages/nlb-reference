@@ -87,3 +87,6 @@ Callaway, E. (2021, December 7). Beyond Omicron: What’s next for COVID’s vir
 China was the first country to experience the outbreak of COVID-19. China adopts aggressive prevention and control strategies to contain and eliminate local infections. China uses old school public health strategies such as mask wearing, hand washing, social distancing, and restriction of public events and travel, contact tracing and quarantining infected people. New technologies assist too. “However, successful containment has also left China’s population almost entirely vulnerable, and thus the country needs to persist with strong public health measures until population immunity is established through vaccination.”
 
 Tang, J. L., & Abbasi, K. (2021, December 2). What can the world learn from China’s response to COVID-19? British Medical Journal, 375. Retrieved December 27, 2021, from [https://www.bmj.com/content/375/bmj.n2806.full.pdf](https://www.bmj.com/content/375/bmj.n2806.full.pdf)
+
+### Reports
+
