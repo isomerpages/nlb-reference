@@ -5,8 +5,6 @@ date: 2021-12-20
 layout: post
 description: ""
 ---
-
-
 This resource guide was created as part of a learning package on Pandemics. For other related resource guides, please head to this directory of [Learning Packages](/guides/learning-packages-directory).
 
 # COVID-19 : An Overview
@@ -102,5 +100,3 @@ All Rights Reserved. National Library Board Singapore 2020.<br/></p>
 
 ---
 #### **References**
-
-
