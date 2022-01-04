@@ -66,3 +66,8 @@ collection_name: guides
 	</div>
 </div>
 <p><p>
+	
+## Other Guides
+	
+* [**Digital Preservation**](/guides/digital-preservation/main/)
+* [**Learning Packages**](/guides/learning-packages-directory)
