@@ -3,6 +3,8 @@ title: Impact of Technology on Learning
 permalink: /guides/socscihum/soc-sci/impact-tech-learning
 description: ""
 ---
+This resource guide was created as part of a learning package on A New Normal. For other related resource guides, please head to this directory of [Learning Packages](/guides/learning-packages-directory).
+
 # Impact of Technology on Learning
 
 <img src="/images/socsci-hum/NN4-main.jpg">

@@ -3,6 +3,7 @@ title: An Overview of Viruses
 permalink: /guides/sci-tech/sciences/virus-overview
 description: ""
 ---
+This resource guide was created as part of a learning package on Pandemics. For other related resource guides, please head to this directory of [Learning Packages](/guides/learning-packages-directory).
 
 # Viruses : An Overview
 

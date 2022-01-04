@@ -3,6 +3,8 @@ title: Digital Transformation in Businesses
 permalink: /guides/business/management/digital-transformation
 description: ""
 ---
+This resource guide was created as part of a learning package on A New Normal. For other related resource guides, please head to this directory of [Learning Packages](/guides/learning-packages-directory).
+
 # Digital Transformation in Businesses
 
 <img src="/images/business/NN2-main.jpg">

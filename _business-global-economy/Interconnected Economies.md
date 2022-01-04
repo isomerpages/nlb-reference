@@ -3,6 +3,8 @@ title: Interconnected Economies
 permalink: /guides/business/global-economy/interconnected-economies
 description: ""
 ---
+This resource guide was created as part of a learning package on The Global Economy. For other related resource guides, please head to this directory of [Learning Packages](/guides/learning-packages-directory).
+
 # Interconnected Economies
 
 <img src="/images/business/GE2-overview.jpg">

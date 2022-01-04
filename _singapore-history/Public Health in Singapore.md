@@ -3,6 +3,8 @@ title: Public Health in Singapore
 permalink: /guides/singapore/history/public-health-sg
 description: ""
 ---
+This resource guide was created as part of a learning package on Pandemics. For other related resource guides, please head to this directory of [Learning Packages](/guides/learning-packages-directory).
+
 # Public Health in Singapore
 
 <table style="background-color:#ffe6e6; border:0;">

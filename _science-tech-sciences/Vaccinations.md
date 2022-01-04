@@ -3,6 +3,8 @@ title: Vaccinations
 permalink: /guides/sci-tech/sciences/vaccinations
 description: ""
 ---
+This resource guide was created as part of a learning package on Pandemics. For other related resource guides, please head to this directory of [Learning Packages](/guides/learning-packages-directory).
+
 # Vaccinations
 
 <table style="background-color:#ffe6e6; border:0;">

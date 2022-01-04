@@ -3,6 +3,8 @@ title: Home Based Learning
 permalink: /guides/socscihum/soc-sci/home-based-learning
 description: ""
 ---
+This resource guide was created as part of a learning package on A New Normal. For other related resource guides, please head to this directory of [Learning Packages](/guides/learning-packages-directory).
+
 # Home-Based Learning
 
 <img src="/images/socsci-hum/NN3-overview.jpg">

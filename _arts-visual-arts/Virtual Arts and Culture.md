@@ -3,6 +3,8 @@ title: Virtual Arts and Culture
 permalink: /guides/arts/visual-arts/virtual-arts
 description: ""
 ---
+This resource guide was created as part of a learning package on A New Normal. For other related resource guides, please head to this directory of [Learning Packages](/guides/learning-packages-directory).
+
 # Virtual Arts and Culture
 
 <img src="/images/arts/visualarts/NN5-overview.jpg">

@@ -3,6 +3,8 @@ title: Community Spirit
 permalink: /guides/socscihum/humanities/community-spirit
 description: ""
 ---
+This resource guide was created as part of a learning package on A New Normal. For other related resource guides, please head to this directory of [Learning Packages](/guides/learning-packages-directory).
+
 # Community Spirit
 
 <img src="/images/socsci-hum/NN8-main.png">
