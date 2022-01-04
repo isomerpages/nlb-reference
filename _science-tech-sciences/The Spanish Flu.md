@@ -27,7 +27,7 @@ An unusual feature of the Spanish Flu was the high mortality in healthy adults. 
 
 844 deaths were officially attributed to the Spanish flu in Singapore. However, the 1918 Annual Report estimated that the actual number of deaths was 3,500 while the 1921 Annual Report added that many deaths reported as pneumonia were due primarily to influenza. These reflected the challenges faced in providing accurate data as tropical countries do not have well-defined influenza seasons.[^10]
 
-To learn more about the Spanish Flu, check out the resources listed below. Look out for our next instalment, which will explore other major pandemics from the 20th century.
+To learn more about the Spanish Flu, check out the resources listed below.
 
 
 [^1]: Influenza pandemic. (n.d.). *University of Washington University Libraries.* Retrieved 2020, April 3 from <https://content.lib.washington.edu/exhibits/WWI/influenza.html>
