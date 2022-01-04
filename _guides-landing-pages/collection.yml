@@ -2,6 +2,7 @@ collections:
   guides-landing-pages:
     output: true
     order:
+      - Learning Packages Directory.md
       - resource-guides.md
       - singapore/.keep
       - singapore/People.md
