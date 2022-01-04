@@ -8,7 +8,8 @@ This resource guide was created as part of a learning package on Pandemics. For 
 # Public Health in Singapore
 
 <table style="background-color:#ffe6e6; border:0;">
-                                      <tr><td>This learning package was created more than a year ago. Please check <a href="https://www.gov.sg/features/covid-19" target="_blank">https://www.gov.sg/features/covid-19</a> for the latest updates on the COVID-19 situation in Singapore.</td></tr></table>
+<tr><td>This learning package was created in 2020 and the information was up-to-date at the point of publication. Please check <a href="https://www.gov.sg/features/covid-19" target="_blank">https://www.gov.sg/features/covid-19</a> for the latest updates on the COVID-19 situation in Singapore.</td></tr>
+</table>
 
 <img src="/images/singapore-history/P8-public-health.png">
 

@@ -5,10 +5,13 @@ date: 2021-12-20
 layout: post
 description: ""
 ---
+This resource guide was created as part of a learning package on Pandemics. For other related resource guides, please head to this directory of [Learning Packages](/guides/learning-packages-directory).
+
 # COVID-19 Vaccines
 
 <table style="background-color:#ffe6e6; border:0;">
-                                      <tr><td>This learning package was created more than a year ago. Please check <a href="https://www.moh.gov.sg/covid-19/vaccination" target="_blank">https://www.moh.gov.sg/covid-19/vaccination</a> for the latest updates on the COVID-19 situation in Singapore.</td></tr></table>
+<tr><td>This learning package was created in 2020 and the information was up-to-date at the point of publication. Please check <a href="https://www.gov.sg/features/covid-19" target="_blank">https://www.gov.sg/features/covid-19</a> for the latest updates on the COVID-19 situation in Singapore.</td></tr>
+</table>
 
 <img src="/images/sci-tech/P9-covid-19-vaccines.jpg" alt="article image">
 
