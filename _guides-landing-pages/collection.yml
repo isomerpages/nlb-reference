@@ -2,7 +2,6 @@ collections:
   guides-landing-pages:
     output: true
     order:
-      - Learning Packages Directory.md
       - resource-guides.md
       - singapore/.keep
       - singapore/People.md
@@ -13,8 +12,8 @@ collections:
       - arts/literary-arts.md
       - arts/performing-arts.md
       - arts/Singapore Online Arts Repository.md
-      - business/The Global Economy.md
       - business/.keep
+      - business/The Global Economy.md
       - business/career-guidance.md
       - business/management.md
       - business/innovation.md
@@ -28,3 +27,4 @@ collections:
       - social-sciences-and-humanities/Humanities.md
       - digital-preservation/.keep
       - digital-preservation/preserving-your-digital-memories.md
+      - Learning Packages Directory.md

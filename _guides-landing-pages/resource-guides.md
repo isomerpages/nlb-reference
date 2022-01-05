@@ -4,13 +4,13 @@ permalink: /guides/
 breadcrumb: Resource Guides
 collection_name: guides
 ---
-![Resource Guides](\images\resource-guides-banner.jpg)
+![Resource Guides](/images/resource-guides-banner.jpg)
+
 # Discover our curated resource guides!
-<hr>
+---
 
 <p>
-<div>
-	<div class="row is-multiline">
+<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/guides/singapore/people/" class="project-link">
 				<img src="/images/category/singapore.jpg" alt="Singapore" class="project-image">
@@ -27,18 +27,15 @@ collection_name: guides
 				</div>
 			</a>
 		</div>
-	</div>
 </div>
 <p><p>
-
-<div>
-	<div class="row is-multiline">
+<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/guides/business/management/" class="project-link">
 				<img src="/images/category/management.jpg" alt="Business" class="project-image">
 				<div class="project-title">	
                 <h5><b>Business</b></h5>
-                </div>
+         </div>
 			</a>
 		</div>
 		<div class="col is-half-tablet padding--bottom--lg">
@@ -49,25 +46,22 @@ collection_name: guides
 				</div>
 			</a>
 		</div>
-	</div>
 </div>
 <p><p>
 
-<div>
-	<div class="row is-multiline">
+<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/guides/socialsciences-humanities/history/" class="project-link">
 				<img src="/images/category/humanities.jpg" alt="Social Sciences & Humanities" class="project-image">
 				<div class="project-title">	
 				<h5><b>Social Sciences & Humanities</b></h5>
-                </div>
+        </div>
 			</a>
 		</div>
-	</div>
 </div>
-<p><p>
+
+<h2>Other Guides</h2>
+
+<li><b><a href="/guides/digital-preservation/main/">Digital Preservation</a></b>
 	
-## Other Guides
-	
-* [**Digital Preservation**](/guides/digital-preservation/main/)
-* [**Learning Packages**](/guides/learning-packages-directory)
+<li><b><a href="/guides/learning-packages-directory">Learning Packages</a></b>
