@@ -1,9 +1,8 @@
 ---
 title: Learning Packages Directory
 permalink: /guides/learning-packages-directory
-date: 2022-01-04
-layout: post
 description: ""
+published: false
 ---
 
 Listed below are the Learning Packages created in 2020 as part of NLB's efforts to keep Singapore updated on current themes and concepts.
