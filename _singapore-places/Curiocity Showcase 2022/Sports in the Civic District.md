@@ -89,7 +89,7 @@ Valberg, Roger, ed. <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bi
         </td>
      </tr>
 	</table></table>
-	
+
 ### Book chapters
 * Aplin, Nick. “Sports and games in colonial Singapore: 1819–1867.” In *[Modern sports in Asia: cultural perspectives](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202379188)*, edited by Younghan Cho and Charles Leary, 7–18. London; New York: Routledge, 2015. (Call no. RSING 796.095 MOD)
 * Brownfoot, Janice N. “’Healthy bodies, healthy minds’: sport and society in colonial Malaya.” In *[Sport in Asian society: past and present](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12328575)*, edited by J. A. Mangan and Fan Hong, 129–156. London; Portland: Frank Cass, 2003. (Call no. R 796.095 SPO)
