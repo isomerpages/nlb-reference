@@ -4,9 +4,6 @@ permalink: /guides/sci-tech/sciences/air-pollution
 breadcrumb: Air Pollution
 description: ""
 ---
-
-
-
 ![Air Pollution](\images\sci-tech\air-pollution-banner.jpg)
 
 Photo credit: [www.pexels.com](https://www.pexels.com/photo/air-air-pollution-climate-change-dawn-221012/)

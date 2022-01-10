@@ -62,14 +62,14 @@ This resource guide was prepared in December 2021 by Andrea Kee, an Associate Li
         </td>
     </tr>
 	</table>
-	
+
 **Videos**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c986BixuabU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Goh, Yu Mei and Michelle Heng. “<a href="https://youtu.be/c986BixuabU">Goh Yu Mei and Michelle Heng: Movie Magic!</a>” In *A Librarian’s World*, 20 March 2020. YouTube video. 
 
 ### Bugis Street
- 
+
 **BiblioAsia - articles**
 * Lee, Meiyu. “[Bugis Street: From Sleazy to Sanitised](https://biblioasia.nlb.gov.sg/vol-11/issue-3/oct-dec-2015/bugis).” *BiblioAsia* 11, issue 3 (2015): 42-47. 
 
@@ -105,7 +105,7 @@ Lim, Kay Tong. <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=609568
 		</td>
 </tr>
 	</table>
-	
+
 **Photographs**
 <img style="width:500px" src="/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/rg-images/cathay%20building.jpg">
 <a href="https://eresources.nlb.gov.sg/pictures/Details/b66ccd53-2804-43e4-9599-854546140e75">Cathay Building, 1941.</a> 1941. Photograph. Chung Shui Ken, PictureSG, National Library, Singapore. 

@@ -58,7 +58,7 @@ This resource guide was prepared in December 2021 by Andrea Kee, an Associate Li
         </td>
      </tr>
 	</table>
-	
+
 ### 	eBooks
 <table style="width:100%" style="font-size:125%">
 <tr>
@@ -144,7 +144,6 @@ Times*, 12 August 1989, 22. (From NewspaperSG)
 * Cornelius-Takahama, Vernon. “[Coleman Bridge](https://eresources.nlb.gov.sg/infopedia/articles/SIP_151_2004-12-16.html).” Singapore Infopedia. Published 2017.
 * Cornelius-Takahama, Vernon. “[Elgin Bridge](https://eresources.nlb.gov.sg/infopedia/articles/SIP_921_2004-12-10.html).” Singapore Infopedia. Published September 2019.
 * Cornelius-Takahama, Vernon. “[Read Bridge](https://eresources.nlb.gov.sg/infopedia/articles/SIP_28_2004-12-24.html).” Singapore Infopedia. Published 2017.
-
 
 All Rights Reserved. National Library Board Singapore 2022.
 <br><br>

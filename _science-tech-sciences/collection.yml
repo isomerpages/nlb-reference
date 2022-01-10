@@ -2,7 +2,13 @@ collections:
   science-tech-sciences:
     output: true
     order:
+      - COVID 19 Resilience and Restrictions.md
       - An Overview of Viruses.md
+      - Vaccinations.md
+      - COVID 19 An Overview (2020).md
+      - COVID 19 Vaccines (2020).md
+      - COVID 19 The Singapore Situation (2020).md
+      - COVID 19 R&D and Medical Research (2020).md
       - The Spanish Flu.md
       - Climate Change.md
       - Air Pollution.md
