@@ -384,6 +384,7 @@ CNA. (2019, October 26). *CNA &#124; Talking Point &#124; E26: Will we see an en
 CNA discusses the forest fires in Indonesia and considers whether there will be an end to the haze
 
 **Haze in Southeast Asia**
+
 The Straits Times. (2019, September 19). Haze in Southeast Asia &#124; Asian Insider &#124; The Straits Times [Video]. YouTube. <https://www.youtube.com/watch?v=Tq7CIprijEU>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Tq7CIprijEU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
