@@ -2,7 +2,6 @@
 title: COVID 19 The Singapore Situation (2020)
 permalink: /guides/sci-tech/sciences/covid-19-sg-situation
 description: ""
-published: false
 ---
 
 This resource guide was created as part of a learning package on Pandemics. For other related resource guides, please head to this directory of [Learning Packages](/guides/learning-packages-directory).
