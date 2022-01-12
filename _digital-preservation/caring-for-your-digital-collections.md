@@ -109,7 +109,7 @@ To protect your treasure trove of valuable information from malware and virus th
 
 #### 7. <u>NLB and digital preservation</u>
 
-The National Library Board, Singapore (NLB) is the official custodian of Singapore's published and documentary heritage, archival materials of national and historical significance, government records and broadcast archives. As part of NLB’s Libraries and Archives Blueprint 2025, we are committed to an ongoing programme to collect, preserve and make accessible digital content on Singapore. We aspire to become a Trusted Digital Repository and an authority on digital preservation for the nation. 
+The National Library Board, Singapore (NLB) is the official custodian of Singapore's published and documentary heritage, archival materials of national and historical significance, government records and broadcast archives. As part of NLB’s LAB25 (Libraries and Archives Blueprint 2025), we are committed to an ongoing programme to collect, preserve and make accessible digital content on Singapore. We aspire to become a Trusted Digital Repository and an authority on digital preservation for the nation. 
 
 To learn about the specifications for digitising print and audio-visual recording materials in appropriate formats, please refer to the [Annex](#9-annex--digitisation-specifications). If you have materials that capture life in Singapore and would like to donate them to us, please visit this [link](https://www.nlb.gov.sg/GetInvolved/Donate/DonatetoourCollections.aspx){:target="_blank"}.
 
