@@ -2,6 +2,7 @@
 title: Major Pandemics from the 20th Century
 permalink: /guides/socscihum/history/pandemic-20th-century
 description: ""
+published: false
 ---
 This resource guide was created as part of a learning package on Pandemics. For other related resource guides, please head to this directory of [Learning Packages](/guides/learning-packages-directory).
 

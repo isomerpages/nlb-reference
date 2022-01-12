@@ -64,4 +64,4 @@ collection_name: guides
 
 <li><b><a href="/guides/digital-preservation/main/">Digital Preservation</a></b>
 	
-<li><b><a href="/guides/learning-packages-directory">Learning Packages</a></b>
+<!-- <li><b><a href="/guides/learning-packages-directory">Learning Packages</a></b> -->
