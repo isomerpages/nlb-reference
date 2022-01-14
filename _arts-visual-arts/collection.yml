@@ -2,6 +2,7 @@ collections:
   arts-visual-arts:
     output: true
     order:
+      - visual-arts/Southeast Asian Artists.md
       - visual-arts/Art Movements.md
       - visual-arts/.keep
       - visual-arts/Nanyang Artists.md
