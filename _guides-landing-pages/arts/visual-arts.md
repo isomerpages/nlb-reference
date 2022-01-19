@@ -15,6 +15,7 @@ third_nav_title: Arts
 - [**Lim Tze Peng**](/guides/singapore/people/lim-tze-peng)
 - [**Modern Art in Singapore**](/guides/arts/visual-arts/modern-art-in-singapore)
 <!--- [**Virtual Arts and Culture**](/guides/arts/visual-arts/virtual-arts)-->
+- [**Southeast Asian Artists**](/guides/arts/visual-arts/sea-artists)
 
 - **The Arts Space**
   - [**The Arts Space (Season 1) Jalan-Jalan**](/guides/arts/visual-arts/the-arts-space-season1-jalan-jalan)
