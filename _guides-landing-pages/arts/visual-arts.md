@@ -7,6 +7,7 @@ third_nav_title: Arts
 ---
 <img src="/images/category/visual-arts.jpg" alt="visual arts banner" style="width:800px;" />
 
+- [**Art Movements**](/guides/arts/visual-arts/art-movements)
 - [**Nanyang Artists**](/guides/arts/visual-arts/nanyangartists)
 - [**Singapore Visual Arts on NORA**](/guides/arts/visual-arts/singapore-visual-arts-on-nora)
 - [**Chua Ek Kay**](/guides/singapore/people/chua-ek-kay)
@@ -14,6 +15,7 @@ third_nav_title: Arts
 - [**Lim Tze Peng**](/guides/singapore/people/lim-tze-peng)
 - [**Modern Art in Singapore**](/guides/arts/visual-arts/modern-art-in-singapore)
 <!--- [**Virtual Arts and Culture**](/guides/arts/visual-arts/virtual-arts)-->
+- [**Southeast Asian Artists**](/guides/arts/visual-arts/sea-artists)
 
 - **The Arts Space**
   - [**The Arts Space (Season 1) Jalan-Jalan**](/guides/arts/visual-arts/the-arts-space-season1-jalan-jalan)
