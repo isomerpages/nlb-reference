@@ -2,7 +2,6 @@
 title: Digital Workplaces
 permalink: /guides/business/management/digital-workplaces
 description: ""
-published: false
 ---
 This resource guide was created as part of a learning package on A New Normal. For other related resource guides, please head to this directory of [Learning Packages](/guides/learning-packages-directory).
 
