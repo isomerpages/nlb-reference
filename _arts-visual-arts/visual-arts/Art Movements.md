@@ -153,8 +153,7 @@ Call no.: RSING 027.495957 SNBBA -[LIB] (Also available [here](https://biblioasi
 
 <p style="margin-left: 32px">This page features 17 art movements, including Impressionism, Dada, Abstract Expressionism and Pop Art. Each art movement has a dedicated page which gives an overview and introduces its characteristics, legacy, timeline and artists involved in the art movement. It also links to other feature articles on the website related to the art movement.</p>
 
-* Wee, C. J. Wan-ling. “[Shortlist : Singapore](https://aaa.org.hk/en/ideas/ideas/shortlist-singapore).” Asia Art Archive. Accessed December 9, 2021. 
-<https://aaa.org.hk/en/ideas/ideas/shortlist-singapore>
+* Wee, C. J. Wan-ling. “[Shortlist : Singapore](https://aaa.org.hk/en/ideas/ideas/shortlist-singapore).” Asia Art Archive. Accessed December 9, 2021. <https://aaa.org.hk/en/ideas/ideas/shortlist-singapore>
 
 <p style="margin-left: 32px">This introduces the major developments in Singapore arts from the 19th century to the present and includes a list of recommended readings under the different topics covered.</p>
 
