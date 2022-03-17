@@ -5,7 +5,6 @@ breadcrumb: Archived Websites
 collection_name: other-formats
 published: true
 ---
-
 # **Archived Websites**
 
 The National Library has a collection of Singapore websites of individuals, associations, businesses, cultural organisations, significant events and news. These websites are a valuable resource for researchers to study websites which may no longer exist or observe changes in specific websites over time. Together, these websites reflect various aspects of Singaporean life, culture, and heritage in the 21st century. 
@@ -20,9 +19,9 @@ For more information on WAS and nominating your website for archival, check out 
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/8iEBaBbe-yk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- [Archive Your Website with Web Archive Singapore](https://www.youtube.com/watch?v=lC9BNSh0OuY)
+- [Archive Your Website with Web Archive Singapore](https://www.youtube.com/watch?v=I0iMqHJ_jIE)
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/lC9BNSh0OuY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=I0iMqHJ_jIE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This guide will explain how to search, browse, and access the library’s archived websites collection on WAS.
 
