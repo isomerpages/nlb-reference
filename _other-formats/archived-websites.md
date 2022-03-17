@@ -21,7 +21,7 @@ For more information on WAS and nominating your website for archival, check out 
 
 - [Archive Your Website with Web Archive Singapore](https://www.youtube.com/watch?v=I0iMqHJ_jIE)
 
-  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=I0iMqHJ_jIE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/I0iMqHJ_jIE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This guide will explain how to search, browse, and access the library’s archived websites collection on WAS.
 
