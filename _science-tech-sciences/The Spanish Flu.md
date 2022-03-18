@@ -2,6 +2,7 @@
 title: The Spanish Flu
 permalink: /guides/sci-tech/sciences/spanish-flu
 description: ""
+published: false
 ---
 This resource guide was created as part of a learning package on Pandemics. For other related resource guides, please head to this directory of [Learning Packages](/guides/learning-packages-directory).
 
