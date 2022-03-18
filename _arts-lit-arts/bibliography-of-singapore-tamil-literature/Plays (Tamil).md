@@ -5,7 +5,9 @@ breadcrumb: Bibliography of Singapore Tamil Literature - Plays
 collection_name: arts-lit-arts
 third_nav_title: Bibliography Of Singapore Tamil Literature
 published: true
+description: ""
 ---
+
 
 
 **நாடகங்கள்**
@@ -18,12 +20,15 @@ published: true
 * [1991 – 2000](#1991-2000)
 * [2001 – 2010](#2001-2010)
 * [2011 – 2015](#2011-2015)
+* [2015 – 2021](#2015-2021)
 * [Accessing National Library Board Singapore Resources](#accessing-national-library-board-singapore-resources)
 * [Author](#Author)
 
 ### <u>Overview of the Singapore Literature Bibliographies (1965-2015)</u>
 
 The National Library has compiled a set of bibliographies on Singapore Literature that covers works published in English, Chinese, Malay and Tamil. These provide a comprehensive listing of literary works by Singapore writers and Singapore literature over the past 50 years from 1965 to 2015. The bibliographies have been updated from the original print versions to include works published from 2010 to 2015. The full listing of works including titles of newspapers and literary periodicals in the four languages can be easily accessed through the Resource Guides platform. More information about the specific language bibliographies including scope and coverage can be found in the respective Singapore Literature Resource Guides.
+
+> More works have been added to cover the period of [2015 - 2021](#2015-2021) to keep this bibliography up-to-date. 
 
 ![Tamil banner](/images/arts/literaryarts/singaporetamilliterature/SGLitbibliobannerTL-1.jpg)
 
@@ -205,48 +210,80 @@ The National Library has compiled a set of bibliographies on Singapore Literatur
 
 49. ஏ.பி. ராமன். (2011). சவாலே சமாளி! : வானொலி நாடகம். Singapore : கவிமாலை.
 (RSING 791.447 RAM)
-
 50. தங்கரசன், மு. (1997). மணங்கமழும் பூக்கள்.  சென்னை : மலர்மாமணி பதிப்பகம்.
 (RSING S823 THA)
-
 51. Ravee Vellu S. (2013). போமோ! Singapore : Triple V Creative Theatre.
 (RSING 894.811272 RAV)
-
 52. புதுமைதாசன். (2014). ஐடியா ஐயாக்கண்ணு : [நகைச்சுவை நாடகம்]. சிங்கப்பூர் : கிரிம்சன் ஏர்த் பதிப்பகம்.
 (RSING 894.811271 PUT
-
 53. புதுமைதாசன். (2014).  மரணவலை : [துப்பறியும் நாடகம்].  சிங்கப்பூர் : கிரிம்சன் ஏர்த் பதிப்பகம்.
 (RSING 894.811272 SOT)
-
 54. சோமசுந்தரம், ரெ. (2014). பெத்த மனம் கல்லு : [வானொலி நாடகங்கள்].  சிங்கப்பூர் : ரெ. சோமசுந்தரம் வெளியீடு, 2014.
 (RSING 791.447 SOM)
-
 55. புதுமைதாசன். (2014). ஸ்கூட்டரோ ஸ்கூட்டர்! : [நகைச்சுவை நாடகத்தொகுப்பு]. சிங்கப்பூர் : கிரிம்சன் ஏர்த் பதிப்பகம்.
 (RSING 894.811271 PUT)
-
 56. புதுமைதாசன். (2015). எதிர்நீச்சல் : [மர்ம நாடகம்]. Singapore : Crimson Earth.
 (RSING 894.811272 PUT)
-
 57. புதுமைதாசன்.(2015).  இலக்கியக் காட்சிகள் : \[தொகுப்பு\]. சிங்கப்பூர் : கிரிம்சன் ஏர்த் பதிப்பகம்.
 (RSING 894.811271 PUT)
-
 58. புதுமைதாசன். (2015).  இட்டை மனிதன் : [மர்ம நாடகம்].  சிங்கப்பூர்:கிரிம்சன் ஏர்த் பதிப்பகம்.
 (RSING 894.811271 PUT)
-
 59. புதுமைதாசன். (2015). கதாகாலட்சேபம் : \[தொகுப்பு\]. சிங்கப்பூர் :கிரிம்சன் ஏர்த் பதிப்பகம்.
 (RSING 894.811271 PUT)
-
 60. புதுமைதாசன். (2015). மர்ம மனிதன் : [மர்ம நாடகம்].  சிங்கப்பூர் :கிரிம்சன் ஏர்த் பதிப்பகம்.
 (RSING 894.811272)
-
 61. புதுமைதாசன். (2015). மாடிவீட்டு மர்மம் : [மர்ம நாடகம்]. சிங்கப்பூர் : கிரிம்சன் ஏர்த் பதிப்பகம்.
 (RSING 894.811272
-
 62. புதுமைதாசன். (2015). ஷேக்ஸ்பியரின் மெக்பெத். சிங்கப்பூர் : கிரிம்சன் ஏர்த் பதிப்பகம்.
 (894.811271PUT)
-
 63. பீரம்மாள் பீர்முகம்மது. (2015). வெற்றி நிச்சயம்:சிறுவர் நாடகங்கள். சிங்கப்பூர் : பரநியா பதிப்பகம்.
 (RSING 894.81 PEE)
+
+### <u>2015-2021</u>
+
+1.	புதுமைதாசன். (2015). எதிர்நீச்சல் : [மர்ம நாடகம்]. Singapore : Crimson Earth.
+   RSING 894.811272 PUT
+
+2.	புதுமைதாசன். (2015). இலக்கியக் காட்சிகள் : [தொகுப்பு]. Singapore : Crimson Earth.
+   RSING 894.811271 PUT
+
+3.	புதுமைதாசன். (2015). இட்டை மனிதன் : [மர்ம நாடகம்]. சிங்கப்பூர் : கிரிம்சன் ஏர்த் பதிப்பகம்.
+   RSING S894.811271 PUM
+
+4.	புதுமைதாசன். (2015). கதாகாலட்சேபம் : [ தொகுப்பு]. சிங்கப்பூர் : கிரிம்சன் ஏர்த் பதிப்பகம்.
+   RSING S894.811271 PUT
+
+5.	புதுமைதாசன். (2015). மர்ம மனிதன் : [மர்ம நாடகம்]. சிங்கப்பூர் : கிரிம்சன் ஏர்த் பதிப்பகம்.
+   RSING S894.811272 PUT
+
+6.	புதுமைதாசன். (2015). மாடிவீட்டு மர்மம் : [மர்ம நாடகம்]. சிங்கப்பூர் : கிரிம்சன் ஏர்த் பதிப்பகம்.
+   RSING S894.811272 PUT
+
+7.	புதுமைதாசன். (2015). ஷேக்ஸ்பியரின் மெக்பெத். சிங்கப்பூர் : கிரிம்சன் ஏர்த் பதிப்பகம்.
+   RSING S894.811271 PUM
+
+8.	புதுமைதாசன். (2015). விழிப்பு : [நாடகத்தொகுப்பு]. சிங்கப்பூர் : கிரிம்சன் ஏர்த் பதிப்பகம்.
+   RSING S894.811271 PUT
+
+9.	தங்கராசன், மு. (2015). முற்றத்து முல்லைகள் : நாடகத் தொகுப்பு நூல். சிங்கப்பூர் : மு. தங்கராசன் வெளியீடு.
+   RSING 894.811272 THA
+
+10.	தங்கராசன், மு. (2015). சாமந்திப் பூக்கள் : நாடகத் தொகுப்பு நூல். சிங்கப்பூர் : மு. தங்கராசன் வெளியீடு.
+    RSING S894.811271 THA
+
+11.	சண்முகம், சே. வெ. (2016). எழுத்துச்சிற்பி சே. வெ. சண்முகத்தின் மேடை நாடகங்கள் = S. V. Shanmugam's Stage Plays. Singapore : Singapore Indian Artistes' Association.
+    RSING S894.811371 SHA
+
+12.	புதுமைதாசன். (2016). ஜார்ஜ் ஆர்வெலின் விலங்குப்பண்ணை : அங்கத நெடுங்கதையின் மாற்றுருவாக்க நாடக வடிவம். சிங்கப்பூர் : கிரிம்சன் ஏர்த் பதிப்பகம்.
+    RSING 894.811272 PUT
+
+13.	சாலி, ஜே.எம். (2017). சூரியகாந்தி : நாடக(த்) தொகுப்பு. Chennai : GN Laser.
+    RSING 894.8112 SAL
+
+14.	இளமாறன், பாத்தேறல். (2017). கல்லறை : குறு நாடகம். சிங்கப்பூர் : பாத்தேறல் இளமாறன்.
+    RSING 894.811272 ILA
+
+
 
 ### <u>Accessing National Library Board Singapore Resources</u>
 

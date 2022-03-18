@@ -12,6 +12,8 @@ permalink: /reminiscence-libraryp1/
 
 ![Alt text for image on Isomer site](/images/s4.jpg)
 
+[Van Kleef Aquarium](https://nlb.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=e557aa57-ecd9-4d4c-8c32-ae4d00a8f5db)
+
 ![Alt text for image on Isomer site](/images/sinsert.png)
 
 ![Alt text for image on Isomer site](/images/s8.png)
@@ -21,6 +23,8 @@ permalink: /reminiscence-libraryp1/
 ![Alt text for image on Isomer site](/images/s10.png)
 
 ![Alt text for image on Isomer site](/images/s111.png)
+
+[National Library Children’s Activities in 1963 Video ](https://nlb.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=1bee5d86-501a-464c-bd79-ae4d00aae2ad)
 
 ![Alt text for image on Isomer site](/images/s13.png)
 
@@ -43,6 +47,8 @@ permalink: /reminiscence-libraryp1/
 ![Alt text for image on Isomer site](/images/s23.png)
 
 ![Alt text for image on Isomer site](/images/s25.png)
+
+[SAF Training – Berita Singapura ](https://nlb.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=a03371e1-76ba-4b08-8452-ae4d00abe82e)
 
 ![Alt text for image on Isomer site](/images/s26.png)
 

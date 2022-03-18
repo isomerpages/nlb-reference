@@ -5,7 +5,9 @@ breadcrumb: Bibliography of Singapore Tamil Literature - Novels
 collection_name: arts-lit-arts
 third_nav_title: Bibliography Of Singapore Tamil Literature
 published: true
+description: ""
 ---
+
 
 
 **புதினம்**
@@ -18,12 +20,15 @@ published: true
 * [1991 – 2000](#1991-2000)
 * [2001 – 2010](#2001-2010)
 * [2011 – 2015](#2011-2015)
+* [2015 – 2021](#2015-2021)
 * [Accessing National Library Board Singapore Resources](#accessing-national-library-board-singapore-resources)
 * [Author](#Author)
 
 ### <u>Overview of the Singapore Literature Bibliographies (1965-2015)</u>
 
 The National Library has compiled a set of bibliographies on Singapore Literature that covers works published in English, Chinese, Malay and Tamil. These provide a comprehensive listing of literary works by Singapore writers and Singapore literature over the past 50 years from 1965 to 2015. The bibliographies have been updated from the original print versions to include works published from 2010 to 2015. The full listing of works including titles of newspapers and literary periodicals in the four languages can be easily accessed through the Resource Guides platform. More information about the specific language bibliographies including scope and coverage can be found in the respective Singapore Literature Resource Guides.
+
+> More works have been added to cover the period of [2015 - 2021](#2015-2021) to keep this bibliography up-to-date. 
 
 ![Tamil banner](/images/arts/literaryarts/singaporetamilliterature/SGLitbibliobannerTL-1.jpg)
 
@@ -140,30 +145,50 @@ The National Library has compiled a set of bibliographies on Singapore Literatur
 
 27. சக்கரவர்த்தி சோமசன்மா.(2011). அவள் வாழட்டும். சிங்கப்பூர் : [s.n.].
 (RSING S894.811372 CHA)
-
 28. இளங்கண்ணன், மா. (2011).குருவிக் கோட்டம் = Bird Sanctum.சென்னை : மணிவாசகர் பதிப்பகம்.
 (RSING 894.8113 ILA)
-
 29. சங்கையா, கா..(2011). மனித நேயம். சிங்கப்பூர் : தமிழ்க் கலை அச்சகம்.
 (RSING 894.811371 SAN)
-
 30. சங்கையா, கா..(2011). புது அப்பா!. சிங்கப்பூர் : தமிழ்க் கலை அச்சகம்.
 (RSING 894.811371 SAN)
-
 31. வீரப்பன் லெட்சுமி. (2011). வாழப் பிறந்தவள் . சிங்கப்பூர் : தமிழ்க் கலை அச்சகம்.
 (RSING 894.811371 LAT)
-
 32. ஜெயந்தி சங்கர். (2012). திரிந்தலையும் திணைகள். சென்னை : சந்தியா பதிப்பகம்.
 (RSING 894.811372 JAY)
-
 33. மகாலெட்சுமி நாராயணன். (2013). இனி ஒரு வசந்தம்!:நாவல் . Singapore : Sri Sai Publication
 (RSING 894.811372 MAK)
-
 34. முத்துசாமி, சீ. (2014). இருளுள் அலையும் குரல்கள் : மூன்று குறுநாவல்கள். சிங்கப்பூர் : தங்கமீன் பதிப்பகம்.
 (RSING 894.811372 MUT)
-
 35. சூர்ய ரத்னா. (2014). பரமபதம் : நாவல். சிங்கப்பூர் : தங்கமீன் பதிப்பகம்.
 (RSING 894.811372 SUR)
+
+### <u>2015-2021</u>
+
+1.	சாலி, ஜே. எம். (2015). தங்கக் கிளிகள். சிங்கப்பூர் : கிரிம்சன் ஏர்த் பதிப்பகம்.
+   RSING 894.811372 SAL
+
+2.	இரவிச்சந்திரன். (2016). வெட்டிக்காடு. சிங்கப்பூர் : இரவிச்சந்திரன்.
+   RSING 894.8110972 RAV
+
+3.	அன்பழகன், மா. (2016). காதல் இசைபட வாழ்தல். சென்னை : டிஸ்கவரி புக் பேலஸ்.
+   RSING S894.811372 ANB
+
+4.	யூசுப் ராவுத்தர் ரஜித். (2017). பொன்மனமிருந்தால் புவி வசமாகும். சிங்கப்பூர் : ததைழ்ப் பட்டிமன்றக் கலைக் கழகம்.
+   RSING S894.8113 YOU
+
+5.	சித்துராஜ் பொன்ராஜ். (2017). விளம்பர நீளத்தில் ஒரு மரணம் : முப்பது அத்தியாயங்களில் ஒரு நீதிக் கதை.நாகர்கோவில் : காலச்சுவடு பதிப்பகம்.
+   RSING S894.811372 SIT
+
+6.	உருவாக்கியவர் BLKJ ; படவிளக்கமளித்தவர், Tran Dac Trung. (2018). அரேபியாவை சேர்ந்த லாரன்ஸ். Singapore : Singapore Hospice Council. 
+   SING 362.175095957 ARA
+
+7.	பூங்கோதை நெஃப். (2019). அம்மா. சிங்கப்பூர் : கிரிம்சன் ஏத் பதிப்பகம்.
+   RSING S894.811372 POO
+
+8.	Created by BLKJ ; illustrated by Diigii Daguna. (2019). அற்புதமான பாட்டி. Singapore : Singapore Hospice Council.
+   RSING 362.175095957 ARP
+
+
 
 ### <u>Accessing National Library Board Singapore Resources</u>
 

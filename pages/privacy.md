@@ -36,7 +36,7 @@ Our digital services may contain links to non-Government entity digital services
 
 ### Contact Information
 
-Please contact [qsm@nlb.gov.sg](qsm@nlb.gov.sg) if you:
+Please contact [qsm@nlb.gov.sg](mailto:qsm@nlb.gov.sg) if you:
 
 a. have any enquiries or feedback on our data protection, policies and procedures; or
 
