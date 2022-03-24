@@ -171,7 +171,7 @@ Retrieved from [OverDrive](https://nlb.overdrive.com). (myLibrary ID is required
           <br><br>This handbook provides a detailed guide on how to create, sell and buy non-fungible tokens without the need for a technical background. It looks at what NFTs are, how they evolved, and why they have value. It also delves into the different types and aspects of NFTs and discusses the different NFT marketplaces and the pros and cons of each.</td></tr>
 </table>
 
-### Books
+### **Books**
 
 #### [**Bubble or Revolution: The Present and Future of Blockchain and Cryptocurrencies**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205433078)
 
@@ -184,7 +184,7 @@ Neel Mehta, Aditya Agashe, and Parth Detroja, Bubble or Revolution: The Present 
 (Call No.: 332.4 MEH)
 
 
-### <u>Authors</u>
+### Authors
 
 The resource guide was prepared in March 2022 by Anasuya Soundararajan, Manager at the National Library, Singapore.
 
