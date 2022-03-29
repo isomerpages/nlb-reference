@@ -11,7 +11,7 @@ description: ""
 
 ### <u>Guide Index</u>
 
-* [Overview of the Singapore Literature Bibliographies (1965 – 2015)](#overview-of-the-singapore-literature-bibliographies-1965-2015)
+* [Overview of the Singapore Literature Bibliographies (1965 – 2021)](#overview-of-the-singapore-literature-bibliographies-1965-2021)
 * [1965 – 1980](#1965-1980)
 * [1981 – 1990](#1981-1990)
 * [1991 – 2000](#1991-2000)
@@ -21,7 +21,7 @@ description: ""
 * [Accessing National Library Board Singapore Resources](#accessing-national-library-board-singapore-resources)
 * [Author](#Author)
 
-### <u>Overview of the Singapore Literature Bibliographies (1965-2015)</u>
+### <u>Overview of the Singapore Literature Bibliographies (1965-2021)</u>
 
 The National Library has compiled a set of bibliographies on Singapore Literature. These cover works published in English, Chinese, Malay and Tamil from 1965 to 2015 and have been updated from the original print versions. The full listing can be found in the respective Singapore Literature resource guides
 
