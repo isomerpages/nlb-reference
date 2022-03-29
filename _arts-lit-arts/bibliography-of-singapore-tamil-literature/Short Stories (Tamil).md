@@ -7,9 +7,6 @@ third_nav_title: Bibliography Of Singapore Tamil Literature
 published: true
 description: ""
 ---
-
-
-
 **சிறுகதைகள்**
 
 ### <u>Guide Index</u>
@@ -26,13 +23,14 @@ description: ""
 
 ### <u>Overview of the Singapore Literature Bibliographies (1965-2015)</u>
 
-The National Library has compiled a set of bibliographies on Singapore Literature that covers works published in English, Chinese, Malay and Tamil. These provide a comprehensive listing of literary works by Singapore writers and Singapore literature over the past 50 years from 1965 to 2015. The bibliographies have been updated from the original print versions to include works published from 2010 to 2015. The full listing of works including titles of newspapers and literary periodicals in the four languages can be easily accessed through the Resource Guides platform. More information about the specific language bibliographies including scope and coverage can be found in the respective Singapore Literature Resource Guides.
+The National Library has compiled a set of bibliographies on Singapore Literature. These cover works published in English, Chinese, Malay and Tamil from 1965 to 2015 and have been updated from the original print versions. The full listing can be found in the respective Singapore Literature resource guides
 
-> More works have been added to cover the period of [2015 - 2021](#2015-2021) to keep this bibliography up-to-date. 
+> New: The Bibliography of Singapore Tamil Literature has been updated with the addition of titles published [2015 - 2021](#2015-2021).
 
 ![Tamil banner](/images/arts/literaryarts/singaporetamilliterature/SGLitbibliobannerTL-1.jpg)
 
 | **Search Terms** | **Call Number** |
+| --- | --- |
 |  Tamil short stories | 894.8113 |
 
 சிங்கப்பூர் இலக்கியத் தொகுப்பு ஐந்து பிரிவுகளாகக் கொடுக்கப்பட்டுள்ளது. அவற்றில் சிறுகதைகள் தவிர மற்ற நான்கு தொகுப்புகளைக்  காணக் கீழே உள்ள தலைப்புகளைச் சொடுக்கவும்.

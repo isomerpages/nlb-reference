@@ -5,6 +5,8 @@ third_nav_title: Science And Technology
 ---
 <img src="/images/category/technology.jpg" alt="technology banner" style="width:800px;" />
 
+* [**Cryptocurrencies and NFTs**](/guides/sci-tech/tech/crypto-nfts)
+
 * [**Cybersecurity Trends**](/guides/sci-tech/tech/cyber-trends)
 
 * [**The Digital Frontier**](/guides/sci-tech/tech/digital-frontier)
