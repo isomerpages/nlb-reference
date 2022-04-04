@@ -11,7 +11,7 @@ description: ""
 
 ### <u>Guide Index</u>
 
-* [Overview of the Singapore Literature Bibliographies (1965 – 2021)](#overview-of-the-singapore-literature-bibliographies-1965-2021)
+* [Overview of the Singapore Literature Bibliographies ](#overview-of-the-singapore-literature-bibliographies)
 * [1965 – 1980](#1965-1980)
 * [1981 – 1990](#1981-1990)
 * [1991 – 2000](#1991-2000)
@@ -21,11 +21,11 @@ description: ""
 * [Accessing National Library Board Singapore Resources](#accessing-national-library-board-singapore-resources)
 * [Author](#Author)
 
-### <u>Overview of the Singapore Literature Bibliographies (1965-2021)</u>
+### <u>Overview of the Singapore Literature Bibliographies</u>
 
 The National Library has compiled a set of bibliographies on Singapore Literature. These cover works published in English, Chinese, Malay and Tamil from 1965 to 2015 and have been updated from the original print versions. The full listing can be found in the respective Singapore Literature resource guides
 
-> New: The Bibliography of Singapore Tamil Literature has been updated with the addition of titles published [2015 - 2021](#2015-2021).
+> New: The Bibliography of Singapore Tamil Literature has been updated with the addition of titles published from 2015-2021.
 
 ![Tamil banner](/images/arts/literaryarts/singaporetamilliterature/SGLitbibliobannerTL-1.jpg)
 
@@ -660,31 +660,31 @@ Singapore : Multi Arts Creations.
 ### <u>2015-2021</u>
 
 1.	செல்வராஜூ, உ, (2015). சிரிப்பால் மலருங்கள் : கவிதைகள், சிங்கப்பூர் : சீர்காழி உ. செல்வராஜூ, 2015.
-   RSING S894.811172 SEL
+    ( RSING S894.811172 SEL)
 
-2.	இமாஜான், டி. என், author, (2015). கருத்தைக் கவரும் கடுகளவுக் கவிதைகள், Singapore : Multi Arts Creations, 2015.
-   RSING S894.811172 EMA
+2.	இமாஜான், டி. என், (2015). கருத்தைக் கவரும் கடுகளவுக் கவிதைகள், Singapore : Multi Arts Creations, 2015.
+    ( RSING S894.811172 EMA)
 
 3.	தவமணி, வே, (2015). கவி அலைகள், சிங்கப்பூர் : தவமணி பதிப்பகம், 2015.
-   RSING S894.811172 THA
+    ( RSING S894.811172 THA)
 
 4.	அம்பேத்கார். ச, (2015). கவிதைப் பூக்கள், சிங்கப்பூர் : திருவள்ளுவர் பதிப்பகம், 2015.
-   RSING S894.811171 AMB
+ (RSING S894.811171 AMB)
 
 5.	இமாஜான் டி. என், (2015). குதூகலமூட்டும் குறுங்கவிதைகள்!. Singapore : Multi Arts Creations, 2015.
-   RSING 894.811172 IMA
+   (RSING 894.811172 IMA
 
 6.	இமாஜான், டி. என், (2015). முத்து முத்தான மூன்றடிக் கவிதைகள்!. Singapore : Multi Arts Creations, 2015.
-   RSING S894.811172 EMA
+    ( RSING S894.811172 EMA)
 
 7.	குமார், எம். கே, editor, (2015). நதிமிசை நகரும் கூழாங்கற்கள் : சிங்கப்பூர்ப் பெண் கவிஞர்களின் கவிதைத்தொகுப்பு. சிங்கப்பூர் : எம். கே. குமார், 2015.
-   RSING 894.811172 NAT
+   (RSING 894.811172 NAT)
 
 8.	இமாஜான், டி.என், (2015). புன்சிரிப்பூட்டும் சென்ரியூ கவிதைகள். Singapore : Multi Arts Creations, 2015.
-   RSING 894.811172 IMA
+   (RSING 894.811172 IMA)
 
 9.	புதுமைதாசன், (2015). புதுமைதாசன் கதைகள் : [தொகுப்பு]. சிங்கப்பூர் : கிரிம்சன் ஏர்த் பதிப்பகம், 2015.
-   RSING S894.811372 PUM
+   (RSING S894.811372 PUM
 
 10.	இமாஜான், டி.என். (2015). துளித்துளியாய்க் கவிதைத் துளிகள்!. Singapore : Multi Arts Creations.
     RSING S894.811172 IMA
