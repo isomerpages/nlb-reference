@@ -5,6 +5,6 @@ description: Learning Bytes
 ---
 # Learning Bytes
 
-Listed below are the Learning Bytes created in 2022 as part of NLB's efforts to keep Singapore updated on current themes and concepts.
+Learning Bytes provide insights into key and emerging trends of topical issues that are shaping our future.
 
 - [**Agile Workforce**](/guides/business/management/agile-workforce)
