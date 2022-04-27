@@ -17,14 +17,14 @@ An agile workforce can swiftly “adapt and change with the growing and shifting
 <br> - A mindset shift is the first critical step to being an agile worker.
 <br> - Reskilling and upskilling are fundamental when embracing agile. Workers need to possess cross-functional skills and capabilities.</p>
  
-<h4><font style="color:#4372d6;"><b>History of Agile Practices</b></font></h4>
+ #### History of Agile Practices
 
 Agile practices emerged from the software developer community in 2001. A group of software developers had gathered in Snowbird, Utah, to share and refine their approaches to software development and depart from the waterfall way of building software. They sought to create processes that would provide more flexibility and accelerate developers’ efforts to produce software of the highest quality reliably. During this meeting, the Agile Manifesto was developed. 
 
 Today, agile practices have expanded beyond the IT industry to other types of industries and organisations.  
 
 
-<h4><font style="color:#4372d6;"><b>Embarking on an Agile Transformation</b></font></h4>
+#### Embarking on an Agile Transformation
 
 Future-proofing the workforce through agile demands a comprehensive shift in all areas –organisational structure, people, process, and technology. It is transformational and challenging and requires continuous improvement and optimisation. 
 
@@ -35,8 +35,7 @@ The advantages of agility include:
 * Always ready to adopt new technologies; and
 * Always ready to learn and acquire new skills to capitalise on new opportunities. 
 
-
-<u><i>Organisational Transformation</i></u>
+<u>*Organisational Transformation*</u>
 <br>
 An agile organisation comprises “a network of high-performing teams within a people-centred culture that operates in rapid learning and fast decision cycles, which are enabled by technology and a common purpose that creates value for all stakeholders.”<sup><a href="#fn2" id="ref2">2</a></sup>  Agile organisations are robust (resilient, reliable and efficient) and dynamic (fast, nimble, and adaptive). 
 
@@ -53,7 +52,7 @@ Other critical aspects of agility include:
 * Engaging the employees and developing clear, effective, transparent and regular communication
 
 
-<u><i>Worker Transformation</i></u>
+<u>*Worker Transformation*</u>
 <br>
 Personal transformation requires a disciplined approach from individual workers to maintain competitiveness and versatility. A mindset shift, the foundation of agility, is critical. 
 
@@ -82,9 +81,11 @@ Reskilling and upskilling are also incredibly important to ensure that workers a
 
 # Further Reading
 Delve deeper into the concept of an agile workforce and discover how agile is future-proofing the workforce. 
-<h3><font style="color:#4372d6;">Websites</font></h3>
 
-<b><font style="color:#4372d6;">To Build an Agile Team, Commit to Organizational Stability</font></b><br>
+### Websites
+
+<b><font style="color:#4372d6;">To Build an Agile Team, Commit to Organizational Stability</font></b>
+<br>
 Companies need to commit to stability to achieve true agility and resilience. Organisational stability provides people with a sense of confidence, security, and optimism during times of disruptive change in the workplace. With organisational stability, people can be calm, rational and adapt effectively to evolving situations. This article provides seven evidence-based practices that leaders can adopt to build a stable foundation.
 
 Elaine Pulako & Robert B. Kaiser, “To Build an Agile Team, Commit to Organizational Stability,” *Harvard Business Review*, 7 April 2020. [https://hbr.org/2020/04/to-build-an-agile-team-commit-to-organizational-stability](https://hbr.org/2020/04/to-build-an-agile-team-commit-to-organizational-stability) 
@@ -104,7 +105,7 @@ The keys to a successful agile transformation comprise a targeted approach, sequ
 
 Matt Watt, “How to Get Your Agile Transformation on Target,” *EY*, 22 April 2020. [https://www.ey.com/en_gl/workforce/how-to-get-your-agile-transformation-on-target](https://www.ey.com/en_gl/workforce/how-to-get-your-agile-transformation-on-target)
 
-<h3><font style="color:#4372d6;">Journal Articles</font></h3>
+### Journal Articles
 
 <b><font style="color:#4372d6;">Being the Agile Boss</font></b>
 <br>
@@ -128,7 +129,7 @@ Retrieved from [OverDrive](https://nlb.overdrive.com/). (myLibrary ID is require
 | ![Agile Transformation](/images/business/AW_AgileTransformation.jpeg)     | This book discusses why new operating models are needed, how to apply agile principles at scale, how to leverage digital-native processes and why change managers need to think big but start small. It also looks at how to build and engage high-performing teams for change, tackles the employee mindset that can hinder agile adoption and why developing an agile business is not a reason to fail to plan.<br><br>Neil Perkin, *[Agile Transformation: Structures, Processes and Mindsets for the Digital Age](https://nlb.overdrive.com/media/5028721)* (Kogan Page, 2019).
 
 
-<h3><font style="color:#4372d6;">Videos</font></h3>
+### Videos
 
 <b><font style="color:#4372d6;">The Agile Mindset, A Different Way of Working</font></b>
 <br>
