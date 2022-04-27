@@ -3,21 +3,22 @@ title: Agile Workforce
 permalink: /guides/business/management/agile-workforce
 description: Agile Workforce
 ---
-# **Agile Workforce**
+# Agile Workforce
 
 Today’s workforce faces multiple challenges, such as skill shortages, rapid technological advances and ever-growing competitive markets. Disruptions, such as those caused by the Covid-19 pandemic further drive the importance that the workforce needs to evolve and be more agile to respond to these challenges. Workforce agility is vital to the future success of organisations.
 
 An agile workforce can swiftly “adapt and change with the growing and shifting needs of businesses”<sup><a href="#fn1" id="ref1">1</a></sup>  to be more effective, responsive, resilient, and competitive even during volatile, uncertain, complex and ambiguous times. 
 
 
-
+<div>
 <p style="padding: 25px; border: 2px solid grey; background: #EAF2F8;"><font style="color:#4372d6;"><b><i>Key Takeaways</i></b></font>
 <br> - An agile workforce is robust and dynamic. Being agile provides a competitive advantage and the ability to weather crises.
 <br> - Leaders need to be committed and dedicated to building an agile culture.
 <br> - A mindset shift is the first critical step to being an agile worker.
 <br> - Reskilling and upskilling are fundamental when embracing agile. Workers need to possess cross-functional skills and capabilities.</p>
- 
- #### History of Agile Practices
+</div> 
+
+#### History of Agile Practices
 
 Agile practices emerged from the software developer community in 2001. A group of software developers had gathered in Snowbird, Utah, to share and refine their approaches to software development and depart from the waterfall way of building software. They sought to create processes that would provide more flexibility and accelerate developers’ efforts to produce software of the highest quality reliably. During this meeting, the Agile Manifesto was developed. 
 
@@ -35,7 +36,7 @@ The advantages of agility include:
 * Always ready to adopt new technologies; and
 * Always ready to learn and acquire new skills to capitalise on new opportunities. 
 
-<u>*Organisational Transformation*</u>
+<i><u>Organisational Transformation</u></i>
 <br>
 An agile organisation comprises “a network of high-performing teams within a people-centred culture that operates in rapid learning and fast decision cycles, which are enabled by technology and a common purpose that creates value for all stakeholders.”<sup><a href="#fn2" id="ref2">2</a></sup>  Agile organisations are robust (resilient, reliable and efficient) and dynamic (fast, nimble, and adaptive). 
 
@@ -52,7 +53,7 @@ Other critical aspects of agility include:
 * Engaging the employees and developing clear, effective, transparent and regular communication
 
 
-<u>*Worker Transformation*</u>
+<i><u>Worker Transformation</u></i>
 <br>
 Personal transformation requires a disciplined approach from individual workers to maintain competitiveness and versatility. A mindset shift, the foundation of agility, is critical. 
 
@@ -66,20 +67,19 @@ Reskilling and upskilling are also incredibly important to ensure that workers a
 <sup id="fn2">2. Wouter Aghina, Karin Ahlback, Aaron De Smet, Gerald Lackey, Michael Lurie, Monica Murarka, & Christopher Handscomb, “The Five Trademarks of Agile Organizations,” *McKinsey & Company*, 20 March 2020. [https://www.mckinsey.com/business-functions/people-and-organizational-performance/our-insights/the-five-trademarks-of-agile-organizations](https://www.mckinsey.com/business-functions/people-and-organizational-performance/our-insights/the-five-trademarks-of-agile-organizations)  <a href="#ref2">↩</a></sup> 
 
 
-<h5><font style="color:#4372d6;">References</font></h5>
+##### References
 
 1. “The Journey to an Agile Organization,” *McKinsey & Company*, 10 May 2019. [https://www.mckinsey.com/business-functions/people-and-organizational-performance/our-insights/the-journey-to-an-agile-organization](https://www.mckinsey.com/business-functions/people-and-organizational-performance/our-insights/the-journey-to-an-agile-organization)
 
+2. “The Business Agility Report,” *Business Agility Institute*, 2022. [https://api.businessagility.institute/storage/files/download-research/BAI-Business-Agility-Report-2021.pdf](https://api.businessagility.institute/storage/files/download-research/BAI-Business-Agility-Report-2021.pdf)
 
-3. “The Business Agility Report,” *Business Agility Institute*, 2022. [https://api.businessagility.institute/storage/files/download-research/BAI-Business-Agility-Report-2021.pdf](https://api.businessagility.institute/storage/files/download-research/BAI-Business-Agility-Report-2021.pdf)
+3. Rephael Sweary, “Agile First: The Workforce of the 'Next to Normal',” *Forbes*, 20 July 2020. [https://www.forbes.com/sites/forbestechcouncil/2020/07/20/agile-first-the-workforce-of-the-next-normal/?sh=64b934b468c0](https://www.forbes.com/sites/forbestechcouncil/2020/07/20/agile-first-the-workforce-of-the-next-normal/?sh=64b934b468c0)
 
-5. Rephael Sweary, “Agile First: The Workforce of the 'Next to Normal',” *Forbes*, 20 July 2020. [https://www.forbes.com/sites/forbestechcouncil/2020/07/20/agile-first-the-workforce-of-the-next-normal/?sh=64b934b468c0](https://www.forbes.com/sites/forbestechcouncil/2020/07/20/agile-first-the-workforce-of-the-next-normal/?sh=64b934b468c0)</font>
+4. “Leading Agile Transformation: The New Capabilities Leaders Need to Build 21st-century Organizations,” *McKinsey & Company*, October 2018. [https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/Organization/Our%20Insights/Leading%20agile%20transformation%20The%20new%20capabilities%20leaders%20need%20to%20build/Leading-agile-transformation-The-new-capabilities-leaders-need-to-build-21st-century-organizations.pdf ](https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/Organization/Our%20Insights/Leading%20agile%20transformation%20The%20new%20capabilities%20leaders%20need%20to%20build/Leading-agile-transformation-The-new-capabilities-leaders-need-to-build-21st-century-organizations.pdf )  
 
-7. “Leading Agile Transformation: The New Capabilities Leaders Need to Build 21st-century Organizations,” *McKinsey & Company*, October 2018. [https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/Organization/Our%20Insights/Leading%20agile%20transformation%20The%20new%20capabilities%20leaders%20need%20to%20build/Leading-agile-transformation-The-new-capabilities-leaders-need-to-build-21st-century-organizations.pdf ](https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/Organization/Our%20Insights/Leading%20agile%20transformation%20The%20new%20capabilities%20leaders%20need%20to%20build/Leading-agile-transformation-The-new-capabilities-leaders-need-to-build-21st-century-organizations.pdf )  
+5. Caroline Mimbs Nyce, “The Winter Getaway That Turned the Software World Upside Down,” *The Atlantic*, 8 December 2017. [https://www.theatlantic.com/technology/archive/2017/12/agile-manifesto-a-history/547715/](https://www.theatlantic.com/technology/archive/2017/12/agile-manifesto-a-history/547715/) 
 
-10. Caroline Mimbs Nyce, “The Winter Getaway That Turned the Software World Upside Down,” *The Atlantic*, 8 December 2017. [https://www.theatlantic.com/technology/archive/2017/12/agile-manifesto-a-history/547715/](https://www.theatlantic.com/technology/archive/2017/12/agile-manifesto-a-history/547715/) 
-
-# Further Reading
+## Further Reading
 Delve deeper into the concept of an agile workforce and discover how agile is future-proofing the workforce. 
 
 ### Websites
@@ -146,7 +146,7 @@ This webinar highlights how a skilled and engaged workforce is key to building a
 Agile and Skills - Ready Workforce for a Changing World. *HRMAsia*, 2021. [https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&referrer=&eventid=3026999&sessionid=1&key=73097017D02A4F4841DC1E0B293C3489&regTag=&V2=false&sourcepage=register](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&referrer=&eventid=3026999&sessionid=1&key=73097017D02A4F4841DC1E0B293C3489&regTag=&V2=false&sourcepage=register)
 <br><font style="color:orange;">*Free registration is required. </font>
 
-<h3><font style="color:#4372d6;">Udemy Courses</font></h3>
+<h3><font style="color:#4372d6;">Udemy Business Courses</font></h3>
 
 
 
