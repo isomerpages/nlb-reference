@@ -11,7 +11,7 @@ description: ""
 
 ### <u>Guide Index</u>
 
-* [Overview of the Singapore Literature Bibliographies (1965 – 2015)](#overview-of-the-singapore-literature-bibliographies-1965-2015)
+* [Overview of the Singapore Literature Bibliographies ](#overview-of-the-singapore-literature-bibliographies)
 * [1965 – 1980](#1965-1980)
 * [1981 – 1990](#1981-1990)
 * [1991 – 2000](#1991-2000)
@@ -21,11 +21,11 @@ description: ""
 * [Accessing National Library Board Singapore Resources](#accessing-national-library-board-singapore-resources)
 * [Author](#Author)
 
-### <u>Overview of the Singapore Literature Bibliographies (1965-2015)</u>
+### <u>Overview of the Singapore Literature Bibliographies</u>
 
 The National Library has compiled a set of bibliographies on Singapore Literature. These cover works published in English, Chinese, Malay and Tamil from 1965 to 2015 and have been updated from the original print versions. The full listing can be found in the respective Singapore Literature resource guides
 
-> New: The Bibliography of Singapore Tamil Literature has been updated with the addition of titles published [2015 - 2021](#2015-2021).
+> New: The Bibliography of Singapore Tamil Literature has been updated with the addition of titles published  from [2015 - 2021](#2015-2021).
 
 ![Tamil banner](/images/arts/literaryarts/singaporetamilliterature/SGLitbibliobannerTL-1.jpg)
 
@@ -183,7 +183,7 @@ The National Library has compiled a set of bibliographies on Singapore Literatur
 7.	பூங்கோதை நெஃப். (2019). அம்மா. சிங்கப்பூர் : கிரிம்சன் ஏத் பதிப்பகம்.
    RSING S894.811372 POO
 
-8.	Created by BLKJ ; illustrated by Diigii Daguna. (2019). அற்புதமான பாட்டி. Singapore : Singapore Hospice Council.
+8. BLKJ (2019). அற்புதமான பாட்டி. Singapore : Singapore Hospice Council.
    RSING 362.175095957 ARP
 
 

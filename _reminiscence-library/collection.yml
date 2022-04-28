@@ -2,5 +2,7 @@ collections:
   reminiscence-library:
     output: true
     order:
+      - Reminiscence Package 4 .md
+      - Reminiscence Package3.md
       - Reminiscence Package 2.md
       - reminiscence-package-1.md
