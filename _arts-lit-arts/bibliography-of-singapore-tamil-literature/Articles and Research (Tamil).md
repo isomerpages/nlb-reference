@@ -11,7 +11,7 @@ description: ""
 
 ### <u>Guide Index</u>
 
-* [Overview of the Singapore Literature Bibliographies (1965 – 2021)](#overview-of-the-singapore-literature-bibliographies-1965-2021)
+* [Overview of the Singapore Literature Bibliographies](#overview-of-the-singapore-literature-bibliographies)
 * [1965 – 1980](#1965-1980)
 * [1981 – 1990](#1981-1990)
 * [1991 – 2000](#1991-2000)
@@ -21,11 +21,11 @@ description: ""
 * [Accessing National Library Board Singapore Resources](#accessing-national-library-board-singapore-resources)
 * [Author](#Author)
 
-### <u>Overview of the Singapore Literature Bibliographies (1965-2021)</u>
+### <u>Overview of the Singapore Literature Bibliographies</u>
 
 The National Library has compiled a set of bibliographies on Singapore Literature. These cover works published in English, Chinese, Malay and Tamil from 1965 to 2015 and have been updated from the original print versions. The full listing can be found in the respective Singapore Literature resource guides
 
-> New: The Bibliography of Singapore Tamil Literature has been updated with the addition of titles published [2015 - 2021](#2015-2021).
+> New: The Bibliography of Singapore Tamil Literature has been updated with the addition of titles published from [2015 - 2021](#2015-2021).
 
 ![Tamil banner](/images/arts/literaryarts/singaporetamilliterature/SGLitbibliobannerTL-1.jpg)
 
@@ -265,152 +265,153 @@ RSING 808.882 EMA
 
 ### <u>2015-2021</u>
 
-1.	துரைமாணிக்கம், இரா, compiler. (2015). சிங்கப்பூர்ப் பொன்விழாச் சிறுகதைகள். சிங்கப்பூர் : சிங்கப்பூர்த் தமிழ் எழுத்தாளர் கழகம்.
-RSING S894.811372 CIN
+1.	துரைமாணிக்கம், இரா, . (2015). சிங்கப்பூர்ப் பொன்விழாச் சிறுகதைகள். சிங்கப்பூர் : சிங்கப்பூர்த் தமிழ் எழுத்தாளர் கழகம்.
+(RSING S894.811372 CIN)
 
 2.	இமாஜான், டி. என். (2015). இக்கால இலக்கியத்தில் இனிய பக்கங்கள். Singapore : Multi Arts Creations.
-RSING S894.8110972
+(RSING S894.8110972)
 
 3.	ஆண்டியப்பன், நா. (2015). இராங்கியம் சி. அ. நாராயண பிள்ளை நூற்றாண்டு விழா மலர். சிங்கப்பூர் : பரநியா பதிப்பகம்.
-RSING 059.94811 AND
+(RSING 059.94811 AND)
 
 4.	வெங்கட், நா. (2015). குறளின் எளிய குரல் : திருக்குறள். சிங்கப்பூர் : ந. வெங்கட்.
-RSING 894.8111 VEN
+(RSING 894.8111 VEN)
 
 5.	இமாஜான், டி. என்.(2015). பக்தி இலக்கியத்தில் சுவையான பகுதிகள்!. Singapore : Multi Arts Creations.
-RSING S894.811172 IM
+(RSING S894.811172 IM)
 
 6.	இமாஜான், டி. என். (2015). படித்தவையில் பிடித்தவை. Singapore : Multi Arts Creations.
-RSING 894.811872 IMA
+(RSING 894.811872 IMA)
 
-7.	க. பூபாலன். (2015). பெரியார் பணி. சிங்கப்பூர் : பெரியார் சமூக சேவை மன்றம்.
-RSING 954.04092 PER
+7.	பூபாலன், க. (2015). பெரியார் பணி. சிங்கப்பூர் : பெரியார் சமூக சேவை மன்றம்.
+(RSING 954.04092 PER)
 
 8.	Umar Pulavar Tamil Language Centre. (2015). வாழும் மொழி வாழும் மரபு = Living language living heritage. Singapore : National Heritage Board.
-RSING 494.811 VAL
+(RSING 494.811 VAL)
 
 9.	திருமுருகானந்தம், கோட்டி. (2015). சி. கு. மகுதூம் சாயபுவும் சிங்கை நேசனும் -ஓர் ஆய்வு. சென்னை : சமூக வளர்ச்சி மற்றும் ஆராய்ச்சி நிறுவனம்.
-RSING 079.5957 THI
+(RSING 079.5957 THI)
 
 10.	Association of Singapore Tamil Writers. (2015). சிங்கப்பூர் எழுத்தாளர் விழா = Co-Organised with Singapore Writers Festival. Singapore : Association of Singapore Tamil Writers.
-RSING 894.81109 SIN
+(RSING 894.81109 SIN)
 
 11.	ஜெயந்தி சங்கர். (2015). பறந்து மறையும் கடல்நாகம் : சீனக்கலாசாரக் கட்டுரைகள். சென்னை : காவ்யா.
-R 931 JAY
+(R 931 JAY)
 
-12.	தொகுப்பாசிரியர்கள், சுப. அருணாசலம், செல்வம் கண்ணப்பன், முனைவர் சு. கௌசல்யா. (2015). அகரத்திலிருந்து சிகரத்தை நோக்கி : பொன்விழாக் கட்டுரைகள். சிங்கப்பூர் : சிங்கப்பூர்த் தமிழ் எழுத்தாளர் கழக வெளியீடு.
-RSING S894.811472 AKA
+12.	அருணாசலம், சுப., செல்வம் கண்ணப்பன், முனைவர் கௌசல்யா, சு (தொகு). (2015). அகரத்திலிருந்து சிகரத்தை நோக்கி : பொன்விழாக் கட்டுரைகள். சிங்கப்பூர் : சிங்கப்பூர்த் தமிழ் எழுத்தாளர் கழக வெளியீடு.
+(RSING S894.811472 AKA)
 
 13.	சிவசாமி, பி. (2015). சிங்கப்பூரில் தமிழ்ப் பள்ளிகள் : வேரிலிருந்து கிளைகள் வரை. Ciṅkappūr : Tiruvaḷḷuvar Patippakam.
-RSING 371.095957 SIV
+(RSING 371.095957 SIV)
 
 14.	இமாஜான், டி. என். (2016). சிரித்துவிட்டால் விட்டுவிடுவேன்!. Singapore : Multi Arts Creations.
-SING 894.81187202 IMA
+(SING 894.81187202 IMA)
 
 15.	சாலி, ஜே. எம். (2016). இஸ்லாமியத் தமிழ்க் காவியங்கள். சிங்கப்பூர்: யுனிவர்ஸ் பப்ளிஷர்ஸ்.
-RSING S894.8111092 SAL
+(RSING S894.8111092 SAL)
 
 16.	கீதா ரவிச்சந்திரன். (2016). கீதா கஃபே.சிங்கப்பூர் : கீதா ரவிச்சந்திரன்.
-RSING 894.811372 GEE
+(RSING 894.811372 GEE)
 
 17.	பாலபாஸ்கரன். (2016). கோ. சாரங்கபாணியும் தமிழ் முரசும் இன்றைய பார்வை = G. Sarangapany and the Tamil Murasu A Current Appraisal. சிங்கப்பூர் : பாலபாஸ்கரன்.
-RSING 070.4092 BAL
+(RSING 070.4092 BAL)
 
-18.	இராஜிக்கண்ணு, மா. (2016).முக்கனிகள் : (கவிதை, சிறுகதை, கட்டுரைத் தொகுப்பு). Singapore : RPA Publications.
-RSING 894.8110972 RAJ
+18.	இராஜிக்கண்ணு, மா. (2016).முக்கனிகள் : கவிதை, சிறுகதை, கட்டுரைத் தொகுப்பு. Singapore : RPA Publications.
+(RSING 894.8110972 RAJ)
 
 19.	சித்ரா ரமேஷ். (2016). நிழல் நாடகம். சிங்கப்பூர் : சித்ரா ரமேஷ்.
-RSING 791.4375 CHI
+(RSING 791.4375 CHI)
 
 20.	புஷ்பலதா, நாயுடு. (2016). பாரதியார் வாழ்க்கை வரலாறு : ஒரு பார்வை. Singapore : தமிழ்மொழி பண்பாட்டுக் கழகம்.
-RSING 398.2 TAM
+(RSING 398.2 TAM)
 
 21.	இமாஜான், டி. என். (2016). அப்துல் கலாமின் அறிவார்ந்த சிந்தனைகள்! . Singapore : Mutti Arts Creations.
-RSING S894.811872 IMA
+(RSING S894.811872 IMA)
 
 22.	சித்ரா ரமேஷ். (2016). ஆட்டோகிராஃப். சிங்கப்பூர் : சித்ரா ரமேஷ்.
-RSING 894.81109 CHI
+(RSING 894.81109 CHI)
 
-23.	இராஜிக்கண்ணு, மா. (2016). சிங்கப்பூரில் தமிழ்க்கல்வி ; வரலாற்று நோக்கில் 1950-2009 வரை = Tamil education in Singapore from The historical perspective 1950-2009. Singapore : RPA Publications.
-RSING 372.6 IRA
+23.	இராஜிக்கண்ணு, மா. (2016). சிங்கப்பூரில் தமிழ்க்கல்வி ; வரலாற்று நோக்கில் 1950-2009 வரை = Tamil education in Singapore: a historical perspective 1950-2009. Singapore : RPA Publications.
+(RSING 372.6 IRA)
 
 24.	சேகர், எம். (2017). எழுத்தும் எண்ணமும். சிங்கப்பூர் : எம்.சேகர்.
-RSING 894.8114 SEG
+(RSING 894.8114 SEG)
 
 25.	கோகிலவாணி, செ, editor. (2017). நகர்மனம். Singapore : Marshall Cavendish International (Asia).
-RSING 894.811372 NAK
+(RSING 894.811372 NAK)
 
 26.	ஸ்ரீலஷ்மி, எம்.எஸ். (2017). நேற்றிருந்தோம்… நினைவலைகள். சிங்கப்பூர் : முனைவர் எம்.எஸ். ஸ்ரீலஷ்மி.
-RSING 305.894811 NET
+(RSING 305.894811 NET)
 
-27.	வீரமணி, அ., compiler. (2017). புதிய சமுதாயம் - சிங்கப்பூர்த் தமிழ் இளையர் மன்றம் = Contribution to the new society - The Singapore Tamil Youth's Club. Singapore : Singapore Tamil Youth's Club.
-RSING 305.89481105957 PUT
+27.	வீரமணி, அ., (தொகு). (2017). புதிய சமுதாயம் - சிங்கப்பூர்த் தமிழ் இளையர் மன்றம் = Contribution to the new society - The Singapore Tamil Youth's Club. Singapore : Singapore Tamil Youth's Club.
+(RSING 305.89481105957 PUT)
 
 28.	சுப்பிரமணியம் நடேசன். (2017). தமிழ்மொழிக் கல்வி : மரபும் பண்பாடும். சிங்கப்பூர் : சிங்கப்பூர் ஆசிரியர் கலைக்கழகம் : கல்வி அமைச்சு.
-RSING 372.62044 SUB
+(RSING 372.62044 SUB)
 
-29.	Association of Singapore Tamil Writer. (2017). உலகத் தமிழ் எழுத்தாளர் மாநாடு 2011 [மாநாட்டுக் கட்டுரைகள்] = World Tamil writers conference 2011 [Conference papers]. Singapore : Association of Singapore Tamil Writers.
-RSING 894.811 ULA
+29.	Association of Singapore Tamil Writers. (2017). உலகத் தமிழ் எழுத்தாளர் மாநாடு 2011 [மாநாட்டுக் கட்டுரைகள்] = World Tamil writers conference 2011 [Conference papers]. Singapore : Association of Singapore Tamil Writers.
+(RSING 894.811 ULA)
 
 30.	ஸ்ரீலக்ஷ்மி, எம்.எஸ். (2017). ஐம்பெரும் காப்பியங்களில் தமிழர் வாழ்வியல். சிங்கப்பூர் : முனைவர் எம்.எஸ். ஸ்ரீலஷ்மி.
-RSING 894.8111109 SRI
+(RSING 894.8111109 SRI)
 
 31.	அழகுநிலா. (2018). சிறுகாட்டுச் சுனை. Singapore : Panchaksharam Azhagunila.
-RSING S915.957 AZH
+(RSING S915.957 AZH)
 
 32.	ஹமீட், சா. (2018). கலைமாமணி முத்துலெட்சுமி : எட்டிப்பிடித்த இலக்கு. சிங்கப்பூர் : சா. ஹமீட்.
-RSING 792.028092 HAM
+(RSING 792.028092 HAM)
 
 33.	சிங்கப்பூர்த் தமிழ் ஆசிரியர் சங்கம். (2018). மாநாட்டு ஆய்வடங்கல் : பன்மொழிச் சூழலில் தமிழ்மொழி கற்றல், கற்பித்தல். சிங்கப்பூர் : சிங்கப்பூர்த் தமிழ் ஆசிரியர் சங்கம்.
-RSING 494.811014 MAN
+(RSING 494.811014 MAN)
 
-34.	கிருஷ்ணமூர்த்தி, எல்ல. (2018). வாழ்வியல் இலக்கியப் பொழில் முதலாம் ஆண்டு மலர் - க 2017-2018. சிங்கப்பூர் : வாழ்வியல் இலக்கியப் பொழில். (PublicationSg)
+34.	கிருஷ்ணமூர்த்தி, எல்ல. (2018). வாழ்வியல் இலக்கியப் பொழில் முதலாம் ஆண்டு மலர் - க 2017-2018. சிங்கப்பூர் : வாழ்வியல் இலக்கியப் பொழில். (Publication SG)
 
 35.	அன்பழகன், மா. (2018). சிங்கப்பூர் சொல்வெட்டு 555 : அன்றும் இன்றும் (கவிதை). சிங்கப்பூர் : கவிமாலை.
-RSING 894.81110972 ANB
+(RSING 894.81110972 ANB)
 
 36.	Thiyaga. Ramesh. (2018). 50ஆம் ஆண்டு பொன்விழா மலர் : நிகழ்வும் நெகிழ்வும். Singapore : Thiyaga. Ramesh. (Publication SG)
 
-37. Sivakumaran, A.Ra. (2018). A critical study of children's Tamil literature in Singapore -In English; with parallel translation in Tamil. Singapore : Crimson Earth.
-RSING 894.81109 SIV
+37.	Sivakumaran, A. Ra. (2018). A critical study of children's Tamil literature in Singapore -In English; with parallel translation in Tamil. Singapore : Crimson Earth.
+(RSING 894.81109 SIV)
 
-38.	பாலபாஸ்கரன். (2018). சிங்கப்பூர் - மலேசியா தமிழ் இலக்கியத் தடம் சில திருப்பம் = Singapore - Malaysia a history of Tamil Literature some turning points. Singapore : [publisher not identified].
-RSING 894.81109 BAL
+38.	பாலபாஸ்கரன். (2018). சிங்கப்பூர் - மலேசியா தமிழ் இலக்கியத் தடம் சில திருப்பம் = Singapore - Malaysia a history of Tamil Literature and some turning points. Singapore : [publisher not identified].
+(RSING 894.81109 BAL)
 
 39.	கிருத்திகா. (2019). சிங்கப்பூரிலிருந்து மதுரை : இன்னும் கொஞ்சம் தமிழ். Singapore : Kiruthika.
-RSING 954.82 KIR
+(RSING 954.82 KIR)
 
-40.	மணி, அ., Editor. (2019). சிங்கப்பூர்த் தமிழர் இருநூற்றுவர் = Singapore Tamils 200. சிங்கப்பூர் : சிங்கப்பூர்த் தமிழ் இளையர் மன்றம். (Publication SG)
+40.	மணி, அ. (தொகு). (2019). சிங்கப்பூர்த் தமிழர் இருநூற்றுவர் = Singapore Tamils 200. சிங்கப்பூர் : சிங்கப்பூர்த் தமிழ் இளையர் மன்றம். (Publication SG)
 
-41.	National Archives (Singapore), issuing body Singapore. National Library Board, issuing body. (2019). ஏட்டில் நம் வரலாறு : 1867-க்கு முன் சிங்கப்பூர். Singapore : National Library, National Archives of Singapore. (Publication SG)
+41.	ஏட்டில் நம் வரலாறு : 1867-க்கு முன் சிங்கப்பூர். Singapore : National Library, National Archives of Singapore. (2019) (Publication SG)
 
 42.	வெங்கட், நா. (2019). குறளொலி. சிங்கப்பூர் : நா. வெங்கட். (Publication SG)
 
 43.	தமிழ்ப் பட்டிமன்றக் கலைக் கழகம். (2019). தமிழ்ப் பட்டிமன்றக் கலைக் கழகம் : ஜனவரி 2006 - ஏப்ரல் 2019, 100வது நிகழ்ச்சி மலர். சிங்கப்பூர் : தமிழ்ப் பட்டிமன்றக் கலைக் கழகம்.
-RSING 808.53 TAM
+(RSING 808.53 TAM)
 
 44.	சிவானந்தம் நீலகண்டன். (2019). கரையும் தார்மீக எல்லைகள் : கட்டுரைகள். செங்கல்பட்டு : அகநாழிகை.
-RSING 894.8114 SIV
+(RSING 894.8114 SIV)
 
-45.	தொகுப்பு, பேராசிரியர் அ. வீரமணி. (2019). 1930களில் ச. முத்துத்தம்பி பிள்ளை எழுதிய மலாயா மான்மியம் தொகுப்பு. Singapore : Singapore Tamil Youth's Club. (Publication SG)
+45.	வீரமணி, அ (தொகு). (2019). 1930களில் ச. முத்துத்தம்பி பிள்ளை எழுதிய மலாயா மான்மியம் தொகுப்பு. Singapore : Singapore Tamil Youth's Club. (Publication SG)
 
-46.	தமிழ்ச்செல்வம், சிங்கை. (2019). சிங்கைத் தமிழ்ச்செல்வம் கட்டுரைகள். Singapore : O.S.Osman.
-RSING 894.811472 TAM
+46.	தமிழ்ச்செல்வம், சிங்கை. (2019). சிங்கைத் தமிழ்ச்செல்வம் கட்டுரைகள். Singapore : O.S. Osman.
+(RSING 894.811472 TAM)
 
 47.	ஸ்ரீலக்ஷ்மி, எம். எஸ். (2019). சிங்கப்பூர் இலக்கியம் : கருத்தரங்கக் கட்டுரைகள். சிங்கப்பூர் : ஸ்ரீலக்ஷ்மி வெளியீடு.
-RSING 894.81109 SRI
+(RSING 894.81109 SRI)
 
 48.	கண்ணபிரான், இராம. (2021). அறம் பழுத்த வாழ்வு : கட்டுரைகள். சிங்கப்பூர் : கிரிம்சன் ஏத் பதிப்பகம். 
-RSING 894.811472 KAN
+(RSING 894.811472 KAN)
 
 49.	கண்ணபிரான், இராம. (2021). சிங்கப்பூர்த் தமிழ்ச் சிறுகதைகள்: கட்டுரைகள். சிங்கப்பூர் : கிரிம்சன் ஏத் பதிப்பகம்.
-RSING 894.811109 KAN
+(RSING 894.811109 KAN)
 
 50.	கண்ணபிரான், இராம. (2021). சிறுகதை - கூறுகளும் செப்பலிடுதலும் : கட்டுரைகள். சிங்கப்பூர் : கிரிம்சன் ஏத் பதிப்பகம்.
-RSING 894.811172 KAN
+(RSING 894.811172 KAN)
 
 51.	கண்ணபிரான், இராம. (2021). வானொலியில் நூல் அறிமுகங்கள் : கட்டுரைகள். சிங்கப்பூர் : கிரிம்சன் ஏத் பதிப்பகம்.
-RSING 894.811472 KAN
+(RSING 894.811472 KAN)
+
 
 ### <u>Accessing National Library Board Singapore Resources</u>
 
