@@ -10,6 +10,8 @@ third_nav_title: Business
 <!--* [**Digital Workplaces**](/guides/business/management/digital-workplaces)
 * [**Digital Transformation in Businesses**](/guides/business/management/digital-transformation)-->
 
+* [**Gig Economy**](/guides/business/management/gig-economy)
+
 * [**Agile Workforce**](/guides/business/management/agile-workforce)
 
 * [**Business Resource Guide**](/guides/business/management/business-resource-guide)
