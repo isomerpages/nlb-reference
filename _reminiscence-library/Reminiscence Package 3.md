@@ -1,8 +1,9 @@
 ---
-title: Reminiscence Package3
+title: Reminiscence Package 3
 permalink: /reminiscence-library/permalink
 description: ""
 ---
+
 ![](/images/reminiscence-library/R3/Slide1.png)
 
 ![](/images/reminiscence-library/R3/Slide2.jpg)
