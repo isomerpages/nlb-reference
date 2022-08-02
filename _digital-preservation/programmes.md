@@ -27,7 +27,6 @@ Having a skilled workforce is an essential part of any digital preservation prog
 
 #### **Session 2:  Thursday 28 July 2022**
 
-<div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PID6Ibuy5J0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [**The Future of Data Storage for Preservation**](https://youtu.be/PID6Ibuy5J0)
