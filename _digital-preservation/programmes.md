@@ -18,9 +18,8 @@ collection_name: digital-preservation
 Having a skilled workforce is an essential part of any digital preservation programme, but how can practitioners develop their knowledge and skills when the discipline is still evolving? Examine professional development challenges in digital preservation and learn about new resources from the Digital Preservation Coalition to help organisations and individuals structure skills development, audit existing skills, and facilitate recruitment.
 
 ***Speakers***
-
-**Sharon McMeekin,** Head of Workforce Development, Digital Preservation Coalition
-**Amy Currie,** Training and Grants Manager, Digital Preservation Coalition
+<Br>**Sharon McMeekin,** Head of Workforce Development, Digital Preservation Coalition</Br>
+<Br>**Amy Currie,** Training and Grants Manager, Digital Preservation Coalition</Br>
 
 
 
@@ -33,8 +32,7 @@ Having a skilled workforce is an essential part of any digital preservation prog
 Learn more about the risks faced when we store digital information and consider the different approaches we take to mitigate those risks and ensure we can preserve our digital information for future generations. Look back at how our thinking has evolved around digital preservation storage over the last few decades, look ahead to how this is changing with cloud storage and how it might dramatically develop in the future with new technologies such as DNA storage.
 
 ***Speaker***
-
-**Paul Wheatley,** Head of Research and Practice, Digital Preservation Coalition
+<Br>**Paul Wheatley,** Head of Research and Practice, Digital Preservation Coalition</Br>
 
 
 
