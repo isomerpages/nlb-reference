@@ -1,5 +1,5 @@
 ---
-title: NLB x DPC Talks: Hear from Digital Preservation Experts
+title: NLB x DPC Talks- Hear from Digital Preservation Experts
 permalink: /guides/digital-preservation/main/nlb-dpc-2022
 collection_name: digital-preservation
 ---
