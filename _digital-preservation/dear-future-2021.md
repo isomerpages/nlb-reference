@@ -1,5 +1,5 @@
 ---
-title: Dear Future: What Digital Preservation Means for You 2021
+title: Dear Future- What Digital Preservation Means for You 2021
 permalink: /guides/digital-preservation/main/dear-future-2021
 collection_name: digital-preservation
 ---
@@ -26,7 +26,7 @@ Leong Hui Chuan and Sim Ju Wei shared an overview of the National Library Singap
 
 This introductory session on audio-visual preservation by Mavis Cheng provides a basic understanding of audio-visual media, considerations for preservation and access, and how the public can play a part in preserving our digital audio-visual heritage.
 
-***Speakers***
+***Speaker**
 <Br>**Mavis Cheng,** Senior Archivist, Audio Visual Archives, National Archives of Singapore 
 
 
@@ -56,7 +56,7 @@ Have you ever bookmarked a favourite website, only to watch it disappear without
 
 Hear from Archivist Chew Tee Pao as he shares the issues and challenges in preserving films and related materials in the digital format, as well as highlight the importance of managing and caring for your film data.
 
-***Speakers***
+***Speaker***
 <Br>**Chew Tee Pao,** Archivist, Asian Film Archive 
 
 
