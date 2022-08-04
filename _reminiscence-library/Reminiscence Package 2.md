@@ -1,8 +1,9 @@
 ---
 title: Reminiscence Package 2
-permalink: /reminiscence-library/permalink
+permalink: /reminiscence-library/p2/
 description: ""
 ---
+
 ![](/images/reminiscence-library/R2/Slide2.png)
 
 ![](/images/reminiscence-library/R2/Slide3.png)
