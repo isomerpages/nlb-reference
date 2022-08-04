@@ -1,5 +1,5 @@
 ---
-title: Dear Future: What Digital Preservation Means for You 2021
+title: Dear Future - What Digital Preservation Means for You 2021
 permalink: /guides/digital-preservation/main/dear-future-2021
 collection_name: digital-preservation
 ---
