@@ -1,6 +1,6 @@
 ---
-title: Programmes
-permalink: /guides/digital-preservation/main/programmes
+title: NLB x DPC Talks:  Hear from Digital Preservation Experts
+permalink: /guides/digital-preservation/main/nlb-dpc-hear-from-digital-preservation-experts
 collection_name: digital-preservation
 ---
 
