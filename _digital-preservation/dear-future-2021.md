@@ -5,9 +5,6 @@ collection_name: digital-preservation
 ---
 
 
-### **Dear Future: What Digital Preservation Means for You 2021** 
-
-
 
 #### **[Session 1:  Tuesday 26 October 2021](https://nlb.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=f64803d0-01ae-4615-b7e9-ade30081a419){:target="_blank"}**
 
