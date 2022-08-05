@@ -1,5 +1,5 @@
 ---
-title: NLB x DPC Talks- Hear from Digital Preservation Experts
+title: 2022- NLB x DPC Talks- Hear from Digital Preservation Experts
 permalink: /guides/digital-preservation/main/nlb-dpc-2022
 collection_name: digital-preservation
 ---
@@ -37,7 +37,7 @@ Learn more about the risks faced when we store digital information and consider 
 
 
 
-Organised by the National Library Singapore and National Archives of Singapore in partnership with Digital Preservation Coalition
+Organised by the National Library Singapore and National Archives of Singapore in partnership with Digital Preservation Coalition.
 
  
 
