@@ -16,7 +16,7 @@ collection_name: digital-preservation
 
 Leong Hui Chuan and Sim Ju Wei shared an overview of the National Library Singapore’s digitisation and digital preservation efforts for print materials, behind-the-scenes work as well as selected resources on preserving our heritage digitally for future generations.
 
-***Speakers***
+**Speakers**
 <Br>**Leong Hui Chuan,** Manager, Digital Heritage, National Library, Singapore 
 <Br>**Sim Ju Wei,** Senior Manager, Resource Management, Resource Discovery and Management, National Library Board
 
@@ -26,7 +26,7 @@ Leong Hui Chuan and Sim Ju Wei shared an overview of the National Library Singap
 
 This introductory session on audio-visual preservation by Mavis Cheng provides a basic understanding of audio-visual media, considerations for preservation and access, and how the public can play a part in preserving our digital audio-visual heritage.
 
-***Speaker**
+**Speaker**
 <Br>**Mavis Cheng,** Senior Archivist, Audio Visual Archives, National Archives of Singapore 
 
 

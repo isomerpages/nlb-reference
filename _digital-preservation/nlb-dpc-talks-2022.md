@@ -37,7 +37,7 @@ Learn more about the risks faced when we store digital information and consider 
 
 
 
-Organised by the National Library Singapore and National Archives of Singapore in partnership with Digital Preservation Coalition
+Organised by the National Library Singapore and National Archives of Singapore in partnership with Digital Preservation Coalition.
 
  
 
