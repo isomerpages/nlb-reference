@@ -22,19 +22,19 @@ Names are listed in alphabetical order:
 		<td><b><a href = "/guides/singapore/people/cheang-hong-lim/">Cheang Hong Lim 章芳琳</a></b></td>
 	</tr>
 	<tr>
-		<td><b><a href = "/guides/singapore/people/chen-jen-hao/">Chen Jen Hao 陈人浩</a></b></td>
-		<td><b><a href = "/guides/singapore/people/chew-joo-chiat/">Chew Joo Chiat 周如切</a></b></td>
+		<td><b><a href = "/guides/singapore/people/chen-jen-hao/">Chen Jen Hao / 陈人浩</a></b></td>
+		<td><b><a href = "/guides/singapore/people/chew-joo-chiat/">Chew Joo Chiat / 周如切</a></b></td>
 	</tr>
 	<tr>
 		<td><b><a href = "/guides/singapore/people/chia-ann-siang">Chia Ann Siang / 谢安祥</a></b></td>
-		<td><b><a href = "/guides/singapore/people/chou-sing-chu/">Chou Sing Chu 周星衢</a></b></td>
+		<td><b><a href = "/guides/singapore/people/chou-sing-chu/">Chou Sing Chu / 周星衢</a></b></td>
 	</tr>
 	<tr>
 		<td><b><a href = "/guides/singapore/people/chua-ek-kay">Chua Ek Kay</a></b></td>
-		<td><b><a href = "/guides/singapore/people/chua-mia-tee/">Chua Mia Tee 庄竹林</a></b></td>
+		<td><b><a href = "/guides/singapore/people/chua-mia-tee/">Chua Mia Tee / 庄竹林</a></b></td>
 	</tr>
 	<tr>
-		<td><b><a href = "/guides/singapore/people/chuang-chu-lin/">Chuang Chu Lin 庄竹林</a></b></td>
+		<td><b><a href = "/guides/singapore/people/chuang-chu-lin/">Chuang Chu Lin / 庄竹林</a></b></td>
 		<td><b><a href = ""> </a></b></td>
 	</tr>
 	<tr>
@@ -132,7 +132,7 @@ Names are listed in alphabetical order:
 	</tr>
 	<tr>
 		<td><b><a href = "/guides/singapore/people/teo-eng-hock">Teo Eng Hock / 张永福</a></b></td>
-		<td><b><a href = "/guides/singapore/people/tso-ping-lung">Tso Ping Lung 左秉隆</a></b></td>
+		<td><b><a href = "/guides/singapore/people/tso-ping-lung">Tso Ping Lung / 左秉隆</a></b></td>
 	</tr>
 	<tr>
 		<td><b><a href = "/guides/singapore/people/wee-bin">Wee Bin / 黄敏</a></b></td>
