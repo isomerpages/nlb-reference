@@ -6,7 +6,6 @@ collection_name: singapore
 third_nav_title: Singapore
 description: ""
 ---
-
 <img src="/images/category/people.jpg" alt="people banner" style="width:800px;" />
 
 Most of the guides in this section were developed for the [Singapore Biographical Database (SBDB)](http://sbdb.nus.edu.sg/), a collaborative project by the National University of Singapore, the National Library Board of Singapore and the Singapore Federation of Chinese Clan Associations. This Project featured prominent Singapore Chinese personalities to coincide with the 200th anniversary of the founding of modern Singapore in 2019. 
@@ -23,19 +22,19 @@ Names are listed in alphabetical order:
 		<td><b><a href = "/guides/singapore/people/cheang-hong-lim/">Cheang Hong Lim 章芳琳</a></b></td>
 	</tr>
 	<tr>
-		<td><b><a href = "/guides/singapore/people/chen-jen-hao/">Chen Jen Hao 陈人浩</a></b></td>
-		<td><b><a href = "/guides/singapore/people/chew-joo-chiat/">Chew Joo Chiat 周如切</a></b></td>
+		<td><b><a href = "/guides/singapore/people/chen-jen-hao/">Chen Jen Hao / 陈人浩</a></b></td>
+		<td><b><a href = "/guides/singapore/people/chew-joo-chiat/">Chew Joo Chiat / 周如切</a></b></td>
 	</tr>
 	<tr>
 		<td><b><a href = "/guides/singapore/people/chia-ann-siang">Chia Ann Siang / 谢安祥</a></b></td>
-		<td><b><a href = "/guides/singapore/people/chou-sing-chu/">Chou Sing Chu 周星衢</a></b></td>
+		<td><b><a href = "/guides/singapore/people/chou-sing-chu/">Chou Sing Chu / 周星衢</a></b></td>
 	</tr>
 	<tr>
 		<td><b><a href = "/guides/singapore/people/chua-ek-kay">Chua Ek Kay</a></b></td>
-		<td><b><a href = "/guides/singapore/people/chua-mia-tee/">Chua Mia Tee 庄竹林</a></b></td>
+		<td><b><a href = "/guides/singapore/people/chua-mia-tee/">Chua Mia Tee / 庄竹林</a></b></td>
 	</tr>
 	<tr>
-		<td><b><a href = "/guides/singapore/people/chuang-chu-lin/">Chuang Chu Lin 庄竹林</a></b></td>
+		<td><b><a href = "/guides/singapore/people/chuang-chu-lin/">Chuang Chu Lin / 庄竹林</a></b></td>
 		<td><b><a href = ""> </a></b></td>
 	</tr>
 	<tr>
@@ -113,7 +112,7 @@ Names are listed in alphabetical order:
     <table style="width:100%">
 	<tr>
 		<td><b><a href = "/guides/singapore/people/tan-boo-liat/">Tan Boo Liat / 陈武烈</a></b></td>
-		<td><b><a href = "/guides/singapore/people/tay-chay-yan">Tan Chay Yan / 陈齐贤</a></b></td>
+		<td><b><a href = "/guides/singapore/people/tan-chay-yan">Tan Chay Yan / 陈齐贤</a></b></td>
 	</tr>
 	<tr>
 		<td><b><a href = "/guides/singapore/people/tan-chor-lam">Tan Chor Lam / 陈楚楠</a></b></td>
@@ -133,7 +132,7 @@ Names are listed in alphabetical order:
 	</tr>
 	<tr>
 		<td><b><a href = "/guides/singapore/people/teo-eng-hock">Teo Eng Hock / 张永福</a></b></td>
-		<td><b><a href = "/guides/singapore/people/tso-ping-lung">Tso Ping Lung 左秉隆</a></b></td>
+		<td><b><a href = "/guides/singapore/people/tso-ping-lung">Tso Ping Lung / 左秉隆</a></b></td>
 	</tr>
 	<tr>
 		<td><b><a href = "/guides/singapore/people/wee-bin">Wee Bin / 黄敏</a></b></td>
