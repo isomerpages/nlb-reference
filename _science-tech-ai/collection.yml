@@ -3,3 +3,6 @@ collections:
     output: true
     order:
       - AI x Arts.md
+      - AI x Entertainment.md
+      - AI x Society.md
+      - AI x Travel.md
