@@ -1,0 +1,5 @@
+collections:
+  science-tech-ai:
+    output: true
+    order:
+      - AI x Arts.md
