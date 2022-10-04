@@ -1,11 +1,7 @@
 ---
 title: Cryptocurrencies and NFTs
 permalink: /guides/sci-tech/tech/crypto-nfts
-description: "Digital assets such as cryptocurrencies and non-fungible tokens
-  (NFTs) have been making headlines recently. This resource guide delves deeper
-  into the phenomenon of investing in cryptocurrencies and NFTs and highlights
-  some of the potential rewards as well as risks involved in investing in them.
-  "
+description: "Digital assets such as cryptocurrencies and non-fungible tokens (NFTs) have been making headlines recently. This resource guide delves deeper into the phenomenon of investing in cryptocurrencies and NFTs and highlights some of the potential rewards as well as risks involved in investing in them."
 ---
 ## Cryptocurrencies and NFTs: Risks or Rewards?
 
