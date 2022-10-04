@@ -3,9 +3,6 @@ title: AI x Arts
 permalink: /guides/sci-tech/ai/ai-arts/
 description: ""
 ---
-
-
-
 **Four Conversations** is an annual signature programme by the National Library where thought leaders share new possibilities for the future, while inspiring lifelong learning and the creation of new knowledge.
 
 This resource guide has been produced to complement the conversation on **AI x Arts**. 
@@ -54,7 +51,7 @@ Retrieved from [OverDrive](https://nlb.overdrive.com/). (*myLibrary* ID is requi
 |Title| Description|
 | -------- | -------- | 
 | ![Art in the Age of Machine Learning](/images/sci-tech/Four%20Conversations%20AI/Art-In-The-Age-of-Machine-Learning.jpg)| [**Art in the age of machine learning**](https://nlb.overdrive.com/media/6046430)<br>Audry, Sofian. (2021). Art in the age of machine learning. MIT Press. |  
-| ![The Artist in the Machine](/images/sci-tech/Four%20Conversations%20AI/The-Artist-In-The-Machine.jpg)    | [**The artist in the machine: The world of AI powered creativity**](https://nlb.overdrive.com/media/6046430)<br>Miller, Arthur I. (2019). The artist in the machine: The world of AI powered creativity. Cambridge, Massachusetts : The MIT Press |
+| ![The Artist in the Machine](/images/sci-tech/Four%20Conversations%20AI/The-Artist-In-The-Machine.jpg)    | [**The artist in the machine: The world of AI powered creativity**](https://nlb.overdrive.com/media/4987106)<br>Miller, Arthur I. (2019). The artist in the machine: The world of AI powered creativity. Cambridge, Massachusetts : The MIT Press |
 
 ---
 
