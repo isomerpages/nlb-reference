@@ -66,4 +66,5 @@ collection_name: guides
 	
 <li><b><a href="/guides/learning-bytes-directory">Learning Bytes</a></b>
 	
-<!-- <li><b><a href="/guides/learning-packages-directory">Learning Packages</a></b> -->
+<li><b><a href="/guides/learning-packages-directory">Learning Packages</a></b>
+

@@ -1,12 +1,11 @@
 ---
-title: Vaccinations
+title: Vaccinations (2020)
 permalink: /guides/sci-tech/sciences/vaccinations
 description: ""
-published: false
 ---
 This resource guide was created as part of a learning package on Pandemics. For other related resource guides, please head to this directory of [Learning Packages](/guides/learning-packages-directory).
 
-# Vaccinations
+# Vaccinations (2020)
 
 <table style="background-color:#ffe6e6; border:0;">
 <tr><td>This learning package was created in 2020 and the information was up-to-date at the point of publication. Please check <a href="https://www.gov.sg/features/covid-19" target="_blank">https://www.gov.sg/features/covid-19</a> for the latest updates on the COVID-19 situation in Singapore.</td></tr>
