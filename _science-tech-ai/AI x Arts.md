@@ -8,15 +8,22 @@ description: ""
 This resource guide has been produced to complement the conversation on **AI x Arts**. 
 
 #### **The speakers for this session are:**
+<center>
 <img src="/images/sci-tech/Four%20Conversations%20AI/Marnie-Benney.jpg" alt="Marnie Benney" style="width:200px;" />
-	<center><b>Marnie Benney</b><br>
+<b>Marnie Benney</b><br>
 Co-founder and Curator  <br>
-AIArtists.org</center>
-<br>
-<img src="/images/sci-tech/Four%20Conversations%20AI/Kevin-Lim.jpg" alt="veerappan" style="width:200px;" /> 
-<center><b>Kevin Lim</b><br> 
+AIArtists.org
+<br><br>
+<img src="/images/sci-tech/Four%20Conversations%20AI/Kevin-Lim.jpg" alt="Kevin Lim" style="width:200px;" /> 
+<b>Kevin Lim</b><br> 
 Deputy Director, Digital Innovation & Transformation<br>
-National Gallery (Singapore)	 </center> 
+National Gallery (Singapore)<br><br>
+<img src="/images/sci-tech/Four%20Conversations%20AI/Ken-Tan.jpg" alt="Ken Tan" style="width:200px;" /> 
+<b>Moderated by:<br>
+	Ken Tan</b><br>
+Senior Director, Programming and Producing<br>
+Arts House Limited	 
+</center> 
 
 ---
 
