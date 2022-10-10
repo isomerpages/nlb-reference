@@ -8,15 +8,24 @@ description: ""
 This resource guide has been produced to complement the conversation on **AI x Society**. 
 
 #### **The speakers for this session are:**
-<img src="/images/sci-tech/Four%20Conversations%20AI/Anthony-Elliot.jpg" alt="Anthony Elliot" style="width:200px;" />
-	<center><b>Anthony Elliot</b><br>
+
+<center>
+	<img src="/images/sci-tech/Four%20Conversations%20AI/Anthony-Elliot.jpg" alt="Anthony Elliot" style="width:200px;" />
+	<b>Anthony Elliot</b><br>
 Author and Super-Global Professor of Sociology (Visiting)  <br>
-Keio University, Japan</center>
-<br>
+Keio University, Japan
+<br><br>
 <img src="/images/sci-tech/Four%20Conversations%20AI/Lim-Sun-Sun.jpg" alt="Lim Sun Sun" style="width:200px;" /> 
-<center><b>Lim Sun Sun</b><br> 
+<b>Lim Sun Sun</b><br> 
 Head of Humanities, Arts and Social Sciences <br>
-Singapore University of Technology and Design	 </center> 
+Singapore University of Technology and Design	 
+<br><br>
+<img src="/images/sci-tech/Four%20Conversations%20AI/Irene-Tham.jpg" alt="Irene Tham" style="width:200px;" /> 
+<b>Moderated by:<br>
+	Irene Tham</b><br>
+Tech Editor<br>
+The Straits Times
+	</center> 
 
 ---
 
