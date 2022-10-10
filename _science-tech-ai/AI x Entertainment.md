@@ -11,12 +11,19 @@ This resource guide has been produced to complement the conversation on **AI x E
 <img src="/images/sci-tech/Four%20Conversations%20AI/Victor%20Pardinho.jpeg" alt="Victor Pardinho"  style="width:200px;" />
 	<center><b>Victor Pardinho</b><br>
 Co-founder and CEO  <br>
-Sense of Space</center>
-<br>
+Sense of Space
+<br><br>
 <img src="/images/sci-tech/Four%20Conversations%20AI/Speaker%20Yuan%20Yi.jpg" alt="Yuan Yi" style="width:200px;" /> 
-<center><b>Yuan Yi</b><br> 
+<b>Yuan Yi</b><br> 
 Co-Founder<br>
-Hiverlab	 </center> 
+Hiverlab	   
+<br><br>
+<img src="/images/sci-tech/Four%20Conversations%20AI/Danny%20Entertainment%20moderator.jpeg" alt="Danny" style="width:200px;" /> <center>
+<b>Moderated by:<br>
+	Danny Loong</b><br>
+Founder & CEO<br>
+Timbre Group
+</center> 
 
 ---
 

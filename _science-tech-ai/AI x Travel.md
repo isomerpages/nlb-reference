@@ -8,15 +8,24 @@ description: ""
 This resource guide has been produced to complement the conversation on **AI x Travel**. 
 
 #### **The speakers for this session are:**
-<img src="/images/sci-tech/Four%20Conversations%20AI/Speaker%20Stanislav%20Ivanov.jpg" alt="Stanislav Ivanov" style="width:200px;" />
-	<center><b>Stanislav Ivanov</b><br>
+<center><img src="/images/sci-tech/Four%20Conversations%20AI/Speaker%20Stanislav%20Ivanov.jpg" alt="Stanislav Ivanov" style="width:200px;" />
+	<b>Stanislav Ivanov</b>
+<br>
 Professor & Vice-Rector (Research) <br>
-Varna University of Management</center>
+Varna University of Management
+<br>
 <br>
 <img src="/images/sci-tech/Four%20Conversations%20AI/Speaker%20Bell%20Beh.jpg" alt="Bell Beh" style="width:200px;" /> 
-<center><b>Bell Beh</b><br> 
+<b>Bell Beh</b><br> 
 Co-Founder & CEO<br>
-BuzzAR </center> 
+BuzzAR 
+<br><br>
+<img src="/images/sci-tech/Four%20Conversations%20AI/Sang%20Shin%20Travel%20moderator.jpeg" alt="SangShin" style="width:200px;" /> <center>
+<b>Moderated by:<br>
+	Sang Shin</b><br>
+Co-Founder<br>
+Gen E
+</center> 
 
 ---
 

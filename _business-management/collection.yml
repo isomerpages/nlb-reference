@@ -2,6 +2,7 @@ collections:
   business-management:
     output: true
     order:
+      - Continuous Learning.md
       - Gig Economy.md
       - Agile Workforce.md
       - Digital Workplaces.md
