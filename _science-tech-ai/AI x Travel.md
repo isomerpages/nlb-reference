@@ -20,7 +20,7 @@ Varna University of Management
 Co-Founder & CEO<br>
 BuzzAR 
 <br><br>
-<img src="/images/sci-tech/Four%20Conversations%20AI/Sang%20Shin%20Travel%20moderator.jpeg" alt="SangShin" style="width:200px;" /> <center>
+<img src="/images/sci-tech/Four%20Conversations%20AI/Sang%20Shin%20Travel%20moderator.jpeg" alt="SangShin" style="width:200px;" />
 <b>Moderated by:<br>
 	Sang Shin</b><br>
 Co-Founder<br>
