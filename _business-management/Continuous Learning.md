@@ -2,6 +2,7 @@
 title: Continuous Learning
 permalink: /business-management/continuous-learning/
 description: Continuous Learning
+published: false
 ---
 # Continuous Learning
 
@@ -71,19 +72,19 @@ Learn more about continuous learning and find out how you can develop a habit of
 Learning goes beyond just the transfer of existing knowledge. The creation of new knowledge drives real learning. This author finds that motivated people learn are spurred not by fear of losing their jobs but by the “passion of the explorer.” The article describes this mindset and how companies can create it among their employees.
 
 Hagel III, John. “What Motivates Lifelong Learners.” *Harvard Business Review*, 11 October 2021. https://hbr.org/2021/10/what-motivates-lifelong-learners
- 
+
 
 <b><font style="color:#4372d6;">Seven Essential Elements of a Lifelong-learning Mind-set</font></b><br>
 To thrive in the rapidly changing workplace environment, employees must embrace lifelong learning and continually increase their knowledge, skills, and competencies. This article presents seven practices to help employees be mindful of their career paths and succeed. The seven practices are: focussing on growth and developing a growth mindset, becoming a serial master, stretching outside your comfort zone, building a personal zone, owning your development, taking charge of your learning, and doing what you love and staying vital. 
 
 Brassey, Jacqueline, Nick van Dam and Katie Coates. “Seven Essential Elements of a Lifelong-learning Mind-set.” *McKinsey & Company*, February 19, 2019. https://www.mckinsey.com/business-functions/people-and-organizational-performance/our-insights/seven-essential-elements-of-a-lifelong-learning-mind-set 
 
-	
+
 <b><font style="color:#4372d6;">Continuous Learning is the Fuel for Long-Term Agility</font></b><br>
 Companies are increasingly embracing agility transformations to adapt quickly and succeed in a rapidly changing marketplace. For long-term agility, companies need to embark on a journey of continuous learning. This article discusses the importance of continuous learning and continuous improvement to fuel the company’s agility and success in the long run.
 
 Paldi, Ofir. “Continuous Learning is the Fuel for Long-Term Agility.” *Forbes*, January 5 2022. https://www.forbes.com/sites/forbestechcouncil/2022/01/05/continuous-learning-is-the-fuel-for-long-term-agility
- 
+
 
 <b><font style="color:#4372d6;">6 Strategies to Create a Culture of Continuous Learning</font></b><br>
 Companies need to inculcate a culture of continuous learning to remain relevant and ensure they have the knowledge and skills to innovate, quickly respond to challenges and adapt to the changing nature of work. This article recommends six strategies to cultivate a learning culture: focus on upskilling your managers, make learning more engaging by doing it socially, implement continuous learning in a hybrid workplace, lean into collaboration, make it relevant by recognising and prioritising what employees value, and explore and experiment. 
@@ -128,7 +129,7 @@ This video defines agility and why it should be developed across every disciplin
 ICAgile, “The Agile Mindset, A Different Way of Working,” *YouTube* video: 3:01, 5 February 2021. [https://www.youtube.com/watch?v=ESDQCcnapGA](https://www.youtube.com/watch?v=ESDQCcnapGA) 
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ESDQCcnapGA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	
+
 <b><font style="color:#4372d6;">Agile and Skills - Ready Workforce for a Changing World</font></b>
 <br>
 This webinar highlights how a skilled and engaged workforce is key to building an agile organisation. The speakers discussed how organisations could adopt the IDEAS framework to help them prepare for a changing world and identified three critical components within the skills foundation – sensing skills, optimising talent and accelerating agility.
