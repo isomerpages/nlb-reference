@@ -39,7 +39,7 @@ Otherwise, consider using different keywords and simplifying your search terms. 
 
 <img src="\images\other-formats\maps-03.jpg" style="width:600px;" />
 
-**Step 4**: On the item description page, click on <u>View Availability</u>. Note down the Title and Call Number. Physical maps must be requested over at the Reference Counter at Level 11 of the Lee Kong Chian Reference Library. If the map is from the Rare Materials Collection, written permission is required to access the physical copy. If you require access, please fill up a [Request for Rare Materials form](https:/form.gov.sg/#!/611c69af928b860012c23309). Once the form has been submitted, do note that approval process will require a few days. More information can be found [here](https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/national-library-singapore/collections/Collections/rare-materials). 
+**Step 4**: On the item description page, click on <u>View Availability</u>. Note down the Title and Call Number. Physical maps must be requested over at the Reference Counter at Level 11 of the Lee Kong Chian Reference Library. If the map is from the Rare Materials Collection, written permission is required to access the physical copy. If you require access, please fill up a [Request for Rare Materials form](https://form.gov.sg/#!/611c69af928b860012c23309). Once the form has been submitted, do note that approval process will require a few days. More information can be found [here](https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/national-library-singapore/collections/Collections/rare-materials). 
 
 Should you run into any issues, please approach our library staff for further assistance.
 
@@ -69,7 +69,7 @@ On the item details page, you can choose to download a copy of the map (if the o
 
 <img src="\images\other-formats\maps-08.jpg" style="width:600px;" />
 
-If the map is located in the Rare Materials Collection, written permission is required to access the physical copy. To gain permission, please fill up a [Request for Rare Materials form](https:/form.gov.sg/#!/611c69af928b860012c23309). More information can be found [here](https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/national-library-singapore/collections/Collections/rare-materials). 
+If the map is located in the Rare Materials Collection, written permission is required to access the physical copy. To gain permission, please fill up a [Request for Rare Materials form](https://form.gov.sg/#!/611c69af928b860012c23309). More information can be found [here](https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/national-library-singapore/collections/Collections/rare-materials). 
 
 ## Archives Online
 
