@@ -5,7 +5,6 @@ breadcrumb: Newspapers
 collection_name: other-formats
 published: true
 ---
-
 # **Newspapers**
 
 The National Library holds an extensive collection of local and regional newspapers, both archival and contemporary, to support research and learning needs.  Dating from the 19th century to the present day, our archival newspaper collection can be accessed physically via Lee Kong Chian Reference Library’s microfilm collection, or digitally via NewspaperSG and Factiva database. Contemporary news is also available through SPH eNewspapers, Factiva and Press Reader databases. 
@@ -20,7 +19,7 @@ A summary of all our available platforms and access restrictions can be found in
 | ----------------------- | ----------------------------------------- | --------------------- | ------------------------------------------------------------ |
 | Before 1989             | [**NewspaperSG**](#newspapersg)           | Full remote access*   | Viewable from home                                           |
 |                         | [**Microfilm**](#newspapers-on-microfilm) | On-site access only   | Lee Kong Chian Reference Library Level 11 only               |
-| After 1989              | [**NewspaperSG**]((#newspapersg))         | On-site access only   | Available at all Library Multimedia Stations (MMS)**         |
+| After 1989              | [**NewspaperSG**](#newspapersg)         | On-site access only   | Available at all Library Multimedia Stations (MMS)**         |
 |                         | [**Microfilm**](#newspapers-on-microfilm) | On-site access only   | Lee Kong Chian Reference Library Level 11 only               |
 |                         | [**Factiva**](#factiva)                   | On-site access only   | Available at all Library Multimedia Stations (MMS)           |
 | Within the last 30 days | [**Factiva**](#factiva)                   | Limited remote access | Viewable from home; does not include articles published by SPH |
@@ -96,11 +95,11 @@ The bottom half of the page includes a slider which allows you to change the yea
 
 ### Printing Newspapers from NewspaperSG
 
-You can get an un-watermarked copy of the newspaper article from the multimedia stations at selected NLB libraries. Prints are charged at $1.00 per A4 page. Please collect your prints from the Print Console located at the Photocopying Room or next to the multimedia stations.
+You can get an un-watermarked copy of the newspaper article from the multimedia stations at selected NLB libraries. Prints are charged at $0.20 per A4 page. Please collect your prints from the Print Console located at the Photocopying Room or next to the multimedia stations.
 
 ### Newspapers on Microfilm
 
-If you are based overseas and would like the article reproductions to be sent to you, you can place a document delivery request with us [here](https://www.nlb.gov.sg/SearchDiscover/Services/ResearchServices/DocumentDeliveryService.aspx). Our document delivery team will contact you within 3 working days to liaise further on the details of your request. Please note that all reprographic prints are supplied strictly for reference and research purposes only.
+If you are based overseas and would like the article reproductions to be sent to you, you can place a document delivery request with us [here](https://www.nlb.gov.sg/main/services/Reference-and-Research-Services/Document-Delivery-Service). Our document delivery team will contact you within 3 working days to liaise further on the details of your request. Please note that all reprographic prints are supplied strictly for reference and research purposes only.
 
 The Lee Kong Chian Reference Library (LKRCL) has about 30,000 microfilm reels in its collection, containing the surrogates of rare and out of print books as well as newspapers archives. The [microfilm catalogue](https://eresources.nlb.gov.sg/newspapers/Microfilm) is accessible from NewspaperSG page, under the header.
 
@@ -131,7 +130,7 @@ You can pay using your Credit/Debit Card or PayPal via Microfilm Station. Altern
 | Page size | Fee             |
 | --------- | --------------- |
 | A3        | S$0.90 per page |
-| A4        | S$0.30 per page |
+| A4        | S$0.35 per page |
 
 ## Factiva
 

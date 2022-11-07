@@ -11,7 +11,7 @@ The National Library has a collection of Singapore websites of individuals, asso
 
 The library’s archived websites collection dates from 2006 and contains over 60,000 unique archived websites and webpages and more than 170,000 archived versions (snapshots of the same website over time). The collection includes all publicly available .sg websites which the library has a mandate to collect under the National Library Board Act since 2019, and a selection of non .sg websites that are owned by Singaporeans or Singapore organisations/institutions via permission seeking. The collection is accessible though the [Web Archive Singapore](https://eresources.nlb.gov.sg/webarchives/) (WAS) portal. 
 
-Due to copyright laws, the archived websites can only be accessed from a designated computer terminal on Level 11 of the [Lee Kong Chian Reference Library](https://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/329/Default.aspx?branch=National+Library+%2F+Lee+Kong+Chian+Reference+Library), unless permission has been granted by website owners to provide online access. Archived websites that are currently available online includes government websites and websites with the permission from copyright owners.
+Due to copyright laws, the archived websites can only be accessed from a designated computer terminal on Level 11 of the [Lee Kong Chian Reference Library](https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/national-library-singapore/lee-kong-chian-reference-library), unless permission has been granted by website owners to provide online access. Archived websites that are currently available online includes government websites and websites with the permission from copyright owners.
 
 For more information on WAS and nominating your website for archival, check out the videos below.
 
@@ -46,7 +46,7 @@ WAS employs full-text search capabilities and will display search results that c
        <label for="acc1">Accessibility</label>
        <div class="new-accordion-content">
         <p><i>Online</i>: To view archived content that are available online.</p>
-        <p><img src="\images\other-formats\archivedwebsites-lock.png" align="left" style="width:20px;" /><i>Onsite</i>: To view archived content that are only available at Level 11 of the <a href="https://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/329/Default.aspx?branch=National+Library+%2F+Lee+Kong+Chian+Reference+Library">Lee Kong Chian Reference Library</a> due to copyright restrictions. Archived websites that are only available onsite are denoted with a lock icon. Please approach the counter at Level 11 for assistance.</p>
+        <p><img src="\images\other-formats\archivedwebsites-lock.png" align="left" style="width:20px;" /><i>Onsite</i>: To view archived content that are only available at Level 11 of the <a href="https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/national-library-singapore/lee-kong-chian-reference-library">Lee Kong Chian Reference Library</a> due to copyright restrictions. Archived websites that are only available onsite are denoted with a lock icon. Please approach the counter at Level 11 for assistance.</p>
         <p><img src="\images\other-formats\archivedwebsites-11.png" style="width:600px;" /></p>
        </div>
     <input type="checkbox" id="acc2">

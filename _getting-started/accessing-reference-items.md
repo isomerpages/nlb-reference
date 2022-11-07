@@ -52,11 +52,11 @@ For items from **Lee Kong Chian Reference Library**, please refer to the **Secti
 
 As these items are not physically stored in the LKCRL, **a reservation must be made in order to access these materials.**[^1] Items will take at least 3-5 working days to arrive in the library. Items will be made available for on-site consultation for a period of 2-3 weeks. Detailed instructions will be emailed to you upon a successful reservation. **Please note that the reservation fee will still be charged for any uncollected items.**
 
-The **Repository Used Book Collection** includes items which are the last copies of titles in the National Library Board's (NLB) collection, out of print titles, materials with research value or historical value, and titles used less frequently although still relevant to Singapore, Southeast Asia and Asia. You may find out more [here](https://www.nlb.gov.sg/SearchDiscover/Services/ResearchServices/RepositoryUsedBookCollection.aspx).
+The **Repository Used Book Collection** includes items which are the last copies of titles in the National Library Board's (NLB) collection, out of print titles, materials with research value or historical value, and titles used less frequently although still relevant to Singapore, Southeast Asia and Asia. You may find out more [here](https://www.nlb.gov.sg/main/services/reference-and-research-services/repository-used-materials).
 
 - Repository Used Book Collection items can be reserved using [this form](https://go.gov.sg/nlb-rur-form){:target="_blank"}.
 
-**PublicationSG** is the National Library's collection of our nation's published heritage. These are materials collected through the Legal Deposit statutory function of the NLB. These items can only be retrieved for on-site consultation if there are no other loan or reference copies available in NLB's catalogue. You may find out more [here](https://www.nlb.gov.sg/SearchDiscover/Services/ResearchServices/PublicationSG.aspx).
+**PublicationSG** is the National Library's collection of our nation's published heritage. These are materials collected through the Legal Deposit statutory function of the NLB. These items can only be retrieved for on-site consultation if there are no other loan or reference copies available in NLB's catalogue. You may find out more [here](https://www.nlb.gov.sg/main/services/Reference-and-Research-Services/PublicationSG).
 
 - PublicationSG items can be reserved using [this form](https://go.gov.sg/nlb-pubsg-form){:target="_blank"}.
 
