@@ -5,7 +5,7 @@ breadcrumb: About the Lee Kong Chian Reference Library
 ---
 # ![Lee Kong Chian Reference Library](/images/about-us/LKCRL-image.jpg)
 
-**The Lee Kong Chian Reference Library**, named after Dr Lee Kong Chian, in honour of the Lee Foundation's S$60 million donation, aims to be the premier resource for works on or about Singapore and the region for local and overseas researchers and academics.
+[**The Lee Kong Chian Reference Library**](https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/national-library-singapore/lee-kong-chian-reference-library), named after Dr Lee Kong Chian, in honour of the Lee Foundation's S$60 million donation, aims to be the premier resource for works on or about Singapore and the region for local and overseas researchers and academics.
 
 ## **Lee Kong Chian Reference Library Collection Directory**
 
@@ -22,7 +22,7 @@ breadcrumb: About the Lee Kong Chian Reference Library
 
 ## **Services**
 
-The Library provides several reference services, including an reference enquiry email service, microfilm, photocopying, and more. For a full list, you may refer to our available services [here](https://www.nlb.gov.sg/Visit/GettingOriented/AvailableServices.aspx). These are some of our services in detail:
+The Library provides several reference services, including an reference enquiry email service, microfilm, photocopying, and more. For a full list, you may refer to our available services [here](https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/national-library-singapore?tab=4). These are some of our services in detail:
 
 - **Reference Point email enquiry**: Email us at [ref@nlb.gov.sg](mailto:ref@nlb.gov.sg) if you have a reference question you need assistance with. Our librarians will assist you to find some resources for your research.
 
