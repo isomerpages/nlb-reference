@@ -116,3 +116,26 @@ Retrieved from \[OverDrive\](https://nlb.overdrive.com/). (myLibrary ID is requi
 | -------- | -------- |
 | ![Working with AI](/images/business/AI_Working%20with%20AI.jpg)| Many companies and workers are now using artificial intelligence (AI). Using real-world case studies of AI-augmented jobs, including organisations from Singapore, two management and technology experts show that AI is not a job destroyer. Rather, AI transforms the way we work by taking over some tasks but not entire jobs, freeing humans to do other more challenging work.<br><br> Davenport, Thomas H., and Steven M. Miller. [*Working with AI: Real Stories of Human-Machine Collaboration.*](https://nlb.overdrive.com/media/8555887) New York: MIT Press, 2022.| 
 |![The Work of the Future: Building Better Jobs in an Age of Intelligent Machines](/images/business/AI_The%20work%20of%20the%20future.jpg)| New technology has transformed large parts of the economy, improving the skills of higher paid knowledge workers. But many workers with low-quality, low-wage jobs have benefited very little. This book argues that we can build better jobs if we can foster institutional innovations that complement technological change, and support workers through long cycles of technological transformation.<br><br>Autor, David, David A. Mindell, and Elisabeth B. Reynolds. [*The Work of the Future: Building Better Jobs in an Age of Intelligent Machines.* ](https://nlb.overdrive.com/media/6055147)New York: MIT Press, 2022.|
+
+<h3><font style="color:#4372d6;">Books</font></h3>
+
+|Title| Description|
+| -------- | -------- |
+| ![AI on the Job](/images/business/AI_AI%20on%20the%20job.jpg)| This book offers a practical guide to using artificial intelligence (AI) in the workplace. The only way to leverage the full potential of AI is when people look forward to productive collaboration with intelligent machines. The book provides an overview of how and where AI can be used in companies, as well as how to identify the right areas of applications for AI in your workplace.<br><br>Moring, Andreas. *AI on the Job: Guide to Successful Human-Machine Collaboration*. Heidelberg: Springer-Verlag GmbH Germany, 2022. Call no. 658.0563 MOR| 
+
+
+### Videos
+
+<b><font style="color:#4372d6;"> How to Succeed with AI Augmentation </font></b><br>Although there are many remarkable tasks that machine learning and advanced analytics can do, there are a lot of things that AI-enabled machines still cannot perform. This video recommends designing AI applications that leverage what humans and machines each do best, and how they can work together most effectively.
+
+MIT Sloan Management Review. (2022, October 21). _How to Succeed with AI Augmentation_. [https://sloanreview.mit.edu/video/how-to-succeed-with-ai-augmentation/](https://sloanreview.mit.edu/video/how-to-succeed-with-ai-augmentation/)
+
+### Podcast
+
+<b><font style="color:#4372d6;"> Working Well with AI</font></b><br> Artificial intelligence (AI) has long been predicted to transform our working lives. AI has advanced rapidly over the last decade. This podcast series discusses how AI is changing the world of work. Across five episodes, Prof Rose Luckin discusses the future impacts of AI on the ways we work with experts from industry, policy and academia.
+
+University College London Minds. (2021, November). _Working Well with AI_. [https://www.ucl.ac.uk/ucl-minds/podcasts/working-well-ai](https://www.ucl.ac.uk/ucl-minds/podcasts/working-well-ai)
+<br>
+<br>
+<br>
+All Rights Reserved. National Library Board Singapore 2022.
