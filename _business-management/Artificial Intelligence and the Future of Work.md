@@ -91,3 +91,19 @@ Cariou, Lili. “How is Artificial Intelligence Shaping the Future of Work?” _
 
 Shah, Hetan. “Shaping Artificial Intelligence for Your Future Business Needs” _The Chartered Institute of Personnel and Development,_ August 22, 2022. [https://www.cipd.co.uk/knowledge/work/trends/future-work-insights/shaping-ai-for-business](https://www.cipd.co.uk/knowledge/work/trends/future-work-insights/shaping-ai-for-business)
 
+
+### Journal Articles
+
+<b><font style="color:#4372d6;"> Artificial Intelligence and the Future of Work: A Proactive Strategy </font></b><br> Advances in artificial intelligence (AI) and related tools have huge potential for driving productivity and will have major effects on the quality and quantity of work in the future. This paper discusses how to harness the use of AI in constructive ways and mitigate the negative effects it will have on jobs. AI can be developed in ways that augment human workers; and it will displace some numbers of workers. The author outlines a strategy for addressing these issues.
+
+Kochan, Thomas. Artificial Intelligence and the Future of Work: A Proactive Strategy. _AI Magazine_ 42, no. 1 (2022). [https://ojs.aaai.org/index.php/aimagazine/article/view/7387/14947](https://ojs.aaai.org/index.php/aimagazine/article/view/7387/14947)
+
+<b><font style="color:#4372d6;"> Artificial Intelligence and the Future of Work: A Functional-Identity Perspective </font></b><br> This paper examines the impact of the use of artificial intelligence (AI) on workers’ experiences. Although AI can benefit workers, it can also cause psychological harm such as degrading work quality. As the adoption and capabilities of AI expand, workers, organisations, and broader society must manage these changes so that workers can grow and develop toward meaningful work selves.
+
+Selenko, Eva, et al. Artificial Intelligence and the Future of Work: A Functional-Identity Perspective. _Current Directions in Psychological Science_ 31, no. 3 (2022). [https://journals.sagepub.com/doi/pdf/10.1177/09637214221091823?download=true](https://journals.sagepub.com/doi/pdf/10.1177/09637214221091823?download=true)
+
+<b><font style="color:#4372d6;"> Artificial Intelligence and Employment: New Cross-Country Evidence </font></b><br> Recent advances in artificial intelligence (AI) have raised concern about the impact of technological progress on employment, including on worker displacement. This report studies the links between AI and employment in 23 countries. Overall, there appears to be no clear relationship between AI exposure and employment growth. However, greater exposure to AI is connected with higher employment growth in occupations where computer use is high.
+
+Georgieff, Alexandre, and Raphaela Hyee. Artificial Intelligence and Employment: New Cross-Country Evidence. _OECD Social, Employment and Migration Working Papers_ no. 26531 (December 2021).
+
+[https://www.oecd-ilibrary.org/deliver/c2c1d276-en.pdf?itemId=%2Fcontent%2Fpaper%2Fc2c1d276-en&mimeType=pdf](https://www.oecd-ilibrary.org/deliver/c2c1d276-en.pdf?itemId=%2Fcontent%2Fpaper%2Fc2c1d276-en&mimeType=pdf)
