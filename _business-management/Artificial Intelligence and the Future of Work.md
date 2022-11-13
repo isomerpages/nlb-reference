@@ -48,3 +48,46 @@ AI is used as a tool to complement the capabilities of a human worker. AI system
 
 3. Rao, Anand, Flavio Palaci, and Wilson Chow. This is What the World's CEOs Really Think of AI. World Economic Forum, June 25, 2019. https://www.weforum.org/agenda/2019/06/ai-will-shape-our-future-how-do-we-ensure-it-is-used-responsibly
 
+
+## Further Reading
+
+Learn more about how artificial intelligence will change the workplace, and how you need to understand these shifts when you plan for the future.
+
+### Websites
+
+<b><font style="color:#4372d6;"> 6 Positive AI Visions for the Future of Work </font></b><br>
+This article summarises the experts’ views on the positive artificial intelligence (AI) economic futures in a world of increasingly capable technologies. Many leading authorities believe machines may outperform humans at every task within 45 years. The article provides six AI scenarios that could build a positive future, namely shared economic prosperity; realigned companies; flexible labour markets; human-centric AI; fulfilling jobs; and civic empowerment and human flourishing.
+
+Russell, Stuart and Daniel Susskind. “6 Positive AI Visions for the Future of Work.” _World Economic Forum,_ November 24, 2021. [https://www.weforum.org/agenda/2021/11/positive-artificial-intelligence-visions-for-the-future-of-work/](https://www.weforum.org/agenda/2021/11/positive-artificial-intelligence-visions-for-the-future-of-work/)
+
+<b><font style="color:#4372d6;"> AI Empowers Employees, Not Just Companies</font></b><br>
+This paper examines how individuals use artificial intelligence (AI) at work and how they can derive personal value from AI. Personal value from AI materialises when using AI leads to greater competency, increased autonomy, and stronger relationships with co-workers, customers, business partners and other stakeholders. Organisations achieve significant benefits from AI when their workers also reap benefits from the technology.
+
+Ransbotham, Sam, et al. “AI Empowers Employees, Not Just Companies.” _Boston Consulting Group,_ November 1, 2022. [https://www.bcg.com/publications/2022/the-value-of-ai-for-individuals](https://www.bcg.com/publications/2022/the-value-of-ai-for-individuals)
+
+<b><font style="color:#4372d6;"> The Future of Jobs in the Era of AI </font></b><br>The increasing use of automation, artificial intelligence, and other technologies suggests that the role of human workers in the workplace will diminish. The paper argues that though these technologies will displace some jobs, they will create many others. Governments, companies, and individuals need to understand these changes when they plan for the future.
+
+Strack, Rainer, et al. “The Future of Jobs in the Era of AI.” _Boston Consulting Group,_ March 18, 2021. [https://www.bcg.com/publications/2021/impact-of-new-technologies-on-jobs#workforce-imbalances](https://www.bcg.com/publications/2021/impact-of-new-technologies-on-jobs#workforce-imbalances)
+
+<b><font style="color:#4372d6;"> Is AI Really a Paradigm Shifting Phenomenon for How We Work?</font></b><br>Artificial Intelligence (AI) is viewed as a driving factor of the fourth industrial revolution. AI is predicted to change the way people work and cause restructuring of the labour market. Workers will need new skills, abilities and ways of learning to be more adaptable. This article discusses how we can respond to this change, and whether there are lessons from the past to learn from.
+
+Hollis, Helena, and Cornelia Evers. “Is AI Really a Paradigm Shifting Phenomenon for How We Work?” _Disruptive Voices_ (University College London), December 1, 2021.
+
+[https://medium.com/disruptive-voices/is-ai-really-a-paradigm-shifting-phenomenon-for-how-we-work-9e3edf530828](https://medium.com/disruptive-voices/is-ai-really-a-paradigm-shifting-phenomenon-for-how-we-work-9e3edf530828)
+
+<b><font style="color:#4372d6;"> The Future of Jobs in the Era of AI</font></b><br> This article posits that artificial intelligence (AI) is expected to help humans in the future, not replace them. The demand for adaptability is expected to increase as workforce automation grows. Workers need to develop skill sets that cannot be done well by AI, including creativity, interpersonal skills, and sensing. The future of jobs hinges on how well people understand AI and use their unique skills to improve AI systems.
+
+Minevich, Mark. “The Future of Jobs in the Era of AI.” _Fast Company,_ October 21, 2021. [https://www.fastcompany.com/90684437/the-future-of-jobs-in-the-era-of-ai](https://www.fastcompany.com/90684437/the-future-of-jobs-in-the-era-of-ai)
+
+<b><font style="color:#4372d6;"> How is Artificial Intelligence Shaping the Future of Work?</font></b><br>The four ways that artificial intelligence (AI) will influence the future of work are AI could help understand humans’ unconscious bias during the hiring process; automating routine tasks could free up human time; humans and AI will work together; and AI will create new jobs. Research shows that automation and augmentation are not necessarily resulting in fewer jobs.
+
+Cariou, Lili. “How is Artificial Intelligence Shaping the Future of Work?” _BusinessBecause,_ March 21, 2022. [https://www.businessbecause.com/news/insights/8097/ai-future-of-work?sponsored](https://www.businessbecause.com/news/insights/8097/ai-future-of-work?sponsored)
+
+<b><font style="color:#4372d6;"> The Robots Are Coming. Is Your Firm Ready?</font></b><br> This paper argues that the robot revolution is unavoidable given the advances in artificial intelligence and other technologies that are rapidly changing the workplace. It explains how automation is changing the workplace in unexpected ways. Robots can boost efficiency and even create more jobs for their human counterparts. But more robots may also render some managers obsolete.
+
+“The Robots Are Coming. Is Your Firm Ready?” _Knowledge at Wharton,_ June 21, 2021. [https://knowledge.wharton.upenn.edu/article/the-robots-are-coming-is-your-firm-ready/](https://knowledge.wharton.upenn.edu/article/the-robots-are-coming-is-your-firm-ready/)
+
+<b><font style="color:#4372d6;"> Shaping Artificial Intelligence for Your Future Business Needs</font></b><br> History suggests that when jobs are displaced by new technology, they will ultimately be replaced by new roles. This article discusses how artificial intelligence (AI) will impact the workforce, the importance of AI–human collaboration, and the societal challenges of AI. AI is a general-purpose technology, and as a society we can shape that purpose through the choices that individuals, companies and policymakers make.
+
+Shah, Hetan. “Shaping Artificial Intelligence for Your Future Business Needs” _The Chartered Institute of Personnel and Development,_ August 22, 2022. [https://www.cipd.co.uk/knowledge/work/trends/future-work-insights/shaping-ai-for-business](https://www.cipd.co.uk/knowledge/work/trends/future-work-insights/shaping-ai-for-business)
+
