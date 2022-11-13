@@ -39,3 +39,12 @@ In the foreseeable future, there are some opportunities for AI in tasks such as:
 Studies show that augmentation is a more desirable and common outcome than large-scale automation. Augmentation occurs when workplaces combine smart machines with humans in close partnerships, symbiotically leveraging both human intelligence and machine intelligence. Worker augmentation reinforces the belief that technology is not replacing human labour en masse anytime soon.
 
 AI is used as a tool to complement the capabilities of a human worker. AI systems are better than humans at certain tasks such as crunching numbers, identifying patterns, and recalling information. Humans are better than AI systems at tasks that require general intelligence such as non-routine reasoning and defining abstractions, as well as interpersonal and physical skills. By collaborating, AI systems and humans can augment and complement each other’s skills.
+
+##### References
+
+1. Malone, Thomas, Daniela Rus, and Robert Laubacher. Artificial Intelligence and the Future of Work. MIT Work of the Future, December 17, 2020. https://workofthefuture.mit.edu/document/2020-research-brief-malone-rus-laubacher-2/
+
+2. Miller, Steven Mark, and Tom Davenport. AI and the Future of Work: What We Know Today. Gradient (Research Collection School of Computing and Information Systems), December, 2021. https://ink.library.smu.edu.sg/sis\_research/6657
+
+3. Rao, Anand, Flavio Palaci, and Wilson Chow. This is What the World's CEOs Really Think of AI. World Economic Forum, June 25, 2019. https://www.weforum.org/agenda/2019/06/ai-will-shape-our-future-how-do-we-ensure-it-is-used-responsibly
+
