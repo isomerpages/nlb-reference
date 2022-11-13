@@ -105,5 +105,15 @@ Selenko, Eva, et al. Artificial Intelligence and the Future of Work: A Functiona
 <b><font style="color:#4372d6;"> Artificial Intelligence and Employment: New Cross-Country Evidence </font></b><br> Recent advances in artificial intelligence (AI) have raised concern about the impact of technological progress on employment, including on worker displacement. This report studies the links between AI and employment in 23 countries. Overall, there appears to be no clear relationship between AI exposure and employment growth. However, greater exposure to AI is connected with higher employment growth in occupations where computer use is high.
 
 Georgieff, Alexandre, and Raphaela Hyee. Artificial Intelligence and Employment: New Cross-Country Evidence. _OECD Social, Employment and Migration Working Papers_ no. 26531 (December 2021).
-
 [https://www.oecd-ilibrary.org/deliver/c2c1d276-en.pdf?itemId=%2Fcontent%2Fpaper%2Fc2c1d276-en&mimeType=pdf](https://www.oecd-ilibrary.org/deliver/c2c1d276-en.pdf?itemId=%2Fcontent%2Fpaper%2Fc2c1d276-en&mimeType=pdf)
+
+
+<h3><font style="color:#4372d6;">E-Books</font></h3>
+
+Retrieved from \[OverDrive\](https://nlb.overdrive.com/). (myLibrary ID is required to access the eBook)
+
+|Title| Description|
+
+| -------- | -------- |
+
+| ![Working with AI](/images/business/AI_Working%20with%20AI.jpg)| Many companies and workers are now using artificial intelligence (AI). Using real-world case studies of AI-augmented jobs, including organisations from Singapore, two management and technology experts show that AI is not a job destroyer. Rather, AI transforms the way we work by taking over some tasks but not entire jobs, freeing humans to do other more challenging work.<br><br> Davenport, Thomas H., and Steven M. Miller. [*Working with AI: Real Stories of Human-Machine Collaboration.*](https://nlb.overdrive.com/media/8555887) New York: MIT Press, 2022. | ![Working with AI](/images/business/AI_Working%20with%20AI.jpg)| Many companies and workers are now using artificial intelligence (AI). Using real-world case studies of AI-augmented jobs, including organisations from Singapore, two management and technology experts show that AI is not a job destroyer. Rather, AI transforms the way we work by taking over some tasks but not entire jobs, freeing humans to do other more challenging work.<br><br> Davenport, Thomas H., and Steven M. Miller. [*Working with AI: Real Stories of Human-Machine Collaboration.*](https://nlb.overdrive.com/media/8555887) New York: MIT Press, 2022. |
