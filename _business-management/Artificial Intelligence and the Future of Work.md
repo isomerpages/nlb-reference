@@ -18,13 +18,13 @@ From automation to augmentation and beyond, AI is changing how business gets don
 
 </div>
 
-#### Will AI lead to mass unemployment?
+#### Will AI Lead to Mass Unemployment?
 
 Will AI result in an underclass of people who become unemployable because computers are doing their jobs? Experts opine that it is unlikely that AI will lead to mass unemployment. Like all previous labour-saving technologies, AI will enable new industries to form, creating more new jobs than are lost to the technology.
 
 For the foreseeable future, AI will not lead to computers replacing people, but people and computers working together to perform cognitive and physical tasks that could not be done before. 
 
-#### How will work change with AI?
+#### How Will Work Change with AI?
 
 AI has huge potential to increase productivity growth and contribute to the global economy. AI will increase the number of tasks that computers can do faster, less costly, or better than people.
 
@@ -34,7 +34,7 @@ In the foreseeable future, there are some opportunities for AI in tasks such as:
 * Sensing. AI systems today are already good at analysing many kinds of images, sounds, motions, and other inputs.
 * Creating. Many kinds of creation involve patterns that machines can learn. The GPT-3 system (which stands for Generative Pre-trained Transformer 3), for example, is trained to generate human-like text.
 
-#### How can AI and humans collaborate?
+#### How Can AI and Humans Collaborate?
 
 Studies show that augmentation is a more desirable and common outcome than large-scale automation. Augmentation occurs when workplaces combine smart machines with humans in close partnerships, symbiotically leveraging both human intelligence and machine intelligence. Worker augmentation reinforces the belief that technology is not replacing human labour en masse anytime soon.
 
