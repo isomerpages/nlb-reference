@@ -92,7 +92,7 @@ Jamieson, Ella. “6 Strategies to Create a Culture of Continuous Learning.” *
 
 <b><font style="color:#4372d6;">Is your Organization Harnessing the Proven Power of Learning?</font></b><br> In addition to influencing and adapting to market conditions, learning is a key to long-term viability for an organisation. Creating an effective and impactful learning culture requires balancing content and courses (the "supply side") with capability-building needs and proactive participation (the "demand side"). This article discusses three critical attributes organisations can build a culture that inspires effective and impactful learning, namely essential learning, meaningful learning, and accessible learning. 
 
-Dietsch, Stacey, Bonnie Dowling &amp; Nicolai Nielsen. “Is your Organization Harnessing the Proven Power of Learning?” *McKinsey &amp; Company*, August 27, 2020. https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/the-organization-blog/is-your-organization-harnessing-the-proven-power-of-learning
+Dietsch, Stacey, Bonnie Dowling &amp; Nicolai Nielsen. “Is your Organization Harnessing the Proven Power of Learning?” *McKinsey &amp; Company*, August 27, 2020. [https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/the-organization-blog/is-your-organization-harnessing-the-proven-power-of-learning](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/the-organization-blog/is-your-organization-harnessing-the-proven-power-of-learning)
 
 
 ### Journal Articles
@@ -127,7 +127,7 @@ This video defines agility and why it should be developed across every disciplin
 
 ICAgile, “The Agile Mindset, A Different Way of Working,” *YouTube* video: 3:01, 5 February 2021. [https://www.youtube.com/watch?v=ESDQCcnapGA](https://www.youtube.com/watch?v=ESDQCcnapGA) 
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ESDQCcnapGA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ESDQCcnapGA" height="315" width="560"></iframe>
 
 <b><font style="color:#4372d6;">Agile and Skills - Ready Workforce for a Changing World</font></b>
 <br>
