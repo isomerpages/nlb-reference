@@ -120,6 +120,7 @@ Retrieved from \[OverDrive\](https://nlb.overdrive.com/). (myLibrary ID is requi
 |Title| Description|
 | -------- | -------- |
 | ![AI on the Job](/images/business/AI_AI%20on%20the%20job.jpg)| This book offers a practical guide to using artificial intelligence (AI) in the workplace. The only way to leverage the full potential of AI is when people look forward to productive collaboration with intelligent machines. The book provides an overview of how and where AI can be used in companies, as well as how to identify the right areas of applications for AI in your workplace.<br><br>Moring, Andreas. *AI on the Job: Guide to Successful Human-Machine Collaboration*. Heidelberg: Springer-Verlag GmbH Germany, 2022. Call no. 658.0563 MOR| 
+|
 
 
 ### Videos
