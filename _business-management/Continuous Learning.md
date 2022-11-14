@@ -127,7 +127,7 @@ This video defines agility and why it should be developed across every disciplin
 
 ICAgile, “The Agile Mindset, A Different Way of Working,” *YouTube* video: 3:01, 5 February 2021. [https://www.youtube.com/watch?v=ESDQCcnapGA](https://www.youtube.com/watch?v=ESDQCcnapGA) 
 <br>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ESDQCcnapGA" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ESDQCcnapGA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 <b><font style="color:#4372d6;">Agile and Skills - Ready Workforce for a Changing World</font></b>
 <br>
@@ -145,6 +145,7 @@ Agile and Skills - Ready Workforce for a Changing World. *HRMAsia*, 2021. [https
 | **Agile PM 101 - Learn the Truth About Agile versus Waterfall**     | Explore the relationship between "agile" and "waterfall" and obtain a new perspective on how these two approaches can be complementary rather than competitive. [https://nlbsg.udemy.com/course/learn-the-truth-about-agile-versus-waterfall/](https://nlbsg.udemy.com/course/learn-the-truth-about-agile-versus-waterfall/)     | 
 |**Agile PM 201 - Understanding Agile at a Deeper Level**| Explore a deeper understanding of the principles and values behind agile and Scrum to create high performing agile teams. [https://nlbsg.udemy.com/course/understanding-agile-at-a-deeper-level/](https://nlbsg.udemy.com/course/understanding-agile-at-a-deeper-level/) |
 |**Agile Leadership and Resilient Teams** | Master the tools agile leaders use to make decisions, resolve conflict, and build team relationships to create a resilient team that overcomes any change or challenges. [https://nlbsg.udemy.com/course/agile-leadership-and-resilient-teams/](https://nlbsg.udemy.com/course/agile-leadership-and-resilient-teams/ )
-
-
+<br>
+<br>
+<br>
 All Rights Reserved. National Library Board Singapore 2022.
