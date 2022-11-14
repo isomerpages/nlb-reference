@@ -82,8 +82,7 @@ Brassey, Jacqueline, Nick van Dam and Katie Coates. “Seven Essential Elements 
 <b><font style="color:#4372d6;">Continuous Learning is the Fuel for Long-Term Agility</font></b><br>
 Companies are increasingly embracing agility transformations to adapt quickly and succeed in a rapidly changing marketplace. For long-term agility, companies need to embark on a journey of continuous learning. This article discusses the importance of continuous learning and continuous improvement to fuel the company’s agility and success in the long run.
 
-Paldi, Ofir. “Continuous Learning is the Fuel for Long-Term Agility.” *Forbes*, January 5 2022. h[ttps://www.forbes.com/sites/forbestechcouncil/2022/01/05/continuous-learning-is-the-fuel-for-long-term-agility](ttps://www.forbes.com/sites/forbestechcouncil/2022/01/05/continuous-learning-is-the-fuel-for-long-term-agility)
-
+Paldi, Ofir. “Continuous Learning is the Fuel for Long-Term Agility.” *Forbes*, January 5 2022. [https://www.forbes.com/sites/forbestechcouncil/2022/01/05/continuous-learning-is-the-fuel-for-long-term-agility](https://www.forbes.com/sites/forbestechcouncil/2022/01/05/continuous-learning-is-the-fuel-for-long-term-agility)
 
 <b><font style="color:#4372d6;">6 Strategies to Create a Culture of Continuous Learning</font></b><br>
 Companies need to inculcate a culture of continuous learning to remain relevant and ensure they have the knowledge and skills to innovate, quickly respond to challenges and adapt to the changing nature of work. This article recommends six strategies to cultivate a learning culture: focus on upskilling your managers, make learning more engaging by doing it socially, implement continuous learning in a hybrid workplace, lean into collaboration, make it relevant by recognising and prioritising what employees value, and explore and experiment. 
