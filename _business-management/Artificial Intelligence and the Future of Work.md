@@ -114,7 +114,7 @@ Retrieved from \[OverDrive\](https://nlb.overdrive.com/). (myLibrary ID is requi
 | -------- | -------- |
 | ![Working with AI](/images/business/AI_Working%20with%20AI.jpg)| Many companies and workers are now using artificial intelligence (AI). Using real-world case studies of AI-augmented jobs, including organisations from Singapore, two management and technology experts show that AI is not a job destroyer. Rather, AI transforms the way we work by taking over some tasks but not entire jobs, freeing humans to do other more challenging work.<br><br> Davenport, Thomas H., and Steven M. Miller. [*Working with AI: Real Stories of Human-Machine Collaboration.*](https://nlb.overdrive.com/media/8555887) New York: MIT Press, 2022.| 
 |![The Work of the Future: Building Better Jobs in an Age of Intelligent Machines](/images/business/AI_The%20work%20of%20the%20future.jpg)| New technology has transformed large parts of the economy, improving the skills of higher paid knowledge workers. But many workers with low-quality, low-wage jobs have benefited very little. This book argues that we can build better jobs if we can foster institutional innovations that complement technological change, and support workers through long cycles of technological transformation.<br><br>Autor, David, David A. Mindell, and Elisabeth B. Reynolds. [*The Work of the Future: Building Better Jobs in an Age of Intelligent Machines.* ](https://nlb.overdrive.com/media/6055147)New York: MIT Press, 2022.|
-
+|
 <h3><font style="color:#4372d6;">Books</font></h3>
 
 |Title| Description|
