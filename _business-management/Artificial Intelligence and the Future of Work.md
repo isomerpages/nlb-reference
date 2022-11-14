@@ -3,7 +3,7 @@ title: Artificial Intelligence and the Future of Work
 permalink: /business-management/artificial-intelligence/
 description: Artificial Intelligence and the Future of Work
 ---
-##### Artificial Intelligence and the Future of Work
+## Artificial Intelligence and the Future of Work
 
 Artificial intelligence (AI) is one of the most significant technologies today. In general, the field of AI seeks to create machines with human-like characteristics.
 
