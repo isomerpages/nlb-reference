@@ -71,9 +71,7 @@ Strack, Rainer, et al. “The Future of Jobs in the Era of AI.” _Boston Consul
 
 <b><font style="color:#4372d6;"> Is AI Really a Paradigm Shifting Phenomenon for How We Work?</font></b><br>Artificial Intelligence (AI) is viewed as a driving factor of the fourth industrial revolution. AI is predicted to change the way people work and cause restructuring of the labour market. Workers will need new skills, abilities and ways of learning to be more adaptable. This article discusses how we can respond to this change, and whether there are lessons from the past to learn from.
 
-Hollis, Helena, and Cornelia Evers. “Is AI Really a Paradigm Shifting Phenomenon for How We Work?” _Disruptive Voices_ (University College London), December 1, 2021.
-
-[https://medium.com/disruptive-voices/is-ai-really-a-paradigm-shifting-phenomenon-for-how-we-work-9e3edf530828](https://medium.com/disruptive-voices/is-ai-really-a-paradigm-shifting-phenomenon-for-how-we-work-9e3edf530828)
+Hollis, Helena, and Cornelia Evers. “Is AI Really a Paradigm Shifting Phenomenon for How We Work?” _Disruptive Voices_ (University College London), December 1, 2021. [https://medium.com/disruptive-voices/is-ai-really-a-paradigm-shifting-phenomenon-for-how-we-work-9e3edf530828](https://medium.com/disruptive-voices/is-ai-really-a-paradigm-shifting-phenomenon-for-how-we-work-9e3edf530828)
 
 <b><font style="color:#4372d6;"> The Future of Jobs in the Era of AI</font></b><br> This article posits that artificial intelligence (AI) is expected to help humans in the future, not replace them. The demand for adaptability is expected to increase as workforce automation grows. Workers need to develop skill sets that cannot be done well by AI, including creativity, interpersonal skills, and sensing. The future of jobs hinges on how well people understand AI and use their unique skills to improve AI systems.
 
