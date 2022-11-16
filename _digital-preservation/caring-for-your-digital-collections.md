@@ -124,14 +124,13 @@ For NLB digital preservation enquiries, please email [ref@nlb.gov.sg](mailto:ref
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-| **Print – Source Materials** | **Preservation Masters** | **Derivative Images** |
-| -------- | -------- | -------- |
-| **Black & white printed text in loose sheets, line drawings, black and white illustration** | 400ppi (TIFF 6.0, uncompressed),<Br>8 bit greyscale | **Access copy:** 300ppi (OCRed multipage PDF/A-2u)<Br>**Thumbnail:** 72ppi (JPEG,lossy) thumbnail image of cover page with dimension of 400 pixels greater length |
-| **Bound volume or loose sheets with coloured printed text and manuscripts** | 400ppi (TIFF 6.0, uncompressed),<Br>true resolution RGB 24 bit |**Access copy:** 300ppi (OCRed multipage PDF/A-2u)<Br>**Thumbnail:** 72ppi (JPEG, lossy) thumbnail image of cover page with dimension of 400 pixels greater length |
-| **Maps & building plans, posters** | 600ppi (TIFF 6.0, uncompressed),<Br>true resolution RGB 24 bit |**Access copy:** 300ppi (JPEG, lossy) or 300ppi (OCRed multipage PDF/A-2u) <Br>**Thumbnail:** 72ppi (JPEG, lossy) thumbnail image of cover page with dimension of 400 pixels greater length |
-| **Photographic prints, drawings, postcards** | 600ppi (TIFF 6.0, uncompressed),<Br>true resolution RGB 24 bit |**Access copy:** 300ppi (JPEG, lossy) <Br>**Thumbnail:** 72ppi (JPEG, lossy) individual thumbnail image with dimension of 192 pixels greater length |
-| **35mm film, 120 film in 6x4.5cm, 6x6cm, 6x7cm and 6x9cm, 4x5 inch film, positives and negatives** | 4000ppi (TIFF 6.0 uncompressed),<Br>true resolution RGB 24 bit<Br>Colour profile embedded | **Access copy:** 300ppi (JPEG, lossy) <Br>**Thumbnail:** 72ppi (JPEG, lossy) individual thumbnail image with dimension of 400 pixels greater length |
-|**Microfilms** | 400ppi (TIFF 6.0, uncompressed)<Br>8 bit greyscale | **Access copy:** 300ppi, 8 bit greyscale (Multipage OCRed PDF/A-2u) |
+| **No.** | **Print – Source Materials** | **Preservation Masters** | **Derivative Images** |
+| -------- | -------- | -------- | -------- |
+| 1 | **Black & white printed text in loose sheets, line drawings and black and white illustration** | 300ppi (TIFF 6.0, uncompressed),<Br>8 bit greyscale <br>Or <Br>300ppi (TIFF 6.0 with LZW compression), <Br>8 bit greyscale| **Access copy:** Minimum 150ppi (OCRed multipage PDF/A-2u)<Br>**Thumbnail:** 72ppi (JPEG, lossy) thumbnail image of cover page with dimension of 400 pixels greater length |
+| 2 | **Bound volume or loose sheets with coloured printed text and manuscripts** | 400ppi (TIFF 6.0, uncompressed),<Br>true resolution RGB 24 bit <br>Or <Br>400ppi (TIFF 6.0 with LZW compression), true resolution RGB 24 bit|**Access copy:** Minimum 150ppi (OCRed multipage PDF/A-2u)<Br>**Thumbnail:** 72ppi (JPEG, lossy) thumbnail image of cover page with dimension of 400 pixels greater length |
+| 3 | **Maps, building plans, drawings, postcards, photographic prints and posters** | 600ppi (TIFF 6.0, uncompressed),<Br>true resolution RGB 24 bit |**Access copy:** 300ppi (JPEG, lossy) or 300ppi (OCRed multipage PDF/A-2u) <Br>**Thumbnail:** 72ppi (JPEG, lossy) thumbnail image of cover page with dimension of 400 pixels greater length |
+| 4 | **35mm film, 120 film in 6x4.5cm, 6x6cm, 6x7cm and 6x9cm, 4x5 inch film, positives and negatives** | 4000ppi (TIFF 6.0, uncompressed),<Br>true resolution RGB 24 bit <br>Or <Br>4000ppi (TIFF 6.0 with LZW compression), true resolution RGB 24 bit | **Access copy:** 300ppi (JPEG, lossy) <Br>**Thumbnail:** 72ppi (JPEG) individual thumbnail image with dimension of 400 pixels greater length |
+| 5 |**Microfilms & microfiches** | 300ppi (TIFF 6.0, uncompressed)<Br>8 bit greyscale <br>Or <Br>300ppi (TIFF 6.0 with LZW compression), <Br>8 bit greyscale | **Access copy:** Minimum 150ppi  (OCRed multipage PDF/A-2u) |
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
