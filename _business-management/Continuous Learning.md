@@ -1,8 +1,10 @@
 ---
 title: Continuous Learning
-permalink: /business-management/continuous-learning/
+permalink: /guides/business/management/continuous-learning/
 description: Continuous Learning
 ---
+
+
 # Continuous Learning
 
 The rapidly changing work environment increases the demand for workers with new and diverse skills. Work has become more automated in today’s fast-paced digital world, especially with the rise of artificial intelligence. To remain relevant in the workforce, workers must continuously learn new skills, processes, and technologies. Learning is an ongoing process rather than a one-time event. To develop a habit of learning and thrive in your career, you need to understand why continuous learning is important, how it benefits you and the different ways you can develop this habit. 
@@ -143,7 +145,8 @@ Agile and Skills - Ready Workforce for a Changing World. *HRMAsia*, 2021. [https
 | -------- | -------- | 
 | **Agile PM 101 - Learn the Truth About Agile versus Waterfall**     | Explore the relationship between "agile" and "waterfall" and obtain a new perspective on how these two approaches can be complementary rather than competitive. [https://nlbsg.udemy.com/course/learn-the-truth-about-agile-versus-waterfall/](https://nlbsg.udemy.com/course/learn-the-truth-about-agile-versus-waterfall/)     | 
 |**Agile PM 201 - Understanding Agile at a Deeper Level**| Explore a deeper understanding of the principles and values behind agile and Scrum to create high performing agile teams. [https://nlbsg.udemy.com/course/understanding-agile-at-a-deeper-level/](https://nlbsg.udemy.com/course/understanding-agile-at-a-deeper-level/) |
-|**Agile Leadership and Resilient Teams** | Master the tools agile leaders use to make decisions, resolve conflict, and build team relationships to create a resilient team that overcomes any change or challenges. [https://nlbsg.udemy.com/course/agile-leadership-and-resilient-teams/](https://nlbsg.udemy.com/course/agile-leadership-and-resilient-teams/ )
+|**Agile Leadership and Resilient Teams** | Master the tools agile leaders use to make decisions, resolve conflict, and build team relationships to create a resilient team that overcomes any change or challenges. [https://nlbsg.udemy.com/course/agile-leadership-and-resilient-teams/](https://nlbsg.udemy.com/course/agile-leadership-and-resilient-teams/ ) |
+
 <br>
 <br>
 <br>
