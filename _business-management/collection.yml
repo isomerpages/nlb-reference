@@ -2,7 +2,6 @@ collections:
   business-management:
     output: true
     order:
-      - Artificial Intelligence and the Future of Work.md
       - Continuous Learning.md
       - Gig Economy.md
       - Agile Workforce.md
