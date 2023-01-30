@@ -66,4 +66,4 @@ Should you require any further clarifications or any assistance, please email us
 
 <hr>
 
-[^1]: A reservation fee of S$1.55 per item applies. Please allow 3-5 working days for the item to be made available for consultation. Terms and conditions apply.
+[^1]: A reservation fee of S$1.57 (w.e.f. 1 Jan 2023) per item applies. Please allow 3-5 working days for the item to be made available for consultation. Terms and conditions apply.
