@@ -28,29 +28,29 @@ Call no.: RSING Chinese 959.570092 WHO -\[HIS\].
 	This book contains the biographies of 1,175 Chinese personalities in Singapore, covering the period from 1819 to 1990. Each biography contains information on the birth and death dates, dialect group, occupation and affiliated organisations of the Chinese personality. Cheang Hong Lim’s biography is also included.
 
 - 庄钦永. [Chng, David K. Y.] (2007). [《新甲华人史史料考释》](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12918041). 新加坡 : 新加坡青年书局, p. 15.
-Call no.: RSING Chinese 959.5004951 CDK.
+	Call no.: RSING Chinese 959.5004951 CDK.
 
 	Historian David Chng has examined the ancestral tablet （神主牌）of Cheang Hong Lim, and mentioned that Cheang's birth year should be 1841 (道光二十一年). Chng also noted that《新华历史人物列传》had indicated a different birth year (1825).
 	
 - 陈荆和. [Chen, Jing He.] (n.d.) [《新加坡华文碑铭集录》](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84543584). 香港 : 香港中文大学出版部.
 Call no.: RSING Chinese C814.12 CCH
 
-	Tan Yeok Seong’s book on epitaphs included one on Cheang Hong Lim which was created by the Chinese Consul General Huang Zunxian.
+	Compiled by Chen Jing He and Tan Yeok Seong, this book on epitaphs included one on Cheang Hong Lim which was created by the Chinese Consul General Huang Zunxian.
 
 - 林天蔚. (主编). [Lin, T. W. (Ed.).] (1991). [《亚太地方文献研究论文集》 [Collected essays on local history of the Asian-Pacific region: contribution of overseas Chinese]](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84491480). 香港: 香港大学, pp. 287–291.
-Call no.: RCO Chinese 909.04951 COL
+	Call no.: RCO Chinese 909.04951 COL
 
 	This book contains a collection of essays on the roles and contributions of overseas Chinese in the Asia-Pacific countries. The  chapter on Cheang Hong Lim elaborated on his charitable acts, and also analysed his life through the epitaph written about him by Huang Zunxian (黄遵宪), the consul-general of Singapore.
 
 
 * 林孝胜. [Lin, X. S.] (2010). [《新华研究：帮权、人物、口述历史》 [The study of Singapore Chinese]](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13370485). 新加坡: 新加坡青年书局, pp. 169–184.
-Call no.: RSING Chinese 959.57 LXS -\[HIS\].
+	Call no.: RSING Chinese 959.57 LXS -\[HIS\].
 
 	This book contains a compilation of articles mostly about research into the Chinese community in Singapore. One chapter describes the life of Cheang Hong Lim, his charitable acts, and the important role he played in the Chinese society.
 
 
 * 陈聪毅. (主编). [Chen, C. Y. (Ed.).] (2010). [《新加坡英杰》 [The Sons of Singapore]](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13845415). 新加坡: 大众书局, pp. 28–38.
-Call no.: JRSING Chinse 959.57 LXS -\[HIS\].
+	Call no.: JRSING Chinse 959.57 LXS -\[HIS\].
 
 	This book presents the stories of 11 personalities in Singapore, both past and present. Cheang Hong Lim’s life and his contributions to the country and people are also included.
 
