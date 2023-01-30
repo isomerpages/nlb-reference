@@ -14,6 +14,7 @@ third_nav_title: Arts
 - [**Georgette Chen**](/guides/singapore/people/georgette-chen)
 - [**Lim Tze Peng**](/guides/singapore/people/lim-tze-peng)
 - [**Modern Art in Singapore**](/guides/arts/visual-arts/modern-art-in-singapore)
+- [**Pan Shou (潘受)**](/guides/singapore/people/Pan-Shou/)
 <!--- [**Virtual Arts and Culture**](/guides/arts/visual-arts/virtual-arts)-->
 - [**Southeast Asian Artists**](/guides/arts/visual-arts/sea-artists)
 
