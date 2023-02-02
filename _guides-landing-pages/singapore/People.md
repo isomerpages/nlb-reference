@@ -87,6 +87,9 @@ Names are listed in alphabetical order:
 	</tr>
 	<tr>
 		<td><b><a href = "/guides/singapore/people/neo-tiew">Neo Tiew / 梁宙</a></b></td>
+		<td><b><a href = "/guides/singapore/people/pan-shou">Pan Shou / 潘受</a></b></td>
+	</tr>
+	<tr>
 		<td><b><a href = "/guides/singapore/people/raffles-SEA">Raffles in Southeast Asia</a></b></td>
 	</tr>
 	<tr>
