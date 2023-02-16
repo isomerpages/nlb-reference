@@ -1,0 +1,4 @@
+collections:
+  launch:
+    output: true
+    order: []
