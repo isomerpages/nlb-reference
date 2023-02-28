@@ -9,6 +9,9 @@ $primary: {{- site.colors.primary-color -}};
 $secondary: {{- site.colors.secondary-color -}};
 $secondary-hover: lighten($secondary, 10%);
 
+$launchprimary: #284EEA;
+$launchsecondary: #F06553;
+
 {%- for media-color in site.colors.media-colors -%}
   ${{- media-color.title -}}: {{- media-color.color -}};
 {%- endfor -%}
@@ -335,6 +338,24 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
   }
 }
+
+// Click Box //
+.clickbox {
+  display: block;
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%;
+  background-color: $launchsecondary;
+  }
+
+.clickbox span { padding: .5rem; }
+
+.clickbox a { position: absolute; display: flex; width: 100%; height: 100%; align-items: center; justify-content: center; font-size: 1.25rem; text-align: center; text-decoration: none; text-transform: uppercase; color: white; }
+
+.clickbox a:focus  { background-color: $launchprimary; color: white; }
+
+.clickbox a:hover { background-color: $launchprimary; color: white;  }
+
 
 // Accordion
 
