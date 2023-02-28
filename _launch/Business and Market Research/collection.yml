@@ -1,7 +1,0 @@
-collections:
-  3-business-and-market-research:
-    output: true
-    order:
-      - Market Research Basics.md
-      - Market Research Methods.md
-      - Primary vs secondary market research.md
