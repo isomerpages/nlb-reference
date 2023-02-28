@@ -2,6 +2,7 @@ collections:
   launch:
     output: true
     order:
+      - Launch.md
       - Getting Started/.keep
       - Getting Started/Introduction to Entrepreneurship.md
       - Getting Started/Ideation and Market Validation.md
@@ -10,7 +11,6 @@ collections:
       - Getting Started/Protecting Your Ideas.md
       - Getting Started/Branding and Marketing.md
       - Getting Started/Product Development.md
-      - Launch.md
       - Running the Business/.keep
       - Running the Business/Developing a Business Plan.md
       - Running the Business/All Things Financial and Legal.md
