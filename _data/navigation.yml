@@ -17,6 +17,11 @@ links:
         url: /guides/digital-preservation/main
   - title: Launch
     url: /launch
+    sublinks:
+      - title: Getting Started
+        url: /articles/getting-started/entrepreneurship/
+      - title: Running the Business
+        url: /articles/running-business/business-plan/
   - title: Getting Started
     url: /getting-started/academicresearch
     sublinks:
