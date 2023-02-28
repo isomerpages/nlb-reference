@@ -1,0 +1,5 @@
+collections:
+  7-product-development:
+    output: true
+    order:
+      - New Product Development.md
