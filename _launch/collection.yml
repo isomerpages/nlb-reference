@@ -1,0 +1,19 @@
+collections:
+  launch:
+    output: true
+    order:
+      - Getting Started/.keep
+      - Getting Started/Introduction to Entrepreneurship.md
+      - Getting Started/Ideation and Market Validation.md
+      - Getting Started/Business and Market Research.md
+      - Getting Started/Negotiating and Networking.md
+      - Getting Started/Protecting Your Ideas.md
+      - Getting Started/Branding and Marketing.md
+      - Getting Started/Product Development.md
+      - Launch.md
+      - Running the Business/.keep
+      - Running the Business/Developing a Business Plan.md
+      - Running the Business/All Things Financial and Legal.md
+      - Running the Business/Launch and Stay on Course.md
+      - Running the Business/Venturing Beyond Singapore.md
+      - Running the Business/Resources for Freelancers.md

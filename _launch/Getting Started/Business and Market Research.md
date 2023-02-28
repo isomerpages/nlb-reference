@@ -1,9 +1,12 @@
 ---
-title: Contents
+title: Business and Market Research
 permalink: /articles/getting-started/research/
 description: ""
-third_nav_title: Business & Market Research
+third_nav_title: Getting Started
 ---
+
+
+
 
 # Business & Market Research 
 

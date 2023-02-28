@@ -1,9 +1,12 @@
 ---
-title: Contents
+title: Protecting Your Ideas
 permalink: /articles/getting-started/protect/
 description: ""
-third_nav_title: Protecting Your Ideas
+third_nav_title: Getting Started
 ---
+
+
+
 
 # Protecting Your Ideas
 

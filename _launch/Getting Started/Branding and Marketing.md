@@ -1,9 +1,12 @@
 ---
-title: Contents
+title: Branding and Marketing
 permalink: /articles/getting-started/branding/
 description: ""
-third_nav_title: Branding & Marketing
+third_nav_title: Getting Started
 ---
+
+
+
 
 # Branding & Marketing
 Contents:

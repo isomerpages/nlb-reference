@@ -1,9 +1,12 @@
 ---
-title: Contents
+title: Ideation and Market Validation
 permalink: /articles/getting-started/ideation/
 description: ""
-third_nav_title: Ideation & Market Validation
+third_nav_title: Getting Started
 ---
+
+
+
 
 # Ideation & Market Validation
 Contents:

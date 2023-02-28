@@ -4,9 +4,10 @@ permalink: /launch/
 description: ""
 ---
 
+
 <center><img src="/images/launch-icons/Launch_Logo_RGB_Primary.png" style="width:600px"></center>
 
-<img src="/images/launch-icons/Database-01.png" style="width:600px">
+<img src="/images/launch-icons/Database-01.png" style="width:300px">
 
 No matter what stage your business is at, we have the tools and resources to take it to the next level.
 

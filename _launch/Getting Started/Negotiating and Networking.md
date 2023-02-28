@@ -1,9 +1,12 @@
 ---
-title: Contents
+title: Negotiating and Networking
 permalink: /articles/getting-started/negotiate/
 description: ""
-third_nav_title: Negotiating & Networking
+third_nav_title: Getting Started
 ---
+
+
+
 
 # Negotiating and Networking
 
