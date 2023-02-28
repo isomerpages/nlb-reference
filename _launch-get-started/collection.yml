@@ -1,7 +1,8 @@
 collections:
-  launch:
+  launch-get-started:
     output: true
     order:
+      - Launch.md
       - Intro To Entrepreneurship/.keep
       - Intro To Entrepreneurship/Contents.md
       - Intro To Entrepreneurship/What is an Entrepreneur.md
