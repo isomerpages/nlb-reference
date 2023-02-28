@@ -3,6 +3,7 @@ title: Primary vs secondary market research
 permalink: /articles/getting-started/research/primary-vs-secondary-research/
 description: "There are two main ways to collect data: primary research (or
   field research) and secondary research (or desk research)."
+third_nav_title: Business & Market Research
 ---
 # Primary vs secondary market research 
 

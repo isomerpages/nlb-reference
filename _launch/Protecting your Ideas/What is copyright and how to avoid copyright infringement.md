@@ -7,6 +7,7 @@ description: "Copyright protects the expression of ideas in tangible forms. In
   musicians, film makers, performers, photographers, broadcasters and other
   content creators by awarding them the exclusive right to reproduce, publish,
   perform, communicate or adapt their work.  "
+third_nav_title: Protecting Your Ideas
 ---
 # What is copyright and how to avoid copyright infringement
 

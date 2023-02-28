@@ -2,9 +2,10 @@
 title: Contents
 permalink: /articles/getting-started/ideation/
 description: ""
+third_nav_title: Ideation & Market Validation
 ---
 
-# Ideation And Market Validation
+# Ideation & Market Validation
 Contents:
 * [Identify a business opportunity/entrepreneurial idea](/articles/get-started/ideation-validation/id-evaluate-opp)
 * [Five steps to validate your business idea](/articles/get-started/ideation-validation/validate-idea)

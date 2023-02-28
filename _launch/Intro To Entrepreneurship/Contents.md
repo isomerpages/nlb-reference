@@ -2,6 +2,7 @@
 title: Contents
 permalink: /articles/getting-started/entrepreneurship/
 description: ""
+third_nav_title: Intro To Entrepreneurship
 ---
 
 # Introduction to Entrepreneurship

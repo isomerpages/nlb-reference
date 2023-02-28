@@ -4,6 +4,7 @@ permalink: /articles/get-started/ideation-validation/10-ways-to-get-customer-fee
 description: "Customer feedback refers to input from customers about their
   experience with your business, products, or services. This could come in the
   form of information, insights, problems, or compliments. "
+third_nav_title: Ideation & Market Validation
 ---
 
 # Ten Ways to Get Customer Feedback  

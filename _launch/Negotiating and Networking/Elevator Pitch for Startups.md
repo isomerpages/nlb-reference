@@ -2,6 +2,7 @@
 title: Elevator Pitch for Startups
 permalink: /articles/getting-started/negotiate/elevator-pitch/
 description: ""
+third_nav_title: Negotiating & Networking
 ---
 # Elevator Pitch for Start-Ups
 

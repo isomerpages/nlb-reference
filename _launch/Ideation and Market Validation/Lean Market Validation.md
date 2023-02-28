@@ -5,6 +5,7 @@ description: Lean market validation refers to deciding on what product or
   service you want to create and how to create it using as few resources as
   possible. It involves finding out if the product you intend to build is suited
   to the target market and if there will be a demand for it.
+third_nav_title: Ideation & Market Validation
 ---
 # Lean Market Validation 
 

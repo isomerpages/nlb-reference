@@ -6,6 +6,7 @@ description: "Market research is the process of determining the viability of a
   customers. It is a critical component in rolling out a new product or service,
   and enables a company to zero in on its target market and get the opinions and
   feedback of consumers.  "
+third_nav_title: Business & Market Research
 ---
 # Market Research Basics 
 

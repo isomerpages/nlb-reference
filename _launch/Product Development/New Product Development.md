@@ -5,6 +5,7 @@ description: "New product development (NPD) is the process of creating and
   launching a new product or service, or relaunching an existing service or
   product. It is a structured process with the objective of turning an idea into
   reality.  "
+third_nav_title: Product Development
 ---
 # New Product Development  
 

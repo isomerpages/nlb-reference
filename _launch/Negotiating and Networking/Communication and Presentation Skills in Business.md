@@ -2,6 +2,7 @@
 title: Communication and Presentation Skills in Business
 permalink: /articles/getting-started/negotiate/communication-presentation-skills/
 description: ""
+third_nav_title: Negotiating & Networking
 ---
 # Communication and Presentation Skills in Business 
 

@@ -5,6 +5,7 @@ description: "Business networking is the building of relationships with others
   in the industry who may be helpful to your business. These can comprise
   potential suppliers, investors, clients, other business owners and even fellow
   competitors. "
+third_nav_title: Negotiating & Networking
 ---
 # Do's and Don'ts of Business Networking 
 

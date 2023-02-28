@@ -2,6 +2,7 @@
 title: Contents
 permalink: /articles/getting-started/protect/
 description: ""
+third_nav_title: Protecting Your Ideas
 ---
 
 # Protecting Your Ideas

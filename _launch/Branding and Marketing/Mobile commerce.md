@@ -6,6 +6,7 @@ description: "Mobile commerce, also known as m-commerce, refers to the purchase
   tablets. It enables consumers to transact anywhere and anytime via a native
   mobile application available through a platform or a web-based application
   accessible through web browsers.  "
+third_nav_title: Branding & Marketing
 ---
 
 # Mobile Commerce 

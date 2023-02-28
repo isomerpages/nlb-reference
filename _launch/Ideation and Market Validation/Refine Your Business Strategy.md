@@ -5,6 +5,7 @@ description: "Businesses should regularly review the relevance and
   sustainability of their current business strategies in response to changes in
   the economy and industry. They should refine and adapt their strategies and
   practices to stay ahead. "
+third_nav_title: Ideation & Market Validation
 ---
 # Refine Your Business Strategy 
 

@@ -2,6 +2,7 @@
 title: Basic Negotiation and Persuasion Strategies
 permalink: /articles/getting-started/negotiate/basic-strategies/
 description: ""
+third_nav_title: Negotiating & Networking
 ---
 # Basic Negotiation and Persuasion Strategies 
 

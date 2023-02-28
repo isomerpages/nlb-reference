@@ -2,6 +2,7 @@
 title: Identifying and Evaluating a Business Opportunity
 permalink: /articles/get-started/ideation-validation/id-evaluate-opp/
 description: ""
+third_nav_title: Ideation & Market Validation
 ---
 # Identifying and Evaluating a Business Opportunity
 

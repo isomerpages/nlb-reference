@@ -2,6 +2,7 @@
 title: Developing your brand strategy
 permalink: /articles/getting-started/branding/develop-brand-strategy/
 description: ""
+third_nav_title: Branding & Marketing
 ---
 # Developing your brand strategy 
 

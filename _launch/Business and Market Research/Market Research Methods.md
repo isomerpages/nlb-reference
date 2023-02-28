@@ -6,6 +6,7 @@ description: There are two broad methods of conducting and gathering market
   dependent on the type of information businesses want to gather about their
   customers, market or competitors. Each method involves a different process and
   reveals different information.
+third_nav_title: Business & Market Research
 ---
 # Market Research Methods 
 
