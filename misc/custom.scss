@@ -352,9 +352,9 @@ $desktop: 960px + (2 * $gap) !default;
 
 .clickbox a { position: absolute; display: flex; width: 100%; height: 100%; align-items: center; justify-content: center; font-size: 1.25rem; text-align: center; text-decoration: none; text-transform: uppercase; color: white; }
 
-.clickbox a:focus  { background-color: $launchprimary; color: white; }
+.clickbox a:focus  { background-color: #b52315; color: white; }
 
-.clickbox a:hover { background-color: $launchprimary; color: white;  }
+.clickbox a:hover { background-color: #b52315; color: white;  }
 
 
 // Accordion
@@ -405,7 +405,48 @@ input:checked + label + .new-accordion-content {
 	display: block; 
 }
 	    
-	    
+
+//LAUNCH Accordion
+
+.launch-accordion input {
+	display: none;
+}
+.launch-accordion label {
+	display: block;
+	padding: 8px 22px;
+	margin: 8px 0 2px 0;
+	cursor: pointer;
+	background: $launchprimary;
+	border-radius: 3px;
+	color: white;
+	transition: ease .5s;
+	font-size: 20px;
+}
+
+.launch-accordion label:hover {
+	background: #163493; //*Reliable Blue*//
+	color: white;
+}
+
+.launch-accordion-content {
+	background-color: #dddddd; //*Confident Grey*//
+	padding: 10px 10px 30px 30px;
+	//* border: 1px solid #ff6d59; *//
+	margin: 0 0 5px 0;
+	border-radius: 3px;
+	color: black;
+	font-size: 20px;
+}
+
+input + label + .launch-accordion-content {
+	display: none; 
+}
+  
+input:checked + label + .launch-accordion-content {
+	display: block; 
+}
+	
+    
 // NLB Accordion
 .acc-kontainer {
 	width: 100%;
