@@ -27,9 +27,12 @@ Launch Specialists are available for consultations, to assist you with your busi
 				 </div>
 				 <div class="new-accordion">
        </div>
-    <input type="checkbox" id="acc2">
+</div><!--close accordion-->
+	
+<div class="launch-accordion"><!--accordion--> 	
+	    <input type="checkbox" id="acc2">
 	<label for="acc2"><b>Information Resources</b></label>
-       <div class="new-accordion-content">
+       <div class="launch-accordion-content">
         <p>Content 2.</p>
        </div>
 </div><!--close accordion-->
