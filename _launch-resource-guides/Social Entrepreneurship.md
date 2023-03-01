@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Resource Guides
 ---
 
-![](/images/Articles%20images/social-entrepreneurship-rg-banner.jpg)
+![](/images/launch-misc/social-entrepreneurship-rg-banner.jpg)
 Image retrieved from <https://www.shutterstock.com/image-photo/corporate-social-responsibility-csr-concept-two-406644106>
 
 # **Introduction**

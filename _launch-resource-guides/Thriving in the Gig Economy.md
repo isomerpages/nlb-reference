@@ -11,7 +11,7 @@ third_nav_title: Resource Guides
 ---
 # Thriving in the Gig Economy
 
-![](/images/Articles%20images/a-man-making-delivery-using-a-bicycle.jpg)
+![](/images/launch-misc/a-man-making-delivery-using-a-bicycle.jpg)
 Photo credit: Retrieved from Pexels: https://www.pexels.com/photo/city-road-man-people-10101267/  
 
 ## Introduction 
