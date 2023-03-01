@@ -1,6 +1,6 @@
 ---
 title: Primary vs secondary market research
-permalink: /articles/getting-started/research/primary-vs-secondary-research/
+permalink: /launch/getting-started/research/primary-vs-secondary-research/
 description: "There are two main ways to collect data: primary research (or
   field research) and secondary research (or desk research)."
 third_nav_title: Business & Market Research
@@ -21,10 +21,8 @@ Some common methods of gathering information for primary research are: 
 
 1.  Surveys/questionnaires/customer feedback – this can be done via mail, in person, by telephone or online, and is an efficient way to get quick responses from a large sample size. 
     
-
 2.  Face-to-face interviews – this method enables the interviewer to build rapport with the interviewee to collect more personalised information, for instance, about their buying preferences and product reviews. 
     
-
 3.  Focus groups – these are organised discussion sessions led by a moderator to collect diverse opinions and perspectives from different population segments. 
     
 
@@ -36,10 +34,8 @@ For secondary market research, people generally consult: 
 
 1.  Public sources – freely available information that may be accessed from the Internet, government departments or the public library. 
     
-
 2.  Commercial sources – commercial data commissioned by research and trade associations and financial institutions. This type of professionally packaged information is valuable for its insider perspective and is usually chargeable.  
     
-
 3.  Educational institutions – research reports, academic papers, surveys and studies published by institutes of higher learning. 
     
 

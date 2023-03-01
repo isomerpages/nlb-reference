@@ -1,6 +1,6 @@
 ---
 title: Financing a Start Up
-permalink: /articles/running-business/finance-legal/financing-startup/
+permalink: /launch/running-business/finance-legal/financing-startup/
 description: From start-up to maturity, financing is needed at every stage of a
   business life cycle. The entrepreneur must determine what kinds of financing
   provide the most value and chance for success for their new venture.
@@ -21,6 +21,7 @@ Initial financing for the start-up phase usually comes from personal sources suc
     
 *   Credit card lines of credit 
     
+
 These sources are known as *bootstrap financing* where founders use personal resources to fund the business. At this point, they might also seek some external seed investment such as: 
 
 *   Loans from friends and relatives 
@@ -48,7 +49,6 @@ The cost of debt financing is the interest that entrepreneurs pay for the use of
 
 -   Bank loans 
     
-
 -   Banks are traditionally the source of financing for small businesses. 
     
 -   The following documents are usually required when applying for a small business loan: 
@@ -65,12 +65,10 @@ The cost of debt financing is the interest that entrepreneurs pay for the use of
     
 	*   A business plan  
     
-
 - Trade credit 
-    
+  
 	*   A supplier provides product to a business but does not require payment for a specific period. 
-    
-
+  
 -   Customer advances 
     
 
@@ -107,24 +105,21 @@ Equity financing is the raising of capital through the sale of the company’s s
 
 	*   The venture capital company usually does not invest long term and expects to generate a large return.  
     
-
 -   Angel investors 
     
 
 	*   These are wealthy individuals who, or together with other angel investors in a network, invest in new ventures in exchange for an ownership interest in the business.  
     
-
 -   Equity crowdfunding 
     
 
 	*   This involves raising funds from the public (such as through forums, social media and crowdfunding websites) in exchange for shares in the company.  
- 
+
 
 ### Advantages of equity financing 
 
 *   The company is usually not required to make a regular payback from cash flow.  
     
-
 *   The company does not need to pledge collateral, and therefore its assets are not at risk.  
     
 *   Investors are motivated to help the business succeed and often lend their expertise and skills to the company.  
@@ -134,11 +129,10 @@ Equity financing is the raising of capital through the sale of the company’s s
 
 *   Equity financing is more difficult to raise than debt financing. 
     
-
 *   In exchange for capital, entrepreneurs must share ownership of the company and future profits with investors. 
     
 *   Entrepreneurs can lose their companies to investors if plans go awry. 
-   
+
 
 ## References 
 

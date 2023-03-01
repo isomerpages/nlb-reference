@@ -1,6 +1,6 @@
 ---
 title: Negotiating and Networking
-permalink: /articles/getting-started/negotiate/
+permalink: /launch/getting-started/negotiate/
 description: ""
 third_nav_title: Getting Started
 ---
@@ -12,9 +12,9 @@ third_nav_title: Getting Started
 
 Contents:
 
-* [Elevator pitch for start-ups](/articles/getting-started/negotiate/elevator-pitch)
+* [Elevator pitch for start-ups](/launch/getting-started/negotiate/elevator-pitch)
 * 5 tips for presenting your business ideas
-* [Basic negotiation and persuasion strategies](/articles/getting-started/negotiate/basic-strategies/)
-* [Communication and presentation skills](/articles/getting-started/negotiate/communication-presentation-skills/)
+* [Basic negotiation and persuasion strategies](/launch/getting-started/negotiate/basic-strategies/)
+* [Communication and presentation skills](/launch/getting-started/negotiate/communication-presentation-skills/)
 * How to speak to investors
-* [Do's and don'ts of business networking](/articles/getting-started/negotiate/dos-donts-business-networking)
+* [Do's and don'ts of business networking](/launch/getting-started/negotiate/dos-donts-business-networking)

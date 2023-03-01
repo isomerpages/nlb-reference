@@ -1,6 +1,6 @@
 ---
 title: Refine Your Business Strategy
-permalink: /articles/get-started/ideation-validation/refine-business-strategy/
+permalink: /launch/get-started/ideation-validation/refine-business-strategy/
 description: "Businesses should regularly review the relevance and
   sustainability of their current business strategies in response to changes in
   the economy and industry. They should refine and adapt their strategies and
@@ -29,12 +29,12 @@ The following framework will help businesses identify which form of strategic ad
 The framework uses two perspectives to determine what form of change (magnitude, activity or direction) is needed in a given context: 
 
 ### 1.  Fit to purpose 
-    
+
 
 Evaluate the market and assess how closely your product or service fits the needs of your customers. You should consider differentiation from the perspective of “Who are you different for?” 
 
 ### 2.  Relative advantage 
-    
+
 
 You should assess your capabilities in relation to other available alternatives including direct competitors. You should also consider how your product or service would confer a distinctive advantage to your customers. Consider differentiation from the perspective of “How are your offerings valuably different from others?” 
 
@@ -51,17 +51,17 @@ The forces of competition in new markets are in constant flux. This poses challe
 Entrepreneurs can use the strategic framework below when exploring and testing new markets:  
 
 ### 1.  When starting out, borrow ideas and do not focus on differentiation 
-    
+
 
 Observe what others in the market are doing and lean on their ideas. Borrowing ideas helps companies to develop a working prototype for hands-on learning quickly. The primary competitive focus initially should be on an existing substitute—what the customer currently uses.  
 
 ### 2.  Test relentlessly and then commit 
-    
+
 
 In a new market, successful ventures are those that experiment relentlessly, learn from failures and feedback, and then commit to a single template for creating and capturing value.  
 
 ### 3.  Pause, watch and wait 
-    
+
 
 A new market is fraught with surprises such as unforeseen customers and uses. A successful venture will intentionally leave its business model open-ended and wait until the market settles before optimising it. A partially developed business model allows entrepreneurs' plans to evolve in tandem with a changing market. 
 

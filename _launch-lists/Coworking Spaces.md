@@ -1,6 +1,6 @@
 ---
 title: Coworking Spaces
-permalink: /articles-guides/lists/coworking-spaces/
+permalink: /launch/lists/coworking-spaces/
 description: ""
 third_nav_title: Useful Lists
 ---

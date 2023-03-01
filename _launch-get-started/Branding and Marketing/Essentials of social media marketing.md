@@ -1,6 +1,6 @@
 ---
 title: Essentials of social media marketing
-permalink: /articles/getting-started/branding/essentials-social-media-marketing/
+permalink: /launch/getting-started/branding/essentials-social-media-marketing/
 description: Social media marketing uses social media platforms, such as
   Facebook, Instagram and Twitter, to promote products or services directly to
   customers. It is a powerful tool that can help brands and businesses reach and
@@ -23,27 +23,27 @@ The popularity and number of social media users around the world are growing. Th
 Here are five core pillars to ensure that your social media marketing plan is sustainable, effective and has a positive impact on your business.   
 
 ### 1.  Social media strategy 
-    
+
 
 Develop a social media strategy. It should comprise your goals, target audience, the platform(s) where you want to establish your presence and the type of content you want to post. You can use the SMART (specific, measurable, achievable, relevant, timely) framework to define your goals.  
 
 ### 2.  Planning and publishing 
-    
+
 
 Plan and schedule your content ahead of time. Ensure that your content is unique and visually captivating to engage your audience. Choose the right time to publish and determine the frequency of your posts. Prioritise delivering quality content over quantity.  
 
 ### 3.  Listening and engagement 
-    
+
 
 Monitor the conversations on your social media platforms. Interact with your audience, respond to their questions, address and resolve issues raised and provide help when needed. Listening to and engaging with your audience will help to build trust and show them that you value their input and support. 
 
 ### 4.  Analytics 
-    
+
 
 The most common social media metrics are reach, engagement, impressions, mentions, views and post clicks. Identify which of these metrics are most important to your goals. Analyse and measure them regularly to assess how your content is performing and its impact on your audience. Re-strategise your social media content when necessary.  
 
 ### 5.  Advertising 
-    
+
 
 If you have funds to spare, tap on social media advertising. It allows you to expand your reach to a wider audience. You can customise your advertisements based on your audience demographics, behaviours, interests, etc. 
 

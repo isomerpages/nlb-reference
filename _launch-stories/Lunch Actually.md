@@ -1,6 +1,6 @@
 ---
 title: Lunch Actually
-permalink: /articles-guides/stories/lunch-actually/
+permalink: /launch/stories/lunch-actually/
 description: ""
 third_nav_title: Success Stories
 ---

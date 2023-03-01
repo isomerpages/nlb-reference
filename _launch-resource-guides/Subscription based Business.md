@@ -1,6 +1,6 @@
 ---
 title: Subscription based Business
-permalink: /articles-guides/resource-guides/subscription-based-business/
+permalink: /launch/resource-guides/subscription-based-business/
 description: ""
 third_nav_title: Resource Guides
 ---

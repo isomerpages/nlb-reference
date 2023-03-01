@@ -1,6 +1,6 @@
 ---
 title: Mobile commerce
-permalink: /articles/getting-started/branding/mobile-commerce/
+permalink: /launch/getting-started/branding/mobile-commerce/
 description: "Mobile commerce, also known as m-commerce, refers to the purchase
   and sale of goods and services via mobile devices such as smartphones or
   tablets. It enables consumers to transact anywhere and anytime via a native
@@ -23,10 +23,8 @@ There are three types of mobile commerce – mobile shopping, mobile banking and
 
 *   Mobile shopping allows consumers to purchase goods or services online via websites or specific retail apps.  
     
-
 *   Mobile banking allows consumers to access their bank accounts and banking services, such as fund transfers and bill payments, online via a website or an app.  
     
-
 *   Mobile payments allow consumers to pay for purchases through contactless digital wallet apps such as Google Pay or PayPal.  
     
 

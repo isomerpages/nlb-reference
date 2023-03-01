@@ -1,6 +1,6 @@
 ---
 title: Social commerce
-permalink: /articles/getting-started/branding/social-commerce/
+permalink: /launch/getting-started/branding/social-commerce/
 description: "Social commerce allows consumers to buy products or services
   directly from social media platforms. The entire shopping experience, from
   product discovery to the check-out process and after-sales support, takes
@@ -30,27 +30,27 @@ For customers, social commerce is a convenient and seamless way to shop. They ca
 To leverage social commerce, businesses will first need to develop a strategy. Here are some tips for embarking on the social commerce journey.  
 
 ### 1.  **Choose the most suitable platform** 
-    
+
 
 Analyse your targeted customer segments to find out which platforms they use most. Select a social media platform that is relevant and preferred by your customers.  
 
 ### 2.  Know your customers 
-    
+
 
 Focus on your targeted customer segments and understand their behaviours. Prioritise creating the most optimised shopping experience. Use analytics to stay informed and gather customer insights to see what is working and what is not. Refine your strategy where necessary.  
 
 ### 3.  Create a frictionless shopping experience 
-    
+
 
 Prioritise convenience for customers. Ensure that the end-to-end buying experience is short, simple, and seamless.  
 
 ### 4.  Engage your customers 
-    
+
 
 Connect with your customers and promptly assist them with their enquiries on products, orders, or general questions. Interactions showcase your brand’s personality and builds trust. Encourage customers to provide reviews and share their experiences.  
 
 ### 5.  Consider investing in influencer marketing 
-    
+
 
 Influencer marketing is becoming a popular way for businesses to increase their digital footprint, reach new customer segments and grow their brand. Influencers who have already built an engaged audience can play a significant role in a brand’s success by helping to drive the brand’s visibility and showcasing products that can be converted into sales.  
 

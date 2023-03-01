@@ -1,6 +1,6 @@
 ---
 title: How to Become a Successful Entrepreneur
-permalink: /articles/getting-started/entrepreneurship/successful-entrepreneur/
+permalink: /launch/getting-started/entrepreneurship/successful-entrepreneur/
 description: "Entrepreneurs should ask themselves if they have what it takes to
   succeed and thrive, as well as how they can prepare for the challenges ahead.
   Here are some characteristics and qualities successful entrepreneurs have in
@@ -14,7 +14,7 @@ All entrepreneurs hope to achieve great success with their companies. Besides a 
 
 Entrepreneurs should ask themselves if they have what it takes to succeed and thrive, as well as how they can prepare for the challenges ahead. Here are some characteristics and qualities successful entrepreneurs have in common.  
 
- 
+
 ## Attuned to opportunities and adaptability  
 
 Successful entrepreneurs can focus on the task at hand while continuously seeking new business and growth opportunities. They are curious, ask hard questions, challenge the status quo and explore new avenues. They are also passionate about learning from other experts to acquire new knowledge. Successful entrepreneurs are adept at evaluating situations and adapting to keep moving their businesses forward even in the face of unexpected changes.  

@@ -1,6 +1,6 @@
 ---
 title: Developing a Business Plan
-permalink: /articles/running-business/business-plan/
+permalink: /launch/running-business/business-plan/
 description: ""
 third_nav_title: Running the Business
 ---

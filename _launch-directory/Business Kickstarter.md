@@ -71,21 +71,21 @@ No matter what stage your business is at, we have the resources and tools to tak
 <div class="row is-multiline"><!--multiline start-->
   <div class="col is-one-third">
     <div class="clickbox">
-      <a href="/articles/getting-started/introduction/">
+      <a href="/launch/getting-started/introduction/">
         <span>Getting Started</span>
       </a>
     </div>
   </div>
   <div class="col is-one-third">
     <div class="clickbox">
-      <a href="/articles/running-business/business-plan/">
+      <a href="/launch/running-business/business-plan/">
         <span>Running the Business</span>
       </a>
     </div>
   </div>
    <div class="col is-one-third">
 		     <div class="clickbox">
-      <a href="/articles-guides/resource-guides/contents/">
+      <a href="/launch/resource-guides/contents/">
         <span>Resource Guides</span>
       </a>
     </div>
@@ -94,14 +94,14 @@ No matter what stage your business is at, we have the resources and tools to tak
 <div class="row is-multiline"><!--multiline start-->
   <div class="col is-one-third">
     <div class="clickbox">
-      <a href="/articles-guides/lists/contents/">
+      <a href="/launch/lists/contents/">
         <span>Useful Lists</span>
       </a>
     </div>
   </div>
   <div class="col is-one-third">
     <div class="clickbox">
-      <a href="/articles-guides/stories/contents/">
+      <a href="/launch/stories/contents/">
         <span>Success Stories</span>
       </a>
     </div>
@@ -109,7 +109,7 @@ No matter what stage your business is at, we have the resources and tools to tak
 </div><!--multiline end-->
 	</div> 
 </div><!--close accordion-->
-	
+
 <p></p>
 
 ## Ready to begin?

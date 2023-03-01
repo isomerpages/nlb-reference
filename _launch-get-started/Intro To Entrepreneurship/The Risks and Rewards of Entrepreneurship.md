@@ -1,6 +1,6 @@
 ---
 title: The Risks and Rewards of Entrepreneurship
-permalink: /articles/getting-started/entrepreneurship/risks-rewards/
+permalink: /launch/getting-started/entrepreneurship/risks-rewards/
 description: "Research shows that over 90 percent of start-ups fail and of the
   surviving 10 percent, half will fold after five years. On the flip side of the
   coin, entrepreneurs enjoy the freedom of being their own boss, making their

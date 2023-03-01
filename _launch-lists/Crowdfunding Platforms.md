@@ -1,6 +1,6 @@
 ---
 title: Crowdfunding Platforms
-permalink: /articles-guides/lists/crowdfunding-platforms/
+permalink: /launch/lists/crowdfunding-platforms/
 description: ""
 third_nav_title: Useful Lists
 ---

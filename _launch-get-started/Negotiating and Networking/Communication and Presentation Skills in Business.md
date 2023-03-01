@@ -1,6 +1,6 @@
 ---
 title: Communication and Presentation Skills in Business
-permalink: /articles/getting-started/negotiate/communication-presentation-skills/
+permalink: /launch/getting-started/negotiate/communication-presentation-skills/
 description: ""
 third_nav_title: Negotiating & Networking
 ---
@@ -39,7 +39,7 @@ A key component of good communication is being able deliver presentations well. 
 ## 6. Remember key points 
 
 It can be difficult to memorise an entire script for a long presentation, but it also does not reflect well on you if you simply read off a script. Remembering the key points and ideas of your presentation will help you look like you have a good understanding of your presentation material and make your presentation more natural and engaging. Practicing with a colleague beforehand might help to build your confidence and alleviate your anxiety. 
- 
+
 
 ## References 
 

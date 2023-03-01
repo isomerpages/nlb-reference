@@ -1,6 +1,6 @@
 ---
 title: Market Research Basics
-permalink: /articles/getting-started/research/basics/
+permalink: /launch/getting-started/research/basics/
 description: "Market research is the process of determining the viability of a
   new product or service through research conducted directly with potential
   customers. It is a critical component in rolling out a new product or service,
@@ -50,7 +50,7 @@ Primary market research includes surveys, interviews, focus groups and case stud
 
 In-person surveys are one-on-one interviews typically conducted in high-traffic locations such as shopping malls. They allow people to be presented with samples of products, packaging or advertising and provide ther immediate feedback. Less expensive than in-person surveys are telephone surveys, however, fewer people are willing to participate in them due to relentless telemarketing. Online surveys are a good alternative as they are a simple, inexpensive way to collect anecdotal evidence and gather customer opinions and preferences. 
 
- 
+
 ### Personal interviews 
 
 Personal interviews, usually lasting an hour, pose unstructured, open-ended questions to participants. Typically recorded, these interviews may yield valuable insights into customer attitudes and are an excellent way to uncover issues related to new products or service development. An interview also allows the researcher to delve deeper and ask follow-up questions. 

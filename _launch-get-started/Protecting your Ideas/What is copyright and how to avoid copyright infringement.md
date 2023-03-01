@@ -1,6 +1,6 @@
 ---
 title: What is copyright and how to avoid copyright infringement
-permalink: /articles/getting-started/protect/copyright-and-infringement/
+permalink: /launch/getting-started/protect/copyright-and-infringement/
 description: "Copyright protects the expression of ideas in tangible forms. In
   Singapore, copyright is governed by the Copyright Act. The aim of copyright is
   to encourage the production and dissemination of new work by authors,
@@ -29,7 +29,6 @@ Copyright protects the following types of materials: 
     
 *   Sound recordings (e.g. podcasts, music) 
     
-
 *   Films (e.g. movies, videos) 
     
 *   Television and radio broadcasts  
@@ -55,7 +54,6 @@ Depending on the situation, there are a few options to resolve copyright infring
     
 *   the amount of copyrighted work used in relation to the entire work or performance 
     
-
 *   the effect of the use upon the potential market for, or value of, the work or performance 
     
 

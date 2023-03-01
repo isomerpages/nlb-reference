@@ -1,6 +1,6 @@
 ---
 title: Thriving in the Gig Economy
-permalink: /articles-guides/resource-guides/thriving-gig-economy/
+permalink: /launch/resource-guides/thriving-gig-economy/
 description: In a gig economy, digital platforms are used to match independent
   contractors with clients for short contract work stints and payment-by-task
   basis. Flexibility, independence and the opportunity to earn a supplemental

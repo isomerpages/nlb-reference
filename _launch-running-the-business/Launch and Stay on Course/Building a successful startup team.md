@@ -1,6 +1,6 @@
 ---
 title: Building a successful startup team
-permalink: /articles/running-business/launch-stay-on-course/building-successful-startup-team/
+permalink: /launch/running-business/launch-stay-on-course/building-successful-startup-team/
 description: Hard skills such as experience, product knowledge and industry
   skills are important requirements for entrepreneurial success. However,
   experience alone is not sufficient. A right balance of hard and soft skills

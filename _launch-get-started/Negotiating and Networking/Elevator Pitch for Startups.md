@@ -1,6 +1,6 @@
 ---
 title: Elevator Pitch for Startups
-permalink: /articles/getting-started/negotiate/elevator-pitch/
+permalink: /launch/getting-started/negotiate/elevator-pitch/
 description: ""
 third_nav_title: Negotiating & Networking
 ---
@@ -13,11 +13,11 @@ The pitch should be a concise and clear description of the start-up, and intrigu
 ## Here’s more on what to include in your pitch:
 
 ### **1. Entrepreneur’s background**
- 
+
   Explain why you are qualified to run the business without going into a detailed breakdown of your resume. For example, if you plan to open a restaurant, you should include your years of experience as a chef or restaurant manager.
 
 ### **2. Description of the business**
- 
+
   Rather than simply stating that the plan is to open a restaurant, you should cover in detail the type of cuisine and how it fits into the local restaurant scene.
 
 ### **3. How the business is different**

@@ -1,6 +1,6 @@
 ---
 title: Spa Esprit Group
-permalink: /articles-guides/stories/spa-esprit-group/
+permalink: /launch/stories/spa-esprit-group/
 description: ""
 third_nav_title: Success Stories
 ---

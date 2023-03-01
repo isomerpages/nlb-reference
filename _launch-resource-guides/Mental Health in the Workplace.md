@@ -1,6 +1,6 @@
 ---
 title: Mental Health in the Workplace
-permalink: /articles-guides/resource-guides/mental-health-workplace/
+permalink: /launch/resource-guides/mental-health-workplace/
 description: ""
 third_nav_title: Resource Guides
 ---

@@ -1,6 +1,6 @@
 ---
 title: Negotiation
-permalink: /articles-guides/resource-guides/negotiation/
+permalink: /launch/resource-guides/negotiation/
 description: ""
 third_nav_title: Resource Guides
 ---

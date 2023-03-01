@@ -1,6 +1,6 @@
 ---
 title: Mind Stretcher
-permalink: /articles-guides/stories/mind-stretcher/
+permalink: /launch/stories/mind-stretcher/
 description: ""
 third_nav_title: Success Stories
 ---

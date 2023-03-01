@@ -1,6 +1,6 @@
 ---
 title: Lean Market Validation
-permalink: /articles/get-started/ideation-validation/lean-market-validation/
+permalink: /launch/get-started/ideation-validation/lean-market-validation/
 description: Lean market validation refers to deciding on what product or
   service you want to create and how to create it using as few resources as
   possible. It involves finding out if the product you intend to build is suited
@@ -18,7 +18,7 @@ Lean market validation also provides assurance to potential investors, crowdfund
 **Here are five steps to validating your business proposition:** 
 
 ## 1.  Write down your product concept 
-    
+
 
 Highlight the unique features of your product and clarify your goals and assumptions by asking these questions: 
 
@@ -30,32 +30,31 @@ Highlight the unique features of your product and clarify your goals and assumpt
 	
 	Write down the existing problem that customers want to address. 
 
-	
 - **How does your product solve these problems?**
 
 	Find the value proposition for your customers. Think about how they can benefit from using your product, for instance, saving time or money. 
 
 - **What are the key features of the product?**  
-    
+  
 	Think about a minimum viable product (MVP) which offers just sufficient features necessary to attract customers. 
 
 ## 2.  Estimate the market size and share 
-    
+
 
 Research products that are similar to yours to find out about their sales data, customer base and percentage of the market they occupy to determine if you can find a niche for your product and capture a similar slice of the market. 
 
 ## 3.  Search volume of related terms 
-    
+
 
 As people usually search online to find a product or service they require, you can run an Internet search for terms related to your product or business idea to gauge the volume of hits returned. The query terms used and number of results generated could be used to indicate if there is a demand for your product. 
 
 ## 4.  Gather feedback 
-    
+
 
 Start by reaching out to your network of friends, business contacts and industry experts by pitching your business idea to them. Invite them to fill out an online survey or conduct an interview with them to gather opinions about the product. You can also utilise online communities on social media platforms such as Facebook. 
 
 ## 5.  Test your product or service 
-    
+
 
 Plan for a two-stage testing process for your product. The first round should be conducted among internal employees to fix bugs before the product is released to external users. The second round should be tested among a controlled group of external users to identify specific issues. Testing is vital to ensure that a faulty product is not launched, which could doom the entrepreneurial endeavour from the start. 
 

@@ -1,6 +1,6 @@
 ---
 title: Pricing Models for Business
-permalink: /articles/running-business/business-plan/pricing-models/
+permalink: /launch/running-business/business-plan/pricing-models/
 description: The pricing model you decide to use depends on your product or
   service. It is important to get your pricing model right from the start.
 third_nav_title: Developing a Business Plan
@@ -33,7 +33,7 @@ Freemium products are a combination of “free” and “premium”. They typica
 
 
 | Pros | Cons |
-| -------- | -------- | 
+| -------- | -------- |
 | - Users are more willing to try the product or service since it is free.<br>- Potential for rapid growth and virality.<br>- A large user base that has the potential for indirect revenue streams (e.g. ads)      | - Difficult to convert to paying users if they are sufficiently satisfied with the base product, or if the paid version is too costly.<br>- Easier for users to stop using the product.<br>- More overheads to sustain a large base of non-paying users.     |
 
 ## Flat rate fee/Flat rate subscription 
@@ -41,7 +41,7 @@ Freemium products are a combination of “free” and “premium”. They typica
 Flat rate pricing is when a single bundled product with a set of fixed features is sold at a predetermined price. Many bundled physical goods are sold this way, though this model can also apply to digital subscriptions. For instance, a magazine might provide a print + digital subscription at a regular annual price, or a subscription service may send its users a curated box of imported snacks or a bouquet of flowers every month. 
 
 | Pros | Cons |
-| -------- | -------- | 
+| -------- | -------- |
 |- Easy for customers to understand with minimal confusion over expectations.<br>- Easy to promote and sell, since there is only one bundled form of the product to concentrate marketing efforts. | - Difficult to sell to users who may not need all the features (and would rather pay less).<br>- Difficult to retain customers in the long-term, unless improvements and new features are added over time. |
 
  
@@ -51,7 +51,7 @@ Flat rate pricing is when a single bundled product with a set of fixed features 
 Tiered pricing offers different prices on various bundles of features or products. There are typically three packages at low, medium and high price points, each tailored towards a certain user profile and need. Sometimes, as a sales tactic, the low tier is tailored in such a way that the medium tier and pricing would seem more worthwhile. This model is employed by many online service providers (also known as Software-as-a-Service). 
 
 | Pros | Cons |
-| -------- | -------- | 
+| -------- | -------- |
 | - The low tier is an affordable way for users to try out the product.<br>- Easier to upsell by promoting the added features of the next tier.<br>- Flexibility of changing tiers is attractive for users who have changing needs. | - Difficult to sell to users who may not need all the features (and would rather pay less).<br> - Difficult to retain customers in the long-term, unless more improvements and newer features are added over time.|
 
 
@@ -61,7 +61,7 @@ Like shopping at a supermarket, users only pay for the items they want. This mod
 
 | Pros | Cons |
 | -------- | -------- |
-| - Easier to market and sell with no complicated bundle conditions.<br> - Easier to upsell additional features.<br> - Users find the flexibility to add and drop features attractive. |- Pricing many individual features is complex, especially when considering overall profit margins| 
+| - Easier to market and sell with no complicated bundle conditions.<br> - Easier to upsell additional features.<br> - Users find the flexibility to add and drop features attractive. |- Pricing many individual features is complex, especially when considering overall profit margins|
 
  
 

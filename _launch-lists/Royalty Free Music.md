@@ -1,6 +1,6 @@
 ---
 title: Royalty Free Music
-permalink: /articles-guides/lists/royalty-free-music/
+permalink: /launch/lists/royalty-free-music/
 description: ""
 third_nav_title: Useful Lists
 ---

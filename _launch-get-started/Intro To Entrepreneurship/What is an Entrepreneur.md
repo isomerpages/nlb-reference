@@ -1,6 +1,6 @@
 ---
 title: What is an Entrepreneur
-permalink: /articles/getting-started/entrepreneurship/what-is-an-entrepreneur/
+permalink: /launch/getting-started/entrepreneurship/what-is-an-entrepreneur/
 description: "An entrepreneur is someone who creates a new business and
   shoulders the associated financial and personal risks to make a profit and/or
   difference to the world. Entrepreneurship can also be approached as a way of
@@ -18,27 +18,27 @@ Broadly speaking, an entrepreneur is someone who creates a new business and shou
 Some people believe that entrepreneurs are born rather than made. They are seen to have courage and grit and seen as passionate risk-takers and innovators. Here are some other characteristics that entrepreneurs might have. 
 
 ### 1.  Curiosity 
-    
+
 
 Curiosity drives entrepreneurs to ask challenging questions, continuously seek new opportunities and discover unexplored avenues that can turn out to be gold mines. 
 
 ### 2.  Vision 
-    
+
 
 Entrepreneurs have a clear vision of what they want to achieve, what they need to do to make it happen, and how to communicate it and enlist the right people to help them reach their goals. 
 
 ### 3.  Decisiveness 
-    
+
 
 As a leader, an entrepreneur needs to have the confidence to make difficult decisions, stand by them and recover from bad outcomes. 
 
 ### 4.  Risk Tolerance 
-    
+
 
 Taking calculated risks is part and parcel of entrepreneurship. Entrepreneurs need to balance risk and reward and modulate their risk tolerance based on their ability to mitigate risks. 
 
 ### 5.  Unafraid of Failure 
-    
+
 
 Almost 75 percent of new start-ups fail. Entrepreneurs should persevere and use their failures to advance rather than give up after an unexpected set-back. 
 

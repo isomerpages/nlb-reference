@@ -1,6 +1,6 @@
 ---
 title: Love Bonito
-permalink: /articles-guides/stories/love-bonito/
+permalink: /launch/stories/love-bonito/
 description: ""
 third_nav_title: Success Stories
 ---

@@ -1,6 +1,6 @@
 ---
 title: Business and Market Research
-permalink: /articles/getting-started/research/
+permalink: /launch/getting-started/research/
 description: ""
 third_nav_title: Getting Started
 ---
@@ -12,8 +12,8 @@ third_nav_title: Getting Started
 
 Contents:
 
-* [Market research basics](/articles/getting-started/research/basics)
-* [Market research methods](/articles/getting-started/research/methods)
+* [Market research basics](/launch/getting-started/research/basics)
+* [Market research methods](/launch/getting-started/research/methods)
 * 5 useful market intelligence studies for decision makers
 * Effective sampling techniques for market research 
-* [Primary vs secondary market research](/articles/getting-started/research/primary-vs-secondary-research)
+* [Primary vs secondary market research](/launch/getting-started/research/primary-vs-secondary-research)

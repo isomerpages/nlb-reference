@@ -1,6 +1,6 @@
 ---
 title: Shopback
-permalink: /articles-guides/stories/shopback/
+permalink: /launch/stories/shopback/
 description: ""
 third_nav_title: Success Stories
 ---
@@ -23,22 +23,22 @@ ShopBack launched a limited version of its platform to obtain real customer feed
 Here are some factors that have helped ShopBack achieve its steady growth in the highly competitive e-commerce space in the region.  
 
 ###    Being savvy about how customers shop 
-    
+
 
 The search for value and a better deal has led both consumers and merchants to ShopBack. Merchants consider ShopBack as an effective media channel as they are only charged for successful transactions.  ShopBack hires local talent in each country and uses local knowledge to reach out to merchants and consumers. It goes down to the ground to better grasp the changing market conditions and understand the unique consumer behaviour across the region.   
 
 ###    Reaching out to mobile-first customers  
-    
+
 
 ShopBack has focused on building a seamless mobile experience, given the dominance of mobiles in many developing markets. It offers app-to-app integration so that customers can be redirected from the ShopBack app to merchants’ apps.  
 
 ###    Prepared to fail, learn, and try 
-    
+
 
 Each of the Asia-Pacific markets have different consumer and merchant profiles. In such a dynamic and competitive landscape, ShopBack expects its managers to learn and have the humility to accept better solutions from others.  
 
 ###    A focus on culture fit 
-    
+
 
 ShopBack tests for culture fit during the recruitment process, in particular for senior hires. It is on the lookout for talent who have the propensity to keep learning and the humility to receive feedback. The person must be able to solve problems and navigate through ambiguity in the fast-moving tech world.  
 

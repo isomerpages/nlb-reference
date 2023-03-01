@@ -1,6 +1,6 @@
 ---
 title: Basic finance skills every entrepreneur needs
-permalink: /articles/running-business/finance-legal/basic-finance-skills/
+permalink: /launch/running-business/finance-legal/basic-finance-skills/
 description: Every entrepreneur should possess basic financial skills. There are
   many financial decisions an entrepreneur has to make, such as paying for goods
   and supplies, pricing, organising sales and discounts, and attracting
@@ -18,22 +18,22 @@ Every entrepreneur should possess basic financial skills. There are many financi
 The following are four basic finance skills every entrepreneur should have. 
 
 ## 1.  Create and manage a budget 
-    
+
 
 You should create a budget right from the start. Before you start purchasing products and services for your business, plan how much you need to invest in your business, allocate the funds, and estimate your revenue. Identify key drivers for your expenses and revenue – this will help you get a good sense of how you will spend and make money. You should also adjust your budget accordingly as your business develops. Your budget is meant to help you work within your means, so try to stick to it! 
 
 ## 2.  Keep track of cash flow 
-    
+
 
 Understanding cash flow – how money goes in and out of your business – will help you ensure that you have sufficient capital for your business. Keeping track of your cash flow will also prevent any sudden cash shortages and allow you to use excess money to grow your business effectively. 
 
 ## 3.  Set goals for profitability 
-    
+
 
 A key factor of your business’ success is profitability. Profitability is the amount of revenue left after expenses are subtracted. Certainly, many businesses incur losses in their early stages, and it is often necessary to build up a strong customer base, increase brand visibility, or have a successful launch. However, this is not a viable long-term plan. You need to set a timeline and goals for profitability to grow your business in the long run, and for investors to believe – and invest – in its potential. 
 
 ## 4.  Communicate clearly about money 
-    
+
 
 As a business owner, you will need to communicate with several entities about money – such as your suppliers, employees, and investors. Do you intend to negotiate for a better price with your supplier? What are the terms of payment? What are the terms for employment? What do your investors need to know about your business?  
 

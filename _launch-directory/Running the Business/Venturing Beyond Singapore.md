@@ -1,6 +1,6 @@
 ---
 title: Venturing Beyond Singapore
-permalink: /articles/running-business/beyond-sg/
+permalink: /launch/running-business/beyond-sg/
 description: ""
 third_nav_title: Running the Business
 ---

@@ -1,6 +1,6 @@
 ---
 title: Market Research Methods
-permalink: /articles/getting-started/research/methods/
+permalink: /launch/getting-started/research/methods/
 description: There are two broad methods of conducting and gathering market
   research – quantitative and qualitative research. The research method used is
   dependent on the type of information businesses want to gather about their
@@ -21,17 +21,17 @@ The quantitative approach is used to identify the size of the market, how much i
 Quantitative research methods comprise surveys that can be conducted in-person, over the telephone or online. One of the more common business research methods, a survey allows vast amounts of data to be collected in a very short space of time at a comparatively low cost.  
 
 ### In-person surveys  
-    
+
 
 These are one-on-one interviews typically conducted in high-traffic locations such as shopping malls. They allow people to be presented with samples of products, packaging or advertising and immediately give their feedback.  
 
 ### Telephone surveys  
-    
+
 
 Telephone surveys may cost less than in-person surveys, but are still subjected to their own challenges. Due to consumer resistance as a result of relentless telemarketing, convincing people to participate in phone surveys has now become increasingly difficult.  
 
 ###   Online surveys  
-    
+
 
 An online survey is a simple, inexpensive way to collect anecdotal evidence and gather customer opinions and preferences. 
 
@@ -42,17 +42,17 @@ Qualitative research seeks to gather the views and attitudes of consumers toward
 Unlike quantitative research that follows a pre\-determined set of questions, qualitative research provides a topic or discussion guide to ensure that research aims are met and relevant questions asked. Qualitative research includes personal interviews, focus groups and case studies.  
 
 ###    Personal interviews 
-    
+
 
 Personal interviews usually take about an hour and are typically recorded. During the session, unstructured, open-ended questions are asked. These interviews may yield valuable insights into customer attitudes and are excellent means to uncover concerns related to new products or service development. An interview also allows the researcher to delve deeper and ask follow-up questions. 
 
 ###    Focus groups 
-    
+
 
 Focus groups usually consist of small numbers of people that fit the profile of the target market. A moderator uses a scripted series of questions or topics to lead a group discussion. A session usually lasts one to two hours, and it can take at least three different groups to get a more balanced set of results.  
 
 ###    Case studies 
-    
+
 
 Case studies provide a comprehensive understanding of how an individual interacts with a product or service. It gives a more complete picture of their satisfaction, usage and attitudes towards a specific product, service or industry in the appropriate context.  
 

@@ -1,6 +1,6 @@
 ---
 title: Brick and mortar vs ecommerce or omnichannel
-permalink: /articles/running-business/business-plan/brick-mortar-ecommerce-omnichannel/
+permalink: /launch/running-business/business-plan/brick-mortar-ecommerce-omnichannel/
 description: How and where you choose to retail your product or service would
   depend on a variety of factors. While a brick-and-mortar store might have been
   the traditional way to retail products, the advent of the Internet,
@@ -34,22 +34,16 @@ Omnichannel retail offers the ultimate convenience for customers by marrying the
 
 1.  Convenience and reliability in the mode of purchase and return options 
     
-
 2.  Seamless shopping eco-system between different channels 
     
-
 3.  Active customer engagement with provision of new content, enriching experiences, and opportunities for interactions with other like-minded users 
     
-
 4.  Personalised shopping experiences such as customised push notifications/in-app messages and one-to-one advisory services 
     
-
 5.  A loyalty programme that incentivises return patronage 
     
-
 6.  Good quality products 
     
-
 7.  First-rate customer service support 
     
 

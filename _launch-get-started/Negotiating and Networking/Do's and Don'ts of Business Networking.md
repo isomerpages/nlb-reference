@@ -1,6 +1,6 @@
 ---
 title: Do's and Don'ts of Business Networking
-permalink: /articles/getting-started/negotiate/dos-donts-business-networking/
+permalink: /launch/getting-started/negotiate/dos-donts-business-networking/
 description: "Business networking is the building of relationships with others
   in the industry who may be helpful to your business. These can comprise
   potential suppliers, investors, clients, other business owners and even fellow
@@ -21,16 +21,12 @@ Benefits of business networking include: 
 
 1.  Opportunities: Networking sessions are excellent avenues for finding potential partnerships, joint ventures, or new areas of expansion for your business. 
     
-
 2.  Connections: You could meet people who are able to help you (like mentors or experts) or potential clients. 
     
-
 3.  Knowledge: You can get updated on the latest trends or technology in the industry and learn from the experiences of others. 
     
-
 4.  Goodwill: People are more willing to do business with those they have a relationship with.  
     
-
 5.  Support: Having a circle of likeminded people can be an invaluable source for support, advice and inspiration. 
     
 

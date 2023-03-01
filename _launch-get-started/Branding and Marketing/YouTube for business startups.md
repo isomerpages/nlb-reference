@@ -1,6 +1,6 @@
 ---
 title: YouTube for business startups
-permalink: /articles/getting-started/branding/youtube-busines-start-ups/
+permalink: /launch/getting-started/branding/youtube-busines-start-ups/
 description: The popularity of YouTube means that businesses can now generate
   brand awareness, increase customer engagement and bump up conversion rates
   through interactive videos.

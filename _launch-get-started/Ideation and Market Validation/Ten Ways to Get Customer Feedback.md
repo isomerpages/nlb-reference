@@ -1,6 +1,6 @@
 ---
 title: Ten Ways to Get Customer Feedback
-permalink: /articles/get-started/ideation-validation/10-ways-to-get-customer-feedback/
+permalink: /launch/get-started/ideation-validation/10-ways-to-get-customer-feedback/
 description: "Customer feedback refers to input from customers about their
   experience with your business, products, or services. This could come in the
   form of information, insights, problems, or compliments. "
@@ -43,15 +43,15 @@ Methods of gathering feedback can be broadly divided into two categories – pas
 ### Passive methods 
 
 #### 1. Customer support channels 
-    
+
  Customer support channels such as a customer service hotline, email, and customer contact form are not only helplines for customers but also help businesses identify pain points such as product quality, content marketing and service lapses through quantitative and qualitative feedback from existing customers. However, this method might mean that you miss out on other groups of customers — satisfied customers, dissatisfied customers who do not provide feedback, and non-customers.  
 
 #### 2.  Onsite activity analytics 
-    
+
 Analytics provide insights into how customers interact with a product or service that they may or may not think of talking about, and this helps businesses improve user experience, in both physical and virtual settings. For example, in a physical setting, if the average time a commuter spends in a train station is longer than expected, it could mean that improvements to wayfinding and navigation need to be made. In the virtual context, heatmaps provide information on how users are interacting with the website and indicates what interests them, what they find difficult to navigate, etc.  
 
 #### 3.  Online sensing 
-    
+
 Ratings and reviews contribute significantly to customers’ purchasing decisions, with the trend more prevalent in younger generations.  
 
 ![Use of Social Networks vs Search Engines to Conduct Brand Research by Age](/images/Articles%20images/getting%20feedback%201.png)
@@ -62,18 +62,18 @@ Keeping track of these online conversations highlights novel viewpoints about th
 ### Active methods 
 
 #### 4.  Surveys  
-    
+
 Surveys are one of the most common methods of gathering feedback. They generate feedback specific to the issues or challenges faced, and can be administered in many ways — email, telephone, or in person . The length of the survey is dependent on the mode of administration. Street surveys should be shorter and to the point, as respondents are likely to be on the move, while email surveys can afford to be slightly longer.  
 
 #### 5.  Quick polls 
-    
+
 Quick polls are the express version of surveys. Businesses use them to gather customer sentiment about products or services quickly over a short period of time by asking questions that do not require elaborate answers – for instance, reactions or emojis and yes/no responses could be used. The high interactivity and convenience makes it easy for customers to give their feedback. Some businesses also use these casual and informal polls to determine customer interest in new product releases and/or upcoming collaborations. 
 
 ![Feedback Boxes](/images/Articles%20images/getting%20feedback%202.png)
 (Image retrieved from [Aspiration Marketing](https://blog.aspiration.marketing/10-ways-to-get-customer-feedback)) 
 
 #### 6.  Feedback boxes 
-    
+
 Feedback boxes, once inconspicuously located in the corners of shops and businesses, have also gone digital, and are now one\-question forms strategically positioned on a website, such as a pop-up at the end of a purchase order. While surveys tackle a specific issue already known to the business owner, feedback boxes bring insights, such as software bugs or other problems faced by the customer, that a business may not be aware of.  
 
 #### 7.  Nurturing an online community 
@@ -85,11 +85,11 @@ despite requiring constant monitoring and moderation, the discussions and commen
 Usability testing evaluates the intuitiveness of a product or service by observing real user behaviour. It is best suited for surfacing issues causing confusion and uncovering ways to improve the overall user journey. The complexity of testing is scalable – it could be as simple as offering someone access to a beta website in exchange for a regular activity log, or something more complex like tracking eyeball movement. Some businesses make use of such a tool to refine product design details or new features.   
 
 #### 8.  Face-to-face interviews 
-    
+
 Whether they are group or 1-to-1 interviews, reaching out directly to customers in person opens conversations that might not happen otherwise. Despite being more resource-intensive, face-to-face interviews allow for deep-diving into customers’ actions and thoughts. People are also more inclined to share personal experiences when they can put a face to their interviewer. The gathered qualitative stories and interviewees’ non-verbal cues during the interviews add a human dimension to cold numbers provided by other methods. 
 
 #### 9.  Live chats 
-    
+
 Live chats feature prominently in many online retail businesses. By communicating directly with customer support, customers can easily seek clarification on simple queries and problems with little downtime. Even if the issue cannot be resolved immediately, the customer is assured that someone is looking into it. Moreover, being able to respond promptly to customers’ enquiries boosts businesses’ chances of making a successful sale. Finding out the most common enquiries or problems will help businesses prioritise issue resolution.
 
 

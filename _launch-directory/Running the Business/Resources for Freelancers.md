@@ -1,6 +1,6 @@
 ---
 title: Resources for Freelancers
-permalink: /articles/running-business/freelancer-resources/
+permalink: /launch/running-business/freelancer-resources/
 description: ""
 third_nav_title: Running the Business
 ---

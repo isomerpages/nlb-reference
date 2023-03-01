@@ -1,6 +1,6 @@
 ---
 title: Different Types of Entrepreneurship
-permalink: /articles/getting-started/entrepreneurship/different-types/
+permalink: /launch/getting-started/entrepreneurship/different-types/
 description: Entrepreneurship is the process of creating a new enterprise, or
   building upon an existing one, with the aim of providing a product or service
   to customers for profit, while accepting and managing the risks that come with

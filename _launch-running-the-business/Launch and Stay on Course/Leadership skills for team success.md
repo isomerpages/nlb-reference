@@ -1,6 +1,6 @@
 ---
 title: Leadership skills for team success
-permalink: /articles/running-business/launch-stay-on-course/leadership-skills-team-success/
+permalink: /launch/running-business/launch-stay-on-course/leadership-skills-team-success/
 description: "Strong leadership is essential for any team’s success. An
   effective leader will be able to galvanise and motivate their team, and work
   together with them to achieve common goals. Developing these management skills
@@ -14,32 +14,32 @@ Strong leadership is essential for any team’s success. An effective leader wil
 ## Six key leadership skills for team success 
 
 ### 1.  Clear and effective communication 
-    
+
 
 Clearly articulate the goals and outline what your team needs to do to achieve them. Clear and effective communication will help in minimising confusion and misunderstanding.  
 
 ### 2.  Organisation 
-    
+
 
 Provide your team with a roadmap to achieve their goals. Identify each team members’ strengths and weaknesses, then coordinate efforts and resources by delegating work accordingly. Good time management and scheduling will also allow you to oversee your team’s efforts efficiently. 
 
 ### 3.  Positivity 
-    
+
 
 Team success can only be achieved if the team wants to succeed. Create a positive workplace environment by empowering and appreciating your team. Your team will perform well if they are motivated. 
 
 ### 4.  Problem-solving 
-    
+
 
 Even the most well-prepared teams will face problems. As a leader, you must remain calm under pressure. Evaluate the problem, think critically, and come up with a solution decisively. 
 
 ### 5.  Flexibility 
-    
+
 
 When unexpected situations arise, be flexible with your plans and priorities to respond effectively. 
 
 ### 6.  Decision-making 
-    
+
 
 As a leader, you should be clear and decisive while keeping in mind that the decisions you make will impact your team. 
 

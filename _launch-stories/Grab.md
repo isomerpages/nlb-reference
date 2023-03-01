@@ -1,6 +1,6 @@
 ---
 title: Grab
-permalink: /articles-guides/stories/grab/
+permalink: /launch/stories/grab/
 description: ""
 third_nav_title: Success Stories
 ---

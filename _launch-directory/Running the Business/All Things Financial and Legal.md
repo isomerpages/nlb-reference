@@ -1,6 +1,6 @@
 ---
 title: All Things Financial and Legal
-permalink: /articles/running-business/finance-legal/
+permalink: /launch/running-business/finance-legal/
 description: ""
 third_nav_title: Running the Business
 ---

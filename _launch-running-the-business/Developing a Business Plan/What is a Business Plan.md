@@ -1,6 +1,6 @@
 ---
 title: What is a Business Plan
-permalink: /articles/running-business/business-plan/what-is-a-business-plan/
+permalink: /launch/running-business/business-plan/what-is-a-business-plan/
 description: "A business plan is a document that explains a business’
   objectives, the market it is in and how it intends to achieve its goals. It is
   a roadmap that details each stage of the business. A good plan will lay out
@@ -28,13 +28,11 @@ Other reasons to develop a solid plan: 
 
 	*   You will consider assumptions such as value proposition, competitive differentiation, staffing, partnerships and finances. 
     
-
 *   Seeking advice 
     
 
 	*   When you provide details of your plan to experienced outsiders for a review, they will be able to help you identify missed opportunities, invalid assumptions, overly optimistic projections and other weaknesses. 
     
-
 *   Financial projections that can be used as an initial budget 
     
 
@@ -46,7 +44,7 @@ Other reasons to develop a solid plan: 
 A business plan typically comprises the following elements. Use the sections that make the most sense for your business and your needs.  
 
 ### 1.  The Executive Summary 
-    
+
 
 *   Mission and organisational goals  
     
@@ -54,7 +52,6 @@ A business plan typically comprises the following elements. Use the sections tha
     
 *   Overview of your products and services 
     
-
 *   Summary of your management team 
     
 *   Overview of the market you are competing in  
@@ -63,7 +60,7 @@ A business plan typically comprises the following elements. Use the sections tha
     
 
 ### 2.  The Company: An Overview 
-    
+
 
 *   Organisational and management structure 
     
@@ -77,7 +74,7 @@ A business plan typically comprises the following elements. Use the sections tha
     
 
 ### 3.  Products and Services 
-    
+
 
 *   Key products and services currently offered  
     
@@ -87,7 +84,7 @@ A business plan typically comprises the following elements. Use the sections tha
     
 
 ### 4.  Market Analysis 
-    
+
 
 *   Detailed description of the markets (size, trends, growth, etc.) 
     
@@ -95,40 +92,36 @@ A business plan typically comprises the following elements. Use the sections tha
     
 *   Analysis of key customers (current and anticipated) 
     
-
 *   Market research supporting product lines (current and anticipated) 
     
 *   Analysis of your competitive advantage  
     
 
 ### 5.  Marketing Strategy 
-    
+
 
 *   Strategies to acquire customers (current and anticipated) 
     
-
 *   Pricing policies and strategies 
     
 *   Advertising and public relations plans and strategic alliances  
     
 
 ### 6.  Financial Plans and Strategies 
-    
+
 
 *   A balance sheet, a break-even analysis and a cash flow statement 
     
-
 *   Projected financial forecasts for three to five years 
     
 *   Working budgets and how capital will be used  
     
 
 ### 7.  Appendices 
-    
+
 
 *   Resumes of the management team 
     
-
 *   Organisational chart 
     
 *   Timelines for completion of goals and objectives 

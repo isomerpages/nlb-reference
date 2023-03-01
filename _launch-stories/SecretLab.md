@@ -1,6 +1,6 @@
 ---
 title: SecretLab
-permalink: /articles-guides/stories/secretlab/
+permalink: /launch/stories/secretlab/
 description: ""
 third_nav_title: Success Stories
 ---

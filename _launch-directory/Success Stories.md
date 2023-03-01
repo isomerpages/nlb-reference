@@ -1,19 +1,19 @@
 ---
 title: Success Stories
-permalink: /articles-guides/stories/contents/
+permalink: /launch/stories/
 description: ""
 ---
 # Success Stories and Company Profiles
 
 ### Contents:
 
-* [Awfully Chocolate](/articles-guides/stories/awfully-chocolate/)
-* [Carousell](/articles-guides/stories/carousell/)
-* [Grab](/articles-guides/stories/grab/)
-* [Love Bonito](/articles-guides/stories/love-bonito/)
-* [Lunch Actually](/articles-guides/stories/lunch-actually/)
-* [Mind Stretcher](/articles-guides/stories/mind-stretcher/)
-* [Secretlab](/articles-guides/stories/secretlab/)
-* [Sheng Siong](/articles-guides/stories/sheng-siong/)
-* [ShopBack](/articles-guides/stories/shopback/)
-* [Spa Esprit Group](/articles-guides/stories/spa-esprit-group/)
+* [Awfully Chocolate](/launch/stories/awfully-chocolate/)
+* [Carousell](/launch/stories/carousell/)
+* [Grab](/launch/stories/grab/)
+* [Love Bonito](/launch/stories/love-bonito/)
+* [Lunch Actually](/launch/stories/lunch-actually/)
+* [Mind Stretcher](/launch/stories/mind-stretcher/)
+* [Secretlab](/launch/stories/secretlab/)
+* [Sheng Siong](/launch/stories/sheng-siong/)
+* [ShopBack](/launch/stories/shopback/)
+* [Spa Esprit Group](/launch/stories/spa-esprit-group/)

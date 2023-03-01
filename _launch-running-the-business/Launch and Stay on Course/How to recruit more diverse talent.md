@@ -1,6 +1,6 @@
 ---
 title: How to recruit more diverse talent
-permalink: /articles/running-business/launch-stay-on-course/recruit-diverse-talent/
+permalink: /launch/running-business/launch-stay-on-course/recruit-diverse-talent/
 description: "Organisations are in competition for top talent. Talented people
   are drawn to diverse workplaces imbued with a culture of respect that also
   values different perspectives. Workplace diversity comprising different
@@ -24,17 +24,17 @@ Research shows that non-homogenous teams are smarter and perform better. People 
 ## How to recruit diverse talent 
 
 ### Build an inclusive company culture 
-    
+
 
 Without an inclusive company culture, it will be hard to attract and retain talent. Improve your company culture by making all individuals feel included and have a sense of belonging. Promote your positive workplace culture through your employer branding strategy such as via your company’s career page, social media channels and employee-generated content.  
 
 ### Review job descriptions 
-    
+
 
 Job postings are often a candidate’s first touch point with the company. The language used in your job descriptions may inadvertently put off qualified diverse candidates. Use inclusive language when writing job descriptions and avoid biased language and jargon. Listing only the vital qualifications can mitigate some of this. Many women, for instance, tend not to apply for a job unless they meet almost all of the listed criteria.  
 
 ###    Standardise the interview 
-    
+
 
 Non-standardised, unstructured interviews make it harder to fairly benchmark candidates and increase the likelihood for unconscious bias to creep in.  
 
@@ -43,7 +43,7 @@ In a standardised interview, each candidate answers the same questions. This wil
 Unconscious bias can also occur during the resumé review process. One way to mitigate this is to remove details that can lead to biased decisions, such as a candidate’s name, race, nationality, gender and age, from resumés prior to screening. 
 
 ###    Counter affinity bias 
-    
+
 
 People are likely to align with others similar to themselves, thereby falling prey to affinity bias. Some recruiters hire people whom they are comfortable with and who look like them. When recruiting for “culture fit” is disproportionally emphasised, it can lead to a less diverse workforce. Instead, recruiters should assess candidates objectively based on an impartial list of specific skills and competencies required for the role.  
 

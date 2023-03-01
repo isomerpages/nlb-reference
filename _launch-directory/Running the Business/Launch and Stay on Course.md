@@ -1,6 +1,6 @@
 ---
 title: Launch and Stay on Course
-permalink: /articles/running-business/launch-stay-on-course/
+permalink: /launch/running-business/launch-stay-on-course/
 description: ""
 third_nav_title: Running the Business
 ---

@@ -1,6 +1,6 @@
 ---
 title: Developing your brand strategy
-permalink: /articles/getting-started/branding/develop-brand-strategy/
+permalink: /launch/getting-started/branding/develop-brand-strategy/
 description: ""
 third_nav_title: Branding & Marketing
 ---
@@ -17,37 +17,37 @@ Picking the right branding strategy involves defining your brand identity, deter
 Here are seven types of branding strategies that you can use, depending on your target audience, industry, budget and advertising campaigns. 
 
 ### 1.  Personal branding 
-    
+
 
 Often used by celebrities, politicians and athletes, this type of branding is built on an individual's personality, talents or work abilities. 
 
 ### 2.  Product branding 
-    
+
 
 Focuses on differentiating a product from others using logo design and packaging. 
 
 ### 3.  Corporate branding 
-    
+
 
 The company uses its corporate mission and core values to represent itself in the community. 
 
 ### 4.  Service branding 
-    
+
 
 Seeking to delight the customer, the company provides top-notch service to make its name known. 
 
 ### 5.  Co-branding 
-    
+
 
 This is used during a joint marketing partnership between two or more companies. 
 
 ### 6.  Online branding 
-    
+
 
 Online platforms (such as its website, social media, blogs) are used by a company to make its mark in the virtual arena. It is also known as Internet branding. 
 
 ### 7.  No-brand branding 
-    
+
 
 Products are given centre stage without any fancy packaging or advertising and minimal branding. Companies that are confident in the quality of their products might tap on this strategy. 
 
@@ -56,27 +56,27 @@ Products are given centre stage without any fancy packaging or advertising and m
 Here are some tips to help you develop your branding strategy.  
 
 ### 1.  Use the right visuals 
-    
+
 
 Visuals are more memorable than text so ensure that your visuals are connected to the theme of your brand and the company's core values for easy identification and brand consistency. 
 
 ### 2.  Storytelling with a purpose 
-    
+
 
 Embed purposeful and authentic messages in your company’s narrative that are designed to capture and touch the hearts of your target audience. 
 
 ### 3.  Humanise your brand 
-    
+
 
 Market your product to meet the needs of your consumers by addressing their concerns. 
 
 ### 4.  Sentiment 
-    
+
 
 Use technology to capture online user sentiment to keep track of what people think of your brand. 
 
 ### 5.  Engage with your customers 
-    
+
 
 Increase opportunities for interaction with your customers through in-person contact or social media platforms to keep your brand in the public’s mind. 
 

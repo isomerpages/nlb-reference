@@ -1,6 +1,6 @@
 ---
 title: Advantages and Disadvantages of Being a Gig Worker or Freelancer
-permalink: /articles/getting-started/entrepreneurship/advantages-gig-workers-freelancers/
+permalink: /launch/getting-started/entrepreneurship/advantages-gig-workers-freelancers/
 description: The freelance economy has grown over the past decade. Freelancers
   are workers who operate their own businesses, and they usually provide
   services to their clients for an agreed-upon fee. The benefits of freelancing
@@ -87,6 +87,6 @@ Walrack, Jessica. “The Disadvantages of Freelancing.” The Balance Careers. L
  
 
 Kendrick, Cori. “The Future of Work is Here: Freelance Economy Offers Unparalleled Opportunity for Growth.” Businesswire. Published 5 February 2020, <https://www.businesswire.com/news/home/20200205005129/en/The-Future-of-Work-Is-Here-Freelance-Economy-Offers-Unparalleled-Opportunity-for-Growth-Moves-to-Close-the-Gender-Pay-Gap>
- 
+
 
 Wimbledon, Jade.  “11 Pros and Cons of Working as a Freelancer”. Simply Business. Published 28 June 2018, <https://www.simplybusiness.co.uk/knowledge/articles/2016/06/pros-and-cons-of-being-a-freelancer/>

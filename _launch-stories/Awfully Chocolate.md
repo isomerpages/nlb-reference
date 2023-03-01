@@ -1,6 +1,6 @@
 ---
 title: Awfully Chocolate
-permalink: /articles-guides/stories/awfully-chocolate/
+permalink: /launch/stories/awfully-chocolate/
 description: ""
 third_nav_title: Success Stories
 ---

@@ -1,6 +1,6 @@
 ---
 title: Creating a strong team culture
-permalink: /articles/running-business/launch-stay-on-course/strong-team-culture/
+permalink: /launch/running-business/launch-stay-on-course/strong-team-culture/
 description: "Strong team culture can reduce conflict and encourage valuable
   contributions from all team members. It fosters efficient collaboration and
   open communication, resulting in a positive and engaging workplace, and in
@@ -20,27 +20,27 @@ Strong team culture can reduce conflict and encourage valuable contributions fro
 ## Five steps to creating a strong team culture 
 
 ### 1.  Define your team culture 
-    
+
 
 State team values clearly. What are the shared beliefs among team members when it comes to achieving business goals? How do team values align with work protocols and policies? Finally, how can team members support one another? 
 
 ### 2.  Keep expectations clear 
-    
+
 
 Share these values with the team. Use team building activities or events to communicate and reinforce these values. Ensure that everyone knows the standards of success.  
 
 ### 3.  Recognise how you set the tone 
-    
+
 
 It is important to build trust and loyalty among your team for a smooth workflow. Consider all ideas and contributions valuable. Resolve conflict when it arises. Keep up a positive attitude and communicate openly. 
 
 ### 4.  Evaluate team performance 
-    
+
 
 Once team values have been established, evaluate your team’s performance to see if these values have been helpful. Get team members talk about their progress and performance as a team.  
 
 ### 5.  Reinforce team culture 
-    
+
 
 A strong team culture should last. Reinforce team culture by recognising members who have reflected team values in their work. Encourage brainstorming and listening to team members to appreciate one another’s ideas. 
 

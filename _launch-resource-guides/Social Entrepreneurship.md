@@ -1,6 +1,6 @@
 ---
 title: Social Entrepreneurship
-permalink: /articles-guides/resource-guides/social-entrepreneurship/
+permalink: /launch/resource-guides/social-entrepreneurship/
 description: ""
 third_nav_title: Resource Guides
 ---

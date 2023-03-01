@@ -1,6 +1,6 @@
 ---
 title: Using disruptive technology to boost your business
-permalink: /articles/running-business/launch-stay-on-course/disruptive-tech-boost-business/
+permalink: /launch/running-business/launch-stay-on-course/disruptive-tech-boost-business/
 description: Disruptive technology refers to a new advanced technology that
   changes the way consumers, industries, or businesses operate, potentially
   replacing and transforming age-old practices. Disruptive technologies often
@@ -25,7 +25,7 @@ Disruptive technologies often come from start-ups, allowing them to establish th
 
  
 
- 
+
 ## Examples of disruptive technologies 
 
 Recent disruptive technologies include 3D printing, wearable tech, artificial intelligence, blockchain and the Internet of Things (IoT).  
@@ -72,21 +72,21 @@ Disruptive technologies can “impact growth, employment, and inequality by crea
 
 To succeed in the constantly evolving environment, businesses must adapt rapidly to new opportunities and challenges to stay relevant. Disruptive technologies present opportunities for business growth and to gain a competitive edge.  
 
- 
+
 **Other advantages include: **
 
 * reducing overheads and costs; 
- 
+
 * promoting greater efficiency through streamlined core processes; 
- 
+
 * increasing productivity; 
- 
+
 * encouraging better product and services development; 
- 
+
 * advancing innovation; 
- 
+
 * enhancing the customer experience; and 
- 
+
 * driving better decision-making. 
 
  

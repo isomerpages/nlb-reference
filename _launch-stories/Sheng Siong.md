@@ -1,6 +1,6 @@
 ---
 title: Sheng Siong
-permalink: /articles-guides/stories/sheng-siong/
+permalink: /launch/stories/sheng-siong/
 description: ""
 third_nav_title: Success Stories
 ---
@@ -40,16 +40,12 @@ In 2019, Lim was awarded Businessman of the Year, the highest accolade at the Si
 
 1.  The names *“Sheng”* and *“Siong”* mean *“rising”* and *“vegetable”* in Mandarin. 
     
-
 2.  Full-time staff enjoy a free meal every workday. Staff working in Sheng Siong headquarters eat in the staff canteen, while others have meals prepared from a central kitchen delivered to them.  
     
-
 3.  Lim’s mobile number Is available at every outlet, so that staff and customers can reach him easily, whether it is to provide feedback or for emergencies.  
     
-
 4.  Lim and his two brothers, who are also working in the Sheng Siong Group, fund a bursary for their employees’ children.  
     
-
 5.  Lim dropped out of Chinese High School (now known as Hwa Chong Institution) in Secondary 3 because he was struggling with English.  
     
 

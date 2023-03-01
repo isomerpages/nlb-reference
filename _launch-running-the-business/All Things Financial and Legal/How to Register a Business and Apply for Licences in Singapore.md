@@ -1,6 +1,6 @@
 ---
 title: How to Register a Business and Apply for Licences in Singapore
-permalink: /articles/running-business/finance-legal/register-business-apply-license/
+permalink: /launch/running-business/finance-legal/register-business-apply-license/
 description: In Singapore, all businesses are generally required to register
   with the Accounting and Corporate Regulatory Authority (ACRA).
 third_nav_title: All Things Financial and Legal
@@ -24,13 +24,10 @@ The four business structures are:  
 
 1.  Sole-proprietorship (one owner) or partnership (two or more owners) 
     
-
 2.  Limited partnership (LP)  
     
-
 3.  Limited Liability Partnership (LLP) 
     
-
 4.  Company 
     
 
@@ -66,10 +63,8 @@ There are three types of addresses:  
 
 1.  Business address (for sole-proprietorships, partnerships and LPs) 
     
-
 2.  Registered office address (for companies and LLPs) 
     
-
 3.  Residential and alternative addresses 
     
 
@@ -90,7 +85,6 @@ Upon successful registration of your business entity, you may need to apply for 
 
 1.  Browse the [GoBusiness Licensing website](https://www.gobusiness.gov.sg/licences/) to determine which licences are applicable for your business. You can find licences by business sectors here: [https://www.gobusiness.gov.sg/licences/find-licence-by-sector/](https://www.gobusiness.gov.sg/licences/find-licence-by-sector/)   
     
-
 2.  You can apply and pay for new licences through the [GoBusiness Licensing portal](https://licence1.business.gov.sg/feportal/web/frontier/home). Find the licence applicable for your business doing a search by keyword, government agency or business intent. 
 
 ## References 
