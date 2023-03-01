@@ -3,9 +3,7 @@ title: Launch
 permalink: /launch/
 description: ""
 ---
-
-
-<center><img src="/images/launch-icons/Launch_Logo_RGB_Primary.png" style="width:600px"></center>
+<center><img src="/images/launch-icons/Launch_Logo_RGB_Primary.png" style="width:500px"></center>
 
 <img src="/images/launch-icons/Database-01.png" style="width:300px">
 
@@ -19,6 +17,25 @@ Explore our library of helpful articles for tips and things to consider while ru
 *   Useful Lists
 *   Success Stories
 
+<div class="row is-multiline">
+	  <div class="col is-half">
+    <div class="clickbox">
+      <a href="/articles/getting-started/introduction/">
+        <span>Getting Started</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-half">
+    <div class="clickbox">
+      <a href="/articles/running-business/business-plan/">
+        <span>Running the Business</span>
+      </a>
+    </div>
+  </div>
+</div>
+
+
+block
 <hr>
 
 <div class="row is-multiline">

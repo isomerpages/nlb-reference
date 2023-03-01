@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Launch.md
+      - Business Kickstarter.md
       - Getting Started/.keep
       - Getting Started/Introduction to Entrepreneurship.md
       - Getting Started/Ideation and Market Validation.md
