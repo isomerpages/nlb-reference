@@ -1,5 +1,5 @@
 collections:
-  launch:
+  launch-directory:
     output: true
     order:
       - Launch.md
