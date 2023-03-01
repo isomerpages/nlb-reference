@@ -1,0 +1,9 @@
+collections:
+  launch-lists:
+    output: true
+    order:
+      - Coworking Spaces.md
+      - Crowdfunding Platforms.md
+      - Online Selling Platforms.md
+      - Royalty Free Music.md
+      - Web Design Websites.md
