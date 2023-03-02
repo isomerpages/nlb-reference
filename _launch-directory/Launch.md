@@ -5,78 +5,41 @@ description: ""
 ---
 <center><img src="/images/launch-icons/Launch_Logo_RGB_Primary.png" style="width:500px"></center>
 
-<img src="/images/launch-icons/Database-01.png" style="width:300px">
+# Let's take the next step, together
+Whether it’s learning a new skill or taking your business in a different
+direction, we know it’s all a bit daunting. At **Launch**, the Business Resource Centre at the National Library Board, we want to make it
+easier for aspiring entrepreneurs, small businesses and working
+adults to explore new opportunities to launch the next phase of your professional growth.
 
-No matter what stage your business is at, we have the tools and resources to take it to the next level.
+Connect with the right resources, communities, networks and spaces!
 
-Explore our library of helpful articles for tips and things to consider while running a successful business.
-
-*   Getting Started
-*   Running the Business
-*   Resource Guides
-*   Useful Lists
-*   Success Stories
-
-<div class="row is-multiline">
-	  <div class="col is-half">
-    <div class="clickbox">
-      <a href="/articles/getting-started/introduction/">
-        <span>Getting Started</span>
-      </a>
-    </div>
-  </div>
-  <div class="col is-half">
-    <div class="clickbox">
-      <a href="/articles/running-business/business-plan/">
-        <span>Running the Business</span>
-      </a>
-    </div>
-  </div>
-</div>
-
-
-block
 <hr>
 
-<div class="row is-multiline">
-  <div class="col is-one-third">
-    <div class="clickbox">
-      <a href="/articles/getting-started/introduction/">
-        <span>Getting Started</span>
-      </a>
-    </div>
-  </div>
-  <div class="col is-one-third">
-    <div class="clickbox">
-      <a href="/articles/running-business/business-plan/">
-        <span>Running the Business</span>
-      </a>
-    </div>
-  </div>
-   <div class="col is-one-third">
-		     <div class="clickbox">
-      <a href="/articles-guides/resource-guides/contents/">
-        <span>Resource Guides</span>
-      </a>
-    </div>
-  </div>
-</div>
+<table>
+	<tr><!--row 1-->
+		<td>
+			<h3><b>Business Kickstarter</b></h3>
+			<p>No matter what stage your business is at, we have the resources and tools to take it to the next level.</p>
+			<p><a href="/launch/biz-kickstarter/"><b>Connect</b></a> with our Business Resource Specialist to begin your business and market research!</p>
+		</td>
+		<td style="width:50%"><img src="/images/launch-icons/Database-01.png" style="width:250px"></td>
+	</tr>
+	<tr><!--row 2-->
+		<td style="width:50%"><img src="/images/launch-icons/Programmes-Onsite-01.png" style="width:250px"></td>
+		<td>
+			<h3><b>Workshops & Programmes</b></h3>
+			<p>Keep an eye out for our free workshops, seminars and programmes</p>
+			<p>Discover <a href="https://go.gov.sg/xx"><b>our programmes</b></a> now!</p>
+		</td>
+	</tr>
+	<tr><!--row 3-->
+		<td>
+			<h3><b>Articles, Guides and Stories</b></h3>
+			<p>No matter what stage your business is at, we have the resources and tools to take it to the next level.</p>
+			<p><a href="/launch/getting-started/entrepreneurship/"><b>Get started</b></a> with our short primers and reading guides on business and entrepreneurship.</p>
+		</td>
+		<td style="width:50%"><img src="/images/launch-icons/Books-01.png" style="width:250px"></td>
+	</tr>
+</table>
 
-<div class="row is-multiline">
-  <div class="col is-one-third">
-    <div class="clickbox">
-      <a href="/articles-guides/lists/contents/">
-        <span>Useful Lists</span>
-      </a>
-    </div>
-  </div>
-  <div class="col is-one-third">
-    <div class="clickbox">
-      <a href="/articles-guides/stories/contents/">
-        <span>Success Stories</span>
-      </a>
-    </div>
-  </div>
-   <div class="col is-one-third">
-  </div>
-</div>
+<hr>
