@@ -45,16 +45,24 @@ No matter what stage your business is at, we have the resources and tools to tak
 					 <input type="checkbox" id="info2">
 					 <label for="info2"><b>Euromonitor Passport</b></label>
 					 <div class="launch-accordion-content">
-						 <p>Euromonitor Passport covers thousands of product categories and industries, and market research helps users better understand core business and future opportunities. Passport's robust analysis and visualisation tools allow research with real-world relevance, and can be applied to strategic planning, economic analysis, industry benchmarking, competitive threats and market entry studies.</p>
-						 <p>Euromonitor is only available at Jurong, Punggol, Tampines and Woodlands Regional Libraries, and the Lee Kong Chian Reference Library.</p>
+						 <p><b>Euromonitor Passport</b> covers thousands of product categories and industries, and market research helps users better understand core business and future opportunities. Passport's robust analysis and visualisation tools allow research with real-world relevance, and can be applied to strategic planning, economic analysis, industry benchmarking, competitive threats and market entry studies.</p>
+						 <p>Euromonitor Passport is only available at Jurong, Punggol, Tampines and Woodlands Regional Libraries, and the Lee Kong Chian Reference Library.</p>
 					 </div>
 				 </div>
 					<div class="launch-accordion">
 					 <input type="checkbox" id="info3">
 					 <label for="info3"><b>MarketLine Advantage</b></label>
 					 <div class="launch-accordion-content">
-						 <p>MarketLine Advantage offers an interactive platform giving you anytime access to up-to-date information and financial data on companies, industries and countries across every major marketplace in the world.</p>
+						 <p><b>MarketLine Advantage</b> offers an interactive platform giving you anytime access to up-to-date information and financial data on companies, industries and countries across every major marketplace in the world.</p>
 						 <p>Discover Marketline Advantage <a href="https://eresources.nlb.gov.sg/Main/browse/resource/1255">here</a>.</p>
+					 </div>
+				 </div>
+				 <div class="launch-accordion">
+					 <input type="checkbox" id="info4">
+					 <label for="info4"><b>EIU Viewpoint</b></label>
+					 <div class="launch-accordion-content">
+						 <p><b>EIU Viewpoint</b> (previously Economist Intelligence Unit) provides insights into a country’s political, policy and economic outlook, and proprietary ratings on the business environment and risks. We provide forecasts of 5-years, up to 30-years into the future to help you understand what is happening now, and gain insight on how each country will look in the future. Viewpoint also provides industry analysis for six major industries as well as global commodity analysis.</p>
+						 <p>Discover EIU Viewpoint <a href="https://eresources.nlb.gov.sg/Main/browse/resource/1059">here</a>.</p>
 					 </div>
 				 </div>
 	</div>
