@@ -12,10 +12,11 @@ Beyond what is highlighted in the reading room displays, this complementary Reso
 ![Earl Lu. Flower Market. 1999. Gouache.](/images/arts/visualarts/Art%20X%20Stacks/L8Earl_Lu-Flower_Market-crop.jpg)
 Earl Lu. *Flower Market*. 1999. Gouache.
 
-##### Contents
+## Contents
 
 **NATURE**
-* Books
+
+* [Books](#anchor1)
 * *BiblioAsia* articles
 * Infopedia articles
 * Spotlight: Singapore Visual Arts Collection
@@ -42,7 +43,7 @@ Earl Lu. *Flower Market*. 1999. Gouache.
 
 
 ## NATURE
-#### Books
+#### Books <a name="anchor1"></a>
 Artworks by local artists Earl Lu and Lim Tiong Ghee displayed on Level 8 of the library are examples of how artists have represented their experience of nature in paintings. Artistic interaction can also take on other modes of expression, including land art and photography.
 
 In this section, we learn more about how nature features in the visual arts, from traditional tropes such as landscape paintings and the still life genre to contemporary art practices such as land art, where the natural world becomes a physical site for artistic creation. 
@@ -316,7 +317,9 @@ After watching the National Day Parade, you may be inspired to belt out some bel
 
 Read [an article on the National Day songs](https://eresources.nlb.gov.sg/music/opencmscontent.aspx?id=c6b02ce4-985b-4ecd-bc50-2f2af521fe75) before listening to a [medley](https://eresources.nlb.gov.sg/music/music/track/7892323f-fffe-4353-aaf4-f9077d489c61), including [_Stand up for Singapore_](https://eresources.nlb.gov.sg/music/music/track/959a82ef-f618-483b-8b26-9dbb51a59444), one of Singapore’s first National Day songs composed by Hugh Harrison in 1984. If you are musically trained, you might be interested in scores for songs such as [_Count on Me Singapore_](https://eresources.nlb.gov.sg/music/opencmscontent.aspx?id=67f2b22f-d4b8-4f0c-85dc-dd834d131d20) or [Dick Lee’s _Home_](https://eresources.nlb.gov.sg/music/opencmscontent.aspx?id=f20da4c8-69fb-4e4c-8e71-a72c0a0de591) which is one of the most popular National Day songs among Singaporeans. First performed by local singer Kit Chan in 1998, the song is remembered by many Singaporeans who can sing it from memory.
 
-* * * 
+[Back to top](#contents) 
+
+* * *
 
 *This Resource Guide was compiled by Luke Chua, a Senior Librarian at the National Library, Singapore. The information in this guide is valid as of March 2023 and correct as far as we can ascertain from our sources. This list is not intended to be exhaustive or comprehensive. Please contact us at ref@nlb.gov.sg for more reading material on the topics.*
 
