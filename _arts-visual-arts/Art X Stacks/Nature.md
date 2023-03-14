@@ -6,6 +6,10 @@ third_nav_title: Art X Stacks
 ---
 # Art X Stacks - Nature
 
+Artworks by local artists Earl Lu and Lim Tiong Ghee displayed on Level 8 of the library are examples of how artists have represented their experience of nature in paintings. Artistic interaction can also take on other modes of expression, including land art and photography.
+
+In this section, we learn more about how nature features in the visual arts, from traditional tropes such as landscape paintings and the still life genre to contemporary art practices such as land art, where the natural world becomes a physical site for artistic creation.
+
 ## Contents
 
 * [Books](#books)
@@ -15,9 +19,6 @@ third_nav_title: Art X Stacks
 * [Spotlight: SoundscapeSG](#spotlight-soundscapesg)
 
 #### Books
-Artworks by local artists Earl Lu and Lim Tiong Ghee displayed on Level 8 of the library are examples of how artists have represented their experience of nature in paintings. Artistic interaction can also take on other modes of expression, including land art and photography.
-
-In this section, we learn more about how nature features in the visual arts, from traditional tropes such as landscape paintings and the still life genre to contemporary art practices such as land art, where the natural world becomes a physical site for artistic creation. 
 
 | Book                                                         | Description                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
