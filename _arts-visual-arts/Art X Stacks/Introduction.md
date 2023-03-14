@@ -15,7 +15,7 @@ Earl Lu. *Flower Market*. 1999. Gouache.
 
 ## Contents
 
-### [**NATURE**](/guides/arts/visual-arts/artxstacks/nature/)
+#### [**NATURE**](/guides/arts/visual-arts/artxstacks/nature/)
 
 * Books
 * *BiblioAsia* articles
@@ -23,7 +23,7 @@ Earl Lu. *Flower Market*. 1999. Gouache.
 * Spotlight: Singapore Visual Arts Collection
 * Spotlight: SoundscapeSG
 
-### [**COMMUNITIES**](/guides/arts/visual-arts/artxstacks/communities/)
+#### [**COMMUNITIES**](/guides/arts/visual-arts/artxstacks/communities/)
 *  Books
 *  *BiblioAsia* articles
 *  Infopedia articles
@@ -32,7 +32,7 @@ Earl Lu. *Flower Market*. 1999. Gouache.
 *  Spotlight: Government Records
 *  Spotlight: Singapore Literary Arts Collection
 
-### [**PLACES**](/guides/arts/visual-arts/artxstacks/places/)
+#### [**PLACES**](/guides/arts/visual-arts/artxstacks/places/)
 * Books
 * *BiblioAsia* articles
 * Infopedia articles
