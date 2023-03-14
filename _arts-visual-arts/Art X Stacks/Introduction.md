@@ -1,5 +1,5 @@
 ---
-title: Art X Stacks
+title: Introduction
 permalink: /guides/arts/visual-arts/artxstacks/
 description: ""
 third_nav_title: Art X Stacks
@@ -15,31 +15,31 @@ Earl Lu. *Flower Market*. 1999. Gouache.
 
 ## Contents
 
-**NATURE**
+### [**NATURE**](/guides/arts/visual-arts/artxstacks/nature/)
 
-* [Books](/guides/arts/visual-arts/artxstacks/nature/#books)
-* [*BiblioAsia* articles](/guides/arts/visual-arts/artxstacks/nature/#biblioasia-articles)
-* [Infopedia articles](/guides/arts/visual-arts/artxstacks/nature/#infopedia-articles)
-* [Spotlight: Singapore Visual Arts Collection](/guides/arts/visual-arts/artxstacks/nature/#spotlight-singapore-visual-arts-collection)
-* [Spotlight: SoundscapeSG](/guides/arts/visual-arts/artxstacks/nature/#spotlight-soundscapesg)
+* Books
+* *BiblioAsia* articles
+* Infopedia articles
+* Spotlight: Singapore Visual Arts Collection
+* Spotlight: SoundscapeSG
 
-**COMMUNITIES**
-*  [Books](/guides/arts/visual-arts/artxstacks/communities/#books)
-*  [*BiblioAsia* articles](/guides/arts/visual-arts/artxstacks/communities/#biblioasia-articles)
-*  [Infopedia articles](/guides/arts/visual-arts/artxstacks/communities/#infopedia-articles)
-*  [Spotlight: Oral History Interviews](/guides/arts/visual-arts/artxstacks/communities/#spotlight-oral-history-interviews)
-*  [Spotlight: National Online Repository of the Arts (NORA)](/guides/arts/visual-arts/artxstacks/communities/#spotlight-national-online-repository-of-the-arts-nora)
-*  [Spotlight: Government Records](/guides/arts/visual-arts/artxstacks/communities/#spotlight-government-records)
-*  [Spotlight: Singapore Literary Arts Collection](/guides/arts/visual-arts/artxstacks/communities/#spotlight-singapore-literary-arts-collection)
+### [**COMMUNITIES**](/guides/arts/visual-arts/artxstacks/communities/)
+*  Books
+*  *BiblioAsia* articles
+*  Infopedia articles
+*  Spotlight: Oral History Interviews
+*  Spotlight: National Online Repository of the Arts (NORA)
+*  Spotlight: Government Records
+*  Spotlight: Singapore Literary Arts Collection
 
-**PLACES**
-* [Books](/guides/arts/visual-arts/artxstacks/places/#books)
-* [*BiblioAsia* articles](/guides/arts/visual-arts/artxstacks/places/#biblioasia-articles)
-* [Infopedia articles](/guides/arts/visual-arts/artxstacks/places/#infopedia-articles)
-* [Spotlight: Map Collections](/guides/arts/visual-arts/artxstacks/places/#spotlight-map-collections)
-* [Spotlight: Photographs](/guides/arts/visual-arts/artxstacks/places/#spotlight-photographs)
-* [Spotlight: Audio-visual Collections](/guides/arts/visual-arts/artxstacks/places/#spotlight-audio-visual-collections)
-* [Spotlight: MusicSG](/guides/arts/visual-arts/artxstacks/places/#spotlight-musicsg)
+### [**PLACES**](/guides/arts/visual-arts/artxstacks/places/)
+* Books
+* *BiblioAsia* articles
+* Infopedia articles
+* Spotlight: Map Collections
+* Spotlight: Photographs
+* Spotlight: Audio-visual Collections
+* Spotlight: MusicSG
 
 
 * * *

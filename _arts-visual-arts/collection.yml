@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Art X Stacks/.keep
-      - Art X Stacks/Art X Stacks.md
+      - Art X Stacks/Introduction.md
       - Art X Stacks/Nature.md
       - Art X Stacks/Communities.md
       - Art X Stacks/Places.md
