@@ -8,7 +8,8 @@ third_nav_title: Arts
 <img src="/images/category/visual-arts.jpg" alt="visual arts banner" style="width:800px;" />
 
 
-- [**Art X Stacks**](/guides/arts/visual-arts/artxstacks/)
+- **Art X Stacks**
+    - [**Introduction**](/guides/arts/visual-arts/artxstacks/)
     - [**Nature**](/guides/arts/visual-arts/artxstacks/nature)
     - [**Communities**](/guides/arts/visual-arts/artxstacks/communities)
     - [**Places**](/guides/arts/visual-arts/artxstacks/places)
