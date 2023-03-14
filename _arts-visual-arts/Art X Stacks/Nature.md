@@ -27,6 +27,8 @@ In this section, we learn more about how nature features in the visual arts, fro
 | ![](/images/arts/visualarts/Art%20X%20Stacks/land%20art%20ben%20tufnell.jpg)| Tufnell, Ben. [*Land Art*](https://eservice.nlb.gov.sg/item_holding.aspx?id=12974559). London: Tate, 2006.<br><br>Often situated within the natural environment instead of museums and galleries, land art emerged in the 1960s and 1970s as an articulation of the experience of nature and landscape. Characterised by an immediate engagement with natural processes, sometimes uncontrolled, land art also included the deployment of natural objects such as soil and rocks. |
 |![](/images/arts/visualarts/Art%20X%20Stacks/land%20and%20environmental%20art.jpg) | Kastner, Jeffrey and Brian Wallis. [*Land and Environmental Art: Themes and Movements*](https://eservice.nlb.gov.sg/item_holding.aspx?id=9363039). London: Phaidon, 1998.<br><br>This title documents the genesis of land art in the 1960s and 1970s, highlighting key works and documents that have influenced discussions on land art. Writings in this compilation also emphasise the importance of creating art within the natural environment, instead of just representing it on the canvas.  |
 
+###### [Back to top](#contents)
+
 #### *BiblioAsia* articles 
 
 * [The Nature of Poetry: An Odyssey Across Time](https://biblioasia.nlb.gov.sg/vol-17/issue-1/apr-jun-2021/poetry): Librarian Michelle Heng takes us on a journey to see how poets writing in English have charted the changing contours of Singapore and Malaya over the course of the 20th century.
@@ -39,6 +41,7 @@ In this section, we learn more about how nature features in the visual arts, fro
 
 * [Through Time And Tide: A Survey of Singapore’s Reefs](https://biblioasia.nlb.gov.sg/vol-13/issue-1/apr-jun-2017/through-time-and-tide): The reefs that fringed Singapore’s coastline and islands have served for centuries as maritime markers, fishing grounds and even homes for island communities. Writer, editor and curator Marcus Ng rediscovers the stories that lurk beneath the waves.
 
+###### [Back to top](#contents)
 
 ####  Infopedia articles 
 
@@ -51,6 +54,8 @@ In this section, we learn more about how nature features in the visual arts, fro
 * [Chek Jawa](https://eresources.nlb.gov.sg/infopedia/articles/SIP_256_2005-01-03.html)
 
 * [Nature Society (Singapore)](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1437_2009-02-19.html)
+
+###### [Back to top](#contents)
 
 ####  Spotlight: Singapore Visual Arts Collection 
 
@@ -66,8 +71,12 @@ Singapore is commonly regarded as a concrete jungle with a limited natural lands
 | ![](/images/arts/visualarts/Art%20X%20Stacks/thewordforworldisforest.jpg) | Khairulddin Wahab. [*The Word for World is Forest*](https://eservice.nlb.gov.sg/item_holding.aspx?id=205777786). Singapore: Cuturi Gallery, 2021.<br><br>This catalogue was published on the occasion of the debut solo exhibition of Singapore artist Khairulddin Wahab in 2021. Taking a macro-view of our relationship with the natural world, Khairulddin examines how the land around us has been shaped by various perspectives throughout history such as colonialism and its associated cartographic practices. Khairulddin was also one of the inaugural Creative Residents with the National Library from January to June 2022. A recording of his presentation as a Creative Resident can be found [here](https://nlb.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=1e6f7236-3cff-4de5-b7cc-af0100ab6247). |
 | ![](/images/arts/visualarts/Art%20X%20Stacks/earthwork.jpg) | Tang, Da Wu. [*Earth Work 1979.*](https://eservice.nlb.gov.sg/item_holding.aspx?id=202354556). Singapore: National Gallery Singapore, 2016.<br><br>This catalogue was published in conjunction with *Earth Work 1979*, an exhibition at National Gallery Singapore in 2016. This exhibition revisited Tang’s staging in 1980 featuring installations and mineral pigment works. The original 1980 exhibition was considered one of Singapore’s first exhibition of land art.  |
 
+###### [Back to top](#contents)
+
 ####  Spotlight: SoundscapeSG
 
 When city-living becomes unbearable in our concrete jungle, perhaps all we need are some sounds from nature. [This collection of sounds](https://www.nas.gov.sg/citizenarchivist/SoundScape/describe?collectionId=198) from nature and wildlife in NAS’ SoundscapeSG may provide some respite for all of us. Just close your eyes and listen to the ambient sounds of the Sungei Buloh Wetland, the call of a yellow-bellied puddle frog, or the munching from otters and their pups to be transported away to nature. 
 
-[SoundscapeSG](https://www.nas.gov.sg/citizenarchivist/SoundScape/describe) aims to create a soundmap of Singapore through the crowdsourcing of sound recordings that are taken in natural settings, to preserve the unique and authentic sounds of Singapore. The collection also includes sounds from daily life, such as festivals and celebrations, arts and dialects. You can also contribute your recordings of sounds that you feel represent Singapore of the past
+[SoundscapeSG](https://www.nas.gov.sg/citizenarchivist/SoundScape/describe) aims to create a soundmap of Singapore through the crowdsourcing of sound recordings that are taken in natural settings, to preserve the unique and authentic sounds of Singapore. The collection also includes sounds from daily life, such as festivals and celebrations, arts and dialects. You can also contribute your recordings of sounds that you feel represent Singapore of the past.
+
+###### [Back to top](#contents)
