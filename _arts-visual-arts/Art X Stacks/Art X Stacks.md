@@ -1,8 +1,11 @@
 ---
 title: Art X Stacks
-permalink: /arts-visual-arts/artxstacks/
+permalink: /guides/arts/visual-arts/artxstacks/
 description: ""
+third_nav_title: Art X Stacks
 ---
+
+
 ![](/images/arts/visualarts/Art%20X%20Stacks/NLB%20Art%20X%20Stacks%20Logo_Black%20Version.png)
 
 *Art X Stacks* is a display of artworks and resources in the Lee Kong Chian Reference Library (LKCRL) Levels 8, 9 and 11 reading rooms. A key feature of this display is the convergence of artwork, library, and archival collections, where the visual arts provide new perspectives and entry points into the collections of the National Library (NL) and the National Archives of Singapore (NAS).
