@@ -4,8 +4,6 @@ permalink: /guides/arts/visual-arts/artxstacks/
 description: ""
 third_nav_title: Art X Stacks
 ---
-
-
 ![](/images/arts/visualarts/Art%20X%20Stacks/NLB%20Art%20X%20Stacks%20Logo_Black%20Version.png)
 
 *Art X Stacks* is a display of artworks and resources in the Lee Kong Chian Reference Library (LKCRL) Levels 8, 9 and 11 reading rooms. A key feature of this display is the convergence of artwork, library, and archival collections, where the visual arts provide new perspectives and entry points into the collections of the National Library (NL) and the National Archives of Singapore (NAS).
@@ -19,29 +17,29 @@ Earl Lu. *Flower Market*. 1999. Gouache.
 
 **NATURE**
 
-* [Books](#anchor1)
-* *BiblioAsia* articles
-* Infopedia articles
-* Spotlight: Singapore Visual Arts Collection
-* Spotlight: SoundscapeSG
+* [Books](/guides/arts/visual-arts/artxstacks/nature/#books)
+* [*BiblioAsia* articles](/guides/arts/visual-arts/artxstacks/nature/#biblioasia-articles)
+* [Infopedia articles](/guides/arts/visual-arts/artxstacks/nature/#infopedia-articles)
+* [Spotlight: Singapore Visual Arts Collection](/guides/arts/visual-arts/artxstacks/nature/#spotlight-singapore-visual-arts-collection)
+* [Spotlight: SoundscapeSG](/guides/arts/visual-arts/artxstacks/nature/#spotlight-soundscapesg)
 
 **COMMUNITIES**
-*  Books
-*  *BiblioAsia* articles
-*  Infopedia articles
-*  Spotlight: Oral History Interviews
-*  Spotlight: National Online Repository of the Arts (NORA)
-*  Spotlight: Government Records
-*  Spotlight: Singapore Literary Arts Collection
+*  [Books](/guides/arts/visual-arts/artxstacks/communities/#books)
+*  [*BiblioAsia* articles](/guides/arts/visual-arts/artxstacks/communities/#biblioasia-articles)
+*  [Infopedia articles](/guides/arts/visual-arts/artxstacks/communities/#infopedia-articles)
+*  [Spotlight: Oral History Interviews](/guides/arts/visual-arts/artxstacks/communities/#spotlight-oral-history-interviews)
+*  [Spotlight: National Online Repository of the Arts (NORA)](/guides/arts/visual-arts/artxstacks/communities/#spotlight-national-online-repository-of-the-arts-nora)
+*  [Spotlight: Government Records](/guides/arts/visual-arts/artxstacks/communities/#spotlight-government-records)
+*  [Spotlight: Singapore Literary Arts Collection](/guides/arts/visual-arts/artxstacks/communities/#spotlight-singapore-literary-arts-collection)
 
 **PLACES**
-* Books
-* *BiblioAsia* articles
-* Infopedia articles
-* Spotlight: Map Collections
-* Spotlight: Photographs
-* Spotlight: Audio-visual Collections
-* Spotlight: MusicSG
+* [Books](/guides/arts/visual-arts/artxstacks/places/#books)
+* [*BiblioAsia* articles](/guides/arts/visual-arts/artxstacks/places/#biblioasia-articles)
+* [Infopedia articles](/guides/arts/visual-arts/artxstacks/places/#infopedia-articles)
+* [Spotlight: Map Collections](/guides/arts/visual-arts/artxstacks/places/#spotlight-map-collections)
+* [Spotlight: Photographs](/guides/arts/visual-arts/artxstacks/places/#spotlight-photographs)
+* [Spotlight: Audio-visual Collections](/guides/arts/visual-arts/artxstacks/places/#spotlight-audio-visual-collections)
+* [Spotlight: MusicSG](/guides/arts/visual-arts/artxstacks/places/#spotlight-musicsg)
 
 
 
