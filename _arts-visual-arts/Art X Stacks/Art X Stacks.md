@@ -8,7 +8,7 @@ third_nav_title: Art X Stacks
 
 *Art X Stacks* is a display of artworks and resources in the Lee Kong Chian Reference Library (LKCRL) Levels 8, 9 and 11 reading rooms. A key feature of this display is the convergence of artwork, library, and archival collections, where the visual arts provide new perspectives and entry points into the collections of the National Library (NL) and the National Archives of Singapore (NAS).
 
-Beyond what is highlighted in the reading room displays, this complementary Resource Guide provides an extended selection of related resources from our collections. Corresponding to the *Art X Stacks* themes, each section in this Resource Guide includes a list of books[\[1\]](#_ftn1), *BiblioAsia*[\[2\]](#_ftn2) and *Infopedia*[\[3\]](#_ftn3) articles. In addition, we shine the spotlight on different special collections in each section to give you a flavour of the diversity of materials in our holdings. We hope that this variety of resources will prompt new ways of understanding Singapore history and culture.
+Beyond what is highlighted in the reading room displays, this complementary Resource Guide provides an extended selection of related resources from our collections. Corresponding to the *Art X Stacks* themes, each section in this Resource Guide includes a list of books[^1], *BiblioAsia*[^2] and *Infopedia*[^3] articles. In addition, we shine the spotlight on different special collections in each section to give you a flavour of the diversity of materials in our holdings. We hope that this variety of resources will prompt new ways of understanding Singapore history and culture.
 
 ![Earl Lu. Flower Market. 1999. Gouache.](/images/arts/visualarts/Art%20X%20Stacks/L8Earl_Lu-Flower_Market-crop.jpg)
 Earl Lu. *Flower Market*. 1999. Gouache.
@@ -326,15 +326,8 @@ Read [an article on the National Day songs](https://eresources.nlb.gov.sg/music/
 
 * * *
 
-[\[1\]](#_ftnref1) All books highlighted in this Resource Guide are available at the Lee Kong Chian Reference Library.
+[^1]: All books highlighted in this Resource Guide are available at the Lee Kong Chian Reference Library.
 
-[\[2\]](#_ftnref2) _BiblioAsia_ is a free quarterly publication produced by the NLB. It features articles on the history, culture and heritage of Singapore within the larger Asian context, and has a strong focus on the collections and services of the National Library.
+[^2]: *BiblioAsia* is a free quarterly publication produced by the NLB. It features articles on the history, culture and heritage of Singapore within the larger Asian context, and has a strong focus on the collections and services of the National Library.
 
-[\[3\]](#_ftnref3) _Infopedia_ is an electronic encyclopaedia on Singapore published by the NLB. It holds a collection of articles on Singapore and covers a wide range of topics, including but not limited to historical events, arts, culture, economy, government and key personalities. The articles are written for the general reader with each article providing an overview of topic.
-
-[\[4\]](#_ftnref4) In NAS’ collection of government records, documents of national significance are preserved. Items in this collection were created or received by Government departments and institutions including statutory boards and organs of state. In addition to providing insights into past policies and programmes, this collection also promotes a deeper understanding and appreciation of Singapore's history and how it has developed over the years.
-
-
-[\[5\]](#_ftnref5) The NAS database holds maps and building plans, the bulk of which were transferred from government bodies over the years. These maps, including topographic maps, survey maps, general maps, aviation maps and hydrographic charts, record the changing Singapore landscape throughout history. The building plans in the database are dated from before 1946 and are those of private properties.
-
-[\[6\]](#_ftnref6) The NL collection forms part of the valuable Rare Materials Collection. It contains topographic maps and navigational charts covering Singapore, Southeast Asia and Asia, as well as town plans and street maps of Singapore and Malaya. The majority of these maps were printed by European map-makers before 1945. These maps illustrate the development of European mapping of early Southeast Asia, as well as the history of the region.
+[^3]: *Infopedia* is an electronic encyclopaedia on Singapore published by the NLB. It holds a collection of articles on Singapore and covers a wide range of topics, including but not limited to historical events, arts, culture, economy, government and key personalities. The articles are written for the general reader with each article providing an overview of topic.
