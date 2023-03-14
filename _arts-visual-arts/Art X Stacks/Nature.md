@@ -80,3 +80,7 @@ When city-living becomes unbearable in our concrete jungle, perhaps all we need 
 [SoundscapeSG](https://www.nas.gov.sg/citizenarchivist/SoundScape/describe) aims to create a soundmap of Singapore through the crowdsourcing of sound recordings that are taken in natural settings, to preserve the unique and authentic sounds of Singapore. The collection also includes sounds from daily life, such as festivals and celebrations, arts and dialects. You can also contribute your recordings of sounds that you feel represent Singapore of the past.
 
 ###### [Back to top](#contents)
+
+---
+
+*This Resource Guide was compiled by Luke Chua, a Senior Librarian at the National Library, Singapore. The information in this guide is valid as of March 2023 and correct as far as we can ascertain from our sources. This list is not intended to be exhaustive or comprehensive. Please contact us at <ref@nlb.gov.sg> for more reading material on the topics.*

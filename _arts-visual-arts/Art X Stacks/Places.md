@@ -137,6 +137,10 @@ Read [an article on the National Day songs](https://eresources.nlb.gov.sg/music/
 
 ---
 
+*This Resource Guide was compiled by Luke Chua, a Senior Librarian at the National Library, Singapore. The information in this guide is valid as of March 2023 and correct as far as we can ascertain from our sources. This list is not intended to be exhaustive or comprehensive. Please contact us at <ref@nlb.gov.sg> for more reading material on the topics.*
+
+---
+
 [^5]: The NAS database holds maps and building plans, the bulk of which were transferred from government bodies over the years. These maps, including topographic maps, survey maps, general maps, aviation maps and hydrographic charts, record the changing Singapore landscape throughout history. The building plans in the database are dated from before 1946 and are those of private properties.
 
 [^6]: The NL collection forms part of the valuable Rare Materials Collection. It contains topographic maps and navigational charts covering Singapore, Southeast Asia and Asia, as well as town plans and street maps of Singapore and Malaya. The majority of these maps were printed by European map-makers before 1945. These maps illustrate the development of European mapping of early Southeast Asia, as well as the history of the region.

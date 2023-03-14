@@ -137,5 +137,8 @@ Migrant communities form an important part of societies around the world today. 
 
 ---
 
+*This Resource Guide was compiled by Luke Chua, a Senior Librarian at the National Library, Singapore. The information in this guide is valid as of March 2023 and correct as far as we can ascertain from our sources. This list is not intended to be exhaustive or comprehensive. Please contact us at <ref@nlb.gov.sg> for more reading material on the topics.*
+
+---
 
 [^4]: In NAS’ collection of government records, documents of national significance are preserved. Items in this collection were created or received by Government departments and institutions including statutory boards and organs of state. In addition to providing insights into past policies and programmes, this collection also promotes a deeper understanding and appreciation of Singapore's history and how it has developed over the years.

@@ -322,7 +322,7 @@ Read [an article on the National Day songs](https://eresources.nlb.gov.sg/music/
 
 * * *
 
-*This Resource Guide was compiled by Luke Chua, a Senior Librarian at the National Library, Singapore. The information in this guide is valid as of March 2023 and correct as far as we can ascertain from our sources. This list is not intended to be exhaustive or comprehensive. Please contact us at ref@nlb.gov.sg for more reading material on the topics.*
+*This Resource Guide was compiled by Luke Chua, a Senior Librarian at the National Library, Singapore. The information in this guide is valid as of March 2023 and correct as far as we can ascertain from our sources. This list is not intended to be exhaustive or comprehensive. Please contact us at <ref@nlb.gov.sg> for more reading material on the topics.*
 
 * * *
 
