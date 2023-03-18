@@ -2,7 +2,6 @@
 title: Launch
 permalink: /launch/
 description: ""
-published: false
 ---
 <center><img src="/images/launch-icons/Launch_Logo_RGB_Primary.png" style="width:500px"></center>
 
