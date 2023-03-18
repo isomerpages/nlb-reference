@@ -7,6 +7,12 @@ third_nav_title: Arts
 ---
 <img src="/images/category/visual-arts.jpg" alt="visual arts banner" style="width:800px;" />
 
+
+- **Art X Stacks**
+    - [**Introduction**](/guides/arts/visual-arts/artxstacks/)
+    - [**Nature**](/guides/arts/visual-arts/artxstacks/nature)
+    - [**Communities**](/guides/arts/visual-arts/artxstacks/communities)
+    - [**Places**](/guides/arts/visual-arts/artxstacks/places)
 - [**Art Movements**](/guides/arts/visual-arts/art-movements)
 - [**Nanyang Artists**](/guides/arts/visual-arts/nanyangartists)
 - [**Singapore Visual Arts on NORA**](/guides/arts/visual-arts/singapore-visual-arts-on-nora)

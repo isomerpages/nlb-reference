@@ -1,0 +1,47 @@
+collections:
+  launch-get-started:
+    output: true
+    order:
+      - Intro To Entrepreneurship/.keep
+      - Intro To Entrepreneurship/What is an Entrepreneur.md
+      - Intro To Entrepreneurship/Developing Your Entrepreneurial Skills.md
+      - Intro To Entrepreneurship/Different Types of Entrepreneurship.md
+      - Intro To Entrepreneurship/The Risks and Rewards of Entrepreneurship.md
+      - Intro To Entrepreneurship/How to make your home business a success.md
+      - Intro To Entrepreneurship/How to Become a Successful Entrepreneur.md
+      - Intro To Entrepreneurship/Advantages and Disadvantages of Being a Gig
+        Worker or Freelancer.md
+      - Intro To Entrepreneurship/Supporting the Wellbeing of Gig Workers and
+        Freelancers.md
+      - Ideation and Market Validation/.keep
+      - Ideation and Market Validation/Identifying and Evaluating a Business
+        Opportunity.md
+      - Ideation and Market Validation/Five Steps to Validate Your Business
+        Idea.md
+      - Ideation and Market Validation/Ten Ways to Get Customer Feedback.md
+      - Ideation and Market Validation/Lean Market Validation.md
+      - Ideation and Market Validation/Refine Your Business Strategy.md
+      - Business and Market Research/.keep
+      - Business and Market Research/Market Research Basics.md
+      - Business and Market Research/Market Research Methods.md
+      - Business and Market Research/Primary vs secondary market research.md
+      - Negotiating and Networking/.keep
+      - Negotiating and Networking/Elevator Pitch for Startups.md
+      - Negotiating and Networking/Basic Negotiation and Persuasion Strategies.md
+      - Negotiating and Networking/Communication and Presentation Skills in
+        Business.md
+      - Negotiating and Networking/Do's and Don'ts of Business Networking.md
+      - Protecting your Ideas/.keep
+      - Protecting your Ideas/What is Intellectual Property and How to Protect
+        it.md
+      - Protecting your Ideas/What is copyright and how to avoid copyright
+        infringement.md
+      - Branding and Marketing/.keep
+      - Branding and Marketing/Developing your brand strategy.md
+      - Branding and Marketing/Essentials of social media marketing.md
+      - Branding and Marketing/YouTube for business startups.md
+      - Branding and Marketing/Building and retaining customer loyalty.md
+      - Branding and Marketing/Social commerce.md
+      - Branding and Marketing/Mobile commerce.md
+      - Product Development/.keep
+      - Product Development/New Product Development.md
