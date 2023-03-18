@@ -21,9 +21,6 @@ sections:
       background: /images/hero-banner.jpg
       url: /getting-started/onesearch/
       key_highlights:
-        - title: Launch
-          description: Get started with entrepreneurship
-          url: /launch
         - title: Singapore & Southeast Asia
           description: Learn about Singapore and the Southeast Asia region
           url: /guides/singapore/people/
