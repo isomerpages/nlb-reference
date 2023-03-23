@@ -11,13 +11,13 @@ No matter what stage your business is at, we have the resources and tools to tak
 	<label for="specialist1"><b>Consult a Specialist</b></label>
 	<div class="launch-accordion-content">
         <img src="/images/launch-icons/Library-Onsite-01.png" style="width:200px">Need some assistance finding information or research for your business? Looking for information to decide whether or not to embark on a journey as an entrepreneur?<br>
-<br>Launch Specialists are available for consultations, to assist you with your business information research needs.<p></p>
+<br>Launch Specialists are available for consultation, to assist you with your business information needs.<p></p>
 				 <div class="launch-accordion">
 					 <input type="checkbox" id="specialist2">
 					 <label for="specialist2"><b>What we provide</b></label>
 					 <div class="launch-accordion-content">
 						 <li>Face-to-face consultation at a Launch site during office hours (at Punggol Regional Library)</li>
-             <li>Online consultation via video conference during office hours</li>
+             <li>Online consultation via video conferencing during office hours</li>
              <li>Access to NLB resources including print and digital materials, subscribed business databases</li>
              <li>Guidance and instructions on how to maximise the use of NLB resources</li>
 					 </div>
@@ -63,6 +63,22 @@ No matter what stage your business is at, we have the resources and tools to tak
 					 <div class="launch-accordion-content">
 						 <p><b>EIU Viewpoint</b> (previously Economist Intelligence Unit) provides insights into a country’s political, policy and economic outlook, and proprietary ratings on the business environment and risks. We provide forecasts of 5-years, up to 30-years into the future to help you understand what is happening now, and gain insight on how each country will look in the future. Viewpoint also provides industry analysis for six major industries as well as global commodity analysis.</p>
 						 <p>Discover EIU Viewpoint <a href="https://eresources.nlb.gov.sg/Main/browse/resource/1059">here</a>.</p>
+					 </div>
+				 </div>
+				 <div class="launch-accordion">
+					 <input type="checkbox" id="info5">
+					 <label for="info5"><b>Udemy Business</b></label>
+					 <div class="launch-accordion-content">
+						 <p><b>Udemy Business</b> is an online learning platform that offers thousands of courses on key soft skills and technical topics such as Software Development, Leadership, Marketing, Sales, Programming, IT, and more. Login with your myLibrary ID to sign up for online courses, all for free. Learn at your own time, and keep track of your personal learning journey.</p>
+						 <p>Discover Udemy Business <a href="https://eresources.nlb.gov.sg/Main/browse/resource/1361">here</a>.</p>
+					 </div>
+				 </div>
+				 <div class="launch-accordion">
+					 <input type="checkbox" id="info6">
+					 <label for="info6"><b>E-books on NLB Overdrive</b></label>
+					 <div class="launch-accordion-content">
+						 <p>A Business Library of e-books has been curated for professional and business development. Borrow e-books using your myLibrary account, and read them on-the-go with the Libby app. Set up a hold to reserve titles currently out on loan, and you will be notified when it is ready for you to borrow. E-books will be automatically returned after the loan period, so you never have to worry about overdue fines.</p>
+						 <p>Discover NLB's business e-books <a href="https://nlb.overdrive.com/library/biz">here</a>.</p>
 					 </div>
 				 </div>
 	</div>
