@@ -3,6 +3,8 @@ title: Success Stories
 permalink: /launch/stories/
 description: ""
 ---
+<img src="/images/launch-icons/teams-graybg.png" style="width:300px">
+
 # Success Stories and Company Profiles
 
 ### Contents:
