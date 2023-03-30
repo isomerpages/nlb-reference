@@ -29,7 +29,7 @@ Connect with the right resources, communities, networks and spaces!
 		<td>
 			<h3><b>Workshops & Programmes</b></h3>
 			<p>Keep an eye out for our free workshops, seminars and programmes</p>
-			<p>Discover <a href="https://go.gov.sg/xx"><b>our programmes</b></a> now!</p>
+			<p>Discover <a href="https://go.gov.sg/nlb-launch-programmes"><b>our programmes</b></a> now!</p>
 		</td>
 	</tr>
 	<tr><!--row 3-->
