@@ -6,7 +6,7 @@ description: ""
 # Business Kick-starter
 No matter what stage your business is at, we have the resources and tools to take it to the next level.
 
-<div class="launch-accordion"><!--accordion--> 
+<div class="launch-accordion"> 
     <input type="checkbox" id="specialist1">
 	<label for="specialist1"><b>Consult a Specialist</b></label>
 	<div class="launch-accordion-content">
@@ -32,11 +32,11 @@ No matter what stage your business is at, we have the resources and tools to tak
 					 </div>
 				 </div>
 	</div>
-</div><!--close accordion-->
+</div>
 
 <p></p>
 
-<div class="launch-accordion"><!--accordion--> 	
+<div class="launch-accordion"> 	
 	    <input type="checkbox" id="info1">
 	<label for="info1"><b>Digital Resources</b></label>
        <div class="launch-accordion-content">
@@ -82,17 +82,17 @@ No matter what stage your business is at, we have the resources and tools to tak
 					 </div>
 				 </div>
 	</div>
-</div><!--close accordion-->
+</div>
 
 <p></p>
 
-<div class="launch-accordion"><!--accordion--> 	
+<div class="launch-accordion"> 	
 	    <input type="checkbox" id="content1">
 	<label for="content1"><b>Short Articles and Quick Reads</b></label>
        <div class="launch-accordion-content">
 				 <img src="/images/launch-icons/Ebooks-01.png" style="width:200px">
 				 <p>Explore our library of helpful articles for tips and things to consider while running a successful business.</p>
-<div class="row is-multiline"><!--multiline start-->
+<div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox">
       <a href="/launch/getting-started/introduction/">
@@ -114,8 +114,8 @@ No matter what stage your business is at, we have the resources and tools to tak
       </a>
     </div>
   </div>
-</div><!--multiline end-->
-<div class="row is-multiline"><!--multiline start-->
+</div>
+<div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox">
       <a href="/launch/lists/contents/">
@@ -130,9 +130,9 @@ No matter what stage your business is at, we have the resources and tools to tak
       </a>
     </div>
   </div>
-</div><!--multiline end-->
+</div>
 	</div> 
-</div><!--close accordion-->
+</div>
 
 <p></p>
 
@@ -141,7 +141,7 @@ No matter what stage your business is at, we have the resources and tools to tak
 <img src="/images/launch-icons/Database-01.png" style="width:500px">
 
 ### Kick-start your business research:
-- Make an appointment with our Specialist here (link to FormSG)
-- Email us about your business research topics at [ref@nlb.gov.sg](mailto:ref@nlb.gov.sg?subject=Launch%20enquiry)
-- Visit us at any of our Launch sites, where curated information resources are available for browsing or loan:
-	 - Punggol Regional Library, Level 4
+- Make an appointment with our Specialist using this [online form](https://go.gov.sg/nlb-launch-consultation)
+- Email us about your business research topics at&nbsp;[ref@nlb.gov.sg](mailto:ref@nlb.gov.sg?subject=Launch%20enquiry)
+- Visit us at our Launch site, where curated information resources are available for browsing or loan:
+	 - Launch @ Punggol Regional Library, Level 4
