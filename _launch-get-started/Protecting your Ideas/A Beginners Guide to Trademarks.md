@@ -2,7 +2,7 @@
 title: A Beginners Guide to Trademarks
 permalink: /launch/getting-started/protect/beginners-trademarks/
 description: ""
-third_nav_title: Protecting your Ideas
+third_nav_title: Protecting Your Ideas
 ---
 # A Beginner’s Guide to Trademarks 
 
@@ -19,7 +19,7 @@ Trademarks should not be confused with copyright, brand name, etc. They refer sp
 Registering a trademark in a country will allow you its exclusive use for 10 years in that country. It can be further renewed indefinitely every 10 years, as long as it is in active use. Registering a trademark allows you to control its use. For instance, other competitors would be barred from using it, and similar trademarks would be prevented from being registered locally. Do note that the rights surrounding registered trademarks only apply to where it is registered and does not automatically extend to other countries. 
 
 ## Examples of trademarks
- 
+
 
 One example is the term “Frappucino”, which is widely associated with a type of drink from Starbucks. Starbucks registered this trademark and has the exclusive right to its use (as long as it is in active use). You may have noticed that many other cafes and restaurants (such as McDonalds and Coffee Bean &amp; Tea Leaf) sell similar beverages, but call them “frappes” instead, since the term is not a registered trademark. 
 

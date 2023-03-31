@@ -2,7 +2,7 @@
 title: How do I protect my idea for a product
 permalink: /launch/getting-started/protect/how-do-i-protect-my-idea/
 description: ""
-third_nav_title: Protecting your Ideas
+third_nav_title: Protecting Your Ideas
 ---
 # How do I protect my idea for a product?&nbsp;
 
@@ -11,28 +11,28 @@ You’ve just come up with a great idea for a product, one the market’s never 
 ## Here are four elements to consider:&nbsp;
 
 ### 1.  File a patent&nbsp;&nbsp;
-    
+
 
 In Singapore, when you register a patent for your invention with the Intellectual Property Office of Singapore (IPOS), you hold the exclusive right to use the patent. No one else can use that patent unless you give them permission. However, you will have to fulfil certain criteria to file a patent, and processing time could take two to four years. Once your patent is granted, it will be protected for 20 years from the date of filing.&nbsp;&nbsp;
 
 IPOS also offers acceleration programmes to speed up the patent grant process. One of these programmes is SG IP FAST ([https://www.ipos.gov.sg/about-ip/patents/how-to-register/acceleration-programmes](https://www.ipos.gov.sg/about-ip/patents/how-to-register/acceleration-programmes) ), which supports the acceleration of all patent applications in the fields of technology. Straightforward patent applications can be granted in as quickly as six months, with more complex applications taking at least nine months. Under this programme, there is a cap of 10 patent applications a month, and each entity is only allowed to submit two patent applications. The SG IP FAST programme has been extended to 30 April 2024.&nbsp;
 
 ### 2.  Non-disclosure agreement&nbsp;
-    
+
 
 Ask people working on the product to sign a non-disclosure agreement (NDA) that commits them to confidentiality. This means that they will not be legally allowed to share information about your product to third parties, hence protecting your idea from being leaked.&nbsp;
 
 There are two main types of NDAs: mutual and unilateral. With a mutual NDA, both parties agree not to share the other’s information. A mutual NDA is used when there is an exchange of confidential information between parties. A unilateral NDA is one where only one party agrees not to share confidential information. A unilateral NDA is more common between employers and employees. If an NDA is breached, legal action can be taken, and you can demand compensation for the losses suffered.&nbsp;&nbsp;
 
 ### 3.  Trademark your product’s name&nbsp;
-    
+
 
 Products are often identified by their names, so it may be worth applying for a trademark early on. With a registered trademark, your status of ownership over your idea and product will be more greatly solidified.&nbsp;
 
 Trademark applications can also be filed with IPOS. Before registering your trademark, check with the [IPOS Register](https://digitalhub.ipos.gov.sg/FAMN/process/IP4SG/MN_Index) for similar or identical trademarks that may have been previously filed. If similar or identical trademarks already exist, your application may face an objection. To register for a trademark, file the TM4 application form with the prescribed fee on the [IPOS website](https://www.ipos.gov.sg/about-ip/trade-marks/managing-trade-marks/forms-fees).&nbsp;
 
 ### 4.  Know who you can trust&nbsp;&nbsp;
-    
+
 
 Even with all the legalities in place, it is still important to do your own due diligence when it comes to your employees or business partners. Before working with anyone new, do a quick background check online to see if there is any cause for concern. When sharing your ideas with potential hires or investors, give out only essential information.&nbsp;
 
