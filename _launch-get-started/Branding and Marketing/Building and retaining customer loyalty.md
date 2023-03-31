@@ -4,8 +4,8 @@ permalink: /launch/getting-started/branding/customer-loyalty/
 description: "Customer loyalty describes an ongoing positive relationship
   between a business and a customer. Customer loyalty is a measure of how likely
   a customer will remain with a company’s products or services even when there
-  are competing alternatives.  "
-third_nav_title: Branding & Marketing
+  are competing alternatives."
+third_nav_title: Branding and Marketing
 ---
 
 # Building and Retaining Customer Loyalty 
