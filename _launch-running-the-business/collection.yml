@@ -2,12 +2,13 @@ collections:
   launch-running-the-business:
     output: true
     order:
-      - Developing a Business Plan/An overview of business models.md
       - Developing a Business Plan/.keep
+      - Developing a Business Plan/An overview of business models.md
       - Developing a Business Plan/What is a Business Plan.md
       - Developing a Business Plan/How to Write a Good Business Plan.md
       - Developing a Business Plan/Brick and mortar vs ecommerce or
         omnichannel.md
+      - Developing a Business Plan/Types of ecommerce business models.md
       - Developing a Business Plan/Common mistakes in business plans.md
       - Developing a Business Plan/Pricing Models for Business.md
       - All Things Financial and Legal/.keep
@@ -20,6 +21,7 @@ collections:
       - Launch and Stay on Course/Building a successful startup team.md
       - Launch and Stay on Course/Leadership skills for team success.md
       - Launch and Stay on Course/Creating a strong team culture.md
+      - Launch and Stay on Course/8 Tips for a positive work culture.md
       - Launch and Stay on Course/How to recruit more diverse talent.md
       - Launch and Stay on Course/How to keep your employees motivated.md
       - Launch and Stay on Course/Using disruptive technology to boost your
