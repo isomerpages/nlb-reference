@@ -2,6 +2,7 @@ collections:
   launch-running-the-business:
     output: true
     order:
+      - Developing a Business Plan/An overview of business models.md
       - Developing a Business Plan/.keep
       - Developing a Business Plan/What is a Business Plan.md
       - Developing a Business Plan/How to Write a Good Business Plan.md
