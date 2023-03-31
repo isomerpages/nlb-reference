@@ -21,7 +21,7 @@ Registering a trademark in a country will allow you its exclusive use for 10 yea
 ## Examples of trademarks
  
 
-One example is the term “Frappucino”, which is widely associated with a type of drink from Starbucks. Starbucks registered this trademark and has the exclusive right to its use (as long as it is in active use). You may have noticed that many other cafes and restaurants (such as McDonalds and Coffee Bean & Tea Leaf) sell similar beverages, but call them “frappes” instead, since the term is not a registered trademark. 
+One example is the term “Frappucino”, which is widely associated with a type of drink from Starbucks. Starbucks registered this trademark and has the exclusive right to its use (as long as it is in active use). You may have noticed that many other cafes and restaurants (such as McDonalds and Coffee Bean &amp; Tea Leaf) sell similar beverages, but call them “frappes” instead, since the term is not a registered trademark. 
 
  
 
@@ -47,14 +47,12 @@ In Singapore, trademarks are registered with the Intellectual Property Office of
 
  
 
-Government of Singapore. “IPOS | Trade Marks”. Intellectual Property Office of Singapore. Accessed 2 June 2022, https://www.ipos.gov.sg/about-ip/trade-marks  
+Government of Singapore. “IPOS | Trade Marks”. Intellectual Property Office of Singapore. Accessed 2 June 2022, 
 
  
 
-Milstead, Ember. “Trademarks: How Starbucks Claimed the Frappuccino”. The Law of the Land. Published 7 February 2020, https://sites.psu.edu/emberpassion/2020/02/07/trademarks-how-starbucks-claimed-the-frappuccino/  
+Milstead, Ember. “Trademarks: How Starbucks Claimed the Frappuccino”. The Law of the Land. Published 7 February 2020,   
 
  
 
-Tardi, Carla. “Trademark”. Investopedia. Updated 23 March 2022, https://www.investopedia.com/terms/t/trademark.asp  
-
- 
+Tardi, Carla. “Trademark”. Investopedia. Updated 23 March 2022, 
