@@ -1,9 +1,9 @@
 ---
 title: Business Kickstarter
 permalink: /launch/biz-kickstarter/
-description: ""
+description: "No matter what stage your business is at, we have the resources and tools to take it to the next level"
 ---
-# Business Kick-starter
+# Business Kickstarter
 No matter what stage your business is at, we have the resources and tools to take it to the next level.
 
 <div class="launch-accordion"> 
@@ -95,7 +95,7 @@ No matter what stage your business is at, we have the resources and tools to tak
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox">
-      <a href="/launch/getting-started/introduction/">
+      <a href="/launch/getting-started/entrepreneurship/">
         <span>Getting Started</span>
       </a>
     </div>
@@ -109,7 +109,7 @@ No matter what stage your business is at, we have the resources and tools to tak
   </div>
    <div class="col is-one-third">
 		     <div class="clickbox">
-      <a href="/launch/resource-guides/contents/">
+      <a href="/launch/resource-guides/">
         <span>Resource Guides</span>
       </a>
     </div>
@@ -118,21 +118,22 @@ No matter what stage your business is at, we have the resources and tools to tak
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox">
-      <a href="/launch/lists/contents/">
-        <span>Useful Lists</span>
+      <a href="/launch/stories/">
+        <span>Success Stories</span>
       </a>
     </div>
   </div>
   <div class="col is-one-third">
     <div class="clickbox">
-      <a href="/launch/stories/contents/">
-        <span>Success Stories</span>
+      <a href="/launch/lists/">
+        <span>Useful Lists</span>
       </a>
     </div>
   </div>
 </div>
 	</div> 
 </div>
+
 
 <p></p>
 
