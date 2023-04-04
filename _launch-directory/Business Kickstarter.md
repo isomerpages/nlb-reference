@@ -1,24 +1,23 @@
 ---
 title: Business Kickstarter
 permalink: /launch/biz-kickstarter/
-description: ""
-published: false
+description: "No matter what stage your business is at, we have the resources and tools to take it to the next level"
 ---
-# Business Kick-starter
+# Business Kickstarter
 No matter what stage your business is at, we have the resources and tools to take it to the next level.
 
-<div class="launch-accordion"><!--accordion--> 
+<div class="launch-accordion"> 
     <input type="checkbox" id="specialist1">
 	<label for="specialist1"><b>Consult a Specialist</b></label>
 	<div class="launch-accordion-content">
         <img src="/images/launch-icons/Library-Onsite-01.png" style="width:200px">Need some assistance finding information or research for your business? Looking for information to decide whether or not to embark on a journey as an entrepreneur?<br>
-<br>Launch Specialists are available for consultations, to assist you with your business information research needs.<p></p>
+<br>Launch Specialists are available for consultation, to assist you with your business information needs.<p></p>
 				 <div class="launch-accordion">
 					 <input type="checkbox" id="specialist2">
 					 <label for="specialist2"><b>What we provide</b></label>
 					 <div class="launch-accordion-content">
 						 <li>Face-to-face consultation at a Launch site during office hours (at Punggol Regional Library)</li>
-             <li>Online consultation via video conference during office hours</li>
+             <li>Online consultation via video conferencing during office hours</li>
              <li>Access to NLB resources including print and digital materials, subscribed business databases</li>
              <li>Guidance and instructions on how to maximise the use of NLB resources</li>
 					 </div>
@@ -33,11 +32,11 @@ No matter what stage your business is at, we have the resources and tools to tak
 					 </div>
 				 </div>
 	</div>
-</div><!--close accordion-->
+</div>
 
 <p></p>
 
-<div class="launch-accordion"><!--accordion--> 	
+<div class="launch-accordion"> 	
 	    <input type="checkbox" id="info1">
 	<label for="info1"><b>Digital Resources</b></label>
        <div class="launch-accordion-content">
@@ -66,21 +65,37 @@ No matter what stage your business is at, we have the resources and tools to tak
 						 <p>Discover EIU Viewpoint <a href="https://eresources.nlb.gov.sg/Main/browse/resource/1059">here</a>.</p>
 					 </div>
 				 </div>
+				 <div class="launch-accordion">
+					 <input type="checkbox" id="info5">
+					 <label for="info5"><b>Udemy Business</b></label>
+					 <div class="launch-accordion-content">
+						 <p><b>Udemy Business</b> is an online learning platform that offers thousands of courses on key soft skills and technical topics such as Software Development, Leadership, Marketing, Sales, Programming, IT, and more. Login with your myLibrary ID to sign up for online courses, all for free. Learn at your own time, and keep track of your personal learning journey.</p>
+						 <p>Discover Udemy Business <a href="https://eresources.nlb.gov.sg/Main/browse/resource/1361">here</a>.</p>
+					 </div>
+				 </div>
+				 <div class="launch-accordion">
+					 <input type="checkbox" id="info6">
+					 <label for="info6"><b>E-books on NLB Overdrive</b></label>
+					 <div class="launch-accordion-content">
+						 <p>A Business Library of e-books has been curated for professional and business development. Borrow e-books using your myLibrary account, and read them on-the-go with the Libby app. Set up a hold to reserve titles currently out on loan, and you will be notified when it is ready for you to borrow. E-books will be automatically returned after the loan period, so you never have to worry about overdue fines.</p>
+						 <p>Discover NLB's business e-books <a href="https://nlb.overdrive.com/library/biz">here</a>.</p>
+					 </div>
+				 </div>
 	</div>
-</div><!--close accordion-->
+</div>
 
 <p></p>
 
-<div class="launch-accordion"><!--accordion--> 	
+<div class="launch-accordion"> 	
 	    <input type="checkbox" id="content1">
 	<label for="content1"><b>Short Articles and Quick Reads</b></label>
        <div class="launch-accordion-content">
 				 <img src="/images/launch-icons/Ebooks-01.png" style="width:200px">
 				 <p>Explore our library of helpful articles for tips and things to consider while running a successful business.</p>
-<div class="row is-multiline"><!--multiline start-->
+<div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox">
-      <a href="/launch/getting-started/introduction/">
+      <a href="/launch/getting-started/entrepreneurship/">
         <span>Getting Started</span>
       </a>
     </div>
@@ -94,30 +109,31 @@ No matter what stage your business is at, we have the resources and tools to tak
   </div>
    <div class="col is-one-third">
 		     <div class="clickbox">
-      <a href="/launch/resource-guides/contents/">
+      <a href="/launch/resource-guides/">
         <span>Resource Guides</span>
       </a>
     </div>
   </div>
-</div><!--multiline end-->
-<div class="row is-multiline"><!--multiline start-->
+</div>
+<div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox">
-      <a href="/launch/lists/contents/">
-        <span>Useful Lists</span>
-      </a>
-    </div>
-  </div>
-  <div class="col is-one-third">
-    <div class="clickbox">
-      <a href="/launch/stories/contents/">
+      <a href="/launch/stories/">
         <span>Success Stories</span>
       </a>
     </div>
   </div>
-</div><!--multiline end-->
+  <div class="col is-one-third">
+    <div class="clickbox">
+      <a href="/launch/lists/">
+        <span>Useful Lists</span>
+      </a>
+    </div>
+  </div>
+</div>
 	</div> 
-</div><!--close accordion-->
+</div>
+
 
 <p></p>
 
@@ -126,7 +142,7 @@ No matter what stage your business is at, we have the resources and tools to tak
 <img src="/images/launch-icons/Database-01.png" style="width:500px">
 
 ### Kick-start your business research:
-- Make an appointment with our Specialist here (link to FormSG)
-- Email us about your business research topics at [ref@nlb.gov.sg](mailto:ref@nlb.gov.sg?subject=Launch%20enquiry)
-- Visit us at any of our Launch sites, where curated information resources are available for browsing or loan:
-	 - Punggol Regional Library, Level 4
+- Make an appointment with our Specialist using this [online form](https://go.gov.sg/nlb-launch-consultation)
+- Email us about your business research topics at&nbsp;[ref@nlb.gov.sg](mailto:ref@nlb.gov.sg?subject=Launch%20enquiry)
+- Visit us at our Launch site, where curated information resources are available for browsing or loan:
+	 - Launch @ Punggol Regional Library, Level 4

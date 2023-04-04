@@ -1,5 +1,5 @@
 ---
-title: What is Intellectual Property and How to Protect it
+title: What is Intellectual Property and how to protect it
 permalink: /launch/getting-started/protect/what-is-ip-how-to-protect/
 description: "Intellectual property (IP) refers to creations of the mind such as
   inventions, literary and artistic works, designs or brands. Why is protecting
@@ -8,7 +8,6 @@ description: "Intellectual property (IP) refers to creations of the mind such as
   competitive advantage to profit and grow. IP can be protected by law."
 third_nav_title: Protecting Your Ideas
 ---
-
 # What is Intellectual Property and How to Protect it? 
 
  
@@ -43,7 +42,7 @@ A patent grants you exclusive rights to your new, original and useful invention.
 
  
 
-Apply for a patent here: <https://www.ipos.gov.sg/protect-ip/apply-for-a-patent>
+Apply for a patent here: 
 
  
 
@@ -53,7 +52,7 @@ A trademark identifies the origins of goods or services and distinguishes them f
 
  
 
-Apply to register a trademark here: <https://www.ipos.gov.sg/protect-ip/apply-for-a-trade-mark>
+Apply to register a trademark here: 
 
  
 
@@ -63,35 +62,35 @@ A copyright protects the original creative expression of ideas in tangible forms
 
  
 
-Find out more on copyright here: <https://www.ipos.gov.sg/about-ip/copyright>
+Find out more on copyright here: 
 
 
 ## References 
 
  
 
-Intellectual Property Office of Singapore. “About IP.” Accessed June 15, 2021. <https://www.ipos.gov.sg/about-ip>  
+Intellectual Property Office of Singapore. “About IP.” Accessed June 15, 2021.   
 
  
 
-Intellectual Property Office of Singapore. “Copyright.” Accessed June 15, 2021. <https://www.ipos.gov.sg/about-ip/copyright>  
+Intellectual Property Office of Singapore. “Copyright.” Accessed June 15, 2021.   
 
  
 
-Intellectual Property Office of Singapore. “Design.” Accessed June 15, 2021. <https://www.ipos.gov.sg/about-ip/design>  
+Intellectual Property Office of Singapore. “Design.” Accessed June 15, 2021.   
 
  
 
-Intellectual Property Office of Singapore. “Patent.” Accessed June 15, 2021. <https://www.ipos.gov.sg/about-ip/patent>  
+Intellectual Property Office of Singapore. “Patent.” Accessed June 15, 2021.   
 
  
 
-Intellectual Property Office of Singapore. “Trade Mark.” Accessed June 15, 2021. <https://www.ipos.gov.sg/about-ip/trade-mark>
+Intellectual Property Office of Singapore. “Trade Mark.” Accessed June 15, 2021. 
 
  
 
-Traylor, Adelee. E. (2019, November 25). “Intellectual Property 101: What is It and Why Should You Protect It?” <https://www.bizjournals.com/nashville/news/2019/11/25/intellectual-property-101-what-is-it-and-why.html>
+Traylor, Adelee. E. (2019, November 25). “Intellectual Property 101: What is It and Why Should You Protect It?” 
 
  
 
-World Intellectual Property Organization. (2020). “What is Intellectual Property?” <https://www.wipo.int/edocs/pubdocs/en/wipo_pub_450_2020.pdf>
+World Intellectual Property Organization. (2020). “What is Intellectual Property?”

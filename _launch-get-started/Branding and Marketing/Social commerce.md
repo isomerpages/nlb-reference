@@ -6,7 +6,7 @@ description: "Social commerce allows consumers to buy products or services
   product discovery to the check-out process and after-sales support, takes
   place on the platform. Social commerce is a great way to grow your brand and
   drive your sales and revenue. "
-third_nav_title: Branding & Marketing
+third_nav_title: Branding and Marketing
 ---
 
 # Social Commerce 

@@ -5,7 +5,7 @@ description: Social media marketing uses social media platforms, such as
   Facebook, Instagram and Twitter, to promote products or services directly to
   customers. It is a powerful tool that can help brands and businesses reach and
   connect with their desired audiences.
-third_nav_title: Branding & Marketing
+third_nav_title: Branding and Marketing
 ---
 
 # Essentials of Social Media Marketing 
