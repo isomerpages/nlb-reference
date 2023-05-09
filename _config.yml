@@ -50,8 +50,8 @@ description: Reference@NLB is an information repository containing resource
   online materials deal with general topics on Singapore & Southeast Asia, Arts,
   Business, Science & Technology, and Social Science & Humanities.
 is_government: true
-staging: https://nlb-reference-staging.netlify.app
-prod: https://nlb-reference-prod.netlify.app
+staging: https://staging.d158tppe5us2.amplifyapp.com/
+prod: https://master.d158tppe5us2.amplifyapp.com/
 plugins:
   - jekyll-feed
   - jekyll-assets
