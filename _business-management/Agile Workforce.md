@@ -1,6 +1,6 @@
 ---
 title: Agile Workforce
-permalink: /guides/business/management/agile-workforce
+permalink: /guides/business/management/agile-workforce/
 description: Agile Workforce
 ---
 # Agile Workforce

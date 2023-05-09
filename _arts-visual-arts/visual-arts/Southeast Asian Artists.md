@@ -1,6 +1,6 @@
 ---
 title: Southeast Asian Artists
-permalink: /guides/arts/visual-arts/sea-artists
+permalink: /guides/arts/visual-arts/sea-artists/
 description: ""
 third_nav_title: Visual Arts
 ---

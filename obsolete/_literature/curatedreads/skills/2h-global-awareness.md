@@ -1,6 +1,6 @@
 ---
 title: Global Awareness
-permalink: /literature/curatedreads/values/global-awareness
+permalink: /literature/curatedreads/values/global-awareness/
 breadcrumb: Curated Reads - Global Awareness
 collection_name: literature
 third_nav_title: Skills

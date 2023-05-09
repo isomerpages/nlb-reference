@@ -1,6 +1,6 @@
 ---
 title: Linguistics
-permalink: /guides/socscihum/humanities/linguistics
+permalink: /guides/socscihum/humanities/linguistics/
 breadcrumb: Linguistics
 collection_name: social-sciences-humanities-humanities
 published: true

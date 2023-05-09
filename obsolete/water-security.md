@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Water Security
-permalink: /guides/budget2017/water-security
+permalink: /guides/budget2017/water-security/
 breadcrumb: Water security
 third_nav_title: Singapore
 published: false

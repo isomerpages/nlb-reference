@@ -1,6 +1,6 @@
 ---
 title: Integrity
-permalink: /literature/curatedreads/values/integrity
+permalink: /literature/curatedreads/values/integrity/
 breadcrumb: Curated Reads - Integrity
 collection_name: literature
 third_nav_title: Values

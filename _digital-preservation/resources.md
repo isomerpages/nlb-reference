@@ -1,6 +1,6 @@
 ---
 title: Resources
-permalink: /guides/digital-preservation/main/resources
+permalink: /guides/digital-preservation/main/resources/
 collection_name: digital-preservation
 ---
 <img src="/images/digital-preservation/Digital-preservation-resources-banner.jpg" alt="digital preservation banner" style="width:800px;" />

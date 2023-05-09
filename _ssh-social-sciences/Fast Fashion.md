@@ -1,6 +1,6 @@
 ---
 title: Fast Fashion
-permalink: /guides/socscihum/soc-sci/fast-fashion
+permalink: /guides/socscihum/soc-sci/fast-fashion/
 ---
 
 ## Fast Fashion

@@ -1,6 +1,6 @@
 ---
 title: Development of Education in Singapore
-permalink: /guides/singapore/history/development-education-sg
+permalink: /guides/singapore/history/development-education-sg/
 breadcrumb: Development of Education in Singapore
 collection_name: singapore-history
 published: true

@@ -1,6 +1,6 @@
 ---
 title: Jason Lai
-permalink: /literature/prominentspeakers/speaker-jason-lai
+permalink: /literature/prominentspeakers/speaker-jason-lai/
 breadcrumb: NL Prominent Speaker Series Jason Lai
 collection_name: literature
 third_nav_title: Speakers

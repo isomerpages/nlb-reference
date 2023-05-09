@@ -1,6 +1,6 @@
 ---
 title: Food Logistics and Safety
-permalink: /guides/business/global-economy/food-logistics-safety
+permalink: /guides/business/global-economy/food-logistics-safety/
 description: ""
 ---
 This resource guide was created as part of a learning package on The Global Economy. For other related resource guides, please head to this directory of [Learning Packages](/guides/learning-packages-directory).

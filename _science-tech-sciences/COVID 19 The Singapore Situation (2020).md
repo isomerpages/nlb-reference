@@ -1,6 +1,6 @@
 ---
 title: COVID 19 The Singapore Situation (2020)
-permalink: /guides/sci-tech/sciences/covid-19-sg-situation
+permalink: /guides/sci-tech/sciences/covid-19-sg-situation/
 description: ""
 ---
 

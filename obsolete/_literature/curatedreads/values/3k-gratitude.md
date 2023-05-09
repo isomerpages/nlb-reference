@@ -1,6 +1,6 @@
 ---
 title: Gratitude
-permalink: /literature/curatedreads/values/gratitude
+permalink: /literature/curatedreads/values/gratitude/
 breadcrumb: Curated Reads - Gratitude
 collection_name: literature
 third_nav_title: Values

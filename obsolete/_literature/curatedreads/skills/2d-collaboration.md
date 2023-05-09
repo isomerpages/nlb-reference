@@ -1,6 +1,6 @@
 ---
 title: Collaboration
-permalink: /literature/curatedreads/values/collaboration
+permalink: /literature/curatedreads/values/collaboration/
 breadcrumb: Curated Reads - Collaboration
 collection_name: literature
 third_nav_title: Skills

@@ -1,6 +1,6 @@
 ---
 title: Leong Yoon Pin
-permalink: /arts/performingarts/leong-yoon-pin
+permalink: /arts/performingarts/leong-yoon-pin/
 breadcrumb: Leong Yoon Pin
 collection_name: arts
 third_nav_title: Performing Arts

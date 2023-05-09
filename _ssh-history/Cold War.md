@@ -1,6 +1,6 @@
 ---
 title: Cold War
-permalink: /guides/socscihum/history/cold-war
+permalink: /guides/socscihum/history/cold-war/
 breadcrumb: Cold War
 collection_name: social-sciences-humanities-history
 ---

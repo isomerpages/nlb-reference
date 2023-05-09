@@ -1,6 +1,6 @@
 ---
 title: Occupational Safety and Health Resource Guide
-permalink: /guides/sci-tech/tech/occupational-safety-health
+permalink: /guides/sci-tech/tech/occupational-safety-health/
 breadcrumb: Occupational Safety and Health Resource Guide
 collection_name: science-technology-technology
 published: true

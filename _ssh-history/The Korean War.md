@@ -1,6 +1,6 @@
 ---
 title: The Korean War
-permalink: /guides/socscihum/history/korean-war
+permalink: /guides/socscihum/history/korean-war/
 breadcrumb: The Korean War
 collection_name: social-sciences-humanities-history
 ---

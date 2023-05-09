@@ -1,6 +1,6 @@
 ---
 title: 100 Seminal Books on Social Services
-permalink: /guides/socscihum/soc-sci/seminal/social-services
+permalink: /guides/socscihum/soc-sci/seminal/social-services/
 breadcrumb: 100 Seminal Books on Social Services
 third_nav_title: 100 Seminal Books
 collection_name: social-sciences-humanities-social-sciences

@@ -1,6 +1,6 @@
 ---
 title: Journey into the mind of a top scientist
-permalink: /literature/fourconversations/journey-into-the-mind-of-a-top-scientist
+permalink: /literature/fourconversations/journey-into-the-mind-of-a-top-scientist/
 breadcrumb: Four Conversations - Journey into the mind of a top scientist
 collection_name: literature
 third_nav_title: Four Conversations

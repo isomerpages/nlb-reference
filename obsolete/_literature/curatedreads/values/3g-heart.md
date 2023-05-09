@@ -1,6 +1,6 @@
 ---
 title: Heart
-permalink: /literature/curatedreads/values/heart
+permalink: /literature/curatedreads/values/heart/
 breadcrumb: Curated Reads - Heart
 collection_name: literature
 third_nav_title: Values

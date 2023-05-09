@@ -1,6 +1,6 @@
 ---
 title: Supply Chains in a Globalised World
-permalink: /guides/business/global-economy/supply-chains
+permalink: /guides/business/global-economy/supply-chains/
 description: ""
 ---
 This resource guide was created as part of a learning package on The Global Economy. For other related resource guides, please head to this directory of [Learning Packages](/guides/learning-packages-directory).

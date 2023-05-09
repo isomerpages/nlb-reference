@@ -1,6 +1,6 @@
 ---
 title: Prose and Miscellaneous Writing (Chinese)
-permalink: /guides/arts/lit-arts/biblio-sg-chinese/prose
+permalink: /guides/arts/lit-arts/biblio-sg-chinese/prose/
 breadcrumb: Bibliography of Singapore Chinese Literature - Prose and Miscellaneous Writing
 collection_name: arts-lit-arts
 third_nav_title: Bibliography Of Singapore Chinese Literature

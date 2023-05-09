@@ -1,6 +1,6 @@
 ---
 title: Creativity as an essential skill for future-readiness
-permalink: /literature/fourconversations/creativity-as-an-essential-skill-for-future-readiness
+permalink: /literature/fourconversations/creativity-as-an-essential-skill-for-future-readiness/
 breadcrumb: Four Conversations - Creativity as an essential skill
 collection_name: literature
 third_nav_title: Four Conversations

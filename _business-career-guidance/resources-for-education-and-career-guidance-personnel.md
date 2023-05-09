@@ -1,6 +1,6 @@
 ---
 title: Resources for Education and Career Guidance Personnel
-permalink: /guides/business/career-guidance/resources-for-education-and-career-guidance-personnel
+permalink: /guides/business/career-guidance/resources-for-education-and-career-guidance-personnel/
 breadcrumb: Resources for Education and Career Guidance Personnel
 collection_name: business-career-guidance
 published: true

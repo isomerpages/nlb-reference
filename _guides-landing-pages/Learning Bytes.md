@@ -1,6 +1,6 @@
 ---
 title: Learning Bytes
-permalink: /guides/learning-bytes-directory
+permalink: /guides/learning-bytes-directory/
 description: Learning Bytes
 ---
 # Learning Bytes

@@ -1,6 +1,6 @@
 ---
 title: Purpose
-permalink: /literature/curatedreads/values/purpose
+permalink: /literature/curatedreads/values/purpose/
 breadcrumb: Curated Reads - Purpose
 collection_name: literature
 third_nav_title: Values

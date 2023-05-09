@@ -1,6 +1,6 @@
 ---
 title: Leong Yoon Pin
-permalink: /guides/singapore/people/leong-yoon-pin
+permalink: /guides/singapore/people/leong-yoon-pin/
 breadcrumb: Leong Yoon Pin
 collection_name: singapore-people
 third_nav_title: I to S

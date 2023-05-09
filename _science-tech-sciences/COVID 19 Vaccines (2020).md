@@ -1,6 +1,6 @@
 ---
 title: COVID 19 Vaccines (2020)
-permalink: /guides/sci-tech/sciences/covid-19-vaccines
+permalink: /guides/sci-tech/sciences/covid-19-vaccines/
 description: ""
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Caring for your digital collections
-permalink: /guides/digital-preservation/main/caring-digital
+permalink: /guides/digital-preservation/main/caring-digital/
 collection_name: digital-preservation
 ---
 Below is an infographic which summarises the key steps you can take in your own digital preservation journey. You can also refer to the more detailed guide under the infographic.

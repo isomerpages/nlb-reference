@@ -1,6 +1,6 @@
 ---
 title: Curiousity Quotient
-permalink: /literature/curatedreads/quotients/curiocsity-quotient
+permalink: /literature/curatedreads/quotients/curiocsity-quotient/
 breadcrumb: Curated Reads - Curiosity Quotient
 collection_name: literature
 third_nav_title: Quotients

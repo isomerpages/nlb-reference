@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Supporting Families
-permalink: /guides/budget2017/supporting-families
+permalink: /guides/budget2017/supporting-families/
 ---
 
 ### <u>Guide Index</u>

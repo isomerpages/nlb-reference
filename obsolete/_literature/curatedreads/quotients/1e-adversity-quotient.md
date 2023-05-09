@@ -1,6 +1,6 @@
 ---
 title: Adversity Quotient
-permalink: /literature/curatedreads/quotients/adversity-quotient
+permalink: /literature/curatedreads/quotients/adversity-quotient/
 breadcrumb: Curated Reads - Adversity Quotient
 collection_name: literature
 third_nav_title: Quotients

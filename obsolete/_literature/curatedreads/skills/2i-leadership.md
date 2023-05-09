@@ -1,6 +1,6 @@
 ---
 title: Leadership
-permalink: /literature/curatedreads/values/leadership
+permalink: /literature/curatedreads/values/leadership/
 breadcrumb: Curated Reads - Leadership
 collection_name: literature
 third_nav_title: Skills

@@ -1,6 +1,6 @@
 ---
 title: 2021- Dear Future- What Digital Preservation Means for You
-permalink: /guides/digital-preservation/main/dear-future-2021
+permalink: /guides/digital-preservation/main/dear-future-2021/
 collection_name: digital-preservation
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Post-Independence SEA
-permalink: /guides/singapore/history/post-independence-SEA
+permalink: /guides/singapore/history/post-independence-sea/
 ---
 ## Post-Independence SEA
 

@@ -1,6 +1,6 @@
 ---
 title: Critical Thinking
-permalink: /literature/curatedreads/values/critical-thinking
+permalink: /literature/curatedreads/values/critical-thinking/
 breadcrumb: Curated Reads - Critical Thinking
 collection_name: literature
 third_nav_title: Skills

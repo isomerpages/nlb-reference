@@ -1,6 +1,6 @@
 ---
 title: Virtual Sports and Fitness
-permalink: /guides/socscihum/soc-sci/virtual-sports
+permalink: /guides/socscihum/soc-sci/virtual-sports/
 description: ""
 ---
 This resource guide was created as part of a learning package on A New Normal. For other related resource guides, please head to this directory of [Learning Packages](/guides/learning-packages-directory).

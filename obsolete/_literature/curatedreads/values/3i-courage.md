@@ -1,6 +1,6 @@
 ---
 title: Courage
-permalink: /literature/curatedreads/values/courage
+permalink: /literature/curatedreads/values/courage/
 breadcrumb: Curated Reads - Courage
 collection_name: literature
 third_nav_title: Values
