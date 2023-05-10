@@ -1,6 +1,6 @@
 ---
 title: The Cuban Missile Crisis
-permalink: /guides/socscihum/history/cuban-missile-crisis
+permalink: /guides/socscihum/history/cuban-missile-crisis/
 breadcrumb: The Cuban Missile Crisis
 collection_name: social-sciences-humanities-history
 ---

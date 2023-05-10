@@ -1,6 +1,6 @@
 ---
 title: Sustainable Fashion
-permalink: /guides/sci-tech/sustainability/sustainablefashion
+permalink: /guides/sci-tech/sustainability/sustainablefashion/
 ---
 Four Conversations is an annual signature programme by the National Library where thought leaders share new possibilities for the future, while inspiring lifelong learning and the creation of new knowledge.
 

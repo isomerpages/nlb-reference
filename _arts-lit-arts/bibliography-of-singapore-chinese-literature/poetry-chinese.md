@@ -1,6 +1,6 @@
 ---
 title: Poetry (Chinese)
-permalink: /guides/arts/lit-arts/biblio-sg-chinese/poetry
+permalink: /guides/arts/lit-arts/biblio-sg-chinese/poetry/
 breadcrumb: Bibliography of Singapore Chinese Literature - Poetry
 collection_name: arts-lit-arts
 third_nav_title: Bibliography Of Singapore Chinese Literature

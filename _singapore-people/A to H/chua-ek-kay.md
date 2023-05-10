@@ -1,6 +1,6 @@
 ---
 title: Chua Ek Kay
-permalink: /guides/singapore/people/chua-ek-kay
+permalink: /guides/singapore/people/chua-ek-kay/
 breadcrumb: Chua Ek Kay
 collection_name: singapore-people
 third_nav_title: A to H

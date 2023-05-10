@@ -1,6 +1,6 @@
 ---
 title: Poems (Tamil)
-permalink: /guides/arts/lit-arts/biblio-sg-tamil/poems
+permalink: /guides/arts/lit-arts/biblio-sg-tamil/poems/
 breadcrumb: Bibliography of Singapore Tamil Literature - Poems
 collection_name: arts-lit-arts
 third_nav_title: Bibliography Of Singapore Tamil Literature

@@ -1,6 +1,6 @@
 ---
 title: Sports in the Civic District
-permalink: /guides/singapore/places/sports-civic-district
+permalink: /guides/singapore/places/sports-civic-district/
 description: ""
 third_nav_title: Curiocity Showcase 2022
 ---

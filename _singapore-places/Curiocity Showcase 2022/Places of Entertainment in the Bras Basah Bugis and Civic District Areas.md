@@ -1,6 +1,6 @@
 ---
 title: Places of Entertainment in the Bras Basah Bugis and Civic District Areas
-permalink: /guides/singapore/places/entertainment-bras-basah
+permalink: /guides/singapore/places/entertainment-bras-basah/
 description: ""
 third_nav_title: Curiocity Showcase 2022
 ---

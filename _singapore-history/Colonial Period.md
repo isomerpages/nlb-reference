@@ -1,6 +1,6 @@
 ---
 title: Colonial Period
-permalink: /guides/singapore/history/colonial-period
+permalink: /guides/singapore/history/colonial-period/
 ---
 ## Colonial Period
 

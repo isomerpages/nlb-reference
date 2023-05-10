@@ -1,6 +1,6 @@
 ---
 title: Using Marketline
-permalink: /getting-started/marketline
+permalink: /getting-started/marketline/
 ---
 # What is Marketline Advantage?
 

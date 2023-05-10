@@ -1,6 +1,6 @@
 ---
 title: Puisi
-permalink: /guides/arts/lit-arts/biblio-sg-malay/puisi
+permalink: /guides/arts/lit-arts/biblio-sg-malay/puisi/
 breadcrumb: Sastera Melayu Singapura - Puisi
 collection_name: arts-lit-arts
 third_nav_title: Bibliografi Sastera Melayu Singapura

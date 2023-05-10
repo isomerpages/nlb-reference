@@ -1,6 +1,6 @@
 ---
 title: Seeking opportunities, pushing boundaries
-permalink: /literature/fourconversations/seeking-opportunities-pushing-boundaries
+permalink: /literature/fourconversations/seeking-opportunities-pushing-boundaries/
 breadcrumb: Four Conversations - Seeking Opportunities
 collection_name: literature
 third_nav_title: Four Conversations

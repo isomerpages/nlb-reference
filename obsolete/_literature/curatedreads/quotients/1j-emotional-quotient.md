@@ -1,6 +1,6 @@
 ---
 title: Emotional Quotient
-permalink: /literature/curatedreads/quotients/emotional-quotient
+permalink: /literature/curatedreads/quotients/emotional-quotient/
 breadcrumb: Curated Reads - Emotional Quotient
 collection_name: literature
 third_nav_title: Quotients

@@ -1,6 +1,6 @@
 ---
 title: Delivering literacy to millions of children
-permalink: /literature/fourconversations/delivering-literacy-to-millions-of-children
+permalink: /literature/fourconversations/delivering-literacy-to-millions-of-children/
 breadcrumb: Four Conversations - Delivering literacy
 collection_name: literature
 third_nav_title: Four Conversations

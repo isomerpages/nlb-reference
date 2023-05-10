@@ -1,6 +1,6 @@
 ---
 title: Contemporary China
-permalink: /temp/contemporary-china
+permalink: /temp/contemporary-china/
 breadcrumb: Contemporary China
 collection_name: temp
 ---

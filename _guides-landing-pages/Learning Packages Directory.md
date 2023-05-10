@@ -1,6 +1,6 @@
 ---
 title: Learning Packages Directory
-permalink: /guides/learning-packages-directory
+permalink: /guides/learning-packages-directory/
 description: ""
 ---
 

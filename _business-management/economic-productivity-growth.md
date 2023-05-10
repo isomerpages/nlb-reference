@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Economic & Productivity Growth
-permalink: /guides/budget2017/economic-productivity-growth
+permalink: /guides/budget2017/economic-productivity-growth/
 published: false
 ---
 

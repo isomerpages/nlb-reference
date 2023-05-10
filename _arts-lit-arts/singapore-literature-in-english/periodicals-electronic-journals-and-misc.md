@@ -1,6 +1,6 @@
 ---
 title: Periodicals, Electronic Journals and Misc.
-permalink: /guides/arts/lit-arts/biblio-sg-english/periodical
+permalink: /guides/arts/lit-arts/biblio-sg-english/periodical/
 breadcrumb: English Literature - Periodicals, Electronic Journals and Misc.
 collection_name: arts-lit-arts
 third_nav_title: Singapore Literature In English

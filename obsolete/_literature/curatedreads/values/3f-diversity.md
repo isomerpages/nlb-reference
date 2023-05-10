@@ -1,6 +1,6 @@
 ---
 title: Diversity
-permalink: /literature/curatedreads/values/diversity
+permalink: /literature/curatedreads/values/diversity/
 breadcrumb: Curated Reads - Diversity
 collection_name: literature
 third_nav_title: Values

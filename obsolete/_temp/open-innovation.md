@@ -1,6 +1,6 @@
 ---
 title: Open Innovation
-permalink: /temp/open-innovation
+permalink: /temp/open-innovation/
 breadcrumb: Open Innovation
 collection_name: temp
 ---

@@ -1,6 +1,6 @@
 ---
 title: Air Pollution
-permalink: /guides/sci-tech/sciences/air-pollution
+permalink: /guides/sci-tech/sciences/air-pollution/
 breadcrumb: Air Pollution
 description: ""
 ---

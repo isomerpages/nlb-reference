@@ -1,6 +1,6 @@
 ---
 title: Literary Arts
-permalink: /arts/literaryarts/main
+permalink: /arts/literaryarts/main/
 breadcrumb: Literary Arts
 collection_name: arts
 ---

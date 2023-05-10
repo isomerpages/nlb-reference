@@ -1,6 +1,6 @@
 ---
 title: Pan Shou
-permalink: /guides/singapore/people/Pan-Shou/
+permalink: /guides/singapore/people/pan-shou/
 description: ""
 third_nav_title: I to S
 ---

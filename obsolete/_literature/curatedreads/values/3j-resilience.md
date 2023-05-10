@@ -1,6 +1,6 @@
 ---
 title: Resilience
-permalink: /literature/curatedreads/values/resilience
+permalink: /literature/curatedreads/values/resilience/
 breadcrumb: Curated Reads - Resilience
 collection_name: literature
 third_nav_title: Values

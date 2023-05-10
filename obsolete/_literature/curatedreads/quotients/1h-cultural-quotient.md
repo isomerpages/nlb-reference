@@ -1,6 +1,6 @@
 ---
 title: Cultural Quotient
-permalink: /literature/curatedreads/quotients/cultural-quotient
+permalink: /literature/curatedreads/quotients/cultural-quotient/
 breadcrumb: Curated Reads - Digital Quotient
 collection_name: literature
 third_nav_title: Quotients

@@ -1,6 +1,6 @@
 ---
 title: Influence
-permalink: /literature/curatedreads/values/influence
+permalink: /literature/curatedreads/values/influence/
 breadcrumb: Curated Reads - Influence
 collection_name: literature
 third_nav_title: Values

@@ -1,6 +1,6 @@
 ---
 title: Angkor Wat
-permalink: /guides/socscihum/history/angkor-wat
+permalink: /guides/socscihum/history/angkor-wat/
 breadcrumb: Angkor Wat
 collection_name: social-sciences-humanities-history
 published: true

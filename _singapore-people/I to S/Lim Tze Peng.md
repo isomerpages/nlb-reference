@@ -1,6 +1,6 @@
 ---
 title: Lim Tze Peng
-permalink: /guides/singapore/people/lim-tze-peng
+permalink: /guides/singapore/people/lim-tze-peng/
 breadcrumb: Lim Tze Peng
 collection_name: singapore-people
 third_nav_title: I to S

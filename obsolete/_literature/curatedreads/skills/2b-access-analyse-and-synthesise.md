@@ -1,6 +1,6 @@
 ---
 title: Access, analyse and synthesise 
-permalink: /literature/curatedreads/values/access-analyse-and-synthesise
+permalink: /literature/curatedreads/values/access-analyse-and-synthesise/
 breadcrumb: Curated Reads - Access, analyse and synthesise 
 collection_name: literature
 third_nav_title: Skills

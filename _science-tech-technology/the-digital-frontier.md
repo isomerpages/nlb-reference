@@ -1,6 +1,6 @@
 ---
 title: The Digital Frontier
-permalink: /guides/sci-tech/tech/digital-frontier
+permalink: /guides/sci-tech/tech/digital-frontier/
 ---
 The COVID-19 pandemic has accelerated digitisation across many sectors of the economy and society.[^1] In the digital world, everything and everyone is connected to apps, data, purchases, services, and communication. Securing this world is critical for protecting people, organisations, infrastructure, and just about everything we rely on for health and prosperity.[^2]  
 

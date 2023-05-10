@@ -1,6 +1,6 @@
 ---
 title: Role of Boards in setting Executive Director's Compensation
-permalink: /guides/socscihum/soc-sci/exec-director-compense
+permalink: /guides/socscihum/soc-sci/exec-director-compense/
 breadcrumb: Role of Boards in setting Executive Director's Compensation
 collection_name: social-sciences-humanities-social-sciences
 published: true

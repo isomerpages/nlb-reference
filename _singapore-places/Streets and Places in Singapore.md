@@ -1,6 +1,6 @@
 ---
 title: Streets and Places in Singapore
-permalink: /guides/singapore/places/streets-and-places-in-singapore
+permalink: /guides/singapore/places/streets-and-places-in-singapore/
 breadcrumb: Streets and Places in Singapore
 collection_name: singapore-places
 published: true

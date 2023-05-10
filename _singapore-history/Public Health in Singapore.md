@@ -1,6 +1,6 @@
 ---
 title: Public Health in Singapore
-permalink: /guides/singapore/history/public-health-sg
+permalink: /guides/singapore/history/public-health-sg/
 description: ""
 published: false
 ---

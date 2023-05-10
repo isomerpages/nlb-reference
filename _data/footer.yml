@@ -1,9 +1,8 @@
 contact_us: /contact-us/
 show_reach: true
 social_media:
-  facebook: 'https://www.facebook.com/NationalLibrarySG'
-  twitter: ''
-  youtube: 'https://www.youtube.com/c/NLBsg/'
-  instagram: 'https://www.instagram.com/NationalLibrarySG/'
-  linkedin: 'https://www.linkedin.com/company/national-library-board/mycompany/'
-feedback: 'https://go.gov.sg/nlb-form-feedback'
+  facebook: https://www.facebook.com/NationalLibrarySG
+  youtube: https://www.youtube.com/c/NLBsg/
+  instagram: https://www.instagram.com/NationalLibrarySG/
+  linkedin: https://www.linkedin.com/company/national-library-board/mycompany/
+feedback: https://go.gov.sg/nlb-form-feedback

@@ -1,6 +1,6 @@
 ---
 title: Social Quotient
-permalink: /literature/curatedreads/quotients/social-quotient
+permalink: /literature/curatedreads/quotients/social-quotient/
 breadcrumb: Curated Reads - Social Quotient
 collection_name: literature
 third_nav_title: Quotients

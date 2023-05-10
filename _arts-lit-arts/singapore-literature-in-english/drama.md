@@ -1,6 +1,6 @@
 ---
 title: Drama
-permalink: /guides/arts/lit-arts/biblio-sg-english/drama
+permalink: /guides/arts/lit-arts/biblio-sg-english/drama/
 breadcrumb: English Literature - Drama
 collection_name: arts-lit-arts
 third_nav_title: Singapore Literature In English

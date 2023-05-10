@@ -1,6 +1,6 @@
 ---
 title: Tan Swie Hian
-permalink: /literature/prominentspeakers/speaker-tan-swie-hian
+permalink: /literature/prominentspeakers/speaker-tan-swie-hian/
 breadcrumb: NL Prominent Speaker Series Tan Swie Hian
 collection_name: literature
 third_nav_title: Speakers

@@ -1,6 +1,6 @@
 ---
 title: Navigating a complex World
-permalink: /literature/fourconversations/navigating-a-complex-world
+permalink: /literature/fourconversations/navigating-a-complex-world/
 breadcrumb: Four Conversations - Navigating a complex World
 collection_name: literature
 third_nav_title: Four Conversations

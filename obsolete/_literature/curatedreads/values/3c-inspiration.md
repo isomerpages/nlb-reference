@@ -1,6 +1,6 @@
 ---
 title: Inspiration
-permalink: /literature/curatedreads/values/inspiration
+permalink: /literature/curatedreads/values/inspiration/
 breadcrumb: Curated Reads - Inspiration
 collection_name: literature
 third_nav_title: Values

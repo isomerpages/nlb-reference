@@ -1,6 +1,6 @@
 ---
 title: Understanding Singapore (I)
-permalink: /singapore-history/understandingsingapore-I
+permalink: /singapore-history/understandingsingapore-i/
 ---
 ### Guide Index 
 

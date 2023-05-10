@@ -1,6 +1,6 @@
 ---
 title: Communist Party of Malaya A Comprehensive Bibliography
-permalink: /guides/singapore/history/cpm-biblio
+permalink: /guides/singapore/history/cpm-biblio/
 ---
 
 ## Communist Party of Malaya - A Comprehensive Bibliography

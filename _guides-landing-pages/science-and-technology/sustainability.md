@@ -1,6 +1,6 @@
 ---
 title: Sustainability
-permalink: /guides/sci-tech/sustainability
+permalink: /guides/sci-tech/sustainability/
 third_nav_title: Science And Technology
 ---
 <img src="/images/category/life-science.jpg" alt="life sciences banner" style="width:800px;" />

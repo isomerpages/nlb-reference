@@ -1,6 +1,6 @@
 ---
 title: Quotients
-permalink: /literature/curatedreads/quotients/quotients-main
+permalink: /literature/curatedreads/quotients/quotients-main/
 breadcrumb: Curated Reads - Quotients
 collection_name: literature
 third_nav_title: Quotients

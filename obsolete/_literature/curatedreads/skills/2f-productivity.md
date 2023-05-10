@@ -1,6 +1,6 @@
 ---
 title: Productivity
-permalink: /literature/curatedreads/values/productivity
+permalink: /literature/curatedreads/values/productivity/
 breadcrumb: Curated Reads - Productivity
 collection_name: literature
 third_nav_title: Skills

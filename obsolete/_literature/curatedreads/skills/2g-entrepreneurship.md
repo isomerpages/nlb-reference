@@ -1,6 +1,6 @@
 ---
 title: Entrepreneurship
-permalink: /literature/curatedreads/values/entrepreneurship
+permalink: /literature/curatedreads/values/entrepreneurship/
 breadcrumb: Curated Reads - Entrepreneurship
 collection_name: literature
 third_nav_title: Skills
