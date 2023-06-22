@@ -33,7 +33,7 @@ For items from **Lee Kong Chian Reference Library**, please refer to the **Secti
     <input type="checkbox" id="acc2">
        <label for="acc2">Items listed under <u>Reference Closed Access, Reference Donor...</u></label>
        <div class="new-accordion-content">
-        <p>These items are in our Closed Stacks and are not found on the open shelves. You can make an online reservation to access these materials, or request for them in-person at the Level 11 Information Counter.<br><br>You may plan your visit ahead of time and make an <a href="https://go.gov.sg/nlb-reserverclos-refnlbwebsite">online reservation</a> (free of charge) to access these materials. Please place an online request at least 2 working days before your visit. You will be informed of your application status the next working day.<br>Our staff will email you with instructions on how to retrieve your items for reference during your visit.<br><br>You can also request for these items at the Level 11 Information Counter during library opening hours. These items will be retrieved from our Closed Stacks by our staff. This typically takes 20 minutes, but may require more time, depending on complexity of the request. You can view the items in the library until closing time the same day. Please return the items to the counter when you are done.</p>
+        <p>These items are in our Closed Stacks and are not found on the open shelves. You can make an online reservation to access these materials, or request for them in-person at the Level 11 Information Counter (10am - 7pm).<br><br>You may plan your visit ahead of time and make an <a href="https://go.gov.sg/nlb-reserverclos-refnlbwebsite">online reservation</a> (free of charge) to access these materials. Please place an online request at least 2 working days before your visit. You will be informed of your application status the next working day.<br>Our staff will email you with instructions on how to retrieve your items for reference during your visit.<br><br>You can also request for these items at the Level 11 Information Counter from 10am - 7pm. These items will be retrieved from our Closed Stacks by our staff. This typically takes 20 minutes, but may require more time, depending on complexity of the request. You can view the items in the library until closing time the same day. Please return the items to the counter when you are done.</p>
        </div>
     <input type="checkbox" id="acc3">
        <label for="acc3">Items listed under <u>Reference Rare</u></label>
@@ -66,4 +66,4 @@ Should you require any further clarifications or any assistance, please email us
 
 <hr>
 
-[^1]: A reservation fee of S$1.55 per item applies. Please allow 3-5 working days for the item to be made available for consultation. Terms and conditions apply.
+[^1]: A reservation fee of S$1.57 (w.e.f. 1 Jan 2023) per item applies. Please allow 3-5 working days for the item to be made available for consultation. Terms and conditions apply.

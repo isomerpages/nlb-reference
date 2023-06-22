@@ -2,6 +2,11 @@ collections:
   arts-visual-arts:
     output: true
     order:
+      - Art X Stacks/.keep
+      - Art X Stacks/Introduction.md
+      - Art X Stacks/Nature.md
+      - Art X Stacks/Communities.md
+      - Art X Stacks/Places.md
       - visual-arts/.keep
       - visual-arts/Art Movements.md
       - visual-arts/Nanyang Artists.md

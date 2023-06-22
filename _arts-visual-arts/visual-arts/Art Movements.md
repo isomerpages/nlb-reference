@@ -1,6 +1,6 @@
 ---
 title: Art Movements
-permalink: /guides/arts/visual-arts/art-movements
+permalink: /guides/arts/visual-arts/art-movements/
 description: ""
 third_nav_title: Visual Arts
 ---
@@ -129,7 +129,7 @@ An introduction to the National Musuem centenary art exhibition, this article hi
 
 * Genter, Robert B. “Barnett Newman and the anarchist sublime.” *Anarchist Studies*, Vol. 25, Issue 1 (2017): 8-31. Retrieved from ProQuest Central via [NLB eResources](https://eresources.nlb.gov.sg/). (myLibrary ID is required to access the article.)
 
-<p style="margin-left: 32px">Using Barnett Newman as a case study, the author considered argued that anarchism was a dominant philosophy in abstract expressionism movement during the cold war period.</p>
+<p style="margin-left: 32px">Using Barnett Newman as a case study, the author argued that anarchism was a dominant philosophy in abstract expressionism movement during the cold war period.</p>
 
 * Green, Gaye Leigh. “The return of the body: Performance art and art education.” *Art Education*, Vol. 52, No. 1 (Jan 1999): 6-12. Retrieved from JSTOR via [NLB eResources](https://eresources.nlb.gov.sg/). (myLibrary ID is required to access the article.)
 

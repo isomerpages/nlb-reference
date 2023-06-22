@@ -7,6 +7,12 @@ third_nav_title: Arts
 ---
 <img src="/images/category/visual-arts.jpg" alt="visual arts banner" style="width:800px;" />
 
+
+- **Art X Stacks**
+    - [**Introduction**](/guides/arts/visual-arts/artxstacks/)
+    - [**Nature**](/guides/arts/visual-arts/artxstacks/nature)
+    - [**Communities**](/guides/arts/visual-arts/artxstacks/communities)
+    - [**Places**](/guides/arts/visual-arts/artxstacks/places)
 - [**Art Movements**](/guides/arts/visual-arts/art-movements)
 - [**Nanyang Artists**](/guides/arts/visual-arts/nanyangartists)
 - [**Singapore Visual Arts on NORA**](/guides/arts/visual-arts/singapore-visual-arts-on-nora)
@@ -14,6 +20,7 @@ third_nav_title: Arts
 - [**Georgette Chen**](/guides/singapore/people/georgette-chen)
 - [**Lim Tze Peng**](/guides/singapore/people/lim-tze-peng)
 - [**Modern Art in Singapore**](/guides/arts/visual-arts/modern-art-in-singapore)
+- [**Pan Shou (潘受)**](/guides/singapore/people/Pan-Shou/)
 <!--- [**Virtual Arts and Culture**](/guides/arts/visual-arts/virtual-arts)-->
 - [**Southeast Asian Artists**](/guides/arts/visual-arts/sea-artists)
 

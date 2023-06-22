@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Education, Training & Lifelong Learning
-permalink: /guides/budget2017/education-training-lifelong-learning
+permalink: /guides/budget2017/education-training-lifelong-learning/
 published: false
 ---
 

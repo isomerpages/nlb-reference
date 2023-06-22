@@ -1,57 +1,71 @@
 logo: /images/ReferenceNLB-logo.png
 links:
   - title: Resource Guides
-    url: /guides/
+    url: /guides
     sublinks:
       - title: Singapore
-        url: /guides/singapore/people/
+        url: /guides/singapore/people
       - title: Arts
-        url: /guides/arts/visual-arts/
+        url: /guides/arts/visual-arts
       - title: Business
-        url: /guides/business/management/
-      - title: Science & Technology
-        url: /guides/sci-tech/ai/
-      - title: Social Sciences & Humanities
-        url: /guides/socscihum/soc-sci/
+        url: /guides/business/management
+      - title: Science and Technology
+        url: /guides/sci-tech/ai
+      - title: Social Sciences and Humanities
+        url: /guides/socscihum/soc-sci
       - title: Digital Preservation
-        url: /guides/digital-preservation/main/
+        url: /guides/digital-preservation/main
+  - title: Launch
+    url: /launch
+    sublinks:
+      - title: Business Kickstarter
+        url: /launch/biz-kickstarter/
+      - title: Getting Started
+        url: /launch/getting-started/entrepreneurship/
+      - title: Running the Business
+        url: /launch/running-business/business-plan/
+      - title: Resource Guides
+        url: /launch/resource-guides/
+      - title: Success Stories
+        url: /launch/stories/
+      - title: Useful Lists
+        url: /launch/lists/
   - title: Getting Started
-    url: /getting-started/academicresearch/
+    url: /getting-started/academicresearch
     sublinks:
       - title: Accessing Reference Items
-        url: /getting-started/accessing-reference-items/
+        url: /getting-started/accessing-reference-items
       - title: Using OneSearch
-        url: /getting-started/onesearch/
+        url: /getting-started/onesearch
       - title: Using ProQuest
-        url: /getting-started/proquest/
+        url: /getting-started/proquest
       - title: Using EBSCOHost
-        url: /getting-started/ebscohost/
+        url: /getting-started/ebscohost
       - title: Using JSTOR
-        url: /getting-started/jstor/
+        url: /getting-started/jstor
       - title: Using Marketline
-        url: /getting-started/marketline/
+        url: /getting-started/marketline
   - title: Other Formats
     url: /other-formats
     sublinks:
       - title: Ephemera
-        url: /other-formats/ephemera/
+        url: /other-formats/ephemera
       - title: Maps
-        url: /other-formats/maps/
+        url: /other-formats/maps
       - title: Newspapers
-        url: /other-formats/newspapers/
+        url: /other-formats/newspapers
       - title: Photographs
-        url: /other-formats/photographs/
+        url: /other-formats/photographs
       - title: Posters
         url: /other-formats/posters
       - title: Archived Websites
         url: /other-formats/archived-websites
   - title: About Us
+    url: /contact-us
     sublinks:
       - title: National Library
-        url: /about-us/national-library/
+        url: /about-us/national-library
       - title: Lee Kong Chian Reference Library
-        url: /about-us/lkcrl/
+        url: /about-us/lkcrl
       - title: Contact Us
-        url: /contact-us/
-#  - title: Reminiscence Library
-#    collection: reminiscence-library
+        url: /contact-us

@@ -1,6 +1,6 @@
 ---
 title: English Language
-permalink: /guides/socscihum/humanities/english-language
+permalink: /guides/socscihum/humanities/english-language/
 breadcrumb: English Language
 collection_name: social-sciences-humanities-humanities
 published: true

@@ -1,6 +1,6 @@
 ---
 title: Vaccinations (2020)
-permalink: /guides/sci-tech/sciences/vaccinations
+permalink: /guides/sci-tech/sciences/vaccinations/
 description: ""
 ---
 This resource guide was created as part of a learning package on Pandemics. For other related resource guides, please head to this directory of [Learning Packages](/guides/learning-packages-directory).

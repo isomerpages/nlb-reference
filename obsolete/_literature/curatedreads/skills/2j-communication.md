@@ -1,6 +1,6 @@
 ---
 title: Communication
-permalink: /literature/curatedreads/values/communication
+permalink: /literature/curatedreads/values/communication/
 breadcrumb: Curated Reads - Communication
 collection_name: literature
 third_nav_title: Skills

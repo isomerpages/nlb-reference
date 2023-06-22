@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Volunteerism and Philanthropy
-permalink: /guides/budget2017/volunteerism-and-philanthropy
+permalink: /guides/budget2017/volunteerism-and-philanthropy/
 published: false
 ---
 

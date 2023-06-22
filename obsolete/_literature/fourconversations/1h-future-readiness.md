@@ -1,6 +1,6 @@
 ---
 title: Future Readiness
-permalink: /literature/fourconversations/future-readiness
+permalink: /literature/fourconversations/future-readiness/
 breadcrumb: Four Conversations - Future Readiness
 collection_name: literature
 third_nav_title: Four Conversations

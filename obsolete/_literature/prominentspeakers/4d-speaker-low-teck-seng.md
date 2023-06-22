@@ -1,6 +1,6 @@
 ---
 title: Low Teck Seng
-permalink: /literature/prominentspeakers/speaker-low-teck-seng
+permalink: /literature/prominentspeakers/speaker-low-teck-seng/
 breadcrumb: NL Prominent Speaker Series Low Teck Seng
 collection_name: literature
 third_nav_title: Speakers

@@ -1,6 +1,6 @@
 ---
 title: Visual Arts
-permalink: /arts/visualarts/main
+permalink: /arts/visualarts/main/
 breadcrumb: Visual Arts
 collection_name: arts
 ---

@@ -1,6 +1,6 @@
 ---
 title: Indian National Army (INA)
-permalink: /guides/socscihum/history/indian-national-army
+permalink: /guides/socscihum/history/indian-national-army/
 breadcrumb: Indian National Army (INA)
 collection_name: social-sciences-humanities-history
 ---

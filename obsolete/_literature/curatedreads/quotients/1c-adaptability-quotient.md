@@ -1,6 +1,6 @@
 ---
 title: Adaptability Quotient
-permalink: /literature/curatedreads/quotients/adaptability-quotient
+permalink: /literature/curatedreads/quotients/adaptability-quotient/
 breadcrumb: Curated Reads - Adaptability Quotient
 collection_name: literature
 third_nav_title: Quotients

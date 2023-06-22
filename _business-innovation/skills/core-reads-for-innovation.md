@@ -1,6 +1,6 @@
 ---
 title: Core Reads for Innovation
-permalink: /guides/business/innovation/innovation
+permalink: /guides/business/innovation/innovation/
 breadcrumb: Core Reads - Innovation
 collection_name: business-innovation
 #third_nav_title: Skills

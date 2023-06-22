@@ -1,6 +1,6 @@
 ---
 title: Intelligence Quotient
-permalink: /literature/curatedreads/quotients/intelligence-quotient
+permalink: /literature/curatedreads/quotients/intelligence-quotient/
 breadcrumb: Curated Reads - Intelligence Quotient
 collection_name: literature
 third_nav_title: Quotients

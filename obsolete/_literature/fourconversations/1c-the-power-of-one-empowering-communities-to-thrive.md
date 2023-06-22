@@ -1,6 +1,6 @@
 ---
 title: The power of one, empowering communities to thrive
-permalink: /literature/fourconversations/the-power-of-one-empowering-communities-to-thrive
+permalink: /literature/fourconversations/the-power-of-one-empowering-communities-to-thrive/
 breadcrumb: Four Conversations - The power of one
 collection_name: literature
 third_nav_title: Four Conversations

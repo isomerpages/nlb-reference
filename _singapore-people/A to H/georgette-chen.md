@@ -1,6 +1,6 @@
 ---
 title: Georgette Chen
-permalink: /guides/singapore/people/georgette-chen
+permalink: /guides/singapore/people/georgette-chen/
 breadcrumb: Georgette Chen
 collection_name: singapore-people
 third_nav_title: A to H

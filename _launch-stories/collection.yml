@@ -1,0 +1,14 @@
+collections:
+  launch-stories:
+    output: true
+    order:
+      - Awfully Chocolate.md
+      - Carousell.md
+      - Grab.md
+      - Love Bonito.md
+      - Lunch Actually.md
+      - Mind Stretcher.md
+      - SecretLab.md
+      - Sheng Siong.md
+      - Shopback.md
+      - Spa Esprit Group.md

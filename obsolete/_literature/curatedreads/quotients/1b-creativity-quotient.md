@@ -1,6 +1,6 @@
 ---
 title: Creativity Quotient
-permalink: /literature/curatedreads/quotients/creativity-quotient
+permalink: /literature/curatedreads/quotients/creativity-quotient/
 breadcrumb: Curated Reads - Creativity Quotient
 collection_name: literature
 third_nav_title: Quotients

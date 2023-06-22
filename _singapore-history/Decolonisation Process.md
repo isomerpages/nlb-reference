@@ -1,6 +1,6 @@
 ---
 title: Decolonisation Process
-permalink: /guides/singapore/history/decolonisation-process
+permalink: /guides/singapore/history/decolonisation-process/
 ---
 ## Decolonisation Process
 

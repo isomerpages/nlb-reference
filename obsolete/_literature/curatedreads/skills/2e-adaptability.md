@@ -1,6 +1,6 @@
 ---
 title: Adaptability
-permalink: /literature/curatedreads/values/adaptability
+permalink: /literature/curatedreads/values/adaptability/
 breadcrumb: Curated Reads - Adaptability
 collection_name: literature
 third_nav_title: Skills

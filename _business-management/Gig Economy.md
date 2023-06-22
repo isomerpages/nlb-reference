@@ -1,6 +1,6 @@
 ---
 title: Gig Economy
-permalink: /guides/business/management/gig-economy
+permalink: /guides/business/management/gig-economy/
 description: Gig Economy
 ---
 

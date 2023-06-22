@@ -1,6 +1,6 @@
 ---
 title: Learning Quotient
-permalink: /literature/curatedreads/quotients/learning-quotient
+permalink: /literature/curatedreads/quotients/learning-quotient/
 breadcrumb: Curated Reads - Learning Quotient
 collection_name: literature
 third_nav_title: Quotients

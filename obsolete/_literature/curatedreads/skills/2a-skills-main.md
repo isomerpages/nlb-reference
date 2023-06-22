@@ -1,6 +1,6 @@
 ---
 title: Skills
-permalink: /literature/curatedreads/skills/skills-main
+permalink: /literature/curatedreads/skills/skills-main/
 breadcrumb: Curated Reads - Skills
 collection_name: literature
 third_nav_title: Skills

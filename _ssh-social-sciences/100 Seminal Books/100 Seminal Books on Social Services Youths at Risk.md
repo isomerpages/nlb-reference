@@ -1,6 +1,6 @@
 ---
 title: 100 Seminal Books on Social Services Youths at Risk
-permalink: /guides/socscihum/soc-sci/seminal/youths-at-risk
+permalink: /guides/socscihum/soc-sci/seminal/youths-at-risk/
 breadcrumb: Youths at Risk
 third_nav_title: 100 Seminal Books
 collection_name: social-sciences-humanities-social-sciences

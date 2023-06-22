@@ -1,6 +1,6 @@
 ---
 title: The Arts Space (Season 3) Makan-Makan
-permalink: /guides/arts/visual-arts/the-arts-space-season3-makan-makan
+permalink: /guides/arts/visual-arts/the-arts-space-season3-makan-makan/
 breadcrumb: The Arts Space (Season 3) Makan-Makan
 collection_name: arts-visual-arts
 third_nav_title: Visual Arts

@@ -1,6 +1,6 @@
 ---
 title: Nanyang Artists
-permalink: /guides/arts/visual-arts/nanyangartists
+permalink: /guides/arts/visual-arts/nanyangartists/
 description: ""
 third_nav_title: Visual Arts
 ---

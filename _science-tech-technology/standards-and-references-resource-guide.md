@@ -1,6 +1,6 @@
 ---
 title: Standards and References Resource Guide
-permalink: /guides/sci-tech/tech/standards-and-references
+permalink: /guides/sci-tech/tech/standards-and-references/
 breadcrumb: Standards and References Resource Guide
 collection_name: science-technology-technology
 published: true

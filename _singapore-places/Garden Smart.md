@@ -1,6 +1,6 @@
 ---
 title: Garden Smart
-permalink: /guides/singapore/places/garden-smart
+permalink: /guides/singapore/places/garden-smart/
 breadcrumb: Garden Smart
 collection_name: singapore-places
 published: true

@@ -1,6 +1,6 @@
 ---
 title: Digital Quotient
-permalink: /literature/curatedreads/quotients/digital-quotient
+permalink: /literature/curatedreads/quotients/digital-quotient/
 breadcrumb: Curated Reads - Digital Quotient
 collection_name: literature
 third_nav_title: Quotients

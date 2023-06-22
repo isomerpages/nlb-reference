@@ -1,6 +1,6 @@
 ---
 title: Productivity and Innovation
-permalink: /guides/business/innovation/productivity-and-innovation
+permalink: /guides/business/innovation/productivity-and-innovation/
 breadcrumb: Productivity and Innovation
 collection_name: business-innovation
 published: true

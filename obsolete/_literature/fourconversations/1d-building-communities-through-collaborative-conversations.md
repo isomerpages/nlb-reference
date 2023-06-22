@@ -1,6 +1,6 @@
 ---
 title: Building communities through collaborative conversations
-permalink: /literature/fourconversations/building-communities-through-collaborative-conversations
+permalink: /literature/fourconversations/building-communities-through-collaborative-conversations/
 breadcrumb: Four Conversations - Building communities
 collection_name: literature
 third_nav_title: Four Conversations

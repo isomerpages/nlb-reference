@@ -1,6 +1,6 @@
 ---
 title: Belonging
-permalink: /literature/curatedreads/values/belonging
+permalink: /literature/curatedreads/values/belonging/
 breadcrumb: Curated Reads - Belonging
 collection_name: literature
 third_nav_title: Values

@@ -1,6 +1,6 @@
 ---
 title: Climate Change
-permalink: /guides/sci-tech/sciences/climate-change
+permalink: /guides/sci-tech/sciences/climate-change/
 breadcrumb: Climate Change
 description: ""
 ---
