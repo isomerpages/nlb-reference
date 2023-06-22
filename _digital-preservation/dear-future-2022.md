@@ -45,7 +45,7 @@ How can we capture what happens today and preserve it as a record for tomorrow? 
 
 Ever heard of the cool Centrepoint kids of the 80s? Over the years, Centrepoint kids were erased from Singapore’s history and seen as a national shame as opposed to a vibrant and exciting youth subculture. How can we preserve such memories of our young communities for future generations? Filmmaker Li Lin shared about her experience growing up in the 80s in Emerald Hill gazing at the colourful Centrepoint kids, as well as her passion for Singapore stories through filmmaking. Her short film “Centrepoint Kids” was also screened.
 
-***Speaker***
+**Speaker**
 <Br>**Li Lin Wee,** Director, Bobbing Buoy Films 
 
 
