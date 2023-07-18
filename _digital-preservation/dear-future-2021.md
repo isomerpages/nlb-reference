@@ -46,7 +46,7 @@ This introductory session on audio-visual preservation by Mavis Cheng provides a
 
 Have you ever bookmarked a favourite website, only to watch it disappear without a trace? Web archiving is a way to take a “snapshot” of a website or webpage and preserve it forever! Find out from Shereen Tay and Jacqueline Lee about how you can use Web Archive Singapore to browse and preserve your favourite Singapore websites.
 
-***Speakers***
+**Speakers**
 <Br>**Shereen Tay,** Librarian, Statutory Functions & Research, National Library, Singapore 
 <Br>**Jacqueline Lee,** Associate Librarian, Statutory Functions & Research, National Library, Singapore
 
@@ -56,7 +56,7 @@ Have you ever bookmarked a favourite website, only to watch it disappear without
 
 Hear from Archivist Chew Tee Pao as he shares the issues and challenges in preserving films and related materials in the digital format, as well as highlight the importance of managing and caring for your film data.
 
-***Speaker***
+**Speaker**
 <Br>**Chew Tee Pao,** Archivist, Asian Film Archive 
 
 

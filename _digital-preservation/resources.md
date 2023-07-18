@@ -73,7 +73,6 @@ All rights reserved, Chicago: ALA Editions, an imprint of the American Library A
 
 All rights reserved, London: Facet Publishing, 2018
 
-
 <a href="https://nlb.overdrive.com/media/FB65F0EE-AC97-4BAD-AB7A-1920317AE539" target="_blank"><img src="/images/digital-preservation/how-to-archive-family-photos.jpg" style="width:150px;"></a>
 
 [**How to archive family photos: A step-by-step guide to organize and share your photos digitally**](https://nlb.overdrive.com/media/FB65F0EE-AC97-4BAD-AB7A-1920317AE539){:target="_blank"}
@@ -83,6 +82,13 @@ In this book, the author shares tips on how to archive your family photograph co
 Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
 
 ### **Websites**
+
+<img src="/images/digital-preservation/Article-6.jpg" style="width:150px;" />
+
+[**Introduction to Digitizing and Organizing Family Photos and Documents**](https://ourpublicrecords.org/digitizing-family-documents/){:target="_blank"}
+
+Learn how you can preserve your family's history via this guide, which explains the importance of organising and digitising family photographs and documents and provides easy-to-follow steps on how you can begin your own journey to scan, organise and manage a slice of your family history.
+
 
 <img src="/images/digital-preservation/Article-1.jpg" style="width:150px;" />
 
