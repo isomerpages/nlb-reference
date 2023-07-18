@@ -1,6 +1,6 @@
 ---
 title: Continuous Learning
-permalink: /business-management/continuous-learning/
+permalink: /guides/business/management/continuous-learning/
 description: Continuous Learning
 ---
 # Continuous Learning
@@ -34,19 +34,19 @@ You will feel fulfilled as you gain confidence in your skills and abilities, whi
  Here are five steps that will help you develop a continuous learning habit. 
 
 Step 1: Determine what you really want to know
-Think about the subjects that you want to focus on and determine the desired outcomes you would like to see. 
+<br>Think about the subjects that you want to focus on and determine the desired outcomes you would like to see. 
 
 Step 2: Set clear and specific goals that are relevant to your objectives
-Create plans and goals that will push you towards the end results. The goals should be dynamic and adaptable as things may change. The goals should be specific, measurable, achievable, relevant, and time bound.
+<br>Create plans and goals that will push you towards the end results. The goals should be dynamic and adaptable as things may change. The goals should be specific, measurable, achievable, relevant, and time bound.
 
 Step 3: Set aside time to learn 
-One of the best ways to develop a habit of learning is to create dedicated time for learning. This will help you avoid procrastination and ensure that you make progress toward your learning goals. 
+<br>One of the best ways to develop a habit of learning is to create dedicated time for learning. This will help you avoid procrastination and ensure that you make progress toward your learning goals. 
 
 Step 4: Choose the learning mediums
-It is also important to choose the proper learning methods that are best suited for you. There are many different learning methods, including reading, watching videos, participating in webinars, joining online communities, and attending seminars and conferences.
+<br>It is also important to choose the proper learning methods that are best suited for you. There are many different learning methods, including reading, watching videos, participating in webinars, joining online communities, and attending seminars and conferences.
 
 Step 5: Surround yourself with passionate learners
-Spend time with lifelong learners who value knowledge and pursue mastery of particular subjects. They will often push you toward a deep passion for learning.
+<br>Spend time with lifelong learners who value knowledge and pursue mastery of particular subjects. They will often push you toward a deep passion for learning.
 
 
 
@@ -74,7 +74,7 @@ Hagel III, John. “What Motivates Lifelong Learners.” *Harvard Business Revie
 
 
 <b><font style="color:#4372d6;">Seven Essential Elements of a Lifelong-learning Mind-set</font></b><br>
-To thrive in the rapidly changing workplace environment, employees must embrace lifelong learning and continually increase their knowledge, skills, and competencies. This article presents seven practices to help employees be mindful of their career paths and succeed. The seven practices are: focussing on growth and developing a growth mindset, becoming a serial master, stretching outside your comfort zone, building a personal zone, owning your development, taking charge of your learning, and doing what you love and staying vital. 
+To thrive in the rapidly changing workplace environment, employees must embrace lifelong learning and continually increase their knowledge, skills, and competencies. This article presents seven practices to help employees be mindful of their career paths and succeed. The seven practices are: focusing on growth and developing a growth mindset, becoming a serial master, stretching outside your comfort zone, building a personal zone, owning your development, taking charge of your learning, and doing what you love and staying vital. 
 
 Brassey, Jacqueline, Nick van Dam and Katie Coates. “Seven Essential Elements of a Lifelong-learning Mind-set.” *McKinsey &amp; Company*, February 19, 2019. [https://www.mckinsey.com/business-functions/people-and-organizational-performance/our-insights/seven-essential-elements-of-a-lifelong-learning-mind-set](https://www.mckinsey.com/business-functions/people-and-organizational-performance/our-insights/seven-essential-elements-of-a-lifelong-learning-mind-set) 
 
@@ -96,16 +96,16 @@ Dietsch, Stacey, Bonnie Dowling &amp; Nicolai Nielsen. “Is your Organization H
 
 ### Journal Articles
 
-<b><font style="color:#4372d6;">Being the Agile Boss</font></b>
+<b><font style="color:#4372d6;"> The PLE as a Framework for Developing Agency in Lifelong Learning </font></b>
 <br>
-Navigating through times of uncertainty and ambiguity is a test of agility for agile leadership. This article presents three imperatives of outstanding leadership: managing your team – focusing on purpose and learning; managing your network – looking outward and forging ties; and managing yourself – being prepared to learn and adapt. 
+Personal Learning Environment (PLE) disrupts educational character in connecting formal, non-formal and informal learning experiences. By integrating those experiences, PLEs make lifelong learning or continuous learning an achievable goal. This paper explores the concept of PLE, its cognitive and theoretical underpinnings, and its implications for the design of pedagogical processes and learning ecosystems.
 
-Linda A. Hill, “Being the Agile Boss,” *MIT Sloan Management Review*, 62, iss. 1 (2020): 7-10. (From ProQuest Central via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+Dabbagh, Nada, & Linda Castaneda. “The PLE as a Framework for Developing Agency in Lifelong Learning”. _Educational Technology Research & Development_, 68, no. 6 (2020): 3041-3055. (From EBSCOhost Academic Search Complete via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-<b><font style="color:#4372d6;">Agility in the Workplace: Conceptual Analysis, Contributing Factors, and Practical Examples</font></b><br>
-Organisations today face highly competitive, rapidly changing and complex environments. Agile is becoming a popular strategy for organisations to deal with these changes to foster speed, adaptability and innovation. This article outlines evidence-based factors contributing to agility at the individual, team and organisational levels, describes three practical examples at a large German car company and suggests steps organisations can take to increase agility in their workforce.
+<b><font style="color:#4372d6;">Lifelong Learning through Cultural Learning, Citizenship Learning, and Community Engagement in Grassroots Communities in South Korea</font></b><br>
+A master plan for promoting lifelong education was formulated in Korea in 2003. This article looks at how the current Korean lifelong learning, led by citizens, is connected with cultural learning, citizenship learning, and community engagement, rooted in the community and a combination of active community-building projects. It also examines recent trends of community building projects through three cases of grassroots community building centring on local village schools, called "Maeul Hakkyos".
 
-Mortiz K. H. Petermann, &amp; Hannes Zacher, “Agility in the Workplace: Conceptual Analysis, Contributing Factors, and Practical Examples,” *Industrial and Organizational Psychology*, 13, iss. 4 (December 2020): 599-609. (From ProQuest Central via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+Cho, Sung Ran. “Lifelong Learning through Cultural Learning, Citizenship Learning, and Community Engagement in Grassroots Communities in South Korea”. _New Directions for Adult & Continuing Education,_ 2019, no. 162 (Summer 2019): 61-72. (From EBSCOhost Academic Search Complete via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
 <h3><font style="color:#4372d6;">E-Books</font></h3>
 Retrieved from [OverDrive](https://nlb.overdrive.com/). (myLibrary ID is required to access the eBook)
@@ -113,37 +113,40 @@ Retrieved from [OverDrive](https://nlb.overdrive.com/). (myLibrary ID is require
 
 |Title| Description|
 | -------- | -------- | 
-| ![Doing Agile Right](/images/business/AW_DoingAgileRight.jpeg)| This book delves into how to become an agile enterprise. It shows how agile thinking is being applied to every aspect of its business: innovation, operations, back-office functions, corporate headquarters, top management, and even the agile transformation process itself.<br><br>Darrell Rigby, Sarah Elk &amp; Steeve Berez, *[Doing Agile Right: Transformation Without Chaos](https://nlb.overdrive.com/media/4984369)* (LaVergne: Harvard Business Review Press, 2020). |  
-| ![The Agility Mindset](/images/business/AW_TheAgilityMindset.jpeg)    | This book reframes the idea of flexible working by concentrating on the employer benefits of workforce agility. It offers interviews and experience from the CEOs/Chairs of many of the United Kingdom’s largest organisations. The book also provides a comprehensive framework and business case.<br><br>Fiona Cannon, *[The Agility Mindset: How Reframing Flexible Working Delivers Competitive Advantage](https://nlb.overdrive.com/media/3554101)* (Springer International Publishing, 2017).
-| ![Agile Transformation](/images/business/AW_AgileTransformation.jpeg)     | This book discusses why new operating models are needed, how to apply agile principles at scale, how to leverage digital-native processes and why change managers need to think big but start small. It also looks at how to build and engage high-performing teams for change, tackles the employee mindset that can hinder agile adoption and why developing an agile business is not a reason to fail to plan.<br><br>Neil Perkin, *[Agile Transformation: Structures, Processes and Mindsets for the Digital Age](https://nlb.overdrive.com/media/5028721)* (Kogan Page, 2019).
-
+| ![Mindshift](/images/business/CL_Mindshift.jpeg)| This book looks at how we can overcome stereotypes and preconceived ideas about what is possible for us to learn and become and uncover and develop talents we do not realise we have. It presents strategies for learning backed by neuroscience and shows how we can turn perceived weaknesses such as impostor syndrome and advancing age into strengths.<br><br>Oakley, Barbara. [*Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential*](https://nlb.overdrive.com/media/2890349). New York: Penguin Publishing Group, 2017.|  
+| ![Managing Your Own Learning](/images/business/CL_Managing%20Your%20Own%20Learning.jpeg)| This guide presents seven powerful strategies for staying ahead in the knowledge-based economy. It offers a comprehensive approach to creating a focused learning philosophy, choosing the best approach to planning programmes and activities, and developing appropriate systems for assessing results.<br><br>Davis, James, R. and Adelaide B. Davis. [*Managing Your Own Learning*](https://nlb.overdrive.com/media/728368). San Francisco: Berrett-Koeler Publishers, 2022.
+|  ![Beginners](/images/business/CL_Beginners.jpeg)| This book shares the author’s experiences, joys and vulnerabilities as he embarks on a yearlong quest of learning. He notes that learning skills help open new worlds, and beginners are alike: they make the same mistakes.<br><br>Vanderbilt, Tom. [*Beginners: The Joy and Transformative Power of Lifelong Learning*](https://nlb.overdrive.com/media/5646201). Atlantic Books, 2021.
+| ![How We Learn](/images/business/CL_How%20We%20Learn.jpeg)| The human brain is an extraordinary learning machine. In this book, the author uses the boundary between computer science, neurobiology, and cognitive psychology to explain how learning works and how to make the best use of the brain’s learning algorithms in our schools and universities, as well as in everyday life and at any age.<br><br>Dehaene, Stanislas. [*How We Learn: Why Brains Learn Better Than Any Machine . . . for Now*](https://nlb.overdrive.com/media/4737966). New York: Penguin Publishing Group, 2020. 
 
 ### Videos
 
-<b><font style="color:#4372d6;">The Agile Mindset, A Different Way of Working</font></b>
+<b><font style="color:#4372d6;">How to Embrace Being a Lifelong Learner</font></b>
 <br>
-This video defines agility and why it should be developed across every discipline. Agility is about customer-centricity, which is the best way to serve the customers. Customer-centricity requires flexibility and agility in the course of work in any function, such as marketing, finance, product development, and sales.
+Becoming a lifelong learner is one of the great unlocks of life. You are capable of far more than you would believe. The benefits include growing your professional skillset and creating leadership opportunities. This video discusses how you can embrace being a lifelong learner.
 
-ICAgile, “The Agile Mindset, A Different Way of Working,” *YouTube* video: 3:01, 5 February 2021. [https://www.youtube.com/watch?v=ESDQCcnapGA](https://www.youtube.com/watch?v=ESDQCcnapGA) 
+The Art of Improvement. (2020, August 17). *How to Embrace Being a Lifelong Learner*. [https://www.youtube.com/watch?v=cqRoGpSGFwk ](https://www.youtube.com/watch?v=cqRoGpSGFwk )
 <br>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ESDQCcnapGA" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cqRoGpSGFwk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<b><font style="color:#4372d6;">Agile and Skills - Ready Workforce for a Changing World</font></b>
+<b><font style="color:#4372d6;">Continuous, Lifelong Learning is the Future of Work</font></b>
 <br>
-This webinar highlights how a skilled and engaged workforce is key to building an agile organisation. The speakers discussed how organisations could adopt the IDEAS framework to help them prepare for a changing world and identified three critical components within the skills foundation – sensing skills, optimising talent and accelerating agility.
+In a rapidly changing world, continuous learning is very important. For companies, long-term investment in continuous learning has the highest return on investment of any business activity. This video explores continuous learning and looks at four actionable steps to becoming a continuous learning organisation.
 
-Agile and Skills - Ready Workforce for a Changing World. *HRMAsia*, 2021. [https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&amp;referrer=&amp;eventid=3026999&amp;sessionid=1&amp;key=73097017D02A4F4841DC1E0B293C3489®Tag=&amp;V2=false&amp;sourcepage=register](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&amp;referrer=&amp;eventid=3026999&amp;sessionid=1&amp;key=73097017D02A4F4841DC1E0B293C3489®Tag=&amp;V2=false&amp;sourcepage=register)
-<br><font style="color:orange;">*Free registration is required. </font>
+Growth Tribe. (2021, September 30). Continuous, Lifelong Learning is the Future of Work. [https://www.youtube.com/watch?v=yHSL3mGM-4A](https://www.youtube.com/watch?v=yHSL3mGM-4A)
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yHSL3mGM-4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<h3><font style="color:#4372d6;">Udemy Business Courses</font></h3>
+<h3><font style="color:#4372d6;">Podcasts</font></h3>
+<b><font style="color:#4372d6;">Building a Learning Culture that Drives Business Forward</font></b>
+<br>
+Learning itself is a fundamental skill. It can even happen through social interactions and conversations. The building blocks of learning include setting goals, enlisting others in the process, discussing what you are learning and obtaining feedback. This podcast discusses how individuals and organisations can build skills and create a learning culture.
 
+Smith, Matthew, & Elizabeth Young McNally. (2021, April 16). Building a Learning Culture that Drives Business Forward. Retrieved 2022, October 6. [https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/building-a-learning-culture-that-drives-business-forward](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/building-a-learning-culture-that-drives-business-forward) 
 
+<b><font style="color:#4372d6;">Curiosity and the Case for Lifelong Learning</font></b><br>
+The journey is more important than the destination when it comes to upskilling. The focus should not be on the job you are doing now but on the job you will do in the future. In this podcast, Professor Sameer Hasija, Dean of INSEAD’s Executive Education, shares his thoughts on the importance of lifelong learning and why having a curious mindset is key.
 
-| Title | Description | 
-| -------- | -------- | 
-| **Agile PM 101 - Learn the Truth About Agile versus Waterfall**     | Explore the relationship between "agile" and "waterfall" and obtain a new perspective on how these two approaches can be complementary rather than competitive. [https://nlbsg.udemy.com/course/learn-the-truth-about-agile-versus-waterfall/](https://nlbsg.udemy.com/course/learn-the-truth-about-agile-versus-waterfall/)     | 
-|**Agile PM 201 - Understanding Agile at a Deeper Level**| Explore a deeper understanding of the principles and values behind agile and Scrum to create high performing agile teams. [https://nlbsg.udemy.com/course/understanding-agile-at-a-deeper-level/](https://nlbsg.udemy.com/course/understanding-agile-at-a-deeper-level/) |
-|**Agile Leadership and Resilient Teams** | Master the tools agile leaders use to make decisions, resolve conflict, and build team relationships to create a resilient team that overcomes any change or challenges. [https://nlbsg.udemy.com/course/agile-leadership-and-resilient-teams/](https://nlbsg.udemy.com/course/agile-leadership-and-resilient-teams/ )
+INSEAD Executive Podcasts. (2022, September 8). Curiosity and the Case for Lifelong Learning. Retrieved 2022, October 6. [https://open.spotify.com/episode/5aFGfGvQZdkw3tRcC0IXR8?si=9EAXpfVeQeSDN26h5tMHFw&nd=1 ](https://open.spotify.com/episode/5aFGfGvQZdkw3tRcC0IXR8?si=9EAXpfVeQeSDN26h5tMHFw&nd=1 )
 <br>
 <br>
 <br>

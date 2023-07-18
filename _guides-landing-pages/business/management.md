@@ -7,8 +7,9 @@ third_nav_title: Business
 ---
 <img src="/images/category/management.jpg" alt="management banner" style="width:800px;" />
 
-<!--* [**Digital Workplaces**](/guides/business/management/digital-workplaces)
-* [**Digital Transformation in Businesses**](/guides/business/management/digital-transformation)-->
+* [**Artificial Intelligence and the Future of Work**](/guides/business/management/artificial-intelligence/)
+
+* [**Continuous Learning**](/guides/business/management/continuous-learning/)
 
 * [**Gig Economy**](/guides/business/management/gig-economy)
 
