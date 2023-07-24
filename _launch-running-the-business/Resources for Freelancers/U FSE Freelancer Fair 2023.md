@@ -30,6 +30,6 @@ Be ready for inspiring workshops (Including a keynote by Annette Lee), expert ad
 (3) Get insights from industry players on developing a sustainable and value-based freelancing business&nbsp;  
 (4) Join us for a ‘Y2K’ themed workout to end the night with a bang!
 
-You can also check out the full programme [**here**](/files/ntuc%20freelancer%20fair%20programme.pdf)
+You can also check out the full programme [**here**](/files/Launch/ntuc%20freelancer%20fair%20programme.pdf)
 
 ![NTUC Freelancer Fair Poster-2](/images/ntuc%20freelancer%20fair%20poster-2.jpg)

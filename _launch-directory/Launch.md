@@ -13,10 +13,12 @@ adults to explore new opportunities to launch the next phase of your professiona
 
 Connect with the right resources, communities, networks and spaces!
 
+Find out more with our Launch [**brochure**](/files/Launch/nlb%20launch%20brochure_july%202023.pdf).
+
 <hr>
 
 <table>
-	<tr><!--row 1-->
+	<tbody><tr><!--row 1-->
 		<td>
 			<h3><b>Business Kickstarter</b></h3>
 			<p>No matter what stage your business is at, we have the resources and tools to take it to the next level.</p>
@@ -27,7 +29,7 @@ Connect with the right resources, communities, networks and spaces!
 	<tr><!--row 2-->
 		<td style="width:50%"><img src="/images/launch-icons/Programmes-Onsite-01.png" style="width:250px"></td>
 		<td>
-			<h3><b>Workshops & Programmes</b></h3>
+			<h3><b>Workshops &amp; Programmes</b></h3>
 			<p>Keep an eye out for our free workshops, seminars and programmes</p>
 			<p>Discover <a href="https://go.gov.sg/nlb-launch-programmes"><b>our programmes</b></a> now!</p>
 		</td>
@@ -40,6 +42,6 @@ Connect with the right resources, communities, networks and spaces!
 		</td>
 		<td style="width:50%"><img src="/images/launch-icons/Books-01.png" style="width:250px"></td>
 	</tr>
-</table>
+</tbody></table>
 
 <hr>
