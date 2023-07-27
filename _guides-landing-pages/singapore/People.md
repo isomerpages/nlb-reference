@@ -66,30 +66,31 @@ Names are listed in alphabetical order:
 		<td><b><a href="/guides/singapore/people/lee-dai-sor">Lee Dai Sor / 李大傻</a></b></td>
 	</tr>
 	<tr>
+		<td><b><a href="/guides/singapore/people/lee-kuan-yew">Lee Kuan Yew</a></b></td>
 		<td><b><a href="/guides/singapore/people/lee-siow-mong/">Lee Siow Mong / 李绍茂</a></b></td>
+	</tr>
+	<tr>
 		<td><b><a href="/guides/singapore/people/leong-yoon-pin/">Leong Yoon Pin</a></b></td>
+				<td><b><a href="/guides/singapore/people/lew-poo-chan/">Lew Poo Chan</a></b></td>
 	</tr>
 	<tr>
-		<td><b><a href="/guides/singapore/people/lew-poo-chan/">Lew Poo Chan</a></b></td>
 		<td><b><a href="/guides/singapore/people/lien-shih-sheng/">Lien Shih Sheng / 连士升</a></b></td>
+			<td><b><a href="/guides/singapore/people/lien-ying-chow/">Lien Ying Chow / 连瀛洲</a></b></td>
 	</tr>
 	<tr>
-		<td><b><a href="/guides/singapore/people/lien-ying-chow/">Lien Ying Chow / 连瀛洲</a></b></td>
 		<td><b><a href="/guides/singapore/people/lim-fei-shen">Lim Fei Shen</a></b></td>
+				<td><b><a href="/guides/singapore/people/lim-loh">Lim Loh / 林路</a></b></td>
 	</tr>
 	<tr>
-		<td><b><a href="/guides/singapore/people/lim-loh">Lim Loh / 林路</a></b></td>
 		<td><b><a href="/guides/singapore/people/lim-tze-peng">Lim Tze Peng</a></b></td>
-	</tr>
-	<tr>
 		<td><b><a href="/guides/singapore/people/lin-hengnan">Lin Hengnan / 林衡南</a></b></td>
+	</tr>
+	<tr>
 		<td><b><a href="/guides/singapore/people/low-ing-sing">Low Ing Sing / 刘仁心</a></b></td>
-	</tr>
-	<tr>
 		<td><b><a href="/guides/singapore/people/neo-tiew">Neo Tiew / 梁宙</a></b></td>
-		<td><b><a href="/guides/singapore/people/pan-shou">Pan Shou / 潘受</a></b></td>
 	</tr>
 	<tr>
+		<td><b><a href="/guides/singapore/people/pan-shou">Pan Shou / 潘受</a></b></td>
 		<td><b><a href="/guides/singapore/people/raffles-sea">Raffles in Southeast Asia</a></b></td>
 	</tr>
 	<tr>
