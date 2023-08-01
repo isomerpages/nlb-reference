@@ -92,9 +92,9 @@ Learn how you can preserve your family's history via this guide, which explains 
 
 <img src="/images/digital-preservation/Article-1.jpg" style="width:150px;" />
 
-[**Caring for your digital collections**](https://guides.slsa.sa.gov.au/YourDigitalCollections/Introduction){:target="_blank"}
+[**Caring for your collections: Digital collections**](https://guides.slsa.sa.gov.au/caringforyourcollections/digitalcollections){:target="_blank"}
 
-This guide by the State Library of South Australia provides recommendations on how you can ensure the long-term survival of personal digital materials of various formats, such as digital photographs, digital audio files, digital videos, electronic mail, personal digital records and websites.
+This guide by the State Library of South Australia provides a basic explanation and recommendation on how you can ensure the long-term survival of personal digital materials of various formats. It also provides a set of tips on how personal digital memories can be preserved.
 
 
 <img src="/images/digital-preservation/Article-2.jpg" style="width:150px;" />
@@ -120,9 +120,9 @@ The Digital Curation Centre is a world-leading centre of expertise in digital in
 
 <img src="/images/digital-preservation/Article-4.jpg" style="width:150px;" />
 
-[**Library of Congress Recommended Formats Statement − 2021−2022**](https://www.loc.gov/preservation/resources/rfs/){:target="_blank"}
+[**Library of Congress Recommended Formats Statement − 2023−2024**](https://www.loc.gov/preservation/resources/rfs/){:target="_blank"}
 
-This statement released by the Library of Congress is a list of recommended formats for the long-term preservation of a variety of works such as textual, still image, moving image, audio and musical scores. The latest release is the 2021−2022 version.
+This statement released by the Library of Congress is a list of recommended formats for the long-term preservation of a variety of works such as textual, still image, moving image, audio and musical scores. The latest release is the 2023−2024 version.
 
 
 <img src="/images/digital-preservation/Article-1.jpg" style="width:150px;" />
