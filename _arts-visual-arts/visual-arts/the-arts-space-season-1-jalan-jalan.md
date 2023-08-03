@@ -4,9 +4,8 @@ permalink: /guides/arts/visual-arts/the-arts-space-season1-jalan-jalan/
 breadcrumb: The Arts Space (Season 1) Jalan-Jalan
 collection_name: arts-visual-arts
 third_nav_title: Visual Arts
-published: true
+published: "true"
 ---
-
 **The Arts Space at Level 8 of the National Library has been re-imagined as a space that brings to life our rich collection from books and photographs to artworks and poems. Inspired by the painting, “The Couple” by acclaimed Singapore artist Tan Swie Hian, the Arts librarians have set out to create a multi-purpose space – physical and virtual, collaborative and contemplative – that not only evokes a cosy reading corner with recommended reads but a curated space for displays and exhibitions.**
 
 
@@ -17,7 +16,7 @@ Season 1, **_JALAN-JALAN_** (a Malay word meaning to stroll or go for a walk), k
 
 Why **_JALAN-JALAN_**? We want to take you on a journey to revisit some of Singapore’s old buildings and street scenes as depicted by the paintings through three different trails (sub-themes) – Soul City, Ann Siang Revisited and Shop the Past. Read on to find out more and to discover home-grown paintings, artists, poems and a host of other resources.
 
-| <a href="#soulcity"><img src="/images/arts/visualarts/Guide-index_Soul-City.png"/></a> | <a href="#annsiang"><img src="/images/arts/visualarts/Guide-index_Ann-Siang-Revisited.png" /></a> | <a href="#shoppast"><img src="/images/arts/visualarts/Guide-Index_Shop-the-Past.png" /></a> |  
+| <a href="#soulcity"><img src="/images/arts/visualarts/Guide-index_Soul-City.png"></a> | <a href="#annsiang"><img src="/images/arts/visualarts/Guide-index_Ann-Siang-Revisited.png"></a> | <a href="#shoppast"><img src="/images/arts/visualarts/Guide-Index_Shop-the-Past.png"></a> |  
 
 ![Divider image](/images/arts/visualarts/DIVIDER.png)
 
@@ -85,7 +84,7 @@ Call no.: RSING English 759.95957 SIN
 This exhibition catalogue features Singapore artworks in four veins – traditional Chinese ink, watercolour, Nanyang style and beyond. It includes an introduction on Singapore art history, the styles and short bios of artists featured.
 
 
-* Chia, W. H., & Chai, Y. C. (1982). [Singapore artists](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082073). Singapore: Singapore Cultural foundation & Federal Publications.
+* Chia, W. H., &amp; Chai, Y. C. (1982). [Singapore artists](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082073). Singapore: Singapore Cultural foundation &amp; Federal Publications.
 
 Call no.: RSING English 759.95957 SIN
 
@@ -99,8 +98,8 @@ Call no.: RCLOS English 759.9595 UNI
 On her return to Singapore after her studies at École Nationale Supérieure des Beaux-Arts in Paris, Lai Foong Moi brought back with her the paintings created during this time. This catalogue features these artworks.
 
 
-* National Library Board. (2017). [Ong Kim Seng](http://eresources.nlb.gov.sg/infopedia/articles/SIP_462_2005-01-17.html) written by Nureza Ahmad. Retrieved 21 March 2018, from Singapore Infopedia. <br>
-URL: http://eresources.nlb.gov.sg/infopedia/articles/SIP_462_2005-01-17.html
+* National Library Board. (2017). [Ong Kim Seng](https://eresources.nlb.gov.sg/infopedia/articles/SIP_462_2005-01-17.html) written by Nureza Ahmad. Retrieved 21 March 2018, from Singapore Infopedia. <br>
+URL: https://eresources.nlb.gov.sg/infopedia/articles/SIP_462_2005-01-17.html
 
 An article providing biographical information on eminent watercolourist and Cultural Medallion winner Ong Kim Seng about his life and achievements, including some of the publications he has produced over the years.
 
@@ -160,20 +159,20 @@ The Singapore Urban Sketchers group presents this compilation of illustrations b
 ### <u>On Subject</u>
 
 
-* National Library Board. (2016). [Cavenagh Bridge](http://eresources.nlb.gov.sg/infopedia/articles/SIP_2_2004-12-17.html) written by Vernon Cornelius. Retrieved 21 March, 2018 from Singapore Infopedia.<br>
-URL: http://eresources.nlb.gov.sg/infopedia/articles/SIP_2_2004-12-17.html
+* National Library Board. (2016). [Cavenagh Bridge](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2_2004-12-17.html) written by Vernon Cornelius. Retrieved 21 March, 2018 from Singapore Infopedia.<br>
+URL: https://eresources.nlb.gov.sg/infopedia/articles/SIP_2_2004-12-17.html
 
 Completed in 1869, Cavenagh Bridge is the oldest bridge across the Singapore River. This article gives the history and description about the bridge along with references.
 
 
-* National Library Board. (2001). [The Esplanade written by Vernon Cornelius-Takahama](http://eresources.nlb.gov.sg/infopedia/articles/SIP_149_2004-12-13.html). Retrieved 21 March, 2018 from Singapore Infopedia.<br>
-URL: http://eresources.nlb.gov.sg/infopedia/articles/SIP_149_2004-12-13.html
+* National Library Board. (2001). [The Esplanade written by Vernon Cornelius-Takahama](https://eresources.nlb.gov.sg/infopedia/articles/SIP_149_2004-12-13.html). Retrieved 21 March, 2018 from Singapore Infopedia.<br>
+URL: https://eresources.nlb.gov.sg/infopedia/articles/SIP_149_2004-12-13.html
 
 The Esplanade (or Padang) was a field originally by the sea before the 1843 reclamation. This article provides information about the history and some of the historic activities from colonial times to present day.
 
 
-* National Library Board. (2010). [CHIJMES](http://eresources.nlb.gov.sg/infopedia/articles/SIP_828_2004-12-15.html) written by Joanna HS Tan. Retrieved 21 March, 2018 from Singapore Infopedia.<br>
-URL: http://eresources.nlb.gov.sg/infopedia/articles/SIP_828_2004-12-15.html
+* National Library Board. (2010). [CHIJMES](https://eresources.nlb.gov.sg/infopedia/articles/SIP_828_2004-12-15.html) written by Joanna HS Tan. Retrieved 21 March, 2018 from Singapore Infopedia.<br>
+URL: https://eresources.nlb.gov.sg/infopedia/articles/SIP_828_2004-12-15.html
 
 CHIJMES was originally known as the Convent of the Holy Infant Jesus, a premier girls’ school established in 1854. This article provides information on the history and its role in early education in Singapore.
 
@@ -324,7 +323,7 @@ This Infopedia article describes the oldest Hindu temple on the South Bridge roa
 
 Call no: RSING 779.995957 CHI
 
-This publication features photographs and other documents exhibited at the “Exhibition of Chinatown” organised by the Archives & Oral History Department from 31 March – 10 April 1983. The images and documents come with brief write-ups and captions. A map (circa 1846) by Government Surveyor Mr. John Turnbull Thomson is featured on p.16, which includes areas around Ann Siang Hill (then Scott’s Hill).
+This publication features photographs and other documents exhibited at the “Exhibition of Chinatown” organised by the Archives &amp; Oral History Department from 31 March – 10 April 1983. The images and documents come with brief write-ups and captions. A map (circa 1846) by Government Surveyor Mr. John Turnbull Thomson is featured on p.16, which includes areas around Ann Siang Hill (then Scott’s Hill).
 
 <a name="shoppast"></a>
 
@@ -376,7 +375,7 @@ Reports of more than a dozen artists documenting the life and streetscapes of Ch
 
 
 * [Lim Tze Peng, Cultural Medallion award 2003 (Art)](http://eresources.nlb.gov.sg/arts/web/contents/ArticleDetails.aspx?Id=455ef05c-5adb-40d1-aeaf-e2399269b2da). (2003). \[Video\]. National Library Board and National Arts Council.<br>
-URL: http://eresources.nlb.gov.sg/arts/web/contents/ArticleDetails.aspx?Id=455ef05c-5adb-40d1-aeaf-e2399269b2da
+URL: http://eresources.nlb.gov.sg/arts/website/contents/ArticleDetails.aspx?Id=455ef05c-5adb-40d1-aeaf-e2399269b2da
 
 A 16-minute video chronicling Lim’s artistic development, creative process, governing philosophies, and visual vocabularies. Highlights include his oeuvre of artworks which capture the heritage and history of tropical Singapore and Southeast Asia.
 
