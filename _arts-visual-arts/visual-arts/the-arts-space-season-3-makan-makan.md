@@ -4,9 +4,8 @@ permalink: /guides/arts/visual-arts/the-arts-space-season3-makan-makan/
 breadcrumb: The Arts Space (Season 3) Makan-Makan
 collection_name: arts-visual-arts
 third_nav_title: Visual Arts
-published: true
+published: "true"
 ---
-
 **The Arts Space at Level 8 at the National Library has been re-imagined as a space that brings to life our rich collection from books and photographs to artworks and poems. Inspired by the painting, “The Couple” by acclaimed Singapore artist Tan Swie Hian, the Arts Librarians have set out to create a multi-purpose space – physical and virtual, collaborative and contemplative – that not only evokes a cosy reading corner with recommended reads but a curated space for displays and exhibitions.**
 
 ![Overview image](/images/arts/visualarts/overview-2.png)
@@ -81,7 +80,7 @@ This article is a review of self-taught artist, Poh Siew Wah’s 1987 exhibition
 
 ### <u>On Subject</u>
 
-* Chia, P. (2019). [Wet market to table : A modern approach to fruit & vegetables](http://eservice.nlb.gov.sg/item_holding.aspx?bid=203867313). Singapore: Epigram Books.
+* Chia, P. (2019). [Wet market to table : A modern approach to fruit &amp; vegetables](http://eservice.nlb.gov.sg/item_holding.aspx?bid=203867313). Singapore: Epigram Books.
 
 Call no.: RSING 641.595957 CHI
 
@@ -116,7 +115,7 @@ Call no.: RSING 823.914 YU
 Written by Ovidia Yu, this is the first of the “Aunty Lee” series of mystery novels. The series’ protagonist is Aunty Rosie Lee, a Peranakan widow, amateur detective and owner of Singapore’s best-loved home-cooking restaurant. With a nose for uncovering mystery, the amateur sleuth digs deep into her guests over her food and specially brewed teas.
 
 
-* Zhuang, J. & Ng, S. (2016). Eating together: The design of sharing food in a connected work. Singapore: In Plain Word.
+* Zhuang, J. &amp; Ng, S. (2016). Eating together: The design of sharing food in a connected work. Singapore: In Plain Word.
 
 Call no.: RSING 394.12095957 ZHU
 
@@ -152,7 +151,7 @@ Below is a selection of related resources available from the NLB catalogue or th
 
 ### <u>On Artists</u>
 
-* Chua, M.T. (1997). [Oral History Interview with Chua Mia Tee](http://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/001901). Singapore: National Archives of Singapore.
+* Chua, M.T. (1997). [Oral History Interview with Chua Mia Tee](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/001901). Singapore: National Archives of Singapore.
 
 Chua Mia Tee speaks about his family and background, his time in the Nanyang Academy of Fine Arts, as well as various milestones in his artistic career. Key works such as “Workers in a Canteen” and his views on the importance of content in paintings are also discussed during this oral interview, conducted in 1997.
 
@@ -206,11 +205,11 @@ Call no: RSING 394.12095957 FOO
 This volume brings together various perspectives on food culture in Singapore, including pig-farming, food-blogging, the history of kopitiams, and the globalisation of food in Singapore. More than descriptive texts of culinary experiences, this book examines the historical, social, and economic aspects of food production and consumption in Singapore.
 
 
-* Our hawker centres: [A heritage & art project, a commemorative collection of murals and art installations](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202203017). 2015. Singapore: National Environment Agency.
+* Our hawker centres: [A heritage &amp; art project, a commemorative collection of murals and art installations](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202203017). 2015. Singapore: National Environment Agency.
 
 Call no: RSING 725.71095957OUR
 
-The “Our Hawker Centres – A Heritage & Art Project” initiative was jointly organised by the National Environment Agency and the National Heritage Board, in partnership with the National Arts Council. It was launched in 2015 to raise public awareness of the heritage and cultural value of Singapore’s hawker centres. This book documents the processes, stories, and images of various art murals and installations created by schools and organisations in hawker centres all over Singapore.
+The “Our Hawker Centres – A Heritage &amp; Art Project” initiative was jointly organised by the National Environment Agency and the National Heritage Board, in partnership with the National Arts Council. It was launched in 2015 to raise public awareness of the heritage and cultural value of Singapore’s hawker centres. This book documents the processes, stories, and images of various art murals and installations created by schools and organisations in hawker centres all over Singapore.
 
 
 * National Library Board. (2016). [Travelling hawkers](http://eresources.nlb.gov.sg/infopedia/articles/SIP_47_2004-12-27.html) written by Thulaja, N.R.. Retrieved 7 September 2019, from Singapore Infopedia.
@@ -274,14 +273,14 @@ Call no.: R 809.93355 BRO
 Horror, revulsion, then intrigue, fascination, and even an odd sense of pleasure – these emotions fill us when we encounter cannibalism in literature and film. The cannibal is simply pervasive in popular culture. Through the chronological study of the transgressing cannibal figure across different genres, Brown is able to provide us with insights into the accepted norms, prejudices, taboos and very real fears a society harbours, especially pertinent to all of us living in a modern era of consumerism and overindulgence.
 
 
-* Miller, C. J. & van Riper, B. (Eds.) (2017). [What’s eating you? : food and horror on screen](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?BRN=203431157). New York, NY : Bloomsbury Academic.
+* Miller, C. J. &amp; van Riper, B. (Eds.) (2017). [What’s eating you? : food and horror on screen](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?BRN=203431157). New York, NY : Bloomsbury Academic.
 
 Call no.:791.436564 WHA -\[ART\] 
 
 The old adage, “We are what we eat” rings true in this wide-ranging collection of essays that delves into the cinematic portrayal of food and consumption, examining the complex connections between our food choices and our beliefs and value systems. Across a tantalizing spread of horror narratives, of dangerous dishes and grotesque cannibalism, the consumer unwittingly becoming the consumed, this book destabilizes all our notions about the human condition and forces us to question our very human nature.
 
 
-* Murck, A. (Ed.) (2013). [Mao’s Golden Mangoes and the Cultural Revolution](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?BRN=200186669). Zürich : Scheidegger & Spiess.
+* Murck, A. (Ed.) (2013). [Mao’s Golden Mangoes and the Cultural Revolution](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?BRN=200186669). Zürich : Scheidegger &amp; Spiess.
 
 Call no.: R 951.056 MAO
 
@@ -300,21 +299,21 @@ Call no.: Chinese 791.436559 TH -\[ART\]
 From Breakfast at Tiffany’s to Babette’s Feast, from the classic French cheese board to the spicy hot chilli peppers of Mexico, this book explores a myriad of local food cultures through film. The rich and colourful food heritage of Europe, America and Asia is revealed to us as against the varied backdrop of comedy, tragedy, romance and horror. In English and Chinese.
 
 
-* Zimmerman, S. & Weiss, K. (2005). [Food in the Movies](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?BRN=12678307). Jefferson, N.C. : McFarland.
+* Zimmerman, S. &amp; Weiss, K. (2005). [Food in the Movies](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?BRN=12678307). Jefferson, N.C. : McFarland.
 
 Call no.: 791.436559 ZIM
 
 Food in the past has always been an ever-present yet seldom noticed element in film. Food films as a new genre did not emerge until the late 1980s. Covering over 500 American and British movies of every genre, the authors identify the many prominent roles of food as a prop, transition device, symbol and metaphor through a historical overview of different storylines.
 
 
-* Basker, K. M. (Director) & Salleh Ghani (Screenwriter) (1961). [Sultan Mahmood mangkat di-julang](hhttp://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?BRN=203799484). \[Videodisc\]. Singapore: Asian Film Archive.
+* Basker, K. M. (Director) &amp; Salleh Ghani (Screenwriter) (1961). [Sultan Mahmood mangkat di-julang](hhttp://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?BRN=203799484). \[Videodisc\]. Singapore: Asian Film Archive.
 
 Call no.: RSING Malay 791.4372 SUL
 
 In this Cathay-Keris film based on a 17th century folklore, the pregnant wife of Megat Sri Rama, Wan Anum (played by Maria Menado), eats a slice of jackfruit from a tree planted by Sultan Mahmood, leading to tragedy and revenge.
 
 
-* Cheek (Writer & Director). (2000). [Chicken rice war](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?BRN=12424313). \[Videodisc\]. Hong Kong: Mei Ah Entertainment.
+* Cheek (Writer &amp; Director). (2000). [Chicken rice war](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?BRN=12424313). \[Videodisc\]. Hong Kong: Mei Ah Entertainment.
 
 Call no.: RSING 791.4372 CHI
 
@@ -342,7 +341,7 @@ Call no.: RSING 647.955957 OLD
 Most of us connect to certain foods, whether as a source of comfort or as a nostalgia memory. This documentary features 49 bite-sized segments on different hawker stalls, and the relationships that Singaporeans develop with these hawkers and their food.
 
 
-* Woodford, N. M. (Writer & Director), & Tan, J. Q. (Writer) (2011). Kitchen quartet. [In Sinema showoff!: class of 2010 :A collection of Singapore’s emerging filmmakers](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?BRN=13850014). \[Videodisc\]. Singapore: Sinema.
+* Woodford, N. M. (Writer &amp; Director), &amp; Tan, J. Q. (Writer) (2011). Kitchen quartet. [In Sinema showoff!: class of 2010 :A collection of Singapore’s emerging filmmakers](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?BRN=13850014). \[Videodisc\]. Singapore: Sinema.
 
 Call no.: RSING 791.4375 SIN
 

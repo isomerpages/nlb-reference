@@ -4,9 +4,8 @@ permalink: /guides/arts/performing-arts/music-101/
 breadcrumb: Music 101
 collection_name: arts-performing-arts
 third_nav_title: Performing Arts
-published: true
+published: "true"
 ---
-
 ### <u>Guide Index</u>
 
 * [Introduction](#introduction)
@@ -40,7 +39,7 @@ Call Number: RART 780.9 BUR
 Description: This book gives a thorough introduction to the history of music in the Western tradition. It describes Western music in chronological order, from ancient Greek and Roman to American 20th century music.
 
 
-* Kamien, R. & Kamien, A. (2011). [Music : an appreciation](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13707899). New York: McGraw-Hill.
+* Kamien, R. &amp; Kamien, A. (2011). [Music : an appreciation](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13707899). New York: McGraw-Hill.
 
 Call Number: RART 780 KAM
 
@@ -61,7 +60,7 @@ Call Number: 780.9 ROU -\[ART\]
 Description: This is a handbook, spanning a thousand years of music from Gregorian chants to Bach and Beethoven, to contemporaries such as Thomas Ades and Kaija Saariaho. Both a CD buyer’s guide and a Who’s Who, the guide includes concise biographical profiles of more than 200 composers and informative summaries of the major compositions in all genres, from chamber works to operatic epics.
 
 
-* Kostka, S. & Payne, D. (2004). [Tonal Harmony, with an Introduction to Twentieth-Century Music](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11924574). New York, N.Y.; London:McGraw-Hill
+* Kostka, S. &amp; Payne, D. (2004). [Tonal Harmony, with an Introduction to Twentieth-Century Music](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11924574). New York, N.Y.; London:McGraw-Hill
 
 Call Number: RART 781.25 KOS
 
@@ -79,7 +78,7 @@ Call Number: RART 780.922 BAK
 Description : This six-volume work includes entries for musicians from all over the world, from classical to 20th century jazz and popular musicians.
 
 
-* Kennedy, M. & Kennedy, J.B. (2007). [The concise Oxford dictionary of music](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13714410). Oxford; New York: Oxford University Press
+* Kennedy, M. &amp; Kennedy, J.B. (2007). [The concise Oxford dictionary of music](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13714410). Oxford; New York: Oxford University Press
 
 Call Number: 780.3 KEN -\[ART\] 
 
@@ -90,7 +89,7 @@ Description: This book covers musical instruments and their history and covers l
 
 Call Number: RART 781.6403 ENC
 
-Description: This is an essential reference book for anyone who has a query about any aspect of 20th century popular music, including rock, dance, rap and R&B, as well as blues, soul, country and folk.
+Description: This is an essential reference book for anyone who has a query about any aspect of 20th century popular music, including rock, dance, rap and R&amp;B, as well as blues, soul, country and folk.
 
 
 * Nettl, B., et al. (Eds.). (1998-2002). [The Garland Encyclopedia of World Music](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11552905). New York; London:Routledge,
@@ -100,7 +99,7 @@ Call Number: RART 780.9 GAR
 Description: This 10-volume set covers musical traditions of all regions of the world. It also includes a volume on world music perspectives and reference tools.
 
 
-* Sadie, S. & Tyrrell, J. (Eds). (2001). [The New Grove Dictionary of Music and Musicians](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9924093). New York, London: Grove’s Dictionaries, Macmillan
+* Sadie, S. &amp; Tyrrell, J. (Eds). (2001). [The New Grove Dictionary of Music and Musicians](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9924093). New York, London: Grove’s Dictionaries, Macmillan
 
 Call Number: RART 780.3 NEW
 
@@ -203,7 +202,7 @@ Naxos Music Library Jazz is an online streaming jazz music database offering mus
 Available at all libraries and from home.
 
 
-* Proquest arts & humanities database
+* Proquest arts &amp; humanities database
 
 This interdisciplinary database provides full-text articles from scholarly peer-reviewed journals and selected trade and consumer publications in arts, humanities, cultural studies, philosophy, modern languages and literatures, religion, history, geography, music, theatre, film and more.
 
@@ -239,7 +238,7 @@ A guide to Western composers and their music, from the Middle Ages to the presen
 This is a society to promote music theory as both a scholarly and a pedagogical discipline.
 
 
-* About IASPM-US. (n.d.). Retrieved October 28, 2016 from the International Association for the Study of Popular Music – US Branch website: [http://iaspm-us.net/about-iaspm-us/](http://iaspm-us.net/about-iaspm-us/)
+* International Association for the Study of Popular Music. (2023). Retrieved August 3, 2023: [https://iaspm-us.wildapricot.org/](https://iaspm-us.wildapricot.org/)
 
 This is an international organization established to promote inquiry, scholarship and analysis in the area of popular music.
 
@@ -283,7 +282,7 @@ Call Number: AV 784.2 NUS
 Description: Concert staged at the Shaw Foundation Symphony Stage of the Botanic Gardens to celebrate the centenary of the National University of Singapore. The highlight of the concert was the first public performance of extracts from the ‘Centennial Symphony’, which was composed by Dr. Robert Casteels, Associate-in-Residence from the NUS Centre for the Arts.
 
 
-* National Library Board & Ngee Ann Polytechnic. (2007). [On the record : homegrown bands from then and now](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13186479). [sound recording]. Singapore : National Library Board
+* National Library Board &amp; Ngee Ann Polytechnic. (2007). [On the record : homegrown bands from then and now](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13186479). [sound recording]. Singapore : National Library Board
 
 Call Number: RSING 782.42164 ON
 

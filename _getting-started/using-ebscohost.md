@@ -13,11 +13,11 @@ EBSCOhost Academic Search Complete is a leading resource for scholarly research.
 
 1. Log in to NLB’s [**eResources**](https://eresources.nlb.gov.sg/main){:target="blank"} page with *myLibraryID*. To find out more about setting up *myLibrary ID*, please refer to this [**link**](https://go.gov.sg/mylibraryid){:target="blank"} .
 
-   <img src="\images\getting-started\eresources-1_Login.png" style="width:400px;" />
+   <img src="\images\getting-started\eresources-1_Login.PNG" style="width:400px;" />
 
 2. Click the “By A-Z” browsing option on the left, select “E”, followed by “EBSCOhost academic search complete”
 
-   <img src="\images\getting-started\ebscohost-2-Accessing.png" style="width:500px;" />
+   <img src="\images\getting-started\ebscohost-2-Accessing.PNG" style="width:500px;" />
 
 3. Enter your search term(s) into the search bar and hit “Enter” to search
 
@@ -42,4 +42,4 @@ EBSCOhost Academic Search Complete is a leading resource for scholarly research.
 
    - Click the “Cite” button in the right column to generate a citation of your choice. Scroll down the citation formats until you find your preferred style. Copy and paste the citation for your own references list
 
-   <img src="/images\getting-started\ebscohost-6b-Citation.png" style="width:500px;" />
+   <img src="/images\getting-started\ebscohost-6b-Citation.PNG" style="width:500px;" />

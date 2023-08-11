@@ -14,11 +14,11 @@ JSTOR provides online access to archived contents of important scholarly journal
 
 1. Log in to NLB’s [**eResources**](https://eresources.nlb.gov.sg/main){:target="blank"} page with *myLibraryID*. To find out more about setting up *myLibrary ID*, please refer to this [**link**](https://go.gov.sg/mylibraryid){:target="blank"} .
 
-   <img src="/images\getting-started\jstor-1_Login.png" style="width:400px;" />
+   <img src="/images\getting-started\jstor-1_Login.PNG" style="width:400px;" />
 
 2. Click the “By A-Z” browsing option on the left, select “J”, followed by “JSTOR”
 
-   <img src="/images\getting-started\jstor-2_Accessing_JSTOR.png" style="width:500px;" />
+   <img src="/images\getting-started\jstor-2_Accessing_JSTOR.PNG" style="width:500px;" />
 
 3. Enter your search term(s) into the search bar and hit “Enter” to search
 
@@ -32,7 +32,7 @@ JSTOR provides online access to archived contents of important scholarly journal
    - Select your preferred source type, ranging from academic journals, trade publications to newspaper articles
    - Specify the date range of your search results by entering the specific date formats into the “From” and “To” boxes. Click “Apply” once you are done
 
-   <img src="/images\getting-started\jstor-4_JSTOR_filtering.png" style="width:250px;" />
+   <img src="/images\getting-started\jstor-4_JSTOR_filtering.PNG" style="width:250px;" />
 
 5. Select a search result of your choice
 
@@ -42,4 +42,4 @@ JSTOR provides online access to archived contents of important scholarly journal
 
 7. Click the “Cite this item” button in the left column to launch a separate window containing the three citation formats you can use: APA, MLA and Chicago. Copy and paste the citation for your own references list
 
-   <img src="/images\getting-started\jstor-6_JSTOR_citation.png" style="width:500px;" />
+   <img src="/images\getting-started\jstor-6_JSTOR_citation.PNG" style="width:500px;" />
