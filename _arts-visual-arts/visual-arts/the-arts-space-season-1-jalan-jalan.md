@@ -177,7 +177,7 @@ URL: https://eresources.nlb.gov.sg/infopedia/articles/SIP_828_2004-12-15.html
 CHIJMES was originally known as the Convent of the Holy Infant Jesus, a premier girls’ school established in 1854. This article provides information on the history and its role in early education in Singapore.
 
 
-* National Library Board. (2002). N[ational Library Building (Stamford Road)](http://eresources.nlb.gov.sg/infopedia/articles/SIP_661_2004-12-27.html) written by Anasuya Balamururgan. Retrieved 21 March, 2018 from Singapore Infopedia.<br>
+* National Library Board. (2002). [National Library Building (Stamford Road)](http://eresources.nlb.gov.sg/infopedia/articles/SIP_661_2004-12-27.html) written by Anasuya Balamururgan. Retrieved 21 March, 2018 from Singapore Infopedia.<br>
 URL: http://eresources.nlb.gov.sg/infopedia/articles/SIP_661_2004-12-27.html
 
 Officially opened on 12 November 1960, the distinctive red-brick building was said to reflect the red-brick epoch of British architecture in the 1950s. This article gives the history and description of the now demolished building.
