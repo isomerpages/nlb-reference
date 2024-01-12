@@ -66,14 +66,6 @@ No matter what stage your business is at, we have the resources and tools to tak
 					 </div>
 				 </div>
 				 <div class="launch-accordion">
-					 <input type="checkbox" id="info5">
-					 <label for="info5"><b>Udemy Business</b></label>
-					 <div class="launch-accordion-content">
-						 <p><b>Udemy Business</b> is an online learning platform that offers thousands of courses on key soft skills and technical topics such as Software Development, Leadership, Marketing, Sales, Programming, IT, and more. Login with your myLibrary ID to sign up for online courses, all for free. Learn at your own time, and keep track of your personal learning journey.</p>
-						 <p>Discover Udemy Business <a href="https://eresources.nlb.gov.sg/Main/browse/resource/1361">here</a>.</p>
-					 </div>
-				 </div>
-				 <div class="launch-accordion">
 					 <input type="checkbox" id="info6">
 					 <label for="info6"><b>E-books on NLB Overdrive</b></label>
 					 <div class="launch-accordion-content">
@@ -145,4 +137,5 @@ No matter what stage your business is at, we have the resources and tools to tak
 - Make an appointment with our Specialist using this [online form](https://go.gov.sg/nlb-launch-consultation)
 - Email us about your business research topics at&nbsp;[ref@nlb.gov.sg](mailto:ref@nlb.gov.sg?subject=Launch%20enquiry)
 - Visit us at our Launch site, where curated information resources are available for browsing or loan:
-	 - Launch @ Punggol Regional Library, Level 4
+	- Launch @ National Library, Level 7
+	- Launch @ Punggol Regional Library, Level 4
