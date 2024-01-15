@@ -16,7 +16,7 @@ No matter what stage your business is at, we have the resources and tools to tak
 					 <input type="checkbox" id="specialist2">
 					 <label for="specialist2"><b>What we provide</b></label>
 					 <div class="launch-accordion-content">
-						 <li>Face-to-face consultation at a Launch site during office hours (at Punggol Regional Library)</li>
+						 <li>Face-to-face consultation at a Launch site during office hours (at Punggol Regional Library or the National Library Building)</li>
              <li>Online consultation via video conferencing during office hours</li>
              <li>Access to NLB resources including print and digital materials, subscribed business databases</li>
              <li>Guidance and instructions on how to maximise the use of NLB resources</li>
@@ -63,14 +63,6 @@ No matter what stage your business is at, we have the resources and tools to tak
 					 <div class="launch-accordion-content">
 						 <p><b>EIU Viewpoint</b> (previously Economist Intelligence Unit) provides insights into a country’s political, policy and economic outlook, and proprietary ratings on the business environment and risks. We provide forecasts of 5-years, up to 30-years into the future to help you understand what is happening now, and gain insight on how each country will look in the future. Viewpoint also provides industry analysis for six major industries as well as global commodity analysis.</p>
 						 <p>Discover EIU Viewpoint <a href="https://eresources.nlb.gov.sg/Main/browse/resource/1059">here</a>.</p>
-					 </div>
-				 </div>
-				 <div class="launch-accordion">
-					 <input type="checkbox" id="info5">
-					 <label for="info5"><b>Udemy Business</b></label>
-					 <div class="launch-accordion-content">
-						 <p><b>Udemy Business</b> is an online learning platform that offers thousands of courses on key soft skills and technical topics such as Software Development, Leadership, Marketing, Sales, Programming, IT, and more. Login with your myLibrary ID to sign up for online courses, all for free. Learn at your own time, and keep track of your personal learning journey.</p>
-						 <p>Discover Udemy Business <a href="https://eresources.nlb.gov.sg/Main/browse/resource/1361">here</a>.</p>
 					 </div>
 				 </div>
 				 <div class="launch-accordion">
@@ -144,5 +136,6 @@ No matter what stage your business is at, we have the resources and tools to tak
 ### Kick-start your business research:
 - Make an appointment with our Specialist using this [online form](https://go.gov.sg/nlb-launch-consultation)
 - Email us about your business research topics at&nbsp;[ref@nlb.gov.sg](mailto:ref@nlb.gov.sg?subject=Launch%20enquiry)
-- Visit us at our Launch site, where curated information resources are available for browsing or loan:
-	 - Launch @ Punggol Regional Library, Level 4
+- Visit us at any of our Launch sites, where curated information resources are available for browsing or loan:
+	- Launch @ National Library, Level 7
+	- Launch @ Punggol Regional Library, Level 4
