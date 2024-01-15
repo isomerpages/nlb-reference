@@ -6,14 +6,11 @@ description: ""
 <center><img src="/images/launch-icons/Launch_Logo_RGB_Primary.png" style="width:500px"></center>
 
 # Let's take the next step, together
-Whether it’s learning a new skill or taking your business in a different
-direction, we know it’s all a bit daunting. At **Launch**, the Business Resource Centre at the National Library Board, we want to make it
-easier for aspiring entrepreneurs, small businesses and working
-adults to explore new opportunities to launch the next phase of your professional growth.
+Whether it’s learning a new skill or taking your business in a different direction, we know it’s all a bit daunting. At **Launch**, the Business Resource Centre at the National Library Board, we want to make it easier for aspiring entrepreneurs, microbusinesses, freelancers and working adults to explore new opportunities to launch the next phase of your professional growth.
 
 Connect with the right resources, communities, networks and spaces!
 
-Find out more with our Launch [**brochure**](/files/Launch/nlb%20launch%20brochure_july%202023.pdf).
+Find out more in our Launch [**brochure**](/files/Launch/nlb%20launch%20brochure_july%202023.pdf).
 
 <hr>
 
