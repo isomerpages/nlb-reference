@@ -136,6 +136,6 @@ No matter what stage your business is at, we have the resources and tools to tak
 ### Kick-start your business research:
 - Make an appointment with our Specialist using this [online form](https://go.gov.sg/nlb-launch-consultation)
 - Email us about your business research topics at&nbsp;[ref@nlb.gov.sg](mailto:ref@nlb.gov.sg?subject=Launch%20enquiry)
-- Visit us at our Launch sites, where curated information resources are available for browsing or loan:
+- Visit us at any of our Launch sites, where curated information resources are available for browsing or loan:
 	- Launch @ National Library, Level 7
 	- Launch @ Punggol Regional Library, Level 4
