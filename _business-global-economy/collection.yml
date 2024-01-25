@@ -1,0 +1,9 @@
+collections:
+  business-global-economy:
+    output: true
+    order:
+      - Economic Downturns.md
+      - Interconnected Economies.md
+      - Supply Chains in a Globalised World.md
+      - Strategic Stockpiling and Crisis Production.md
+      - Food Logistics and Safety.md

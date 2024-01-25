@@ -1,0 +1,71 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+logo: /images/isomer-logo.svg
+
+links:
+  - title: Resource Guides
+    sublinks:
+      - title: Singapore
+        url: /guides/singapore/
+      - title: Arts
+        url: /guides/arts/
+      - title: Business
+        url: /guides/business/
+      - title: Science & Technology
+        url: /guides/science-technology/
+      - title: Social Sciences and Humanities
+        url: /guides/socialsciences-humanities/
+  - title: Geting Started
+    sublinks:
+      - title: Using OneSearch
+        url: /getting-started/onesearch/
+      - title: Using eDatabases
+        url: /getting-started/edatabases/
+      - title: Other How-to-use Guides
+        url: /getting-started/other-guides/
+      - title: Fighting Fake News
+        url: /getting-started/fighting-fake-news/
+  - title: Category
+    sublinks:
+      - title: Business
+        url: /category/business/main
+      - title: Science and Technology
+        url: /category/scienceandtechnology/main
+      - title: Singapore and South East Asia
+        url: /category/singaporeandsoutheastasia/main
+      - title: Social Sciences and Humanities
+        url: /category/socialsciencesandhumanities/main
+  - title: Database
+    sublinks:
+      - title: Singapore Biographical Database on Chinese Pioneers
+        url: /database/main
+  - title: Literature
+    sublinks:
+      - title: Alt Screen In Transit
+        url: /literature/altscreenintransit/alt-screen-main
+      - title: Four Conversations
+        url: /literature/fourconversations/delivering-literacy-to-millions-of-children
+      - title: NL Prominent Speaker Series
+        url:  /literature/prominentspeakers/main
+  - title: Arts
+    sublinks:
+      - title: Literary Arts
+        url: /arts/literaryarts/main
+      - title: Performing Arts
+        url: /arts/performingarts/main
+      - title: Visual Arts
+        url: /arts/visualarts/main
+  - title: Guides
+    resource_room: true
+  - title: About Us
+    sublinks:
+      - title: National Library
+        url: /about-us/national-library/
+      - title: Lee Kong Chian Reference Library
+        url: /about-us/lkcrl/
+
+  # - title: testing
