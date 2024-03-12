@@ -74,72 +74,54 @@ Besides standards and technical references, books and publications related to th
 
  
 
-* Anwar El-Tawil. (2015). [Standards and quality](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201305068). Singapore: World Scientific Publishing Co.
+* Anwar El-Tawil. (2015). [Standards and quality](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201305068). Singapore: World Scientific Publishing Co.<br>Call no.: R 620.00218 TAW
 
-Call no.: R 620.00218 TAW
-
-This book gives a broad overview of standardisation and quality management, covering key concepts such as national and international standards, quality management, assessment and certification. It also covers the techniques of quality management systems, such as ISO 9000, and the six sigma approach to quality management.
+	This book gives a broad overview of standardisation and quality management, covering key concepts such as national and international standards, quality management, assessment and certification. It also covers the techniques of quality management systems, such as ISO 9000, and the six sigma approach to quality management.
 
 
-* Asia-Pacific Economic Cooperation and Korean Standards Association. (2014). [APEC guidelines on standards infrastructure](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201128810). Singapore: APEC Secretariat.
+* Asia-Pacific Economic Cooperation and Korean Standards Association. (2014). [APEC guidelines on standards infrastructure](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201128810). Singapore: APEC Secretariat.<br>Call no.: RBUS 389.6095 APE
 
-Call no.: RBUS 389.6095 APE
-
-This report examines the standardization activities within the Asia Pacific region, covering areas such as the structure of national standards in APEC member states and how they are implemented. Recommendations to better align the structure of national standards among APEC states are also presented in this report.
+	This report examines the standardization activities within the Asia Pacific region, covering areas such as the structure of national standards in APEC member states and how they are implemented. Recommendations to better align the structure of national standards among APEC states are also presented in this report.
 
 
-* Bøgh. S. A. (Ed.). (2015). [A world built on standards: A textbook for higher education](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202586894). Nordhavn: Danish Standards Foundation.
+* Bøgh. S. A. (Ed.). (2015). [A world built on standards: A textbook for higher education](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202586894). Nordhavn: Danish Standards Foundation.<br>Call no.: R 389.6094 WOR
 
-Call no.: R 389.6094 WOR
-
-Find out about standards and how standardisation plays an important role in the world today from this textbook, which gives an overview of what standards are, how standards are valuable in the modern society, and how standardisation can lead to innovation.
+	Find out about standards and how standardisation plays an important role in the world today from this textbook, which gives an overview of what standards are, how standards are valuable in the modern society, and how standardisation can lead to innovation.
 
 
-* Das, K. (Ed.) (2014). [Globalization and standards: issues and challenges in Indian business](http://eservice.nlb.gov.sg/item_holding.aspx?bid=201377527). New Delhi: Springer.
+* Das, K. (Ed.) (2014). [Globalization and standards: issues and challenges in Indian business](http://eservice.nlb.gov.sg/item_holding.aspx?bid=201377527). New Delhi: Springer.<br>Call no.: RBUS 331.20470954 GLO
 
-Call no.: RBUS 331.20470954 GLO
-
-This book looks at globalisation and economic reforms in India, and how these have contributed to the growing importance of standards implementation in products, labour, environment and safety in India.
+	This book looks at globalisation and economic reforms in India, and how these have contributed to the growing importance of standards implementation in products, labour, environment and safety in India.
 
 
-* International Labour Office. (2015). [International Labour Conference: Extracts from the record of proceedings of conference committee on the application of standards](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202464238). Geneva: International Labour Organisation.
+* International Labour Office. (2015). [International Labour Conference: Extracts from the record of proceedings of conference committee on the application of standards](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202464238). Geneva: International Labour Organisation.<br>Call no.: RBUS 344.01 INT
 
-Call no.: RBUS 344.01 INT
-
-This report contains extracts from the record of proceedings of the 104th session of the International Labour Conference. It provides information on labour standards and their applications by the governments of various countries.
+	This report contains extracts from the record of proceedings of the 104th session of the International Labour Conference. It provides information on labour standards and their applications by the governments of various countries.
 
 
-* International Organisation for Standardisation (ISO). (2011). [Economic benefits of standards: International case studies](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202568412). Switzerland: International Organisation for Standardisation.
+* International Organisation for Standardisation (ISO). (2011). [Economic benefits of standards: International case studies](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202568412). Switzerland: International Organisation for Standardisation.<br>Call no.: R 389.6 ECO
 
-Call no.: R 389.6 ECO
-
-This book looks at how the use of standards has benefitted various organisations and industries by examining 11 case studies from 10 countries. The case study from Singapore analyses how NTUC Fairprice have benefitted though an increase in revenue and operational efficiencies after implementing standard practices.
+	This book looks at how the use of standards has benefitted various organisations and industries by examining 11 case studies from 10 countries. The case study from Singapore analyses how NTUC Fairprice have benefitted though an increase in revenue and operational efficiencies after implementing standard practices.
 
 
-* International Organisation for Standardisation (ISO). (2012). [Economic benefits of standards: International case studies (Vol. 2)](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202568412). Switzerland: International Organisation for Standardisation.
+* International Organisation for Standardisation (ISO). (2012). [Economic benefits of standards: International case studies (Vol. 2)](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202568412). Switzerland: International Organisation for Standardisation.<br>Call no.: R 389.6 ECO
 
-Call no.: R 389.6 ECO
-
-The economic benefits of the use of standards are explored in this book through 10 case studies from 9 countries such as China, Egypt and Sri Lanka. These case studies feature companies from various sectors and industries.
+	The economic benefits of the use of standards are explored in this book through 10 case studies from 9 countries such as China, Egypt and Sri Lanka. These case studies feature companies from various sectors and industries.
 
 
-* International Organisation for Standardisation (ISO). (2015). [ISO strategy for services: Case study, Volumes 1 to 5](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202703104). Geneva: International Organisation for Standardisation.
+* International Organisation for Standardisation (ISO). (2015). [ISO strategy for services: Case study, Volumes 1 to 5](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202703104). Geneva: International Organisation for Standardisation.<br>Call no.: RBUS 658.4013 ISO
 
-Call no.: RBUS 658.4013 ISO
-
-This set of case studies features five ISO international service standards “in action” as they are adopted and applied by various organisations to improve their service delivery and customer satisfaction.
+	This set of case studies features five ISO international service standards “in action” as they are adopted and applied by various organisations to improve their service delivery and customer satisfaction.
 
 
-* Juran, J. M. &amp; De Feo, J. A. (2010). [Juran’s quality handbook: The complete guide to performance excellence](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13686251). New York: McGraw-Hill.
+* Juran, J. M. &amp; De Feo, J. A. (2010). [Juran’s quality handbook: The complete guide to performance excellence](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13686251). New York: McGraw-Hill.<br>Call no.: RBUS 658.562 JUR
 
-Call no.: RBUS 658.562 JUR
-
-A comprehensive resource on quality management, this handbook draws on various expert contributors to provide guidance on achieving high quality processes, products and services. Learn about the principles of quality and the methods of attaining performance excellence in .your organisation from this latest edition of the handbook.
+	A comprehensive resource on quality management, this handbook draws on various expert contributors to provide guidance on achieving high quality processes, products and services. Learn about the principles of quality and the methods of attaining performance excellence in .your organisation from this latest edition of the handbook.
 
 
-* Maidana-Eletti, M. (2016). [Global food governance: Implications of food safety and quality standards in international trade law](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202772685). Bern: Peter Lang.
+* Maidana-Eletti, M. (2016). [Global food governance: Implications of food safety and quality standards in international trade law](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202772685). Bern: Peter Lang.<br>Call no.: R 344.04232 MAI
 
-Take a closer look at the issues of global food governance and food safety from this book, and find out how food quality standards in international trade laws play a critical role in ensuring health protection and food safety.
+	Take a closer look at the issues of global food governance and food safety from this book, and find out how food quality standards in international trade laws play a critical role in ensuring health protection and food safety.
 
 ### <u>Databases</u>
 
