@@ -3,23 +3,20 @@ title: Standards and References Resource Guide
 permalink: /guides/sci-tech/tech/standards-and-references/
 breadcrumb: Standards and References Resource Guide
 collection_name: science-technology-technology
-published: true
+published: "true"
+variant: markdown
 ---
-
-
-
-
-### <u>Guide Index</u>
+# <u>Guide Index</u>
 
 * [Introduction](#introduction)
-* [The Standards Collection at the National Library Board](#the-standards-collection-at-the-national-library-board)
+* [The Singapore Standards Collection at the National Library Board](#the-singapore-standards-collection-at-the-national-library-board)
 * [Books and publications](#books-and-publications)
 * [Databases](#databases)
 * [Websites-Listing of standards organisations](#websites-listing-of-standards-organisations)
 * [Accessing National Library Board Singapore Resources](#accessing-national-library-board-singapore-resources)
 * [Authors](#authors)
 
-### <u>Introduction</u>
+## <u>Introduction</u>
 
 Standards and References are important assets to organisations and people as they establish guidelines and specifications for the achievement of conformity in quality and performance. They are vital in ensuring quality of life, product safety and service reliability.
 
@@ -34,52 +31,42 @@ This is a selection of resources on open innovation available from the [NLB cata
 | Materials Management | 658.7 |
 
 
-### <u>The Standards Collection at the National Library Board</u>
+## <u>The Singapore Standards Collection at the National Library Board</u>
 
-The Standards Collection at the National Library Board is made available through a partnership between the National Library Board and Enterprise Singapore. The Collection can be accessed without any charge and users do not need to be registered NLB members. Users can also make use of the Lee Kong Chian Reference Library’s Business, Science and Technology information resources to complement their research on Standards.
+The Singapore Standards Collection at the National Library Board is made available through a partnership between the National Library Board and Enterprise Singapore. More than 900 Singapore Standards including commonly-referred standards by users in the industry, academic and government, can be accessed online and in hard copy without any charge and users do not need to be registered NLB members.
 
 Please note that all the Standards are strictly for reference only.
 
  
+### Print Copies of Singapore Standards
 
-<b><u>Print Singapore Standards Collection</u></b>
-
-The print Singapore Standards collection is housed at:
+The print copies of the Singapore Standards collection is housed at:
 
 Lee Kong Chian Reference Library (Level 7)<br>
 National Library Building, 100 Victoria Street, Singapore 188064.<br>
 
-Opening Hours<br>
+**Opening Hours**<br>
 Mon – Sun: 10:00 am – 09:00 pm<br>
 _Closed on Public Holidays._<br>
 _Closed at 5.00 pm on eves of Christmas, New Year and Chinese New Year._<br>
 
- 
+### [Online Singapore Standards Collection](https://eresources.nlb.gov.sg/main/Browse?startsWith=S)
 
-<b><u>Singapore and ISO Standards Database</u></b><br>
-[http://eresources.nlb.gov.sg/Main/](http://eresources.nlb.gov.sg/Main/)
+The online collection of more than 900 Singapore Standards is available in full-text in this database, except those standards with copyright restrictions for e-circulation. **The database is accessible on-site via the Multimedia Stations at all NLB libraries**, including the public libraries and Lee Kong Chian Reference Library, except for library@orchard and library@chinatown.
 
-This database provides access to the full collection of more than 500 Singapore Standards and selected ISO Standards such as Code of Practices in the Workplace Safety and Health Act and Management Standards. It includes commonly referred standards by users in the industry, academic and government. These standards are available in full-text in this electronic database, except those standards with copyright restriction for e-circulation. 
+### Purchasing Standards
 
-The database is accessible onsite via the Multimedia Stations at NLB libraries, including the public libraries and Lee Kong Chian Reference Library.
+Singapore Standards can be purchased at the Singapore Standards eshop (www.singaporestandardseshop.sg), or through:
 
- 
-
-<b><u>Purchasing Standards</u></b>
-
-To purchase copies of drafts, Singapore, ISO or IEC Standards, please contact:
-
-Toppan Leefung Pte. Ltd.<br>
+Toppan Next Pte. Ltd.<br>
 1 Kim Seng Promenade #18-01<br>
 Great World City East Tower<br>
 Singapore 237994<br>
 
 Tel: (65) 6826 9691<br>
 Fax: (65) 6820 3341<br>
-Email: singaporestandardseshop@toppanleefung.com<br>
+Email: singaporestandardseshop@toppannext.com<br>
 Website: www.singaporestandardseshop.sg<br>
-
- 
 
 ### <u>Books and publications</u>
 
@@ -89,7 +76,7 @@ Besides standards and technical references, books and publications related to th
 
 * Anwar El-Tawil. (2015). [Standards and quality](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201305068). Singapore: World Scientific Publishing Co.
 
-Call no.: RBUS 620.00218 TAW
+Call no.: R 620.00218 TAW
 
 This book gives a broad overview of standardisation and quality management, covering key concepts such as national and international standards, quality management, assessment and certification. It also covers the techniques of quality management systems, such as ISO 9000, and the six sigma approach to quality management.
 
@@ -124,14 +111,14 @@ This report contains extracts from the record of proceedings of the 104th sessio
 
 * International Organisation for Standardisation (ISO). (2011). [Economic benefits of standards: International case studies](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202568412). Switzerland: International Organisation for Standardisation.
 
-Call no.: RBUS 389.6 ECO
+Call no.: R 389.6 ECO
 
 This book looks at how the use of standards has benefitted various organisations and industries by examining 11 case studies from 10 countries. The case study from Singapore analyses how NTUC Fairprice have benefitted though an increase in revenue and operational efficiencies after implementing standard practices.
 
 
 * International Organisation for Standardisation (ISO). (2012). [Economic benefits of standards: International case studies (Vol. 2)](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202568412). Switzerland: International Organisation for Standardisation.
 
-Call no.: RBUS 389.6 ECO
+Call no.: R 389.6 ECO
 
 The economic benefits of the use of standards are explored in this book through 10 case studies from 9 countries such as China, Egypt and Sri Lanka. These case studies feature companies from various sectors and industries.
 
@@ -143,14 +130,7 @@ Call no.: RBUS 658.4013 ISO
 This set of case studies features five ISO international service standards “in action” as they are adopted and applied by various organisations to improve their service delivery and customer satisfaction.
 
 
-* International Organisation for Standardisation (ISO). (2015). [ISOfocus (Special focus: Just out)](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202587206), November-December 2015(113). Switzerland: International Organisation for Standardisation.
-
-Call no.: R 389.6 ISOF
-
-ISOfocus magazine is a publication by the International Organisation for Standardisation. This November-December issue, titled Just Out, covers the newly-revised ISO 9001: 2015 and ISO 14001: 2015 standards and the implications of the revisions for organisations.
-
-
-* Juran, J. M. & De Feo, J. A. (2010). [Juran’s quality handbook: The complete guide to performance excellence](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13686251). New York: McGraw-Hill.
+* Juran, J. M. &amp; De Feo, J. A. (2010). [Juran’s quality handbook: The complete guide to performance excellence](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13686251). New York: McGraw-Hill.
 
 Call no.: RBUS 658.562 JUR
 
@@ -167,17 +147,17 @@ Databases are a good avenue to obtain information in the form of newspaper artic
 
  
 
-* Boys, K. A. & Wilcock, A. E. (2014). Improving integration of human resources into quality management system standards. The International Journal of Quality & Reliability Management, 31(7), pp. 750-738. Retrieved 2016, July 29 from ProQuest ABI/INFORM complete.
+* Boys, K. A. &amp; Wilcock, A. E. (2014). Improving integration of human resources into quality management system standards. The International Journal of Quality &amp; Reliability Management, 31(7), pp. 750-738. Retrieved 2016, July 29 from ProQuest ABI/INFORM complete.
 
 The impact of human resources on quality management is explored in this article, which looks at the extent of human resource integration in the ISO 9001 and 9004 standards and recommends steps to improve the integration in these standards.
 
 
-* Hayati Habibah Abdul Talib, Mohd Ali Khairul Anuar & Fazli Idris. (2014). Critical success factors of quality management practices among SMEs in the food processing industry in Malaysia. Journal of Small Business and Enterprise Development, 21(1), pp. 152-176. Retrieved 2016, July 29 from ProQuest ABI/INFORM complete.
+* Hayati Habibah Abdul Talib, Mohd Ali Khairul Anuar &amp; Fazli Idris. (2014). Critical success factors of quality management practices among SMEs in the food processing industry in Malaysia. Journal of Small Business and Enterprise Development, 21(1), pp. 152-176. Retrieved 2016, July 29 from ProQuest ABI/INFORM complete.
 
 Through statistical analysis, this article proposes eight critical success factors which small and medium enterprises (SMEs) in Malaysia’s food processing industry can use to evaluate their quality management initiatives and identify the areas of improvement.
 
 
-* Militaru, C. & Zanfir, A. (2016). The vision of new ISO 9000: 2015 standards. Knowledge Horizons. Economics, 8(1), pp. 131-135. Retrieved 2016, July 29 from ProQuest ABI/INFORM complete.
+* Militaru, C. &amp; Zanfir, A. (2016). The vision of new ISO 9000: 2015 standards. Knowledge Horizons. Economics, 8(1), pp. 131-135. Retrieved 2016, July 29 from ProQuest ABI/INFORM complete.
 
 This article takes a look at the ISO 9000: 2015 standards and outlines some of the changes in this series of standards. It also gives a brief overview of the steps which organisations can take to transition to the new ISO 9001: 2015 standards.
 
@@ -187,17 +167,17 @@ This article takes a look at the ISO 9000: 2015 standards and outlines some of t
 The article compares the ISO 9001: 2000 and 2008 versions with the new 2015 version and identifies risk as a key difference. It also analyses how this difference may affect organisations which are looking at rolling out the ISO 9001: 2015 standards.
 
 
-* Sampaio, P., Saraiva, P., & Monteiro, A. (2012). ISO 9001 certification pay-off: Myth versus reality. The International Journal of Quality & Reliability Management, 29(8), pp. 891-914. Retrieved 2016, July 29 from ProQuest ABI/INFORM complete.
+* Sampaio, P., Saraiva, P., &amp; Monteiro, A. (2012). ISO 9001 certification pay-off: Myth versus reality. The International Journal of Quality &amp; Reliability Management, 29(8), pp. 891-914. Retrieved 2016, July 29 from ProQuest ABI/INFORM complete.
 
 Do quality management system implementation and certification always bring about an improvement in an organisation’s performance? This article details an analysis of six case studies with the ISO 9001 certification to find out if the ISO 9001 implementation had brought about better profits for the companies.
 
 
-* Stoian, M. & Memon, N. A. (2014). Evaluating the quality performance. FAIMA Business & Management Journal, 2(1), pp. 28-36. Retrieved 2016, July 29 from ProQuest ABI/INFORM complete.
+* Stoian, M. &amp; Memon, N. A. (2014). Evaluating the quality performance. FAIMA Business &amp; Management Journal, 2(1), pp. 28-36. Retrieved 2016, July 29 from ProQuest ABI/INFORM complete.
 
 This article examines the effectiveness of the ISO 9000 accreditation in improving quality in Singapore’s construction firms. It also compares the impact of ISO certification in the manufacturing, service and construction industries.
 
 
-* Vigneau, L., Humphreys, M. & Moon, J. (2015). How do firms comply with international sustainability standards? Processes and consequences of adopting the Global Reporting Initiative. Journal of Business Ethics, 131, pp. 469-486. Retrieved 2016, July 29 from EBSCOHost Business Source Complete.
+* Vigneau, L., Humphreys, M. &amp; Moon, J. (2015). How do firms comply with international sustainability standards? Processes and consequences of adopting the Global Reporting Initiative. Journal of Business Ethics, 131, pp. 469-486. Retrieved 2016, July 29 from EBSCOHost Business Source Complete.
 
 This article analyses how the implementation of international sustainability standards, in particular the Global Reporting Initiative, can influence and impact corporate social responsibility (CSR) practices in organisations.
 
@@ -322,7 +302,7 @@ United States: Formed in 1982 as a professional society dedicated to the advance
 United States: Formed in 1921 to serve the structural steel design community and construction industry in the United States.
 
 
-* American Iron & Steel Institute (AISI)<br>
+* American Iron &amp; Steel Institute (AISI)<br>
 [http://www.steel.org/](http://www.steel.org/)
 
 United States: Formed in 1855 as the American Iron Association. It supports American steel industries committed to manufacturing products that meet society’s needs.
@@ -370,7 +350,7 @@ United States: Formed in 1919 as a non-profit organisation in advancing the scie
 United States: Formed in 1898, originally known as the American Society for Testing and Materials (ASTM). This non- profit organisation publishes standards and test procedures as technical guidelines for product safety, reliability and uniformity.
 
 
-* Institute of Electrical & Electronics Engineers (IEEE)<br>
+* Institute of Electrical &amp; Electronics Engineers (IEEE)<br>
 [http://www.ieee.org](http://www.ieee.org)
 
 United States: Formed in 1963 as a professional association that is dedicated to advancing technological innovation and excellence for the benefit of humanity.
@@ -444,7 +424,7 @@ United States: Formed in 1894 as a non- profit organisation that helps to perfor
 Ensures a resilient supply of safe food; safeguards the health and welfare of animals and plants and facilitates agri-trade for Singapore.
 
 
-* Building & Construction Authority (BCA)<br>
+* Building &amp; Construction Authority (BCA)<br>
 [http://www.bca.gov.sg/](http://www.bca.gov.sg/)
 
 Champions the development of an excellent “built environment” (buildings, structures and infrastructure in our surroundings that provide the setting for the community’s activities) for Singapore.
