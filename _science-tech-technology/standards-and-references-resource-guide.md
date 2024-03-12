@@ -162,22 +162,22 @@ The development, adaptation and implementation of standards are usually overseen
 
  ### <u>**International Standards Organisations**</u>
 
-* International Electrotechnical Commission (IEC)<br>
-[http://www.iec.ch/](http://www.iec.ch/)
+* **International Electrotechnical Commission (IEC)**<br>
+https://webstore.ansi.org/sdo/iec
 
-The world’s leading organisation that prepares and publishes International Standards for all electrical, electronic and related technologies (“electrotechnology”).
+	The world's leading standards organization in its field electrical technologies, IEC plays the crucial role of coordinating efforts carried out in different countries and unifying them, such as the development of various units of measurement and the standardization of the modern form of the metric system.
 
 
-* International Organisation for Standardisation (ISO)<br>
+* **International Organisation for Standardisation (ISO)**<br>
 [http://www.iso.org/](http://www.iso.org/)
 
-A non-governmental organisation that develops and publishes International Standards for Business, Government and Society.
+	A non-governmental organisation that develops and publishes International Standards for Business, Government and Society.
 
 
-* International Telecommunication Union (ITU)<br>
+* **International Telecommunication Union (ITU)**<br>
 [http://www.itu.int/en/](http://www.itu.int/en/)
 
-A leading United Nations agency that develops worldwide standards for information and communication technology issues.
+	ITU is the United Nations specialized agency for information and communication technologies (ICTs). ITU develops the technical standards that ensure networks and technologies connect seamlessly, and work to improve access to digital technologies in underserved communities worldwide.
 
 
 <b><u>Regional Standards Organisation</u></b>
@@ -185,7 +185,7 @@ A leading United Nations agency that develops worldwide standards for informatio
 * European Committee for Standardisation (CEN)<br>
 [http://www.cen.eu/cen/](http://www.cen.eu/cen/)
 
-An international non-profit organisation that develops European Standards (ENs) and other consensus documents.
+	An international non-profit organisation that develops European Standards (ENs) and other consensus documents.
 
 
 <b><u>National Standards Organisations</u></b>
