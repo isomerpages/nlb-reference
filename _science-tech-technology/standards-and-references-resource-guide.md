@@ -221,27 +221,27 @@ http://www.din.de/en
 
 
 * Enterprise Singapore<br>
-[https://www.enterprisesg.gov.sg/](https://www.enterprisesg.gov.sg/)
+https://www.enterprisesg.gov.sg/grow-your-business/boost-capabilities/quality-and-standards
 
-Singapore: An enterprise development agency with the mission to help Singapore enterprises grow and to build trust in Singapore products and services.
+	An enterprise development agency with the mission to help Singapore enterprises grow and to build trust in Singapore products and services.
 
 
 * Korean Agency for Technology and Standards (KATS)<br>
 [http://www.kats.go.kr/](http://www.kats.go.kr/)
 
-Korea: Formed in 1883, originally known as Analysis and Testing Laboratory of the Mint Office.
+	Formed in 1883, originally known as Analysis and Testing Laboratory of the Mint Office.
 
 
 * South African Bureau of Standards (SABS)<br>
 [https://www.sabs.co.za/](https://www.sabs.co.za/)
 
-South Africa: A national institution that promotes and maintains the standards and quality.
+	A national institution in South Africa that promotes and maintains the standards and quality.
 
 
 * Standards New Zealand (SNZ)<br>
 [http://www.standards.co.nz/](http://www.standards.co.nz/)
 
-New Zealand: It is New Zealand’s leading developer of Standards and Standards based solutions.
+	It is New Zealand’s leading developer of Standards and Standards based solutions.
 
 
 <b><u>Other Internationally Recognised Standardisation Organisations</u></b>
