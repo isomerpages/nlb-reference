@@ -14,7 +14,6 @@ variant: markdown
 * [Databases](#databases)
 * [Standards Organisations](#standards-organisations)
 * [Accessing National Library Board Singapore Resources](#accessing-national-library-board-singapore-resources)
-* [Authors](#authors)
 
 ## <u>Introduction</u>
 
