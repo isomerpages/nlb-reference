@@ -127,31 +127,29 @@ Besides standards and technical references, books and publications related to th
 
 Databases are a good avenue to obtain information in the form of newspaper articles, journal and scholarly articles, and reports. The National Library Board’s eResources website provides access to such useful databases, free for all Singaporeans, permanent residents and foreigners with an NLB library membership.
 
- 
+ * Boys, K. A. &amp; Wilcock, A. E. (2014). Improving integration of human resources into quality management system standards. *The International Journal of Quality &amp; Reliability Management*, 31(7), pp. 750-738. Retrieved 2016, July 29 from ProQuest ABI/INFORM complete.
 
-* Boys, K. A. &amp; Wilcock, A. E. (2014). Improving integration of human resources into quality management system standards. The International Journal of Quality &amp; Reliability Management, 31(7), pp. 750-738. Retrieved 2016, July 29 from ProQuest ABI/INFORM complete.
-
-The impact of human resources on quality management is explored in this article, which looks at the extent of human resource integration in the ISO 9001 and 9004 standards and recommends steps to improve the integration in these standards.
+	The impact of human resources on quality management is explored in this article, which looks at the extent of human resource integration in the ISO 9001 and 9004 standards and recommends steps to improve the integration in these standards.
 
 
-* Hayati Habibah Abdul Talib, Mohd Ali Khairul Anuar &amp; Fazli Idris. (2014). Critical success factors of quality management practices among SMEs in the food processing industry in Malaysia. Journal of Small Business and Enterprise Development, 21(1), pp. 152-176. Retrieved 2016, July 29 from ProQuest ABI/INFORM complete.
+* Hayati Habibah Abdul Talib, Mohd Ali Khairul Anuar &amp; Fazli Idris. (2014). Critical success factors of quality management practices among SMEs in the food processing industry in Malaysia. *Journal of Small Business and Enterprise Development*, 21(1), pp. 152-176. Retrieved 2016, July 29 from ProQuest ABI/INFORM complete.
 
-Through statistical analysis, this article proposes eight critical success factors which small and medium enterprises (SMEs) in Malaysia’s food processing industry can use to evaluate their quality management initiatives and identify the areas of improvement.
-
-
-* Militaru, C. &amp; Zanfir, A. (2016). The vision of new ISO 9000: 2015 standards. Knowledge Horizons. Economics, 8(1), pp. 131-135. Retrieved 2016, July 29 from ProQuest ABI/INFORM complete.
-
-This article takes a look at the ISO 9000: 2015 standards and outlines some of the changes in this series of standards. It also gives a brief overview of the steps which organisations can take to transition to the new ISO 9001: 2015 standards.
+	Through statistical analysis, this article proposes eight critical success factors which small and medium enterprises (SMEs) in Malaysia’s food processing industry can use to evaluate their quality management initiatives and identify the areas of improvement.
 
 
-* Murray, W. (2016). Risk and ISO 9001: 2015. Quality, 55(2), pp. 17-18. Retrieved 2016, July 29 from ProQuest Central.
+* Militaru, C. &amp; Zanfir, A. (2016). The vision of new ISO 9000: 2015 standards. *Knowledge Horizons - Economics*, 8(1), pp. 131-135. Retrieved 2016, July 29 from ProQuest ABI/INFORM complete.
 
-The article compares the ISO 9001: 2000 and 2008 versions with the new 2015 version and identifies risk as a key difference. It also analyses how this difference may affect organisations which are looking at rolling out the ISO 9001: 2015 standards.
+	This article takes a look at the ISO 9000: 2015 standards and outlines some of the changes in this series of standards. It also gives a brief overview of the steps which organisations can take to transition to the new ISO 9001: 2015 standards.
 
 
-* Sampaio, P., Saraiva, P., &amp; Monteiro, A. (2012). ISO 9001 certification pay-off: Myth versus reality. The International Journal of Quality &amp; Reliability Management, 29(8), pp. 891-914. Retrieved 2016, July 29 from ProQuest ABI/INFORM complete.
+* Murray, W. (2016). Risk and ISO 9001: 2015. *Quality*, 55(2), pp. 17-18. Retrieved 2016, July 29 from ProQuest Central.
 
-Do quality management system implementation and certification always bring about an improvement in an organisation’s performance? This article details an analysis of six case studies with the ISO 9001 certification to find out if the ISO 9001 implementation had brought about better profits for the companies.
+	The article compares the ISO 9001: 2000 and 2008 versions with the new 2015 version and identifies risk as a key difference. It also analyses how this difference may affect organisations which are looking at rolling out the ISO 9001: 2015 standards.
+
+
+* Sampaio, P., Saraiva, P., &amp; Monteiro, A. (2012). ISO 9001 certification pay-off: Myth versus reality. *The International Journal of Quality &amp; Reliability Management*, 29(8), pp. 891-914. Retrieved 2016, July 29 from ProQuest ABI/INFORM complete.
+
+	Do quality management system implementation and certification always bring about an improvement in an organisation’s performance? This article details an analysis of six case studies with the ISO 9001 certification to find out if the ISO 9001 implementation had brought about better profits for the companies.
 
 
 * Stoian, M. &amp; Memon, N. A. (2014). Evaluating the quality performance. FAIMA Business &amp; Management Journal, 2(1), pp. 28-36. Retrieved 2016, July 29 from ProQuest ABI/INFORM complete.
