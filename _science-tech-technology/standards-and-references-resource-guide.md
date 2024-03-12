@@ -162,19 +162,19 @@ The development, adaptation and implementation of standards are usually overseen
 
  ### <u>**International Standards Organisations**</u>
 
-* **International Electrotechnical Commission (IEC)**<br>
+* International Electrotechnical Commission (IEC)<br>
 https://webstore.ansi.org/sdo/iec
 
 	The world's leading standards organization in its field electrical technologies, IEC plays the crucial role of coordinating efforts carried out in different countries and unifying them, such as the development of various units of measurement and the standardization of the modern form of the metric system.
 
 
-* **International Organisation for Standardisation (ISO)**<br>
+* International Organisation for Standardisation (ISO)<br>
 [http://www.iso.org/](http://www.iso.org/)
 
 	A non-governmental organisation that develops and publishes International Standards for Business, Government and Society.
 
 
-* **International Telecommunication Union (ITU)**<br>
+* International Telecommunication Union (ITU)<br>
 [http://www.itu.int/en/](http://www.itu.int/en/)
 
 	ITU is the United Nations specialized agency for information and communication technologies (ICTs). ITU develops the technical standards that ensure networks and technologies connect seamlessly, and work to improve access to digital technologies in underserved communities worldwide.
@@ -188,7 +188,7 @@ https://www.cencenelec.eu/
 	An international non-profit organisation that develops European Standards (ENs) and other consensus documents.
 
 
-<b><u>National Standards Organisations</u></b>
+### <u>National Standards Organisations</u>
 
 * American National Standards Institute (ANSI)<br>
 [http://www.ansi.org/](http://www.ansi.org/)
@@ -244,7 +244,7 @@ https://www.enterprisesg.gov.sg/grow-your-business/boost-capabilities/quality-an
 	It is New Zealand’s leading developer of Standards and Standards based solutions.
 
 
-<b><u>Other Internationally Recognised Standardisation Organisations</u></b>
+### <u>Other Internationally Recognised Standardisation Organisations</u>
 
 * American Concrete Institute (ACI)<br>
 https://www.concrete.org/
@@ -297,7 +297,7 @@ https://www.concrete.org/
 * American Society of Mechanical Engineers (ASME)<br>
 [http://www.asme.org/](http://www.asme.org/)
 
-United States: Formed in 1880 as a professional organisation that promotes the crucial role of the engineer in society.
+	Formed in 1880 as a professional organisation that promotes the crucial role of the engineer in society.
 
 
 * American Water Works Association (AWWA)<br>
@@ -311,80 +311,78 @@ United States: Formed in 1880 as a professional organisation that promotes the c
 
 	Formed in 1919 as a non-profit organisation in advancing the science, technology and application of welding and related joining disciplines.
 
+* Association for Materials Protection and Performance (AMPP)<br>
+https://www.ampp.org/
 
+	Formed by the merger of NACE International and the Society for Protective Coatings (SSPC) in 2021, the AMPP is a global community of professionals dedicated to materials protection through the advancement of corrosion control and protective coatings.
+	
 * ASTM International<br>
 [http://www.astm.org](http://www.astm.org)
 
-United States: Formed in 1898, originally known as the American Society for Testing and Materials (ASTM). This non- profit organisation publishes standards and test procedures as technical guidelines for product safety, reliability and uniformity.
+	Formed in 1898, originally known as the American Society for Testing and Materials (ASTM). This non- profit organisation publishes standards and test procedures as technical guidelines for product safety, reliability and uniformity.
 
 
 * Institute of Electrical &amp; Electronics Engineers (IEEE)<br>
 [http://www.ieee.org](http://www.ieee.org)
 
-United States: Formed in 1963 as a professional association that is dedicated to advancing technological innovation and excellence for the benefit of humanity.
+	Formed in 1963 in the United States as a professional association that is dedicated to advancing technological innovation and excellence for the benefit of humanity.
 
 
 * Institute of Transportation Engineers (ITE)<br>
 [http://www.ite.org](http://www.ite.org)
 
-United States: Formed in 1930 as an international educational and scientific association of transportation professionals who are responsible for meeting mobility and safety needs.
-
-
-* NACE International<br>
-[http://www.nace.org/](http://www.nace.org/)
-
-United States: Formed in 1943, originally known as the National Association of Corrosion Engineers. It is the leader in the corrosion engineering and science community, and is the premier authority for corrosion control and prevention.
+	Formed in 1930 in the United States as an international educational and scientific association of transportation professionals who are responsible for meeting mobility and safety needs.
 
 
 * National Fire Protection Association (NFPA)<br>
 [http://www.nfpa.org](http://www.nfpa.org)
 
-United States: Formed in 1896 as a non- profit organisation that provides codes and standards to reduce the worldwide burden of fire and other hazards.
+	Formed in 1896 in the United States as a non- profit organisation that provides codes and standards to reduce the worldwide burden of fire and other hazards.
 
 
 * Society for Experimental Mechanics (SEM)<br>
 [http://www.sem.org/](http://www.sem.org/)
 
-United States: Formed in 1943 as a professional society involved in the validation of new designs and materials.
+	Formed in 1943 in the United States as a professional society involved in the validation of new designs and materials.
 
 
 * Society of Automotive Engineers (SAE)<br>
 [http://www.sae.org/](http://www.sae.org/)
 
-United States: Formed in 1905 as a one-stop portal providing resources on standards development, technical information and expertise in designing, building, maintaining, and operating of vehicles for use on land, sea, air or space.
+	Formed in 1905 in the United States as a one-stop portal providing resources on standards development, technical information and expertise in designing, building, maintaining, and operating of vehicles for use on land, sea, air or space.
 
 
 * Society of Manufacturing Engineers (SME)<br>
 [http://www.sme.org/](http://www.sme.org/)
 
-United States: Formed in 1932 as a professional society in advancing manufacturing knowledge.
+	Formed in 1932 in the United States as a professional society in advancing manufacturing knowledge.
 
 
 * Standardisation Administration of the People’s Republic of China (SAC)<br>
 [http://www.sac.gov.cn/sacen/](http://www.sac.gov.cn/sacen/)
 
-China: Formed in 2001 as authorised by the State Council to exercise administrative responsibilities by undertaking unified management, supervision and overall coordination of standardisation works in China.
+	Formed in 2001 as authorised by the State Council to exercise administrative responsibilities by undertaking unified management, supervision and overall coordination of standardisation works in China.
 
 
 * Standards Australia (SAA)<br>
 [http://www.standards.org.au/](http://www.standards.org.au/)
 
-Australia: It is the nation’s peak non-government Standards organisation, which is responsible for meeting Australia’s need for contemporary, internationally aligned Standards and related services.
+	It is Australia's peak non-government Standards organisation, which is responsible for meeting Australia’s need for contemporary, internationally aligned Standards and related services.
 
 
 * Technical Association of the Pulp and Paper Industry (TAPPI)<br>
 [http://www.tappi.org/](http://www.tappi.org/)
 
-United States: Formed in 1915 as a professional association serving the pulp, paper, converting and packaging industries.
+	Formed in 1915 in the United States as a professional association serving the pulp, paper, converting and packaging industries.
 
 
 * Underwriters Laboratories Inc. (UL)<br>
 [http://www.ul.com](http://www.ul.com)
 
-United States: Formed in 1894 as a non- profit organisation that helps to perform product safety tests and certifications.
+	Formed in 1894 in the United States as a non- profit organisation that helps to perform product safety tests and certifications.
 
 
-<b><u>Regulatory Authorities in Singapore</u></b>
+### <u>Regulatory Authorities in Singapore</u>
 
 * Agri-Food and Veterinary Authority of Singapore (AVA)<br>
 [http://www.ava.gov.sg/](http://www.ava.gov.sg/)
