@@ -60,10 +60,10 @@ registered NLB members.</p>
 <br>National Library Building, 100 Victoria Street, Singapore 188064.
 <br>
 </p>
-<p><strong>Opening Hours</strong>
+<p><strong>Opening Hours</strong> 
 <br>Mon – Sun: 10:00 am – 09:00 pm
-<br><em>Closed on Public Holidays.</em>
-<br><em>Closed at 5.00 pm on eves of Christmas, New Year and Chinese New Year.</em>
+<br><em>Closed on Public Holidays.</em> 
+<br><em>Closed at 5.00 pm on eves of Christmas, New Year and Chinese New Year.</em> 
 <br>
 </p>
 <h3><a href="https://eresources.nlb.gov.sg/main/Browse?startsWith=S" rel="noopener noreferrer nofollow" target="_blank">Online Singapore Standards Collection</a></h3>
@@ -83,8 +83,8 @@ for library@orchard and library@chinatown.</p>
 </p>
 <p>Tel: (65) 6826 9691
 <br>Fax: (65) 6820 3341
-<br>Email: <a href="mailto:singaporestandardseshop@toppannext.com" rel="noopener noreferrer nofollow" target="_blank">singaporestandardseshop@toppannext.com</a>
-<br>Website: <a href="www.singaporestandardseshop.sg" rel="noopener noreferrer nofollow" target="_blank">www.singaporestandardseshop.sg</a>
+<br>Email: <a href="mailto:singaporestandardseshop@toppannext.com" rel="noopener noreferrer nofollow" target="_blank">singaporestandardseshop@toppannext.com</a> 
+<br>Website: <a href="www.singaporestandardseshop.sg" rel="noopener noreferrer nofollow" target="_blank">www.singaporestandardseshop.sg</a> 
 <br>
 </p>
 <h3><u>Books and publications</u></h3>
