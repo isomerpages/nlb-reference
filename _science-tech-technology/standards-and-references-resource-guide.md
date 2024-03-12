@@ -12,7 +12,7 @@ variant: markdown
 * [The Singapore Standards Collection at the National Library Board](#the-singapore-standards-collection-at-the-national-library-board)
 * [Books and publications](#books-and-publications)
 * [Databases](#databases)
-* [Websites-Listing of standards organisations](#websites-listing-of-standards-organisations)
+* [Standards Organisations](#standards-organisations)
 * [Accessing National Library Board Singapore Resources](#accessing-national-library-board-singapore-resources)
 * [Authors](#authors)
 
