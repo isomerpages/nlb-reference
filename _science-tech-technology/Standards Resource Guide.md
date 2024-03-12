@@ -622,8 +622,9 @@ a vibrant, sustainable and cosmopolitan city of distinction.</p>
 <h3><u>Accessing National Library Board Singapore Resources</u></h3>
 <h4><strong><u>Accessing the Print Materials</u></strong></h4>
 <p>You can search the library catalogue (for physical materials) in the library
-and from home (http://catalogue.nlb.gov.sg). The search function allows
-you to search/browse by author, title, keyword, subject, etc.</p>
+and from home (<a href="http://catalogue.nlb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">http://catalogue.nlb.gov.sg</a>).
+The search function allows you to search/browse by author, title, keyword,
+subject, etc.</p>
 <p><strong>Things to note:</strong>
 </p>
 <p>Once you have identified the title that you need, please double-check
@@ -649,7 +650,8 @@ to begin, or need recommendations on which databases to use, send an email
 to <a href="mailto:ref@library.nlb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ref@nlb.gov.sg</a> for
 help. The librarian will get back to you within three working days.</p>
 <h3><u>Authors</u></h3>
-<p>Pattarin Kusolpalin (Updated by) Kevin Seet</p>
+<p>Pattarin Kusolpalin
+<br>(Updated by) Kevin Seet</p>
 <p>The information in this resource guide is valid as at Mar 2024 and correct
 as far as we are able to ascertain from our sources. It is not intended
 to be an exhaustive or complete history on the subject. Please contact
