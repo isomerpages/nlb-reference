@@ -152,19 +152,9 @@ Databases are a good avenue to obtain information in the form of newspaper artic
 	Do quality management system implementation and certification always bring about an improvement in an organisation’s performance? This article details an analysis of six case studies with the ISO 9001 certification to find out if the ISO 9001 implementation had brought about better profits for the companies.
 
 
-* Stoian, M. &amp; Memon, N. A. (2014). Evaluating the quality performance. FAIMA Business &amp; Management Journal, 2(1), pp. 28-36. Retrieved 2016, July 29 from ProQuest ABI/INFORM complete.
+* Stoian, M. &amp; Memon, N. A. (2014). Evaluating the quality performance. *FAIMA Business &amp; Management Journal*, 2(1), pp. 28-36. Retrieved 2016, July 29 from ProQuest ABI/INFORM complete.
 
-This article examines the effectiveness of the ISO 9000 accreditation in improving quality in Singapore’s construction firms. It also compares the impact of ISO certification in the manufacturing, service and construction industries.
-
-
-* Vigneau, L., Humphreys, M. &amp; Moon, J. (2015). How do firms comply with international sustainability standards? Processes and consequences of adopting the Global Reporting Initiative. Journal of Business Ethics, 131, pp. 469-486. Retrieved 2016, July 29 from EBSCOHost Business Source Complete.
-
-This article analyses how the implementation of international sustainability standards, in particular the Global Reporting Initiative, can influence and impact corporate social responsibility (CSR) practices in organisations.
-
-
-* Yadav, R. (2015). A roadmap for implementing total quality management practices in medium enterprises. IUP Journal of Operations Management, 14(4), pp. 7-23. Retrieved 2016, July 29 from EBSCOHost Business Source Complete.
-
-This article presents a seven-step framework which companies, in particular the medium enterprises, can adopt to implement total quality management in their organisational structure.
+	This article examines the effectiveness of the ISO 9000 accreditation in improving quality in Singapore’s construction firms. It also compares the impact of ISO certification in the manufacturing, service and construction industries.
 
 ## <u>Standards Organisations</u>
 
