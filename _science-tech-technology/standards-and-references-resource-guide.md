@@ -183,7 +183,7 @@ https://webstore.ansi.org/sdo/iec
 <b><u>Regional Standards Organisation</u></b>
 
 * European Committee for Standardisation (CEN)<br>
-[http://www.cen.eu/cen/](http://www.cen.eu/cen/)
+https://www.cencenelec.eu/
 
 	An international non-profit organisation that develops European Standards (ENs) and other consensus documents.
 
@@ -193,31 +193,31 @@ https://webstore.ansi.org/sdo/iec
 * American National Standards Institute (ANSI)<br>
 [http://www.ansi.org/](http://www.ansi.org/)
 
-United States: Formed in 1918, with the mission to enhance both the global competitiveness of United States business and the United States quality of life by promoting and facilitating voluntary consensus standards and conformity assessment systems, and safeguarding their integrity.
+	Formed in 1918, with the mission to enhance both the global competitiveness of United States business and the United States quality of life by promoting and facilitating voluntary consensus standards and conformity assessment systems, and safeguarding their integrity.
 
 
 * British Standards Institution (BSI)<br>
 [http://www.bsigroup.com/](http://www.bsigroup.com/)
 
-United Kingdom: A National Standards Body of the United Kingdom that helps to develop, publish and market standards and related information products to meet the needs of business and society.
+	A National Standards Body of the United Kingdom that helps to develop, publish and market standards and related information products to meet the needs of business and society.
 
 
 * Bureau of Indian Standards (BIS)<br>
-[http://www.bis.org.in/](http://www.bis.org.in/)
+https://www.bis.gov.in/
 
-India: Formed in 1987 as the National Standards Body of India to promote and nurture the standardisation movement in India.
+	Formed in 1987 as the National Standards Body of India to promote and nurture the standardisation movement in India.
 
 
 * Department of Standards Malaysia (DSM)<br>
-[http://www.standardsmalaysia.gov.my/](http://www.standardsmalaysia.gov.my/)
+https://www.jsm.gov.my/
 
-Malaysia: An agency under the ambit of Ministry of Science, Technology and Innovation (MOSTI). Its mission is to provide credible standardisation and accreditation services to enhance economic, societal and environmental well-being.
+	An agency under the ambit of Malaysia's Ministry of Investment, Trade and Industry, its mission is to provide credible standardisation and accreditation services to enhance economic, societal and environmental well-being.
 
 
 * Deutsches Institut für Normung (DIN)<br>
-[http://www.din.de/](http://www.din.de/)
+http://www.din.de/en
 
-Germany: A National Standards Body that works closely with its stakeholders to develop consensus-based standards to meet market requirements. It also represents German interests in European and international standards organisations.
+	A National Standards Body in Germany that works closely with its stakeholders to develop consensus-based standards to meet market requirements. It also represents German interests in European and international standards organisations.
 
 
 * Enterprise Singapore<br>
