@@ -247,21 +247,21 @@ https://www.enterprisesg.gov.sg/grow-your-business/boost-capabilities/quality-an
 <b><u>Other Internationally Recognised Standardisation Organisations</u></b>
 
 * American Concrete Institute (ACI)<br>
-[http://www.concrete.org/general/home.asp](http://www.concrete.org/general/home.asp)
+https://www.concrete.org/
 
-United States: Formed in 1904 to help in advancing concrete knowledge by conducting seminars, managing certification programs, and publishing technical documents.
+	Formed in 1904 in the United States to help in advancing concrete knowledge by conducting seminars, managing certification programs, and publishing technical documents.
 
 
 * American Gear Manufacturers Association (AGMA)<br>
 [http://www.agma.org/](http://www.agma.org/)
 
-United States: Formed in 1916 as an association to help set national gearing standards, including the development of ISO gearing standards till today.
+	Formed in 1916 in the United Statesas an association to help set national gearing standards, including the development of ISO gearing standards till today.
 
 
 * American Institute of Aeronautics and Astronautics (AIAA)<br>
 [http://www.aiaa.org/](http://www.aiaa.org/)
 
-United States: Formed in 1982 as a professional society dedicated to the advancement of engineering and science in aviation, space, and defence.
+Formed in 1982 in the United States as a professional society dedicated to the advancement of engineering and science in aviation, space, and defence.
 
 
 * American Institute of Steel Construction (AISC)<br>
