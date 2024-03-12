@@ -168,13 +168,11 @@ This article analyses how the implementation of international sustainability sta
 
 This article presents a seven-step framework which companies, in particular the medium enterprises, can adopt to implement total quality management in their organisational structure.
 
-### <u>Websites-Listing of standards organisations</u>
+## <u>Standards Organisations</u>
 
 The development, adaptation and implementation of standards are usually overseen by standards organisations. The following list names some of the international, regional and national standards organisations in the world, and some of the key regulatory authorities in Singapore.
 
- 
-
-<b><u>International Standards Organisations</u></b>
+ ### <u>**International Standards Organisations**</u>
 
 * International Electrotechnical Commission (IEC)<br>
 [http://www.iec.ch/](http://www.iec.ch/)
