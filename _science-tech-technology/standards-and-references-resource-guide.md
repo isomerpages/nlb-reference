@@ -384,99 +384,93 @@ https://www.ampp.org/
 
 ### <u>Regulatory Authorities in Singapore</u>
 
-* Agri-Food and Veterinary Authority of Singapore (AVA)<br>
-[http://www.ava.gov.sg/](http://www.ava.gov.sg/)
-
-Ensures a resilient supply of safe food; safeguards the health and welfare of animals and plants and facilitates agri-trade for Singapore.
-
-
 * Building &amp; Construction Authority (BCA)<br>
 [http://www.bca.gov.sg/](http://www.bca.gov.sg/)
 
-Champions the development of an excellent “built environment” (buildings, structures and infrastructure in our surroundings that provide the setting for the community’s activities) for Singapore.
+	Champions the development of an excellent “built environment” (buildings, structures and infrastructure in our surroundings that provide the setting for the community’s activities) for Singapore.
 
 
 * Energy Market Authority (EMA)<br>
 [http://www.ema.gov.sg/](http://www.ema.gov.sg/)
 
-Promotes effective competition in the energy market, ensures a reliable and secure energy supply, and develops a dynamic energy sector in Singapore.
+	Promotes effective competition in the energy market, ensures a reliable and secure energy supply, and develops a dynamic energy sector in Singapore.
 
 
 * Land Transport Authority (LTA)<br>
 [http://www.lta.gov.sg/](http://www.lta.gov.sg/)
 
-Plans, operates, and maintains long-term land transport infrastructure and systems of Singapore.
+	Plans, operates, and maintains long-term land transport infrastructure and systems of Singapore.
 
 
 * National Environment Agency (NEA)<br>
 [http://www.nea.gov.sg/](http://www.nea.gov.sg/)
 
-Ensures sustainable development and a quality living environment for Singapore’s present and future generations.
+	Ensures sustainable development and a quality living environment for Singapore’s present and future generations.
 
 
 * National Parks Board (NParks)<br>
 [http://www.nparks.gov.sg/](http://www.nparks.gov.sg/)
 
-Conserves, creates, sustains and enhances the green infrastructure of Singapore.
+	Conserves, creates, sustains and enhances the green infrastructure of Singapore.
 
 
 * Professional Engineers Board (PEB)<br>
 [http://www.peb.gov.sg](http://www.peb.gov.sg)
 
-Regulates and advances the practice of professional engineering.
+	Regulates and advances the practice of professional engineering.
 
 
 * Public Utilities Board (PUB)<br>
 [http://www.pub.gov.sg](http://www.pub.gov.sg)
 
-Responsible for collection, production, distribution and reclamation of water in Singapore.
+	Responsible for collection, production, distribution and reclamation of water in Singapore.
 
 
 * Singapore Civil Defence Force (SCDF)<br>
 [http://www.scdf.gov.sg/](http://www.scdf.gov.sg/)
 
-Provides fire-fighting, rescue and emergency ambulance services; mitigates hazardous materials incidents, and formulates, implements and enforces regulations on fire safety and civil defence shelter matters.
+	Provides fire-fighting, rescue and emergency ambulance services; mitigates hazardous materials incidents, and formulates, implements and enforces regulations on fire safety and civil defence shelter matters.
 
+* Singapore Food Agency (SFA)<br>
+https://www.sfa.gov.sg/
 
+	As the lead agency for food-related matters, SFA’s mission is to ensure and secure a supply of safe food for Singapore.
+	
 * Urban Redevelopment Authority (URA)<br>
 [http://www.ura.gov.sg](http://www.ura.gov.sg)
 
-Plans and facilitates the physical development of Singapore, to create a vibrant, sustainable and cosmopolitan city of distinction.
+	Plans and facilitates the physical development of Singapore, to create a vibrant, sustainable and cosmopolitan city of distinction.
 
 ### <u>Accessing National Library Board Singapore Resources</u>
 
-<b><u>Accessing the Print Materials</u></b>
+#### <b><u>Accessing the Print Materials</u></b>
 
-You can search the library catalogue (for physical materials) in the library and from home (http://catalogue.nlb.gov.sg). The easy search function allows you to search/browse by author, title, keyword, subject and ISBN/ISSN whereas the advanced search allows you to narrow your searches to specific media types or language holdings. In both instances, you will also be able to limit your search to specific libraries by clicking on the “limit by branch” option.
-
-**To search Lee Kong Chian Reference Library’s Holdings**
-
-If you wish to search for only materials available in the Lee Kong Chian Reference Library, please always click on the “Limit by Branch” button at the bottom of the page, after you have keyed in your search term. This brings you to a new page whereby you will be able to select the library of your choice. Choose “Lee Kong Chian Reference Library” and select “yes” under the “Display only items available in the selected branch below” and then click on search.
+You can search the library catalogue (for physical materials) in the library and from home (http://catalogue.nlb.gov.sg). The search function allows you to search/browse by author, title, keyword, subject, etc.
 
 **Things to note:**
 
 Once you have identified the title that you need, please double-check the following information and write down the necessary info:
 
-i. The “Status” of the item: the item is <u>not available</u> in the library, if the status displayed is “in transit”, “in process” or “not ready for loan”.
+i. The “Status” of the item: the item is <u>not available</u> in the library, if the status displayed is “in transit”, “in process” or “checked out”.
 
 ii. Double-check that the item is in Lee Kong Chian Reference Library under “Branch”.
 
-iii. Write down the <b><u>Location Code</u></b> and the <b><u>Call Number</u></b> of the item. This helps you to locate the item within Lee Kong Chian Reference Library. Please refer to the table below for more information (Note: Please feel free to approach the counter staff for help in locating the books.)
+iii. Write down the <b><u>Collection</u></b> and the <b><u>Call Number</u></b> of the item. This helps you to locate the item within Lee Kong Chian Reference Library. (Note: Please feel free to approach the counter staff for help in locating the books.)
 
 All featured books and periodicals are located at the Lee Kong Chian Reference Library.
 
 <b><u>Accessing the Databases</u></b>
 
-The National Library Board (NLB)’s eResources are free for all NLB members. Click [here](http://eresources.nlb.gov.sg/HowDoI.aspx) to find out how to register as a member.
+The National Library Board (NLB)’s eResources are free for all NLB members. Click [here](http://account.nlb.gov.sg/) to find out how to register as a member.
 
-If you’re having problems registering or logging in, please [contact us](http://www.nlb.gov.sg/ContactUs.aspx). If you wish to find information in the databases but am not sure where to begin, or need recommendations on which databases to use, please use the [“Ask A Librarian”](http://www.nlb.gov.sg/Research/AskUs.aspx) function or send an email to [ref@nlb.gov.sg](mailto:ref@library.nlb.gov.sg) for help. The librarian will get back to you within three working days.
+If you’re having problems registering or logging in, please [contact us](http://www.nlb.gov.sg/ContactUs.aspx). If you wish to find information in the databases but am not sure where to begin, or need recommendations on which databases to use, send an email to [ref@nlb.gov.sg](mailto:ref@library.nlb.gov.sg) for help. The librarian will get back to you within three working days.
 
 ### <u>Authors</u>
 
 Pattarin Kusolpalin
-(Updated by) Goh Lee Kim
+(Updated by) Kevin Seet
 
 
-The information in this resource guide is valid as at Mar 2018 and correct as far as we are able to ascertain from our sources. It is not intended to be an exhaustive or complete history on the subject. Please contact the Library for further reading materials on the topic.
+The information in this resource guide is valid as at Mar 2024 and correct as far as we are able to ascertain from our sources. It is not intended to be an exhaustive or complete history on the subject. Please contact the Library for further reading materials on the topic.
 
-All Rights Reserved. National Library Board Singapore 2018.
+All Rights Reserved. National Library Board Singapore 2024.
