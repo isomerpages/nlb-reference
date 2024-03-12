@@ -156,11 +156,11 @@ Databases are a good avenue to obtain information in the form of newspaper artic
 
 	This article examines the effectiveness of the ISO 9000 accreditation in improving quality in Singapore’s construction firms. It also compares the impact of ISO certification in the manufacturing, service and construction industries.
 
-## <u>Standards Organisations</u>
+## Standards Organisations
 
 The development, adaptation and implementation of standards are usually overseen by standards organisations. The following list names some of the international, regional and national standards organisations in the world, and some of the key regulatory authorities in Singapore.
 
- ### <u>**International Standards Organisations**</u>
+ ### **International Standards Organisations**
 
 * International Electrotechnical Commission (IEC)<br>
 https://webstore.ansi.org/sdo/iec
@@ -244,7 +244,7 @@ https://www.enterprisesg.gov.sg/grow-your-business/boost-capabilities/quality-an
 	It is New Zealand’s leading developer of Standards and Standards based solutions.
 
 
-### <u>Other Internationally Recognised Standardisation Organisations</u>
+### Other Internationally Recognised Standardisation Organisations
 
 * American Concrete Institute (ACI)<br>
 https://www.concrete.org/
@@ -382,7 +382,7 @@ https://www.ampp.org/
 	Formed in 1894 in the United States as a non- profit organisation that helps to perform product safety tests and certifications.
 
 
-### <u>Regulatory Authorities in Singapore</u>
+### Regulatory Authorities in Singapore
 
 * Building &amp; Construction Authority (BCA)<br>
 [http://www.bca.gov.sg/](http://www.bca.gov.sg/)
