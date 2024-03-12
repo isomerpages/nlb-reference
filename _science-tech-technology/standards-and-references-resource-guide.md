@@ -463,7 +463,7 @@ All featured books and periodicals are located at the Lee Kong Chian Reference L
 
 The National Library Board (NLB)’s eResources are free for all NLB members. Click [here](http://account.nlb.gov.sg/) to find out how to register as a member.
 
-If you’re having problems registering or logging in, please [contact us](http://www.nlb.gov.sg/ContactUs.aspx). If you wish to find information in the databases but am not sure where to begin, or need recommendations on which databases to use, send an email to [ref@nlb.gov.sg](mailto:ref@library.nlb.gov.sg) for help. The librarian will get back to you within three working days.
+If you’re having problems registering or logging in, please [contact us](https://www.nlb.gov.sg/main/Contact-NLB). If you wish to find information in the databases but am not sure where to begin, or need recommendations on which databases to use, send an email to [ref@nlb.gov.sg](mailto:ref@library.nlb.gov.sg) for help. The librarian will get back to you within three working days.
 
 ### <u>Authors</u>
 
