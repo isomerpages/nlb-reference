@@ -261,37 +261,37 @@ https://www.concrete.org/
 * American Institute of Aeronautics and Astronautics (AIAA)<br>
 [http://www.aiaa.org/](http://www.aiaa.org/)
 
-Formed in 1982 in the United States as a professional society dedicated to the advancement of engineering and science in aviation, space, and defence.
+	Formed in 1982 in the United States as a professional society dedicated to the advancement of engineering and science in aviation, space, and defence.
 
 
 * American Institute of Steel Construction (AISC)<br>
 [http://www.aisc.org/](http://www.aisc.org/)
 
-United States: Formed in 1921 to serve the structural steel design community and construction industry in the United States.
+	Formed in 1921 to serve the structural steel design community and construction industry in the United States.
 
 
 * American Iron &amp; Steel Institute (AISI)<br>
 [http://www.steel.org/](http://www.steel.org/)
 
-United States: Formed in 1855 as the American Iron Association. It supports American steel industries committed to manufacturing products that meet society’s needs.
+	Formed in 1855 as the American Iron Association. It supports American steel industries committed to manufacturing products that meet society’s needs.
 
 
 * American Petroleum Institute (API)<br>
 [http://www.api.org](http://www.api.org)
 
-United States: Formed in 1919 as the only national trade association that represents all aspects of America’s oil and natural gas industry. Currently, it maintains over 500 standards and recommended practices covering all segments of the oil and gas industry.
+	Formed in 1919 as the only national trade association that represents all aspects of America’s oil and natural gas industry. Currently, it maintains over 500 standards and recommended practices covering all segments of the oil and gas industry.
 
 
 * American Society for Quality (ASQ)<br>
 [http://www.asq.org](http://www.asq.org)
 
-United States: Formed in 1946 as a global experts community and the leading authority on quality in all fields, organisations, and industries.
+	Formed in 1946 in the United States as a global experts community and the leading authority on quality in all fields, organisations, and industries.
 
 
 * American Society of Heating, Refrigerating and Air-Conditioning Engineers (ASHRAE)<br>
 [http://www.ashrae.org/](http://www.ashrae.org/)
 
-United States: Formed in 1894 as an international organisation devoted to the progress of heating, ventilation, air-conditioning and refrigeration.
+	Formed in 1894 as an international organisation devoted to the progress of heating, ventilation, air-conditioning and refrigeration.
 
 
 * American Society of Mechanical Engineers (ASME)<br>
@@ -303,13 +303,13 @@ United States: Formed in 1880 as a professional organisation that promotes the c
 * American Water Works Association (AWWA)<br>
 [http://www.awwa.org](http://www.awwa.org)
 
-United States: Formed in 1881 as the authoritative resource on safe water.
+	Formed in 1881 as the authoritative resource on safe water.
 
 
 * American Welding Society (AWS)<br>
 [http://www.aws.org](http://www.aws.org)
 
-United States: Formed in 1919 as a non-profit organisation in advancing the science, technology and application of welding and related joining disciplines.
+	Formed in 1919 as a non-profit organisation in advancing the science, technology and application of welding and related joining disciplines.
 
 
 * ASTM International<br>
