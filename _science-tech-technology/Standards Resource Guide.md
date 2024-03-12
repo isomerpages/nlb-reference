@@ -56,7 +56,7 @@ The online collection of more than 900 Singapore Standards is available in full-
 
 ### Purchasing Standards
 
-Singapore Standards can be purchased at the Singapore Standards eshop (www.singaporestandardseshop.sg), or through:
+Singapore Standards can be purchased at the Singapore Standards eshop [www.singaporestandardseshop.sg], or through:
 
 Toppan Next Pte. Ltd.<br>
 1 Kim Seng Promenade #18-01<br>
@@ -65,8 +65,8 @@ Singapore 237994<br>
 
 Tel: (65) 6826 9691<br>
 Fax: (65) 6820 3341<br>
-Email: singaporestandardseshop@toppannext.com<br>
-Website: www.singaporestandardseshop.sg<br>
+Email: [singaporestandardseshop@toppannext.com]<br>
+Website: [www.singaporestandardseshop.sg]<br>
 
 ### <u>Books and publications</u>
 
