@@ -1,7 +1,9 @@
 ---
 title: Business Kickstarter
 permalink: /launch/biz-kickstarter/
-description: "No matter what stage your business is at, we have the resources and tools to take it to the next level"
+description: No matter what stage your business is at, we have the resources and
+  tools to take it to the next level
+variant: markdown
 ---
 # Business Kickstarter
 No matter what stage your business is at, we have the resources and tools to take it to the next level.
@@ -48,15 +50,7 @@ No matter what stage your business is at, we have the resources and tools to tak
 						 <p><b>Euromonitor Passport</b> covers thousands of product categories and industries, and market research helps users better understand core business and future opportunities. Passport's robust analysis and visualisation tools allow research with real-world relevance, and can be applied to strategic planning, economic analysis, industry benchmarking, competitive threats and market entry studies.</p>
 						 <p>Euromonitor Passport is only available at Jurong, Punggol, Tampines and Woodlands Regional Libraries, and the Lee Kong Chian Reference Library.</p>
 					 </div>
-				 </div>
-					<div class="launch-accordion">
-					 <input type="checkbox" id="info3">
-					 <label for="info3"><b>MarketLine Advantage</b></label>
-					 <div class="launch-accordion-content">
-						 <p><b>MarketLine Advantage</b> offers an interactive platform giving you anytime access to up-to-date information and financial data on companies, industries and countries across every major marketplace in the world.</p>
-						 <p>Discover Marketline Advantage <a href="https://eresources.nlb.gov.sg/Main/browse/resource/1255">here</a>.</p>
-					 </div>
-				 </div>
+				 </div>		
 				 <div class="launch-accordion">
 					 <input type="checkbox" id="info4">
 					 <label for="info4"><b>EIU Viewpoint</b></label>
