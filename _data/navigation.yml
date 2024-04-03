@@ -39,12 +39,8 @@ links:
         url: /getting-started/onesearch
       - title: Using ProQuest
         url: /getting-started/proquest
-      - title: Using EBSCOHost
-        url: /getting-started/ebscohost
       - title: Using JSTOR
         url: /getting-started/jstor
-      - title: Using Marketline
-        url: /getting-started/marketline
   - title: Other Formats
     url: /other-formats
     sublinks:
