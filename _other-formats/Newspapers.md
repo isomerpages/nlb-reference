@@ -4,7 +4,7 @@ permalink: /other-formats/newspapers/
 breadcrumb: Newspapers
 collection_name: other-formats
 published: "true"
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h1><strong>Newspapers</strong></h1>
@@ -15,7 +15,7 @@ collection can be accessed physically via Lee Kong Chian Reference Library’s
 microfilm collection, or digitally via NewspaperSG and Factiva database.
 Contemporary news is also available through SPH eNewspapers, Factiva and
 Press Reader databases.</p>
-<h4>Newspaper Coverage</h4>
+<h2>Newspaper Coverage</h2>
 <p>With a few exceptions, newspapers published before 1989 can be accessed
 from home on our NewspaperSG platform. Patrons can access post-1989 newspaper
 publications through our on-site Library Multimedia Stations and microfilm
@@ -151,7 +151,7 @@ step-by-step guide on how to access our newspaper collections.</p>
 Standard) are restricted to our on-site Multimedia Stations (MMS) only.
 <br>** Not available at the library@esplanade and library@chinatown Public
 Libraries.</p>
-<h2>NewspaperSG</h2>
+<h2><strong>NewspaperSG</strong></h2>
 <p><strong><a href="https://eresources.nlb.gov.sg/newspapers/" rel="noopener noreferrer nofollow" target="_blank">NewspaperSG</a></strong>{:target="blank"}
 is an online archive of Singapore newspapers that can be accessed remotely
 from the convenience of your home or workplace. You can search our digital
@@ -266,7 +266,7 @@ issue.</p>
 stations at selected NLB libraries. Prints are charged at $0.20 per A4
 page. Please collect your prints from the Print Console located at the
 Photocopying Room or next to the multimedia stations.</p>
-<h3>Newspapers on Microfilm</h3>
+<h2><strong>Newspapers on Microfilm</strong></h2>
 <p>If you are based overseas and would like the article reproductions to
 be sent to you, you can place a document delivery request with us <a href="https://www.nlb.gov.sg/main/services/Reference-and-Research-Services/Document-Delivery-Service" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 Our document delivery team will contact you within 3 working days to liaise
@@ -406,7 +406,7 @@ is a collection of Singapore Press Holdings (SPH) eNewspapers - including <em>Th
 <p>This database is free for all NLB digital library members and can be accessed
 from home. Depending on the newspapers, access to previous issues varies
 from <strong>7 to 13 days</strong>.</p>
-<h3><strong>Navigating SPH eNewspapers</strong></h3>
+<h3>Navigating SPH eNewspapers</h3>
 <p>Click <a href="https://eresources.nlb.gov.sg/main/sphnewspapers" rel="noopener noreferrer nofollow" target="_blank">here</a>{:target="blank"}
 to be directed to the SPH Newspapers homepage. Simply click on your newspaper
 of choice to begin reading.</p>
@@ -425,7 +425,7 @@ for you to choose from.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/other-formats/newspapers-24.jpg">
 </div>
-<h2>PressReader</h2>
+<h2><strong>PressReader</strong></h2>
 <p><strong><a href="https://www.pressreader.com/catalog" rel="noopener noreferrer nofollow" target="_blank">PressReader</a></strong>{:target="blank"}
 is an international digital newsstand that lets you read over 7,000 of
 the world’s leading newspapers and magazines from more than 100 countries.
@@ -438,7 +438,7 @@ searching, translation, audio functionality and more.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/other-formats/newspapers-25.jpg">
 </div>
-<h3><strong>Accessing PressReader</strong></h3>
+<h3>Accessing PressReader</h3>
 <p>To gain access to PressReader, NLB digital library users can use the NLB
 Mobile app on mobile devices or from computers or laptops.</p>
 <p>If you want to read SPH newspapers, you have to access PressReader at
