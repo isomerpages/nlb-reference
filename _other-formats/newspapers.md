@@ -214,7 +214,7 @@ of this guide.</p>
 <p>To read an article, click on the article title. Doing so will direct you
 to the article viewing page. If you got here by keyword search, your keywords
 will be highlighted in
-<mark><u>yellow</u>
+<mark><u>yellow</u> 
 </mark>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
