@@ -16,7 +16,6 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-resources_name: guides
 permalink: none
 baseurl: ""
 exclude:
