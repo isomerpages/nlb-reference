@@ -1,6 +1,7 @@
 ---
 title: Colonial Period
 permalink: /guides/singapore/history/colonial-period/
+variant: markdown
 ---
 ## Colonial Period
 
@@ -56,7 +57,7 @@ Call no.: RSING/SING 382.09410595 DRA
 
 
 Title: [One hundred years of Singapore](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718) 
-Author: Makepeace, W., Brooke, G. E., & Braddell, R. St. J. (Eds.).  
+Author: Makepeace, W., Brooke, G. E., &amp; Braddell, R. St. J. (Eds.).  
 Publisher: Singapore: Oxford University Press, 1991.  
 Call no.: RSING 959.57 ONE (First Published in 1921)
 
@@ -104,11 +105,11 @@ By: Quah, Sy Ren. Inter-Asia Cultural Studies. Mar 2015, Vol. 16 Issue 1, p96-11
 
 
 Mental Illness in Singapore: A History of a Colony, Port, City and Coolie Town.            
-By: Kah Seng Loh. East Asian Science, Technology & Society. Jun 2016, Vol. 10 Issue 2, p121-140.
+By: Kah Seng Loh. East Asian Science, Technology &amp; Society. Jun 2016, Vol. 10 Issue 2, p121-140.
 
 
 Negotiating Gendered Spaces in Colonial Press: Wives of European planters in British Malaya.  
-By: Datta, Arunima. Journal of Colonialism & Colonial History. Winter 2017, Vol. 18 Issue 3, p1-29.
+By: Datta, Arunima. Journal of Colonialism &amp; Colonial History. Winter 2017, Vol. 18 Issue 3, p1-29.
 
 
 Singapore's ‘Cinema-Age’ of the 1930s: Hollywood and the shaping of Singapore modernity.  
@@ -173,13 +174,12 @@ Ai Lin, Chua. Modern Asian Studies, suppl. Everyday Technology in South and Sout
 A curation of articles from Off the Record and Singapore Policy History Project, giving insights into the various facets of Singapore history relating to the colonial period.
 
 LAW OF THE LAND: CONSTITUTIONAL DOCUMENTS
-<https://corporate.nas.gov.sg/media/collections-and-research/lawoftheland>
+
 
 QUEEN ELIZABETH II’S CORONATION CELEBRATIONS, 1953
-<https://corporate.nas.gov.sg/media/collections-and-research/queenelizabethcoronation>
 
-Food Supply During British Military Administration (September 1945 – March 1946)
-<https://www.nas.gov.sg/archivesonline/policy_history/card?id=18>
 
-Community Cares for Those in Need (1946 - 1976)
-<https://www.nas.gov.sg/archivesonline/policy_history/card?id=13>
+[Food Supply During British Military Administration (September 1945 - MArch 1946)](https://www.nas.gov.sg/archivesonline/sphpcard18?catId=0)
+
+
+[Community Cares for Those in Need (1946 - 1976)](https://www.nas.gov.sg/archivesonline/sphpcard13?catId=0)
