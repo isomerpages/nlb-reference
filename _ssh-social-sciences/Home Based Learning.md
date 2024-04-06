@@ -2,6 +2,7 @@
 title: Home Based Learning
 permalink: /guides/socscihum/soc-sci/home-based-learning/
 description: ""
+variant: markdown
 ---
 This resource guide was created as part of a learning package on A New Normal. For other related resource guides, please head to this directory of [Learning Packages](/guides/learning-packages-directory).
 
@@ -18,23 +19,23 @@ Observations during this HBL period across the world include the impact of socio
 
 The lessons learnt from the current COVID-19 crisis may chart new directions for the education landscape in Singapore and the rest of world. To find out more about HBL and online learning, check out the resources below. 
 
-[^1]: UNESCO. (2020). *COVID-19 educational disruption and response.* Retrieved 2020, May 2 from <https://en.unesco.org/covid19/educationresponse/>
+[^1]: UNESCO. (2020). *COVID-19 educational disruption and response.* Retrieved 2020, May 2 from 
 
-[^2]: Pappano. (2012, November 2). The year of the MOOC. *The New York Times*. Retrieved 2020, April 30 from <https://www.nytimes.com/2012/11/04/education/edlife/massive-open-online-courses-are-multiplying-at-a-rapid-pace.html>; Robert, C. (2020, April 11). Commentary: Home-based learning is strange, new ground. But we can conquer that too. *ChannelNewsAsia.* Retrieved 2020, April 29 from <https://www.channelnewsasia.com/news/commentary/coronavirus-covid-19-home-based-e-learning-moe-school-teacher-12624202>; Trucano, M. (2014, September 16). Education & technology in an age of pandemics (revisited). *World Bank Blogs*. Retrieved 2020, April 29 from <https://blogs.worldbank.org/edutech/education-technology-age-pandemics-revisited>
+[^2]: Pappano. (2012, November 2). The year of the MOOC. *The New York Times*. Retrieved 2020, April 30 from ; Lim, S.S. (2020, October 21). Commentary: Laptops for every student – a lot could go wrong.*ChannelNewsAsia.* Retrieved 2020, April 29 from https://www.channelnewsasia.com/commentary/laptops-students-distraction-online-learning-965436 ; Trucano, M. (2014, September 16). Education &amp; technology in an age of pandemics (revisited). *World Bank Blogs*. Retrieved 2020, April 29 from 
 
-[^3]: Dodd, H. (2020, April 14). I can’t believe I am going to say this, but I would rather be at school. *The New York Times,* retrieved 2020, May 2 from <https://www.nytimes.com/2020/04/14/us/school-at-home-students-coronavirus.html>; Bromley, M. (2020, March 18). Coronavirus: Crisis management and school closure – issues to consider. *SecEd*. Retrieved 2020, April 30 from <https://www.sec-ed.co.uk/best-practice/coronavirus-covid-19-crisis-management-school-closure-headteachers/>
+[^3]: Dodd, H. (2020, April 14). I can’t believe I am going to say this, but I would rather be at school. *The New York Times,* retrieved 2020, May 2 from ; Bromley, M. (2020, March 18). Coronavirus: Crisis management and school closure – issues to consider. *SecEd*. Retrieved 2020, April 30 from 
 
-[^4]: Robert, C. (2020, April 11). Commentary: Home-based learning is strange, new ground. But we can conquer that too. *ChannelNewsAsia.* Retrieved 2020, April 29 from <https://www.channelnewsasia.com/news/commentary/coronavirus-covid-19-home-based-e-learning-moe-school-teacher-12624202>; Saavedra, J. (2020, March 3). Educational challenges and opportunities of the Coronavirus (COVID-19) pandemic. Retrieved 2020, April 29 from <https://blogs.worldbank.org/education/educational-challenges-and-opportunities-covid-19-pandemic>
+[^4]: Robert, C. (2020, April 11). Commentary: Home-based learning is strange, new ground. But we can conquer that too. *ChannelNewsAsia.* Retrieved 2020, April 29 from ; Saavedra, J. (2020, March 3). Educational challenges and opportunities of the Coronavirus (COVID-19) pandemic. Retrieved 2020, April 29 from 
 
 
 
-<h4>Videos & Podcasts</h4>
+<h4>Videos &amp; Podcasts</h4>
 <h5>1. Education Now | Socially distant – And more connected than ever</h5>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/NKfpJmGZ-Y8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/NKfpJmGZ-Y8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 Source: <a href="https://www.youtube.com/embed/NKfpJmGZ-Y8" target="_blank">Education Now | Socially distant – And more connected than ever. </a>(2020, April 15). <i>Harvard Graduate School of Education</i>. Retrieved 2020, April 29.
 
 <h5>2. What to expect of home-based learning – Deputy Director-General of Education (Curriculum) explains</h5>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/E9t53lZw_rg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/E9t53lZw_rg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 Source: <a href="https://www.youtube.com/embed/E9t53lZw_rg" target="_blank">What to expect of home-based learning – Deputy Director-General of Education (Curriculum) explains. </a>(2020, April 4). <i>MOE Singapore</i>. Retrieved 2020, April 30.
 
 <h5>3. <a href="https://www.npr.org/programs/ted-radio-hour/825896890/teaching-for-better-humans-2-0" target="_blank">Teaching for better humans 2.0</a></h5>
@@ -55,7 +56,7 @@ Dryden-Peterson, S. (2020, April 16). Learning and community in a time of crisis
 <h5>3. <a href="https://www.gse.harvard.edu/news/uk/20/03/shift-online-teaching" target="_blank">The shift to online teaching</a></h5>
 Boudreau, E. (2020, March 20). The shift to online teaching. <i>Harvard Graduate School of Education</i>. Retrieved 2020, April 29.
 
-<h5>4. <a href="https://www.straitstimes.com/singapore/askst-how-will-teachers-monitor-students-home-based-learning-progress?utm_medium=Social&utm_campaign=STFB&utm_source=Facebook#Echobox=1587038746" target="_blank">askST: How will teachers monitor students' home-based learning progress?</a></h5>
+<h5>4. <a href="https://www.straitstimes.com/singapore/askst-how-will-teachers-monitor-students-home-based-learning-progress?utm_medium=Social&amp;utm_campaign=STFB&amp;utm_source=Facebook#Echobox=1587038746" target="_blank">askST: How will teachers monitor students' home-based learning progress?</a></h5>
 Ang, J. (2020, April 16). askST: How will teachers monitor students' home-based learning progress? <i>The Straits Times</i>. Retrieved 2020, April 30.
 
 <h5>5. <a href="https://www.chronicle.com/article/On-a-Desert-Island-With/248452" target="_blank">'On a desert island with your students’: Professors discuss the weirdness of teaching remotely in a pandemic</a></h5>
@@ -68,23 +69,23 @@ UNESCO. (2020). <i>Distance learning solutions</i>. Retrieved 2020, April 28.
 
 <h4>eBooks</h4>
 <h5>1. The war on learning: Gaining ground in the digital university</h5>
-Losh, E. (2014). <i>The war on learning: Gaining ground in the digital university</i>. Cambridge, MA: The MIT Press. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br/> 
+Losh, E. (2014). <i>The war on learning: Gaining ground in the digital university</i>. Cambridge, MA: The MIT Press. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br> 
 <a href="https://nlb.overdrive.com/media/1741463" target="_blank"><img src="/images/socsci-hum/NN3-the-war-on-learning.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
 
 <h5>2. Education and social media: Toward a digital future</h5>
-Greenhow, C., Sonnevend, J. & Agur, C. (2016). <i>Education and social media: Toward a digital future</i>. Cambridge, MA: The MIT Press. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br/> 
+Greenhow, C., Sonnevend, J. &amp; Agur, C. (2016). <i>Education and social media: Toward a digital future</i>. Cambridge, MA: The MIT Press. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br> 
 <a href="https://nlb.overdrive.com/media/2755278" target="_blank"><img src="/images/socsci-hum/NN3-education-and-social-media.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
 
 <h5>3. The end of college. Creating the future of learning and the university of everywhere.</h5>
-Carey, K. (2015). <i>The end of college. Creating the future of learning and the university of everywhere</i>. New York, NY: Penguin Publishing Group. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br/> 
+Carey, K. (2015). <i>The end of college. Creating the future of learning and the university of everywhere</i>. New York, NY: Penguin Publishing Group. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br> 
 <a href="https://nlb.overdrive.com/media/1778940" target="_blank"><img src="/images/socsci-hum/NN3-the-end-of-college.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
 
 <h5>4. Free-range learning in the digital age: The emerging revolution in college, career and education.</h5>
-Smith, P. (2018). <i>Free-range learning in the digital age: The emerging revolution in college, career and education</i>. New York, NY: SelectBooks. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br/> 
+Smith, P. (2018). <i>Free-range learning in the digital age: The emerging revolution in college, career and education</i>. New York, NY: SelectBooks. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br> 
 <a href="https://nlb.overdrive.com/media/3901454" target="_blank"><img src="/images/socsci-hum/NN3-free-range-learning.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
 
 <h5>5. The successful virtual classroom: How to design and facilitate interactive and engaging live online learning</h5>
-Christopher, D. & Hyder, K. (2014). <i>The successful virtual classroom: How to design and facilitate interactive and engaging live online learning</i>. New York, New York: AMACOM Books. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br/> 
+Christopher, D. &amp; Hyder, K. (2014). <i>The successful virtual classroom: How to design and facilitate interactive and engaging live online learning</i>. New York, New York: AMACOM Books. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br> 
 <a href="https://nlb.overdrive.com/media/1956028" target="_blank"><img src="/images/socsci-hum/NN3-the-successful-virtual-classroom.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
 
 
@@ -95,10 +96,10 @@ Christopher, D. & Hyder, K. (2014). <i>The successful virtual classroom: How to 
 Ross, S. M. (2019). <a href="https://journals.sagepub.com/doi/full/10.1177/0273475319833113" target="_blank">Slack it to me: Complementing LMS with student-centric communications for the millennial/post-millennial student</a>. <i>Journal of Marketing Education</i>, 41(2), 91–108. Retrieved 2020, May 2.
 
 <h5>2. Accessing abilities: Creating innovative accessible online learning environments and putting quality into practice</h5>
-Moorefield-Lang, H., Copeland, C. A., & Haynes, A. (2016). <a href="http://eresources.nlb.gov.sg/main/browse/resource/1329/" target="_blank">Accessing abilities: Creating innovative accessible online learning environments and putting quality into practice</a>. <i>Education for Information</i>, 32(1), 27–33. Retrieved 2020, April 30 from EBSCOhost via NLB’s eResources website (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this article.)
+Moorefield-Lang, H., Copeland, C. A., &amp; Haynes, A. (2016). <a href="http://eresources.nlb.gov.sg/main/browse/resource/1329/" target="_blank">Accessing abilities: Creating innovative accessible online learning environments and putting quality into practice</a>. <i>Education for Information</i>, 32(1), 27–33. Retrieved 2020, April 30 from EBSCOhost via NLB’s eResources website (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this article.)
 
 <h5>3. Developing the MultiDimensional Communication Channel Model (MDCC model) – A communication model for virtual classrooms</h5>
-Eggert, D., & Beutner, M. (2019). <a href="http://eresources.nlb.gov.sg/main/browse/resource/1329/" target="_blank">Developing the MultiDimensional Communication Channel Model (MDCC model) – A communication model for virtual classrooms</a>. <i>Proceedings of the Multidisciplinary Academic Conference</i>, 48–71. Retrieved 2020, April 30 from EBSCOhost via NLB’s eResources website (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this article.)
+Eggert, D., &amp; Beutner, M. (2019). <a href="http://eresources.nlb.gov.sg/main/browse/resource/1329/" target="_blank">Developing the MultiDimensional Communication Channel Model (MDCC model) – A communication model for virtual classrooms</a>. <i>Proceedings of the Multidisciplinary Academic Conference</i>, 48–71. Retrieved 2020, April 30 from EBSCOhost via NLB’s eResources website (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this article.)
 
 <h5>4. Virtual classrooms: Analyzing student and instructor collaborative experiences</h5>
 Chadha, A. (2018). <a href="http://eresources.nlb.gov.sg/main/browse/resource/1111/" target="_blank">Virtual classrooms: Analyzing student and instructor collaborative experiences</a>. <i>Journal of the Scholarship of Teaching and Learning</i>, 18(3). Retrieved 2020, April 24 from ProQuest via NLB’s eResources website (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this article.)
@@ -131,9 +132,8 @@ This article shares five tips on how to study online efficiently.
 
 A student shares about her experience using virtual technology in education.
 
-<p style="font-size:10pt;"><b>Disclaimer/ Rights statement</b><br/>
-The information in this resource guide is valid as of May 2020 and correct as far as we are able to ascertain from our sources. It is not intended to be an exhaustive or complete history on the subject. Please contact the Library for further reading materials on the topic.<br/>
-All Rights Reserved. National Library Board Singapore 2020.<br/></p>
+<p style="font-size:10pt;"><b>Disclaimer/ Rights statement</b><br>
+The information in this resource guide is valid as of May 2020 and correct as far as we are able to ascertain from our sources. It is not intended to be an exhaustive or complete history on the subject. Please contact the Library for further reading materials on the topic.<br>
+All Rights Reserved. National Library Board Singapore 2020.<br></p>
 ---
 #### **References**
-
