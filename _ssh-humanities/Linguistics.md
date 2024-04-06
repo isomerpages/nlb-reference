@@ -3,11 +3,9 @@ title: Linguistics
 permalink: /guides/socscihum/humanities/linguistics/
 breadcrumb: Linguistics
 collection_name: social-sciences-humanities-humanities
-published: true
+published: "true"
+variant: markdown
 ---
-
-
-
 ### <u>Guide Index</u>
 
 * [Introduction](#introduction)
@@ -29,10 +27,10 @@ This guide highlights resources on linguistics that are available at the Lee Kon
 
 | **Search Terms** | **Call Number** |
 | Language | 400 |
-| Dictionaries & encyclopedias | 403 |
+| Dictionaries &amp; encyclopedias | 403 |
 | Linguistics |	410 |
 | Writing systems |	411 |
-| Phonology & phonetics | 414 |
+| Phonology &amp; phonetics | 414 |
 | Grammar | 415 |
 
 
@@ -42,7 +40,7 @@ Books and texts are often mainstays of resource guides as these provide introduc
 
  
 
-* Campbell, G. L. & King, G. (2013). [Compendium of the world’s languages](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200164624). Abingdon, Oxon: Routledge.
+* Campbell, G. L. &amp; King, G. (2013). [Compendium of the world’s languages](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200164624). Abingdon, Oxon: Routledge.
 
 Call no.: R 403 CAM
 
@@ -56,7 +54,7 @@ Call no.: R 403 CRY -\[DIC\]
 This reference text is a broad survey of language and linguistics that is accessible for a general audience, organised thematically and covering areas such as linguistic components, language and identity, language media, language acquisition and world languages. This third edition notably includes sections on electronic communication and endangered languages.
 
 
-* Flores Farfán, J. A. & Ramallo, F. F. (Eds.). (2010). [New perspectives on endangered languages: bridging gaps between sociolinguistics, documentation and language revitalization](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14289674). Amsterdam: John Benjamins Pub. Co.
+* Flores Farfán, J. A. &amp; Ramallo, F. F. (Eds.). (2010). [New perspectives on endangered languages: bridging gaps between sociolinguistics, documentation and language revitalization](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14289674). Amsterdam: John Benjamins Pub. Co.
 
 Call no.: R 408.9 NEW
 
@@ -84,7 +82,7 @@ Call no.: R 410.3 MAT
 This dictionary covers grammar, phonetics, semantics, languages (spoken and written), dialects, and sociolinguistics. It includes some examples and diagrams to convey the meanings of selected terms. Entries on key scholars of linguistics are also found in this volume.
 
 
-* O’Keeffe, A. & McCarthy, M. (Eds.). (2010). [The Routledge handbook of corpus linguistics](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13560152). London: Routledge.
+* O’Keeffe, A. &amp; McCarthy, M. (Eds.). (2010). [The Routledge handbook of corpus linguistics](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13560152). London: Routledge.
 
 Call no.: R 410.188 ROU
 
@@ -121,7 +119,7 @@ The author explains the relationship between meaning and culture of the English 
 ### <u>Websites</u>
 
 
-* Barker, C. & Lasersohn, P. (2016). semanticsarchive.net. Retrieved February 18, 2016, from the semanticsarchive.net website:
+* Barker, C. &amp; Lasersohn, P. (2016). semanticsarchive.net. Retrieved February 18, 2016, from the semanticsarchive.net website:
 [http://semanticsarchive.net/](http://semanticsarchive.net/)
 
 This is an extensive online archive of published papers on natural language semantics, submitted by authors from institutions all over the world.
@@ -145,13 +143,13 @@ This website contains an extensive list of questionnaires and other elicitation 
 This is a directory of links to language and linguistics-related websites, containing everything from language learning resources to language identification tools and the websites of linguistics associations.
 
 
-* Lewis, M. P., Simons, G. F. & Fennig, C. D. (Eds.). (2015). Ethnologue: Languages of the World, Eighteenth edition. Dallas, Texas: SIL International. Retrieved February 18, 2016, from the Ethnologue website:
+* Lewis, M. P., Simons, G. F. &amp; Fennig, C. D. (Eds.). (2015). Ethnologue: Languages of the World, Eighteenth edition. Dallas, Texas: SIL International. Retrieved February 18, 2016, from the Ethnologue website:
 [http://www.ethnologue.com](http://www.ethnologue.com)
 
 This website is a catalogue of the world’s known living languages. It displays information on the number of languages and the number of its speakers in a region, or even in a single country. It also contains helpful explanations of the concepts of language development and endangerment.
 
 
-* Speech, Hearing & Phonetic Sciences, University College London. (2015). Educational Resources in Speech, Hearing and Phonetic Sciences. Retrieved February 18, 2016, from the University College London website:
+* Speech, Hearing &amp; Phonetic Sciences, University College London. (2015). Educational Resources in Speech, Hearing and Phonetic Sciences. Retrieved February 18, 2016, from the University College London website:
 [http://www.phon.ucl.ac.uk/resource/educational.php](http://www.phon.ucl.ac.uk/resource/educational.php)
 
 The University College of London’s site contains online tutorials for education in phonetics and speech communication, covering topics such as voicing, plosives, intonation, loudness, pitch, and even logarithms related to speech and hearing.
@@ -183,12 +181,6 @@ DOAJ provides online access to titles of scholarly and academic journals on a wi
 * Elsevier. (2015). Ampersand: An International Journal of General and Applied Linguistics. Retrieved February 19, 2016, from the Elsevier website: [http://www.journals.elsevier.com/ampersand/](http://www.journals.elsevier.com/ampersand/)
 
 Ampersand is an international peer-reviewed journal from Elsevier Science. Its publishing focus lies in applied and historical linguistics, phonetics, phonology, pragmatics, semantics, sociolinguistics and syntax.
-
-
-* The Linguistics Journal. (2016). The Linguistics Journal | TESOL Linguistics. Retrieved February 19, 2016, from the Linguistics Journal website:
-[http://www.linguistics-journal.com/](http://www.linguistics-journal.com/)
-
-The Linguistics Journal is a refereed online publication that provides access to resources for researching, teaching and learning linguistics. The journal covers phonetics and phonology, semantics, morphology, syntax, semiotics, discourse analysis, pragmatics, language acquisition, psycholinguistics, sociolinguistics, computational and corpus linguistics and more.
 
 
 * Tinnefeld, T. (Ed.). (2016). Journal of Linguistics and Language Teaching. Retrieved February 19, 2016, from the Journal of Linguistics and Language Teaching website:
