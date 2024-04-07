@@ -2,6 +2,7 @@
 title: Social Relationships
 permalink: /guides/socscihum/humanities/social-relationships/
 description: ""
+variant: markdown
 ---
 This resource guide was created as part of a learning package on A New Normal. For other related resource guides, please head to this directory of [Learning Packages](/guides/learning-packages-directory).
 
@@ -18,25 +19,26 @@ In Singapore, family members living in separate households and friends have not 
 
 To learn more about social relationships, check out the resources listed below. 
 
-[^1]: Strong relationships, strong health. (2020). Better Health Channel, State Government of Victoria. Retrieved 2020, May 11 from <https://www.betterhealth.vic.gov.au/health/HealthyLiving/Strong-relationships-strong-health>
+[^1]: Strong relationships, strong health. (2020). Better Health Channel, State Government of Victoria. Retrieved 2020, May 11 from 
 
-[^2]: Segrin, C. (2020, April 2). Psychological Science and COVID-19: Social impact on adults. Association for Psychological Science. Retrieved 2020, May 11 from <https://www.psychologicalscience.org/news/backgrounders/covid-19-social-impacts-adults.html>
+[^2]: Segrin, C. (2020, April 2). Psychological Science and COVID-19: Social impact on adults. Association for Psychological Science. Retrieved 2020, May 11 from 
 
-[^3]: Singapore to exit circuit breaker on June 1, visiting of parents, place of worship allowed with restrictions. (2020, May 19). CNA. Retrieved 2020, May 22 from <https://www.channelnewsasia.com/news/singapore/singapore-exit-circuit-breaker-jun-1-visit-parents-worship-12749222>
+[^3]: Singapore to end Covid-19 circuit breaker on June 1: What you need to know. (2020, May 26). Straits Times. Retrieved 2024, April 7 from https://www.straitstimes.com/singapore/health/coronavirus-leaving-kids-with-grandparents-to-be-allowed-from-june-2-and-other
 
-[^4]: COVID-19 situation throws into stark relief what victims of domestic abuse face. (2020, May 7). CNA. Retrieved 2020, May 26 from <https://www.channelnewsasia.com/news/cnainsider/covid-19-throws-stark-relief-what-victims-of-domstic-abuse-face-12710682>
+[^4]: Coronavirus: Rise in domestic abuse cases as families forced to stay home. (2020, April 9). Straits Times. Retrieved 2024, April 7 from https://www.straitstimes.com/singapore/coronavirus-rise-in-domestic-abuse-cases-as-families-forced-to-stay-home
 
 
 
 <h4>Websites</h4>
-<h5>1. <a href="https://www.channelnewsasia.com/news/commentary/how-is-covid-19-disrupting-our-relationships-social-life-12606736" target="_blank">Commentary: We cannot allow COVID-19 to disrupt our relationships too</a></h5>
-Tan, A. (2020, April 6). Commentary: We cannot allow COVID-19 to disrupt our relationships too. <i>Channel News Asia.</i> Retrieved 2020, May 11.
+<h5>1. <a href="https://lkyspp.nus.edu.sg/gia/article/covid-19-too-close-for-comfort---will-the-pandemic-make-or-break-the-family" target="_blank">COVID-19: Too close for comfort - Will the pandemic make or break the family?
+</a></h5>
+Global-Is-Asian Staff. (2020, May 28). COVID-19: Too close for comfort - Will the pandemic make or break the family? <i>Lee Kuan Yew School of Public Policy.</i> Retrieved 2024, April 7.
 
 <h5>2. <a href="https://www.asiaone.com/lifestyle/how-keep-your-relationship-strong-during-covid-19" target="_blank">How to keep your relationship strong during COVID-19</a></h5>
 How to keep your relationship strong during COVID-19. (2020, May 12). <i>Asia One.</i> Retrieved 2020, May 12.
 
 <h5>3. <a href="https://www.smartbrief.com/original/2020/03/why-relational-connection-so-important-during-coronavirus-pandemic" target="_blank">Why relational connection is so important during the coronavirus pandemic</a></h5>
-Stallard, M. L. & Stallard, K. P. (2020, March 19). Why relational connection is so important during the coronavirus pandemic. <i>Smart Brief.</i> Retrieved 2020, May 11.
+Stallard, M. L. &amp; Stallard, K. P. (2020, March 19). Why relational connection is so important during the coronavirus pandemic. <i>Smart Brief.</i> Retrieved 2020, May 11.
 
 <h5>4. <a href="https://ifstudies.org/blog/avoiding-a-relationship-pandemic" target="_blank">Avoiding a relationship pandemic</a></h5>
 Hall, R. (2020, March 18). Avoiding a relationship pandemic. (2020, March 18). <i>Institute for Family Studies.</i> Retrieved 2020, May 11.
@@ -47,43 +49,43 @@ Gallagher, S. (2020, April 15). Coronavirus: How to ensure your relationships su
 <h5>6. <a href="https://www.psychologytoday.com/sg/blog/the-attraction-doctor/202003/steps-healthy-relationships-during-crisis-and-quarantine" target="_blank">Steps for healthy relationships during crisis and quarantine</a></h5>
 Nicholson, J. (2020, March 30). Steps for healthy relationships during crisis and quarantine. <i>Psychology Today.</i> Retrieved 2020, May 11.
 
-<h5>7. <a href="https://www.channelnewsasia.com/news/singapore/covid-19-msf-domestic-abuse-violence-cases-circuit-breaker-12671330" target="_blank">COVID-19: MSF keeping ‘close watch’ on domestic abuse cases as more reach out for help over circuit breaker period</a></h5>
-COVID-19: MSF keeping ‘close watch’ on domestic abuse cases as more reach out for help over circuit breaker period. (2020, April 23). <i>Channel News Asia.</i> Retrieved 2020, May 26.
+<h5>7. <a href="https://www.todayonline.com/singapore/covid-19-msf-keeping-close-watch-domestic-abuse-cases-more-reach-out-help-over-circuit" target="_blank">COVID-19: MSF keeping ‘close watch’ on domestic abuse cases as more reach out for help over circuit breaker period</a></h5>
+COVID-19: MSF keeping ‘close watch’ on domestic abuse cases as more reach out for help over circuit breaker period. (2020, April 24). <i>Today Online.</i> Retrieved 2024, April 7.
 
 
 
 <h4>Videos</h4>
 <h5>1. How to keep relationships strong during COVID-19</h5>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/hgqobcV1Muw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/hgqobcV1Muw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=hgqobcV1Muw" target="_blank">How to keep relationships strong during COVID-19.</a> Bea, S. (2020, April 20). <i>Cleveland Clinic</i>. Retrieved 2020, May 16.
 
 <h5>2. Coronavirus: Mental health and wellness during the COVID-19 pandemic</h5>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/FqprqUd56_g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/FqprqUd56_g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=FqprqUd56_g" target="_blank">Coronavirus: Mental health and wellness during the COVID-19 pandemic.</a> (2020, March 20). <i>UC Davis Health</i>. Retrieved 2020, May 22.
 
 <h5>3. How to survive quarantine with your relationship intact</h5>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/r6N7jpJu6X8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/r6N7jpJu6X8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=r6N7jpJu6X8" target="_blank">How to survive quarantine with your relationship intact.</a> (2020, May 6). <i>The New Yorker</i>. Retrieved 2020, May 12.
 
 <h5>4. Families living apart</h5>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/uphCTnn_sCA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/uphCTnn_sCA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=uphCTnn_sCA" target="_blank">Families living apart. </a> (2020, May 7). <i>CNA Insider</i>. Retrieved 2020, May 12.
 
 
 
 <h4>eBooks</h4>
 <h5>1. Future presence: How virtual reality is changing human connection, intimacy, and the limits of ordinary life</h5>
-Rubin, P. (2018). <i>Future presence: How virtual reality is changing human connection, intimacy, and the limits of ordinary life</i>. HarperCollins. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this eBook.)<br/> 
+Rubin, P. (2018). <i>Future presence: How virtual reality is changing human connection, intimacy, and the limits of ordinary life</i>. HarperCollins. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this eBook.)<br> 
 <a href="https://nlb.overdrive.com/media/3309301" target="_blank"><img src="/images/socsci-hum/NN7-future-presence.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
 
 <h5>2. Wired to connect: The surprising link between brain science and strong, healthy relationships</h5>
-Banks, S., & Hirshman, L. A. (2016). <i>Wired to connect: The surprising link between brain science and strong, healthy relationships</i>. TarcherPerigee. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this eBook.)<br/> 
+Banks, S., &amp; Hirshman, L. A. (2016). <i>Wired to connect: The surprising link between brain science and strong, healthy relationships</i>. TarcherPerigee. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this eBook.)<br> 
 <a href="https://nlb.overdrive.com/media/2462413" target="_blank"><img src="/images/socsci-hum/NN7-wired-to-connect.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
 
-<h5>3. 52 small changes for the family: Sharpen minds, build confidence, boost health, deepen connections</h5> Blumenthal, B., & Tan, D. (2019). <i>52 small changes for the family: Sharpen minds, build confidence, boost health, deepen connections</i>. Chronicle Books. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this eBook.)<br/> 
+<h5>3. 52 small changes for the family: Sharpen minds, build confidence, boost health, deepen connections</h5> Blumenthal, B., &amp; Tan, D. (2019). <i>52 small changes for the family: Sharpen minds, build confidence, boost health, deepen connections</i>. Chronicle Books. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this eBook.)<br> 
 <a href="https://nlb.overdrive.com/media/4414997" target="_blank"><img src="/images/socsci-hum/NN7-52-small-changes.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
 
-<h5>4. 8 keys to building your best relationships</h5> Hughes, D. A., & Rothschild, B. (2013). <i>8 keys to building your best relationships</i>. New York: W.W. Norton. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this eBook.)<br/> 
+<h5>4. 8 keys to building your best relationships</h5> Hughes, D. A., &amp; Rothschild, B. (2013). <i>8 keys to building your best relationships</i>. New York: W.W. Norton. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this eBook.)<br> 
 <a href="https://nlb.overdrive.com/media/2312771" target="_blank"><img src="/images/socsci-hum/NN7-8-keys-to-building.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
 
 
@@ -127,9 +129,8 @@ Covid-19: Mendaki hulur $1.9j bantu masyarakat Melayu/Islam yang terjejas. (2020
 As a follow up to #SGTeguhBersatu (#SGUnited), Mendaki announced that it was setting aside $1.9 million to help those in the Malay/Muslim community affected by the COVID-19 pandemic.
 
 
-<p style="font-size:10pt;"><b>Disclaimer/ Rights statement</b><br/>
-The information in this resource guide is valid as of May 2020 and correct as far as we are able to ascertain from our sources. It is not intended to be an exhaustive or complete history on the subject. Please contact the Library for further reading materials on the topic.<br/>
-All Rights Reserved. National Library Board Singapore 2020.<br/></p>
+<p style="font-size:10pt;"><b>Disclaimer/ Rights statement</b><br>
+The information in this resource guide is valid as of May 2020 and correct as far as we are able to ascertain from our sources. It is not intended to be an exhaustive or complete history on the subject. Please contact the Library for further reading materials on the topic.<br>
+All Rights Reserved. National Library Board Singapore 2020.<br></p>
 ---
 #### **References**
-
