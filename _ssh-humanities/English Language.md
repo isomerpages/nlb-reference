@@ -3,11 +3,9 @@ title: English Language
 permalink: /guides/socscihum/humanities/english-language/
 breadcrumb: English Language
 collection_name: social-sciences-humanities-humanities
-published: true
+published: "true"
+variant: markdown
 ---
-
-
-
 ### <u>Guide Index</u>
 
 * [Introduction](#introduction)
@@ -48,7 +46,7 @@ The English spoken today is known as Late Modern English, which had its roots in
 
 ### <u>Books</u>
 
-* Denison, D. & Miura, A. (Eds.) (2012). [Analysing older English](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14630075). Cambridge: Cambridge University Press.
+* Denison, D. &amp; Miura, A. (Eds.) (2012). [Analysing older English](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14630075). Cambridge: Cambridge University Press.
 
 Call no.: R 427 ANA
 
@@ -76,7 +74,7 @@ Call no.: R 415.09 HUR
 Hurford examines the biological evolution of language, covering the communication pattern of animals, the transformation of grammar and the growth of human language.
 
 
-* McCrum, R. (2010). [Globish: How the English language became the world’s language](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13603269). New York: W.W. Norton & Co.
+* McCrum, R. (2010). [Globish: How the English language became the world’s language](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13603269). New York: W.W. Norton &amp; Co.
 
 Call no.: R 420.9 MAC
 
@@ -106,7 +104,7 @@ This webpage enables visitors to view sample texts from the Old, Middle and Mode
 This website houses a database of English etymology, which is the study of a word’s history and its evolution. Users can search for specific words to learn about their origins, historical usage, and related words.
 
 
-* Towson University. (2010, April 11). Links to history of the English language resources. Retrieved March 14, 2017, from Towson University website: [http://pages.towson.edu/duncan/hellinks.html](http://pages.towson.edu/duncan/hellinks.html)
+* Towson University. (2010, April 11). Links to history of the English language resources. Retrieved March 14, 2017, from Towson University website: [https://tigerweb.towson.edu/duncan/hellinks.html](https://tigerweb.towson.edu/duncan/hellinks.html)
 
 This website contains an extensive directory of resources on the evolution of the English language, from its Indo-European and Germanic roots through Old, Middle, and finally Modern English. There are many audio recordings of the historical English language being spoken.
 
@@ -128,7 +126,7 @@ Call no.: R 421.58 CRU
 This book serves as an essential text for students and teachers of English pronunciation. Contents are divided into three parts: Speech and language, The sound of English, and Words and connected speech.
 
 
-* Ladefoged, P. & Johnson, K. (2011). [A course in phonetics](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13926347). Boston, MA: Wadsworth/Cengage Learning.
+* Ladefoged, P. &amp; Johnson, K. (2011). [A course in phonetics](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13926347). Boston, MA: Wadsworth/Cengage Learning.
 
 Call no.: R 414.8 LAD
 
@@ -137,9 +135,9 @@ This text provides a good foundation to learn about English language phonetics, 
 
 ### <u>Websites</u>
 
-* British Council & BBC World Service. (n.d.). Phonemic chart. Retrieved March 14, 2017, from British Council & BBC World Service website: [http://www.teachingenglish.org.uk/activities/phonemic-chart](http://www.teachingenglish.org.uk/activities/phonemic-chart)
+* British Council. (n.d.). Phonemic chart. Retrieved April 7, 2024, from British Council website: [https://www.teachingenglish.org.uk/teaching-resources/teaching-secondary/teaching-tools/phonemic-chart](https://www.teachingenglish.org.uk/teaching-resources/teaching-secondary/teaching-tools/phonemic-chart)
 
-Visitors to this website can download the British Council phonemic chart and hear the sounds used in the English language for consonants and vowels by clicking on each of the square tiles on the chart. (Note: Adobe Flash Player is required when downloading the chart to a desktop computer.)
+Visitors to this website can download either the non-interactive or interactive mobile app versions of the British Council phonemic chart.
 
 
 * WETA Public Broadcasting. (2011). Top 10 Resources on Phonological and Phonemic Awareness. Retrieved March 14, 2017, from WETA Public Broadcasting website: [http://www.readingrockets.org/article/top-10-resources-phonological-and-phonemic-awareness](http://www.readingrockets.org/article/top-10-resources-phonological-and-phonemic-awareness)
@@ -155,7 +153,7 @@ Learning about grammar terminology also cultivates an understanding and respect 
 
 ### <u>Books</u>
 
-* Klammer, T. P., Schulz, M. R. & Volpe, A. D. (2010). [Analyzing English grammar](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13566429). New York: Longman.
+* Klammer, T. P., Schulz, M. R. &amp; Volpe, A. D. (2010). [Analyzing English grammar](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13566429). New York: Longman.
 
 Call no.: R 428.2 KLA
 
@@ -166,7 +164,7 @@ This text encourages readers to analyse English grammar while learning about the
 
 Call no.: R 415 LAR
 
-This is a good introductory text to syntax, covering topics such as phrase structure, lexicon and movement rules, as viewed from the perspective of the principles of scientific theorising. The e-version of the preface for this book can be found at this URL: [http://mitpress.mit.edu/sites/default/files/titles/content/9780262513036_pre_0001.pdf](http://mitpress.mit.edu/sites/default/files/titles/content/9780262513036_pre_0001.pdf)
+This is a good introductory text to syntax, covering topics such as phrase structure, lexicon and movement rules, as viewed from the perspective of the principles of scientific theorising. 
 
 
 * McIntyre, B. T., Cheung, Y. L. (2011). [English style and usage](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13932618). Singapore: Prentice Hall.
@@ -204,7 +202,7 @@ Call no.: RSING 808.042 SAY
 This is a handy guide that points out mistakes to avoid when dealing with issues such as using acronyms, jargon, quotations, captions, cliches, grammar and punctuation, among others.
 
 
-* Shrives, C. (2011). [Grammar rules: Writing with military precision](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14242108). Singapore: W&V Press.
+* Shrives, C. (2011). [Grammar rules: Writing with military precision](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14242108). Singapore: W&amp;V Press.
 
 Call no.: R 425 SHR
 
@@ -223,7 +221,7 @@ This website extensively discusses grammar and other aspects of the language in 
 This is a fun and useful website for learning about English grammar, vocabulary, pronunciation and general and business English. Also provides an option for the website to be translated into other languages, such as Portuguese, Russian and Vietnamese.
 
 
-* British Council. (n.d.). English grammar. Retrieved March 14, 2017, from British Council website: [http://learnenglish.britishcouncil.org/en/english-grammar](http://learnenglish.britishcouncil.org/en/english-grammar)
+* British Council. (n.d.). English grammar reference. Retrieved April 7, 2024, from British Council website: [https://learnenglish.britishcouncil.org/grammar/english-grammar-reference](https://learnenglish.britishcouncil.org/grammar/english-grammar-reference)
 
 The British Council website gives a rudimentary introduction to the different elements of grammar with interactive exercises for each section provided to test one’s understanding of the concepts taught.
 
@@ -233,18 +231,13 @@ The British Council website gives a rudimentary introduction to the different el
 This website provides English usage rules, covering grammar, punctuation and other rules such as capitalisation, spelling, vocabulary and writing numbers. English usage videos and quizzes are also provided.
 
 
-* Kies, D. (2016, November 17). Modern English grammar. Retrieved March 14, 2017, from HyperTextBooks website: [http://papyr.com/hypertextbooks/grammar/](http://papyr.com/hypertextbooks/grammar/)
-
-This website is used as a supplementary resource for undergraduate students studying English grammar, and contains detailed information ranging from grammatical structure to common errors in language usage and even professional research findings.
-
-
 * National Library Board. (2015, March 4). Speak Good English Movement written by Sim, Cheryl. Retrieved March 14, 2017, from Singapore Infopedia.
 
 This article is about the first Speak Good English campaign in Singapore, which was launched in April 2000. The campaign was part of the government’s efforts to promote the usage of standard English in Singapore and discourage the use of Singlish.
 
 
 * Oxford University Press. (2017). Oxford English grammar course online. Retrieved March 14, 2017, from Oxford University Press website:
-[http://elt.oup.com/student/oxfordenglishgrammar/?cc=global&selLanguage=en](http://elt.oup.com/student/oxfordenglishgrammar/?cc=global&selLanguage=en)
+[http://elt.oup.com/student/oxfordenglishgrammar/?cc=global&amp;selLanguage=en](http://elt.oup.com/student/oxfordenglishgrammar/?cc=global&amp;selLanguage=en)
 
 This website offers three progressive levels of English Grammar courses – Basic, Intermediate and Advanced, that can aid in learning grammar rules and proper English usage. Each level includes interactive exercises and games to help one to understand grammar in greater detail.
 
@@ -300,7 +293,7 @@ This thesaurus covers a wide range of synonyms with definitions to familiarise r
 
 ### <u>Websites</u>
 
-* Lynch, T. & Anderson, K. (2012). Effective English learning. Unit 6: Vocabulary. Retrieved March 15, 2017, from English Language Teaching Centre, University of Edinburgh website: [http://www.ed.ac.uk/files/imports/fileManager/UNIT_6_Vocabulary.pdf](http://www.ed.ac.uk/files/imports/fileManager/UNIT_6_Vocabulary.pdf)
+* Lynch, T. &amp; Anderson, K. (2012). Effective English learning. Unit 6: Vocabulary. Retrieved March 15, 2017, from English Language Teaching Centre, University of Edinburgh website: [http://www.ed.ac.uk/files/imports/fileManager/UNIT_6_Vocabulary.pdf](http://www.ed.ac.uk/files/imports/fileManager/UNIT_6_Vocabulary.pdf)
 
 This is an online self-study guide on how to expand and improve one’s vocabulary capacity. Word exercises and study notes are also included.
 
@@ -320,7 +313,7 @@ There are also sound dictionaries (for example, phonetic dictionary and rhyming 
 
 ### <u>Books</u>
 
-* Ayto, J. & Simpson, J. (Eds.). (2010). [Oxford dictionary of modern slang](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13585901). Oxford: Oxford University Press.
+* Ayto, J. &amp; Simpson, J. (Eds.). (2010). [Oxford dictionary of modern slang](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13585901). Oxford: Oxford University Press.
 
 Call no.: R 427.09 OXF
 
@@ -341,21 +334,21 @@ Call no.: R 423.13 DOL
 This book covers over 10,000 entries of idioms, clichés and expressions and explains their meanings and usage.
 
 
-* Doyle, C. C., Mieder, W. & Shapiro, F. R. (Eds.). (2012). [The dictionary of modern proverbs](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14470901). New Haven: Yale University Press.
+* Doyle, C. C., Mieder, W. &amp; Shapiro, F. R. (Eds.). (2012). [The dictionary of modern proverbs](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14470901). New Haven: Yale University Press.
 
 Call no.: R 398.92103 DOY
 
 This is a compilation of proverbs that appeared in the English language from 1900 onwards, originating from many parts of the world, such as North America, Britain, Australia, New Zealand, South America and Central America.
 
 
-* Flavell, L. & Flavell, R. (2011). [Dictionary of English down the ages: Words & phrases born out of historical events great & small](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14331307). Singapore: Page One.
+* Flavell, L. &amp; Flavell, R. (2011). [Dictionary of English down the ages: Words &amp; phrases born out of historical events great &amp; small](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14331307). Singapore: Page One.
 
 Call no.: R 422.03 FLA
 
 An interesting book that traces how major world events beginning from 1066, gave birth to many words in the English language, such as ‘chocolate’, ‘jubilee’ and ‘curfews’.
 
 
-* Flavell, L. & Flavell, R. (2011). [Dictionary of idioms and their origins](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14331243). Singapore: Page One.
+* Flavell, L. &amp; Flavell, R. (2011). [Dictionary of idioms and their origins](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14331243). Singapore: Page One.
 
 Call no.: R 423.13 FLA
 
