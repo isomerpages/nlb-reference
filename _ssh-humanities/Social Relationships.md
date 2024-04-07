@@ -108,10 +108,10 @@ Fuoco, M. A. (2020, March 29). The resilience of the human spirit worldwide, com
 
 
 <h4>Chinese and Malay resources</h4>
-<h5>1. <a href="https://www.dw.com/zh/%E7%96%AB%E6%83%85%E4%B8%AD-%E7%91%9E%E5%A3%AB%E9%9B%A8%E4%B8%AD%E6%AD%8C%E5%94%B1/av-53289851" target="_blank">新冠疫情之下，世界各地开启“阳台社交”</a></h5>
-（2020年 4月 30日）。新冠疫情之下，世界各地开启“阳台社交”。<i>在线报导。</i> Retrieved 2020, May 4.
+<h5>1. <a href="https://cn.wsj.com/articles/影片﹕新冠疫情之下，世界各地開啟「陽台社交」-11585637110" target="_blank">新冠疫情之下，世界各地开启“阳台社交”</a></h5>
+（2020年 3月 31日)。新冠疫情之下，世界各地开启“阳台社交”。<i>華爾街日報。</i> Retrieved 2024, April 7.
 
-This article is about residents of an apartment block in Switzerland who took turns to host daily social events from their balconies.
+This article is about people around the world who socialised with their neighbours from their respective balconies while self-isolating at home during the pandemic.
 
 <h5>2. <a href="https://www.anntw.com/articles/20200427-WzR4" target="_blank">满足社交需求 虚拟演唱会吸千万人</a></h5>
 陈是祈。（2020年4月27日）。满足社交需求 虚拟演唱会吸千万人。<i>台湾醒报。</i> Retrieved 2020, May 4.
