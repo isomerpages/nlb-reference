@@ -2,6 +2,7 @@
 title: Virtual Sports and Fitness
 permalink: /guides/socscihum/soc-sci/virtual-sports/
 description: ""
+variant: markdown
 ---
 This resource guide was created as part of a learning package on A New Normal. For other related resource guides, please head to this directory of [Learning Packages](/guides/learning-packages-directory).
 
@@ -40,7 +41,7 @@ To find out more about how people at home can keep active as well as how profess
 
 [^6]: Kennedy, K. (2020, March 24). Fitness enthusiasts think outside the gym during coronavirus. *ABC News*. Retrieved 2020, April 21 from https://abcnews.go.com/Lifestyle/wireStory/fitness-enthusiasts-gym-coronavirus-69746528
 
-[^7]: Hamilton, T. & Uersfeld, S. (2020, May 9). German Bundesliga resumes after coronavirus outbreak: What matchday, player testing and safety will look like. *ESPN*. Retrieved May 21, 2020, from https://www.espn.com/soccer/german-bundesliga/story/4092930/german-bundesliga-resumes-after-coronavirus-outbreak-what-matchdayplayer-testing-and-safety-will-look-like; Coronavirus: Austria football teams to resume training, games to be play behind closed doors. (2020, April 15). *The Straits Times*. Retrieved May 21, 2020, from https://www.straitstimes.com/sport/football/coronavirus-austria-football-teams-to-resume-training-games-to-be-play-behind-closed; Shergold, A. (2020, April 16). Bundesliga players train two metres apart, NBA stars are on 25-day 'back-to-fitness' plans and Australian rugby returns on May 28... how sports around the world are making plans to restart after lockdown. *MailOnline*. Retrieved May 21, 2020, from https://www.dailymail.co.uk/sport/nba/article-8213865/How-sports-world-making-plans-resume-following-coronavirus-shutdown.html; Asia Today: S. Korea has low daily increase as sports resume. (2020, May 5). *Associated Press*. Retrieved May 21, 2020, from https://apnews.com/e01477988078f606863a81d22586a5c7
+[^7]: Hamilton, T. &amp; Uersfeld, S. (2020, May 9). German Bundesliga resumes after coronavirus outbreak: What matchday, player testing and safety will look like. *ESPN*. Retrieved May 21, 2020, from https://www.espn.com/soccer/german-bundesliga/story/4092930/german-bundesliga-resumes-after-coronavirus-outbreak-what-matchdayplayer-testing-and-safety-will-look-like; Coronavirus: Austria football teams to resume training, games to be play behind closed doors. (2020, April 15). *The Straits Times*. Retrieved May 21, 2020, from https://www.straitstimes.com/sport/football/coronavirus-austria-football-teams-to-resume-training-games-to-be-play-behind-closed; Shergold, A. (2020, April 16). Bundesliga players train two metres apart, NBA stars are on 25-day 'back-to-fitness' plans and Australian rugby returns on May 28... how sports around the world are making plans to restart after lockdown. *MailOnline*. Retrieved May 21, 2020, from https://www.dailymail.co.uk/sport/nba/article-8213865/How-sports-world-making-plans-resume-following-coronavirus-shutdown.html; Asia Today: S. Korea has low daily increase as sports resume. (2020, May 5). *Associated Press*. Retrieved May 21, 2020, from https://apnews.com/e01477988078f606863a81d22586a5c7
 
 
 
@@ -49,15 +50,15 @@ To find out more about how people at home can keep active as well as how profess
 #GameOfTwoHalves Podcast: Covid-19 initiatives aiding S’pore sports, fitness, wellness professionals. (2020, April 21). <i>The Straits Times</i>. Retrieved 2020, April 22.
 
 <h5>2. Sports stars go online to connect with fans as tournaments cancelled due to Covid-19</h5>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/xPYFMxWM1Dk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/xPYFMxWM1Dk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 Source: <a href="https://www.youtube.com/embed/xPYFMxWM1Dk" target="_blank">Sports stars go online to connect with fans as tournaments cancelled due to Covid-19.</a> (2020, April 27). <i>The Telegraph</i>. Retrieved 2020, May 18.
 
 <h5>3. Home workouts are surging amidst the coronavirus pandemic</h5>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/p1ecM3uHDpA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/p1ecM3uHDpA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 Source: <a href="https://www.youtube.com/embed/p1ecM3uHDpA" target="_blank">Home workouts are surging amidst the coronavirus pandemic.</a> (2020, April 2). <i>CNN Business</i>. Retrieved 2020, April 22. 
 
 <h5>4. How the fitness industry is staying strong amidst COVID-19</h5>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/BlHjAO1er9k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/BlHjAO1er9k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 Source: <a href="https://www.youtube.com/embed/BlHjAO1er9k" target="_blank">How the fitness industry is staying strong amidst COVID-19.</a> (2020, April 17). <i>Vulcan Post</i>. Retrieved 2020, April 23.
 
 
@@ -78,8 +79,8 @@ Stay well to stay strong. (2020). <i>HealthHub</i>. Retrieved 2020, April 22.
 <h5>5. <a href="https://ais.gov.au/health-wellbeing/covid-19" target="_blank">COVID-19 and sporting activity</a></h5>
 COVID-19 and sporting activity. (2020, April 13). <i>Australian Sports Commission</i>. Retrieved 2020, April 22 .
 
-<h5>6. <a href="https://www.aspenprojectplay.org/coronavirus-and-youth-sports" target="_blank">Cononavirus & youth sports</a></h5>
-Cononavirus & youth sports. (2020). <i>The Aspen Institute</i>. Retrieved 2020, April 23.
+<h5>6. <a href="https://www.aspenprojectplay.org/coronavirus-and-youth-sports" target="_blank">Cononavirus &amp; youth sports</a></h5>
+Cononavirus &amp; youth sports. (2020). <i>The Aspen Institute</i>. Retrieved 2020, April 23.
 
 
 
@@ -105,27 +106,17 @@ Hall, S. (2020, April 9). This is how COVID-19 is affecting the world of sports.
 
 
 <h4>Chinese, Malay and Tamil resources</h4>
-<h5>1. <a href="http://sports.xinhuanet.com/c/2020-03/14/c_1125712158.htm" target="_blank">疫情之下，体育产业“线上”展现多样业态</a></h5>
-林德韧、马锴。（2020年3月14日）。疫情之下，体育产业“线上”展现多样业态。<i>新华网</i>。Retrieved 2020, April 30. 
-
-During the COVID-19 pandemic, there has been an increase in demand for online sports and fitness programmes and services as people are staying home. This presents new opportunities as business models change to meet this new demand.
-
-<h5>2. <a href="https://www.8world.com/lifestyle/life-tips/article/most-popular-workout-videos-youtube-1088921" target="_blank">在家防疫也要乖乖运动！YouTube 10大居家健身视频推荐</a></h5>
-吴淑慧。（2020年4月2日）。在家防疫也要乖乖运动！YouTube 10大居家健身视频推荐。<i>8 视界</i>。  Retrieved 2020, April 30. 
-
-This article lists and links to the 10 most popular YouTube videos suitable for exercising at home, according to a report by a British media.
-
-<h5>3. <a href="https://www.bharian.com.my/wanita/sihat/2020/03/667445/covid-19-aktiviti-senaman-dalam-rumah" target="_blank">Covid-19: Aktiviti senaman dalam rumah</a></h5>
+<h5>1. <a href="https://www.bharian.com.my/wanita/sihat/2020/03/667445/covid-19-aktiviti-senaman-dalam-rumah" target="_blank">Covid-19: Aktiviti senaman dalam rumah</a></h5>
 Covid-19: Aktiviti senaman dalam rumah. (2020, March 21). <i>Berita Harian Online</i>. Retrieved 2020, April 27. 
 
 This article highlights some simple exercises that can be done at home to improve blood circulation and flexibility.
 
-<h5>4. <a href="https://berita.mediacorp.sg/mobilem/singapura/covid-19-bmt-di-rumah-bantu-rekrut-asah-kemahiran-ketenteraan/4437612.html" target="_blank">Covid-19: BMT di rumah bantu rekrut asah kemahiran ketenteraan, tingkat kecergasan fizikal</a></h5>
+<h5>2. <a href="https://berita.mediacorp.sg/mobilem/singapura/covid-19-bmt-di-rumah-bantu-rekrut-asah-kemahiran-ketenteraan/4437612.html" target="_blank">Covid-19: BMT di rumah bantu rekrut asah kemahiran ketenteraan, tingkat kecergasan fizikal</a></h5>
 Covid-19: BMT di rumah bantu rekrut ash kemahiran ketenteraan, tingkat kecergasan fizikal. (2020, April 26). <i>Berita Mediacorp</i>. Retrieved 2020, April 27. 
 
 3,400 army recruits have had to adapt and continue to keep themselves fit as they continue to serve National Service from home. Several home-based learning systems were prepared for them to maintain their skills and fitness while at home.
 
-<h5>5. <a href="https://seithi.mediacorp.sg/mobilet/singapore/exercise-challenge/4424008.html" target="_blank">COVID-19: வீட்டில் வேலை செய்து கொண்டே எப்படி வீட்டிலிருந்தவாறே தொடர்ந்து உடற்பயிற்சி மேற்கொள்ளலாம் என்று பலர் கூறிய தகவல்களில் தொகுப்பு.</a></h5>
+<h5>3. <a href="https://seithi.mediacorp.sg/mobilet/singapore/exercise-challenge/4424008.html" target="_blank">COVID-19: வீட்டில் வேலை செய்து கொண்டே எப்படி வீட்டிலிருந்தவாறே தொடர்ந்து உடற்பயிற்சி மேற்கொள்ளலாம் என்று பலர் கூறிய தகவல்களில் தொகுப்பு.</a></h5>
 COVID-19: வீட்டில் வேலை செய்து கொண்டே உடற்பயிற்சி செய்ய விரும்பும் மக்கள். (30 April 2020). Retrieved 2020, April 30. 
 
 This is a sharing session by students and working adults on exercise routines to keep fit.
@@ -133,8 +124,8 @@ This is a sharing session by students and working adults on exercise routines to
 
 
 
-<p style="font-size:10pt;"><b>Disclaimer/ Rights statement</b><br/>
-The information in this resource guide is valid as at May 2020 and correct as far as we are able to ascertain from our sources. It is not intended to be an exhaustive or complete history on the subject. Please contact the Library for further reading materials on the topic.<br/>
-All Rights Reserved. National Library Board Singapore 2020.<br/></p>
+<p style="font-size:10pt;"><b>Disclaimer/ Rights statement</b><br>
+The information in this resource guide is valid as at May 2020 and correct as far as we are able to ascertain from our sources. It is not intended to be an exhaustive or complete history on the subject. Please contact the Library for further reading materials on the topic.<br>
+All Rights Reserved. National Library Board Singapore 2020.<br></p>
 ---
 #### **References**
