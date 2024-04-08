@@ -75,9 +75,9 @@ It would also be useful to record key information about your digital materials. 
 * Photo/video/audio/publication credit or rights (if any) (in YYYY);
 * Remarks/condition of items.
 
-[^1]: “Digital preservation at the Library of Congress,” Library of Congress, accessed 1 September 2021, 
-[^2]: “Personal digital archive toolbox,” National and State Libraries of Australia, last reviewed 1 December 2017, 
-[^3]: “Digital preservation handbook – Content specific preservation,” Digital Preservation Coalition, accessed 1 March 2021, 
+[^1]: “Digital preservation at the Library of Congress,” Library of Congress, accessed 1 September 2021, [https://www.loc.gov/preservation/digital/](https://www.loc.gov/preservation/digital)
+[^2]: “Personal digital archive toolkit,” National and State Libraries Australia, last reviewed 30 March 2023, [https://www.nsla.org.au/resources/personal-digital-archive-toolkit/](https://www.nsla.org.au/resources/personal-digital-archive-toolkit/)
+[^3]: “Digital preservation handbook – Content specific preservation,” Digital Preservation Coalition, accessed 1 March 2021, [https://www.dpconline.org/docman/digital-preservation-handbook2/1551-dp-handbook-content-specific-preservation](https://www.dpconline.org/docman/digital-preservation-handbook2/1551-dp-handbook-content-specific-preservation)
 
 
 
@@ -91,14 +91,10 @@ You should keep such storage media in an environment with constant temperature a
 
 You can also print copies of important pictures or documents so that they are still available in an alternative format.[^6]
 
-[^4]: “Personal digital archive toolkit,” National and State Libraries of Australia, last reviewed 1 December 2017, 
-[^5]: InterPARES Project. “Preserver guidelines: Preserving digital records: Guidelines for organizations,” InterPARES Project, accessed 1 September 2021, 
-[^6]: “Personal digital archive toolkit,” National and State Libraries Australia, last reviewed 1 December 2017, 
+[^4]: “Personal digital archive toolkit,” National and State Libraries Australia, last reviewed 30 March 2023, [https://www.nsla.org.au/resources/personal-digital-archive-toolkit/](https://www.nsla.org.au/resources/personal-digital-archive-toolkit/)
 
-
-[^4]: “Personal digital archive toolkit,” National and State Libraries of Australia, last reviewed 1 December 2017, {:target="_blank"}
-[^5]: InterPARES Project. “Preserver guidelines: Preserving digital records: Guidelines for organizations,” InterPARES Project, accessed 1 September 2021, {:target="_blank"}
-[^6]: “Personal digital archive toolkit,” National and State Libraries Australia, last reviewed 30 March 2023, 
+[^5]: InterPARES Project. “Preserver guidelines: Preserving digital records: Guidelines for organizations,” InterPARES Project, accessed 1 September 2021, [http://www.interpares.org/public_documents/ip2(pub)preserver_guidelines_booklet.pdf](http://www.interpares.org/public_documents/ip2(pub)preserver_guidelines_booklet.pdf)
+[^6]: “Personal digital archive toolkit,” National and State Libraries Australia, last reviewed 30 March 2023, [https://www.nsla.org.au/resources/personal-digital-archive-toolkit/](https://www.nsla.org.au/resources/personal-digital-archive-toolkit/)
 
 
 #### 6. <u>Ensure sustainability</u>
@@ -113,7 +109,7 @@ Both hardware and software become obsolete over time. To avoid losing access to 
 
 To protect your treasure trove of valuable information from malware and virus threats, you are also encouraged to conduct regular scans and keep your anti-virus software up to date. 
 
-[^7]: “InterPARES 2 Porject – Creator guidelines,” InterPARES Project, last reviewed in 2007, 
+[^7]: “InterPARES 2 Porject – Creator guidelines,” InterPARES Project, last reviewed in 2007, [http://www.interpares.org/public_documents/ip2(pub)creator_guidelines_booklet.pdf](http://www.interpares.org/public_documents/ip2(pub)creator_guidelines_booklet.pdf)
 
 
 
@@ -156,5 +152,3 @@ For NLB digital preservation enquiries, please email [ref@nlb.gov.sg](mailto:ref
 #### 10. <u>Additional resources</u>
 
 Find additional resources like books, ebooks, websites and videos on caring for your digital collections [here](/guides/digital-preservation/main/resources){:target="_blank"}.
-
--
