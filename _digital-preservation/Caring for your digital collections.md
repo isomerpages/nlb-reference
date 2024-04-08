@@ -110,11 +110,11 @@ your collection:</p>
 Anniversary.” Then, you can also create sub-folders labelled with simple
 titles like “documents,” “videos” and “photos”.[^1]
 - Alternatively, you can create folders with items that are organised chronologically
-e.g. “April 2018” and “May 2018”.[^2]<p></p>
+e.g. “April 2018” and “May 2018”.[^2]
 - When labelling content, make the file name descriptive and include the
 date. Avoid spaces or special characters besides the underscore (_), as
-certain software may be unable to read files with such names.<p></p>
-- You can indicate file versions with suffixes like “v1,” “v2” and “vfinal”.[^3]<p></p>
+certain software may be unable to read files with such names.
+- You can indicate file versions with suffixes like “v1,” “v2” and “vfinal”.[^3]
 
 
 <p>It would also be useful to record key information about your digital materials.
