@@ -3,10 +3,8 @@ title: Cold War
 permalink: /guides/socscihum/history/cold-war/
 breadcrumb: Cold War
 collection_name: social-sciences-humanities-history
+variant: markdown
 ---
-
-
-
 ### <u>Guide Index</u>
 
 * [Introduction](#introduction)
@@ -56,7 +54,7 @@ The sources on this page provide references to the origins of and developments i
 The Berlin airlift, a joint operation between the Americans and British to fly food and supplies into Soviet-blockaded West Berlin, continues into its second year of operation, sustaining the lives of two million Berliners.
 
 
-* [Cold front war betwixt East & West](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19480517.2.34.2.aspx). (1948, May 17). The Singapore Free Press, p. 4. Retrieved from NewspaperSG.
+* [Cold front war betwixt East &amp; West](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19480517.2.34.2.aspx). (1948, May 17). The Singapore Free Press, p. 4. Retrieved from NewspaperSG.
 
 The Cold War between the United States and Soviet Union spills over to Latin America, with communist forces instigating revolutionary riots and acts of violence in Colombia. The Latin American front is seen as a Soviet push to extend its sphere of influence and gain control of strategic territory – there is a surge of communist movements in practically every Latin American country.
 
@@ -131,7 +129,7 @@ Call no.: R 973.924 TUD
 Relying on declassified materials from the American, Chinese, European and Soviet archives, Tudda reveals how the fostering of diplomatic ties between President Nixon and Chairman Mao Zedong helped in repairing Sino-US relations and turned the tide against the advancement of the Cold War.
 
 
-* Vowinckel, A., Payk, M. M. & Lindenberger, T. (Eds.). (2012). [Cold war cultures: Perspectives on Eastern and Western European societies](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14540509). New York: Berghahn Books. <br>
+* Vowinckel, A., Payk, M. M. &amp; Lindenberger, T. (Eds.). (2012). [Cold war cultures: Perspectives on Eastern and Western European societies](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14540509). New York: Berghahn Books. <br>
 Call no.: R 940.55 COL
 
 This book examines the impact of the Cold War on the military defense, culture, media, identity, social practices and consumer lifestyles of people living in Eastern and Western Europe.
@@ -151,7 +149,7 @@ This BBC website provides information on four aspects of the Cold War: the Korea
 This website provides a decade-by-decade overview of the Cold War from 1945, with links to a Cold War timeline, glossary and references for further reading.
 
 
-* Harry S. Truman Library and Museum. (2013, August 12). Online documents. Retrieved March 18, 2017, from Harry S. Truman Library and Museum website: [http://www.trumanlibrary.org/photos/av-photo.htm](http://www.trumanlibrary.org/photos/av-photo.htm)
+* Harry S. Truman Library and Museum. (2013, August 12). Online documents. Retrieved March 18, 2017, from Harry S. Truman Library and Museum website: [https://www.trumanlibrary.gov/library/online-collections](https://www.trumanlibrary.gov/library/online-collections)
 
 This is one of the thirteen Presidential Libraries administered by the US National Archives and Records Administration. It focuses on the Truman presidency, which spanned the early years of the Cold War and its origins, and contains information, primary documents and photographs of key events such as the Berlin Airlift, the Truman Doctrine, and the Marshall Plan.
 
