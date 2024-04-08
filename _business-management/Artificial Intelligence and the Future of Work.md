@@ -45,7 +45,8 @@ AI is used as a tool to complement the capabilities of a human worker. AI system
 
 1. Malone, Thomas, Daniela Rus, and Robert Laubacher. Artificial Intelligence and the Future of Work. MIT Work of the Future, December 17, 2020. [https://workofthefuture.mit.edu/document/2020-research-brief-malone-rus-laubacher-2/](https://workofthefuture.mit.edu/document/2020-research-brief-malone-rus-laubacher-2/)
 
-2. Miller, Steven Mark, and Tom Davenport. AI and the Future of Work: What We Know Today. Gradient (Research Collection School of Computing and Information Systems), December, 2021. [https://ink.library.smu.edu.sg/sis_research/6657/](https://ink.library.smu.edu.sg/sis\_research/6657)
+2. Miller, Steven Mark, and Tom Davenport. AI and the Future of Work: What We Know Today. Gradient (Research Collection School of Computing and Information Systems), December, 2021. [https://ink.library.smu.edu.sg/sis_research/6657/]
+(https://ink.library.smu.edu.sg/sis\_research/6657)
 
 3. Rao, Anand, Flavio Palaci, and Wilson Chow. This is What the World's CEOs Really Think of AI. World Economic Forum, June 25, 2019. [https://www.weforum.org/agenda/2019/06/ai-will-shape-our-future-how-do-we-ensure-it-is-used-responsibly](https://www.weforum.org/agenda/2019/06/ai-will-shape-our-future-how-do-we-ensure-it-is-used-responsibly)
 
