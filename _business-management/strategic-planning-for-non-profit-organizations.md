@@ -3,9 +3,9 @@ title: Strategic Planning for Non-Profit Organizations
 permalink: /guides/business/management/strategic-planning-for-non-profit-organizations/
 breadcrumb: Strategic Planning for Non-Profit Organizations
 collection_name: business-management
-published: true
+published: "true"
+variant: markdown
 ---
-
 ### <u>Guide Index</u>
 
 * [Introduction](#introduction)
@@ -32,22 +32,22 @@ This guide provides recommended resources on the topic of strategic planning for
 (listed in alphabetical order)
 
 
-* Allison, M. & Kaye, J. (2015). Strategic planning for nonprofit organisations: A practical guide for dynamic times (3rd ed). Hoboken, New Jersey: John Wiley & Sons. Available from eBrary books.
+* Allison, M. &amp; Kaye, J. (2015). Strategic planning for nonprofit organisations: A practical guide for dynamic times (3rd ed). Hoboken, New Jersey: John Wiley &amp; Sons. Available from eBrary books.
 
 The third edition of this book offers invaluable advice for nonprofit organisations on the setting of goals, acquiring, allocating and maximising limited resources. It includes real-life case studies featuring various scenarios of strategic planning and worksheets with step-by-step instructions for creating a strategic plan.
 
 
-* Auster, E. R. & Hillenbrand, L. (2016). Stragility: Excelling at strategic changes. Toronto: University of Toronto Press. Available from eBooks on Ebscohost.
+* Auster, E. R. &amp; Hillenbrand, L. (2016). Stragility: Excelling at strategic changes. Toronto: University of Toronto Press. Available from eBooks on Ebscohost.
 
 The key to thriving in an unpredictable and turbulent environment is to be agile, innovative and proactive in strategic planning. This can rally the organisation together and empower people to make bold changes in work plans, to set goals and track performances.
 
 
-* Johnston, R. E. & Bate, J. D. (2013). The power of strategy innovation: A new way of linking creativity and strategic planning to discover great business opportunities. New York: AMACOM Books. Available from NLB Overdrive.
+* Johnston, R. E. &amp; Bate, J. D. (2013). The power of strategy innovation: A new way of linking creativity and strategic planning to discover great business opportunities. New York: AMACOM Books. Available from NLB Overdrive.
 
 The authors provide a five-phase methodology for strategic innovation that marries creativity and out-of-the-box techniques with organisational goal setting and advancement. The pragmatic framework is customisable to organisations of varying sizes and operations.
 
 
-* McLaughlin, T. A. (2006). Nonprofit strategic positioning: Decide where to be, plan what to do. Hoboken, New Jersey: John Wiley & Sons. Available from NLB Overdrive.
+* McLaughlin, T. A. (2006). Nonprofit strategic positioning: Decide where to be, plan what to do. Hoboken, New Jersey: John Wiley &amp; Sons. Available from NLB Overdrive.
 
 Targeted at nonprofit executives, board members, directors, trustees and fundraising professionals, this book provides a structured actionable plan for strategic positioning which can be tailored for nonprofits of all sizes and from different sectors.
 
@@ -62,7 +62,7 @@ Using a five question approach, O’Dea presents insights to creating a practica
 With a rapidly changing and chaotic global business climate, this book eschews the traditional strategic planning formula and advocates incorporating four strategic shock absorbers in the planning process that will enable leaders to ride out unpredictable economic turmoil and triumph over adversity.
 
 
-* Wittmann, R. & Reuter, M. (2013). Strategic planning: How to deliver maximum value through effective business strategy. London: Kogan Page. Available from NLB Overdrive.
+* Wittmann, R. &amp; Reuter, M. (2013). Strategic planning: How to deliver maximum value through effective business strategy. London: Kogan Page. Available from NLB Overdrive.
 
 This book is a useful guide on crafting and implementing successful strategies to boost company revenues and staff performance. It also covers risk management, values based management, value chain and competitive advantage and leadership skills.
 
@@ -94,21 +94,21 @@ Call no.: RBUS 658 JAG
 Jäger presents a strategic decision-making framework aimed at helping nonprofits and social businesses to rationalise their social purposes with the need to optimise economic viability. Four key areas in organisational management are addressed in this book: resources, impact, leadership and motivation.
 
 
-* Light, M. (2010). [Results now for nonprofits: Purpose, strategy, operations, and governance](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13735167). Hoboken, New Jersey: John Wiley & Sons.
+* Light, M. (2010). [Results now for nonprofits: Purpose, strategy, operations, and governance](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13735167). Hoboken, New Jersey: John Wiley &amp; Sons.
 
 Call no.: RBUS 658.4012 LIG
 
 Light proposes a practical and comprehensive high performance strategy plan integrating the principles of management, governance and cohesion that can help nonprofits realise their mission while staying true to their organisational values. The book also focuses on accountability for measuring progress and monitoring performance to ensure that milestone successes are achievable.
 
 
-* Raymond, S. U. (2013). [Recession, recovery, and renewal: Long-term nonprofit strategies for rapid economic change](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200129524). Hoboken, New Jersey: John Wiley & Sons.
+* Raymond, S. U. (2013). [Recession, recovery, and renewal: Long-term nonprofit strategies for rapid economic change](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200129524). Hoboken, New Jersey: John Wiley &amp; Sons.
 
 Call no.: RBUS 658.4012 RAY
 
 Raymond offers a survival guide that equips nonprofits in tweaking their management, leadership and governance strategies during economic uncertainties. The book also guides nonprofits on restructuring their business models to anticipate change and renewal.
 
 
-* Sheehan, R. M. (2010). [Mission impact: Breakthrough strategies for nonprofits](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13368763). Hoboken, New Jersey: John Wiley & Sons.
+* Sheehan, R. M. (2010). [Mission impact: Breakthrough strategies for nonprofits](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13368763). Hoboken, New Jersey: John Wiley &amp; Sons.
 
 Call no.: RBUS 658.048 SHE
 
@@ -133,14 +133,9 @@ This website provides a quick overview on strategic planning for nonprofits with
 
 
 * NYC Service. (2016, April). NYC Good governance blueprint: Best practices, resources, and tools for nonprofit executive directors and board members. Retrieved May 3, 2017, from NYC Nonprofits website:
-[http://www1.nyc.gov/assets/nonprofits/downloads/pdf/nyc_good_governance_blueprint.pdf](http://www1.nyc.gov/assets/nonprofits/downloads/pdf/nyc_good_governance_blueprint.pdf)
+[https://df2000001ms2meag.my.salesforce.com/sfc/p/#f2000001MS2m/a/3Z000001E1eE/AsT0V3t_0JtFTd8zTAoHBzdHX_rJcO.RgEPwJ4ZuqpQ](https://df2000001ms2meag.my.salesforce.com/sfc/p/#f2000001MS2m/a/3Z000001E1eE/AsT0V3t_0JtFTd8zTAoHBzdHX_rJcO.RgEPwJ4ZuqpQ)
 
 Section II of the report focuses on “Strategic planning and management” (pp. 11-25) and details the board’s role in strategic planning as well as the core elements of the planning process and covers performance management, results tracking and management of the organisation life cycle. Also included is a strategic plan jumpstart checklist and an internal assessment guide.
-
-
-* Stern, G. J. (2013). Shaping the future: The board member’s role in nonprofit strategic planning. Retrieved May 3, 2017, from First Nonprofit Foundation website: [http://www.firstnonprofit.org/wp-content/uploads/2014/04/Shaping_the_Future.pdf](http://www.firstnonprofit.org/wp-content/uploads/2014/04/Shaping_the_Future.pdf)
-
-This booklet highlights 10 key areas pertaining to the role of the board in nonprofit strategic planning, such as the need to clarify the specific roles and expectations of board members, being flexible to expect the unexpected and stepping up to accept the challenge of making difficult decisions.
 
 
 * The National Council for Voluntary Organisations (NCVO). Strategy case studies. (2017, April 7). Retrieved May 4, 2017, from NCVO Knowhow Nonprofit website: [https://knowhownonprofit.org/organisation/strategy/strategy-case-studies](https://knowhownonprofit.org/organisation/strategy/strategy-case-studies)
