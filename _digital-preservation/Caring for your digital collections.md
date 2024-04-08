@@ -105,25 +105,18 @@ has the highest quality.</p>
 find a photo from a certain occasion. Organising your digital content goes
 a long way for effective preservation. Below are some useful tips for organising
 your collection:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Create a main folder for each collection, e.g. “My 16th Birthday” or “Wedding
+
+- Create a main folder for each collection, e.g. “My 16th Birthday” or “Wedding
 Anniversary.” Then, you can also create sub-folders labelled with simple
-titles like “documents,” “videos” and “photos”.[^1]</p>
-</li>
-<li>
-<p>Alternatively, you can create folders with items that are organised chronologically
-e.g. “April 2018” and “May 2018”.[^2]</p>
-</li>
-<li>
-<p>When labelling content, make the file name descriptive and include the
+titles like “documents,” “videos” and “photos”.[^1]
+- Alternatively, you can create folders with items that are organised chronologically
+e.g. “April 2018” and “May 2018”.[^2]<p></p>
+- When labelling content, make the file name descriptive and include the
 date. Avoid spaces or special characters besides the underscore (_), as
-certain software may be unable to read files with such names.</p>
-</li>
-<li>
-<p>You can indicate file versions with suffixes like “v1,” “v2” and “vfinal”.[^3]</p>
-</li>
-</ul>
+certain software may be unable to read files with such names.<p></p>
+- You can indicate file versions with suffixes like “v1,” “v2” and “vfinal”.[^3]<p></p>
+
+
 <p>It would also be useful to record key information about your digital materials.
 The following are details you can consider recording:</p>
 <ul data-tight="true" class="tight">
@@ -164,12 +157,16 @@ The following are details you can consider recording:</p>
 <p>Remarks/condition of items.</p>
 </li>
 </ul>
-<p>[^1]: “Digital preservation at the Library of Congress,” Library of Congress,
-accessed 1 September 2021, {:target="_blank"} [^2]: “Personal digital archive
+[^1]: “Digital preservation at the Library of Congress,” Library of Congress,
+accessed 1 September 2021, {:target="_blank"}
+
+[^2]: “Personal digital archive
 toolbox,” National and State Libraries of Australia, last reviewed 1 December
-2017, {:target="_blank"} [^3]: “Digital preservation handbook – Content
+2017, {:target="_blank"}
+
+[^3]: “Digital preservation handbook – Content
 specific preservation,” Digital Preservation Coalition, accessed 1 March
-2021, {:target="_blank"}</p>
+2021, {:target="_blank"}
 <h4>5. <u>Create backups and/or transfer to new storage media</u></h4>
 <p>You may only have one document that holds the initial sketches to your
 final artwork, or your journal notes for your published book. To ensure
