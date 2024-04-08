@@ -2,6 +2,7 @@
 title: Community Spirit
 permalink: /guides/socscihum/humanities/community-spirit/
 description: ""
+variant: markdown
 ---
 This resource guide was created as part of a learning package on A New Normal. For other related resource guides, please head to this directory of [Learning Packages](/guides/learning-packages-directory).
 
@@ -53,52 +54,52 @@ Zhuo, T. (2020, April 19). Coronavirus: Community groups launch site to help low
 <h5>6. <a href="https://www.forbes.com/sites/christinero/2020/04/04/how-to-help-not-harm-while-volunteering-during-the-covid-19-pandemic/#6771459f2080" target="_blank">How to help, not harm, while volunteering during the COVID-19 pandemic</a></h5>
 Ro, C. (2020, April 4). How to help, not harm, while volunteering during the COVID-19 pandemic. <i>Forbes</i>. Retrieved 2020, May 5.
 
-<h5>7. <a href="https://volunteeringqld.org.au/docs/UNV_2018_State_of_the_Worlds_Vol_Report.pdf" target="_blank">The threat that binds: volunteerism and community resilience</a></h5>
-The threat that binds: volunteerism and community resilience. (2018). <i>United Nations Volunteers</i>. Retrieved 2020, May 5.
+<h5>7. <a href="https://www.unv.org/sites/default/files/UNV_SWVR_2018_English_WEB.pdf" target="_blank">The threat that binds: volunteerism and community resilience</a></h5>
+The threat that binds: volunteerism and community resilience. (2018). <i>United Nations Volunteers</i>. Retrieved 2024, April 6.
 
 <h5>8. <a href="https://css.ethz.ch/content/dam/ethz/special-interest/gess/cis/center-for-securities-studies/pdfs/RR-Report-Volunteers-In-Disaster-Management.pdf" target="_blank">Volunteerism in disaster management: opportunities, challenges and instruments for improvement</a></h5>
-Roth, F., & Prior, T. (2019). Volunteerism in disaster management: opportunities, challenges and instruments for improvement. <i>Center for Security Studies</i>. Retrieved 2020, May 5.
+Roth, F., &amp; Prior, T. (2019). Volunteerism in disaster management: opportunities, challenges and instruments for improvement. <i>Center for Security Studies</i>. Retrieved 2020, May 5.
 
 
 
 <h4>Ebooks</h4>
 <h5>1. Doing Good Better: How Effective Altruism Can Help You Make a Difference</h5>
-MacAskill, W. (2015). <i>Doing good better: How effective altruism can help you make a difference</i>. Penguin Publishing Group. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br/> 
+MacAskill, W. (2015). <i>Doing good better: How effective altruism can help you make a difference</i>. Penguin Publishing Group. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br> 
 <a href="https://nlb.overdrive.com/media/F67C0618-AE4E-4367-BC0D-E1ED25DA83DC" target="_blank"><img src="/images/socsci-hum/NN8-doing-good-better.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
 
 <h5>2. Be the change</h5>
-Nunn, M. (2012). <i>Be the change</i>. Atlanta, Georgia: Hundreds of Heads Books. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br/> 
+Nunn, M. (2012). <i>Be the change</i>. Atlanta, Georgia: Hundreds of Heads Books. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br> 
 <a href="https://nlb.overdrive.com/media/57AF82F2-5AFE-49F2-9E36-BFE1897C9331" target="_blank"><img src="/images/socsci-hum/NN8-be-the-change.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
 
 <h5>3. Giving: How each of us can change the world</h5>
-Clinton, B. (2007). <i>Giving: How each of us can change the world<i>. New York: Knopf Doubleday Publishing Group. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br/> 
+Clinton, B. (2007). <i>Giving: How each of us can change the world<i>. New York: Knopf Doubleday Publishing Group. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br> 
 <a href="https://nlb.overdrive.com/media/BAE1E4EE-2CE4-499D-A5A0-642A30A46491" target="_blank"><img src="/images/socsci-hum/NN8-giving.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
 
-<h5>4. Volunteering & giving back: 101 inspiring stories of purpose & passion</h5>
-Newmark, A. (2015). <i>Volunteering & Giving back: 101 inspiring stories of purpose & passion</i>. New York: Chicken Soup for the Soul. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br/> 
+<h5>4. Volunteering &amp; giving back: 101 inspiring stories of purpose &amp; passion</h5>
+Newmark, A. (2015). <i>Volunteering &amp; Giving back: 101 inspiring stories of purpose &amp; passion</i>. New York: Chicken Soup for the Soul. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br> 
 <a href="https://nlb.overdrive.com/media/8957E861-E8EB-4E8C-9177-C2C56AC849A1" target="_blank"><img src="/images/socsci-hum/NN8-volunteering.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
 
 <h5>5. A cup of comfort for a better world</h5>
-Sell, C. (2010). <i>A cup of comfort for a better world</i>. New York: Adams Media. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br/> 
+Sell, C. (2010). <i>A cup of comfort for a better world</i>. New York: Adams Media. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br> 
 <a href="https://nlb.overdrive.com/media/38320932-3B19-43DC-9EFE-AE7BFA52FCAE" target="_blank"><img src="/images/socsci-hum/NN8-cup-of-comfort.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
 
 
 
 <h4>Videos and Podcasts</h4>
 <h5>1. COVID-19: Community groups in Singapore race to help foreign workers</h5>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/seYNmnnqUqE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/seYNmnnqUqE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 Source: <a href="https://www.youtube.com/embed/seYNmnnqUqE" target="_blank">COVID-19: Community groups in Singapore race to help foreign workers.</a> (2020, April 23). <i>CNA</i>. Retrieved 2020, May 5.
 
 <h5>2. COVID-19: Volunteers aim to sew 50,000 reusable masks during circuit breaker period</h5>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/OMpUqYX8H8Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/OMpUqYX8H8Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 Source: <a href="https://www.youtube.com/embed/OMpUqYX8H8Q" target="_blank">COVID-19: volunteers aim to sew 50,000 reusable masks during circuit breaker period.</a> (2020, April 8). <i>CNA</i>. Retrieved 2020, May 5.
 
 <h5>3. Acts of kindness spread as UK tackles COVID-19 pandemic</h5>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/8qNJyA--rvc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/8qNJyA--rvc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 Source: <a href="https://www.youtube.com/embed/8qNJyA--rvc" target="_blank">Acts of kindness spread as UK tackles COVID-19 pandemic.</a> (2020, April 6). <i>CNA</i>. Retrieved 2020, May 5.
 
 <h5>4. Coronavirus: How local communities support each other and keep the spirits up</h5>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/XjJ8xU3HkMo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/XjJ8xU3HkMo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 Source: <a href="https://www.youtube.com/embed/XjJ8xU3HkMo" target="_blank">Coronavirus: how local communities support each other and keep the spirits up.</a> (2020, March 17). <i>DW News</i>. Retrieved 2020, May 5.
 
 
@@ -107,10 +108,10 @@ If you are interested to read up further on volunteerism and the spirit of givin
 
 <h4>Journal articles</h4>
 <h5>1. <a href="https://www.sciencedirect.com/science/article/pii/S2212420915300388" target="_blank">A review of informal volunteerism in emergencies and disasters: definition, opportunities and challenges</a></h5>
-Whittaker, J., McLennan, B., & Handmer, J. (2015, September). A review of informal volunteerism in emergencies and disasters: definition, opportunities and challenges. <i>International Journal of Disaster Risk Reduction. 13</i>: 358–368. Retrieved 2020, May 5 . 
+Whittaker, J., McLennan, B., &amp; Handmer, J. (2015, September). A review of informal volunteerism in emergencies and disasters: definition, opportunities and challenges. <i>International Journal of Disaster Risk Reduction. 13</i>: 358–368. Retrieved 2020, May 5 . 
 
 <h5>2. <a href="http://eresources.nlb.gov.sg/main/browse/resource/1111/" target="_blank">Predictors of early community involvement: advancing the self and caring for others</a></h5>
-Lawford, H., L., & Ramey, H. L. (2017, March). Predictors of early community involvement: Advancing the self and caring for others. <i>American Journal of Community Psychology. 59</i>(1/2): 133–143. Retrieved 2020, May 5 from ProQuest Central database via NLB’s <a href="http://eresources.nlb.gov.sg/main/browse/resource/1111/" target="_blank">eResources website.</a> (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this article.)
+Lawford, H., L., &amp; Ramey, H. L. (2017, March). Predictors of early community involvement: Advancing the self and caring for others. <i>American Journal of Community Psychology. 59</i>(1/2): 133–143. Retrieved 2020, May 5 from ProQuest Central database via NLB’s <a href="http://eresources.nlb.gov.sg/main/browse/resource/1111/" target="_blank">eResources website.</a> (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this article.)
 
 <h5>3. <a href="http://eresources.nlb.gov.sg/main/browse/resource/1329/" target="_blank">Building community capacity and fostering disaster resilience</a></h5>
 Gil-Rivas, V. (2016, December). Building community capacity and fostering disaster resilience.<i> Journal of Clinical Psychology. 72</i>(12): 1318–1332. Retrieved 2020, May 5 from EBSCOhost Academic Search Complete database  via NLB’s <a href="http://eresources.nlb.gov.sg/main/browse/resource/1329/" target="_blank">eResources website.</a> (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this article.)
@@ -118,17 +119,17 @@ Gil-Rivas, V. (2016, December). Building community capacity and fostering disast
 
 
 <h4>Chinese, Malay and Tamil resources</h4>
-<h5>1. <a href="https://www.8world.com/news/singapore/article/sg-covid-19-1070441" target="_blank">淡马锡基金会向400多家关怀中心 派免洗洁手液</a></h5>
-淡马锡基金会向400多家关怀中心 派免洗洁手液。(2020年3月13日)。<i>8视界</i>。Retrieved 2020, May 4. 
+<h5>1. <a href="https://www.zaobao.com.sg/realtime/singapore/story20200317-1037893" target="_blank">淡马锡基金会免费派发手部消毒液给近150万户家庭</a></h5>
+淡马锡基金会免费派发手部消毒液给近150万户家庭。(2020年3月17日)。<i>联合早报 </i>。Retrieved 2024, April 6. 
 
-As part of Temasek Foundation’s wider efforts to help the community and vulnerable groups during COVID-19, hand sanitisers were distributed to about 400 nursing homes, hospices and senior care centres with the support of the Agency for Integrated Care.
+As part of Temasek Foundation’s wider efforts to help the community and vulnerable groups during COVID-19, hand sanitisers will be distributed to about 1.5 million households at community centres islandwide or selected Capitaland malls.
 
-<h5>2. <a href="https://www.8world.com/news/singapore/article/the-courage-fund-1085326" target="_blank">英勇基金至今筹得超过590万元</a></h5>
-英勇基金至今筹得超过590万元。(2020年3月29日)。<i>8视界</i>。Retrieved 2020, May 4. 
+<h5>2. <a href="https://www.zaobao.com.sg/realtime/singapore/story20200329-1041159" target="_blank">英勇基金开始接受申请</a></h5>
+英勇基金开始接受申请。(2020年3月29日)。<i>联合早报</i>。Retrieved 2024, April 6. 
 
-The Courage Fund has received more than $5.9 million in donations from the community. This will be used to support families of healthcare and front-line workers and patients of COVID-19.
+The Courage Fund, which has received more than $5.9 million in donations from the community, is now accepting applications. This will be used to support families of healthcare and front-line workers and patients of COVID-19.
 
-<h5>3. <a href="https://www.beritaharian.sg/setempat/sama-sama-singsing-lengan-jayakan-daya-usaha-sgunited-buka-puasa" target="_blank">Sama-sama singsing lengan jayakan daya usaha #SGUnited buka puasa.</a></h5>
+<h5>3. <a href="https://www.beritaharian.sg/setempat/semangat-ramadan-sama-sama-singsing-lengan-jayakan-daya-usaha-sgunited-buka-puasa" target="_blank">Sama-sama singsing lengan jayakan daya usaha #SGUnited buka puasa.</a></h5>
 Sama-sama singsing lengan jayakan daya usaha #SGUnited. buka puasa. (2020, May 3). <i>Berita Harian</i>. Retrieved on 2020, May 4. 
 
 A #SGUnited initiative to provide food for the breaking of fast for the needy and frontliners during Ramadan. This initiative – a collaboration between nine different organisations – aimed to collect SG$3 million to feed 600,000.
@@ -139,7 +140,7 @@ Masjid Assyakirin, Masjid Kassim buka pintu bagi gelandangan sepanjang ‘circui
 As part of the Safe, Sound Sleeping Places (S3Ps) initiative, two mosques opened up their premises to the homeless.
 
 <h5>5. கவிமாலையின் "வல்லமை தாராயோ" வில் இன்று “திருமதி கவிதா ஜவகர்” அவர்கள்</h5>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/3aim4nRetHQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/3aim4nRetHQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 Source: <a href="https://www.youtube.com/embed/3aim4nRetHQ" target="_blank">கவிமாலையின் "வல்லமை தாராயோ" வில் இன்று “திருமதி கவிதா ஜவகர்” அவர்கள்</a> (2020). <i>Kavimaalai</i>. Retrieved 2020, May 14.
 
 This is a series of talks organised by the literary association, Kavimaalai during the circuit breaker period. This segment features poet Kavitha Javahar who acknowledges the challenges faced with staying home for months but motivates viewers to stay resilient.
@@ -147,8 +148,8 @@ This is a series of talks organised by the literary association, Kavimaalai duri
 
 
 
-<p style="font-size:10pt;"><b>Disclaimer/ Rights statement</b><br/>
-The information in this resource guide is valid as at May 2020 and correct as far as we are able to ascertain from our sources. It is not intended to be an exhaustive or complete history on the subject. Please contact the Library for further reading materials on the topic.<br/>
-All Rights Reserved. National Library Board Singapore 2020.<br/></p>
+<p style="font-size:10pt;"><b>Disclaimer/ Rights statement</b><br>
+The information in this resource guide is valid as at May 2020 and correct as far as we are able to ascertain from our sources. It is not intended to be an exhaustive or complete history on the subject. Please contact the Library for further reading materials on the topic.<br>
+All Rights Reserved. National Library Board Singapore 2020.<br></p>
 ---
-#### **References**
+#### **References**</i></i>
