@@ -103,19 +103,16 @@ Resurrecting the killer. (2018, June 28). <i>Going Viral: The mother of all pand
 
 
 <h4>Websites</h4>
-<h5>1. <a href="https://archive.cdc.gov/www\_cdc\_gov/flu/pandemic-resources/1918-pandemic-h1n1.html" target="_blank">The deadliest flu: The complete story of the discovery and reconstruction of the 1918 pandemic virus</a></h5>
-Jordan, D., Tumpey, T. &amp; Jester, B. (2019, December 17). The deadliest flu: The complete story of the discovery and reconstruction of the 1918 pandemic virus. <i>Centers for Disease Control and Prevention</i>. Retrieved 2020, April 1.
-
-<h5>2. <a href="https://www.bbc.com/future/article/20181016-the-flu-that-transformed-the-20th-century" target="_blank">The flu that transformed the 20th century</a></h5>
+<h5>1. <a href="https://www.bbc.com/future/article/20181016-the-flu-that-transformed-the-20th-century" target="_blank">The flu that transformed the 20th century</a></h5>
 Spinney, L. (2018, October 18). The flu that transformed the 20th century. <i>BBC</i>. Retrieved 2020, April 1.
 
-<h5>3. <a href="https://ourworldindata.org/spanish-flu-largest-influenza-pandemic-in-history" target="_blank">The Spanish Flu (1918-20): The global impact of the largest influenza pandemic in history</a></h5>
+<h5>2. <a href="https://ourworldindata.org/spanish-flu-largest-influenza-pandemic-in-history" target="_blank">The Spanish Flu (1918-20): The global impact of the largest influenza pandemic in history</a></h5>
 SRoser, M. (2020, March 4). The Spanish Flu (1918-20): The global impact of the largest influenza pandemic in history. <i>Our World in Data</i>. Retrieved 2020, April 1.
 
-<h5>4. <a href="https://www.history.com/topics/world-war-i/1918-flu-pandemic" target="_blank">Spanish Flu</a></h5>
+<h5>3. <a href="https://www.history.com/topics/world-war-i/1918-flu-pandemic" target="_blank">Spanish Flu</a></h5>
 Spanish Flu. (2020, March 24). <i>History</i>. Retrieved 2020, April 1.
 
-<h5>5. <a href="https://idph.iowa.gov/Portals/1/userfiles/33/100 Years Infographic Original_final.pdf" target="_blank">The 1918 Flu 100 years later</a></h5>
+<h5>4. <a href="https://idph.iowa.gov/Portals/1/userfiles/33/100 Years Infographic Original_final.pdf" target="_blank">The 1918 Flu 100 years later</a></h5>
 The 1918 Flu 100 years later. (2018, April). <i>Iowa Department of Public Health</i>. Retrieved 2020, April 1.
 
 
