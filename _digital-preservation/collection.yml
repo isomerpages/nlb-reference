@@ -2,7 +2,7 @@ collections:
   digital-preservation:
     output: true
     order:
-      - caring-for-your-digital-collections.md
+      - Caring for your digital collections.md
       - resources.md
       - dear-future-2021.md
       - nlb-dpc-talks-2022.md
