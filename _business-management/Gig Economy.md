@@ -2,10 +2,8 @@
 title: Gig Economy
 permalink: /guides/business/management/gig-economy/
 description: Gig Economy
+variant: markdown
 ---
-
-
-
 # Gig Economy
 
 The gig economy is based on a flexible mode of working that may be temporary or freelance in nature. It often involves connecting with customers through an online platform.
@@ -30,7 +28,7 @@ In the modern digital world, it is increasingly common for people to work remote
 
 #### Benefits of the Gig Economy
 
-The gig economy can result in benefits for businesses, workers and consumers.  
+The gig economy can result in benefits for businesses, workers and consumers. &nbsp;
 
 **<u>For Businesses</u>**
 <br>
@@ -42,7 +40,7 @@ Gig workers are able to select freelance jobs that fit their interests, provide 
 
 **<u>For Consumers</u>**
 <br>
-As the gig economy employs large numbers of people as part-time, temporary or  independent workers, goods and services can be delivered more cheaply and with more efficiency. Consumers turn to the gig economy for convenience and better service as with the case of ride-hailing or food-delivery apps. Gig apps also help consumers avail a service that is in short supply or expensive, as for example, the role played by Airbnb in places where hotel rooms may be in short supply or offering temporary accommodations at lower prices.
+As the gig economy employs large numbers of people as part-time, temporary or&nbsp; independent workers, goods and services can be delivered more cheaply and with more efficiency. Consumers turn to the gig economy for convenience and better service as with the case of ride-hailing or food-delivery apps. Gig apps also help consumers avail a service that is in short supply or expensive, as for example, the role played by Airbnb in places where hotel rooms may be in short supply or offering temporary accommodations at lower prices.
 
 #### Downsides of the Gig Economy
 
@@ -74,49 +72,50 @@ Emma Charlton, “What is the Gig Economy and What's the Deal for Gig Workers?�
 <b><font style="color:#4372d6;">The State of Gig Work in 2021</font></b><br>
 According to a Pew Internet survey, among current or recent gig workers, more report that work is something they do on the side rather than as their primary means of earning a living. However, a smaller but, notable segment have incorporated gig jobs more fully into their work life – 31 percent of current or recent gig workers say this has been their main job over the past 12 months.
 
-Monica Anderson, Colleen McClain, Michelle Faverio & Risa Gelles-Watnick, “The State of Gig Work in 2021,” *Pew Research Center*, 8 December 2021. [https://www.pewresearch.org/internet/2021/12/08/the-state-of-gig-work-in-2021/](https://www.pewresearch.org/internet/2021/12/08/the-state-of-gig-work-in-2021/)
+Monica Anderson, Colleen McClain, Michelle Faverio &amp; Risa Gelles-Watnick, “The State of Gig Work in 2021,” *Pew Research Center*, 8 December 2021. [https://www.pewresearch.org/internet/2021/12/08/the-state-of-gig-work-in-2021/](https://www.pewresearch.org/internet/2021/12/08/the-state-of-gig-work-in-2021/)
 
 <b><font style="color:#4372d6;"> Making It Work: Understanding the Gig Economy’s Shortcomings and Opportunities </font></b><br>
 One of the main tensions in the gig economy is the issue of empowering and protecting workers while ensuring business growth and innovation. A number of regulatory responses have viewed this tension as a zero-sum game, resulting in mixed consequences for workers. Fresh solutions are called for to harness the developmental potential of digital labour platforms and to empower and protect workers.
 
-Peichin Tay & Oliver Large, “Making It Work: Understanding the Gig Economy’s Shortcomings and Opportunities,”*Tony Blair Institute for Global Change*, 12 April 2022. [https://institute.global/sites/default/files/articles/Making-It-Work-Understanding-the-Gig-Economy-s-Shortcomings-and-Opportunities.pdf](https://institute.global/sites/default/files/articles/Making-It-Work-Understanding-the-Gig-Economy-s-Shortcomings-and-Opportunities.pdf)
+Peichin Tay &amp; Oliver Large, “Making It Work: Understanding the Gig Economy’s Shortcomings and Opportunities,”*Tony Blair Institute for Global Change*, 12 April 2022. 
+[https://www.institute.global/insights/tech-and-digitalisation/making-it-work-understanding-gig-economys-shortcomings-and-opportunities](https://www.institute.global/insights/tech-and-digitalisation/making-it-work-understanding-gig-economys-shortcomings-and-opportunities)
 
 <b><font style="color:#4372d6;"> The Gig Economy: Current Issues, the Debate, and the New Avenues of Research </font></b><br>
 While research on gig economy proliferates, the distinction between “platform” and “gig” economy frequently remains blurred in the analysis. This paper elaborates on this issue, and suggests that the discussion on gig economy is largely dispersed and that a clearer research agenda is needed to streamline the discussion to improve its exploratory and explanatory potential.
 
-Radoslaw Malik, Anna Visviz & Malgorzata Skrzek-Lubasinska, “The Gig Economy: Current Issues, the Debate, and the New Avenues of Research,” *Sustainability*, 13, iss. 9 (April 2021). [https://www.mdpi.com/2071-1050/13/9/5023](https://www.mdpi.com/2071-1050/13/9/5023)
+Radoslaw Malik, Anna Visviz &amp; Malgorzata Skrzek-Lubasinska, “The Gig Economy: Current Issues, the Debate, and the New Avenues of Research,” *Sustainability*, 13, iss. 9 (April 2021). [https://www.mdpi.com/2071-1050/13/9/5023](https://www.mdpi.com/2071-1050/13/9/5023)
 
 <b><font style="color:#4372d6;"> From Crafting What You Do to Building Resilience for Career Commitment in the Gig Economy </font></b><br>
 This study investigates how individual and collaborative job crafting may help digital labourers to build resilience and career commitment in the gig economy. It was found that those who engaged in higher individual job crafting reported subsequently higher resilience at the outset. Moreover, high collaborative job crafting compensated for low individual crafting efforts in reaching higher resilience and subsequently higher career commitment in the gig economy.
 
-Sut I. Wong, Dominique Kost & Christian Fieseler, “From Crafting What You Do to Building Resilience for Career Commitment in the Gig Economy,” *Human Resource Management Journal*, 31 (February 2021). [https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1748-8583.12342](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1748-8583.12342)
+Sut I. Wong, Dominique Kost &amp; Christian Fieseler, “From Crafting What You Do to Building Resilience for Career Commitment in the Gig Economy,” *Human Resource Management Journal*, 31 (February 2021). [https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1748-8583.12342](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1748-8583.12342)
 
 <b><font style="color:#4372d6;"> Re-Thinking Gig Economy in Conventional Workforce Post-COVID-19: A Blended Approach for Upholding Fair Balance </font></b><br>
 This paper looks at how a blended workforce model might work in the post-COVID era, with a homogenous workforce becoming a heterogenous workforce of full-time employees working in tandem with gig talents connected via digital platforms. It proposes a framework that can play a crucial role in creating new job opportunities and boosting employee morale, while minimising costs and increasing productivity.
 
-Manjari Mahato, Nitish Kumar & Lalatendu Kesari Jena, “Re-Thinking Gig Economy in Conventional Workforce Post-COVID-19: A Blended Approach for Upholding Fair Balance,” *Journal of Work-Applied Management*, 13, iss. 2 (21 September 2021). [https://www.emerald.com/insight/content/doi/10.1108/JWAM-05-2021-0037/full/html](https://www.emerald.com/insight/content/doi/10.1108/JWAM-05-2021-0037/full/html)
+Manjari Mahato, Nitish Kumar &amp; Lalatendu Kesari Jena, “Re-Thinking Gig Economy in Conventional Workforce Post-COVID-19: A Blended Approach for Upholding Fair Balance,” *Journal of Work-Applied Management*, 13, iss. 2 (21 September 2021). [https://www.emerald.com/insight/content/doi/10.1108/JWAM-05-2021-0037/full/html](https://www.emerald.com/insight/content/doi/10.1108/JWAM-05-2021-0037/full/html)
 
 ### Journal Articles
 
 <b><font style="color:#4372d6;"> Sceptics or Supporters? Consumers' Views of Work in the Gig Economy </font></b><br>
 Drawing on Australian public opinion data, this study looks at consumers’ views of the gig economy and explores whether these will help or hinder pro-worker campaigns. While consumers are sympathetic to gig workers’ financial plight, they also see benefits in the work’s flexibility and opportunities for jobseekers.
 
-Joshua Healy, Andreas Pekarek & Ariadne, Vromen, “Sceptics or Supporters? Consumers' Views of Work in the Gig Economy,” *New Technology, Work & Employment*, 35, iss.1 (March 2020): 1-19. (From Ebscohost Business Source via NLB’s [e-Resources](http://eresources.nlb.gov.sg/) website)
+Joshua Healy, Andreas Pekarek &amp; Ariadne, Vromen, “Sceptics or Supporters? Consumers' Views of Work in the Gig Economy,” *New Technology, Work &amp; Employment*, 35, iss.1 (March 2020): 1-19. (From Ebscohost Business Source via NLB’s [e-Resources](http://eresources.nlb.gov.sg/) website)
 
 <b><font style="color:#4372d6;"> Uber Happy? Work and Well-Being in the 'Gig Economy’ </font></b><br>
 Using administrative data from Uber and a representative survey of London drivers, this paper explores their backgrounds, earnings and subjective wellbeing. While Uber drivers remain at the lower end of the London income distribution, they report higher levels of life satisfaction than other workers. The paper hypothesises that their higher life satisfaction reﬂects their preferences for ﬂexibility and the autonomy that the gig platform offers.
 
-Thor Berger, Carl Benedikt Frey, Guy Levin & Santosh Rao Danda, “Uber Happy? Work and Well-Being in the 'Gig Economy',” *Economic Policy*, 34, iss 99 (July 2019): 429-477. (From Ebscohost Business Source via NLB’s [e-Resources](http://eresources.nlb.gov.sg/) website)
+Thor Berger, Carl Benedikt Frey, Guy Levin &amp; Santosh Rao Danda, “Uber Happy? Work and Well-Being in the 'Gig Economy',” *Economic Policy*, 34, iss 99 (July 2019): 429-477. (From Ebscohost Business Source via NLB’s [e-Resources](http://eresources.nlb.gov.sg/) website)
 
 <b><font style="color:#4372d6;">The Future of Hospitality Jobs: The Rise of the Gig Worker </font></b><br>
 In the wake of the COVID-19 pandemic, many permanent hospitality jobs might be lost to gig workers. Governments and employers have to prepare and adapt to a future where the desire for flexibility is central. This article reviews the many advantages and disadvantages of the gig economy and offers an insight into the future of hospitality jobs.
 
-Georges El Hajal & Bill Rowson, “The Future of Hospitality Jobs: The Rise of the Gig Worker,” *Research in Hospitality Management*, 11, iss 3 (December 2021): 185-190. (From ProQuest Central via NLB’s [e-Resources](http://eresources.nlb.gov.sg/) website)
+Georges El Hajal &amp; Bill Rowson, “The Future of Hospitality Jobs: The Rise of the Gig Worker,” *Research in Hospitality Management*, 11, iss 3 (December 2021): 185-190. (From ProQuest Central via NLB’s [e-Resources](http://eresources.nlb.gov.sg/) website)
 
 <b><font style="color:#4372d6;"> Identity in the Gig Economy: Affect and Agency </font></b><br>
 This paper highlights the importance of individual work identity in the new world of gig work and proposes a theoretical model on worker agency and gig worker identity construction. It suggests that individual work identity perceptions can be generated by negotiated exchanges with organisations, groups and networks that may serve as organisational proxies.
 
-Joy H. Karriker, Nathan S. Hartman, Flavia Cavazotte & W. Lee Grubb, “Identity in the Gig Economy: Affect and Agency,” *Journal of Organizational Psychology*, 21 iss. 2 (2021): 146-159. (From ProQuest Central via NLB’s [e-Resources](http://eresources.nlb.gov.sg/) website)
+Joy H. Karriker, Nathan S. Hartman, Flavia Cavazotte &amp; W. Lee Grubb, “Identity in the Gig Economy: Affect and Agency,” *Journal of Organizational Psychology*, 21 iss. 2 (2021): 146-159. (From ProQuest Central via NLB’s [e-Resources](http://eresources.nlb.gov.sg/) website)
 
 <h3><font style="color:#4372d6;">E-Books</font></h3>
 
@@ -143,7 +142,7 @@ Gig economy jobs are becoming increasingly popular and essential as technology p
 
 N26, “What is the Gig economy?” *YouTube* video: 3:06, 9 July 2021. [https://www.youtube.com/watch?v=AXYlnyCUETU](https://www.youtube.com/watch?v=AXYlnyCUETU)
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AXYlnyCUETU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AXYlnyCUETU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 
 
