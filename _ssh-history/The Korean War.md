@@ -176,11 +176,6 @@ This government website contains a variety documents related to the Korean War, 
 Contains declassified scanned primary documents, photographs and links that chart the chronological timeline of the Korean war from 1945 – 1953.
 
 
-* Harry S. Truman Library and Museum (n.d.). Truman Library: Teacher Lessons: [Viewing lessons related to Korean War (13 lessons)]. Retrieved March 21, 2017, from Harry S. Truman Library and Museum website: [http://www.trumanlibrary.org/whistlestop/lessons/index.php?sid=169&amp;action=subjectview&amp;count=13](http://www.trumanlibrary.org/whistlestop/lessons/index.php?sid=169&amp;action=subjectview&amp;count=13)
-
-Presents 13 teacher lesson plans for different grade levels on various aspects of the Korean War, such as the US involvement in the war, Korean War propaganda, the dismissal of General MacArthur and the execution of the US Presidency powers during the war.
-
-
 * Hickey, M. (2011, March 21). The Korean War: An overview. Retrieved March 21, 2017, from BBC website: [http://www.bbc.co.uk/history/worldwars/coldwar/korea_hickey_01.shtml](http://www.bbc.co.uk/history/worldwars/coldwar/korea_hickey_01.shtml)
 
 The website offers a quick overview of how the Korean War started, China’s intervention in the war and the casualties sustained on both sides.
