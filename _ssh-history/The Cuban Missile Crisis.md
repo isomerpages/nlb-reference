@@ -109,7 +109,7 @@ The books below provide insights to understanding the events that led to the Cub
 
  
 
-* Rasenberger, J. (2011). [The brilliant disaster: JFK, Castro, and America’s doomed invasion of Cuba’s Bay of Pigs](https://web.archive.org/web/20191222195306/http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14296363). London: Robert Hall. <br>
+* Rasenberger, J. (2011). [The brilliant disaster: JFK, Castro, and America’s doomed invasion of Cuba’s Bay of Pigs](https://catalogue.nlb.gov.sg/search/card?recordId=14296363). London: Robert Hall. <br>
 Call no.: R 972.91064 RAS
 
 Rasenberger provides an in-depth account of the American-backed invasion of Cuba’s Bay of Pigs, which escalated tensions between the US and Cuba in the days leading up to the Cuban Missile Crisis. Using long-classified Central Intelligence Agency (CIA) documents, Rasenberger looks at the involvement of key parties in the operation, such as President Kennedy and top CIA officials.
