@@ -115,7 +115,7 @@ Call no.: R 972.91064 RAS
 Rasenberger provides an in-depth account of the American-backed invasion of Cuba’s Bay of Pigs, which escalated tensions between the US and Cuba in the days leading up to the Cuban Missile Crisis. Using long-classified Central Intelligence Agency (CIA) documents, Rasenberger looks at the involvement of key parties in the operation, such as President Kennedy and top CIA officials.
 
 
-* Scott, L. &amp; Hughes, R. G. (Eds.). (2015). [The Cuban missile crisis: A critical reappraisal](https://web.archive.org/web/20191222195306/http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202251577). Abingdon, Oxon: Routledge. <br>
+* Scott, L. &amp; Hughes, R. G. (Eds.). (2015). [The Cuban missile crisis: A critical reappraisal](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202251577). Abingdon, Oxon: Routledge. <br>
 Call no.: R 972.91064 CUB
 
 The collection of essays in this volume, contributed by leading experts, scholars and journalists, examines different facets of the Cuban Missile Crisis to provide varied perspectives and reinterpretations of the military operations and diplomatic maneuvers employed during this intense period.
