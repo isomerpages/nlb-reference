@@ -3,10 +3,8 @@ title: The Korean War
 permalink: /guides/socscihum/history/korean-war/
 breadcrumb: The Korean War
 collection_name: social-sciences-humanities-history
+variant: markdown
 ---
-
-
-
 ### <u>Guide Index</u>
 
 * [Introduction](#introduction)
@@ -137,13 +135,13 @@ Call no.: R 951.9042 HAS
 Compiled from interviews with Korean war veterans (Americans, Canadians, British, Koreans, Chinese) and archival research, Hastings focuses on the human and military aspects of the Korean War and documents also the experiences of the prisoners of war. Also included are photographs of battle scenes and key participants in the crisis.
 
 
-* Jager, S. M.  (2013). [Brothers at war: The unending conflict in Korea](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200140175). New York: W. W. Norton & Company. <br>
+* Jager, S. M.  (2013). [Brothers at war: The unending conflict in Korea](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200140175). New York: W. W. Norton &amp; Company. <br>
 Call no.: R 951.9042 JAG
 
 The author explores the origins, development and global implications of the Korean War. The book also examines the military, social, cultural, and political aspects of the war.
 
 
-* Shen, Z. & Li, D.  (2011). [After leaning to one side: China and its allies in the Cold War](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14259935). Washington, D.C.: Woodrow Wilson Center Press. <br>
+* Shen, Z. &amp; Li, D.  (2011). [After leaning to one side: China and its allies in the Cold War](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14259935). Washington, D.C.: Woodrow Wilson Center Press. <br>
 Call no.: R 327.5104709045 SHE
 
 The authors discuss the Sino-Soviet alliance between 1949 and 1973, that was impacted by the Korean War as well as by differing nationalist interests and communist leadership styles in China and the USSR.
@@ -173,12 +171,12 @@ This government website contains a variety documents related to the Korean War, 
 
 
 * Harry S. Truman Library and Museum (n.d.). The Korean War and its origins 1945-1953. Retrieved March 21, 2017, from Harry S. Truman Library and Museum website:
-[http://www.trumanlibrary.org/whistlestop/study_collections/koreanwar/index.php](http://www.trumanlibrary.org/whistlestop/study_collections/koreanwar/index.php)
+[https://www.trumanlibrary.gov/library/online-collections/korean-war-and-its-origins](https://www.trumanlibrary.gov/library/online-collections/korean-war-and-its-origins)
 
 Contains declassified scanned primary documents, photographs and links that chart the chronological timeline of the Korean war from 1945 – 1953.
 
 
-* Harry S. Truman Library and Museum (n.d.). Truman Library: Teacher Lessons: [Viewing lessons related to Korean War (13 lessons)]. Retrieved March 21, 2017, from Harry S. Truman Library and Museum website: [http://www.trumanlibrary.org/whistlestop/lessons/index.php?sid=169&action=subjectview&count=13](http://www.trumanlibrary.org/whistlestop/lessons/index.php?sid=169&action=subjectview&count=13)
+* Harry S. Truman Library and Museum (n.d.). Truman Library: Teacher Lessons: [Viewing lessons related to Korean War (13 lessons)]. Retrieved March 21, 2017, from Harry S. Truman Library and Museum website: [http://www.trumanlibrary.org/whistlestop/lessons/index.php?sid=169&amp;action=subjectview&amp;count=13](http://www.trumanlibrary.org/whistlestop/lessons/index.php?sid=169&amp;action=subjectview&amp;count=13)
 
 Presents 13 teacher lesson plans for different grade levels on various aspects of the Korean War, such as the US involvement in the war, Korean War propaganda, the dismissal of General MacArthur and the execution of the US Presidency powers during the war.
 
