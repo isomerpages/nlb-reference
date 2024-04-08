@@ -96,7 +96,7 @@ American intelligence counts upwards of 25 Soviet missiles in development and pr
 The Cuban Missile Crisis has revealed a great deal about global politics, such as the unfeasibility of relying on the balance of nuclear power to maintain peace, the dominance of the United States and Soviet Union on the global stage in times of crisis, and the small victories present in strategic retreats.
 
 
-* [The arsenal of death at America’s doorstep](https://web.archive.org/web/20191222195306/http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19621024.2.66.aspx). (1962, October 24). The Straits Times, p. 8. Retrieved from NewspaperSG.
+* [The arsenal of death at America’s doorstep](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19621024-1.2.66). (1962, October 24). The Straits Times, p. 8. Retrieved from NewspaperSG.
 
 President Kennedy addresses the American public on the Cuban missile crisis, highlighting the evidence of offensive weapons on Cuban soil, and the threat they pose with their proximity to American borders and the Soviet orchestration of the weapons transfer and assembly. Kennedy outlines the American response to the situation, declaring a quarrantine on shipments to Cuba, and announcing increased surveillance on Cuban military activity.
 
