@@ -3,10 +3,8 @@ title: The Cuban Missile Crisis
 permalink: /guides/socscihum/history/cuban-missile-crisis/
 breadcrumb: The Cuban Missile Crisis
 collection_name: social-sciences-humanities-history
+variant: markdown
 ---
-
-
-
 ### <u>Guide Index</u>
 
 * [Introduction](#introduction)
@@ -93,7 +91,7 @@ Continued Soviet activity at Cuba’s missile bases results in heightened tensio
 American intelligence counts upwards of 25 Soviet missiles in development and production, giving the Soviets the range to threaten attacks on most of Europe, and soon the Western hemisphere.
 
 
-* Stephens, R. (1962, November 8). [The chief lesson from the Cuban crisis](https://web.archive.org/web/20191222195306/http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19621108.2.56.aspx). The Straits Times, p. 8. Retrieved from NewspaperSG.
+* Stephens, R. (1962, November 8). [The chief lesson from the Cuban crisis](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19621108-1.2.56). The Straits Times, p. 8. Retrieved from NewspaperSG.
 
 The Cuban Missile Crisis has revealed a great deal about global politics, such as the unfeasibility of relying on the balance of nuclear power to maintain peace, the dominance of the United States and Soviet Union on the global stage in times of crisis, and the small victories present in strategic retreats.
 
@@ -117,7 +115,7 @@ Call no.: R 972.91064 RAS
 Rasenberger provides an in-depth account of the American-backed invasion of Cuba’s Bay of Pigs, which escalated tensions between the US and Cuba in the days leading up to the Cuban Missile Crisis. Using long-classified Central Intelligence Agency (CIA) documents, Rasenberger looks at the involvement of key parties in the operation, such as President Kennedy and top CIA officials.
 
 
-* Scott, L. & Hughes, R. G. (Eds.). (2015). [The Cuban missile crisis: A critical reappraisal](https://web.archive.org/web/20191222195306/http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202251577). Abingdon, Oxon: Routledge. <br>
+* Scott, L. &amp; Hughes, R. G. (Eds.). (2015). [The Cuban missile crisis: A critical reappraisal](https://web.archive.org/web/20191222195306/http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202251577). Abingdon, Oxon: Routledge. <br>
 Call no.: R 972.91064 CUB
 
 The collection of essays in this volume, contributed by leading experts, scholars and journalists, examines different facets of the Cuban Missile Crisis to provide varied perspectives and reinterpretations of the military operations and diplomatic maneuvers employed during this intense period.
