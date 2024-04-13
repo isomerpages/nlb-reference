@@ -132,50 +132,37 @@ a wide range of western and world music as well.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10040100" rel="noopener noreferrer nofollow" target="_blank">Baker’s Biographical Dictionary of Musicians</a>.
-(2001). New York: Schirmer Books</p>
+(2001). New York: Schirmer Books (Call Number: RART 780.922 BAK)
+<br><em>This six-volume work includes entries for musicians from all over the world, from classical to 20th century jazz and popular musicians.</em>
+</p>
 </li>
-</ul>
-<p>Call Number: RART 780.922 BAK</p>
-<p>Description : This six-volume work includes entries for musicians from
-all over the world, from classical to 20th century jazz and popular musicians.</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>Kennedy, M. &amp; Kennedy, J.B. (2007). <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13714410" rel="noopener noreferrer nofollow" target="_blank">The concise Oxford dictionary of music</a>.
-Oxford; New York: Oxford University Press</p>
+Oxford; New York: Oxford University Press (Call Number: 780.3 KEN -[ART])
+<br><em>This book covers musical instruments and their history and covers living composers and performers.</em>
+</p>
 </li>
-</ul>
-<p>Call Number: 780.3 KEN -[ART]</p>
-<p>Description: This book covers musical instruments and their history and
-covers living composers and performers.</p>
-<ul data-tight="true" class="tight">
 <li>
-<p>Larkin, C. (2007). <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12934498" rel="noopener noreferrer nofollow" target="_blank">The Encyclopedia of popular music</a>.
-London : Omnibus Press, in association with Muze</p>
+<p>Larkin, C. (2007). <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12934498" rel="noopener noreferrer nofollow" target="_blank">The encyclopedia of popular music</a>.
+London : Omnibus Press, in association with Muze (Call Number: RART 781.6403
+ENC)
+<br><em>This is an essential reference book for anyone who has a query about any aspect of 20th century popular music, including rock, dance, rap and R&amp;B, as well as blues, soul, country and folk.</em>
+</p>
 </li>
-</ul>
-<p>Call Number: RART 781.6403 ENC</p>
-<p>Description: This is an essential reference book for anyone who has a
-query about any aspect of 20th century popular music, including rock, dance,
-rap and R&amp;B, as well as blues, soul, country and folk.</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>Nettl, B., et al. (Eds.). (1998-2002). <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11552905" rel="noopener noreferrer nofollow" target="_blank">The Garland Encyclopedia of World Music</a>.
-New York; London:Routledge,</p>
+New York; London: Routledge. (Call Number: RART 780.9 GAR)
+<br><em>This 10-volume set covers musical traditions of all regions of the world. It also includes a volume on world music perspectives and reference tools.</em>
+</p>
 </li>
-</ul>
-<p>Call Number: RART 780.9 GAR</p>
-<p>Description: This 10-volume set covers musical traditions of all regions
-of the world. It also includes a volume on world music perspectives and
-reference tools.</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>Sadie, S. &amp; Tyrrell, J. (Eds). (2001). <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9924093" rel="noopener noreferrer nofollow" target="_blank">The New Grove Dictionary of Music and Musicians</a>.
-New York, London: Grove’s Dictionaries, Macmillan</p>
+New York, London: Grove’s Dictionaries, Macmillan (Call Number: RART 780.3
+NEW)
+<br><em>This 29-volume work provides an extensive and authoritative coverage of most types of music, from classical to popular and jazz.</em>
+</p>
 </li>
 </ul>
-<p>Call Number: RART 780.3 NEW</p>
-<p>Description: This 29-volume work provides an extensive and authoritative
-coverage of most types of music, from classical to popular and jazz.</p>
 <p><strong>Journals</strong>
 </p>
 <p>Journal articles provide more up-to-date information than books in most
@@ -185,49 +172,31 @@ related to music.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=915524" rel="noopener noreferrer nofollow" target="_blank">The Musical Times</a>.
-(1957-). London, England: The Musical Times Publications Ltd</p>
+(1957-). London, England: The Musical Times Publications Ltd (Call Number:
+RART 780.5 MT)
+<br><em>The world’s oldest, continuous quarterly-published classical music magazine, founded in 1844.</em>
+</p>
 </li>
-</ul>
-<p>Call Number: RART 780.5 MT</p>
-<p>Description: The world’s oldest, continuous quartely-published classical
-music magazine, founded in 1844.</p>
-<ul data-tight="true" class="tight">
 <li>
 <p><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=8110909" rel="noopener noreferrer nofollow" target="_blank">BBC music magazine</a> (1992-).
-London, England: BBC magazines</p>
+London, England: BBC magazines (Call Number: 780.5 BBCMM)
+<br><em>The world’s best selling classical music magazine.</em>
+</p>
 </li>
-</ul>
-<p>Call Number: 780.5 BBCMM</p>
-<p>Description: The world’s best selling classical music magazine.</p>
-<ul data-tight="true" class="tight">
 <li>
 <p><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11491819" rel="noopener noreferrer nofollow" target="_blank">Psychology of music</a>.
 (1973-). Manchester, England: Society for Research in Psychology of Music
-and Music Education</p>
+and Music Education (Call Number: RART 781.1105 PM)
+<br><em>Psychology of Music publishes peer reviewed papers directed at increasing the scientific understanding of any psychological aspect of music.</em>
+</p>
 </li>
-</ul>
-<p>Call Number: RART 781.1105 PM</p>
-<p>Description: Psychology of Music publishes peer reviewed papers directed
-at increasing the scientific understanding of any psychological aspect
-of music.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=1690084" rel="noopener noreferrer nofollow" target="_blank">Classical music</a>.
-(1979-). London, England: Rhinegold Pub.</p>
-</li>
-</ul>
-<p>Call Number: 781.68 CM</p>
-<p>Description: The UK’s only insightful and entertaining current affairs
-magazine for the classical music industry.</p>
-<ul data-tight="true" class="tight">
 <li>
 <p><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7403035" rel="noopener noreferrer nofollow" target="_blank">Leondardo music journal</a>.
-(1991-). Oxford ; New York : Pergamon Press</p>
+(1991-). Oxford ; New York : Pergamon Press (Call Number: 780.5 LMJ)
+<br><em>LMJ is devoted to aesthetic and technical issues in contemporary music and the sonic arts.</em>
+</p>
 </li>
 </ul>
-<p>Call Number: 780.5 LMJ</p>
-<p>Description: LMJ is devoted to aesthetic and technical issues in contemporary
-music and the sonic arts.</p>
 <p><strong>Audio Recordings</strong>
 </p>
 <ul data-tight="true" class="tight">
