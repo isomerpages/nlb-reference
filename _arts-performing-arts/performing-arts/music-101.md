@@ -225,7 +225,7 @@ our e-resources. Access our digital databases here: https://eresources.nlb.gov.s
 <ul data-tight="true" class="tight">
 <li>
 <p>JSTOR: the scholary journal archive
-<br><em>JSTOR provides online access to archived contents of important scholarly journals, mainly in the humanities and social sciences. Researchers are able to retrieve high-resolution, scanned images of back issues of journals and pages as they were originally printed. Existing titles are updated and new titles are added on an ongoing basis.</em>
+<br><em>JSTOR provides online access to archived contents of important scholarly journals, mainly in the humanities and social sciences. Researchers are able to retrieve high-resolution, scanned images of back issues of journals and pages as they were originally printed. Existing titles are updated and new titles are added on an ongoing basis.</em> 
 <br><em>Limited to 15 concurrent access from home. Available at all libraries and from home.</em>
 </p>
 </li>
@@ -236,12 +236,12 @@ our e-resources. Access our digital databases here: https://eresources.nlb.gov.s
 </li>
 <li>
 <p>NAXOS Music Library
-<br><em>Naxos Music Library is an online streaming music database offering music from over 770 labels, including well-known names like Decca, Deutsche Grammophon, Sony Classical, Warner Classics – Parlophone (former EMI Classics) and many more.</em>
+<br><em>Naxos Music Library is an online streaming music database offering music from over 770 labels, including well-known names like Decca, Deutsche Grammophon, Sony Classical, Warner Classics – Parlophone (former EMI Classics) and many more.</em> 
 <br><em>Available at all libraries and from home.</em>
 </p>
 </li>
 <li>
-<p><a href="https://www.nlb.gov.sg/main/nlonline" rel="noopener noreferrer nofollow" target="_blank">National Library Online</a>
+<p><a href="https://www.nlb.gov.sg/main/nlonline" rel="noopener noreferrer nofollow" target="_blank">National Library Online</a> 
 <br><em>National Library Singapore's database of digitised and born-digital heritage materials.</em>
 </p>
 </li>
@@ -256,12 +256,12 @@ our e-resources. Access our digital databases here: https://eresources.nlb.gov.s
 <ul data-tight="true" class="tight">
 <li>
 <p>Home. (2016). Retrieved October 28, 2016 from the Alternate Music Press
-website: <a href="http://alternatemusicpress.com/" rel="noopener noreferrer nofollow" target="_blank">http://alternatemusicpress.com/</a>
+website: <a href="http://alternatemusicpress.com/" rel="noopener noreferrer nofollow" target="_blank">http://alternatemusicpress.com/</a> 
 <br><em>The Multimedia Journal of New Music is an online archive for the print version of Alternate Music Press.</em>
 </p>
 </li>
 <li>
-<p>About. (n.d.). Retrieved October 28, 2016 from the ECHO website: <a href="http://www.echo.ucla.edu/about/" rel="noopener noreferrer nofollow" target="_blank">http://www.echo.ucla.edu/about/</a>
+<p>About. (n.d.). Retrieved October 28, 2016 from the ECHO website: <a href="http://www.echo.ucla.edu/about/" rel="noopener noreferrer nofollow" target="_blank">http://www.echo.ucla.edu/about/</a> 
 <br><em>ECHO : a Music-Centered Journal is an online journal created and edited by graduate students in the Department of Musicology at the University of California, Los Angeles.</em>
 </p>
 </li>
@@ -277,19 +277,19 @@ website: <a href="http://alternatemusicpress.com/" rel="noopener noreferrer nofo
 <ul data-tight="true" class="tight">
 <li>
 <p>Music History 102: a Guide to Western Composers and their music. (2012).
-Retrieved October 28, 2016 from the IPL website: <a href="http://www.ipl.org/div/mushist/" rel="noopener noreferrer nofollow" target="_blank">http://www.ipl.org/div/mushist/</a>
+Retrieved October 28, 2016 from the IPL website: <a href="http://www.ipl.org/div/mushist/" rel="noopener noreferrer nofollow" target="_blank">http://www.ipl.org/div/mushist/</a> 
 <br><em>A guide to Western composers and their music, from the Middle Ages to the present.</em>
 </p>
 </li>
 <li>
 <p>Home. (2012). Retrieved October 28, 2016 from the Society for Music Theory
-website: <a href="http://www.societymusictheory.org/" rel="noopener noreferrer nofollow" target="_blank">http://www.societymusictheory.org/</a>
+website: <a href="http://www.societymusictheory.org/" rel="noopener noreferrer nofollow" target="_blank">http://www.societymusictheory.org/</a> 
 <br><em>This is a society to promote music theory as both a scholarly and a pedagogical discipline.</em>
 </p>
 </li>
 <li>
 <p>International Association for the Study of Popular Music. (2023). Retrieved
-August 3, 2023: <a href="https://iaspm-us.wildapricot.org/" rel="noopener noreferrer nofollow" target="_blank">https://iaspm-us.wildapricot.org/</a>
+August 3, 2023: <a href="https://iaspm-us.wildapricot.org/" rel="noopener noreferrer nofollow" target="_blank">https://iaspm-us.wildapricot.org/</a> 
 <br><em>This is an international organisation established to promote inquiry, scholarship and analysis in the area of popular music.</em>
 </p>
 </li>
@@ -355,7 +355,7 @@ Singapore : SBC (Call Number: RSING 780.43 SSO)
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>About. (2008). Retrieved October 28, 2016 from the COMPASS website:
+<p>About Us. (2016). Retrieved April 13, 2024 from the COMPASS website:
 <a href="http://www.compass.org.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.compass.org.sg</a>
 </p>
 </li>
@@ -367,97 +367,54 @@ of composers, authors and publishers of musical works and their related
 lyrics.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Home. (2010). Retrieved October 28, 2016 from the Music Publishers (Singapore)
-website: <a href="http://www.mps.org.sg/" rel="noopener noreferrer nofollow" target="_blank">http://www.mps.org.sg/</a>
+<p>Home. (2018). Retrieved April 13, 2024 from the Music Rights (Singapore)
+website: <a href="https://www.mrss.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.mrss.com.sg/</a>
+<br><em>Music Rights (Singapore) Public Limited (MRSS) is the official administrator of copyright licences for all commercial uses of recorded music and music videos. Information on copyrights and the music publishing companies can be found on this website.</em>
 </p>
 </li>
-</ul>
-<p>Music Publishers (Singapore) Ltd (MPS) acts as a representative of 12
-music publishing companies in Singapore. Information on copyrights and
-the music publishing companies can be found on this website.</p>
-<ul data-tight="true" class="tight">
 <li>
-<p>About RIAS. (.n.d.) Retrieved October 28, 2016 from the Recording Industry
-Association (Singapore) website: <a href="http://www.rias.org.sg/" rel="noopener noreferrer nofollow" target="_blank">http://www.rias.org.sg/</a>
+<p>About RIAS. (2019). Retrieved April 13, 2024 from the Recording Industry
+Association (Singapore) website: <a href="http://www.rias.org.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.rias.org.sg/</a>
+<br><em>Provides information on copyright and piracy in order to support the recording industry in Singapore.</em>
 </p>
 </li>
 </ul>
-<p>Provides information on copyright and piracy in order to support the recording
-industry in Singapore.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Home. (2009). Retrieved October 28, 2016 from the Recording Industry Performance
-Singapore website: <a href="http://www.rips.com.sg/" rel="noopener noreferrer nofollow" target="_blank">http://www.rips.com.sg/</a>
-</p>
-</li>
-</ul>
-<p>Provides information on how to apply for reproduction rights for sound
-recordings, and apply for MP3/MP4 licenses and licenses for the public
-performance of karaoke and/or music videos.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Our News. (.n.d.) Retrieved October 28, 2016 from the Yong Siew Toh Conservatory
-of Music website: <a href="http://music.nus.edu.sg/05_news_media.html" rel="noopener noreferrer nofollow" target="_blank">http://music.nus.edu.sg/05_news_media.html</a>
-</p>
-</li>
-</ul>
-<p>This website of the National University of Singapore’s Yong Siew Toh Conservatory
-of Music provides information about the local arts community, with special
-reference to musical groups and activities.</p>
-<p>About MRSS: The people and the organisation. (2018) Retrieved October
-17, 2019 from the Music Rights (Singapore) Public Limited website: <a href="https://www.mrss.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.mrss.com.sg/</a>
-</p>
-<p>As a Collective Management Organisation (CMO), MRSS represents the majority
-of music producers in Singapore and collects music and music video copyrights
-on their behalf.</p>
 <h3><u>Accessing National Library Board Singapore Resources</u></h3>
 <p><strong><u>Accessing the Print Materials</u></strong>
 </p>
 <p>You can search the library catalogue (for physical materials) in the library
-and from home (http://catalogue.nlb.gov.sg). The easy search function allows
-you to search/browse by author, title, keyword, subject and ISBN/ISSN whereas
-the advanced search allows you to narrow your searches to specific media
-types or language holdings. In both instances, you will also be able to
-limit your search to specific libraries by clicking on the “limit by branch”
-option.</p>
+and from home (<a href="https://catalogue.nlb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://catalogue.nlb.gov.sg</a>).</p>
 <p><strong>To search Lee Kong Chian Reference Library’s Holdings</strong>
 </p>
 <p>If you wish to search for only materials available in the Lee Kong Chian
-Reference Library, please always click on the “Limit by Branch” button
-at the bottom of the page, after you have keyed in your search term. This
-brings you to a new page whereby you will be able to select the library
-of your choice. Choose “Lee Kong Chian Reference Library” and select “yes”
-under the “Display only items available in the selected branch below” and
-then click on search.</p>
+Reference Library, please always filter by library on the left frame after
+you have keyed in your search term and click “Apply".</p>
 <p><strong>Things to note:</strong>
 </p>
 <p>Once you have identified the title that you need, please double-check
 the following information and write down the necessary info:</p>
-<p>i. The “Status” of the item: the item is <u>not available</u> in the library,
-if the status displayed is “in transit”, “in process” or “not ready for
-loan”.</p>
+<p>i. The “Status” of the item: the item is <u>available</u> in the library,
+if the status displayed is “on shelf”.</p>
 <p>ii. Double-check that the item is in Lee Kong Chian Reference Library
-under “Branch”.</p>
-<p>iii. Write down the <strong><u>Location Code</u></strong> and the <strong><u>Call Number</u></strong> of
-the item. This helps you to locate the item within Lee Kong Chian Reference
-Library. Please refer to the table below for more information (Note: Please
-feel free to approach the counter staff for help in locating the books.)</p>
-<p>All featured books and periodicals are located at the Lee Kong Chian Reference
-Library.</p>
+under “Library”.</p>
+<p>iii. Write down the <strong><u>Collection Code</u></strong> (e.g. Reference
+Singapore) and the <strong><u>Call Number</u></strong> of the item. This
+helps you to locate the item within Lee Kong Chian Reference Library. Please
+refer to the table below for more information (Note: Please feel free to
+approach the counter staff for help in locating the books.)</p>
+<p>Most of the featured books and periodicals are located at the Lee Kong
+Chian Reference Library.</p>
 <p><strong><u>Accessing the Databases</u></strong>
 </p>
 <p>The National Library Board (NLB)’s eResources are free for all NLB members.
-Click <a href="http://eresources.nlb.gov.sg/HowDoI.aspx" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+Click <a href="https://www.nlb.gov.sg/main/services/library-membership" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 find out how to register as a member.</p>
-<p>If you’re having problems registering or logging in, please <a href="http://www.nlb.gov.sg/ContactUs.aspx" rel="noopener noreferrer nofollow" target="_blank">contact us</a>.
+<p>If you’re having problems registering or logging in, please <a href="https://www.nlb.gov.sg/main/Contact-NLB" rel="noopener noreferrer nofollow" target="_blank">contact us</a>.
 If you wish to find information in the databases but am not sure where
-to begin, or need recommendations on which databases to use, please use
-the <a href="http://www.nlb.gov.sg/Research/AskUs.aspx" rel="noopener noreferrer nofollow" target="_blank">“Ask A Librarian”</a> function
-or send an email to <a href="mailto:ref@library.nlb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ref@nlb.gov.sg</a> for help. The librarian
-will get back to you within three working days.</p>
-<h3><u>Author</u></h3>
-<p>Joy Loh</p>
-<p>The information in this resource guide is valid as at March 2017 and correct
+to begin, or need recommendations on which databases to use, please send
+an email to <a href="mailto:ref@library.nlb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ref@nlb.gov.sg</a> for
+help. The librarian will get back to you within three working days.</p>
+<p>The information in this resource guide is valid as at April 2024 and correct
 as far as we are able to ascertain from our sources. It is not intended
 to be an exhaustive or complete history on the subject. Please contact
 the Library for further reading materials on the topic.</p>
