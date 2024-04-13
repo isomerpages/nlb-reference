@@ -25,10 +25,6 @@ variant: tiptap
 <p><a href="#accessing-national-library-board-singapore-resources" rel="noopener noreferrer nofollow" target="_blank">Accessing National Library Board Singapore Resources</a>
 </p>
 </li>
-<li>
-<p><a href="#author" rel="noopener noreferrer nofollow" target="_blank">Author</a>
-</p>
-</li>
 </ul>
 <h3><u>Introduction</u></h3>
 <p>Music is often defined as an art of sound or tones that express ideas
