@@ -368,13 +368,13 @@ lyrics.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Home. (2018). Retrieved April 13, 2024 from the Music Rights (Singapore)
-website: <a href="https://www.mrss.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.mrss.com.sg/</a>
+website: <a href="https://www.mrss.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.mrss.com.sg/</a> 
 <br><em>Music Rights (Singapore) Public Limited (MRSS) is the official administrator of copyright licences for all commercial uses of recorded music and music videos. Information on copyrights and the music publishing companies can be found on this website.</em>
 </p>
 </li>
 <li>
 <p>About RIAS. (2019). Retrieved April 13, 2024 from the Recording Industry
-Association (Singapore) website: <a href="http://www.rias.org.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.rias.org.sg/</a>
+Association (Singapore) website: <a href="http://www.rias.org.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.rias.org.sg/</a> 
 <br><em>Provides information on copyright and piracy in order to support the recording industry in Singapore.</em>
 </p>
 </li>
@@ -418,4 +418,4 @@ help. The librarian will get back to you within three working days.</p>
 as far as we are able to ascertain from our sources. It is not intended
 to be an exhaustive or complete history on the subject. Please contact
 the Library for further reading materials on the topic.</p>
-<p>All Rights Reserved. National Library Board 2017.</p>
+<p>All Rights Reserved. National Library Board 2024.</p>
