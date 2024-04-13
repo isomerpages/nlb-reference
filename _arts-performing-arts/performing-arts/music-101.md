@@ -202,156 +202,98 @@ and Music Education (Call Number: RART 781.1105 PM)
 <ul data-tight="true" class="tight">
 <li>
 <p>Guillaume Dufay. (2002). <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11709700" rel="noopener noreferrer nofollow" target="_blank">Sacred music from Bologna Q15</a>.
-[sound recording]. London, England : Signum</p>
+[sound recording]. London, England: Signum (Call Number: 782.3232 DUF -[ART])
+<br><em>Recorded Aug. 31-Sept. 2, 2000, St. Andrew’s Church, West Wratting. Sung in Latin.</em>
+</p>
 </li>
-</ul>
-<p>Call Number: 782.3232 DUF -[ART]</p>
-<p>Description: Recorded Aug. 31-Sept. 2, 2000, St. Andrew’s Church, West
-Wratting. Sung in Latin.</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>Pater Hubert Dopf S.J.(Director). (1984). <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5144966" rel="noopener noreferrer nofollow" target="_blank">Gregorian chant</a> [sound
-recording] Holland : Philips</p>
+recording] Holland: Philips (Call Number: 783.5 GRE)
+<br><em>Slow, measured and hypnotic, Gregorian Chant has enhanced the solemnity of liturgical worship for more than 1400 years, when services featured recitations from the scriptures, psalms sung by priests and responses from the assembled congregation. Its popularity has soared over the last 20 years as the atmosphere of calm stillness it evokes has proved to be the perfect antidote for many to the relentless stress and pressures of modern life.</em>
+</p>
 </li>
 </ul>
-<p>Call Number: 783.5 GRE</p>
-<p>Description: Slow, measured and hypnotic, Gregorian Chant has enhanced
-the solemnity of liturgical worship for more than 1400 years, when services
-featured recitations from the scriptures, psalms sung by priests and responses
-from the assembled congregation. Its popularity has soared over the last
-20 years as the atmosphere of calm stillness it evokes has proved to be
-the perfect antidote for many to the relentless stress and pressures of
-modern life.</p>
 <p><strong>Databases</strong>
 </p>
 <p>Should you prefer to read materials online, we also have several resources
 from the web. Please refer to the list of databases below pulled from our
 subscribed e-databases. They are all available at the National Library,
-Singapore. Just bring your laptop and get on our wireless network “NLBPublic”.
-You need a digital library account in order to use our e-resources. Registration
-is free. Access our digital databases here: http://eresources.nlb.gov.sg/</p>
+Singapore. They can be accessed via our multimedia stations or you can
+get on the wireless@SGx network within the library. Some of them are also
+accessible remotely. You will need a myLibrary account in order to use
+our e-resources. Access our digital databases here: https://eresources.nlb.gov.sg/</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Bloomsbury popular music</p>
+<p>JSTOR: the scholary journal archive
+<br><em>JSTOR provides online access to archived contents of important scholarly journals, mainly in the humanities and social sciences. Researchers are able to retrieve high-resolution, scanned images of back issues of journals and pages as they were originally printed. Existing titles are updated and new titles are added on an ongoing basis.</em>
+<br><em>Limited to 15 concurrent access from home. Available at all libraries and from home.</em>
+</p>
 </li>
-</ul>
-<p>This invaluable digital library for global popular music brings together
-leading scholarship and interactive tools to hit the right note for research
-and learning. It is an ideal resource for students, academics and the general
-public across disciplines including music, ethnomusicology, the performing
-arts, media and communication, cultural studies, anthropology and sociology.</p>
-<p>Available at all libraries and from home.</p>
-<ul data-tight="true" class="tight">
 <li>
-<p>EBSCOHost research databases</p>
+<p>medici.tv
+<br><em>The medici.tv platform is home to the world’s largest video-on-demand catalogue in the classical music industry with concerts, operas, ballets, documentaries, master classes and jazz programmes available to stream in high definition (HD). The video content available on this platform is rated PG13 and below.<br>Available at libraries and from home.</em>
+</p>
 </li>
-</ul>
-<p>EBSCOhost is the gateway to a number of different EBSCO databases covering
-various topics. It offers customizable basic and advanced searching supported
-by Boolean logic, natural language, enhanced subject indexing and journal
-searching. With links from the full record display to related articles
-by subject, magazine issue or author, users can further explore their topic.</p>
-<p>Available at all libraries and from home.</p>
-<ul data-tight="true" class="tight">
 <li>
-<p>JSTOR: the scholary journal archive</p>
+<p>NAXOS Music Library
+<br><em>Naxos Music Library is an online streaming music database offering music from over 770 labels, including well-known names like Decca, Deutsche Grammophon, Sony Classical, Warner Classics – Parlophone (former EMI Classics) and many more.</em>
+<br><em>Available at all libraries and from home.</em>
+</p>
 </li>
-</ul>
-<p>JSTOR provides online access to archived contents of important scholarly
-journals, mainly in the humanities and social sciences. Researchers are
-able to retrieve high-resolution, scanned images of back issues of journals
-and pages as they were originally printed. Existing titles are updated
-and new titles are added on an ongoing basis.</p>
-<p>Limited to 15 concurrent access from home. Available at all libraries
-and from home.</p>
-<ul data-tight="true" class="tight">
 <li>
-<p>NAXOS Music Library</p>
+<p><a href="https://www.nlb.gov.sg/main/nlonline" rel="noopener noreferrer nofollow" target="_blank">National Library Online</a>
+<br><em>National Library Singapore's database of digitised and born-digital heritage materials.</em>
+</p>
 </li>
-</ul>
-<p>Naxos Music Library is an online streaming music database offering music
-from over 770 labels, including well-known names like Decca, Deutsche Grammophon,
-Sony Classical, Warner Classics – Parlophone (former EMI Classics) and
-many more.</p>
-<p>Available at all libraries and from home.</p>
-<ul data-tight="true" class="tight">
 <li>
-<p>Naxos Music Library Jazz</p>
+<p>Proquest arts &amp; humanities database
+<br><em>This interdisciplinary database provides full-text articles from scholarly peer-reviewed journals and selected trade and consumer publications in arts, humanities, cultural studies, philosophy, modern languages and literatures, religion, history, geography, music, theatre, film and more.<br>Available at all libraries and from home.</em>
+</p>
 </li>
 </ul>
-<p>Naxos Music Library Jazz is an online streaming jazz music database offering
-music from over 250 labels, including well-known names such as Blue Note
-Records, Warner Jazz, EMI, Fantasy and others.</p>
-<p>Available at all libraries and from home.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Proquest arts &amp; humanities database</p>
-</li>
-</ul>
-<p>This interdisciplinary database provides full-text articles from scholarly
-peer-reviewed journals and selected trade and consumer publications in
-arts, humanities, cultural studies, philosophy, modern languages and literatures,
-religion, history, geography, music, theatre, film and more.</p>
-<p>Available at all libraries and from home.</p>
 <p><strong>Electronic Journals/Website</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Home. (2016). Retrieved October 28, 2016 from the Alternate Music Press
 website: <a href="http://alternatemusicpress.com/" rel="noopener noreferrer nofollow" target="_blank">http://alternatemusicpress.com/</a>
+<br><em>The Multimedia Journal of New Music is an online archive for the print version of Alternate Music Press.</em>
 </p>
 </li>
-</ul>
-<p>The Multimedia Journal of New Music is an online archive for the print
-version of Alternate Music Press.</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>About. (n.d.). Retrieved October 28, 2016 from the ECHO website: <a href="http://www.echo.ucla.edu/about/" rel="noopener noreferrer nofollow" target="_blank">http://www.echo.ucla.edu/about/</a>
+<br><em>ECHO : a Music-Centered Journal is an online journal created and edited by graduate students in the Department of Musicology at the University of California, Los Angeles.</em>
 </p>
 </li>
-</ul>
-<p>ECHO: : a Music-Centered Journal is an online journal created and edited
-by graduate students in the Department of Musicology at the University
-of California, Los Angeles.</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>Home. (2016). Retrieved October 28, 2016 from the Gramophone website:
 <a href="http://www.gramophone.co.uk" rel="noopener noreferrer nofollow" target="_blank">http://www.gramophone.co.uk</a>
+<br><em>Gramophone Online is part of the print journal Gramophone magazine. Contents include daily international classical news and services, features on musicians, etc.</em>
 </p>
 </li>
 </ul>
-<p>Gramophone Online is part of the print journal Gramophone magazine. Contents
-include daily international classical news and services, features on musicians,
-etc.</p>
 <p><strong>Other Websites</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Music History 102: a Guide to Western Composers and their music. (2012).
 Retrieved October 28, 2016 from the IPL website: <a href="http://www.ipl.org/div/mushist/" rel="noopener noreferrer nofollow" target="_blank">http://www.ipl.org/div/mushist/</a>
+<br><em>A guide to Western composers and their music, from the Middle Ages to the present.</em>
 </p>
 </li>
-</ul>
-<p>A guide to Western composers and their music, from the Middle Ages to
-the present.</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>Home. (2012). Retrieved October 28, 2016 from the Society for Music Theory
 website: <a href="http://www.societymusictheory.org/" rel="noopener noreferrer nofollow" target="_blank">http://www.societymusictheory.org/</a>
+<br><em>This is a society to promote music theory as both a scholarly and a pedagogical discipline.</em>
 </p>
 </li>
-</ul>
-<p>This is a society to promote music theory as both a scholarly and a pedagogical
-discipline.</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>International Association for the Study of Popular Music. (2023). Retrieved
 August 3, 2023: <a href="https://iaspm-us.wildapricot.org/" rel="noopener noreferrer nofollow" target="_blank">https://iaspm-us.wildapricot.org/</a>
+<br><em>This is an international organisation established to promote inquiry, scholarship and analysis in the area of popular music.</em>
 </p>
 </li>
 </ul>
-<p>This is an international organization established to promote inquiry,
-scholarship and analysis in the area of popular music.</p>
 <h3><u>Singapore Music</u></h3>
 <p><strong>Video and sound recordings</strong>
 </p>
@@ -359,131 +301,62 @@ scholarship and analysis in the area of popular music.</p>
 <li>
 <p><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13202508" rel="noopener noreferrer nofollow" target="_blank">Alexander S Abisheganaden, Cultural Medallion Recipient 1988 Music</a>.
 (2007). [videorecording]. Singapore: Editude Pictures for National Library
-Board Singapore, in collaboration National Arts Council Singapore</p>
+Board Singapore, in collaboration National Arts Council Singapore (Call
+Number: RSING 780.92 ALE / <a href="https://www.nlb.gov.sg/main/music-article-detail?cmsuuid=812141f6-3990-4ae4-823a-c3d0e3bb5d84" rel="noopener noreferrer nofollow" target="_blank">NL Online</a>)
+<br><em>Video interview with Alexander S Abisheganaden, 1988 Cultural Medallion Recipient for Music. A veteran performer of both the guitar and double bass, Alexander Abisheganaden talks about his early beginnings into music, graduating from the Royal College of Music to setting up the Singapore Classical Guitar Society in 1967. A teacher and a musician, Alex arranged and wrote many pieces for the guitar, promoting music through the guitar and influencing generations of musicians, included are brief performances of Flamenco Rhapsody and “Huan Yin-Vanakam”.</em>
+</p>
 </li>
-</ul>
-<p>Call Number: RSING 780.92 ALE</p>
-<p>Description: Video recording of an interview with Alexander S Abisheganaden,
-1988 Cultural Medallion Recipient for Music. A veteran performer of both
-the guitar and double bass, Alexander Abisheganaden talks about his early
-beginnings into music, graduating from the Royal College of Music to setting
-up the Singapore Classical Guitar Society in 1967. A teacher and a musician,
-Alex arranged and wrote many pieces for the guitar, promoting music through
-the guitar and influencing generations of musicians, included are brief
-performances of Flamenco Rhapsody and “Huan Yin-Vanakam”.</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>Channel NewsAsia. (2006). <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12877604" rel="noopener noreferrer nofollow" target="_blank">Arts incorporated. Episode 3, Music industry</a> [videorecording].
-Singapore : MediaCorp News Pte Ltd.</p>
+Singapore : MediaCorp News Pte Ltd. (Call Number: RSING 338.477 ART)
+<br><em>Arts Incorporated reveals the secret behind a happy and successful marriage between art and commerce. In this episode we get a glimpse of how acute business acumen is a basic ingredient in the business of music and how the music business is run.</em>
+</p>
 </li>
-</ul>
-<p>Call Number: RSING 338.477 ART</p>
-<p>Description: Arts Incorporated reveals the secret behind a happy and successful
-marriage between art and commerce. In this episode we get a glimpse of
-how acute business acumen is a basic ingredient in the business of music
-and how the music business is run.</p>
-<ul data-tight="true" class="tight">
 <li>
 <p><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13236180" rel="noopener noreferrer nofollow" target="_blank">David Lim Kim San, Cultural Medallion Recipient, 1979 Music</a>.
 (2009). [videorecording]. Singapore: Editude Pictures for National Library
-Board Singapore, in collaboration National Arts Council Singapore</p>
+Board Singapore, in collaboration National Arts Council Singapore (Call
+Number: RSING 780.92 DAV / <a href="https://www.nlb.gov.sg/main/music-article-detail?cmsuuid=55a0d034-affb-4721-bfc5-e06dd8fb87b4" rel="noopener noreferrer nofollow" target="_blank">NL Online</a>)
+<br><em>Video interview with David Lim Kim San. In the video, Lim discusses his early childhood and Peranakan heritage; teaching career; leadership of the Singapore Youth Choir and hopes for its future; the SSO connection and how to cultivate an audience; as well as the future of music in Singapore. The video also includes an interview with Jennifer Tham, SYC’s conductor, on his contribution to music education.</em>
+</p>
 </li>
-</ul>
-<p>Call Number: RSING 780.92 DAV</p>
-<p>Description: Video recording of an interview with David Lim Kim San. In
-the video, Lim discusses his early childhood and Peranakan heritage; teaching
-career; leadership of the Singapore Youth Choir and hopes for its future;
-the SSO connection and how to cultivate an audience; as well as the future
-of music in Singapore. The video also includes an interview with Jennifer
-Tham, SYC’s conductor, on his contribution to music education.</p>
-<ul data-tight="true" class="tight">
 <li>
 <p><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13202659" rel="noopener noreferrer nofollow" target="_blank">Leong Yoon Pin, Cultural Medallion Recipient, 1982 Music</a>.
 (2007). [videorecording]. Singapore: Editude Pictures for National Library
-Board Singapore, in collaboration National Arts Council Singapore</p>
+Board Singapore, in collaboration National Arts Council Singapore (Call
+Number: RSING 780.92 LEO / <a href="https://www.nlb.gov.sg/main/music-article-detail?cmsuuid=4316d98a-eafa-4cd7-8e52-7c8042bcf6fd" rel="noopener noreferrer nofollow" target="_blank">NL Online</a>)
+<br><em>Video interview with Leong Yoon Pin (1982 cultural medallion recipient for music). Leong talks about the time he took up the study of music at the Teacher’s College and when he started working life as a primary school teacher thereafter. He shares on how he got interested in music and composing, his works, e.g. Dayong Sampan, as well as on wide-ranging topics such as conducting, and his involvement with the Singapore Symphony Orchestra.</em>
+</p>
 </li>
-</ul>
-<p>Call Number: RSING 780.92 LEO</p>
-<p>Description: Video recording of an interview with Leong Yoon Pin (1982
-cultural medallion recipient for music). Leong talks about the time he
-took up the study of music at the Teacher’s College and when he started
-working life as a primary school teacher thereafter. He shares on how he
-got interested in music and composing, his works, e.g. Dayong Sampan, as
-well as on wide-ranging topics such as conducting, and his involvement
-with the Singapore Symphony Orchestra.</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>Leong M. W. (2005). <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12692235" rel="noopener noreferrer nofollow" target="_blank">NUS music in the park : 21 August 2005</a> [videorecording].
 Singapore: Produced by Centre for Instructional Technology in collaboration
-with Development Office, National University of Singapore</p>
+with Development Office, National University of Singapore (Call Number:
+AV 784.2 NUS)
+<br><em>Concert staged at the Shaw Foundation Symphony Stage of the Botanic Gardens to celebrate the centenary of the National University of Singapore. The highlight of the concert was the first public performance of extracts from the ‘Centennial Symphony’, which was composed by Dr. Robert Casteels, Associate-in-Residence from the NUS Centre for the Arts.</em>
+</p>
 </li>
-</ul>
-<p>Call Number: AV 784.2 NUS</p>
-<p>Description: Concert staged at the Shaw Foundation Symphony Stage of the
-Botanic Gardens to celebrate the centenary of the National University of
-Singapore. The highlight of the concert was the first public performance
-of extracts from the ‘Centennial Symphony’, which was composed by Dr. Robert
-Casteels, Associate-in-Residence from the NUS Centre for the Arts.</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>National Library Board &amp; Ngee Ann Polytechnic. (2007). <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13186479" rel="noopener noreferrer nofollow" target="_blank">On the record : homegrown bands from then and now</a>.
-[sound recording]. Singapore : National Library Board</p>
+[sound recording]. Singapore : National Library Board (Call Number: RSING
+782.42164 ON)
+<br><em>Tells the story of Singapore’s English popular music scene through interviews with prominent local bands and musicians. Discover how Singapore’s English popular music scene has evolved from the 1960s to today and how Singaporean musicians such as Rita Chao and My Precious, have won fans here and abroad.</em>
+</p>
 </li>
-</ul>
-<p>Call Number: RSING 782.42164 ON</p>
-<p>Description: Tells the story of Singapore’s English popular music scene
-through interviews with prominent local bands and musicians. Discover how
-Singapore’s English popular music scene has evolved from the 1960s to today
-and how Singaporean musicians such as Rita Chao and My Precious, have won
-fans here and abroad.</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>Singapore Broadcasting Corporation. (1986). <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4985929" rel="noopener noreferrer nofollow" target="_blank">SSO concert and chorus</a> [videorecording].
-Singapore : SBC</p>
-</li>
-</ul>
-<p>Call Number: RSING 780.43 SSO</p>
-<p>Description: Organised by the Ministry of Community Development in conjunction
-with the Singapore Festival of Arts 1986, this is a recording of a performance
-by Singapore Symphony Orchestra and conducted by Choo Hoey. It was recorded
-at Victoria Concert Hall and originally broadcast on 11 August 1986.</p>
-<p><strong>Databases</strong>
+Singapore : SBC (Call Number: RSING 780.43 SSO)
+<br><em>Organised by the Ministry of Community Development in conjunction with the Singapore Festival of Arts 1986, this is a recording of a performance by Singapore Symphony Orchestra and conducted by Choo Hoey. It was recorded at Victoria Concert Hall and originally broadcast on 11 August 1986.</em>
 </p>
-<p>NLB Online Archives</p>
-<p>We also have several resources from the web. Please refer to the list
-of databases below pulled from our subscribed e-databases. They are all
-available at the National Library, Singapore. Just bring your laptop and
-get on our wireless network “NLBPublic”. You need a digital library account
-in order to use our e-resources. Registration is free. Access our digital
-databases here: http://eresources.nlb.gov.sg/</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>MusicSG
-<br>http://eresources.nlb.gov.sg/music</p>
+<p></p>
 </li>
 </ul>
-<p>MusicSG is a non-profit digital archive set up to digitise, archive and
-provide access to all forms of published Singapore musical works. It assembles
-a collection of music composed or published by Singaporeans, music produced
-or published in Singapore, and music related to Singapore. It is available
-from home as well as the libraries.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>National Online Repository of Arts (NORA)
-<br>http://eresources.nlb.gov.sg/arts</p>
-</li>
-</ul>
-<p>NORA is a database showcasing over 6,000 digitised works in the literary,
-performing and visual arts by prominent Singapore artists. As a source
-of reference for those interested in Singapore arts, NORA aims to digitally
-preserve Singapore’s arts heritage and create awareness about Singapore’s
-arts and culture. It is available from home as well as the libraries.</p>
 <p><strong>Websites</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>About. (2008). Retrieved October 28, 2016 from the COMPASS website:
-<a href="http://www.compass.org.sg" rel="noopener noreferrer nofollow" target="_blank">http://www.compass.org.sg</a>
+<a href="http://www.compass.org.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.compass.org.sg</a>
 </p>
 </li>
 </ul>
