@@ -51,7 +51,7 @@ This guide provides supplementary resource for those who are keen to find inform
 <br>Duration: 1hr 28min 29sec
 
 ### Websites
-* Chow, Y. P. (2017). ***Law Wai Lun: An exquisite journey***. Retrieved 2021, November 1 from National Arts Council website: [https://www.nac.gov.sg/singaporeartsscene/culturalMedallion/overview.html](https://www.nac.gov.sg/singaporeartsscene/culturalMedallion/overview.html)
+* Chow, Y. P. (2017). ***Law Wai Lun: An exquisite journey***. Retrieved 2021, November 1 from National Arts Council website: [https://www.nac.gov.sg/singapore-arts-scene/cultural-medallion-and-young-artist-award/cultural-medallion-page/about-the-cultural-medallion](https://www.nac.gov.sg/singapore-arts-scene/cultural-medallion-and-young-artist-award/cultural-medallion-page/about-the-cultural-medallion)
 * Legend Music Production. (2021). ***Law Wai Lun*** (Singapore). Retrieved 2021, November 1 from Legend Music website: [http://legend-me.com/law-wai-lun-singapore/](http://legend-me.com/law-wai-lun-singapore/)
 
 * * *
