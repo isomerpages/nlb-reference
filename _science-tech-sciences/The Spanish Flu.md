@@ -31,25 +31,25 @@ An unusual feature of the Spanish Flu was the high mortality in healthy adults. 
 To learn more about the Spanish Flu, check out the resources listed below.
 
 
-[^1]: Influenza pandemic. (n.d.). *University of Washington University Libraries.* Retrieved 2020, April 3 from 
+[^1]: Influenza pandemic. (n.d.). *University of Washington University Libraries.* Retrieved 2020, April 3 from [https://content.lib.washington.edu/exhibits/WWI/influenza.html](https://content.lib.washington.edu/exhibits/WWI/influenza.html)
 
-[^2]: Strochlic, N. and Champine, R. D. (2020, March 27). How some cities 'flattened the curve' during the 1918 flu pandemic. *National Geographic.* Retrieved 2020, April 3 from  ; Billings, M. (2005, February). The influenza pandemic of 1918. *Human Virology at Stanford University.* Retrieved 2020, April 3 from 
+[^2]: Strochlic, N. and Champine, R. D. (2020, March 27). How some cities 'flattened the curve' during the 1918 flu pandemic. *National Geographic.* Retrieved 2020, April 3 from [https://www.nationalgeographic.com/history/2020/03/how-cities-flattened-curve-1918-spanish-flu-pandemic-coronavirus/](https://www.nationalgeographic.com/history/2020/03/how-cities-flattened-curve-1918-spanish-flu-pandemic-coronavirus/) ; Billings, M. (2005, February). The influenza pandemic of 1918. *Human Virology at Stanford University.* Retrieved 2020, April 3 from [https://virus.stanford.edu/uda/](https://virus.stanford.edu/uda/)
 
-[^3]: Spanish Flu. (2020, March 27). *History.com.* Retrieved 2020, April 5 from 
+[^3]: Spanish Flu. (2020, March 27). *History.com.* Retrieved 2020, April 5 from [https://www.history.com/topics/world-war-i/1918-flu-pandemic](https://www.history.com/topics/world-war-i/1918-flu-pandemic)
 
-[^4]: Roos, D. (2020, March 30). Why the second wave of the 1918 Spanish Flu was so deadly. *History.* Retrieved 2020, April 3 from 
+[^4]: Roos, D. (2020, March 30). Why the second wave of the 1918 Spanish Flu was so deadly. *History.* Retrieved 2020, April 3 from [https://www.history.com/news/spanish-flu-second-wave-resurgence](https://www.history.com/news/spanish-flu-second-wave-resurgence)
 
-[^5]: Andrews, E. (2016, January 12). Why was it called the 'Spanish Flu'? *History.* Retrieved 2020, April 3 from 
+[^5]: Andrews, E. (2016, January 12). Why was it called the 'Spanish Flu'? *History.* Retrieved 2020, April 3 from [https://www.history.com/news/why-was-it-called-the-spanish-flu](https://www.history.com/news/why-was-it-called-the-spanish-flu)
 
-[^6]: 1918 Pandemic (H1N1 virus). (2019, March 20). *Centers for Disease Control and Prevention.* Retrieved 2020, April 3 from ; Devlin, H. (2020, March 3). Four lessons the Spanish Flu can teach us about coronavirus. *The Guardian.* Retrieved 2020, April 3 from ; Roser, M. (2020, March 4). The Spanish Flu (1918-20): The global impact of the largest influenza pandemic in history. *Our World in Data.* Retrieved 2020, April 3 from 
+[^6]: 1918 Pandemic (H1N1 virus). (2019, March 20). *Centers for Disease Control and Prevention.* Retrieved 2020, April 3 from [https://www.cdc.gov/flu/pandemic-resources/1918-pandemic-h1n1.htm](https://www.cdc.gov/flu/pandemic-resources/1918-pandemic-h1n1.htm); Devlin, H. (2020, March 3). Four lessons the Spanish Flu can teach us about coronavirus. *The Guardian.* Retrieved 2020, April 3 from [https://www.theguardian.com/world/2020/mar/03/four-lessons-the-spanish-flu-can-teach-us-about-coronavirus](https://www.theguardian.com/world/2020/mar/03/four-lessons-the-spanish-flu-can-teach-us-about-coronavirus); Roser, M. (2020, March 4). The Spanish Flu (1918-20): The global impact of the largest influenza pandemic in history. *Our World in Data.* Retrieved 2020, April 3 from [https://ourworldindata.org/spanish-flu-largest-influenza-pandemic-in-history](https://ourworldindata.org/spanish-flu-largest-influenza-pandemic-in-history)
 
-[^7]: Spanish Flu. (2020, March 27). *History.com.* Retrieved 2020, April 5 from 
+[^7]: Spanish Flu. (2020, March 27). *History.com.* Retrieved 2020, April 5 from [https://www.history.com/topics/world-war-i/1918-flu-pandemic](https://www.history.com/topics/world-war-i/1918-flu-pandemic)
 
-[^8]: Lee VJ, Chen MI, Chan SP, Wong CS, Cutter J, Goh KT, et al. (2007, July). Influenza pandemics in Singapore, a tropical, globally connected city. *Emerg Infect Dis.* Retrieved 2020, April 10 from 
+[^8]: Lee VJ, Chen MI, Chan SP, Wong CS, Cutter J, Goh KT, et al. (2007, July). Influenza pandemics in Singapore, a tropical, globally connected city. *Emerg Infect Dis.* Retrieved 2020, April 10 from [http://www.cdc.gov/eid/content/13/7/1052.htm](http://www.cdc.gov/eid/content/13/7/1052.htm)
 
-[^9]: Dowling, S. (2020, March 3). Coronavirus: What can we learn from the Spanish Flu? *BBC.* Retrieved 2020, April 3 from 
+[^9]: Dowling, S. (2020, March 3). Coronavirus: What can we learn from the Spanish Flu? *BBC.* Retrieved 2020, April 3 from [https://www.bbc.com/future/article/20200302-coronavirus-what-can-we-learn-from-the-spanish-flu](https://www.bbc.com/future/article/20200302-coronavirus-what-can-we-learn-from-the-spanish-flu)
 
-[^10]: Lee VJ, Chen MI, Chan SP, Wong CS, Cutter J, Goh KT, et al. (2007, July). Influenza pandemics in Singapore, a tropical, globally connected city. *Emerg Infect Dis.* Retrieved 2020, April 10 from 
+[^10]: Lee VJ, Chen MI, Chan SP, Wong CS, Cutter J, Goh KT, et al. (2007, July). Influenza pandemics in Singapore, a tropical, globally connected city. *Emerg Infect Dis.* Retrieved 2020, April 10 from [http://www.cdc.gov/eid/content/13/7/1052.htm](http://www.cdc.gov/eid/content/13/7/1052.htm)
 
 
 
