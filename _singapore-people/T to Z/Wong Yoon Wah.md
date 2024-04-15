@@ -3,6 +3,7 @@ title: Wong Yoon Wah
 permalink: /guides/singapore/people/wong-yoon-wah/
 description: ""
 third_nav_title: T to Z
+variant: markdown
 ---
 # Wong Yoon Wah
 
@@ -10,35 +11,35 @@ third_nav_title: T to Z
 
 **Wong Yoon Wah** (b. 13 August 1941, Perak, Malaysia–) is one of the few Singaporeans who excel as an international poet, critic and scholar.[^1] Born in Malaysia in 1941, Wong studied English literature at Taiwan's National Chengchi University, before pursuing his Doctor of Philosophy degree in Chinese literature at the University of Wisconsin in Madison, USA.[^4] Following the completion of his doctoral studies, he came to Singapore in 1973 to teach at Nanyang University, and later became the head of the Department of Chinese Studies at the National University of Singapore (NUS).[^5] 
 
-Prolific in both creative and academic writing, Wong has published more than 20 collections of prose, poetry, and academic writings on Chinese and comparative literature in Chinese and English.[^2] For his commitment to promoting literature regionally, Wong was awarded the Southeast Asia Write Award (1984), the [Cultural Medallion](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1867_2012-01-30.html) (1986), and the ASEAN Cultural Award (1993).[^3]
+Prolific in both creative and academic writing, Wong has published more than 20 collections of prose, poetry, and academic writings on Chinese and comparative literature in Chinese and English.[^2] For his commitment to promoting literature regionally, Wong was awarded the Southeast Asia Write Award (1984), the [Cultural Medallion](https://www.nlb.gov.sg/main/article-detail?cmsuuid=4acba74f-e6ee-4756-893d-914f6cf70c6d) (1986), and the ASEAN Cultural Award (1993).[^3]
 
-[^1]: The Esplanade Co Ltd. (2018). *Wong Yoon Wah*. Retrieved 2018, April 2 from Esplanade Theatres on the Bay website: <http://www.esplanade.com/tributesg/literary-arts/wong-yoon-wah>
+[^1]: The Esplanade Co Ltd. (2018). *Wong Yoon Wah*. Retrieved 2018, April 2 from Esplanade Theatres on the Bay website: 
 
-[^2]: Southern University College. (2013, March). *President office*. Retrieved 2018, April 2 from Southern University College website: <http://www.southern.edu.my/chinese/administration/wongvitae.html>
+[^2]: Southern University College. (2013, March). *President office*. Retrieved 2018, April 2 from Southern University College website: 
 
-[^3]: Nanda, A. (2012, June 4). Village boy tells all. *The Straits Times*, p. 5. Retrieved from NewspaperSG; Southern University College. (2013, March). *President office*. Retrieved 2018, April 2 from Southern University College website: <http://www.southern.edu.my/chinese/administration/wongvitae.html>
+[^3]: Nanda, A. (2012, June 4). Village boy tells all. *The Straits Times*, p. 5. Retrieved from NewspaperSG; Southern University College. (2013, March). *President office*. Retrieved 2018, April 2 from Southern University College website: 
 
-[^4]: National University of Singapore. (2008, September 18). 王润华 [Wong Woon Wah]. Retrieved 2018, April 2 from National University of Singapore Libraries website: <http://www.lib.nus.edu.sg/chz/chineseoverseas/oc_wangrh.htm>
+[^4]: National University of Singapore. (2008, September 18). 王润华 [Wong Woon Wah]. Retrieved 2018, April 2 from National University of Singapore Libraries website: 
 
-[^5]: National University of Singapore. (2008, September 18). 王润华 [Wong Woon Wah]. Retrieved 2018, April 2 from National University of Singapore Libraries website: <http://www.lib.nus.edu.sg/chz/chineseoverseas/oc_wangrh.htm>; Southern University College. (2013, March). *President office*. Retrieved 2018, April 2 from Southern University College website: <http://www.southern.edu.my/chinese/administration/wongvitae.html>
+[^5]: National University of Singapore. (2008, September 18). 王润华 [Wong Woon Wah]. Retrieved 2018, April 2 from National University of Singapore Libraries website: ; Southern University College. (2013, March). *President office*. Retrieved 2018, April 2 from Southern University College website: 
 
-This guide provides supplementary resources for those who are keen to further explore the books and other reference resources. You can also visit <https://search.nlb.gov.sg/> to search for more resources.
+This guide provides supplementary resources for those who are keen to further explore the books and other reference resources. You can also visit  to search for more resources.
 
-The above introduction is adapted from the Infopedia entry on [Wong Yoon Wah](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1400_2008-12-16.html). This resource guide was prepared in November 2021 by Michelle Heng, a Librarian at the National Library, Singapore.
+The above introduction is adapted from the Infopedia entry on [Wong Yoon Wah](https://www.nlb.gov.sg/main/article-detail?cmsuuid=4b62d3cb-8d6e-47f6-a6fd-3906763a529e). This resource guide was prepared in November 2021 by Michelle Heng, a Librarian at the National Library, Singapore.
 
 ### Books
 
-- 王润华 Wang, Run Hua (1970). [高潮 Gao Chao](https://eservice.nlb.gov.sg/item_holding.aspx?bid=264914896).  台北:  星座诗社. (Call no.:  RSEA C811.5 WJH)
+- 王润华  [Wong Yoon Wah]. (1970). [高潮](https://eservice.nlb.gov.sg/item_holding.aspx?bid=264914896) [High Tide].  台北:  星座诗社. (Call no.:  RSEA C811.5 WJH)
 
-- 王润华  Wang, Run Hua (1970). [A Chinese view of style : the theoretical bases of style in the Shih-pin](https://eservice.nlb.gov.sg/item_holding.aspx?bid=264917654). Singapore : Institute of Humanities and Social Sciences, College of Graduate Studies, Nanyang University (Call no.:  RCLOS q895.113 WON)
+- 王润华  [Wong Yoon Wah]. (1970). [A Chinese view of style : the theoretical bases of style in the Shih-pin](https://eservice.nlb.gov.sg/item_holding.aspx?bid=264917654). Singapore : Institute of Humanities and Social Sciences, College of Graduate Studies, Nanyang University (Call no.:  RCLOS q895.113 WON)
 
-- 王润华  Wang, Run Hua (1976). [Ssu-Kʻung Tʻu : a poet-critic of the Tʻang](https://eservice.nlb.gov.sg/item_holding.aspx?bid=264919351). Hong Kong : Chinese University of Hong Kong (Call no.:  RUR 895.113 SSU.W)
+- 王润华  [Wong Yoon Wah]. (1976). [Ssu-Kʻung Tʻu : a poet-critic of the Tʻang](https://eservice.nlb.gov.sg/item_holding.aspx?bid=264919351). Hong Kong : Chinese University of Hong Kong (Call no.:  RUR 895.113 SSU.W)
 
-- 王润华  Wang, Run Hua (1978). [An annotated guide to leading English language periodicals on China : a selective list for the students of Chinese language and literature](https://eservice.nlb.gov.sg/item_holding.aspx?bid=264921310). Singapore : Institute of Humanities and Social Sciences, College of Graduate Studies, Nanyang University. Available via PublicationSG.
+- 王润华  [Wong Yoon Wah]. (1978). [An annotated guide to leading English language periodicals on China : a selective list for the students of Chinese language and literature](https://eservice.nlb.gov.sg/item_holding.aspx?bid=264921310). Singapore : Institute of Humanities and Social Sciences, College of Graduate Studies, Nanyang University. Available via PublicationSG.
 
-- 编选, 王叔岷, 吴德耀, 王润华.  Bian xuan, Wang Shu Min, Wu De Yao, Wang Run Hua. (1979). [道德教育文选 : 勤劳篇/Selected writings on moral education : the hardworking tradition](https://eservice.nlb.gov.sg/item_holding.aspx?bid=264921758). Singapore : EPB Publishers. (Call no.:  RSING 370.114 SEL)
+- 编选, 王叔岷, 吴德耀, 王润华  [Wang Shu Min, Wu Teh Yao, Wong Yoon Wah (Eds.)]. (1979). [道德教育文选 : 勤劳篇/Selected writings on moral education : the hardworking tradition](https://eservice.nlb.gov.sg/item_holding.aspx?bid=264921758). Singapore : EPB Publishers. (Call no.:  RSING 370.114 SEL)
 
-- 黄孟文, 王润华编  Huang, Mengwen, Wang, Run Hua (1983). [新华文学作品选/ An anthology of Singapore Chinese literature](https://eservice.nlb.gov.sg/item_holding.aspx?bid=264925252). Singapore : Singapore Association of Writers (Call no.:  RSING C810.08 ANT)
+- 黄孟文, 王润华编  [Wong Meng Voon, Wong Yoon Wah (Eds.)] (1983). [新华文学作品选/ An anthology of Singapore Chinese literature](https://eservice.nlb.gov.sg/item_holding.aspx?bid=264925252). Singapore : Singapore Association of Writers (Call no.:  RSING C810.08 ANT)
 
 - 王润华  Wang, Run Hua (1988). [Essays on Chinese literature : a comparative approach](https://eservice.nlb.gov.sg/item_holding.aspx?bid=264928053). Singapore : Singapore University Press, (Call no.:  RSING 895.109 WON)
  
@@ -56,7 +57,7 @@ The above introduction is adapted from the Infopedia entry on [Wong Yoon Wah](ht
 
 ### Websites
 
-- **Wong Yoon Wah**. The Esplanade Co Ltd. (2018).  Retrieved 2021, November 10 from Esplanade Theatres on the Bay website: <http://www.esplanade.com/tributesg/literary-arts/wong-yoon-wah> 
+- **Wong Yoon Wah**. The Esplanade Co Ltd. (2018).  Retrieved 2021, November 10 from Esplanade Theatres on the Bay website:  
 
 ### Audio-visual
 
