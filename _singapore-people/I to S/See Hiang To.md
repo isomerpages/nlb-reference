@@ -56,11 +56,11 @@ Call no.: RSING 959.570092 WHO-\[HIS\].
 <br>This article reports on the demise of See at the age of 86. The article covers his life and his works.<br>
 
 
-* Lin, W.J \[林万菁\]. (1990, May 1). [自食其力·诲人不倦](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19900501-1.2.65.4.1)]. \[Self-reliant and Dedicated to Education.\] 联合早报, p.40. Retrieved from NewspaperSG.
+* Lin, W.J \[林万菁\]. (1990, May 1). [自食其力·诲人不倦](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19900501-1.2.65.4.1)]. [Self-reliant and Dedicated to Education.] 联合早报, p.40. Retrieved from NewspaperSG.
 <br>This is an  article written by See’s student on his teacher’s lifetime career in the arts and also his personal account of him. A portrait of the art pioneer and selected calligraphy are also included.<br>
 
 
-* [星华筹账大会主办施香沱书画展览所筹款项全数捐账祖国伤难一切費用由龙溪会馆同人报效](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19401014-1.2.29.1). [Singapore Chinese Relief Fund Committee Organised Exhibition of See Hiang To's works. All Donations Go Towards the China Relief Fund. Members of Leong Khay Huay Kuan Paid for the Expenses]. (1940, October 14). 南洋商报, p. 8. Retrieved from NewspaperSG.
+* [星华筹账大会主办施香沱书画展览所筹款项全数捐账祖国伤难一切費用由龙溪会馆同人报效](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19401014-1.2.29.1) [Singapore Chinese Relief Fund Committee Organised Exhibition of See Hiang To's works. All Donations Go Towards the China Relief Fund. Members of Leong Khay Huay Kuan Paid for the Expenses]. (1940, October 14). 南洋商报, p. 8. Retrieved from NewspaperSG.
 <br>This is a report on the exhibition of See’s works to raise relief funds for China, organised by the Singapore Leong Khay Huay Kuan in 1940.<br>
 
 
