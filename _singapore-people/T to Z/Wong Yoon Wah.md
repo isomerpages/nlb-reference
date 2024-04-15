@@ -29,25 +29,25 @@ The above introduction is adapted from the Infopedia entry on [Wong Yoon Wah](ht
 
 ### Books
 
-- 王润华  [Wong Yoon Wah]. (1970). [高潮](https://eservice.nlb.gov.sg/item_holding.aspx?bid=264914896) [High Tide].  台北:  星座诗社. (Call no.:  RSEA C811.5 WJH)
+- 王润华  [Wong Yoon Wah]. (1970). [高潮](https://catalogue.nlb.gov.sg/search/card?recordId=84564252)[High Tide].  台北:  星座诗社. (Call no.:  RSEA C811.5 WJH)
 
-- 王润华  [Wong Yoon Wah]. (1970). [A Chinese view of style : the theoretical bases of style in the Shih-pin](https://eservice.nlb.gov.sg/item_holding.aspx?bid=264917654). Singapore : Institute of Humanities and Social Sciences, College of Graduate Studies, Nanyang University (Call no.:  RCLOS q895.113 WON)
+- 王润华  [Wong Yoon Wah]. (1970). [A Chinese view of style : the theoretical bases of style in the Shih-pin.](https://catalogue.nlb.gov.sg/search/card?recordId=4981816) Singapore: Institute of Humanities and Social Sciences, College of Graduate Studies, Nanyang University. (Call no.:  RCLOS q895.113 WON)
 
-- 王润华  [Wong Yoon Wah]. (1976). [Ssu-Kʻung Tʻu : a poet-critic of the Tʻang](https://eservice.nlb.gov.sg/item_holding.aspx?bid=264919351). Hong Kong : Chinese University of Hong Kong (Call no.:  RUR 895.113 SSU.W)
+- 王润华  [Wong Yoon Wah]. (1976). [Ssu-Kʻung Tʻu: a poet-critic of the Tʻang](https://catalogue.nlb.gov.sg/search/card?recordId=870042) Hong Kong: Chinese University of Hong Kong. (Call no.:  RUR 895.113 SSU.W)
 
-- 王润华  [Wong Yoon Wah]. (1978). [An annotated guide to leading English language periodicals on China : a selective list for the students of Chinese language and literature](https://eservice.nlb.gov.sg/item_holding.aspx?bid=264921310). Singapore : Institute of Humanities and Social Sciences, College of Graduate Studies, Nanyang University. Available via PublicationSG.
+- 王润华  [Wong Yoon Wah]. (1978). [An annotated guide to leading English language periodicals on China: a selective list for the students of Chinese language and literature](https://catalogue.nlb.gov.sg/search/card?recordId=4585443) Singapore: Institute of Humanities and Social Sciences, College of Graduate Studies, Nanyang University. Available via PublicationSG.
 
-- 编选, 王叔岷, 吴德耀, 王润华  [Wang Shu Min, Wu Teh Yao, Wong Yoon Wah (Eds.)]. (1979). [道德教育文选 : 勤劳篇/Selected writings on moral education : the hardworking tradition](https://eservice.nlb.gov.sg/item_holding.aspx?bid=264921758). Singapore : EPB Publishers. (Call no.:  RSING 370.114 SEL)
+- 编选, 王叔岷, 吴德耀, 王润华  [Wang Shu Min, Wu Teh Yao, Wong Yoon Wah (Eds.)]. (1979). [道德教育文选：勤劳篇](https://catalogue.nlb.gov.sg/search/card?recordId=84452403)[Selected Writings on Moral Education: the Hardworking Tradition]. Singapore: EPB Publishers. (Call no.:  RSING 370.114 SEL)
 
-- 黄孟文, 王润华编  [Wong Meng Voon, Wong Yoon Wah (Eds.)] (1983). [新华文学作品选/ An anthology of Singapore Chinese literature](https://eservice.nlb.gov.sg/item_holding.aspx?bid=264925252). Singapore : Singapore Association of Writers (Call no.:  RSING C810.08 ANT)
+- 黄孟文, 王润华编  [Wong Meng Voon, Wong Yoon Wah (Eds.)] (1983). [新华文学作品选](https://catalogue.nlb.gov.sg/search/card?recordId=84475280) [An Anthology of Singapore Chinese literature]. Singapore : Singapore Association of Writers. (Call no.:  RSING C810.08 ANT)
 
-- 王润华  Wang, Run Hua (1988). [Essays on Chinese literature : a comparative approach](https://eservice.nlb.gov.sg/item_holding.aspx?bid=264928053). Singapore : Singapore University Press, (Call no.:  RSING 895.109 WON)
+- 王润华  [Wong Yoon Wah] (1988). [Essays on Chinese literature: a Comparative Approach](https://catalogue.nlb.gov.sg/search/card?recordId=4880167). Singapore: Singapore University Press. (Call no.:  RSING 895.109 WON)
  
-- 主编 王润华, 白豪士 [Eds] Wang, Run Hua, Bai Hao Shi (1989). [Chinese literature in Southeast Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=264929804). Singapore : Singapore: Goethe-Institut Singapore, Singapore Association of Writers (Call no.:  RSING 895.15209000959 CHI)
+- 主编 王润华, 白豪士 [Wong Yoon Wah, Horst Pastoors (Eds.)] (1989). [Chinese literature in Southeast Asia](https://catalogue.nlb.gov.sg/search/card?recordId=5246334). Singapore: Goethe-Institut Singapore, Singapore Association of Writers. (Call no.:  RSING 895.15209000959 CHI)
 
-- [General Ed.] Edwin Thumboo. [Eds, Wong Yoon Wah, et al.] (1993). [The Fiction of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=264934100). Singapore : ASEAN Committee on Culture and Information (Call no.:  S823.008 FIC)
+- [General Ed.] Edwin Thumboo. [Eds, Wong Yoon Wah, et al.] (1993). [The Fiction of Singapore](https://catalogue.nlb.gov.sg/search/card?recordId=6536287). Singapore : ASEAN Committee on Culture and Information. (Call no.:  S823.008 FIC)
 
-- 王润华  Wang, Run Hua (2000). [从反殖民到殖民者 : 鲁迅与新马后殖民文学 / Lu Xun in Singapore and Malaysia : from anti-colonization to colonization](https://eservice.nlb.gov.sg/item_holding.aspx?bid=264939130). Singapore : Department of Chinese Studies, National University of Singapore (Call no.:  RSING C810.09595 WYW)
+- 王润华  [Wong Yoon Wah]. (2000). [从反殖民到殖民者：鲁迅与新马后殖民文学](https://catalogue.nlb.gov.sg/search/card?recordId=10266261) [Lu Xun in Singapore and Malaysia: from Anti-colonization to Colonization]. Singapore: Department of Chinese Studies, National University of Singapore. (Call no.:  RSING C810.09595 WYW)
 
 - Wong, Yoon Wah, translated by Ho, Lian Geok and Ng, Yi-Sheng. (2012). [The new village : Chinese poems](https://eservice.nlb.gov.sg/item_holding.aspx?bid=264944462). Singapore : Ethos Books (Call no.:  RSING 895.1152 WON)
 
