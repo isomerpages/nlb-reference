@@ -3,6 +3,7 @@ title: Southeast Asian Artists
 permalink: /guides/arts/visual-arts/sea-artists/
 description: ""
 third_nav_title: Visual Arts
+variant: markdown
 ---
 ![Ibu dan Anak Anak by Hendra Gunawan](/images/arts/visualarts/southeast-asian-artists/hendra-gunawan-ibu-dan-anak-anak.jpg)
 
@@ -27,7 +28,7 @@ This guide provides a selection of resources on Southeast Asian artists and is n
 #### Books
 
 <table style="width:100%; font-size:20px;">
-    <tr>
+    <tbody><tr>
         <td style="width:30%">
             <b>Books</b>
         </td>
@@ -37,7 +38,7 @@ This guide provides a selection of resources on Southeast Asian artists and is n
     </tr>
     <tr>
         <td>
-            <img style="width:150px" src="/images/arts/visualarts/southeast-asian-artists/between-declarations-and-dreams.jpg ">
+            <img style="width:150px" src="/images/arts/visualarts/southeast-asian-artists/between-declarations-and-dreams.jpg">
         </td>
         <td>
             Low, S. W. (Ed). (2015).  <a href="https://www.nlb.gov.sg/biblio/202101394"> Between declarations and dreams: Art of Southeast Asia since the 19th century.</a> Singapore: National Gallery Singapore. (Call no.: RSING 709.59074 BET) <br>
@@ -60,7 +61,7 @@ Published in 1996 alongside Singapore Art Museum’s opening, this catalogue was
 					  <img style="width:150px" src="/images/arts/visualarts/southeast-asian-artists/nora-taylor.jpg">
         </td>
         <td>
-            Taylor, N. A., & Ly, B. (Eds.). (2012). <a href="https://www.nlb.gov.sg/biblio/14355199">Modern and Contemporary Southeast Asian Art.</a> Ithaca, N.Y.: Southeast Asia Program Publications, Southeast Asia Program, Cornell University. (Call no.: RSEA 709.59 MOD) 
+            Taylor, N. A., &amp; Ly, B. (Eds.). (2012). <a href="https://www.nlb.gov.sg/biblio/14355199">Modern and Contemporary Southeast Asian Art.</a> Ithaca, N.Y.: Southeast Asia Program Publications, Southeast Asia Program, Cornell University. (Call no.: RSEA 709.59 MOD) 
 <br> <br>
 Various scholars, critics, and curators offer their perspectives on contemporary Southeast Asian art in this anthology of 13 essays. Essays provide insights on a range of modern artworks from the region, such as Cambodian sculptures influenced by post-conflict trauma and Thai installations that encourage audience participation.
         </td>
@@ -80,7 +81,7 @@ This publication discusses key artists, exhibitions, collections, scholarship, i
 					<img style="width:150px" src="/images/arts/visualarts/southeast-asian-artists/intersecting-histories.jpg">
         </td>
         <td>
-            Sabapathy, T. K., Epp, R. B., & Sabapathy, D. (Eds.). (2012). <a href="https://www.nlb.gov.sg/biblio/200136766">Intersecting histories: contemporary turns in Southeast Asian art.</a>. Singapore: School of Art, Design and Media, Nanyang Technological University. (Call no.: RSING 709.59 INT)
+            Sabapathy, T. K., Epp, R. B., &amp; Sabapathy, D. (Eds.). (2012). <a href="https://www.nlb.gov.sg/biblio/200136766">Intersecting histories: contemporary turns in Southeast Asian art.</a>. Singapore: School of Art, Design and Media, Nanyang Technological University. (Call no.: RSING 709.59 INT)
 <br> <br>
 Nanyang Technological University (NTU) reopened its art gallery in 2012 with a grand opening exhibition of Southeast Asian contemporary artworks curated by art critic and historian T.K. Sabapathy. This fully illustrated catalogue was published in conjunction with the exhibition, featuring new primary research on Southeast Asian art by Sabapathy, and essays penned by other specialists in art history.
         </td>
@@ -110,7 +111,7 @@ Clark offers a close look at the contemporary art practices of Japan, China, Ind
 					<img style="width:150px" src="/images/arts/visualarts/southeast-asian-artists/interlaced-journeys.jpeg">
         </td>
         <td>
-            Flores, P. D., & Pazzini-Paracciani, L. (Eds.). (2020). <a href="https://www.nlb.gov.sg/biblio/204507789"> Interlaced journeys: Diaspora and the contemporary in Southeast Asian art.</a> Hong Kong: Osage Publications. (Call no.: RSEA 709.59 INT) 
+            Flores, P. D., &amp; Pazzini-Paracciani, L. (Eds.). (2020). <a href="https://www.nlb.gov.sg/biblio/204507789"> Interlaced journeys: Diaspora and the contemporary in Southeast Asian art.</a> Hong Kong: Osage Publications. (Call no.: RSEA 709.59 INT) 
 <br> <br>
 This anthology brings together essays by art historians and curators, where they explore the notion of diaspora in contemporary Southeast Asian visual culture, addressing the phenomena of movement and resettlement from the perspective of artistic and curatorial practice.
         </td>
@@ -120,7 +121,7 @@ This anthology brings together essays by art historians and curators, where they
 					<img style="width:150px" src="/images/arts/visualarts/southeast-asian-artists/after-darkness.jpg">
         </td>
         <td>
-            Tan, B. H., & Yun, M. (2017). <a href="https://www.nlb.gov.sg/biblio/204348488"> After darkness: Southeast Asian art in the wake of history. </a> New York, NY: Asia Society Museum. (Call no.: RSEA 709.59 AFT) 
+            Tan, B. H., &amp; Yun, M. (2017). <a href="https://www.nlb.gov.sg/biblio/204348488"> After darkness: Southeast Asian art in the wake of history. </a> New York, NY: Asia Society Museum. (Call no.: RSEA 709.59 AFT) 
 <br> <br>
 This is a catalogue published in accompaniment of Asia Society Museum’s 2018 exhibition of the same name. Essays explore the works of contemporary artists from Indonesia, Myanmar, and Vietnam through the lens of social and political change and discuss the artistic repercussions of political ruptures.
         </td>
@@ -175,7 +176,7 @@ Leading art critics focus on selected contemporary artists who are transforming 
 Five years of travel, research, and interviews throughout Southeast Asia have allowed Bollansee to provide an overview on contemporary art practices in the region. The publication features an essay that covers the art scenes in six countries and interviews with artists, art critics, gallery owners, and leading collectors.
         </td>
     </tr>
-</table>
+</tbody></table>
 
 #### Articles
 
@@ -269,13 +270,9 @@ Guggenheim Museum. (2016, December 16) [*Symposium: Nora Taylor navigates Southe
 
 #### Web Resources
 
-Tee, I. (2021, August 4). *Modern Southeast Asian Artists of Note.* Art & Market (A&M). [https://www.artandmarket.net/analysis/2021/8/4/modern-southeast-asian-artists-of-note ](https://www.artandmarket.net/analysis/2021/8/4/modern-southeast-asian-artists-of-note )
+Tee, I. (2021, August 4). *Modern Southeast Asian Artists of Note.* Art &amp; Market (A&amp;M). [https://www.artandmarket.net/analysis/2021/8/4/modern-southeast-asian-artists-of-note ](https://www.artandmarket.net/analysis/2021/8/4/modern-southeast-asian-artists-of-note )
 
-* Published on Art & Market (A&M), a multimedia platform that specialises in Southeast Asian art, this article provides an analysis on an array of contemporary Southeast Asian artists.
-
-See, G. I. (2019, February 19). *Artists Who Defined Contemporary Southeast Asian Art.* The Artling. [https://www.theartling.com/en/artzine/artist-defined-contemporary-southeast-asian-art/](https://www.theartling.com/en/artzine/artist-defined-contemporary-southeast-asian-art/)
-
-* This article provides a brief introduction on a selection of prominent contemporary Southeast Asian artists.
+* Published on Art &amp; Market (A&amp;M), a multimedia platform that specialises in Southeast Asian art, this article provides an analysis on an array of contemporary Southeast Asian artists.
 
 National Gallery Singapore. (n.d.). *Between Declarations and Dreams: Art of Southeast Asia since the 19th Century (UOB Southeast Asia Gallery).* Retrieved January 12, 2022, from [https://www.nationalgallery.sg/southeastasia-between-declarations-dreams-art](https://www.nationalgallery.sg/southeastasia-between-declarations-dreams-art)
 
@@ -295,7 +292,7 @@ All Rights Reserved. National Library Board Singapore 2022.
 
 [^1]: Taylor, N. (2012). “Introduction: Who Speaks for Southeast Asian Art?” In *Modern and Contemporary Southeast Asian Art.* Ithaca, N.Y.: Southeast Asia Program Publications, p. 2.
 [^2]: Taylor. p. 3
-[^3]: Yasuko, F. & Aki, H. (Eds). (2016). *Art Studies 2 THE 1990s: The Making of Art with Contemporaries*. Japan: The Japan Foundation Asia Center, p. 62.
+[^3]: Yasuko, F. &amp; Aki, H. (Eds). (2016). *Art Studies 2 THE 1990s: The Making of Art with Contemporaries*. Japan: The Japan Foundation Asia Center, p. 62.
 [^4]: Clark, J. (2012). “The Southeast Asian Modern: Three Artists.” In *Modern and Contemporary Southeast Asian Art*. Ithaca, N.Y.: Southeast Asia Program Publications, p. 17.
 [^5]: Clark. p. 19
 [^6]: Huynh-Beattie, B. “Vietnamese Modern Art.” In *Modern and Contemporary Southeast Asian Art.* Ithaca, N.Y.: Southeast Asia Program Publications, p. 34.
