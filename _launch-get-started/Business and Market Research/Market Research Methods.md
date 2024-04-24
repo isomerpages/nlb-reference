@@ -7,6 +7,7 @@ description: There are two broad methods of conducting and gathering market
   customers, market or competitors. Each method involves a different process and
   reveals different information.
 third_nav_title: Business & Market Research
+variant: markdown
 ---
 # Market Research Methods 
 
@@ -62,7 +63,7 @@ In order to gain a full understanding of a business environment, the market plac
 
 Brandenburg, Eric. (2013, June 14). “Business2community: Quantitative Market Research vs Qualitative Market Research.” Accessed June 22, 2021. [https://www.business2community.com/marketing/quantitative-market-research-vs-qualitative-market-research-0523710](https://www.business2community.com/marketing/quantitative-market-research-vs-qualitative-market-research-0523710) 
 
-British Library Business & IP Centre. (2021). “Four Basic Research Methods for Business Start-ups.” Accessed June 22, 2021. [https://www.bl.uk/business-and-ip-centre/articles/4-basic-research-methods-for-business-start-ups#](https://www.bl.uk/business-and-ip-centre/articles/4-basic-research-methods-for-business-start-ups) 
+British Library Business & IP Centre. (2021). “Four Basic Research Methods for Business Start-ups.” Accessed June 22, 2021. https://www.bl.uk/business-and-ip-centre/articles/4-basic-research-methods-for-business-start-ups
 
 Business Queensland. (2021, May 24). “Market Research Methods.” Accessed June 22, 2021. [https://www.business.qld.gov.au/starting-business/planning/market-customer-research/market-research/methods](https://www.business.qld.gov.au/starting-business/planning/market-customer-research/market-research/methods) 
 
