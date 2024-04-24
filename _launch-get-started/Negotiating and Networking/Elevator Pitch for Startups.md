@@ -3,6 +3,7 @@ title: Elevator Pitch for Startups
 permalink: /launch/getting-started/negotiate/elevator-pitch/
 description: ""
 third_nav_title: Negotiating & Networking
+variant: markdown
 ---
 # Elevator Pitch for Start-Ups
 
@@ -40,11 +41,11 @@ An elevator pitch can often make or break a business in the eyes of potential in
 
 ## References
 
-Brandenburger, Alaina. (2021, April 29). “How to Write an Elevator Pitch to Raise Money for Your Startup”. <https://www.business2community.com/startups/how-to-write-an-elevator-pitch-to-raise-money-for-your-startup-02401733>
+Brandenburger, Alaina. (2021, April 29). “How to Write an Elevator Pitch to Raise Money for Your Startup”. 
 
-British Library Business & IP Centre. “Know your elevator pitch”. Accessed June 22, 2021.
-<https://www.bl.uk/business-and-ip-centre/articles/know-your-elevator-pitch>
+British Library Business &amp; IP Centre. “Know your elevator pitch”. Accessed June 22, 2021.
+https://www.bl.uk/business-and-ip-centre/articles/know-your-elevator-pitch
 
-Morah, Chizoba. “What is an Entrepreneur's Elevator Pitch?”. Last updated November 26, 2019. <https://www.investopedia.com/ask/answers/08/entrepreneur-elevator-pitch.asp>
+Morah, Chizoba. “What is an Entrepreneur's Elevator Pitch?”. Last updated November 26, 2019. 
 
-Wise, Sean. (2018, February 13). “I've Heard 20,000 Elevator Pitches. Here's What They've Taught Me About Getting Funded.” <https://www.inc.com/sean-wise/what-10000-hours-of-investor-pitches-can-tell-you-about-landing-perfect-pitch-in-21st-century.html>
+Wise, Sean. (2018, February 13). “I've Heard 20,000 Elevator Pitches. Here's What They've Taught Me About Getting Funded.” 
