@@ -1,6 +1,7 @@
 ---
 title: Decolonisation Process
 permalink: /guides/singapore/history/decolonisation-process/
+variant: markdown
 ---
 ## Decolonisation Process
 
@@ -18,7 +19,7 @@ This book examines people’s responses during times of instability in Singapore
 
 
 Title: [Decolonizing the history curriculum in Malaysia and Singapore](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203878121)   
-Authors: Blackburn, K. & Wu, Zonglun
+Authors: Blackburn, K. &amp; Wu, Zonglun
 Publisher: Abingdon, Oxon ; New York, NY : Routledge, [2019].   
 Call no.: RSING 372.8909595 BLA
 
@@ -38,7 +39,7 @@ The author refers to cabinet papers, memoranda and other primary documents to tr
 
 
 Title: [Imperial policy and southeast asian nationalism 1930-1957](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7382232)  
-Authors: Tønnesson, Stein & Antlöv, Hans  
+Authors: Tønnesson, Stein &amp; Antlöv, Hans  
 Publisher: London : Curzon Press, 1995.  
 Call no.: RSING 959.05 IMP 
 
@@ -142,22 +143,22 @@ A curation of articles from Off the Record and Singapore Policy History Project,
 
 
 ALL MUST VOTE, 1959   
-<https://corporate.nas.gov.sg/media/collections-and-research/all-must-vote>
+[https://corporate.nas.gov.sg/media/collections-and-research/all-must-vote](https://corporate.nas.gov.sg/media/collections-and-research/all-must-vote)
 
 External threats: Storm Clouds over Indochina   
-<https://corporate.nas.gov.sg/media/collections-and-research/external-threats>
+[https://corporate.nas.gov.sg/media/collections-and-research/external-threats](https://corporate.nas.gov.sg/media/collections-and-research/external-threats)
 
 David Marshall: Singapore’s First Chief Minister   
-<https://corporate.nas.gov.sg/media/collections-and-research/david-marshall>
+[https://corporate.nas.gov.sg/media/collections-and-research/david-marshall](https://corporate.nas.gov.sg/media/collections-and-research/david-marshall)
 
 S. Rajaratnam on Singapore’s State Symbols   
-<https://corporate.nas.gov.sg/media/collections-and-research/s-rajaratnam>
+[https://corporate.nas.gov.sg/media/collections-and-research/s-rajaratnam](https://corporate.nas.gov.sg/media/collections-and-research/s-rajaratnam)
 
 PROCLAMATION OF SINGAPORE, 1965   
-<https://corporate.nas.gov.sg/media/collections-and-research/proclamationofsingapore>
+[https://corporate.nas.gov.sg/media/collections-and-research/proclamationofsingapore](https://corporate.nas.gov.sg/media/collections-and-research/proclamationofsingapore)
 
 INDEPENDENCE DAY?   
-<https://corporate.nas.gov.sg/media/collections-and-research/independenceday>
+[https://corporate.nas.gov.sg/media/collections-and-research/independenceday](https://corporate.nas.gov.sg/media/collections-and-research/independenceday)
 
 Keeping Communist Propaganda At Bay - Regulation Of Media Content   
-<https://www.nas.gov.sg/archivesonline/policy_history/card?id=3>
+[https://www.nas.gov.sg/archivesonline/sphpcard3](https://www.nas.gov.sg/archivesonline/sphpcard3)
