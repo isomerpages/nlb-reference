@@ -1,11 +1,12 @@
 ---
 title: Common mistakes in business plans
 permalink: /launch/running-business/business-plan/common-mistakes/
-description: "A good business plan can help the entrepreneur turn his dreams
-  into reality, while a bad one could lead to disappointment, failure and
-  financial loss. Here are some common mistakes people make when creating a
-  business plan and how you can avoid them. "
+description: A good business plan can help the entrepreneur turn his dreams into
+  reality, while a bad one could lead to disappointment, failure and financial
+  loss. Here are some common mistakes people make when creating a business plan
+  and how you can avoid them.
 third_nav_title: Developing a Business Plan
+variant: markdown
 ---
 # Common mistakes in business plans 
 
@@ -50,8 +51,6 @@ Writing a good business plan takes time and effort, but it provides a handy road
 ## References 
 
 Clarke, Andrew. "Top 10 business plan mistakes". Entreprenuer. Accessed 17 February 2022, [https://www.entrepreneur.com/article/81188](https://www.entrepreneur.com/article/81188)  
-
-Full Scale. "Your plan is wrong: Common mistakes in business planning". Published 7 April 2021, [https://fullscale.io/blog/your-plan-is-wrong-common-mistakes-business-planning/](https://fullscale.io/blog/your-plan-is-wrong-common-mistakes-business-planning/)  
 
 Hayes, Adam. "Business plan". Investopedia. Updated 4 May 2022, [https://www.investopedia.com/terms/b/business-plan.asp](https://www.investopedia.com/terms/b/business-plan.asp)  
 
