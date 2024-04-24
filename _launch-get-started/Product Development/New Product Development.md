@@ -1,11 +1,12 @@
 ---
 title: New Product Development
 permalink: /launch/getting-started/product-dev/new-product-development/
-description: "New product development (NPD) is the process of creating and
+description: New product development (NPD) is the process of creating and
   launching a new product or service, or relaunching an existing service or
   product. It is a structured process with the objective of turning an idea into
-  reality.  "
+  reality.
 third_nav_title: Product Development
+variant: markdown
 ---
 # New Product Development  
 
@@ -62,7 +63,7 @@ A detailed framework is needed for this stage to run smoothly and have maximum i
 
 ## References 
 
-British Library Business & IP Centre. (2021). “Defining a New Product Development Process”. [https://www.bl.uk/business-and-ip-centre/articles/how-to-define-a-new-product-development-process](https://www.bl.uk/business-and-ip-centre/articles/how-to-define-a-new-product-development-process) 
+British Library Business & IP Centre. (2021). “Defining a New Product Development Process”. https://www.bl.uk/business-and-ip-centre/articles/how-to-define-a-new-product-development-process
 
 Duval, James. (July 22, 2013). “Eight Simple Steps for New Product Development”. [https://www.business2community.com/product-management/eight-simple-steps-for-new-product-development-0560298](https://www.business2community.com/product-management/eight-simple-steps-for-new-product-development-0560298) 
 
