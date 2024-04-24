@@ -3,11 +3,12 @@ title: U FSE Freelancer Fair 2023
 permalink: /launch/running-business/freelancer-resources/freelancer-fair-2023/
 description: ""
 third_nav_title: Resources for Freelancers
+variant: markdown
 ---
 # U FSE Freelancer Fair 2023: Slaying the Gig Economy!
 ![NTUC Freelancer Fair Poster-1](/images/ntuc%20freelancer%20fair%20poster-1.jpg)
 
-**Click [here](https://ufse.org.sg/Pages/Details.aspx?ItemId=79) to find out more at the NTUC U FSE website.**
+**Click [here](https://www.ufse.org.sg/news/U%20FSE%20Freelancer%20Fair%202023%20Slaying%20the%20Gig%20Economy%20/) to find out more at the NTUC U FSE website.**
 
 📅&nbsp;**27 July 2023**
 
