@@ -1,14 +1,14 @@
 ---
 title: How to recruit more diverse talent
 permalink: /launch/running-business/launch-stay-on-course/recruit-diverse-talent/
-description: "Organisations are in competition for top talent. Talented people
+description: Organisations are in competition for top talent. Talented people
   are drawn to diverse workplaces imbued with a culture of respect that also
   values different perspectives. Workplace diversity comprising different
   genders, races, and nationalities is key to improving a company’s innovation
-  potential.  "
+  potential.
 third_nav_title: Launch & Stay on Course
+variant: markdown
 ---
-
 # How to Recruit More Diverse Talent 
 
 Organisations are in competition for top talent. Talented people are drawn to diverse workplaces imbued with a culture of respect that also values different perspectives. Workplace diversity comprising different genders, races, and nationalities is key to improving a company’s innovation potential.   
@@ -51,6 +51,6 @@ People are likely to align with others similar to themselves, thereby falling pr
 
 Carnahan, Becca. “6 Best Practices to Creating Inclusive and Equitable Interview Processes.” Harvard Business School. Published 16 August 2021, [https://www.hbs.edu/recruiting/insights-and-advice/blog/post/6-best-practices-to-creating-inclusive-and-equitable-interview-processes](https://www.hbs.edu/recruiting/insights-and-advice/blog/post/6-best-practices-to-creating-inclusive-and-equitable-interview-processes) 
 
-Dewar, Jen. “How to Recruit Diverse Talent: 15 Ways to Build a More Diverse Talent Pipeline.” Lever. Last updated 4 July 2021, [https://www.lever.co/blog/15-ways-to-build-a-more-diverse-talent-pipeline/](https://www.lever.co/blog/15-ways-to-build-a-more-diverse-talent-pipeline/)  
+Dewar, Jen. “How to Recruit Diverse Talent: 15 Ways to Build a More Diverse Talent Pipeline.” Lever. Last updated 4 July 2021, [https://www.lever.co/blog/diverse-talent-pipeline/](https://www.lever.co/blog/diverse-talent-pipeline/)  
 
 Rock, David, and Grant, Heidi. “Why Diverse Teams Are Smarter.” Harvard Business Review. Published 4 November 2016, [https://hbr.org/2016/11/why-diverse-teams-are-smarter](https://hbr.org/2016/11/why-diverse-teams-are-smarter)
