@@ -101,7 +101,7 @@ Hosted by CreativesAtWork co-founders, listen to the 30 to 40-minute podcasts or
 
 #### The Singapore gig economy 
 
-SGExplained. (2020, June 3). "The Singapore gig economy". [https://podtail.com/en/podcast/sg-explained/the-singapore-gig-economy/](https://podtail.com/en/podcast/sg-explained/the-singapore-gig-economy/)  
+SGExplained. (2020, June 3). "The Singapore gig economy". [https://lnns.co/fFtqehrN67L](https://lnns.co/fFtqehrN67L)  
 
 In this 50-minute podcast, Audrey Lim, a Singaporean, shares her experiences of being a freelancer in the entertainment industry. She also shares her observations about the current state of the gig economy in Singapore, the profile of the 'own-account worker' and suggests some policy tweaks which would help the gig economy to bloom.
 
