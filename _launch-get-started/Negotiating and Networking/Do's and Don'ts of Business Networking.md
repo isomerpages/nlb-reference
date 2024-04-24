@@ -1,11 +1,12 @@
 ---
 title: Do's and Don'ts of Business Networking
 permalink: /launch/getting-started/negotiate/dos-donts-business-networking/
-description: "Business networking is the building of relationships with others
-  in the industry who may be helpful to your business. These can comprise
-  potential suppliers, investors, clients, other business owners and even fellow
-  competitors. "
+description: Business networking is the building of relationships with others in
+  the industry who may be helpful to your business. These can comprise potential
+  suppliers, investors, clients, other business owners and even fellow
+  competitors.
 third_nav_title: Negotiating & Networking
+variant: markdown
 ---
 # Do's and Don'ts of Business Networking 
 
@@ -46,7 +47,7 @@ For a business networking session to go well, you need to do a bit of homework f
 
 ## References 
 
-Stockton, Blake. “Business Networking: What Is It & Tips for Success”. Posted August 26, 2020. [https://fitsmallbusiness.com/business-networking-basics/](https://fitsmallbusiness.com/business-networking-basics/)  
+Caballero, Bianca. “29 Business Networking Statistics for New Opportunities (2024)”. Posted February 1, 2024. [https://fitsmallbusiness.com/business-networking-statistics/](https://fitsmallbusiness.com/business-networking-statistics/)  
 
 Forbes. “14 Professional Tips for Networking During a Pandemic”. Forbes. January 6, 2021. [https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/06/14-professional-tips-for-networking-during-a-pandemic/](https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/06/14-professional-tips-for-networking-during-a-pandemic/) 
 
