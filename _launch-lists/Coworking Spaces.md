@@ -16,41 +16,45 @@ Co-working spaces are shared office spaces which are designed to accommodate peo
 This is a select list of co-working spaces for rental in Singapore which may be useful for entrepreneurial start-ups, remote-working or hot-desking. 
 
  
+## Just Co 
 
+URL: [https://www.justcoglobal.com/](https://www.justcoglobal.com/)
+
+ 
 
 ## MultiCo 
 
-URL:  
+URL: [https://www.multico.co/](https://www.multico.co/) 
 
  
 
 ## Smart Space 
 
-URL:  
+URL: [https://smartspace.com.sg/](https://smartspace.com.sg/)
 
  
 
 ## The Great Room 
 
-URL:  
+URL: [https://thegreatroom.co/>](https://thegreatroom.co/)
 
  
 
 ## The Hive 
 
-URL:  
+URL: [https://thehive.sg/](https://thehive.sg/)
 
  
 
 ## The Working Capitol 
 
-URL:   
+URL: [https://theworkingcapitol.com/](https://theworkingcapitol.com/)
 
  
 
 ## WeWork 
 
-URL:  
+URL: [https://www.wework.com/l/office-space/singapore>](https://www.wework.com/l/office-space/singapore)
 
  
 
