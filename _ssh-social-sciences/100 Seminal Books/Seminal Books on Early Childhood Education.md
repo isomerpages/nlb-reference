@@ -4,11 +4,9 @@ permalink: /guides/socscihum/soc-sci/seminal/books-ece/
 breadcrumb: Seminal Books on Early Childhood Education
 third_nav_title: 100 Seminal Books
 collection_name: social-sciences-humanities-social-sciences
-published: true
+published: "true"
+variant: markdown
 ---
-
-
-
 # Guide Index
 
 - [Introduction](#introduction)
@@ -761,7 +759,7 @@ We would like to thank the following for their insights, time and contributions 
 
 **Accessing the Print Materials**
 
-You can search the library catalogue (for physical materials) in the library and from home ([http://catalogue.nlb.gov.sg](http://catalog.nlb.gov.sg/)). The easy search function allows you to search/browse by author, title, keyword, subject and ISBN/ISSN whereas the advanced search allows you to narrow your searches to specific media types or language holdings. In both instances, you will also be able to limit your search to search only specific libraries by clicking on the “*limit by branch*” option.
+You can search the library catalogue (for physical materials) in the library and from home ([https://catalogue.nlb.gov.sg/](https://catalogue.nlb.gov.sg/)). The easy search function allows you to search/browse by author, title, keyword, subject and ISBN/ISSN whereas the advanced search allows you to narrow your searches to specific media types or language holdings. In both instances, you will also be able to limit your search to search only specific libraries by clicking on the “*limit by branch*” option.
 
 **To search Lee Kong Chian Reference Library’s Holdings**
 

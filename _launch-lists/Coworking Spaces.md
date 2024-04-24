@@ -3,6 +3,7 @@ title: Coworking Spaces
 permalink: /launch/lists/coworking-spaces/
 description: ""
 third_nav_title: Useful Lists
+variant: markdown
 ---
 # A Selective Listing of Co-working spaces in Singapore 
 
@@ -15,67 +16,48 @@ Co-working spaces are shared office spaces which are designed to accommodate peo
 This is a select list of co-working spaces for rental in Singapore which may be useful for entrepreneurial start-ups, remote-working or hot-desking. 
 
  
-
-## ClubCo 
-
-URL: <https://clubco.sg/> 
-
- 
-
-## Distrii 
-
-URL: <https://www.distrii.com.sg/> 
-
- 
-
-## Found8 
-
-URL: <https://www.found8.com/> 
-
- 
-
 ## Just Co 
 
-URL: <https://www.justcoglobal.com/> 
+URL: [https://www.justcoglobal.com/](https://www.justcoglobal.com/)
 
  
 
 ## MultiCo 
 
-URL: <https://www.multico.co/> 
+URL: [https://www.multico.co/](https://www.multico.co/) 
 
  
 
 ## Smart Space 
 
-URL: <https://smartspace.com.sg/> 
+URL: [https://smartspace.com.sg/](https://smartspace.com.sg/)
 
  
 
 ## The Great Room 
 
-URL: <https://thegreatroom.co/> 
+URL: [https://thegreatroom.co/>](https://thegreatroom.co/)
 
  
 
 ## The Hive 
 
-URL: <https://thehive.sg/> 
+URL: [https://thehive.sg/](https://thehive.sg/)
 
  
 
 ## The Working Capitol 
 
-URL: <https://theworkingcapitol.com/>  
+URL: [https://theworkingcapitol.com/](https://theworkingcapitol.com/)
 
  
 
 ## WeWork 
 
-URL: <https://www.wework.com/l/office-space/singapore> 
+URL: [https://www.wework.com/l/office-space/singapore>](https://www.wework.com/l/office-space/singapore)
 
  
 
 **Compiled by:** 
 
-Sharon Teng, Librarian, National Library Singapore  
+Sharon Teng, Librarian, National Library Singapore

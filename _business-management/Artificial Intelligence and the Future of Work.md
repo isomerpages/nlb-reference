@@ -2,8 +2,8 @@
 title: Artificial Intelligence and the Future of Work
 permalink: /guides/business/management/artificial-intelligence/
 description: Artificial Intelligence and the Future of Work
+variant: markdown
 ---
-
 ## Artificial Intelligence and the Future of Work
 
 Artificial intelligence (AI) is one of the most significant technologies today. In general, the field of AI seeks to create machines with human-like characteristics.
@@ -23,7 +23,7 @@ From automation to augmentation and beyond, AI is changing how business gets don
 
 Will AI result in an underclass of people who become unemployable because computers are doing their jobs? Experts opine that it is unlikely that AI will lead to mass unemployment. Like all previous labour-saving technologies, AI will enable new industries to form, creating more new jobs than are lost to the technology.
 
-For the foreseeable future, AI will not lead to computers replacing people, but people and computers working together to perform cognitive and physical tasks that could not be done before. 
+For the foreseeable future, AI will not lead to computers replacing people, but people and computers working together to perform cognitive and physical tasks that could not be done before.&nbsp;
 
 #### How Will Work Change with AI?
 
@@ -45,7 +45,7 @@ AI is used as a tool to complement the capabilities of a human worker. AI system
 
 1. Malone, Thomas, Daniela Rus, and Robert Laubacher. Artificial Intelligence and the Future of Work. MIT Work of the Future, December 17, 2020. [https://workofthefuture.mit.edu/document/2020-research-brief-malone-rus-laubacher-2/](https://workofthefuture.mit.edu/document/2020-research-brief-malone-rus-laubacher-2/)
 
-2. Miller, Steven Mark, and Tom Davenport. AI and the Future of Work: What We Know Today. Gradient (Research Collection School of Computing and Information Systems), December, 2021. [https://ink.library.smu.edu.sg/sis\_research/6657](https://ink.library.smu.edu.sg/sis\_research/6657)
+2. Miller, Steven Mark, and Tom Davenport. AI and the Future of Work: What We Know Today. Gradient (Research Collection School of Computing and Information Systems), December 2021. [https://ink.library.smu.edu.sg/sis_research/6657/](https://ink.library.smu.edu.sg/sis_research/6657/)
 
 3. Rao, Anand, Flavio Palaci, and Wilson Chow. This is What the World's CEOs Really Think of AI. World Economic Forum, June 25, 2019. [https://www.weforum.org/agenda/2019/06/ai-will-shape-our-future-how-do-we-ensure-it-is-used-responsibly](https://www.weforum.org/agenda/2019/06/ai-will-shape-our-future-how-do-we-ensure-it-is-used-responsibly)
 
@@ -95,7 +95,7 @@ Shah, Hetan. “Shaping Artificial Intelligence for Your Future Business Needs�
 
 <b><font style="color:#4372d6;"> Artificial Intelligence and the Future of Work: A Proactive Strategy </font></b><br> Advances in artificial intelligence (AI) and related tools have huge potential for driving productivity and will have major effects on the quality and quantity of work in the future. This paper discusses how to harness the use of AI in constructive ways and mitigate the negative effects it will have on jobs. AI can be developed in ways that augment human workers; and it will displace some numbers of workers. The author outlines a strategy for addressing these issues.
 
-Kochan, Thomas. Artificial Intelligence and the Future of Work: A Proactive Strategy. _AI Magazine_ 42, no. 1 (2022). [https://ojs.aaai.org/index.php/aimagazine/article/view/7387/14947](https://ojs.aaai.org/index.php/aimagazine/article/view/7387/14947)
+Kochan, Thomas. Artificial Intelligence and the Future of Work: A Proactive Strategy. _AI Magazine_&nbsp;42, no. 1 (2022). [https://ojs.aaai.org/index.php/aimagazine/article/view/7387/14947](https://ojs.aaai.org/index.php/aimagazine/article/view/7387/14947)
 
 <b><font style="color:#4372d6;"> Artificial Intelligence and the Future of Work: A Functional-Identity Perspective </font></b><br> This paper examines the impact of the use of artificial intelligence (AI) on workers’ experiences. Although AI can benefit workers, it can also cause psychological harm such as degrading work quality. As the adoption and capabilities of AI expand, workers, organisations, and broader society must manage these changes so that workers can grow and develop toward meaningful work selves.
 

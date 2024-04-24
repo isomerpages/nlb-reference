@@ -3,6 +3,7 @@ title: SecretLab
 permalink: /launch/stories/secretlab/
 description: ""
 third_nav_title: Success Stories
+variant: markdown
 ---
 # Company profile – Secretlab 
 
@@ -70,7 +71,7 @@ Ang’s favourite books include Rolf Dobelli’s [*The Art of Thinking Clearly*]
 
 Chan, Lyn. (2021, September 22). "Secretlab shows no sign of abating in its quest to make the perfect gaming chair". [https://sg.finance.yahoo.com/news/secretlab-shows-no-sign-of-abating-in-its-quest-to-make-the-perfect-gaming-chair-032623159.html](https://sg.finance.yahoo.com/news/secretlab-shows-no-sign-of-abating-in-its-quest-to-make-the-perfect-gaming-chair-032623159.html)  
 
-CNA. (2020, November 9). "Secretlab CEO named Singapore's EY Entrepreneur of the Year". [https://www.channelnewsasia.com/singapore/secretlab-ian-ang-overall-ey-entrepreneur-of-the-year-chair-534131](https://www.channelnewsasia.com/singapore/secretlab-ian-ang-overall-ey-entrepreneur-of-the-year-chair-534131) 
+Ng, Charmaine. (2020, November 9). "Secretlab co-founder Ian Ang named Singapore's Entrepreneur of the Year. [https://www.straitstimes.com/business/secretlab-co-founder-ian-ang-named-singapores-entrepreneur-of-the-year](https://www.straitstimes.com/business/secretlab-co-founder-ian-ang-named-singapores-entrepreneur-of-the-year) 
 
 Leong, Charmian. (2020, February 14). "Next Gen: Ian Ang of Secretlab on rapid rise to success, even beyond gaming sphere". [https://www.thepeakmagazine.com.sg/interviews/next-gen-ian-ang-of-secretlab-on-rapid-rise-to-success-even-beyond-gaming-sphere/](https://www.thepeakmagazine.com.sg/interviews/next-gen-ian-ang-of-secretlab-on-rapid-rise-to-success-even-beyond-gaming-sphere/)  
 
@@ -84,7 +85,7 @@ Sregantan, Nvain. (2018, March 28). "24 in Singapore make it to Forbes 30 Under 
 
 Tang, See Kit. (2021, August 31). "Secretlab to hire more than 100 employees in Singapore following ‘massive growth’". [https://www.channelnewsasia.com/singapore/secretlab-hiring-jobs-massive-growth-headquarters-gaming-chair-2147501](https://www.channelnewsasia.com/singapore/secretlab-hiring-jobs-massive-growth-headquarters-gaming-chair-2147501)  
 
-Tee, Karen. (2021, August 7). "Secretlab co-founders Ian Ang and Alaric Choo on the meteoric rise of their gaming chair company". [https://www.tatlerasia.com/power-purpose/business/secretlab-co-founders-ian-ang-and-alaric-choo-interview](https://www.tatlerasia.com/power-purpose/business/secretlab-co-founders-ian-ang-and-alaric-choo-interview)  
+Tee, Karen. (2021, August 7). "Secretlab co-founders Ian Ang and Alaric Choo on the meteoric rise of their gaming chair company". [https://www.tatlerasia.com/gen-t/leadership/secretlab-co-founders-ian-ang-and-alaric-choo-gaming-chair-company](https://www.tatlerasia.com/gen-t/leadership/secretlab-co-founders-ian-ang-and-alaric-choo-gaming-chair-company)  
 
 The Edge Singapore. (2020, November 16). "Secretlab CEO becomes youngest ever EY Entrepreneur of the Year".  [https://www.pressreader.com/singapore/the-edge-singapore/20201116/281822876334333](https://www.pressreader.com/singapore/the-edge-singapore/20201116/281822876334333)  
 

@@ -89,16 +89,6 @@ McCrum examines how English has become the dominant lingua franca in the world t
 This interactive flash timeline application presents the historical evolution of the English language in a fun and attractive manner, as it fleshes out major events that impacted the development of the language.
 
 
-* British Library Board. (n.d.). English timeline. Retrieved March 14, 2017, from British Library website: [http://www.bl.uk/learning/langlit/changlang/across/languagetimeline.html](http://www.bl.uk/learning/langlit/changlang/across/languagetimeline.html)
-
-This interactive timeline informs visitors of important chapters in the history of the English language, with examples of words that originated from the different time periods.
-
-
-* British Library Board. (n.d.). Language and the written word. Retrieved March 14, 2017, from British Library website: [http://www.bl.uk/learning/langlit/changlang/writtenword/writtenwordtimeline.html](http://www.bl.uk/learning/langlit/changlang/writtenword/writtenwordtimeline.html)
-
-This webpage enables visitors to view sample texts from the Old, Middle and Modern English eras.
-
-
 * Harper, D. (2017). Online etymology dictionary. Retrieved March 14, 2017, from Etymonline website: [http://www.etymonline.com/](http://www.etymonline.com/)
 
 This website houses a database of English etymology, which is the study of a word’s history and its evolution. Users can search for specific words to learn about their origins, historical usage, and related words.

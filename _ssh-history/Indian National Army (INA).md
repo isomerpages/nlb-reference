@@ -3,10 +3,8 @@ title: Indian National Army (INA)
 permalink: /guides/socscihum/history/indian-national-army/
 breadcrumb: Indian National Army (INA)
 collection_name: social-sciences-humanities-history
+variant: markdown
 ---
-
-
-
 ### <u>Guide Index</u>
 
 * [Introduction](#introduction)
@@ -33,7 +31,7 @@ This resource guide lists some resources on the Indian National Army (INA) and p
 (listed in alphabetical order)
 
 
-* Anand, Y. P. (1997). [The essential relationship between Netaji Subhas Bose & Mahatma Gandhi: The supreme martyrs in India’s freedom struggle](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12798516). New Delhi: National Gandhi Museum. <br>
+* Anand, Y. P. (1997). [The essential relationship between Netaji Subhas Bose &amp; Mahatma Gandhi: The supreme martyrs in India’s freedom struggle](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12798516). New Delhi: National Gandhi Museum. <br>
 Call no.: R 954.045 ANA
 
 This book contributes to the understanding and appreciation of the relationship between these two mighty pillars of India’s freedom movement.
@@ -45,7 +43,7 @@ Call no.: RSING 954.035 AYE
 Ayer presents a concise, faithful and lucid account of Indian independence movement in East Asia and a glimpse of one of the most glorious chapters in the history of India’s struggle for freedom.
 
 
-* Bayly, C. A. & Harper, T. N. (2005). [Forgotten armies: The fall of British Asia, 1941-1945](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12752274). Cambridge, Mass.: Belknap Press of Harvard University Press. <br>
+* Bayly, C. A. &amp; Harper, T. N. (2005). [Forgotten armies: The fall of British Asia, 1941-1945](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12752274). Cambridge, Mass.: Belknap Press of Harvard University Press. <br>
 Call no.: RSEA 940.5425 BAY \[WAR\]
 
 The book presents a fascinating account of how individual lives and social relations changed from the heyday of the British raj to the rise and fall of Japan’s Asian empire.
@@ -57,7 +55,7 @@ Call no.: RSING 940.5354 BHA -\[WAR\]
 The book focuses attention on the Tokyo Cadets and their trials and tribulations before and after the end of the War.
 
 
-* Bhargava, M. L. & Gill, A. S. (1988). [Indian National Army secret service](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5131090). New Delhi: Reliance Pub. House. <br>
+* Bhargava, M. L. &amp; Gill, A. S. (1988). [Indian National Army secret service](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5131090). New Delhi: Reliance Pub. House. <br>
 Call no.: RSING 940.548654 BHA -\[WAR\]
 
 Presents reference to the activities of the Indian National Army during the World War, 1939-1945, and the subsequent trials.
@@ -81,13 +79,13 @@ Call no.: RSING 954.035092 BOS
 This volume 12 of Netaji’s Collected Works bring together all his speeches and writings as a leader of the Azad Hind movement from June 1943 to August 1945. His stirring speeches in Singapore, Malaya and Burma electrified massive audiences of civilians and soldiers, united Indians of all religions, and inspired them to join the march towards Delhi.
 
 
-* Bose, S. K. & Sinha, B. N. (Eds.). (1979). [Netaji: A pictorial biography](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=1896737). Calcutta: Ananda. <br>
+* Bose, S. K. &amp; Sinha, B. N. (Eds.). (1979). [Netaji: A pictorial biography](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=1896737). Calcutta: Ananda. <br>
 Call no.: R 954.0350924 NET
 
 Presents of nearly one thousand pictures supported by contemporary documentary material tell the story of India’s greatest revolutionary since 1857 and the only soldier-statesman of world class born in this subcontinent in contemporary times.
 
 
-* Chakrabarti, R. (Ed.). (1997). [Netaji & India’s freedom: A centenary tribute](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10411485). Calcutta: Netaji Institute for Asian Studies. <br>
+* Chakrabarti, R. (Ed.). (1997). [Netaji &amp; India’s freedom: A centenary tribute](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10411485). Calcutta: Netaji Institute for Asian Studies. <br>
 Call no.: R 954.035 NET
 
 Present articles on Subhas Chandra Bose, 1897-1945, Indian freedom fighter and statesman.
@@ -99,7 +97,7 @@ Call no.: R 954.035 IND
 Based on legitimate oral and written sources, the book takes readers on an enthralling journey down a country’s path to complete freedom. The timeless tale of the Revolt of 1857 that was stirred up by Mangal Pandey and Rani Lakshmi Bai, Subash Chandra Bose’s aggressive tactics and charisma, Gandhi’s non-cooperation and civil disobedience movements, and the final moments of the British Raj all come alive through the course of this book in vivid detail.
 
 
-* Gupta, V. P. & Gupta, M. (1998). [The quest for freedom: A study of Netaji Subhas Chandra Bose](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10411491). New Delhi: Radha. <br>
+* Gupta, V. P. &amp; Gupta, M. (1998). [The quest for freedom: A study of Netaji Subhas Chandra Bose](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10411491). New Delhi: Radha. <br>
 Call no.: R 954.0359092 GUP
 
 A thrilling account of Netaji”s life and time, his struggles and achievements, analysed against the backdrop of national and international events and developments. Also includes a comparative study of the role and ideas of Mahatma Gandhi and Netaji, in the context of India’s freedom struggle.
@@ -129,13 +127,13 @@ Call no.: RSING 954.035 NET
 This is an account of the most controversial aspect of the remarkable career of Subhas Chandra Bose. It tells story of the founding and flowering of the Indian Independence League and the Indian National Army.
 
 
-* Ram, S. & Kumar, R. (2008). [Role of I.N.A. and Indian Navy](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13188283). New Delhi: Commonwealth Publishers. <br>
+* Ram, S. &amp; Kumar, R. (2008). [Role of I.N.A. and Indian Navy](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13188283). New Delhi: Commonwealth Publishers. <br>
 Call no.: R 954.035 RAM
 
 The book covers Subhas Bose’s role in strengthening the role of INA, INA and freedom struggle, trial of Sehgal, Dhillon and Shah Nawaz, evidence before the court-martial, re-examination of Advocate-General, objection of defence, evidence of Japanese officials, Nehru’s views of the INA and role of armed forces and national freedom.
 
 
-* Ramu, P. S. (1998). [Rash Behari Bose: A revolutionary “unwept, unhonoured & unsung”](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9355138). New Delhi: Freedom Movement Memorial Committee. <br>
+* Ramu, P. S. (1998). [Rash Behari Bose: A revolutionary “unwept, unhonoured &amp; unsung”](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9355138). New Delhi: Freedom Movement Memorial Committee. <br>
 Call no.: R 954.035 RAM
 
 This book makes an attempt to portray the personality of Rash Behari Bose on the background of the various events he was connected with and to reiterate the sacrifices this great revolutionary made for the sake of India.
@@ -177,7 +175,7 @@ Call no.: RSING 355.30954 SIN
 This paper attempts to locate and assess the sources of India’s land warfare doctrines and capabilities.
 
 
-* Takeshi, N. (2009). [Bose of Nakamuraya: An Indian revolutionary in Japan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13221270). New Delhi: Promilla & Co., Publishers, in association with Bibliophile South Asia. <br>
+* Takeshi, N. (2009). [Bose of Nakamuraya: An Indian revolutionary in Japan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13221270). New Delhi: Promilla &amp; Co., Publishers, in association with Bibliophile South Asia. <br>
 Call no.: R 954.035092 TAK
 
 Takeshi tells about Rash Bihari Bose, a revolutionary leader fighting the British in India. It presents Japan’s policy towards Asia, particularly in China, Korea, South East Asia and India between 1920 and 1945.
@@ -216,12 +214,7 @@ Indian National Army Monument. (2013). In Singapore in World War II: A Heritage 
 Explains about the Indian National Army Monument which was built at the Esplanade in August 1945 and dedicated to the “unknown warrior” of the INA and to the INA members who were killed in fighting in Burma.
 
 
-National Archives of Singapore. (2003). Historical journey of the Indian National Army. Retrieved April 11, 2016, from the National Archives of Singapore website: [http://www.nas.gov.sg/archivesonline/online_exhibit/indian_national_army/index.htm](http://www.nas.gov.sg/archivesonline/online_exhibit/indian_national_army/index.htm)
-
-The website provides historical journey and timeline of Indian National Army.
-
-
-National Library Board. (2007). Subhas Chandra Bose written by Wong, Heng & Ong, Eng Chuan. Retrieved April 11, 2016, from Singapore Infopedia.
+National Library Board. (2007). Subhas Chandra Bose written by Wong, Heng &amp; Ong, Eng Chuan. Retrieved April 11, 2016, from Singapore Infopedia.
 The website provides biography of Subhas Chandra Bose, an Indian politician who fight for India’s independence from British rule.
 
 

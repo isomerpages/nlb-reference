@@ -4,6 +4,7 @@ permalink: /launch/getting-started/research/primary-vs-secondary-research/
 description: "There are two main ways to collect data: primary research (or
   field research) and secondary research (or desk research)."
 third_nav_title: Business & Market Research
+variant: markdown
 ---
 # Primary vs secondary market research 
 
@@ -43,7 +44,7 @@ Combining both primary and secondary research will provide a more holistic insig
 
 ## References 
 
-Business & IP Centre, British Library. “Primary Market Research vs Secondary Market Research”. Accessed September 29, 2021. [https://www.bl.uk/business-and-ip-centre/articles/primary-market-research-vs-secondary-market-research#](https://www.bl.uk/business-and-ip-centre/articles/primary-market-research-vs-secondary-market-research) 
+Business & IP Centre, British Library. “Primary Market Research vs Secondary Market Research”. Accessed September 29, 2021. https://www.bl.uk/business-and-ip-centre/articles/primary-market-research-vs-secondary-market-research
 
 Business Queensland. “Market Research Methods”. Last updated May 24, 2021. [https://www.business.qld.gov.au/starting-business/planning/market-customer-research/market-research/methods](https://www.business.qld.gov.au/starting-business/planning/market-customer-research/market-research/methods) 
 

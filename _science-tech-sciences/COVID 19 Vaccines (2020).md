@@ -2,15 +2,15 @@
 title: COVID 19 Vaccines (2020)
 permalink: /guides/sci-tech/sciences/covid-19-vaccines/
 description: ""
+variant: markdown
 ---
-
 This resource guide was created as part of a learning package on Pandemics. For other related resource guides, please head to this directory of [Learning Packages](/guides/learning-packages-directory).
 
 # COVID-19 Vaccines
 
 <table style="background-color:#ffe6e6; border:0;">
-<tr><td>This learning package was created in 2020 and the information was up-to-date at the point of publication. Please check <a href="https://www.gov.sg/features/covid-19" target="_blank">https://www.gov.sg/features/covid-19</a> for the latest updates on the COVID-19 situation in Singapore.</td></tr>
-</table>
+<tbody><tr><td>This learning package was created in 2020 and the information was up-to-date at the point of publication. Please check <a href="https://www.gov.sg/features/covid-19" target="_blank">https://www.gov.sg/features/covid-19</a> for the latest updates on the COVID-19 situation in Singapore.</td></tr>
+</tbody></table>
 
 <img src="/images/sci-tech/P9-covid-19-vaccines.jpg" alt="article image">
 
@@ -43,7 +43,7 @@ Medical professionals advise that mask-wearing, social distancing measures and g
 
 To find out more about COVID-19 vaccines and vaccination, check out the resources below. 
 
-[^1]: Zhu, H., Wei, L. & Niu, P. (2020, March 2). The novel coronavirus outbreak in Wuhan, China. Global Health Research and Policy, 5(6). Retrieved 2021, January 14, from https://ghrp.biomedcentral.com/articles/10.1186/s41256-020-00135-6#citeas; Ledford, H., Cyranoski, D. & Van Noorden, R. (2020, December 3). The UK has approved a COVID vaccine − here’s what scientists now want to know. *Nature*. Retrieved 2021, January 14, from https://www.nature.com/articles/d41586-020-03441-8 
+[^1]: Zhu, H., Wei, L. &amp; Niu, P. (2020, March 2). The novel coronavirus outbreak in Wuhan, China. Global Health Research and Policy, 5(6). Retrieved 2021, January 14, from https://ghrp.biomedcentral.com/articles/10.1186/s41256-020-00135-6#citeas; Ledford, H., Cyranoski, D. &amp; Van Noorden, R. (2020, December 3). The UK has approved a COVID vaccine − here’s what scientists now want to know. *Nature*. Retrieved 2021, January 14, from https://www.nature.com/articles/d41586-020-03441-8 
 
 [^2]: COVID-19 vaccines. (2021, January). World Health Organisation. Retrieved 2021, January 24, from https://www.who.int/emergencies/diseases/novel-coronavirus-2019/covid-19-vaccines
 
@@ -57,7 +57,7 @@ To find out more about COVID-19 vaccines and vaccination, check out the resource
 
 [^7]: Government accepts recommendations of expert committee on COVID-19 vaccination. (2020, December 27). *Ministry of Health*. Retrieved 2021, January 18, from https://www.moh.gov.sg/news-highlights/details/government-accepts-recommendations-of-expert-committee-on-covid-19-vaccination
 
-[^8]: COVID-19 vaccine doses administered. (2021, January 21). *Our World in Data*. Retrieved 2021, January 22, from https://ourworldindata.org/grapher/cumulative-covid-vaccinations?tab=chart&yScale=log&stackMode=absolute&region=World
+[^8]: COVID-19 vaccine doses administered. (2021, January 21). *Our World in Data*. Retrieved 2021, January 22, from https://ourworldindata.org/grapher/cumulative-covid-vaccinations?tab=chart&amp;yScale=log&amp;stackMode=absolute®ion=World
 
 [^9]: Kupferschmidt, K. (2021, January 15). New coronavirus variants could cause more reinfections, require updated vaccines. *American Association for the Advancement of Science*. Retrieved 2021, January 18, from https://www.sciencemag.org/news/2021/01/new-coronavirus-variants-could-cause-more-reinfections-require-updated-vaccines; Khalik, S. (2021, January 18). Experts in Singapore divided on effect of new Covid-19 strains in virus fight. *The Straits Times*. Retrieved 2021, January 18, from https://www.straitstimes.com/singapore/experts-divided-on-effect-of-new-strains-on-effort-to-curb-virus
 
@@ -67,40 +67,37 @@ To find out more about COVID-19 vaccines and vaccination, check out the resource
 
 <h4>Videos and Podcasts</h4>
 <h5>1. How vaccines work against COVID-19: Science, simplified</h5>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/uWGTciX795o" title="How vaccines work against COVID-19" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/uWGTciX795o" title="How vaccines work against COVID-19" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 Source: <a href="https://www.youtube.com/embed/uWGTciX795oo" target="_blank">How vaccines work against COVID-19: Science, simplified.</a> (2020, December 18). <i>Scripps Research</i>. Retrieved 2021, January 18.
 
 <h5>2. COVID-19 vaccines and herd immunity</h5>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/SkpIaeQtbGA" title="COVID-19 vaccines and herd immunity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/SkpIaeQtbGA" title="COVID-19 vaccines and herd immunity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 Source: <a href="https://www.youtube.com/embed/SkpIaeQtbGAI" target="_blank">COVID-19 vaccines and herd immunity.</a> (2020, December 17). <i>JAMA Network</i>. Retrieved 2021, January 20.
 
-<h5>3. Mayo Clinic Q&A podcast: Expert updates on the COVID-19 vaccine</h5>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/85YFu4soIk0" title="Mayo Clinic Q&A podcast: Expert updates on the COVID-19 vaccine" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/embed/85YFu4soIk0" target="_blank">Mayo Clinic Q&A podcast: Expert updates on the COVID-19 vaccine.</a> (2021, January 13). <i>Mayo Clinic</i>. Retrieved 2021, January 18.
+<h5>3. Mayo Clinic Q&amp;A podcast: Expert updates on the COVID-19 vaccine</h5>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/85YFu4soIk0" title="Mayo Clinic Q&amp;A podcast: Expert updates on the COVID-19 vaccine" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+Source: <a href="https://www.youtube.com/embed/85YFu4soIk0" target="_blank">Mayo Clinic Q&amp;A podcast: Expert updates on the COVID-19 vaccine.</a> (2021, January 13). <i>Mayo Clinic</i>. Retrieved 2021, January 18.
 
 <h5>4. Why are people hesitant to trust a COVID-19 vaccine?</h5>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/BJ2rT7h70QM" title="Why are people hesitant to trust a COVID-19 vaccine?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/BJ2rT7h70QM" title="Why are people hesitant to trust a COVID-19 vaccine?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 Source: <a href="https://www.youtube.com/embed/BJ2rT7h70Q" target="_blank">Why are people hesitant to trust a COVID-19 vaccine?</a> (2020, December 11). <i>ABC News</i>. Retrieved 2021, January 18.
 
 <h5>5. Covid-19: Why vaccine mistrust is growing - The Economist</h5>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/3EK4VRmG3yM" title="Why vaccine mistrust is growing - The Economist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/3EK4VRmG3yM" title="Why vaccine mistrust is growing - The Economist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 Source: <a href="https://www.youtube.com/embed/3EK4VRmG3yM" target="_blank">Covid-19: Why vaccine mistrust is growing - The Economist</a> (2020, November 18). <i>The Economist</i>. Retrieved 2021, January 19.
 
 <h5>6. <a href="https://sph.umich.edu/podcast/coronavirus/debunking-misinformation-about-covid-19.html" target="_blank">Debunking misinformation about COVID-19</a></h5>
 Debunking misinformation about COVID-19. (2020, November 13). <i>University of Michigan School of Public Health</i>. Retrieved 2021, January 19.
 
-<h5>7. <a href="https://www.channelnewsasia.com/news/podcasts/heart-of-the-matter/covid-19-vaccines-rolled-out-at-warp-speed-safety-side-effects-13909632" target="_blank">COVID-19 vaccines rolled out at warp speed – safety, side effects and the big logistical challenges</a></h5>
-COVID-19 vaccines rolled out at warp speed – safety, side effects and the big logistical challenges. (2021, January 7). <i>Channel News Asia</i>. Retrieved 2021, January 19.
+<h5>7. <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/media-resources/science-in-5/episode-20---covid-19---variants-vaccines" target="_blank">Episode #20 - COVID-19 - Variants &amp; Vaccines. (2021, January 8). World Health Organisation</a></h5>
+Episode #20 - COVID-19 - Variants &amp; Vaccines. (2021, January 8). <i>World Health Organisation</i>. Retrieved 2021, January 19.
 
-<h5>8. <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/media-resources/science-in-5/episode-20---covid-19---variants-vaccines" target="_blank">Episode #20 - COVID-19 - Variants & Vaccines. (2021, January 8). World Health Organisation</a></h5>
-Episode #20 - COVID-19 - Variants & Vaccines. (2021, January 8). <i>World Health Organisation</i>. Retrieved 2021, January 19.
-
-<h5>9. Will Covid-19 Vaccine Passports Work?</h5>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/yIKWhp2_eyM" title="Will Covid-19 Vaccine Passports Work?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<h5>8. Will Covid-19 Vaccine Passports Work?</h5>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/yIKWhp2_eyM" title="Will Covid-19 Vaccine Passports Work?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 Source: <a href="https://www.youtube.com/embed/yIKWhp2_eyM" target="_blank">Will Covid-19 Vaccine Passports Work?</a> (2021, January 17). <i>CNBC</i>. Retrieved 2021, January 18.
 
-<h5>10. Singapore's 3 COVID-19 vaccines - and is one better than the others?</h5>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/KWmO8sTjuwU" title="Singapore's 3 COVID-19 vaccines - and is one better than the others?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<h5>9. Singapore's 3 COVID-19 vaccines - and is one better than the others?</h5>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/KWmO8sTjuwU" title="Singapore's 3 COVID-19 vaccines - and is one better than the others?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 Source: <a href="https://www.youtube.com/embed/KWmO8sTjuwU" target="_blank">Singapore's 3 COVID-19 vaccines - and is one better than the others?</a> (2021, January 8). <i>CNA Insider</i>. Retrieved 2021, January 21.
 
 
@@ -124,8 +121,8 @@ COVID-19 vaccine: Guidance from the Mayo Clinic. (2021). <i>Mayo Clinic</i>. Ret
 
 
 <h4>Journal articles</h4>
-<h5>1. <a href="https://science.sciencemag.org/content/368/6494/948/tab-pdf" target="_blank">A strategic approach to COVID-19 vaccine R&D</a></h5>
-Corey, L., Mascola, J. R., Fauci, A. S., & Collins, F. S. (2020, May 29). A strategic approach to COVID-19 vaccine R&D. <i>Science, 368</i> (6494), 948-950. Retrieved 2021, January 15.
+<h5>1. <a href="https://science.sciencemag.org/content/368/6494/948/tab-pdf" target="_blank">A strategic approach to COVID-19 vaccine R&amp;D</a></h5>
+Corey, L., Mascola, J. R., Fauci, A. S., &amp; Collins, F. S. (2020, May 29). A strategic approach to COVID-19 vaccine R&amp;D. <i>Science, 368</i> (6494), 948-950. Retrieved 2021, January 15.
 
 <h5>2. <a href="https://www.nature.com/articles/s41591-020-1124-9" target="_blank">A global survey of potential acceptance of a COVID-19 vaccine</a></h5>
 Lazarus, J. V. [et. al]. (2020, October). A global survey of potential acceptance of a COVID-19 vaccine. <i>Nature Medicine (2020)</i>. Retrieved 2021, January 15.
@@ -134,10 +131,10 @@ Lazarus, J. V. [et. al]. (2020, October). A global survey of potential acceptanc
 Wang, J. [et. al.]. (2020, August). The COVID-19 vaccine race: Challenges and opportunities in vaccine formulation. <i>AAPS PharmSciTech</i>, 21. Retrieved 2021, January 15.
 
 <h5>4. <a href="https://www.mdpi.com/2076-393X/8/4/739/htm" target="_blank">Efforts at COVID-19 vaccine development: Challenges and successes</a></h5>
-Haque, A., & Pant, A. B. (2020, December). Efforts at COVID-19 vaccine development: Challenges and successes. <i>Vaccines 2020, 8</i>(4), 739. Retrieved 2021, January 15.
+Haque, A., &amp; Pant, A. B. (2020, December). Efforts at COVID-19 vaccine development: Challenges and successes. <i>Vaccines 2020, 8</i>(4), 739. Retrieved 2021, January 15.
 
 <h5>5. <a href="http://eresources.nlb.gov.sg/main/browse/resource/1217/" target="_blank">Acceptance of a COVID-19 vaccine: A multifactorial consideration</a></h5>
-García, L. Y., & Cerda, A. A. (2020, November 10). Acceptance of a COVID-19 vaccine: A multifactorial consideration. <i>Vaccine, 38</i>(48). Retrieved 2021, January 15 from ProQuest Central via NLB’s <a href="http://eresources.nlb.gov.sg/main/browse/resource/1217/" target="_blank">eResources website.</a> (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this article.)
+García, L. Y., &amp; Cerda, A. A. (2020, November 10). Acceptance of a COVID-19 vaccine: A multifactorial consideration. <i>Vaccine, 38</i>(48). Retrieved 2021, January 15 from ProQuest Central via NLB’s <a href="http://eresources.nlb.gov.sg/main/browse/resource/1217/" target="_blank">eResources website.</a> (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this article.)
 
 
 
@@ -157,7 +154,7 @@ Vaksin Covid-19 akan diberi percuma kepada semua warga: PM Lee. (2020, December,
 
 All Singapore citizens and permanent residents will get free vaccination for Covid-19.
 
-<h5>4. <a href="https://berita.mediacorp.sg/mobilem/singapura/bekalan-pertama-vaksin-covid-19-tiba-di-s-pura-dari-belgium/4550910.html " target="_blank">Bekalan pertama vaksin COVID-19 tiba di S’pura dari Belgium</a></h5>
+<h5>4. <a href="https://berita.mediacorp.sg/mobilem/singapura/bekalan-pertama-vaksin-covid-19-tiba-di-s-pura-dari-belgium/4550910.html" target="_blank">Bekalan pertama vaksin COVID-19 tiba di S’pura dari Belgium</a></h5>
 Bekalan pertama vaksin COVID-19 tiba di S’pura dari Belgium. (2020, December 21). <i>Berita Mediacorp</i>. Retrieved 2021, January 15.
 
 A report on the first batch of the COVID-19 vaccine arriving in Singapore from Belgium.
@@ -173,9 +170,8 @@ COVID-19 நோய்க்கு எதிரான தடுப்புமர
 Issues related to developing COVID-19 vaccines such as bottlenecks in vaccine development, possible vaccine candidates, different vaccine strategies, safety evaluation issues, and vaccine production processes are explored here.
 
 
-<p style="font-size:10pt;"><b>Disclaimer/ Rights statement</b><br/>
-The information in this resource guide is valid as at January 2021 and correct as far as we are able to ascertain from our sources. It is not intended to be an exhaustive or complete history on the subject. Please contact the Library for further reading materials on the topic.<br/>
-All Rights Reserved. National Library Board Singapore 2021.<br/></p>
+<p style="font-size:10pt;"><b>Disclaimer/ Rights statement</b><br>
+The information in this resource guide is valid as at January 2021 and correct as far as we are able to ascertain from our sources. It is not intended to be an exhaustive or complete history on the subject. Please contact the Library for further reading materials on the topic.<br>
+All Rights Reserved. National Library Board Singapore 2021.<br></p>
 ---
 #### **References**
-

@@ -1,10 +1,11 @@
 ---
 title: What to know before venturing into Asia
 permalink: /launch/running-business/beyond-sg/need-to-know/
-description: "Asia is a vast continent made up of many countries, each with
-  their own unique characteristics, languages, cultures, histories, and
-  political and economic alliances.  "
+description: Asia is a vast continent made up of many countries, each with their
+  own unique characteristics, languages, cultures, histories, and political and
+  economic alliances.
 third_nav_title: Venturing Beyond Singapore
+variant: markdown
 ---
 ## Understanding Asian regions 
 
@@ -40,4 +41,4 @@ Giguere, Julie. “Top 5 Tips for Doing Business in Asia”. Published July 25, 
 
 Henderson, Andrew. “Doing Business in Asia: How to Save Face”. Last updated December 24, 2019. [https://nomadcapitalist.com/expat/save-face-asia/](https://nomadcapitalist.com/expat/save-face-asia/)  
 
-Robinson, Poppy. “Cultural Advice on Doing Business in Asia”. Accessed September 6, 2012. [https://www.braleino.co.uk/us/cultural-advice-on-doing-business-in-asia](https://www.braleino.co.uk/us/cultural-advice-on-doing-business-in-asia)
+Robinson, Poppy. “Cultural Advice on Doing Business in Asia”. Accessed September 6, 2012. [https://www.brayleino.co.uk/news/cultural-advice-on-doing-business-in-asia/](https://www.brayleino.co.uk/news/cultural-advice-on-doing-business-in-asia/)

@@ -3,6 +3,7 @@ title: Mind Stretcher
 permalink: /launch/stories/mind-stretcher/
 description: ""
 third_nav_title: Success Stories
+variant: markdown
 ---
 # Company Profile - Mind Stretcher 
 
@@ -70,44 +71,44 @@ Lim believes that what makes Mind Stretcher different from others in the market 
 
  
 
-Chia, Sue-Ann. (2014, November 20). "Growing Pains". <http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20141120-1.2.43.18>
+Chia, Sue-Ann. (2014, November 20). "Growing Pains". [http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20141120-1.2.43.18](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20141120-1.2.43.18)
 
  
 
-Chong, Claudia. (2017, January 24). "Head of the class with technology". <https://www.businesstimes.com.sg/singapore/smes/head-class-technology>
+Chong, Claudia. (2017, January 24). "Head of the class with technology". 
 
  
 
-Hio, Lester. (2014, November 3). "New book celebrates successes of unique heartland businesses". <https://www.straitstimes.com/singapore/new-book-celebrates-successes-of-unique-heartland-businesses>
+Hio, Lester. (2014, November 3). "New book celebrates successes of unique heartland businesses". 
 
  
 
-Jaya. "How this single mum of four became a super successful businesswoman in Singapore". Accessed April 27, 2022. <https://sg.theasianparent.com/single-mum-successful-businesswoman-in-singapore/>
+Jaya. "How this single mum of four became a super successful businesswoman in Singapore". Accessed April 27, 2022. 
 
  
 
-Life. (2017, March 27). "A class act". <https://www.mindstretcher.com/wp-content/uploads/2017/11/2.-article-a-class-act.pdf>
+Life. (2017, March 27). "A class act". [https://www.straitstimes.com/lifestyle/a-class-act](https://www.straitstimes.com/lifestyle/a-class-act)
 
  
 
-Linkedin. (2022). "Kristie Lim". <https://sg.linkedin.com/in/kristie-lim-61628740>
+Linkedin. (2022). "Kristie Lim". 
 
  
 
-Linkedin. (2022). "Moses Soh". <https://sg.linkedin.com/in/mosessoh>
+Linkedin. (2022). "Moses Soh". 
 
  
 
-Mind Stretcher Education Pte Ltd. (2019). "Our Story". <https://www.mindstretcher.com/about-us/our-story/>
+Mind Stretcher Education Pte Ltd. (2019). "Our Story". 
 
  
 
-Rasid, Hafiz. (2017, December). "Excellent results". <https://www.mindstretcher.com/wp-content/uploads/2017/12/Excellent-Results.pdf>
+Rasid, Hafiz. (2017, December). "Excellent results". 
 
  
 
-Singapore Press Holdings Ltd. Co. (2020). "Results of inaugural Singapore Heartland Enterprise Star Award announced". <http://www.sphl.com.sg/media_releases/2089>
+Hio, Lester. (2014, November 3). "New book celebrates successes of unique heartland businesses". [https://www.straitstimes.com/singapore/new-book-celebrates-successes-of-unique-heartland-businesses](https://www.straitstimes.com/singapore/new-book-celebrates-successes-of-unique-heartland-businesses)
 
  
 
-Soh, Moses. (2020, May 11). "My mum ran a bomb shelter tuition centre to raise 4 kids by herself. Here's what she taught me". <https://mothership.sg/2020/05/mother-reflection-president-scholar/>
+Soh, Moses. (2020, May 11). "My mum ran a bomb shelter tuition centre to raise 4 kids by herself. Here's what she taught me". [https://mothership.sg/2020/05/mother-reflection-president-scholar/](https://mothership.sg/2020/05/mother-reflection-president-scholar/)

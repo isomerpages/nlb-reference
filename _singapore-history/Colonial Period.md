@@ -173,10 +173,10 @@ Ai Lin, Chua. Modern Asian Studies, suppl. Everyday Technology in South and Sout
 
 A curation of articles from Off the Record and Singapore Policy History Project, giving insights into the various facets of Singapore history relating to the colonial period.
 
-LAW OF THE LAND: CONSTITUTIONAL DOCUMENTS
+[LAW OF THE LAND: CONSTITUTIONAL DOCUMENTS](https://corporate.nas.gov.sg/media/collections-and-research/lawoftheland)
 
 
-QUEEN ELIZABETH II’S CORONATION CELEBRATIONS, 1953
+[QUEEN ELIZABETH II’S CORONATION CELEBRATIONS, 1953](https://corporate.nas.gov.sg/media/collections-and-research/queenelizabethcoronation)
 
 
 [Food Supply During British Military Administration (September 1945 - MArch 1946)](https://www.nas.gov.sg/archivesonline/sphpcard18?catId=0)

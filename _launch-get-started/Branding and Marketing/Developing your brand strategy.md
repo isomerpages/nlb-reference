@@ -3,6 +3,7 @@ title: Developing your brand strategy
 permalink: /launch/getting-started/branding/develop-brand-strategy/
 description: ""
 third_nav_title: Branding and Marketing
+variant: markdown
 ---
 # Developing your brand strategy 
 
@@ -86,6 +87,6 @@ Giles, Ericka. “7 Types of Branding Strategies and How to Select One (+ Exampl
 
 Sellers, Tim. “How Brand Strategy Can Shape Your Corporate DNA”. Forbes. Posted October 26, 2020. [https://www.forbes.com/sites/forbesagencycouncil/2020/10/26/how-brand-strategy-can-shape-your-corporate-dna/](https://www.forbes.com/sites/forbesagencycouncil/2020/10/26/how-brand-strategy-can-shape-your-corporate-dna/) 
 
-IPOS International. “Building a Strong Brand”. Accessed September 24, 2021. [https://iposinternational.com/media/IPM-Business-Guides-15-Building-A-Strong-Brand.pdf](https://iposinternational.com/media/IPM-Business-Guides-15-Building-A-Strong-Brand.pdf) 
+IPOS International. “Building a Strong Brand”. Accessed September 24, 2021. [https://iposinternational.com/resources/business-guides/building-a-strong-brand_256](https://iposinternational.com/resources/business-guides/building-a-strong-brand_256) 
 
 Lehmann, Sascha, Nils Liedtke, Phyllis Rothschild and Eloy Trevino. “The Future of Brand Strategy: It’s Time to ‘Go Electric’”. Posted May 27, 2020. [https://www.mckinsey.com/business-functions/marketing-and-sales/our-insights/the-future-of-brand-strategy-its-time-to-go-electric](https://www.mckinsey.com/business-functions/marketing-and-sales/our-insights/the-future-of-brand-strategy-its-time-to-go-electric)

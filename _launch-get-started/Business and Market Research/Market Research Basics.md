@@ -1,12 +1,13 @@
 ---
 title: Market Research Basics
 permalink: /launch/getting-started/research/basics/
-description: "Market research is the process of determining the viability of a
+description: Market research is the process of determining the viability of a
   new product or service through research conducted directly with potential
   customers. It is a critical component in rolling out a new product or service,
   and enables a company to zero in on its target market and get the opinions and
-  feedback of consumers.  "
+  feedback of consumers.
 third_nav_title: Business & Market Research
+variant: markdown
 ---
 # Market Research Basics 
 
@@ -98,13 +99,12 @@ Industry and market research conducted by universities and polytechnics can be a
 ## References 
 
  
-
-Entrepreneur. (2021). “Market Research”. <https://www.entrepreneur.com/encyclopedia/market-research>
-
- 
-
-Twin, Alexandra. “Market Research”. Last updated 28 September 28, 2020. <https://www.investopedia.com/terms/m/market-research.asp> 
+Entrepreneur. (2021). “Market Research”. 
 
  
 
-British Library Business & IP Centre. “What is Market Research?”. Accessed June 22, 2021. <https://www.bl.uk/business-and-ip-centre/articles/what-is-market-research>
+Twin, Alexandra. “Market Research”. Last updated 28 September 28, 2020.  
+
+ 
+
+British Library Business &amp; IP Centre. “What is Market Research?”. Accessed June 22, 2021. https://www.bl.uk/business-and-ip-centre/articles/what-is-market-research

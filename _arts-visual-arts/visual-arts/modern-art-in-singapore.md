@@ -4,7 +4,8 @@ permalink: /guides/arts/visual-arts/modern-art-in-singapore/
 breadcrumb: Modern Art in Singapore
 collection_name: arts-visual-arts
 third_nav_title: Visual Arts
-published: true
+published: "true"
+variant: markdown
 ---
 ### <u>Guide Index</u>
 
@@ -46,14 +47,14 @@ This guide provides resources for those who are keen to know more about Modern A
 | **Search Terms** | **Call Number** |
 | The Arts | 700 |
 | The Arts: History, Biography | 709 |
-| Painting & Paintings | 750 |
+| Painting &amp; Paintings | 750 |
 | Paintings: History, Biography | 759 |
 
 
 ### <u>Books, Book Chapters, and Exhibition Catalogues</u>
 
 <table style="width:100%">
-    <tr>
+    <tbody><tr>
         <td style="width:30%">
             <b>Books</b>
         </td>
@@ -128,13 +129,13 @@ This guide provides resources for those who are keen to know more about Modern A
             <img style="width:150px" src="/images/arts/visualarts/modern-art-in-sg/Travels east.jpg">
         </td>
         <td>
-        Enterprise & Art Foundation, World Trade Center (Rotterdam) & Empress Plcae Museum (Singapore). (1990).  
+        Enterprise &amp; Art Foundation, World Trade Center (Rotterdam) &amp; Empress Plcae Museum (Singapore). (1990).  
 <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=6144266">
 Modern art travels East-West: Corporate collections from Singapore and the Netherlands—Rotterdam Beurs/World Trade Center, June 7-June 24 1990; Singapore, Empress Place Museum, August 10–August 26 1990</a>. Haarlem: Edition Brèoring-de Toorts.
 <br>Call no.: RSING 759.95957 MOD
 <br>
 <br>
-       Exhibition catalog for the 1990 Enterprise & Art Foundation-organized exhibition, entitled Modern Art Travels East-West, endorsed by the Singaporean and Dutch governments, wherein more than 100 modern artworks from each country were juxtaposed insofar as a comparative approach to global/local modernism(s) is facilitated. The mounted works in question are reproduced as full-colour plates here; the Singaporean section offered seminal works by key modern artists, such as Chen Wen Hsi’s Chinese-ink-inspired Gibbons II (c1970) and Ken Quek’s abstract geometric Kite (Series No. 13) (1987). Constance Sheare’s essay, “Modern Singaporean Painting: An Introduction” proves instructive in elaborating modern Singaporean art and can be read as a counterpoint and in connection to Liesbeth Hemelrijk’s “Modern Painting in the Netherlands: An Introduction.”  
+       Exhibition catalog for the 1990 Enterprise &amp; Art Foundation-organized exhibition, entitled Modern Art Travels East-West, endorsed by the Singaporean and Dutch governments, wherein more than 100 modern artworks from each country were juxtaposed insofar as a comparative approach to global/local modernism(s) is facilitated. The mounted works in question are reproduced as full-colour plates here; the Singaporean section offered seminal works by key modern artists, such as Chen Wen Hsi’s Chinese-ink-inspired Gibbons II (c1970) and Ken Quek’s abstract geometric Kite (Series No. 13) (1987). Constance Sheare’s essay, “Modern Singaporean Painting: An Introduction” proves instructive in elaborating modern Singaporean art and can be read as a counterpoint and in connection to Liesbeth Hemelrijk’s “Modern Painting in the Netherlands: An Introduction.”  
         </td>
     		 </tr>
 	 <tr>
@@ -182,7 +183,7 @@ Modern art travels East-West: Corporate collections from Singapore and the Nethe
         </td>
         <td>
        Kwok, K. C. (1996). 
-<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=7628104">Channels & confluences: A history of Singapore art</a>. Singapore: Singapore Art Museum, National Heritage Board.
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=7628104">Channels &amp; confluences: A history of Singapore art</a>. Singapore: Singapore Art Museum, National Heritage Board.
 <br>Call no.: RSING 709.5957 KWO
 <br>
 <br>
@@ -194,7 +195,7 @@ Modern art travels East-West: Corporate collections from Singapore and the Nethe
             <img style="width:150px" src="/images/arts/visualarts/modern-art-in-sg/The artists village.jpg">
         </td>
         <td>
-       Kwok, K. W. & Lee, W. (2009). 
+       Kwok, K. W. &amp; Lee, W. (2009). 
 <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13688137">The Artists Village: 20 years on</a>. Singapore: Singapore Arts Museum; Artists Village. 
 <br>Call no.: RSING 709.5957 ART
 <br>
@@ -207,7 +208,7 @@ Modern art travels East-West: Corporate collections from Singapore and the Nethe
             <img style="width:150px" src="/images/arts/visualarts/modern-art-in-sg/Selves.jpg">
         </td>
         <td>
-     Kwok, K. W., Mahizhnan, A. & Sasitharan, T. (2002). 
+     Kwok, K. W., Mahizhnan, A. &amp; Sasitharan, T. (2002). 
 <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=10798830">Selves: The state of the arts in Singapore</a>. Singapore: National Arts Council. 
 <br>Call no.: RSING q700.95957 SEL
 <br>
@@ -220,8 +221,8 @@ Modern art travels East-West: Corporate collections from Singapore and the Nethe
             <img style="width:150px" src="/images/arts/visualarts/modern-art-in-sg/Medium at large.jpg">
         </td>
         <td>
-        Lingham, S. & Toh, J. (Eds.) (2018). 
-<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203145755">Medium at large: Shapeshifting materials & methods in contemporary art</a>. Singapore: Singapore Art Museum.
+        Lingham, S. &amp; Toh, J. (Eds.) (2018). 
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203145755">Medium at large: Shapeshifting materials &amp; methods in contemporary art</a>. Singapore: Singapore Art Museum.
 <br>Call no.: RSING 709.05 MED
 <br>
 <br>
@@ -246,7 +247,7 @@ Modern art travels East-West: Corporate collections from Singapore and the Nethe
             <img style="width:150px" src="/images/arts/visualarts/modern-art-in-sg/Re-connecting.jpg">
         </td>
         <td>
-     Liu, K. & Ho, H. Y. (Authors). Sabapathy, T. K. & Cheo, C.-H. (Eds.). (2005). 
+     Liu, K. &amp; Ho, H. Y. (Authors). Sabapathy, T. K. &amp; Cheo, C.-H. (Eds.). (2005). 
 <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=12643378">Re-connecting: Selected writings on Singapore art and art criticism</a>. Singapore: Institute of Contemporary Arts Singapore.
 <br>Call no.: RSING 709.59570904 LIU
 <br>
@@ -273,7 +274,7 @@ Modern art travels East-West: Corporate collections from Singapore and the Nethe
             <img style="width:150px" src="/images/arts/visualarts/modern-art-in-sg/Contemporary art east meets west.jpg">
         </td>
         <td>
-       Ministry of Information and the Arts (Singapore), the National Museum (Singapore) & the Hunterian Art Gallery, University of Glasgow (the U.K.). (1989). 
+       Ministry of Information and the Arts (Singapore), the National Museum (Singapore) &amp; the Hunterian Art Gallery, University of Glasgow (the U.K.). (1989). 
 <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=6503448"> Contemporary art in Singapore: Where East meets West</a>. Singapore: National Museum. 
 <br>Call no.: RSING q709.595707441443 CON
 <br>
@@ -286,7 +287,7 @@ Modern art travels East-West: Corporate collections from Singapore and the Nethe
             <img style="width:150px" src="/images/arts/visualarts/modern-art-in-sg/Window.jpg">
         </td>
         <td>
-      National Arts Council & National Heritage Board (Authors). Goh, B. C. (Trans.). (1994). 
+      National Arts Council &amp; National Heritage Board (Authors). Goh, B. C. (Trans.). (1994). 
 <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=7031920">Window on Singapore art</a>. Singapore: Authors. 
 <br>Call no.: RSING 759.5957 WIN
 <br>
@@ -352,7 +353,7 @@ Modern art travels East-West: Corporate collections from Singapore and the Nethe
         </td>
         <td>
 Sabapathy, T. K. (2010). 
-<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13702715">Road to nowhere: The quick rise and long fall of art history in Singapore</a>.Singapore: National Art Gallery & National Institute of Education. 
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13702715">Road to nowhere: The quick rise and long fall of art history in Singapore</a>.Singapore: National Art Gallery &amp; National Institute of Education. 
 <br>Call no.:RSING 709.5957 SAB 
 <br>
 <br>
@@ -365,7 +366,7 @@ Sabapathy, T. K. (2010).
         </td>
         <td>
       Sabapathy, T.K. (2018). 
-<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203023192">Writing the modern: Selected texts on art & art history in Singapore and Southeast Asia, 1973-2015</a>. Singapore: Singapore Art Museum.
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203023192">Writing the modern: Selected texts on art &amp; art history in Singapore and Southeast Asia, 1973-2015</a>. Singapore: Singapore Art Museum.
 <br>Call no.: RSING 709.59 SAB
 <br>
 <br>
@@ -416,7 +417,7 @@ Sabapathy, T. K. (2010).
             <img style="width:150px" src="/images/arts/visualarts/modern-art-in-sg/Treasures.jpg">
         </td>
         <td>
-       Sheares, C. & Koay, S. (1987). Modern art. In Eng-Lee, S. C., et al, 
+       Sheares, C. &amp; Koay, S. (1987). Modern art. In Eng-Lee, S. C., et al, 
 <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4413295">Treasures from the National Museum Singapore</a>.  (pp. 236-239). Singapore: Author.
 <br>Call no.: RSING q708.95957 TRE – [SRN]
 <br>
@@ -476,7 +477,7 @@ Companion text to the inaugural 2006 edition of the Singapore Biennale. Artistic
      Exhibition catalog to the similarly-entitled exhibition by the Fukuoka Asian Art Museum (FAAM), which boasts one of the world’s most preeminent collection of Asian art. Full-colour reproductions of the showcased works, such as Koeh Sia Yong’s Indian Worker (1958), are included along with head curator Rawanchaikul Toshiko’s critical annotations and blurbs on each individual work, which locate these pieces within the Singaporean modern art canon. Toshiko’s essay, published bilingually in English and Japanese here, is an instructive essay that comprehensively explicates the history and trajectory of modern Singaporean art, including its representation of the ‘ethnic(ized) Other’ and engagements with social reality.
         </td>
     </tr>
-</table>
+</tbody></table>
 
 
 
@@ -574,7 +575,7 @@ Instructively charts the development of modern(ist) Singaporean art from the 193
 Charts the birth of modern art in Singapore with reference to the Nanyang Academy of Fine Arts (NAFA), which was a “vital rallying point for modernist art activity” in the region. Introduces key NAFA-affiliated individuals such as Georgette Chen and Chen Wen Hsi as well as their formal artistic practices and aesthetic idioms.
 
 
-* Sabapathy, T. K. (1980, October 4). [Art & artists](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19801004-1.2.143.12.aspx). The Straits Times, p. 6. Retrieved from NewspaperSG.
+* Sabapathy, T. K. (1980, October 4). [Art &amp; artists](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19801004-1.2.143.12.aspx). The Straits Times, p. 6. Retrieved from NewspaperSG.
 
 Extensive feature on the genesis and development of the Nanyang Academy of Fine Arts (NAFA), an institution central in informing and determining the historical trajectory of modern Singaporean art at large. Among other things, Sabapathy discusses the Nanyang Style as well as NAFA’s integration of the School of Paris and Chinese art traditions.
 
@@ -654,18 +655,15 @@ A Southeast Asian art online guide based in Singapore that, in its own words, as
 
 Over 6,000 artworks and 8,000 archival materials made available online in this search portal. It integrates the gallery’s databases of physical collection of books and reference materials, the Artwork Collection Database and Digital Archives Collection. It includes travel photographs by artist Chen Chong Swee and photographic documentation of Amanda Heng’s works.
 
-* Oral History Project. (n.d.). Oral History Project. Retrieved August 2, 2021, from the Oral History Project website: [https://oralhistoryproject.sg/](https://oralhistoryproject.sg/)
+* The National Archives of Singapore. (n.d.). Oral History Interviews. Retrieved April 17, 2024, from the National Archives of Singapore website: [https://www.nas.gov.sg/archivesonline/oral_history_interviews/](https://www.nas.gov.sg/archivesonline/oral_history_interviews/)
 
-A website dedicated to the collection and preservation of oral histories from individuals in the Singapore art scene. This includes artist Han Sai Por, art historian T. K. Sabapathy and arts administrator and curator, Constance Sheares. 
+The Oral History Centre is dedicated to the collection and preservation of oral histories from individuals in Singapore. This includes artist Han Sai Por, art historian T. K. Sabapathy and arts administrator and curator, Constance Sheares. 
 
 * The Postcolonial Web. (2002, June 18). The arts of Singapore. Retrieved August 2, 2021, from the Postcolonial Web website:
 [http://www.postcolonialweb.org/singapore/arts/artov.html](http://www.postcolonialweb.org/singapore/arts/artov.html)
 
 An instructive and highly navigable portal that provides overviews to arts and culture in Singapore, including different media such as fine art, photography, architecture, and the like. Several short articles undertake as their point of departure the modern while others scrutinize modernity as expressed and encoded locally.
 
-* Org. (n.d.). Singapore art. Retrieved August 2, 2021, from the SingaporeArt.Org website: [http://singaporeart.org/](http://singaporeart.org/)
-
-A comprehensive online research archive that aggregates information on the Singaporean visual and interdisciplinary arts scene, with links to the various galleries and personnel such as artists and curators.
 
 
 ### <u>Audio-visual Materials</u>
@@ -692,7 +690,7 @@ Interview with Singapore sculptor, Ng Eng Teng, on his artistic practice and inc
 
 <b><u>Accessing the Print Materials</u></b>
 
-You can search the library catalogue (for physical materials) in the library and from home <http://catalogue.nlb.gov.sg>. The easy search function allows you to search/browse by author, title, keyword, subject and ISBN/ISSN whereas the advanced search allows you to narrow your searches to specific media types or language holdings. In both instances, you will also be able to limit your search to specific libraries by clicking on the “limit by branch” option.
+You can search the library catalogue (for physical materials) in the library and from home . The easy search function allows you to search/browse by author, title, keyword, subject and ISBN/ISSN whereas the advanced search allows you to narrow your searches to specific media types or language holdings. In both instances, you will also be able to limit your search to specific libraries by clicking on the “limit by branch” option.
 
 **To search Lee Kong Chian Reference Library’s Holdings**
 

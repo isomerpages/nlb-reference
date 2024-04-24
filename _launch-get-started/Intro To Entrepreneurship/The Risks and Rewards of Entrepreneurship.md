@@ -1,14 +1,14 @@
 ---
 title: The Risks and Rewards of Entrepreneurship
 permalink: /launch/getting-started/entrepreneurship/risks-rewards/
-description: "Research shows that over 90 percent of start-ups fail and of the
+description: Research shows that over 90 percent of start-ups fail and of the
   surviving 10 percent, half will fold after five years. On the flip side of the
   coin, entrepreneurs enjoy the freedom of being their own boss, making their
   own rules and revelling in a sense of pride and fulfilment in seeing their
-  ideas come to fruition.  "
+  ideas come to fruition.
 third_nav_title: Intro To Entrepreneurship
+variant: markdown
 ---
-
 # The Risks and Rewards of Entrepreneurship 
 
 A start-up or entrepreneurial venture is usually formed to test and validate innovative ideas in the form of new technologies, products and services that are currently unavailable in the market. These experimental businesses challenge the established norm by venturing into unchartered territory. They, therefore, tend to encounter frequent road blocks in their early development stages.  
@@ -94,8 +94,6 @@ CBInsights. "The Top 12 Reasons Startups Fail". Published 3 August 2021, [https:
 Eisenmann, Tom. "Why Start-ups Fail". Harvard Business Review. Accessed 17 August 2022, [https://hbr.org/2021/05/why-start-ups-fail](https://hbr.org/2021/05/why-start-ups-fail)  
 
 Embroker. “A Guide to Startup Risks and How to Manage Them". Accessed 19 November 2021, [https://www.embroker.com/blog/startup-risks/](https://www.embroker.com/blog/startup-risks/)  
-
-Greater Birmingham and Solihull Local Enterprise Partnership. "5 Benefits of Entrepreneurship in the Economy". Published 12 October 2021, [https://www.gbslepgrowthhub.co.uk/news/5-benefits-of-entrepreneurship-in-the-economy](https://www.gbslepgrowthhub.co.uk/news/5-benefits-of-entrepreneurship-in-the-economy)  
 
 Indeed. "What are the Advantages of Entrepreneurship? Published 23 March 2021, [https://www.indeed.com/career-advice/finding-a-job/advantages-entrepreneurship](https://www.indeed.com/career-advice/finding-a-job/advantages-entrepreneurship)  
 

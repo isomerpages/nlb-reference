@@ -7,8 +7,8 @@ description: Hard skills such as experience, product knowledge and industry
   makes a team truly thrive. Knowledge, skills, passion and team diversity are
   equally important for the success of a start-up.
 third_nav_title: Launch & Stay on Course
+variant: markdown
 ---
-
 # Building a Successful Start-Up Team
 
 A common problem that causes new ventures to fail is due to a weak start-up team. Choosing the right co-founders or new employees is a critical step in creating a successful founding team. 
@@ -60,8 +60,8 @@ A stellar start-up team is likely to comprise people who fulfil the following ro
 
 ## References
 
-Horban, T. (2020, July 10). How to create a stellar startup team: An ultimate guide. Central European Universtiy iLab. Retrieved June 30, 2021, from <https://www.ilab.ceu.edu/articles/how-to-create-a-stellar-startup-team-an-ultimate-guide>
+360 Nautica. (2023, October 21). Assembling the Dream Team: How to Build a Stellar Startup Crew. Retrieved April 24, 2024, from [https://www.linkedin.com/pulse/assembling-dream-team-how-build-stellar-startup/](https://www.linkedin.com/pulse/assembling-dream-team-how-build-stellar-startup/)
 
-De Mol, E. (2019, March 21). What Makes a Successful Startup Team. Harvard Business Review. Retrieved June 30, 2021, from <https://hbr.org/2019/03/what-makes-a-successful-startup-team>
+De Mol, E. (2019, March 21). What Makes a Successful Startup Team. Harvard Business Review. Retrieved June 30, 2021, from [https://hbr.org/2019/03/what-makes-a-successful-startup-team](https://hbr.org/2019/03/what-makes-a-successful-startup-team)
 
-Katila, R., & Leatherbee, M. (2021, April 23). To make lean startups work, you need a balanced team. Harvard Business Review. Retrieved June 30, 2021, from <https://hbr.org/2021/04/to-make-lean-startups-work-you-need-a-balanced-team>
+Katila, R., & Leatherbee, M. (2021, April 23). To make lean startups work, you need a balanced team. Harvard Business Review. Retrieved June 30, 2021, from [https://hbr.org/2021/04/to-make-lean-startups-work-you-need-a-balanced-team](https://hbr.org/2021/04/to-make-lean-startups-work-you-need-a-balanced-team)

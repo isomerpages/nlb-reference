@@ -3,6 +3,7 @@ title: Grab
 permalink: /launch/stories/grab/
 description: ""
 third_nav_title: Success Stories
+variant: markdown
 ---
 # Company Profile - Grab 
 
@@ -44,4 +45,4 @@ Mercedes Ruehl, “Commentary: Anthony Tan, The ‘Unabashedly Ambitious’ Man 
 
 Ravi Velloor, “At 40, Grab Chief Executive Anthony Tan Has Miles to Go,” Straits Times, 3 April 2022. [https://www.straitstimes.com/business/invest/ingoodcompany-at-40-grab-chief-executive-anthony-tan-has-miles-to-go](https://www.straitstimes.com/business/invest/ingoodcompany-at-40-grab-chief-executive-anthony-tan-has-miles-to-go) 
 
-Joseph An, “Meet the Co-founder and Chief Executive of Grab: Mr Anthony Tan,” Asia ABC, 22 September 2021. [https://asiaabc.news/2021/09/22/meet-the-co-founder-and-chief-executive-of-grab-mr-anthony-tan/](https://asiaabc.news/2021/09/22/meet-the-co-founder-and-chief-executive-of-grab-mr-anthony-tan/)
+Joseph An, “Meet the Co-founder and Chief Executive of Grab: Mr Anthony Tan,” Asia ABC, 22 September 2021. [https://asiaabc.wordpress.com/2021/09/22/meet-the-co-founder-and-chief-executive-of-grab-mr-anthony-tan/](https://asiaabc.wordpress.com/2021/09/22/meet-the-co-founder-and-chief-executive-of-grab-mr-anthony-tan/)

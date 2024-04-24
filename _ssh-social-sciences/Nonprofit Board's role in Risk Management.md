@@ -3,10 +3,9 @@ title: Nonprofit Board's role in Risk Management
 permalink: /guides/socscihum/soc-sci/nonprofit-boards-risk/
 breadcrumb: Nonprofit Board's role in Risk Management
 collection_name: social-sciences-humanities-social-sciences
-published: true
+published: "true"
+variant: markdown
 ---
-
-
 ### <u>Guide Index</u>
 
 * [Introduction](#introduction)
@@ -42,14 +41,14 @@ Call no.: RBUS 658.15 COE
 This handbook for the financial management of nonprofit organisations presents best practices for reducing expenses, increasing revenues through cash management strategies and tips on analysing budget statements. Managing capital assets, funds investment and risk management are also covered.
 
 
-* Pakroo, P. (2015). [Starting & building a nonprofit: A practical guide](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202473938). Berkeley, CA: Nolo.
+* Pakroo, P. (2015). [Starting &amp; building a nonprofit: A practical guide](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202473938). Berkeley, CA: Nolo.
 
 Call no.: 658.048 PAK (Only available at selected Public Libraries)
 
 Read chapter 7 to find out how to manage your nonprofit’s risks, obtain suitable insurance and strategies for minimising risks. Other chapters in the book cover various aspects of starting a nonprofit from scratch, such as developing a strategic plan and budget, forming a board of directors, staff management and volunteer recruitment.
 
 
-* Rice, M., DiMeo, R. & Porter, M. (2012). [Nonprofit asset management: Effective investment strategies and oversight](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14490256). Hoboken, N.J.: Wiley.
+* Rice, M., DiMeo, R. &amp; Porter, M. (2012). [Nonprofit asset management: Effective investment strategies and oversight](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14490256). Hoboken, N.J.: Wiley.
 
 Call no.: RBUS 658.152 RIC
 
@@ -83,7 +82,7 @@ Tailored for nonprofit board members of all levels of experience, this is an exc
 
  
 
-* Ashley, S. & Faulk, L. (2014). Financial analysis for measuring and comparing risk in grantmaking portfolios. The Foundation Review, 6(3), 60–68. Retrieved February 14, 2017, from ProQuest Central.
+* Ashley, S. &amp; Faulk, L. (2014). Financial analysis for measuring and comparing risk in grantmaking portfolios. The Foundation Review, 6(3), 60–68. Retrieved February 14, 2017, from ProQuest Central.
 
 Risk management for nonprofits involves close scrutiny of the organisation’s finances and operations and exercising due diligence during grant application reviews. In this article, the authors introduce a financial-based index which can be used to evaluate philanthropic risk during the grant selection cycle and weigh the risks against the potential benefits that could be achieved.
 
@@ -119,7 +118,7 @@ The author advocates that nonprofits should use risk management principles to en
 This resource guide offers an overview of the effective board governance practices for nonprofit organisations, covering areas such as board roles and responsibilities, governance structures and board development. Chapter seven (pp. 27–34) discusses the roles and responsibilities of the board in relation to risk management, such as indemnification, insurance and financial and human resource management. A risk assessment checklist is also included.
 
 
-* Matan, R. & Hartnett, B. (2011, Summer). How nonprofit organisations manage risk. Retrieved February 14, 2017, from Sobel & Co. website: [http://www.sobel-cpa.com/sites/default/files/Summer%202011%20nfp%20white%20papers.pdf](http://www.sobel-cpa.com/sites/default/files/Summer%202011%20nfp%20white%20papers.pdf)
+* Matan, R. &amp; Hartnett, B. (2011, Summer). How nonprofit organisations manage risk. Retrieved February 14, 2017, from Sobel &amp; Co. website: [http://www.sobel-cpa.com/sites/default/files/Summer%202011%20nfp%20white%20papers.pdf](http://www.sobel-cpa.com/sites/default/files/Summer%202011%20nfp%20white%20papers.pdf)
 
 This white paper examines the type of risks faced by nonprofit organisations and suggests ways to effectively manage the risks against potential benefits.
 
@@ -128,15 +127,6 @@ This white paper examines the type of risks faced by nonprofit organisations and
 
 This report lays out recommendations for nonprofits to adapt private sector risk management practices to better defend their organisations against risks and financial uncertainties.
 
-
-* Spencer, K. & Hyman, V. (2012, September). Risk management: Your role as a board member. Retrieved February 14, 2017, from First Nonprofit Foundation website: [http://www.firstnonprofit.org/wp-content/uploads/2014/04/Your-Role-as-a-Board-Member.pdf](http://www.firstnonprofit.org/wp-content/uploads/2014/04/Your-Role-as-a-Board-Member.pdf)
-
-This briefing paper offers risk management strategies to guide new and seasoned members of non-profit boards to make informed decisions to balance risks against rewards to help nonprofits achieve their mission and to grow and succeed.
-
-
-* Young, D. (2009). How nonprofit organisations manage risk. In Destefanis, S. & Musella, M. (Eds.). Paid and unpaid labour in the social economy. AIEL Series in Labour Economics. Retrieved February 14, 2017, from Springer website: [http://www.springer.com/cda/content/document/cda_downloaddocument/9783790821369-c1.pdf?SGWID=0-0-45-722705-p173876675](http://www.springer.com/cda/content/document/cda_downloaddocument/9783790821369-c1.pdf?SGWID=0-0-45-722705-p173876675)
-
-This article offers a framework that can help nonprofit organisations to be more effective and strategic in their risk management decisions.
 
 
 ### <u>Accessing National Library Board Singapore Resources</u>
