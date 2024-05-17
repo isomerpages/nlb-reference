@@ -290,7 +290,7 @@ tours of Java that Raffles and the author had taken.</p>
 </div>
 <p><strong>All rights reserved, The Royal Asiatic Society of Great Britain and Ireland, 2017</strong>
 </p>
-<p><strong><a href="http://eresources.nlb.gov.sg/printheritage/browse/Malay_Manuscripts_Royal_Asiatic_Society_GBI.aspx" rel="noopener noreferrer nofollow" target="_blank">Malay manuscripts from the Royal Asiatic Society of Great Britain and Ireland</a></strong>
+<p><strong>Malay manuscripts from the Royal Asiatic Society of Great Britain and Ireland</strong>
 </p>
 <p>A collection of manuscripts digitised from the Raffles Collection in the
 Library of the Royal Asiatic Society of Great Britain and Ireland.</p>
@@ -302,7 +302,7 @@ Society of Great Britain and Ireland.</p>
 </div>
 <p><strong>All rights reserved, The British Library Board, 2018</strong>
 </p>
-<p><strong><a href="http://eresources.nlb.gov.sg/printheritage/detail/61c849aa-b94b-4d62-9762-5845fbf2f05a.aspx" rel="noopener noreferrer nofollow" target="_blank">Raffles Collection from The British Library</a></strong>
+<p><strong>Raffles Collection from The British Library</strong>
 </p>
 <p>A collection of 25 volumes of papers digitised from the Raffles Collection
 in The British Library containing Raffles’s correspondences and notes on
