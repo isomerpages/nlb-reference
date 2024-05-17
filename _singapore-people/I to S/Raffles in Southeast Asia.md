@@ -6,7 +6,7 @@ collection_name: singapore-people
 third_nav_title: I to S
 published: "true"
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h3><u>Guide Index</u></h3>
 <ul data-tight="true" class="tight">
@@ -28,12 +28,14 @@ variant: markdown
 </li>
 </ul>
 <h3><u>Introduction</u></h3>
-<br><br>
+<p>
+<br>
+<br>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%" height="auto" width="100%" alt="Raffles image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-pic-1.jpg">
 </div>
-<p>
-<strong>Source: Collection of National Library Singapore, B29030508E</strong> |</p>
+<p><strong>Source: Collection of National Library Singapore, B29030508E</strong> |</p>
 <p>Sir Thomas Stamford Raffles (1781–1826) was a British administrator and
 orientalist, whose name is synonymous with the British founding of Singapore.
 Less known is his period in Southeast Asia as Lieutenant Governor of Java
@@ -50,11 +52,11 @@ history objects that he had collected from the region.
 <br>
 <br>This guide is not meant to be an exhaustive list on the subject. For more
 materials on this subject and other aspects of Raffles’s administration
-in Southeast Asia, please visit the library’s <a href="http://catalogue.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">catalogue</a>. </p>
+in Southeast Asia, please visit the library’s <a href="http://catalogue.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">catalogue</a>.</p>
 <h3><u>Rare Materials</u></h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%" height="auto" width="100%" alt="" src="/images/singapore-people/Raffles in Southeast Asia/B29029387G.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-rare-pic-1.jpg">
 </div>
 <p><strong>Source: Collection of the National Library Singapore, B29029387G</strong>
 </p>
