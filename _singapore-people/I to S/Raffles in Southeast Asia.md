@@ -6,7 +6,7 @@ collection_name: singapore-people
 third_nav_title: I to S
 published: "true"
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h3><u>Guide Index</u></h3>
 <ul data-tight="true" class="tight">
@@ -289,26 +289,98 @@ discovered the gigantic parasite flower Rafflesia arnoldi. The journal
 offers a glimpse of life in Government House in Buitenzorg, and the various
 tours of Java that Raffles and the author had taken.</p>
 <h3><u>Digital Resources</u></h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="Malay manuscripts image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-book-digi-1.jpg">
 </div>
 <p><em>All rights reserved, The Royal Asiatic Society of Great Britain and Ireland, 2017</em>
 </p>
 <p></p>
-<p><strong>Malay manuscripts from the Royal Asiatic Society of Great Britain and Ireland</strong>
-</p>
+<h4><strong>Malay manuscripts from the Royal Asiatic Society of Great Britain and Ireland</strong></h4>
 <p>A collection of manuscripts digitised from the Raffles Collection in the
 Library of the Royal Asiatic Society of Great Britain and Ireland.</p>
 <p>The copies were made digitally available through a collaborative digitisation
 project between the National Library of Singapore and the Royal Asiatic
 Society of Great Britain and Ireland.</p>
+<p>Listed below are the hyperlinks to the individual volumes:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=ce161632-e783-4cb4-b6b7-cb4cf58b198f" rel="noopener noreferrer nofollow" target="_blank">[RAS Raffles Java 20] Vocabulary of the Madurese language</a>
+</p>
+</li>
+<li>
+<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=7abafca5-3a3a-4dca-bec3-b9a23f6b3c01" rel="noopener noreferrer nofollow" target="_blank">[RAS Raffles Malay 01] Hikayat Hang Tuah</a>
+</p>
+</li>
+<li>
+<p>[RAS Raffles Malay 03] Hikayat Rangga Arya Kuda Nestapa</p>
+</li>
+<li>
+<p>[RAS Raffles Malay 04] Hikayat Bayan Budiman</p>
+</li>
+<li>
+<p>[RAS Raffles Malay 07] Shair Bidasari [et al.]</p>
+</li>
+<li>
+<p>[RAS Raffles Malay 09] Hikayat Indera Putera</p>
+</li>
+<li>
+<p>[RAS Raffles Malay 10] Collection of Transcripts of Treaties between the
+Dutch East India Company and various Indonesian States</p>
+</li>
+<li>
+<p>[RAS Raffles Malay 11] Hikayat Damar Bulan</p>
+</li>
+<li>
+<p>[RAS Raffles Malay 12] Hikayat Berma Shahdan</p>
+</li>
+<li>
+<p>[RAS Raffles Malay 18] Sejarah Melayu</p>
+</li>
+<li>
+<p>[RAS Raffles Malay 24] Salasilah Raja-raja di Tana Jawa. Vol. 1</p>
+</li>
+<li>
+<p>[RAS Raffles Malay 24] Salasilah Raja-raja di Tana Jawa. Vol. 2</p>
+</li>
+<li>
+<p>[RAS Raffles Malay 30] Daftar Sejarah Cerebon</p>
+</li>
+<li>
+<p>[RAS Raffles Malay 38] Hikayat Kalilah dan Diminah</p>
+</li>
+<li>
+<p>[RAS Raffles Malay 39] Sejarah Melayu</p>
+</li>
+<li>
+<p>[RAS Raffles Malay 48] Sharh yang latif atas Mukhtasar Jauharat at-Tawhid</p>
+</li>
+<li>
+<p>[RAS Raffles Malay 49] Shair on the celebration of a king of Bintan</p>
+</li>
+<li>
+<p>[RAS Raffles Malay 52] Hikayat Raja Babi</p>
+</li>
+<li>
+<p>[RAS Raffles Malay 53] Hikayat si Miskin. Shair Ikan</p>
+</li>
+<li>
+<p>[RAS Raffles Malay 62] Hikayat Isma Yatim [et al.]</p>
+</li>
+<li>
+<p>[RAS Raffles Malay 78] Shair Perang Inggeris di Betawi. Shair cinta berahi</p>
+</li>
+<li>
+<p>[RAS Raffles Malay 79] Kitab tarasul [et al.]</p>
+</li>
+</ul>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="Raffles collection image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-book-digi-2.jpg">
 </div>
 <p><em>All rights reserved, The British Library Board, 2018</em>
 </p>
-<p><strong>Raffles Collection from The British Library</strong>
-</p>
+<h4><strong>Raffles Collection from The British Library</strong></h4>
 <p>A collection of 25 volumes of papers digitised from the Raffles Collection
 in The British Library containing Raffles’s correspondences and notes on
 Java, the Malay Archipelago and Japan. Also included are selected papers
@@ -383,12 +455,11 @@ project between the National Library of Singapore and The British Library.</p>
 </p>
 </li>
 <li>
-<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=d56684e9-d966-41c5-ba53-704ecf4ae5ab" rel="noopener noreferrer nofollow" target="_blank">[Letters from Sir T. S. Raffles to William Brown Ramsay, and his father,
-William Ramsay; including a letter from Raffles to Neil Benjamin Edmonstone
-(Shelfmark(s): Mss Eur D742/20)]</a></p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=d56684e9-d966-41c5-ba53-704ecf4ae5ab" rel="noopener noreferrer nofollow" target="_blank">
-</a></li><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=d56684e9-d966-41c5-ba53-704ecf4ae5ab" rel="noopener noreferrer nofollow" target="_blank">
-</a><li><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=d56684e9-d966-41c5-ba53-704ecf4ae5ab" rel="noopener noreferrer nofollow" target="_blank">
-</a><p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=d56684e9-d966-41c5-ba53-704ecf4ae5ab" rel="noopener noreferrer nofollow" target="_blank"></a><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=b7c1ba29-a144-45f1-98f2-e6b24cd9d82d" rel="noopener noreferrer nofollow" target="_blank">Miscellaneous letters from Sir Thomas Stamford Raffles (with index) (Shelfmark(s): Mss Eur D742/21)</a>
+<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=d56684e9-d966-41c5-ba53-704ecf4ae5ab" rel="noopener noreferrer nofollow" target="_blank">[Letters from Sir T. S. Raffles to William Brown Ramsay, and his father, William Ramsay; including a letter from Raffles to Neil Benjamin Edmonstone (Shelfmark(s): Mss Eur D742/20)]</a>
+</p>
+</li>
+<li>
+<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=b7c1ba29-a144-45f1-98f2-e6b24cd9d82d" rel="noopener noreferrer nofollow" target="_blank">Miscellaneous letters from Sir Thomas Stamford Raffles (with index) (Shelfmark(s): Mss Eur D742/21)</a>
 </p>
 </li>
 <li>
