@@ -53,7 +53,7 @@ history objects that he had collected from the region.
 <br>This guide is not meant to be an exhaustive list on the subject. For more
 materials on this subject and other aspects of Raffles’s administration
 in Southeast Asia, please visit the library’s <a href="http://catalogue.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">catalogue</a>.</p>
-<h3><u>Rare Materials</u></h3>
+<h3 id="rare-materials"><u>Rare Materials</u></h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%" height="auto" width="100%" alt="" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-rare-pic-1.jpg">
@@ -165,7 +165,7 @@ missionaries at the urging of Raffles.</p>
 </p>
 <p>A description and illustration of the Gender, a Javanese musical instrument,
 that Raffles had brought to England.</p>
-<h3><u>Books and Articles</u></h3>
+<h3 id="books-and-articles"><u>Books and Articles</u></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="Recovering the orient image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-book-pic-1.jpg">
 </div>
