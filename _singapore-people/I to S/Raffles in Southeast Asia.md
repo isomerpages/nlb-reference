@@ -287,7 +287,7 @@ Java. The diarist was a British naval surgeon and a naturalist who later
 discovered the gigantic parasite flower Rafflesia arnoldi. The journal
 offers a glimpse of life in Government House in Buitenzorg, and the various
 tours of Java that Raffles and the author had taken.</p>
-<h3><u>Digital Resources</u></h3>
+<h3 id="digital-resources"><u>Digital Resources</u></h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="Malay manuscripts image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-book-digi-1.jpg">
