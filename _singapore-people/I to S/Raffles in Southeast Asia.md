@@ -28,9 +28,8 @@ variant: markdown
 </p>
 </li>
 </ul>
-<h3><br><u>Introduction</u></h3>
+<h3 id="Introduction"><u>Introduction</u></h3>
 <p>
-<br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%" height="auto" width="100%" alt="Raffles image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-pic-1.jpg">
