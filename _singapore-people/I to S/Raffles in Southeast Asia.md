@@ -4,12 +4,10 @@ permalink: /guides/singapore/people/raffles-sea/
 breadcrumb: Raffles in Southeast Asia
 collection_name: singapore-people
 third_nav_title: I to S
-published: true
+published: "true"
 description: ""
+variant: markdown
 ---
-
-
-
 ### <u>Guide Index</u>
 
 * [Introduction](#introduction)
@@ -20,7 +18,7 @@ description: ""
 
 ### <u>Introduction</u>
 
-| Sir Thomas Stamford Raffles (1781–1826) was a British administrator and orientalist, whose name is synonymous with the British founding of Singapore. Less known is his period in Southeast Asia as Lieutenant Governor of Java (1811–1816) and Bencoolen (1818–1824). The span of British rule in Indonesia, beginning with the invasion of Java in 1811, was marked not just by an expansion in European knowledge of the Malay Archipelago but also an erosion of the powers of local sultanates. <br><br> This resource guide introduces the National Library of Singapore’s collection of materials on Raffles as a scholar and collector. It presents a selection of reference materials relating to the studies carried out by Raffles and his associates in Java and Sumatra, as well as the cultural and natural history objects that he had collected from the region. <br><br> This guide is not meant to be an exhaustive list on the subject. For more materials on this subject and other aspects of Raffles’s administration in Southeast Asia, please visit the library’s [catalogue](http://catalogue.nlb.gov.sg/). | ![Raffles image](/images/category/singaporeandsoutheastasia/Raffles-in-SEA-pic-1.jpg) <br><br> **Source: Collection of National Library Singapore, B29030508E** |
+Sir Thomas Stamford Raffles (1781–1826) was a British administrator and orientalist, whose name is synonymous with the British founding of Singapore. Less known is his period in Southeast Asia as Lieutenant Governor of Java (1811–1816) and Bencoolen (1818–1824). The span of British rule in Indonesia, beginning with the invasion of Java in 1811, was marked not just by an expansion in European knowledge of the Malay Archipelago but also an erosion of the powers of local sultanates. <br><br> This resource guide introduces the National Library of Singapore’s collection of materials on Raffles as a scholar and collector. It presents a selection of reference materials relating to the studies carried out by Raffles and his associates in Java and Sumatra, as well as the cultural and natural history objects that he had collected from the region. <br><br> This guide is not meant to be an exhaustive list on the subject. For more materials on this subject and other aspects of Raffles’s administration in Southeast Asia, please visit the library’s [catalogue](http://catalogue.nlb.gov.sg/). | ![Raffles image](/images/category/singaporeandsoutheastasia/Raffles-in-SEA-pic-1.jpg) <br><br> **Source: Collection of National Library Singapore, B29030508E** |
 
 ### <u>Rare Materials</u>
 
@@ -28,7 +26,7 @@ description: ""
 
 **Source: Collection of the National Library Singapore, B29029387G**
 
-**Raffles, T. S. (1816). [On the Maláyu nation: With a translation of its maritime institutions](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=201923575). Asiatick Researches, 12, 102–158. Calcutta: Printed at the Calcutta Gazette Office. (Call no.: RRARE 959.503 RAF -\[JSB\])**
+**Raffles, T. S. (1816). [On the Maláyu nation: With a translation of its maritime institutions](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=201923575). Asiatick Researches, 12, 102–158. Calcutta: Printed at the Calcutta Gazette Office. (Call no.: RRARE 959.503 RAF -\[JSB\])**
 
 In his first published work, Raffles attempts to unite the diverse elements of the Malays and present the region as one “nationality”. He also sought to rectify the common European misapprehension that the Malays did not preserve any written record of their laws and customs.
 
@@ -37,41 +35,41 @@ In his first published work, Raffles attempts to unite the diverse elements of t
 
 **Source: Collection of the National Library Singapore, B03013619A**
 
-**Raffles, T. S. (1817). [The history of Java](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=201909379). London: Printed for Black, Parbury, and Allen, booksellers to the Hon. East-India Company, Leadenhall Street, and John Murray, Albemarle Street. (Call no. : RRARE 959.82 RAF -\[JSB\], v. 1–2)**
+**Raffles, T. S. (1817). [The history of Java](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=201909379). London: Printed for Black, Parbury, and Allen, booksellers to the Hon. East-India Company, Leadenhall Street, and John Murray, Albemarle Street. (Call no. : RRARE 959.82 RAF -\[JSB\], v. 1–2)**
 
-Written on Raffles’s return to England in 1816, this classic work on Javanese history draws on a wide range of sources, including original studies on antiquities and natural history that Raffles had commissioned during his governorship of Java. The National Library of Singapore holds the copy that was presented by Raffles to the Earl of Mountnorris in 1817, with an enclosed letter that states that the book ‘was put together & written in the confusion of a London life and…I can already see many faults to correct’.
+Written on Raffles’s return to England in 1816, this classic work on Javanese history draws on a wide range of sources, including original studies on antiquities and natural history that Raffles had commissioned during his governorship of Java. The National Library of Singapore holds the copy that was presented by Raffles to the Earl of Mountnorris in 1817, with an enclosed letter that states that the book ‘was put together &amp; written in the confusion of a London life and…I can already see many faults to correct’.
 
-A modern reprint of this title is also available in: Raffles, S. T. & Bastin, J. S. (author of introduction). (1965). [The history of Java](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5234905). Kuala Lumpur: Oxford University Press. (Call no.: RSEA 959.82 RAF)
+A modern reprint of this title is also available in: Raffles, S. T. &amp; Bastin, J. S. (author of introduction). (1965). [The history of Java](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=5234905). Kuala Lumpur: Oxford University Press. (Call no.: RSEA 959.82 RAF)
 
 
 ![History of java v2 image](/images/category/singaporeandsoutheastasia/Raffles-in-SEA-rare-pic-3-e1548309660557.jpg)
 
 **Source: Collection of the National Library Singapore, B03013619A**
 
-**Raffles, T. S. (1830; reissued 1844). (2nd ed.) [The history of Java](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202524302). London: John Murray. (Call no. : RRARE 959.82 RAF -\[JSB\], v. 1-2, album of plates)**
+**Raffles, T. S. (1830; reissued 1844). (2nd ed.) [The history of Java](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202524302). London: John Murray. (Call no. : RRARE 959.82 RAF -\[JSB\], v. 1-2, album of plates)**
 
 The second edition of The History of Java was re-issued in 1844 with an accompanying atlas containing 92 illustrated plates titled Antiquarian, architectural, and landscape illustrations of the History of Java.
 
-A modern reprint of this atlas is also available in: Raffles. S. T. & Bastin, J. S. (author of preface). (1988). [Plates to Raffles’s History of Java](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5164599). Singapore: Oxford University Press. (Call no.: RSING q959.82 PLA)
+A modern reprint of this atlas is also available in: Raffles. S. T. &amp; Bastin, J. S. (author of preface). (1988). [Plates to Raffles’s History of Java](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=5164599). Singapore: Oxford University Press. (Call no.: RSING q959.82 PLA)
 
 ![Memoir image](/images/category/singaporeandsoutheastasia/Raffles-in-SEA-rare-pic-4.jpg)
 
 **Source: Collection of the National Library Singapore, B03013462H**
 
-**Raffles, S. (1830). [Memoir of the life and public services of Sir Thomas Stamford Raffles, F.R.S. &c., particularly in the government of Java, 1811–1816, and of Bencoolen and its dependencies, 1817–1824: with details of the commerce and resources of the Eastern Archipelago and selections from his correspondence](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4412216). London: John Murray, Albemarle Street. (Call no.: RRARE 959.570092 RAF -[JSB])**
+**Raffles, S. (1830). [Memoir of the life and public services of Sir Thomas Stamford Raffles, F.R.S. &amp;c., particularly in the government of Java, 1811–1816, and of Bencoolen and its dependencies, 1817–1824: with details of the commerce and resources of the Eastern Archipelago and selections from his correspondence](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=4412216). London: John Murray, Albemarle Street. (Call no.: RRARE 959.570092 RAF -[JSB])**
 
 Written by Lady Sophia Raffles to preserve the memory of her late husband’s achievements, this book on the life and work of Raffles is over 800 pages and contains extracts of Raffles’ reports, speeches, memos and letters, some of which are no longer extant. It covers his political career as well as his scholarly pursuits on the Malay world.
 
 The National Library of Singapore holds the copy presented by Lady Raffles to Raffles’s cousin, Revd. Dr Thomas Raffles in February 1830, with an enclosed letter stating that “the Book is too large, but my object was a Record more than a popular reading volume”.
 
-A modern reprint of this title is also available in, Raffles, S. & Bastin, J. S. (author of introduction). (1991). [Memoir of the life and public services of Sir Thomas Stamford Raffles](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6164277). Singapore: Oxford University Press. (Call no.: 959.57021092 RAF -\[HIS\])
+A modern reprint of this title is also available in, Raffles, S. &amp; Bastin, J. S. (author of introduction). (1991). [Memoir of the life and public services of Sir Thomas Stamford Raffles](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=6164277). Singapore: Oxford University Press. (Call no.: 959.57021092 RAF -\[HIS\])
 
 
 ![Transactions image](/images/category/singaporeandsoutheastasia/Raffles-in-SEA-rare-pic-5.jpg)
 
 **Source: Collection of the National Library Singapore, B29033550E**
 
-**Hubbard, A. H. (1814–1816). [Transactions of the Batavian Society of Arts and Sciences](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202661337). Batavia: Government Press. (Call no.: RRARE 959.82 HUB -\[JSB\], v.  7–8)**
+**Hubbard, A. H. (1814–1816). [Transactions of the Batavian Society of Arts and Sciences](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202661337). Batavia: Government Press. (Call no.: RRARE 959.82 HUB -\[JSB\], v.  7–8)**
 
 These two volumes, issued during the British administration of Java, contain essays on the natural history, geography, antiquities, and customs of Java, including a notable account on the ruins of Prambanan by Colin MacKenzie. The Batavian Society of Arts and Sciences was a Dutch learned society founded in 1778. Raffles was elected as the society’s president after the British capture of Java in 1811. During his term, he spearheaded and supported many of the studies which appeared in this journal and his self-penned The History of Java.
 
@@ -79,7 +77,7 @@ These two volumes, issued during the British administration of Java, contain ess
 
 **Source: Collection of the National Library Singapore, B29268096I**
 
-**[The Investigator](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202680366) (1820–1824). London: Printed by James Moyer, Greville Street, for Thomas and George Underwood. (Call no.: RRARE 052 INV-\[JSB\], v. 1-8)**
+**[The Investigator](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202680366) (1820–1824). London: Printed by James Moyer, Greville Street, for Thomas and George Underwood. (Call no.: RRARE 052 INV-\[JSB\], v. 1-8)**
 
 Edited by Raffles’s cousin Dr Rev. Thomas Raffles, this periodical contains many of Raffles’s writings of this region and includes an account of his journey into Central Sumatra as well as articles on the native population of Sumatra and the island of Bali.
 
@@ -87,7 +85,7 @@ Edited by Raffles’s cousin Dr Rev. Thomas Raffles, this periodical contains ma
 
 **Source: Collection of the National Library Singapore, B03013505F**
 
-**[Malayan Miscellanies](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202711772) (1821–1822). Bencoolen: Sumatran Mission Press. (Call no.: RRARE 959.8102 Mal -\[JSB\] / 991 MAL, v. 1-2)**
+**[Malayan Miscellanies](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202711772) (1821–1822). Bencoolen: Sumatran Mission Press. (Call no.: RRARE 959.8102 Mal -\[JSB\] / 991 MAL, v. 1-2)**
 
 During his term as Lieutenant Governor of Bencoolen (1818–1824), Raffles actively promoted the study of Sumatra. Besides undertaking expeditions, he also supported the work of missionaries among locals and encouraged his aides to write about the island, some of which were published in this periodical, Malayan Miscellanies, the first publication by the Sumatran Mission Press. The press, the very first in Sumatra, was set up by Baptist missionaries at the urging of Raffles.
 
@@ -96,7 +94,7 @@ During his term as Lieutenant Governor of Bencoolen (1818–1824), Raffles activ
 
 **Source: Collection of the National Library Singapore, B29032262D**
 
-**Curious Javanese musical instrument. (1834, May). [The mirror of literature, amusement and instruction](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202661654), 23(664), 360-361. London: J. Limbird. (Call no.: RRARE 052 MIR -[JSB])**
+**Curious Javanese musical instrument. (1834, May). [The mirror of literature, amusement and instruction](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202661654), 23(664), 360-361. London: J. Limbird. (Call no.: RRARE 052 MIR -[JSB])**
 
 A description and illustration of the Gender, a Javanese musical instrument, that Raffles had brought to England.
 
@@ -106,7 +104,7 @@ A description and illustration of the Gender, a Javanese musical instrument, tha
 
 **All rights reserved, Chur: Harwood Academic Publishers, 1994**
 
-**Forge, A. (1994). Raffles and Daniell: Making the image fit. In Gerstle, C. A. & Milner, A. C. (Eds.)[ Recovering the orient: Artists, scholars, appropriations](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202353093) (pp. 109-150). Chur: Harwood Academic Publishers. (Call no.: RSEA 303.482405 REC)**
+**Forge, A. (1994). Raffles and Daniell: Making the image fit. In Gerstle, C. A. &amp; Milner, A. C. (Eds.)[ Recovering the orient: Artists, scholars, appropriations](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202353093) (pp. 109-150). Chur: Harwood Academic Publishers. (Call no.: RSEA 303.482405 REC)**
 
 An analysis on how Java is presented in the illustrated plates of Raffles’s The History of Java.
 
@@ -114,7 +112,7 @@ An analysis on how Java is presented in the illustrated plates of Raffles’s Th
 
 **All rights reserved, London: British Museum Press, 1999**
 
-**Barley, N. (1999), [The golden sword: Stamford Raffles and the East](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=9265948). London: British Museum Press. (Call no.: RSING 709.58 GOL)**
+**Barley, N. (1999), [The golden sword: Stamford Raffles and the East](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=9265948). London: British Museum Press. (Call no.: RSING 709.58 GOL)**
 
 A collection of essays on Raffles’s involvement in the study of the languages, cultural and natural history of the Malay Archipelago. 
 
@@ -123,7 +121,7 @@ A collection of essays on Raffles’s involvement in the study of the languages,
 
 **All rights reserved, London: British Museum, 1970**
 
-**Scott-Kemball, J. (1970). [Javanese shadow puppets: The Raffles collection in the British Museum](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=113491). London: British Museum. (Call no. : RSEA 791.53 SCO)**
+**Scott-Kemball, J. (1970). [Javanese shadow puppets: The Raffles collection in the British Museum](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=113491). London: British Museum. (Call no. : RSEA 791.53 SCO)**
 
 An introduction to the shadow puppets from the Raffles Collection in the British Museum, accompanied with explanations on the two forms of Javanese shadow plays, the wayang purwa and wayang gedog, along with descriptions of the characters and puppets. 
 
@@ -132,7 +130,7 @@ An introduction to the shadow puppets from the Raffles Collection in the British
 
 **All rights reserved, London: British Museum, 1970**
 
-**Fagg, W. B. (1970). [The Raffles Gamelan: A historical note](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=70072). London: British Museum. (Call no.: RSEA 781.75982 FAG)**
+**Fagg, W. B. (1970). [The Raffles Gamelan: A historical note](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=70072). London: British Museum. (Call no.: RSEA 781.75982 FAG)**
 
 A selection of articles comprising a description of Raffles’s gamelan in the British Museum, an essay on Raffles as collector, as well as reprints of Raffles’s own writings on Javanese music and instruments.
 
@@ -140,7 +138,7 @@ A selection of articles comprising a description of Raffles’s gamelan in the B
 
 **All rights reserved, ‘s-Gravenhage : Martinus Nijhoff, 1971.**
 
-**Bastin, J. (1971, January). [The Raffles gamelan](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202922924). Bijdragen tot de taal-, land- en volkenkunde, 127(2), 274–278. ‘s-Gravenhage: Martinus Nijhoff. (Call no.: RCLOS 785.68 BAS -\[JSB\])**
+**Bastin, J. (1971, January). [The Raffles gamelan](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202922924). Bijdragen tot de taal-, land- en volkenkunde, 127(2), 274–278. ‘s-Gravenhage: Martinus Nijhoff. (Call no.: RCLOS 785.68 BAS -\[JSB\])**
 
 This article provides supplementary information to Fagg’s essay on the Raffles gamelan in the British Museum.
 
@@ -149,7 +147,7 @@ This article provides supplementary information to Fagg’s essay on the Raffles
 
 **All rights reserved, London: British Museum, 1999**
 
-**Cribb, J. (1999).[ Magic coins of Java, Bali and the Malay Peninsula: Thirteenth to twentieth centuries: A catalogue based on the Raffles collection of coin-shaped charms from Java in the British Museum](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=9282807). London: British Museum. (Call no.: RSING 737.495982 CRI)**
+**Cribb, J. (1999).[ Magic coins of Java, Bali and the Malay Peninsula: Thirteenth to twentieth centuries: A catalogue based on the Raffles collection of coin-shaped charms from Java in the British Museum](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=9282807). London: British Museum. (Call no.: RSING 737.495982 CRI)**
 
 A catalogue on the British Museum’s collection of 165 magic coins from Java, Bali and the Malay Peninsula. The majority of the specimens were collected by Raffles during his residency in Java.
 
@@ -158,7 +156,7 @@ A catalogue on the British Museum’s collection of 165 magic coins from Java, B
 
 **All rights reserved, Kuala Lumpur: Oxford University Press, 1978**
 
-**Bastin, J. S. (1978). [Raffles drawings in the India Office Library, London](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4243656). Kuala Lumpur: Oxford University Press. (Call no.: RSING 741.959 ARC)**
+**Bastin, J. S. (1978). [Raffles drawings in the India Office Library, London](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=4243656). Kuala Lumpur: Oxford University Press. (Call no.: RSING 741.959 ARC)**
 
 An illustrated catalogue on the drawings from Raffles’s collection in The British Library which consists chiefly of topographical views of Indonesia completed by both European and Asian artists.
 
@@ -166,7 +164,7 @@ An illustrated catalogue on the drawings from Raffles’s collection in The Brit
 
 **All rights reserved, London: Trübuer, 1865**
 
-**Turk, H. N. van der (1865). [Short account of the Malay manuscripts belonging to the Royal Asiatic Society.](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5017169) London: Trübuer. (Call no.: RCLOS 091.09595 TUU -\[SEA\])**
+**Turk, H. N. van der (1865). [Short account of the Malay manuscripts belonging to the Royal Asiatic Society.](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=5017169) London: Trübuer. (Call no.: RCLOS 091.09595 TUU -\[SEA\])**
 
 A catalogue describing 80 of the Malay manuscripts from the Raffles Collection held at the Library of the Royal Asiatic Society in London.
 
@@ -175,7 +173,7 @@ A catalogue describing 80 of the Malay manuscripts from the Raffles Collection h
 
 **All rights reserved, Eastbourne: John Sturgus Bastin, 2006**
 
-**Bastin, J. S. (2006). [John Leyden and Thomas Stamford Raffles](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12741995). Eastbourne: Printed by Antony Howe Ltd. for the Author. (Call no.: RSING 950.07202 BAS)**
+**Bastin, J. S. (2006). [John Leyden and Thomas Stamford Raffles](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=12741995). Eastbourne: Printed by Antony Howe Ltd. for the Author. (Call no.: RSING 950.07202 BAS)**
 
 A look at the friendship between Scottish orientalist John Leyden and Raffles. Leyden played a significant role in influencing Raffles’s choice to focus on Malay studies and advancing Raffles’s career through his personal connection with the Governor-General Lord Minto.
 
@@ -183,7 +181,7 @@ A look at the friendship between Scottish orientalist John Leyden and Raffles. L
 
 **All rights reserved, London: British Library: Edinburgh: Royal Botanic Garden Edinburgh, 2009**
 
-**Noltie. H. J. (2009). [Raffles’ ark redrawn: Natural history drawings from the collection of Sir Thomas Stamford Raffles](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13202876). London: The British Library; Edinburgh: Royal Botanic Garden Edinburgh. (Call no.: RSING 508.0222 NOL)**
+**Noltie. H. J. (2009). [Raffles’ ark redrawn: Natural history drawings from the collection of Sir Thomas Stamford Raffles](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=13202876). London: The British Library; Edinburgh: Royal Botanic Garden Edinburgh. (Call no.: RSING 508.0222 NOL)**
 
 An illustrated catalogue containing 120 natural history drawings from the Raffles’s collection acquired by The British Library in 2007.
 
@@ -192,7 +190,7 @@ An illustrated catalogue containing 120 natural history drawings from the Raffle
 
 **All rights reserved, Singapore: MBRAS, 1990**
 
-**Bastin, J. S. (1990). [Sir Stamford Raffles and the study of natural history in Penang, Singapore and Indonesia](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202976135). Journal of the Malaysian Branch of Royal Asiatic Society, 63(2), 1–25. Singapore: The Malaysian Branch, Royal Asiatic Society. (Call no.: RCLOS 508.359 BAS-\[JSB\]**
+**Bastin, J. S. (1990). [Sir Stamford Raffles and the study of natural history in Penang, Singapore and Indonesia](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202976135). Journal of the Malaysian Branch of Royal Asiatic Society, 63(2), 1–25. Singapore: The Malaysian Branch, Royal Asiatic Society. (Call no.: RCLOS 508.359 BAS-\[JSB\]**
 
 This article traces Raffles’s interest in natural history from childhood to his time in Southeast Asia, and documents his contributions to the field of zoology and botany through his support of the work of naturalists such as Thomas Horsfield, Joseph Arnold, Nathaniel Wallich, William Jack, Pierre Diard and Alfred Duvaucel.
 
@@ -201,7 +199,7 @@ This article traces Raffles’s interest in natural history from childhood to hi
 
 **All rights reserved, Singapore: MBRAS, 1973**
 
-**Arnold, J. & Bastin, J. S. (author of introduction). (1973). [The Java journal of Dr. Joseph Arnold](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202797082). Journal of the Malaysian Branch Royal Asiatic Society, 46(1), 1–91. Singapore: The Malaysian Branch, Royal Asiatic Society. (Call no.: RCLOS 959.82 ARN -\[JSB\])**
+**Arnold, J. &amp; Bastin, J. S. (author of introduction). (1973). [The Java journal of Dr. Joseph Arnold](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202797082). Journal of the Malaysian Branch Royal Asiatic Society, 46(1), 1–91. Singapore: The Malaysian Branch, Royal Asiatic Society. (Call no.: RCLOS 959.82 ARN -\[JSB\])**
 
 Written in 1815, this is a rare contemporaneous account of Raffles in Java. The diarist was a British naval surgeon and a naturalist who later discovered the gigantic parasite flower Rafflesia arnoldi. The journal offers a glimpse of life in Government House in Buitenzorg, and the various tours of Java that Raffles and the author had taken.
 
