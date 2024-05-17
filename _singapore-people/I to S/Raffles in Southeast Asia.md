@@ -432,7 +432,7 @@ project between the National Library of Singapore and The British Library.</p>
 </p>
 </li>
 <li>
-<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=08a9721c-5104-4d75-aafe-76f11ce480aehttp://eresources.nlb.gov.sg/printheritage/detail/08a9721c-5104-4d75-aafe-76f11ce480ae>Raffles Collection VII (Shelfmark(s): Mss Eur F32)</a>
+<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=08a9721c-5104-4d75-aafe-76f11ce480ae>Raffles Collection VII (Shelfmark(s): Mss Eur F32)</a>
 </p>
 </li>
 <li>
