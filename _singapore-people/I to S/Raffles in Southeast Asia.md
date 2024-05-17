@@ -57,7 +57,7 @@ in Southeast Asia, please visit the library’s <a href="http://catalogue.nlb.go
 <h3><u>Rare Materials</u></h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-rare-pic-1.jpg">
+<img style="width: 40%" height="auto" width="100%" alt="" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-rare-pic-1.jpg">
 </div>
 <p><em>Source: Collection of the National Library Singapore, B29029387G</em>
 </p>
@@ -331,92 +331,92 @@ project between the National Library of Singapore and The British Library.</p>
 </p>
 </li>
 <li>
-<p><a href="http://eresources.nlb.gov.sg/printheritage/detail/b14dcdb5-83f1-4681-82f9-3ecf57b0d2a5.aspx" rel="noopener noreferrer nofollow" target="_blank">Raffles Collection IV (Shelfmark(s): Mss Eur E106)</a>
+<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=b14dcdb5-83f1-4681-82f9-3ecf57b0d2a5" rel="noopener noreferrer nofollow" target="_blank">Raffles Collection IV (Shelfmark(s): Mss Eur E106)</a>
 </p>
 </li>
 <li>
-<p><a href="http://eresources.nlb.gov.sg/printheritage/detail/ae0c9c0d-bdf5-4595-8ecc-746e9e24432a.aspx" rel="noopener noreferrer nofollow" target="_blank">Raffles Collection V (Shelfmark(s): Mss Eur E107)</a>
+<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=ae0c9c0d-bdf5-4595-8ecc-746e9e24432a" rel="noopener noreferrer nofollow" target="_blank">Raffles Collection V (Shelfmark(s): Mss Eur E107)</a>
 </p>
 </li>
 <li>
-<p><a href="http://eresources.nlb.gov.sg/printheritage/detail/fc307ff8-df1b-4aea-8e85-e7dff7654681.aspx" rel="noopener noreferrer nofollow" target="_blank">Raffles Collection VI (Shelfmark(s): Mss Eur F31)</a>
+<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=fc307ff8-df1b-4aea-8e85-e7dff7654681" rel="noopener noreferrer nofollow" target="_blank">Raffles Collection VI (Shelfmark(s): Mss Eur F31)</a>
 </p>
 </li>
 <li>
-<p><a href="http://eresources.nlb.gov.sg/printheritage/detail/08a9721c-5104-4d75-aafe-76f11ce480ae.aspx" rel="noopener noreferrer nofollow" target="_blank">Raffles Collection VII (Shelfmark(s): Mss Eur F32)</a>
+<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=08a9721c-5104-4d75-aafe-76f11ce480aehttp://eresources.nlb.gov.sg/printheritage/detail/08a9721c-5104-4d75-aafe-76f11ce480ae.aspx" rel="noopener noreferrer nofollow" target="_blank">Raffles Collection VII (Shelfmark(s): Mss Eur F32)</a>
 </p>
 </li>
 <li>
-<p><a href="http://eresources.nlb.gov.sg/printheritage/detail/ebfe932c-0bec-4616-92e7-b6eb16b17fa4.aspx" rel="noopener noreferrer nofollow" target="_blank">Raffles Collection VIII (Shelfmark(s): Mss Eur D199)</a>
+<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=ebfe932c-0bec-4616-92e7-b6eb16b17fa4" rel="noopener noreferrer nofollow" target="_blank">Raffles Collection VIII (Shelfmark(s): Mss Eur D199)</a>
 </p>
 </li>
 <li>
-<p><a href="http://eresources.nlb.gov.sg/printheritage/detail/f29a409a-7fa1-4fde-83df-07075733e259.aspx" rel="noopener noreferrer nofollow" target="_blank">Raffles Collection IX (Shelfmark(s): Mss Eur E108)</a>
+<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=f29a409a-7fa1-4fde-83df-07075733e259" rel="noopener noreferrer nofollow" target="_blank">Raffles Collection IX (Shelfmark(s): Mss Eur E108)</a>
 </p>
 </li>
 <li>
-<p><a href="http://eresources.nlb.gov.sg/printheritage/detail/b996365d-a118-4a21-b30f-e8a4978ad821.aspx" rel="noopener noreferrer nofollow" target="_blank">Raffles Collection X (Shelfmark(s): Mss Eur F33)</a>
+<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=b996365d-a118-4a21-b30f-e8a4978ad821" rel="noopener noreferrer nofollow" target="_blank">Raffles Collection X (Shelfmark(s): Mss Eur F33)</a>
 </p>
 </li>
 <li>
-<p><a href="http://eresources.nlb.gov.sg/printheritage/detail/e3f36331-2e5d-4a2e-8691-4d262ece2161.aspx" rel="noopener noreferrer nofollow" target="_blank">Raffles Collection XI (Shelfmark(s): Mss Eur E109)</a>
+<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=e3f36331-2e5d-4a2e-8691-4d262ece2161" rel="noopener noreferrer nofollow" target="_blank">Raffles Collection XI (Shelfmark(s): Mss Eur E109)</a>
 </p>
 </li>
 <li>
-<p><a href="http://eresources.nlb.gov.sg/printheritage/detail/fa604f4b-b72a-4853-bb6d-cb0811ce8577.aspx" rel="noopener noreferrer nofollow" target="_blank">Private Letters to Lord Minto, 1810˗1811 (Shelfmark(s): Mss Eur C35)</a>
+<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=fa604f4b-b72a-4853-bb6d-cb0811ce8577" rel="noopener noreferrer nofollow" target="_blank">Private Letters to Lord Minto, 1810˗1811 (Shelfmark(s): Mss Eur C35)</a>
 </p>
 </li>
 <li>
-<p><a href="http://eresources.nlb.gov.sg/printheritage/detail/f2cd8ab2-b045-4e9e-8b27-8c3566111328.aspx" rel="noopener noreferrer nofollow" target="_blank">Private letters to Lord Minto, 1825 (Shelfmark(s): Mss Eur C36)</a>
+<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=f2cd8ab2-b045-4e9e-8b27-8c3566111328" rel="noopener noreferrer nofollow" target="_blank">Private letters to Lord Minto, 1825 (Shelfmark(s): Mss Eur C36)</a>
 </p>
 </li>
 <li>
-<p><a href="http://eresources.nlb.gov.sg/printheritage/detail/24fd31e2-2c47-4159-9587-1df484005078.aspx" rel="noopener noreferrer nofollow" target="_blank">Pedigree of Javanese Princes (Shelfmark(s): Mss Eur D200)</a>
+<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=24fd31e2-2c47-4159-9587-1df484005078" rel="noopener noreferrer nofollow" target="_blank">Pedigree of Javanese Princes (Shelfmark(s): Mss Eur D200)</a>
 </p>
 </li>
 <li>
-<p><a href="http://eresources.nlb.gov.sg/printheritage/detail/b5cec672-32e6-46ad-845e-59885bf819f4.aspx" rel="noopener noreferrer nofollow" target="_blank">Statement of personal property of Sir Stamford Raffles lost on ship ‘Fame’ (Shelfmark(s): Mss Eur D742/4 ff 6-7)</a>
+<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=b5cec672-32e6-46ad-845e-59885bf819f4" rel="noopener noreferrer nofollow" target="_blank">Statement of personal property of Sir Stamford Raffles lost on ship ‘Fame’ (Shelfmark(s): Mss Eur D742/4 ff 6-7)</a>
 </p>
 </li>
 <li>
-<p><a href="http://eresources.nlb.gov.sg/printheritage/detail/5be11532-094c-45f5-9a9f-3d70a94e397d.aspx" rel="noopener noreferrer nofollow" target="_blank">Letters to Sir T. S. Raffles from William Marsden (Shelfmark(s): Mss Eur D742/2)</a>
+<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=5be11532-094c-45f5-9a9f-3d70a94e397d" rel="noopener noreferrer nofollow" target="_blank">Letters to Sir T. S. Raffles from William Marsden (Shelfmark(s): Mss Eur D742/2)</a>
 </p>
 </li>
 <li>
-<p>[Letters from Sir T. S. Raffles to William Brown Ramsay, and his father,
+<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=d56684e9-d966-41c5-ba53-704ecf4ae5ab" rel="noopener noreferrer nofollow" target="_blank">[Letters from Sir T. S. Raffles to William Brown Ramsay, and his father,
 William Ramsay; including a letter from Raffles to Neil Benjamin Edmonstone
-(Shelfmark(s): Mss Eur D742/20)]</p>
-</li>
-<li>
-<p><a href="http://eresources.nlb.gov.sg/printheritage/detail/d56684e9-d966-41c5-ba53-704ecf4ae5ab.aspx" rel="noopener noreferrer nofollow" target="_blank">Miscellaneous letters from Sir Thomas Stamford Raffles (with index) (Shelfmark(s): Mss Eur D742/21)</a>
+(Shelfmark(s): Mss Eur D742/20)]</a></p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=d56684e9-d966-41c5-ba53-704ecf4ae5ab" rel="noopener noreferrer nofollow" target="_blank">
+</a></li><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=d56684e9-d966-41c5-ba53-704ecf4ae5ab" rel="noopener noreferrer nofollow" target="_blank">
+</a><li><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=d56684e9-d966-41c5-ba53-704ecf4ae5ab" rel="noopener noreferrer nofollow" target="_blank">
+</a><p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=d56684e9-d966-41c5-ba53-704ecf4ae5ab" rel="noopener noreferrer nofollow" target="_blank"></a><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=b7c1ba29-a144-45f1-98f2-e6b24cd9d82d" rel="noopener noreferrer nofollow" target="_blank">Miscellaneous letters from Sir Thomas Stamford Raffles (with index) (Shelfmark(s): Mss Eur D742/21)</a>
 </p>
 </li>
 <li>
-<p><a href="http://eresources.nlb.gov.sg/printheritage/detail/63b6bd50-037f-4540-a44e-1097136a10be.aspx" rel="noopener noreferrer nofollow" target="_blank">Letter from Sir Thomas Stamford Raffles in London to [Sir Alexander Johnston of Singapore] (Shelfmark(s): Mss Eur D742/23, ff 7-13v)</a>
+<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=63b6bd50-037f-4540-a44e-1097136a10be" rel="noopener noreferrer nofollow" target="_blank">Letter from Sir Thomas Stamford Raffles in London to [Sir Alexander Johnston of Singapore] (Shelfmark(s): Mss Eur D742/23, ff 7-13v)</a>
 </p>
 </li>
 <li>
-<p><a href="http://eresources.nlb.gov.sg/printheritage/detail/589f82e2-7793-488b-9cb8-355dc7278e8c.aspx" rel="noopener noreferrer nofollow" target="_blank">Mr Raffles Memoir on the Malayan Nation and a translation of the maritime laws of the Malays (Shelfmark(s): Mss Eur F148/9)</a>
+<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=589f82e2-7793-488b-9cb8-355dc7278e8c" rel="noopener noreferrer nofollow" target="_blank">Mr Raffles Memoir on the Malayan Nation and a translation of the maritime laws of the Malays (Shelfmark(s): Mss Eur F148/9)</a>
 </p>
 </li>
 <li>
-<p><a href="http://eresources.nlb.gov.sg/printheritage/detail/663435d8-1b6a-4024-b798-573f0cefa452.aspx" rel="noopener noreferrer nofollow" target="_blank">Java: plans charts memorandum and details connected with the expedition against the Dutch Islands (Shelfmark(s): Mss Eur F148/10)</a>
+<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=663435d8-1b6a-4024-b798-573f0cefa452" rel="noopener noreferrer nofollow" target="_blank">Java: plans charts memorandum and details connected with the expedition against the Dutch Islands (Shelfmark(s): Mss Eur F148/10)</a>
 </p>
 </li>
 <li>
-<p><a href="http://eresources.nlb.gov.sg/printheritage/detail/54bd0148-ace1-49c2-be6d-101f13d40300.aspx" rel="noopener noreferrer nofollow" target="_blank">Mr Raffles to Lord Minto; Proceedings and treaties with the Soosoohonan and the Sultan of Mataram (Shelfmark(s): Mss Eur F148/23)</a>
+<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=54bd0148-ace1-49c2-be6d-101f13d40300" rel="noopener noreferrer nofollow" target="_blank">Mr Raffles to Lord Minto; Proceedings and treaties with the Soosoohonan and the Sultan of Mataram (Shelfmark(s): Mss Eur F148/23)</a>
 </p>
 </li>
 <li>
-<p><a href="http://eresources.nlb.gov.sg/printheritage/detail/14cbf539-bbfb-49f8-9a77-d6d6094b60f4.aspx" rel="noopener noreferrer nofollow" target="_blank">Dr Horsfield. Narrative of a journey through Java, with a view to mineralogical and other researches (Shelfmark(s): Mss Eur F148/46)</a>
+<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=14cbf539-bbfb-49f8-9a77-d6d6094b60f4" rel="noopener noreferrer nofollow" target="_blank">Dr Horsfield. Narrative of a journey through Java, with a view to mineralogical and other researches (Shelfmark(s): Mss Eur F148/46)</a>
 </p>
 </li>
 <li>
-<p><a href="http://eresources.nlb.gov.sg/printheritage/detail/2ba2cb12-6816-440e-8798-65ef20bd5a77.aspx" rel="noopener noreferrer nofollow" target="_blank">Colonel Mackenzie’s account of the antiquities of Java with drawings (Shelfmark(s): Mss Eur F148/47)</a>
+<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=2ba2cb12-6816-440e-8798-65ef20bd5a77" rel="noopener noreferrer nofollow" target="_blank">Colonel Mackenzie’s account of the antiquities of Java with drawings (Shelfmark(s): Mss Eur F148/47)</a>
 </p>
 </li>
 <li>
-<p><a href="http://eresources.nlb.gov.sg/printheritage/detail/4e9d8f63-5205-4c48-ac74-d3187996dacd.aspx" rel="noopener noreferrer nofollow" target="_blank">An extraneous bound volume of records (no originals) (Shelfmark(s): Mss Eur F148/48)</a>
+<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=4e9d8f63-5205-4c48-ac74-d3187996dacd" rel="noopener noreferrer nofollow" target="_blank">An extraneous bound volume of records (no originals) (Shelfmark(s): Mss Eur F148/48)</a>
 </p>
 </li>
 </ul>
