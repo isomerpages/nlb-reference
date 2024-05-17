@@ -28,6 +28,12 @@ variant: markdown
 </li>
 </ul>
 <h3><u>Introduction</u></h3>
+<br><br>
+<div class="isomer-image-wrapper">
+<img style="width: 30%" height="auto" width="100%" alt="Raffles image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-pic-1.jpg">
+</div>
+<p>
+<strong>Source: Collection of National Library Singapore, B29030508E</strong> |</p>
 <p>Sir Thomas Stamford Raffles (1781–1826) was a British administrator and
 orientalist, whose name is synonymous with the British founding of Singapore.
 Less known is his period in Southeast Asia as Lieutenant Governor of Java
@@ -44,17 +50,11 @@ history objects that he had collected from the region.
 <br>
 <br>This guide is not meant to be an exhaustive list on the subject. For more
 materials on this subject and other aspects of Raffles’s administration
-in Southeast Asia, please visit the library’s <a href="http://catalogue.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">catalogue</a>. |</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Raffles image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-pic-1.jpg">
-</div>
-<p>
-<br>
-<br><strong>Source: Collection of National Library Singapore, B29030508E</strong> |</p>
+in Southeast Asia, please visit the library’s <a href="http://catalogue.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">catalogue</a>. </p>
 <h3><u>Rare Materials</u></h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/singapore-people/Raffles in Southeast Asia/B29029387G.jpg">
+<img style="width: 40%" height="auto" width="100%" alt="" src="/images/singapore-people/Raffles in Southeast Asia/B29029387G.jpg">
 </div>
 <p><strong>Source: Collection of the National Library Singapore, B29029387G</strong>
 </p>
@@ -65,7 +65,7 @@ of the Malays and present the region as one “nationality”. He also sought
 to rectify the common European misapprehension that the Malays did not
 preserve any written record of their laws and customs.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="History of java image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-rare-pic-2.jpg">
+<img style="width: 40%" height="auto" width="100%" alt="History of java image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-rare-pic-2.jpg">
 </div>
 <p><strong>Source: Collection of the National Library Singapore, B03013619A</strong>
 </p>
@@ -83,7 +83,7 @@ correct’.</p>
 Bastin, J. S. (author of introduction). (1965). <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5234905" rel="noopener noreferrer nofollow" target="_blank">The history of Java</a>.
 Kuala Lumpur: Oxford University Press. (Call no.: RSEA 959.82 RAF)</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="History of java v2 image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-rare-pic-3-e1548309660557.jpg">
+<img style="width: 50%" height="auto" width="100%" alt="History of java v2 image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-rare-pic-3-e1548309660557.jpg">
 </div>
 <p><strong>Source: Collection of the National Library Singapore, B03013619A</strong>
 </p>
@@ -96,7 +96,7 @@ architectural, and landscape illustrations of the History of Java.</p>
 Bastin, J. S. (author of preface). (1988). <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5164599" rel="noopener noreferrer nofollow" target="_blank">Plates to Raffles’s History of Java</a>.
 Singapore: Oxford University Press. (Call no.: RSING q959.82 PLA)</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Memoir image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-rare-pic-4.jpg">
+<img style="width: 60%" height="auto" width="100%" alt="Memoir image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-rare-pic-4.jpg">
 </div>
 <p><strong>Source: Collection of the National Library Singapore, B03013462H</strong>
 </p>
@@ -115,7 +115,7 @@ a Record more than a popular reading volume”.</p>
 Bastin, J. S. (author of introduction). (1991). <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6164277" rel="noopener noreferrer nofollow" target="_blank">Memoir of the life and public services of Sir Thomas Stamford Raffles</a>.
 Singapore: Oxford University Press. (Call no.: 959.57021092 RAF -[HIS])</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Transactions image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-rare-pic-5.jpg">
+<img style="width: 40%" height="auto" width="100%" alt="Transactions image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-rare-pic-5.jpg">
 </div>
 <p><strong>Source: Collection of the National Library Singapore, B29033550E</strong>
 </p>
@@ -130,7 +130,7 @@ capture of Java in 1811. During his term, he spearheaded and supported
 many of the studies which appeared in this journal and his self-penned
 The History of Java.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Investigator image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-rare-pic-6.jpg">
+<img style="width: 40%" height="auto" width="100%" alt="Investigator image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-rare-pic-6.jpg">
 </div>
 <p><strong>Source: Collection of the National Library Singapore, B29268096I</strong>
 </p>
@@ -141,7 +141,7 @@ many of Raffles’s writings of this region and includes an account of his
 journey into Central Sumatra as well as articles on the native population
 of Sumatra and the island of Bali.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Malayan miscellanies image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-rare-pic-7.jpg">
+<img style="width: 40%" height="auto" width="100%" alt="Malayan miscellanies image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-rare-pic-7.jpg">
 </div>
 <p><strong>Source: Collection of the National Library Singapore, B03013505F</strong>
 </p>
@@ -155,7 +155,7 @@ periodical, Malayan Miscellanies, the first publication by the Sumatran
 Mission Press. The press, the very first in Sumatra, was set up by Baptist
 missionaries at the urging of Raffles.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="instruments image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-rare-pic-8.jpg">
+<img style="width: 40%" height="auto" width="100%" alt="instruments image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-rare-pic-8.jpg">
 </div>
 <p><strong>Source: Collection of the National Library Singapore, B29032262D</strong>
 </p>
@@ -416,4 +416,4 @@ William Ramsay; including a letter from Raffles to Neil Benjamin Edmonstone
 </p>
 </li>
 </ul>
-<p>Singapore in 2013.</p>
+<p></p>
