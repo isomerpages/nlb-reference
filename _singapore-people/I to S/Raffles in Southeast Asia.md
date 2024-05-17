@@ -291,11 +291,10 @@ tours of Java that Raffles and the author had taken.</p>
 <h3><u>Digital Resources</u></h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="Malay manuscripts image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-book-digi-1.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="Malay manuscripts image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-book-digi-1.jpg">
 </div>
 <p><em>All rights reserved, The Royal Asiatic Society of Great Britain and Ireland, 2017</em>
 </p>
-<p></p>
 <h4><strong>Malay manuscripts from the Royal Asiatic Society of Great Britain and Ireland</strong></h4>
 <p>A collection of manuscripts digitised from the Raffles Collection in the
 Library of the Royal Asiatic Society of Great Britain and Ireland.</p>
@@ -313,70 +312,90 @@ Society of Great Britain and Ireland.</p>
 </p>
 </li>
 <li>
-<p>[RAS Raffles Malay 03] Hikayat Rangga Arya Kuda Nestapa</p>
+<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=0edfdc96-7a56-4a20-a5a7-8098201eb178" rel="noopener noreferrer nofollow" target="_blank">[RAS Raffles Malay 03] Hikayat Rangga Arya Kuda Nestapa</a>
+</p>
 </li>
 <li>
-<p>[RAS Raffles Malay 04] Hikayat Bayan Budiman</p>
+<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=6055cb82-6e99-4c0a-9de5-617b42bcd6e4" rel="noopener noreferrer nofollow" target="_blank">[RAS Raffles Malay 04] Hikayat Bayan Budiman</a>
+</p>
 </li>
 <li>
-<p>[RAS Raffles Malay 07] Shair Bidasari [et al.]</p>
+<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=c9a5db67-2d9c-4f5a-a98c-bb5da2a59d92" rel="noopener noreferrer nofollow" target="_blank">[RAS Raffles Malay 07] Shair Bidasari [et al.]</a>
+</p>
 </li>
 <li>
-<p>[RAS Raffles Malay 09] Hikayat Indera Putera</p>
+<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=619868e0-ff92-4bda-8634-a4d3eff6c890" rel="noopener noreferrer nofollow" target="_blank">[RAS Raffles Malay 09] Hikayat Indera Putera</a>
+</p>
 </li>
 <li>
-<p>[RAS Raffles Malay 10] Collection of Transcripts of Treaties between the
-Dutch East India Company and various Indonesian States</p>
+<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=1b5b538b-1718-4776-9c08-de57189466e7" rel="noopener noreferrer nofollow" target="_blank">[RAS Raffles Malay 10] Collection of Transcripts of Treaties between the
+Dutch East India Company and various Indonesian States</a>
+</p>
 </li>
 <li>
-<p>[RAS Raffles Malay 11] Hikayat Damar Bulan</p>
+<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=44ca4e74-dc18-4d4e-a679-30e5fd8c88af" rel="noopener noreferrer nofollow" target="_blank">[RAS Raffles Malay 11] Hikayat Damar Bulan</a>
+</p>
 </li>
 <li>
-<p>[RAS Raffles Malay 12] Hikayat Berma Shahdan</p>
+<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=819594e1-873a-4917-9693-390583c0994d" rel="noopener noreferrer nofollow" target="_blank">[RAS Raffles Malay 12] Hikayat Berma Shahdan</a>
+</p>
 </li>
 <li>
-<p>[RAS Raffles Malay 18] Sejarah Melayu</p>
+<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=4a4479e1-da34-45f6-8daa-7939adfee87a" rel="noopener noreferrer nofollow" target="_blank">[RAS Raffles Malay 18] Sejarah Melayu</a>
+</p>
 </li>
 <li>
-<p>[RAS Raffles Malay 24] Salasilah Raja-raja di Tana Jawa. Vol. 1</p>
+<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=43ad23d2-4ae0-42b1-bafc-5aa4907576c6" rel="noopener noreferrer nofollow" target="_blank">[RAS Raffles Malay 24] Salasilah Raja-raja di Tana Jawa. Vol. 1</a>
+</p>
 </li>
 <li>
-<p>[RAS Raffles Malay 24] Salasilah Raja-raja di Tana Jawa. Vol. 2</p>
+<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=43ad23d2-4ae0-42b1-bafc-5aa4907576c6" rel="noopener noreferrer nofollow" target="_blank">[RAS Raffles Malay 24] Salasilah Raja-raja di Tana Jawa. Vol. 2</a>
+</p>
 </li>
 <li>
-<p>[RAS Raffles Malay 30] Daftar Sejarah Cerebon</p>
+<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=e8c9f90f-08ca-4de5-b2ac-6e931c41ed4f" rel="noopener noreferrer nofollow" target="_blank">[RAS Raffles Malay 30] Daftar Sejarah Cerebon</a>
+</p>
 </li>
 <li>
-<p>[RAS Raffles Malay 38] Hikayat Kalilah dan Diminah</p>
+<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=93d347ac-75b9-48b4-9d0f-fdf228d857d3" rel="noopener noreferrer nofollow" target="_blank">[RAS Raffles Malay 38] Hikayat Kalilah dan Diminah</a>
+</p>
 </li>
 <li>
-<p>[RAS Raffles Malay 39] Sejarah Melayu</p>
+<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=0cbe7d8b-c333-4da5-9cbb-18a9460ff04c" rel="noopener noreferrer nofollow" target="_blank">[RAS Raffles Malay 39] Sejarah Melayu</a>
+</p>
 </li>
 <li>
-<p>[RAS Raffles Malay 48] Sharh yang latif atas Mukhtasar Jauharat at-Tawhid</p>
+<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=9ac2a98d-881a-46c6-8e27-e1305411ed74" rel="noopener noreferrer nofollow" target="_blank">[RAS Raffles Malay 48] Sharh yang latif atas Mukhtasar Jauharat at-Tawhid</a>
+</p>
 </li>
 <li>
-<p>[RAS Raffles Malay 49] Shair on the celebration of a king of Bintan</p>
+<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=9fb07213-b701-4d43-8156-dcd3b468524a" rel="noopener noreferrer nofollow" target="_blank">[RAS Raffles Malay 49] Shair on the celebration of a king of Bintan</a>
+</p>
 </li>
 <li>
-<p>[RAS Raffles Malay 52] Hikayat Raja Babi</p>
+<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=25041317-ac42-4047-9a85-354e0ccb2c03" rel="noopener noreferrer nofollow" target="_blank">[RAS Raffles Malay 52] Hikayat Raja Babi</a>
+</p>
 </li>
 <li>
-<p>[RAS Raffles Malay 53] Hikayat si Miskin. Shair Ikan</p>
+<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=da4566d1-5621-4355-88ed-b794c296ef5b" rel="noopener noreferrer nofollow" target="_blank">[RAS Raffles Malay 53] Hikayat si Miskin. Shair Ikan</a>
+</p>
 </li>
 <li>
-<p>[RAS Raffles Malay 62] Hikayat Isma Yatim [et al.]</p>
+<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=02799c48-e411-4c8f-971c-ecf9e2d80d98" rel="noopener noreferrer nofollow" target="_blank">[RAS Raffles Malay 62] Hikayat Isma Yatim [et al.]</a>
+</p>
 </li>
 <li>
-<p>[RAS Raffles Malay 78] Shair Perang Inggeris di Betawi. Shair cinta berahi</p>
+<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=84c79751-1720-4ab1-8747-46045594d7ce" rel="noopener noreferrer nofollow" target="_blank">[RAS Raffles Malay 78] Shair Perang Inggeris di Betawi. Shair cinta berahi</a>
+</p>
 </li>
 <li>
-<p>[RAS Raffles Malay 79] Kitab tarasul [et al.]</p>
+<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=bf4cb429-681b-4778-8569-0d0ef450fbd2" rel="noopener noreferrer nofollow" target="_blank">[RAS Raffles Malay 79] Kitab tarasul [et al.]</a>
+</p>
 </li>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="Raffles collection image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-book-digi-2.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="Raffles collection image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-book-digi-2.jpg">
 </div>
 <p><em>All rights reserved, The British Library Board, 2018</em>
 </p>
