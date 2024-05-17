@@ -8,7 +8,15 @@ published: "true"
 description: ""
 variant: markdown
 ---
-<h3><u>Guide Index</u></h3>
+### <u>Guide Index</u>
+* [Introduction](#introduction)
+* [Rare Materials](#rarematerials)
+* [Books and Articles](#books)
+* [Digital Resources](#digital)
+
+ ### <u>Introduction</u>
+
+
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="#introduction" rel="noopener noreferrer nofollow" target="_blank">Introduction</a>
