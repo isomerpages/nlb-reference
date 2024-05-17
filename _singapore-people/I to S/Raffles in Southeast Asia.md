@@ -35,7 +35,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 30%" height="auto" width="100%" alt="Raffles image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-pic-1.jpg">
 </div>
-<p><strong>Source: Collection of National Library Singapore, B29030508E</strong> |</p>
+<p><em>Source: Collection of National Library Singapore, B29030508E</em>
+</p>
 <p>Sir Thomas Stamford Raffles (1781–1826) was a British administrator and
 orientalist, whose name is synonymous with the British founding of Singapore.
 Less known is his period in Southeast Asia as Lieutenant Governor of Java
@@ -58,7 +59,7 @@ in Southeast Asia, please visit the library’s <a href="http://catalogue.nlb.go
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-rare-pic-1.jpg">
 </div>
-<p><strong>Source: Collection of the National Library Singapore, B29029387G</strong>
+<p><em>Source: Collection of the National Library Singapore, B29029387G</em>
 </p>
 <p><strong>Raffles, T. S. (1816). <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201923575" rel="noopener noreferrer nofollow" target="_blank">On the Maláyu nation: With a translation of its maritime institutions</a>. Asiatick Researches, 12, 102–158. Calcutta: Printed at the Calcutta Gazette Office. (Call no.: RRARE 959.503 RAF -[JSB])</strong>
 </p>
@@ -69,7 +70,7 @@ preserve any written record of their laws and customs.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%" height="auto" width="100%" alt="History of java image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-rare-pic-2.jpg">
 </div>
-<p><strong>Source: Collection of the National Library Singapore, B03013619A</strong>
+<p><em>Source: Collection of the National Library Singapore, B03013619A</em>
 </p>
 <p><strong>Raffles, T. S. (1817). <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201909379" rel="noopener noreferrer nofollow" target="_blank">The history of Java</a>. London: Printed for Black, Parbury, and Allen, booksellers to the Hon. East-India Company, Leadenhall Street, and John Murray, Albemarle Street. (Call no. : RRARE 959.82 RAF -[JSB], v. 1–2)</strong>
 </p>
@@ -87,7 +88,7 @@ Kuala Lumpur: Oxford University Press. (Call no.: RSEA 959.82 RAF)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%" height="auto" width="100%" alt="History of java v2 image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-rare-pic-3-e1548309660557.jpg">
 </div>
-<p><strong>Source: Collection of the National Library Singapore, B03013619A</strong>
+<p><em>Source: Collection of the National Library Singapore, B03013619A</em>
 </p>
 <p><strong>Raffles, T. S. (1830; reissued 1844). (2nd ed.) <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202524302" rel="noopener noreferrer nofollow" target="_blank">The history of Java</a>. London: John Murray. (Call no. : RRARE 959.82 RAF -[JSB], v. 1-2, album of plates)</strong>
 </p>
@@ -100,7 +101,7 @@ Singapore: Oxford University Press. (Call no.: RSING q959.82 PLA)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%" height="auto" width="100%" alt="Memoir image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-rare-pic-4.jpg">
 </div>
-<p><strong>Source: Collection of the National Library Singapore, B03013462H</strong>
+<p><em>Source: Collection of the National Library Singapore, B03013462H</em>
 </p>
 <p><strong>Raffles, S. (1830). <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4412216" rel="noopener noreferrer nofollow" target="_blank">Memoir of the life and public services of Sir Thomas Stamford Raffles, F.R.S. &amp;c., particularly in the government of Java, 1811–1816, and of Bencoolen and its dependencies, 1817–1824: with details of the commerce and resources of the Eastern Archipelago and selections from his correspondence</a>. London: John Murray, Albemarle Street. (Call no.: RRARE 959.570092 RAF -[JSB])</strong>
 </p>
@@ -119,7 +120,7 @@ Singapore: Oxford University Press. (Call no.: 959.57021092 RAF -[HIS])</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%" height="auto" width="100%" alt="Transactions image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-rare-pic-5.jpg">
 </div>
-<p><strong>Source: Collection of the National Library Singapore, B29033550E</strong>
+<p><em>Source: Collection of the National Library Singapore, B29033550E</em>
 </p>
 <p><strong>Hubbard, A. H. (1814–1816). <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202661337" rel="noopener noreferrer nofollow" target="_blank">Transactions of the Batavian Society of Arts and Sciences</a>. Batavia: Government Press. (Call no.: RRARE 959.82 HUB -[JSB], v. 7–8)</strong>
 </p>
@@ -134,7 +135,7 @@ The History of Java.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%" height="auto" width="100%" alt="Investigator image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-rare-pic-6.jpg">
 </div>
-<p><strong>Source: Collection of the National Library Singapore, B29268096I</strong>
+<p><em>Source: Collection of the National Library Singapore, B29268096I</em>
 </p>
 <p><strong><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202680366" rel="noopener noreferrer nofollow" target="_blank">The Investigator</a> (1820–1824). London: Printed by James Moyer, Greville Street, for Thomas and George Underwood. (Call no.: RRARE 052 INV-[JSB], v. 1-8)</strong>
 </p>
@@ -145,7 +146,7 @@ of Sumatra and the island of Bali.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%" height="auto" width="100%" alt="Malayan miscellanies image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-rare-pic-7.jpg">
 </div>
-<p><strong>Source: Collection of the National Library Singapore, B03013505F</strong>
+<p><em>Source: Collection of the National Library Singapore, B03013505F</em>
 </p>
 <p><strong><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202711772" rel="noopener noreferrer nofollow" target="_blank">Malayan Miscellanies</a> (1821–1822). Bencoolen: Sumatran Mission Press. (Call no.: RRARE 959.8102 Mal -[JSB] / 991 MAL, v. 1-2)</strong>
 </p>
@@ -159,7 +160,7 @@ missionaries at the urging of Raffles.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%" height="auto" width="100%" alt="instruments image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-rare-pic-8.jpg">
 </div>
-<p><strong>Source: Collection of the National Library Singapore, B29032262D</strong>
+<p><em>Source: Collection of the National Library Singapore, B29032262D</em>
 </p>
 <p><strong>Curious Javanese musical instrument. (1834, May). <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202661654" rel="noopener noreferrer nofollow" target="_blank">The mirror of literature, amusement and instruction</a>, 23(664), 360-361. London: J. Limbird. (Call no.: RRARE 052 MIR -[JSB])</strong>
 </p>
@@ -169,7 +170,7 @@ that Raffles had brought to England.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="Recovering the orient image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-book-pic-1.jpg">
 </div>
-<p><strong>All rights reserved, Chur: Harwood Academic Publishers, 1994</strong>
+<p><em>All rights reserved, Chur: Harwood Academic Publishers, 1994</em>
 </p>
 <p><strong>Forge, A. (1994). Raffles and Daniell: Making the image fit. In Gerstle, C. A. &amp; Milner, A. C. (Eds.)<a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202353093" rel="noopener noreferrer nofollow" target="_blank"> Recovering the orient: Artists, scholars, appropriations</a> (pp. 109-150). Chur: Harwood Academic Publishers. (Call no.: RSEA 303.482405 REC)</strong>
 </p>
@@ -178,7 +179,7 @@ The History of Java.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="The golden sword image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-book-pic-2.jpg">
 </div>
-<p><strong>All rights reserved, London: British Museum Press, 1999</strong>
+<p><em>All rights reserved, London: British Museum Press, 1999</em>
 </p>
 <p><strong>Barley, N. (1999), <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9265948" rel="noopener noreferrer nofollow" target="_blank">The golden sword: Stamford Raffles and the East</a>. London: British Museum Press. (Call no.: RSING 709.58 GOL)</strong>
 </p>
@@ -187,7 +188,7 @@ cultural and natural history of the Malay Archipelago.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="Javanese shadow puppets image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-book-pic-3.jpg">
 </div>
-<p><strong>All rights reserved, London: British Museum, 1970</strong>
+<p><em>All rights reserved, London: British Museum, 1970</em>
 </p>
 <p><strong>Scott-Kemball, J. (1970). <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=113491" rel="noopener noreferrer nofollow" target="_blank">Javanese shadow puppets: The Raffles collection in the British Museum</a>. London: British Museum. (Call no. : RSEA 791.53 SCO)</strong>
 </p>
@@ -198,7 +199,7 @@ of the characters and puppets.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="The raffles gamelan image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-book-pic-4.jpg">
 </div>
-<p><strong>All rights reserved, London: British Museum, 1970</strong>
+<p><em>All rights reserved, London: British Museum, 1970</em>
 </p>
 <p><strong>Fagg, W. B. (1970). <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=70072" rel="noopener noreferrer nofollow" target="_blank">The Raffles Gamelan: A historical note</a>. London: British Museum. (Call no.: RSEA 781.75982 FAG)</strong>
 </p>
@@ -208,7 +209,7 @@ of Raffles’s own writings on Javanese music and instruments.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="The raffles gamelan v2 image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-book-pic-5.jpg">
 </div>
-<p><strong>All rights reserved, ‘s-Gravenhage : Martinus Nijhoff, 1971.</strong>
+<p><em>All rights reserved, ‘s-Gravenhage : Martinus Nijhoff, 1971</em>
 </p>
 <p><strong>Bastin, J. (1971, January). <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202922924" rel="noopener noreferrer nofollow" target="_blank">The Raffles gamelan</a>. Bijdragen tot de taal-, land- en volkenkunde, 127(2), 274–278. ‘s-Gravenhage: Martinus Nijhoff. (Call no.: RCLOS 785.68 BAS -[JSB])</strong>
 </p>
@@ -217,7 +218,7 @@ Raffles gamelan in the British Museum.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="Magic coins of java image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-book-pic-6.jpg">
 </div>
-<p><strong>All rights reserved, London: British Museum, 1999</strong>
+<p><em>All rights reserved, London: British Museum, 1999</em>
 </p>
 <p><strong>Cribb, J. (1999).<a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9282807" rel="noopener noreferrer nofollow" target="_blank"> Magic coins of Java, Bali and the Malay Peninsula: Thirteenth to twentieth centuries: A catalogue based on the Raffles collection of coin-shaped charms from Java in the British Museum</a>. London: British Museum. (Call no.: RSING 737.495982 CRI)</strong>
 </p>
@@ -227,7 +228,7 @@ collected by Raffles during his residency in Java.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="Raffles drawings image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-book-pic-7.jpg">
 </div>
-<p><strong>All rights reserved, Kuala Lumpur: Oxford University Press, 1978</strong>
+<p><em>All rights reserved, Kuala Lumpur: Oxford University Press, 1978</em>
 </p>
 <p><strong>Bastin, J. S. (1978). <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4243656" rel="noopener noreferrer nofollow" target="_blank">Raffles drawings in the India Office Library, London</a>. Kuala Lumpur: Oxford University Press. (Call no.: RSING 741.959 ARC)</strong>
 </p>
@@ -237,7 +238,7 @@ completed by both European and Asian artists.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="Short account image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-book-pic-8.jpg">
 </div>
-<p><strong>All rights reserved, London: Trübuer, 1865</strong>
+<p><em>All rights reserved, London: Trübuer, 1865</em>
 </p>
 <p><strong>Turk, H. N. van der (1865). <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5017169" rel="noopener noreferrer nofollow" target="_blank">Short account of the Malay manuscripts belonging to the Royal Asiatic Society.</a> London: Trübuer. (Call no.: RCLOS 091.09595 TUU -[SEA])</strong>
 </p>
@@ -246,7 +247,7 @@ held at the Library of the Royal Asiatic Society in London.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="John leyden and raffles image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-book-pic-9.jpg">
 </div>
-<p><strong>All rights reserved, Eastbourne: John Sturgus Bastin, 2006</strong>
+<p><em>All rights reserved, Eastbourne: John Sturgus Bastin, 2006</em>
 </p>
 <p><strong>Bastin, J. S. (2006). <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12741995" rel="noopener noreferrer nofollow" target="_blank">John Leyden and Thomas Stamford Raffles</a>. Eastbourne: Printed by Antony Howe Ltd. for the Author. (Call no.: RSING 950.07202 BAS)</strong>
 </p>
@@ -257,7 +258,7 @@ connection with the Governor-General Lord Minto.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="Raffles ark redrawn image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-book-pic-10.jpg">
 </div>
-<p><strong>All rights reserved, London: British Library: Edinburgh: Royal Botanic Garden Edinburgh, 2009</strong>
+<p><em>All rights reserved, London: British Library: Edinburgh: Royal Botanic Garden Edinburgh, 2009</em>
 </p>
 <p><strong>Noltie. H. J. (2009). <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13202876" rel="noopener noreferrer nofollow" target="_blank">Raffles’ ark redrawn: Natural history drawings from the collection of Sir Thomas Stamford Raffles</a>. London: The British Library; Edinburgh: Royal Botanic Garden Edinburgh. (Call no.: RSING 508.0222 NOL)</strong>
 </p>
@@ -266,7 +267,7 @@ the Raffles’s collection acquired by The British Library in 2007.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="Study of natural history image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-book-pic-11.jpg">
 </div>
-<p><strong>All rights reserved, Singapore: MBRAS, 1990</strong>
+<p><em>All rights reserved, Singapore: MBRAS, 1990</em>
 </p>
 <p><strong>Bastin, J. S. (1990). <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202976135" rel="noopener noreferrer nofollow" target="_blank">Sir Stamford Raffles and the study of natural history in Penang, Singapore and Indonesia</a>. Journal of the Malaysian Branch of Royal Asiatic Society, 63(2), 1–25. Singapore: The Malaysian Branch, Royal Asiatic Society. (Call no.: RCLOS 508.359 BAS-[JSB]</strong>
 </p>
@@ -278,7 +279,7 @@ Diard and Alfred Duvaucel.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="The java journal image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-book-pic-12.jpg">
 </div>
-<p><strong>All rights reserved, Singapore: MBRAS, 1973</strong>
+<p><em>All rights reserved, Singapore: MBRAS, 1973</em>
 </p>
 <p><strong>Arnold, J. &amp; Bastin, J. S. (author of introduction). (1973). <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202797082" rel="noopener noreferrer nofollow" target="_blank">The Java journal of Dr. Joseph Arnold</a>. Journal of the Malaysian Branch Royal Asiatic Society, 46(1), 1–91. Singapore: The Malaysian Branch, Royal Asiatic Society. (Call no.: RCLOS 959.82 ARN -[JSB])</strong>
 </p>
@@ -291,8 +292,9 @@ tours of Java that Raffles and the author had taken.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="Malay manuscripts image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-book-digi-1.jpg">
 </div>
-<p><strong>All rights reserved, The Royal Asiatic Society of Great Britain and Ireland, 2017</strong>
+<p><em>All rights reserved, The Royal Asiatic Society of Great Britain and Ireland, 2017</em>
 </p>
+<p></p>
 <p><strong>Malay manuscripts from the Royal Asiatic Society of Great Britain and Ireland</strong>
 </p>
 <p>A collection of manuscripts digitised from the Raffles Collection in the
@@ -303,7 +305,7 @@ Society of Great Britain and Ireland.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="Raffles collection image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-book-digi-2.jpg">
 </div>
-<p><strong>All rights reserved, The British Library Board, 2018</strong>
+<p><em>All rights reserved, The British Library Board, 2018</em>
 </p>
 <p><strong>Raffles Collection from The British Library</strong>
 </p>
@@ -317,15 +319,15 @@ project between the National Library of Singapore and The British Library.</p>
 <p>Listed below are the hyperlinks to the individual volumes:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="http://eresources.nlb.gov.sg/printheritage/detail/61c849aa-b94b-4d62-9762-5845fbf2f05a.aspx" rel="noopener noreferrer nofollow" target="_blank">Raffles Collection I (Shelfmark(s): Mss Eur C34)</a>
+<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=61c849aa-b94b-4d62-9762-5845fbf2f05a" rel="noopener noreferrer nofollow" target="_blank">Raffles Collection I (Shelfmark(s): Mss Eur C34)</a>
 </p>
 </li>
 <li>
-<p><a href="http://eresources.nlb.gov.sg/printheritage/detail/90b9b156-dfcf-4f60-acec-51012f51282f.aspx" rel="noopener noreferrer nofollow" target="_blank">Raffles Collection II (Shelfmark(s): Mss Eur E104)</a>
+<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=90b9b156-dfcf-4f60-acec-51012f51282f" rel="noopener noreferrer nofollow" target="_blank">Raffles Collection II (Shelfmark(s): Mss Eur E104)</a>
 </p>
 </li>
 <li>
-<p><a href="http://eresources.nlb.gov.sg/printheritage/detail/32fd4e4b-4268-4458-9eff-3c3b5a878e9d.aspx" rel="noopener noreferrer nofollow" target="_blank">Raffles Collection III (Shelfmark(s): Mss Eur E105)</a>
+<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=32fd4e4b-4268-4458-9eff-3c3b5a878e9d" rel="noopener noreferrer nofollow" target="_blank">Raffles Collection III (Shelfmark(s): Mss Eur E105)</a>
 </p>
 </li>
 <li>
