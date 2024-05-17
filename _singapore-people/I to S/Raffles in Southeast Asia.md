@@ -6,23 +6,10 @@ collection_name: singapore-people
 third_nav_title: I to S
 published: "true"
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### <u>Guide Index</u>
-<a>Jump</a>
-
-* [Introduction](#introduction)
-* [Rare Materials](#rarematerials)
-* [Books and Articles](#books)
-* [Digital Resources](#digital)
-
-
-
-
-
-
-<h3 id="test">Test 1</h3>
-
+<h3><u>Guide Index</u></h3>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="#introduction" rel="noopener noreferrer nofollow" target="_blank">Introduction</a>
@@ -41,9 +28,8 @@ variant: markdown
 </p>
 </li>
 </ul>
-<h3><u>Introduction</u></h3>
+<h3><br><u>Introduction</u></h3>
 <p>
-<br>
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -342,8 +328,7 @@ Society of Great Britain and Ireland.</p>
 </p>
 </li>
 <li>
-<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=1b5b538b-1718-4776-9c08-de57189466e7" rel="noopener noreferrer nofollow" target="_blank">[RAS Raffles Malay 10] Collection of Transcripts of Treaties between the
-Dutch East India Company and various Indonesian States</a>
+<p><a href="http://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=1b5b538b-1718-4776-9c08-de57189466e7" rel="noopener noreferrer nofollow" target="_blank">[RAS Raffles Malay 10] Collection of Transcripts of Treaties between the Dutch East India Company and various Indonesian States</a>
 </p>
 </li>
 <li>
