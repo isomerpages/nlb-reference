@@ -6,7 +6,7 @@ collection_name: singapore-people
 third_nav_title: I to S
 published: "true"
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h3><u>Guide Index</u></h3>
 <ul data-tight="true" class="tight">
@@ -52,9 +52,11 @@ in Southeast Asia, please visit the library’s <a href="http://catalogue.nlb.go
 <br>
 <br><strong>Source: Collection of National Library Singapore, B29030508E</strong> |</p>
 <h3><u>Rare Materials</u></h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="translation image" src="/images/category/singaporeandsouthseastasia/Raffles-in-SEA-rare-pic-1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/singapore-people/Raffles in Southeast Asia/B29029387G.jpg">
 </div>
+<p></p>
 <p><strong>Source: Collection of the National Library Singapore, B29029387G</strong>
 </p>
 <p><strong>Raffles, T. S. (1816). <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201923575" rel="noopener noreferrer nofollow" target="_blank">On the Maláyu nation: With a translation of its maritime institutions</a>. Asiatick Researches, 12, 102–158. Calcutta: Printed at the Calcutta Gazette Office. (Call no.: RRARE 959.503 RAF -[JSB])</strong>
