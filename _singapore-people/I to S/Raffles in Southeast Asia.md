@@ -28,9 +28,8 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h3 id="Introduction"><u>Introduction</u></h3>
-<p>
-</p>
+<h3><u>Introduction</u></h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%" height="auto" width="100%" alt="Raffles image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-pic-1.jpg">
 </div>
@@ -53,7 +52,7 @@ history objects that he had collected from the region.
 <br>This guide is not meant to be an exhaustive list on the subject. For more
 materials on this subject and other aspects of Raffles’s administration
 in Southeast Asia, please visit the library’s <a href="http://catalogue.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">catalogue</a>.</p>
-<h3 id="rare-materials"><u>Rare Materials</u></h3>
+<h3><u>Rare Materials</u></h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%" height="auto" width="100%" alt="" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-rare-pic-1.jpg">
@@ -165,7 +164,7 @@ missionaries at the urging of Raffles.</p>
 </p>
 <p>A description and illustration of the Gender, a Javanese musical instrument,
 that Raffles had brought to England.</p>
-<h3 id="books-and-articles"><u>Books and Articles</u></h3>
+<h3><u>Books and Articles</u></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="Recovering the orient image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-book-pic-1.jpg">
 </div>
@@ -193,8 +192,8 @@ cultural and natural history of the Malay Archipelago.</p>
 </p>
 <p>An introduction to the shadow puppets from the Raffles Collection in the
 British Museum, accompanied with explanations on the two forms of Javanese
-shadow plays, the wayang purwa and wayang gedog, along with descriptions
-of the characters and puppets.</p>
+shadow plays, the <em>wayang purwa</em> and <em>wayang gedog</em>, along with
+descriptions of the characters and puppets.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="The raffles gamelan image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-book-pic-4.jpg">
 </div>
@@ -287,7 +286,7 @@ Java. The diarist was a British naval surgeon and a naturalist who later
 discovered the gigantic parasite flower Rafflesia arnoldi. The journal
 offers a glimpse of life in Government House in Buitenzorg, and the various
 tours of Java that Raffles and the author had taken.</p>
-<h3 id="digital-resources"><u>Digital Resources</u></h3>
+<h3><u>Digital Resources</u></h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="Malay manuscripts image" src="/images/category/singaporeandsoutheastasia/Raffles-in-SEA-book-digi-1.jpg">
