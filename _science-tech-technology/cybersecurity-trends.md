@@ -1,6 +1,7 @@
 ---
 title: Cybersecurity Trends
 permalink: /guides/sci-tech/tech/cyber-trends/
+variant: markdown
 ---
 The COVID-19 crisis has forced rapid changes in the world of cybersecurity. The smooth transition to remote work around the globe is a tribute to the skill and resilience of cybersecurity professionals. Research indicates there is a global shortage of some three million cybersecurity professionals. [^1] Data suggest that the global cybersecurity workforce needs to grow 89 percent to fill the talent gap in defending organisations’ critical assets. [^1] Cybersecurity responsibilities include data security, security risk management and assessment, security compliance, threat detection and remediation, network security architecture, and monitoring or troubleshooting cybersecurity systems.[^2] The deficit of cybersecurity talent is a challenge for both the public and private sectors. Cultivating diversity in cybersecurity profession is vital to the growth and success of the industry. The International Consortium of Minority Cybersecurity Professionals reports that females represent only 14 percent of the cyber workforce in the United States.[^3] 
 
@@ -18,14 +19,14 @@ Panetta, K. (2021, April 5). Gartner top security and risk trends for 2021. *Gar
 Cotroneo, C., et al. (2021, July 1). EU cyber diplomacy 101. *European Institute of Public Administration*. Retrieved 2021, September 20 from [https://www.eipa.eu/eu-cyber-diplomacy-101/](https://www.eipa.eu/eu-cyber-diplomacy-101/)
 
 **The right way to structure cyber diplomacy**<br>
-Thompson, N., & Bate, L. (2021, August 25). The right way to structure cyber diplomacy. *War on the Rocks*. Retrieved 2021, September 20 from [https://warontherocks.com/2021/08/the-right-way-to-structure-cyber-diplomacy/]( https://warontherocks.com/2021/08/the-right-way-to-structure-cyber-diplomacy/)
+Thompson, N., &amp; Bate, L. (2021, August 25). The right way to structure cyber diplomacy. *War on the Rocks*. Retrieved 2021, September 20 from [https://warontherocks.com/2021/08/the-right-way-to-structure-cyber-diplomacy/]( https://warontherocks.com/2021/08/the-right-way-to-structure-cyber-diplomacy/)
 
 **3 key cybersecurity trends to know for 2021 (and on…)**<br>
 Brooks, C. (2021, April 12). 3 key cybersecurity trends to know for 2021 (and on). *Forbes.* Retrieved 2021, September 20 from [https://www.forbes.com/sites/chuckbrooks/2021/04/12/3-key-cybersecurity-trends-to-know-for-2021-and-on-/?sh=45a9a26d4978
 ](https://www.forbes.com/sites/chuckbrooks/2021/04/12/3-key-cybersecurity-trends-to-know-for-2021-and-on-/?sh=45a9a26d4978)
 
 **7 ways AI and ML are helping and hurting cybersecurity**<br>
-Shklyarov, A., & Vyrostkov, D. (2021, July 19). 7 ways AI and ML are helping and hurting cybersecurity. *Informa PLC*. Retrieved 2021, September 20 from [https://www.darkreading.com/application-security/7-ways-ai-and-ml-are-helping-and-hurting-cybersecurity/a/d-id/1341498](https://www.darkreading.com/application-security/7-ways-ai-and-ml-are-helping-and-hurting-cybersecurity/a/d-id/1341498)
+Shklyarov, A., &amp; Vyrostkov, D. (2021, July 19). 7 ways AI and ML are helping and hurting cybersecurity. *Informa PLC*. Retrieved 2021, September 20 from [https://www.darkreading.com/application-security/7-ways-ai-and-ml-are-helping-and-hurting-cybersecurity/a/d-id/1341498](https://www.darkreading.com/application-security/7-ways-ai-and-ml-are-helping-and-hurting-cybersecurity/a/d-id/1341498)
 
 **AI set to replace humans in cybersecurity by 2030, says Trend Micro survey**<br>
 Brown, E. (2021, January 15). AI set to replace humans in cybersecurity by 2030, says Trend Micro survey. *ZDNet.* Retrieved 2021, September 20 from [https://www.zdnet.com/article/ai-set-to-replace-humans-in-cybersecurity-by-2030-says-trend-micro/](https://www.zdnet.com/article/ai-set-to-replace-humans-in-cybersecurity-by-2030-says-trend-micro/)
@@ -41,23 +42,23 @@ Emerging technology and systemic risk – maintaining a secure and resilient dig
 #### Journal Articles
 
 **Cybersecurity professionals stand up to a pandemic**<br>
-Cybersecurity professionals stand up to a pandemic. (2020, November 11). *International Information System Security Certification Consortium*. Retrieved 2021, September 20 from [https://www.isc2.org/-/media/ISC2/Research/2020/Workforce-Study/ISC2ResearchDrivenWhitepaperFINAL.ashx?la=en&hash=2879EE167ACBA7100C330429C7EBC623BAF4E07B](https://www.isc2.org/-/media/ISC2/Research/2020/Workforce-Study/ISC2ResearchDrivenWhitepaperFINAL.ashx?la=en&hash=2879EE167ACBA7100C330429C7EBC623BAF4E07B)
+Cybersecurity professionals stand up to a pandemic. (2020, November 11). *International Information System Security Certification Consortium*. Retrieved 2021, September 20 from [https://www.isc2.org/-/media/ISC2/Research/2020/Workforce-Study/ISC2ResearchDrivenWhitepaperFINAL.ashx?la=en&amp;hash=2879EE167ACBA7100C330429C7EBC623BAF4E07B](https://www.isc2.org/-/media/ISC2/Research/2020/Workforce-Study/ISC2ResearchDrivenWhitepaperFINAL.ashx?la=en&amp;hash=2879EE167ACBA7100C330429C7EBC623BAF4E07B)
 
 **The life and times of cybersecurity professionals 2021**<br>
-Oltsik, J., & Lundell, B. (2021, July 21). The life and times of cybersecurity professionals 2021. *Information Systems Security Association*. Retrieved 2021, September 20 from<br> [https://2ll3s9303aos3ya6kr1rrsd7-wpengine.netdna-ssl.com/wp-content/uploads/2021/07/ESG-ISSA-Research-Report-Life-of-Cybersecurity-Professionals-Jul-2021.pdf](https://2ll3s9303aos3ya6kr1rrsd7-wpengine.netdna-ssl.com/wp-content/uploads/2021/07/ESG-ISSA-Research-Report-Life-of-Cybersecurity-Professionals-Jul-2021.pdf)
+Oltsik, J., &amp; Lundell, B. (2021, July 21). The life and times of cybersecurity professionals 2021. *Information Systems Security Association*. Retrieved 2021, September 20 from<br> [https://www.issa.org/wp-content/uploads/2021/07/ESG-ISSA-Research-Report-Life-of-Cybersecurity-Professionals-Jul-2021.pdf](https://www.issa.org/wp-content/uploads/2021/07/ESG-ISSA-Research-Report-Life-of-Cybersecurity-Professionals-Jul-2021.pdf)
 
 **See something, say something: Coordinating the disclosure of security vulnerabilities in Canada**<br>
-Stevens, Y., et al. (2021, June 24). See something, say something: Coordinating the disclosure of security vulnerabilities in Canada. *Cybersecure Policy Exchange*. Retrieved 2021, September 20 from [https://www.cybersecurepolicy.ca/s/See-Something-Say-Something-2021](https://www.cybersecurepolicy.ca/s/See-Something-Say-Something-2021)
+Stevens, Y., et al. (2021, June 24). See something, say something: Coordinating the disclosure of security vulnerabilities in Canada. *Toronto Metropolitan University*. Retrieved 2021, September 20 from [https://dais.ca/reports/vulnerability-disclosure/](https://dais.ca/reports/vulnerability-disclosure/)
 
 **Quantum computing and cybersecurity**<br>
 Lee, M. (2021, July). Quantum computing and cybersecurity. *Belfer Center, Harvard Kennedy School*. Retrieved 2021, September 20 from<br>[https://www.belfercenter.org/sites/default/files/2021-07/QCSecurity.pdf](https://www.belfercenter.org/sites/default/files/2021-07/QCSecurity.pdf)
 
 **Achieving cybersecurity in blockchain-based systems: A survey**<br>
 Gimenez-Aguilar, M., et al. (2021). Achieving cybersecurity in blockchain-based systems: A survey. *Future Generation Computer Systems*, 124 (2021): 91-118. Retrieved 2021, September 20 from<br>
-[https://www.sciencedirect.com/science/article/pii/S0167739X21001576/pdfft?md5=02a84f1fe7adcda8c70b31aa47f14208&pid=1-s2.0-S0167739X21001576-main.pdf](https://www.sciencedirect.com/science/article/pii/S0167739X21001576/pdfft?md5=02a84f1fe7adcda8c70b31aa47f14208&pid=1-s2.0-S0167739X21001576-main.pdf)
+[https://www.sciencedirect.com/science/article/pii/S0167739X21001576/pdfft?md5=02a84f1fe7adcda8c70b31aa47f14208&amp;pid=1-s2.0-S0167739X21001576-main.pdf](https://www.sciencedirect.com/science/article/pii/S0167739X21001576/pdfft?md5=02a84f1fe7adcda8c70b31aa47f14208&amp;pid=1-s2.0-S0167739X21001576-main.pdf)
 
 **A Chinese perspective on the future of cyberspace**<br>
-Xu, P. (2021, July 7). A Chinese perspective on the future of cyberspace. *Global Commission on the Stability of Cyberspace & Hague Centre for Strategic Studies*. Retrieved 2021, September 20 from<br>
+Xu, P. (2021, July 7). A Chinese perspective on the future of cyberspace. *Global Commission on the Stability of Cyberspace &amp; Hague Centre for Strategic Studies*. Retrieved 2021, September 20 from<br>
 [https://cyberstability.org/wp-content/uploads/2021/06/A-Chinese-Perspective-on-the-Future-of-Cyberspace-1-1.pdf](https://cyberstability.org/wp-content/uploads/2021/06/A-Chinese-Perspective-on-the-Future-of-Cyberspace-1-1.pdf)
 
 #### eBooks
