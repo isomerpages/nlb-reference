@@ -216,7 +216,7 @@ This report provides updated information on the investments and securities indus
 
 <b><u>Websites</u></b>
 
-* Capri, A. (2017, March 30). Three reasons why the TPP is still as good as gold. Retrieved March 30, 2017 from Forbes website: [https://www.forbes.com/sites/alexcapri/2017/03/30/three-reasons-pp-good/#14ee51fd21b4](https://www.forbes.com/sites/alexcapri/2017/03/30/three-reasons-pp-good/#14ee51fd21b4)
+* Capri, A. (2017, March 30). Three reasons why the TPP is still as good as gold. Retrieved March 30, 2017 from Forbes website: [https://www.forbes.com/sites/alexcapri/2017/03/30/three-reasons-tpp-good/](https://www.forbes.com/sites/alexcapri/2017/03/30/three-reasons-tpp-good/)
 
 This article examines the Trans-Pacific Partnership (TPP) agreement after America’s withdrawal, and provides 3 reasons why the TPP will still be useful and relevant even if the agreement does not go through eventually.
 
