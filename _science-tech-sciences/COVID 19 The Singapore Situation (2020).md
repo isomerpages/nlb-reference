@@ -56,10 +56,10 @@ The COVID-19 chronicles. (2020, March 31). <i>Yong Loo Lin School of Medicine, N
 <h5>3. <a href="https://www.moh.gov.sg/news-highlights/details/circuit-breaker-to-minimise-further-spread-of-covid-19" target="_blank">Circuit breaker to minimise further spread of COVID-19</a></h5>
 Circuit breaker to minimize further spread of COVID-19. (2020, April 3). <i>Ministry of Health</i>. Retrieved April 4, 2020.
 
-<h5>4. <a href="https://covid.gobusiness.gov.sg/essentialservices/" target="_blank">List of Essential Services</a></h5>
-List of Essential Services. (2020, April 4).  <i>Ministry of Trade and Industry</i>. Retrieved April 5, 2020.
+<h5>4. <a href="https://www.mti.gov.sg/Newsroom/Press-Releases/2020/04/Tightened-List-of-Essential-Services-and-Measures-for-Workplaces-Which-Remain-Open/" target="_blank">Tightened List of Essential Services and Measures for Workplaces Which Remain Open</a></h5>
+Tightened List of Essential Services and Measures for Workplaces Which Remain Open (2020, April 21).  <i>Ministry of Trade and Industry</i>. Retrieved May 20, 2024.
 
-<h5>5. <a href="https://www.mom.gov.sg/covid-19" target="_blank">Advisories on COVID-19</a></h5>
+<h5>5. Advisories on COVID-19</h5>
 Advisories on COVID-19. (2020, March 30). <i>Ministry of Manpower</i>. Retrieved March 31, 2020.
 
 <h5>6. <a href="https://www.channelnewsasia.com/news/topics/coronavirus-covid-19" target="_blank">COVID-19 outbreak</a></h5>
