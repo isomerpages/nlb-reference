@@ -40,27 +40,27 @@ This resource guide was prepared in September 2021 by Zoe Yeo, an Associate Libr
 #### Websites
 
 **Singapore, we need to talk about sustainability in fashion beyond face value**
-<br>Shen, X. (2020, June 28). Singapore, we need to talk about sustainability in fashion beyond face value. *Bettr*. Retrieved 2021, September 1 from 
+<br>Shen, X. (2020, June 28). Singapore, we need to talk about sustainability in fashion beyond face value. *Bettr*. Retrieved 2021, September 1 from https://www.shopbettr.com/blogs/read-bettr/singapore-we-need-to-talk-about-sustainability-in-fashion-beyond-face-value/
 
 **Business as Resistance: What it Means to Do Better as a Fashion Brand**
-<br>Shen, X. (2020, September 12). Business as Resistance: What it Means to Do Better as a Fashion Brand. *Bettr*. Retrieved 2021, September 1 from 
+<br>Shen, X. (2020, September 12). Business as Resistance: What it Means to Do Better as a Fashion Brand. *Bettr*. Retrieved 2021, September 1 from https://www.shopbettr.com/blogs/read-bettr/business-as-resistance-what-it-means-to-do-better-as-a-fashion-brand/
 
 **Can sustainable fashion be affordable? And should it be, when too many of us treat clothes as disposable?**<br>
-La Torre, V. (2021, August 1). Can sustainable fashion be affordable? And should it be, when too many of us treat clothes as disposable? Experts weigh in. *South China Morning Post*. Retrieved 2021, September 1 from   
+La Torre, V. (2021, August 1). Can sustainable fashion be affordable? And should it be, when too many of us treat clothes as disposable? Experts weigh in. *South China Morning Post*. Retrieved 2021, September 1 from [https://www.scmp.com/lifestyle/fashion-beauty/article/3143160/can-sustainable-fashion-be-affordable-and-should-it-be/](https://www.scmp.com/lifestyle/fashion-beauty/article/3143160/can-sustainable-fashion-be-affordable-and-should-it-be/)
 
 #### Videos
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/y78UVWd5PHE" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/i-NwdH2Wfu4" height="315" width="560"></iframe>
 
 **A future sustainable fashion system**<br>
 A future sustainable fashion system. (2019, November 15). *TEDx Talks*. Retrieved 2021, September 1 from  
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/n75jVQTUEE8" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/y78UVWd5PHE" height="315" width="560"></iframe>
 
 **Creating a circular economy for fashion**<br>
 Creating a circular economy for fashion. (2020, January 29). *Financial Times*. Retrieved 2021, September 1 from 
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/i-NwdH2Wfu4" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/n75jVQTUEE8" height="315" width="560"></iframe>
 
 **Our Love For Cheap Clothes: What’s The TRUE Cost?**<br>
 Our Love For Cheap Clothes: What’s The TRUE Cost?. (2021, March 16). *CNA Insider*. Retrieved 2021, September 1 from  
