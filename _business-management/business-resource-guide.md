@@ -3,9 +3,9 @@ title: Business Resource Guide
 permalink: /guides/business/management/business-resource-guide/
 breadcrumb: Business Resource Guide
 collection_name: business-management
-published: true
+published: "true"
+variant: markdown
 ---
-
 ### <u>Guide Index</u>
 
 * [Introduction](#introduction)
@@ -90,7 +90,7 @@ The fourth edition of this book explores the key concepts related to the topic o
 
 <b><u>eBooks</u></b>
 
-* Burt, T. (2015). [2020 vision: Today’s business leaders on tomorrow’s world](https://singapore.libraryreserve.com/10/50/en/ContentDetails.htm?id=3F0DBF69-162F-441C-983B-A4C831DE121F). London: Elliot & Thompson. Retreived from OverDrive.
+* Burt, T. (2015). [2020 vision: Today’s business leaders on tomorrow’s world](https://singapore.libraryreserve.com/10/50/en/ContentDetails.htm?id=3F0DBF69-162F-441C-983B-A4C831DE121F). London: Elliot &amp; Thompson. Retreived from OverDrive.
 
 This ebook provides insights from 20 industry leaders, like chairmen and senior management executives, on their predictions of how their markets and companies will turn out in 2020. It also details their strategies on managing changes faced in the new economy.
 
@@ -109,7 +109,7 @@ This ebook looks at the micro, small and medium enterprises (MSMEs) in ASEAN cou
 
 * Aliakbarian, M. (2017). New world, new economics. Marketing and branding research, 4(1), pp. 50-63. Retrieved from ProQuest Central.
 
-This journal article studies the changes in the world economy via the analysis of the macroeconomics of sample countries, with results indicating that the new world and its economy is one focused on innovation and research and development (R&D).
+This journal article studies the changes in the world economy via the analysis of the macroeconomics of sample countries, with results indicating that the new world and its economy is one focused on innovation and research and development (R&amp;D).
 
 
 * Vovchenko, N. G. et al. (2016). Innovations and fighting global economic problems. Contemporary Economics, 10(4), pp. 289-298. Retrieved from EBSCOHost Databases.
@@ -119,9 +119,9 @@ This journal article studies whether the use of innovation can lead to improveme
 
 <b><u>Websites</u></b>
 
-* Economic Development Board (EDB), Singapore. (2017). Manufacturing performance: Fourth quarter 2016. Retrieved March 30, 2017 from Economic Development Board website: [https://www.edb.gov.sg/content/dam/edb/en/news%20and%20events/News/mthly-manufacturing-report/Mfg-value-added-4Q2016.pdf](https://www.edb.gov.sg/content/dam/edb/en/news%20and%20events/News/mthly-manufacturing-report/Mfg-value-added-4Q2016.pdf)
+* Economic Development Board (EDB), Singapore. (2024, April 26). Monthly Manufacturing Performance March 2024. Retrieved May 20, 2024 from Economic Development Board website: [https://www.edb.gov.sg/en/about-edb/media-releases-publications/monthly-manufacturing-performance.html](https://www.edb.gov.sg/en/about-edb/media-releases-publications/monthly-manufacturing-performance.html)
 
-This infographic summarises the overall performance of the manufacturing sector in Singapore in the 4th quarter of 2016, with comparisons of the growth of the sector with the economic growth of Singapore.
+This infographic summarises the overall performance of the manufacturing sector in Singapore in the 1st quarter of 2024, with comparisons of the growth of the sector with the economic growth of Singapore.
 
 
 * Monetary Authority of Singapore (MAS). (2016). Macroeconomic policy. Macroeconomic review, 15(2), pp. 64-76. Retrieved March 30, 2017 from Monetary Authority of Singapore website: [http://www.mas.gov.sg/Monetary-Policy-and-Economics/Monetary-Policy/Macroeconomic-Review/2016/Volume-XV-Issue-2-Oct-2016.aspx](http://www.mas.gov.sg/Monetary-Policy-and-Economics/Monetary-Policy/Macroeconomic-Review/2016/Volume-XV-Issue-2-Oct-2016.aspx)
@@ -134,7 +134,7 @@ This report, produced and released biannually by MAS, gives up-to-date informati
 The World Bank Open Data website provides free and open access to global development data, including economic indicators like gross domestic product (GDP), forecasts of global economic prospects etc of various countries in the world, including Singapore.
 
 
-* Townsend, R. (2013). Development Economics: Macroeconomics. Retrieved March 30, 2017 from Massachusetts Institute of Technology (MIT) OpenCourseWare: [https://ocw.mit.edu/courses/economics/14-772-development-economics-macroeconomics-spring-2013/index.htm?utm_source=OCWDept&utm_medium=CarouselSm&utm_campaign=FeaturedCourse#](https://ocw.mit.edu/courses/economics/14-772-development-economics-macroeconomics-spring-2013/index.htm?utm_source=OCWDept&utm_medium=CarouselSm&utm_campaign=FeaturedCourse#)
+* Townsend, R. (2013). Development Economics: Macroeconomics. Retrieved March 30, 2017 from Massachusetts Institute of Technology (MIT) OpenCourseWare: [https://ocw.mit.edu/courses/economics/14-772-development-economics-macroeconomics-spring-2013/index.htm?utm_source=OCWDept&amp;utm_medium=CarouselSm&amp;utm_campaign=FeaturedCourse#](https://ocw.mit.edu/courses/economics/14-772-development-economics-macroeconomics-spring-2013/index.htm?utm_source=OCWDept&amp;utm_medium=CarouselSm&amp;utm_campaign=FeaturedCourse#)
 
 This online course, produced by MIT, covers various aspects of macroeconomics, including migration, modernisation, political economy, income distribution, and banks and credit market institutions in emerging markets. The website also hosts many other useful online e-learning courses on economics which are freely accessible for the public.
 
@@ -147,7 +147,7 @@ Finance refers to the study of the management of money and other assets. It incl
 
 <b><u>Books</u></b>
 
-* Apostolik, R. et al. (2015). [Foundations of financial risk: An overview of financial risk and risk-based financial regulation](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202643346). Hoboken: John Wiley & Sons.
+* Apostolik, R. et al. (2015). [Foundations of financial risk: An overview of financial risk and risk-based financial regulation](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202643346). Hoboken: John Wiley &amp; Sons.
 
 Call no.: RBUS 658.2 APO
 
@@ -161,7 +161,7 @@ Call no.: RBUS 332.109 CAL
 This book analyses the banking systems in various countries in an attempt to uncover the reason why the systems in some countries are stable, while others are not.
 
 
-* Docherty, A. and Viort, F. (2014). [Better banking: Understanding and addressing failures in risk management, governance and regulation](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200189008). Chichester: John Wiley & Sons.
+* Docherty, A. and Viort, F. (2014). [Better banking: Understanding and addressing failures in risk management, governance and regulation](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200189008). Chichester: John Wiley &amp; Sons.
 
 Call no.: RBUS 332.1 DOC
 
@@ -175,7 +175,7 @@ Call no.: RBUS 338.542 FEL
 This book discusses and analyses financial events that had occurred in the past and the present to forecast possible threats to the market, which may in turn prevent financial crises in the future.
 
 
-* Simpson, T. D. (2014). [Financial markets, banking, and monetary policy](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200906230). Hoboken, New Jersey: John Wiley & Sons, Inc.
+* Simpson, T. D. (2014). [Financial markets, banking, and monetary policy](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200906230). Hoboken, New Jersey: John Wiley &amp; Sons, Inc.
 
 Call no.: RBUS 332 SIM
 
@@ -253,7 +253,7 @@ Call no.: RBUS 658.872 CHA
 This textbook outlines the theory and practice of digital business and e-commerce management, including the technological, conceptual, strategic and implementation aspects.
 
 
-* Feldman, D. N. (2013). [The entrepreneur’s growth startup handbook: 7 secrets to venture funding and successful growth](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200127546). Hoboken, New Jersey: John Wiley & Sons.
+* Feldman, D. N. (2013). [The entrepreneur’s growth startup handbook: 7 secrets to venture funding and successful growth](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200127546). Hoboken, New Jersey: John Wiley &amp; Sons.
 
 Call no.: RBUS 658.421 FEL
 
@@ -302,7 +302,7 @@ This book provides an overview of about 75 key management models, including clas
 The updated version of this ebook looks at various aspects of project management, such a setting goals and objectives, risk planning and management, leading a project team, procurement and management of stakeholders.
 
 
-* Marr, B. (2016). [Big data in practice: How 45 successful companies used big data analytics to deliver extraordinary results](https://singapore.libraryreserve.com/10/50/en/ContentDetails.htm?id=BCCCE2C6-6578-42E9-A58D-3C957D1B4EC6). New Jersey: John Wiley & Sons, Inc. Retrieved from OverDrive.
+* Marr, B. (2016). [Big data in practice: How 45 successful companies used big data analytics to deliver extraordinary results](https://singapore.libraryreserve.com/10/50/en/ContentDetails.htm?id=BCCCE2C6-6578-42E9-A58D-3C957D1B4EC6). New Jersey: John Wiley &amp; Sons, Inc. Retrieved from OverDrive.
 
 This ebook examines how big companies use big data to gain information and insights on their customers, processes etc. The information is presented in the form of case studies, which includes the data used by each company, how it was used and how it solved problems faced by the company.
 
@@ -317,7 +317,7 @@ This ebook outlines 10 strategies which can help a leader become more effective 
 This ebook looks at the emerging trend of disruptive innovation in the modern global business environment, and how companies can adopt ambidexterity to improve their business and find new markets, while thriving in the new environment.
 
 
-* Parmenter, D. (2015). [Key performance indicators: Developing, implementing, and using winning KPIs](https://singapore.libraryreserve.com/10/50/en/ContentDetails.htm?id=F1EFF149-F842-4224-A653-BDB42E13F7D7) (3rd ed). New Jersey: John Wiley & Sons, Inc. Retrieved from OverDrive.
+* Parmenter, D. (2015). [Key performance indicators: Developing, implementing, and using winning KPIs](https://singapore.libraryreserve.com/10/50/en/ContentDetails.htm?id=F1EFF149-F842-4224-A653-BDB42E13F7D7) (3rd ed). New Jersey: John Wiley &amp; Sons, Inc. Retrieved from OverDrive.
 
 This ebook is a comprehensive guide on Key Performance Indicators (KPIs), looking at how KPIs can be used by organisations to assess and encourage performance. It also includes templates and checklists which company leaders can use when formulating their KPIs.
 
@@ -388,7 +388,7 @@ Marketing describes the process of communicating the values and offerings of ser
 
 <b><u>Books</u></b>
 
-* Barry, P. (2016). [The advertising concept book: Think now, design later: A complete guide to creative ideas, strategies and campaigns](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202640977). London: Thames & Hudson.
+* Barry, P. (2016). [The advertising concept book: Think now, design later: A complete guide to creative ideas, strategies and campaigns](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202640977). London: Thames &amp; Hudson.
 
 Call no.: RBUS 659.1 BAR
 
@@ -439,7 +439,7 @@ This book gives a detailed view of marketing analytics, looking at three core ar
 
 <b><u>eBooks</u></b>
 
-* Fleming, N. (2016). [The customer loyalty loop: The science behind creating great experiences and lasting impressions](https://singapore.libraryreserve.com/10/50/en/ContentDetails.htm?id=39D20C51-3B16-4C33-90D8-1FCC9BD7E3BB). New Jersey: Career Press. Retrieved from OverDrive.
+* Fleming, N. (2016). [The customer loyalty loop: The science behind creating great experiences and lasting impressions](https://nlb.overdrive.com/media/39D20C51-3B16-4C33-90D8-1FCC9BD7E3BB). New Jersey: Career Press. Retrieved from OverDrive.
 
 This ebook details how companies can sustain and grow their businesses by creating “buying loops” via strategies which takes consumer behaviour and thinking into account to enhance customer experience.
 
@@ -454,7 +454,7 @@ This ebook is a useful guide on how businesses can market their products and ser
 This ebook offers useful tips and strategies which businesses, particularly small or new businesses, can adopt to attract and engage customers and gain a competitive advantage against their competitors.
 
 
-* Smith, S. & Milligan, A. (2015). [On purpose: Delivering a branded customer experience people love](https://singapore.libraryreserve.com/10/50/en/ContentDetails.htm?id=3C16BBA1-7C02-4334-8D3C-BFB2A3BCA474). London: Kogan Page. Retrieved from OverDrive.
+* Smith, S. &amp; Milligan, A. (2015). [On purpose: Delivering a branded customer experience people love](https://nlb.overdrive.com/media/3C16BBA1-7C02-4334-8D3C-BFB2A3BCA474). London: Kogan Page. Retrieved from OverDrive.
 
 This ebook details how businesses can deliver a branded customer experience by providing tools which can be used by companies to create and deliver distinctive customer experiences via various channels.
 
@@ -489,8 +489,7 @@ This article examines the concept of viral marketing and provides businesses wit
 This article outlines 6 strategies which businesses can use to convert search engine traffic to website visitorship and sales, including tips to make content more searchable, accessible and friendly for visitors.
 
 
-* French, J. (2017, April 14). Is your brand name limiting your business prospects? Retrieved March 30, 2017 from Entrepreneur website: [https://www.entrepreneur.com/article/290906](https://www.entrepreneur.com/article/290906
-)
+* French, J. (2017, April 14). Is your brand name limiting your business prospects? Retrieved March 30, 2017 from Laredo Morning Times website: [https://www.lmtonline.com/news/article/Is-Your-Brand-Name-Limiting-Your-Business-11074205.php](https://www.lmtonline.com/news/article/Is-Your-Brand-Name-Limiting-Your-Business-11074205.php)
 
 This article looks at company and brand names and examines how an inappropriate name can negatively affect the branding for a business and cause it to lose customers.
 
@@ -500,12 +499,12 @@ This article looks at company and brand names and examines how an inappropriate 
 This article lists 4 strategies which the writer, a former Chief Marketing Officer, has developed during his career to market a business. Although the strategies are useful for small businesses and start-ups, they can be applicable to larger businesses too.
 
 
-* Hendricks, D. (2017, April 14). 4 video advertising hacks powerful enough to change your company. Retrieved March 30, 2017 from Entrepreneur website: [https://www.entrepreneur.com/article/290782](https://www.entrepreneur.com/article/290782)
+* Hendricks, D. (2017, April 14). 4 video advertising hacks powerful enough to change your company. Retrieved May 20, 2024 from DailyClicks website: [https://www.dailyclicks.net/4-video-advertising-hacks-powerful-enough-to-change-your-company/](https://www.dailyclicks.net/4-video-advertising-hacks-powerful-enough-to-change-your-company/)
 
 This article contains 4 tips which businesses that are looking to embark on video marketing can use to make their video advertisements more engaging and effective.
 
 
-* United States Small Business Administration. (2016). Marketing 101. Retrieved March 30, 2017 from U.S. Small Business Administration website: [https://www.sba.gov/managing-business/running-business/marketing/marketing-101](https://www.sba.gov/managing-business/running-business/marketing/marketing-101)
+* United States Small Business Administration. (2016). Marketing 101. Retrieved March 30, 2017 from U.S. Small Business Administration website: [https://www.sba.gov/business-guide/manage-your-business/marketing-sales](https://www.sba.gov/business-guide/manage-your-business/marketing-sales)
 
 This website provides an overview of business marketing for small businesses, looking at various aspects such as conducting market research, target marketing and marketing programmes. It also contains links to other marketing-related pages, including pages on how to develop a marketing plan, and email marketing.
 
