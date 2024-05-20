@@ -3,11 +3,9 @@ title: Occupational Safety and Health Resource Guide
 permalink: /guides/sci-tech/tech/occupational-safety-health/
 breadcrumb: Occupational Safety and Health Resource Guide
 collection_name: science-technology-technology
-published: true
+published: "true"
+variant: markdown
 ---
-
-
-
 ### <u>Guide Index</u>
 
 * [Introduction](#introduction)
@@ -93,7 +91,7 @@ Call No.: RBUS 658.382 SCH
 Are safety practices still important and effective in the modern workplace? Find the answers to this question and more from this book, which looks at safety issues in the modern working environment and how to develop practices which will stay relevant in the global workplace.
 
 
-* Viner, D. (2016). [Occupational risk control: Predicting and preventing the unwanted](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202664825). London: Routledge, Taylor & Francis Group.
+* Viner, D. (2016). [Occupational risk control: Predicting and preventing the unwanted](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202664825). London: Routledge, Taylor &amp; Francis Group.
 
 Call No.: R 363.1 VIN
 
@@ -149,12 +147,12 @@ A useful guide for management personnel, this ebook outlines steps on how a safe
 This article describes some ways in which companies have effectively implemented safety practices to reduce the number of injuries in the workplace, improve the morale among staff, and increase cost-savings and production for the organisations.
 
 
-* Braxton, C and Bowles, R. (2017, February 1). Hands-on Safety. Occupational Health & Safety, February 2017. Retrieved March 27, 2017, from Occupational Health & Safety Magazine website: [https://ohsonline.com/articles/2017/02/01/hands-on-safety.aspx?admgarea=ht.HandProtection](https://ohsonline.com/articles/2017/02/01/hands-on-safety.aspx?admgarea=ht.HandProtection)
+* Braxton, C and Bowles, R. (2017, February 1). Hands-on Safety. Occupational Health &amp; Safety, February 2017. Retrieved March 27, 2017, from Occupational Health &amp; Safety Magazine website: [https://ohsonline.com/articles/2017/02/01/hands-on-safety.aspx?admgarea=ht.HandProtection](https://ohsonline.com/articles/2017/02/01/hands-on-safety.aspx?admgarea=ht.HandProtection)
 
-This article, published in the Occupational Health & Safety digital magazine, looks at some measures which employees and employers can take to prevent injuries to the hands, which are the most common site of injury as people do most work with their hands. The website also provides access to other issues of the Occupational Health & Safety, which is free to register and download.
+This article, published in the Occupational Health &amp; Safety digital magazine, looks at some measures which employees and employers can take to prevent injuries to the hands, which are the most common site of injury as people do most work with their hands. The website also provides access to other issues of the Occupational Health &amp; Safety, which is free to register and download.
 
 
-* Green, J. (2017, March 27). How safety became all about negatives- and how to do it differently. Retrieved March 27, 2017, from Safety & Health Practitioner website: [http://www.shponline.co.uk/how-safety-became-all-about-negatives-and-how-to-do-it-differently/](http://www.shponline.co.uk/how-safety-became-all-about-negatives-and-how-to-do-it-differently/)
+* Green, J. (2017, March 27). How safety became all about negatives- and how to do it differently. Retrieved March 27, 2017, from Safety &amp; Health Practitioner website: [http://www.shponline.co.uk/how-safety-became-all-about-negatives-and-how-to-do-it-differently/](http://www.shponline.co.uk/how-safety-became-all-about-negatives-and-how-to-do-it-differently/)
 
 This article examines how OSH has become a negative culture in companies, which has led to the setting of more rules, barriers and limitations, and thus unhappiness in the workplace. It also describes some measures which companies can adopt to avoid such negativity.
 
@@ -231,7 +229,7 @@ Call No.: R 604.7 CHE
 Covering commonly used chemicals in key industrial processes, this book outlines how industrial chemicals can be safely handled via step-by-step instructions. Besides chemicals, it also includes content on selecting the right materials to protect against fires and corrosion.
 
 
-* Ericson, C. A. (2016). [Hazard analysis techniques for system safety](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202245953). New Jersey: John Wiley & Sons, Inc.
+* Ericson, C. A. (2016). [Hazard analysis techniques for system safety](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202245953). New Jersey: John Wiley &amp; Sons, Inc.
 
 Call No.: R 620.86 ERI
 
@@ -275,7 +273,7 @@ The book describes and explains many types of physical hazards and their control
 
 <b><u>Databases</u></b>
 
-* Bartlett, J. A. (2016). Workplace bullying: A silent epidemic. Library Leadership and & Management (Online), 31.1. Retrieved March 27, 2017, from ProQuest Central.
+* Bartlett, J. A. (2016). Workplace bullying: A silent epidemic. Library Leadership and &amp; Management (Online), 31.1. Retrieved March 27, 2017, from ProQuest Central.
 
 The issue of bullying in the workplace is explored in this article, which studies the examples, impacts and prevalence of bullying at work by using libraries as a case study.
 
@@ -315,7 +313,7 @@ This ebook manual, published by the International Labour Office, tackles the top
 This ebook explains what workplace bullying and harassment are, starting with the identification of such psychosocial hazards and their impacts, to the identification, assessment and management of such risks in the work environment.
 
 
-* Manuele, F. A. (2014). Advanced safety management: Focusing on Z10 and serious injury prevention. Somerset: John Wiley & Sons, Inc. Retrieved March 27, 2017, from ProQuest Ebook Central.
+* Manuele, F. A. (2014). Advanced safety management: Focusing on Z10 and serious injury prevention. Somerset: John Wiley &amp; Sons, Inc. Retrieved March 27, 2017, from ProQuest Ebook Central.
 
 This ebook gives a comprehensive view of concepts of safety management, including the possible risks and hazards present in the workplace, the importance of a safety culture and employee participation in the implementation of safety practices, methods to analyse and assess risks, and the design of safety management systems.
 
@@ -401,12 +399,12 @@ This website by the Ministry of Manpower provides links to various OSH-related w
 
 
 Workplace Safety and Health Council. iWSH Newsletter. Retrieved April 5, 2017, from Workplace Safety and Health Council website:
-[https://www.wshc.sg/wps/portal/wshc/newsletter?action=publicViewAllNewsletter&newsletterType=I](https://www.wshc.sg/wps/portal/wshc/newsletter?action=publicViewAllNewsletter&newsletterType=I)
+[https://www.wshc.sg/wps/portal/wshc/newsletter?action=publicViewAllNewsletter&amp;newsletterType=I](https://www.wshc.sg/wps/portal/wshc/newsletter?action=publicViewAllNewsletter&amp;newsletterType=I)
 
 This WSH website provides access to the iWSH Newsletter published by the Workplace Safety and Health Council. The newsletter, published in various languages like English, Chinese, Tamil and Bengali, contains information to educate workers on OSH issues.
 
 
-Workplace Safety and Health Council. WSH statistics reports. Retrieved April 5, 2017, from Workplace Safety and Health Council website: [https://www.wshc.sg/wps/portal/wshc/cms?action=cmsPublicView&cmsId=C-2014091001131&tabId=C-2014091001132](https://www.wshc.sg/wps/portal/wshc/cms?action=cmsPublicView&cmsId=C-2014091001131&tabId=C-2014091001132)
+Workplace Safety and Health Council. WSH statistics reports. Retrieved April 5, 2017, from Workplace Safety and Health Council website: [https://www.wshc.sg/wps/portal/wshc/cms?action=cmsPublicView&amp;cmsId=C-2014091001131&amp;tabId=C-2014091001132](https://www.wshc.sg/wps/portal/wshc/cms?action=cmsPublicView&amp;cmsId=C-2014091001131&amp;tabId=C-2014091001132)
 
 The WSH Council releases workplace safety and health statistics biannually during mid-year and year end, providing the latest findings on workplace safety and health performance in Singapore.
 
@@ -457,10 +455,10 @@ The Centre for Safety and Health Sustainability (CSHS) is committed to ensuring 
 Institution of Occupational Safety and Health (IOSH) is the Chartered body for health and safety professionals. The site provides guidelines for training, certifications etc.
 
 
-* International Network of Safety & Health Practitioner Organisations<br>
+* International Network of Safety &amp; Health Practitioner Organisations<br>
 [http://www.inshpo.org/about.php](http://www.inshpo.org/about.php)
 
-International Network of Safety & Health Practitioner Organisations (INSHPO) is a global alliance of professional occupational safety and health (OSH) organizations dedicated to advancing the OSH profession through the development and promotion of professional standards and the exchange of evidence-based practices. The site incorporates related resources.
+International Network of Safety &amp; Health Practitioner Organisations (INSHPO) is a global alliance of professional occupational safety and health (OSH) organizations dedicated to advancing the OSH profession through the development and promotion of professional standards and the exchange of evidence-based practices. The site incorporates related resources.
 
 
 * Occupational Health and Safety Online<br>
@@ -519,20 +517,13 @@ WorkSafe NZ is New Zealand’s workplace health and safety regulator. The portal
 
 ### <u>The Standards Collection at the National Library Board</u>
 
-The Standards Collection at the National Library Board is made available through a partnership between the National Library Board and SPRING Singapore. The collection is housed at Level 7 of the Lee Kong Chian Reference Library, National Library Building located at 100 Victoria Street.
+The Standards Collection at the National Library Board is made available through a partnership between the National Library Board and Enterprise Singapore. The collection is housed at Level 7 of the Lee Kong Chian Reference Library, National Library Building located at 100 Victoria Street.
 
 The Standards Collection can be accessed without any charge at the National Library Building and users do not need to be registered NLB members. Users can also make use of the Lee Kong Chian Reference Library’s Business, Science and Technology information resources to complement their research on Standards.
 
 Please note that all the Standards are strictly for reference only.
 
-<b><u>e-Standards platform</u></b><br>
-[http://eresources.nlb.gov.sg/standards/](http://eresources.nlb.gov.sg/standards/)
-
-Patrons can also search for and view information, as well as short previews, of Singapore standards online. Currently, standards from the International Organisation for Standardisation (ISO) and International Electrotechnical Commission (IEC) are also searchable via this portal.
-
-Additionally, the American Society for Testing and Materials (ASTM) standards are accessible onsite. Patrons can make an appointment to view the standards through the online platform: [http://eresources.nlb.gov.sg/standards/onlineform2.aspx](http://eresources.nlb.gov.sg/standards/onlineform2.aspx)
-
-Both the Standards Collection and the e-Standards platform are housed at:
+Both the Standards Collection is housed at:
 
 * Lee Kong Chian Reference Library (Level 7)<br>
 National Library Building, 100 Victoria Street, Singapore 188064.<br>
@@ -541,6 +532,7 @@ Mon – Sun: 10:00 am – 09:00 pm<br>
 _Closed on Public Holidays._ <br>
 _Closed at 5.00 pm on eves of Christmas, New Year and Chinese New Year._ <br>
 
+In addition, the [Singapore Standards Online Collection](https://eresources.nlb.gov.sg/Main/Browse/Resource/1325) is accessible via any Multimedia Stations in NLB's libraries. The online collection of more than 900 Singapore Standards is available in full-text in this database, except those standards with copyright restrictions for e-circulation.
 
 ### <u>Accessing National Library Board Singapore Resources</u>
 
