@@ -334,11 +334,6 @@ This website contains links to access e-guides produced by the European Agency f
 This article provides insights on asthma caused or triggered by substances like dust, mould and chemicals present in the work environment. It examines some possible causes of occupational asthma, its prevalence in the United States, and how employers can play a part to prevent workers from contracting occupational asthma.
 
 
-* University of California, Irvine. Preventing injuries from ergonomic hazards.Retrieved March 27, 2017, from Worklife and Wellness website: [http://www.wellness.uci.edu/toolkit/may/PreventErgonomicInjuries.pdf](http://www.wellness.uci.edu/toolkit/may/PreventErgonomicInjuries.pdf)
-
-This series of infographics, designed as a checklist, lists down some simple tips which workers could adopt to prevent injuries due to ergonomic hazards.Besides this tip sheet, the website also provides other useful toolkits and resources relevant to workplace safety.
-
-
 ### <u>OSH in Singapore</u>
 
 Singapore is a strong advocate of promoting Occupational Safety and Health. Many national bodies and initiatives, led by Singapore’s Ministry of Manpower, work towards preventing workplace incident and minimising its occurrence.
@@ -456,7 +451,7 @@ Institution of Occupational Safety and Health (IOSH) is the Chartered body for h
 
 
 * International Network of Safety &amp; Health Practitioner Organisations<br>
-[http://www.inshpo.org/about.php](http://www.inshpo.org/about.php)
+[https://www.inshpo.org/](https://www.inshpo.org/)
 
 International Network of Safety &amp; Health Practitioner Organisations (INSHPO) is a global alliance of professional occupational safety and health (OSH) organizations dedicated to advancing the OSH profession through the development and promotion of professional standards and the exchange of evidence-based practices. The site incorporates related resources.
 
@@ -510,7 +505,7 @@ This official World Health Organization (WHO) site contains many useful resource
 
 
 * Work Safe New Zealand<br>
-[http://www.business.govt.nz/worksafe](http://www.business.govt.nz/worksafe)
+[https://www.worksafe.govt.nz/](https://www.worksafe.govt.nz/)
 
 WorkSafe NZ is New Zealand’s workplace health and safety regulator. The portal helps too promote workplace health and safety responsibilities and enforce workplace health and safety legislation.
 
