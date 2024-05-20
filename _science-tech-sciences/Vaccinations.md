@@ -80,8 +80,8 @@ Source: <a href="https://www.youtube.com/embed/rb7TVW77ZCs" target="_blank">How 
 <h5>1. <a href="https://www.weforum.org/agenda/2020/04/why-a-coronavirus-vaccine-takes-over-a-year-to-produce-and-why-that-is-incredibly-fast/" target="_blank">Why a coronavirus vaccine takes over a year to produce – and why that is incredibly fast</a></h5>
 Why a coronavirus vaccine takes over a year to produce – and why that is incredibly fast. (2020, April 3). <i>World Economic Forum</i>. Retrieved 2020, April 17.
 
-<h5>2. <a href="https://www.who.int/publications/10-year-review/vaccines/en/" target="_blank">The power of vaccines: Still not fully utilized</a></h5>
-The power of vaccines: Still not fully utilized. (2020). <i>The World Health Organization</i>. Retrieved 2020, April 17.
+<h5>2. <a href="https://news.un.org/en/story/2017/04/555892" target="_blank">World Immunization Week: Power of vaccines still not fully utilized, says UN health agency</a></h5>
+World Immunization Week: Power of vaccines still not fully utilized, says UN health agency. (2020). <i>The World Health Organization</i>. Retrieved 2020, April 17.
 
 <h5>3. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1200696/" target="_blank">Edward Jenner and the history of the smallpox and vaccination</a></h5>
 Riedel, S. (2005, January). Edward Jenner and the history of the smallpox and vaccination. <i>Proceedings (Baylor University, Medical Center) 18(1), 21-25</i>. Retrieved on 2020, April 2.
@@ -89,10 +89,7 @@ Riedel, S. (2005, January). Edward Jenner and the history of the smallpox and va
 <h5>4. <a href="https://www.cdc.gov/vaccines/parents/why-vaccinate/vaccine-decision.html" target="_blank">Making the vaccine decision: Common concerns</a></h5>
 Making the vaccine decision: Common concerns | CDC. (2019, August 5). <i>Centers for Disease Control and Prevention (CDC)</i>. Retrieved 2020, April 2.
 
-<h5>5. <a href="https://channelnewsasia.com/news/singapore/free-vaccinations-singaporean-children-adult-subsidies-12504698" target="_blank">MOH to introduce free vaccinations for Singaporean children at polyclinics and CHAS GP clinics</a></h5>
-Baker, J.A. &amp; Ang H.M. (2020, March 5). MOH to introduce free vaccinations for Singaporean children at polyclinics and CHAS GP clinics. <i>CNA</i>. Retrieved 2020, April 2. 
-
-<h5>6. <a href="https://www.healthhub.sg/a-z/diseases-and-conditions/658/vaccinations-for-adults" target="_blank">Vaccinations: Immunisation boosters for adults</a></h5>
+<h5>5. <a href="https://www.healthhub.sg/a-z/diseases-and-conditions/658/vaccinations-for-adults" target="_blank">Vaccinations: Immunisation boosters for adults</a></h5>
 Vaccinations: Immunisation boosters for adults. (2019, October 11). <i>HealthHub</i>. Retrieved 2020, April 2.
 
 
@@ -126,7 +123,7 @@ Martinez-Vega, R., Jauneikaite, E., Thoon, K.C., Chua, A.H., Khong, W.X., et al.
 
 This page maintained by the United Nations Children’s Fund (UNICEF) addresses common questions and concerns of parents about vaccines, such as their safety and whether it is necessary to vaccinate their child. 
 
-<h5>2. <a href="https://scitechvista.nat.gov.tw/c/s2GC.htm" target="_blank">消灭疾病，疫苗的发明与免疫反应</a></h5>
+<h5>2. <a href="https://scitechvista.nat.gov.tw/Article/C000003/detail?ID=15d10c37-1f49-45b2-b064-6aa1f53c9463" target="_blank">消灭疾病，疫苗的发明与免疫反应</a></h5>
 郑瑞洲。（2008年7月9日）。消灭疾病，疫苗的发明与免疫反应。<i>科学大观园。</i> Retrieved 2020, April 2. 
 
 This article gives an overview of the history of vaccine development and principles behind how vaccines work.
@@ -141,14 +138,12 @@ Bagaimana vaksin bekerja. (2020). <i>World Health Organization</i>. Retrieved 20
 
 This website explains how vaccines prevent the spread of diseases, which diseases are vaccine-preventable and the importance of immunisation programmes.
 
-<h5>5. <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/833108/Winter_Flu_Vaccination_12pp_A5_booklet_2019_2020-Tamil.pdf" target="_blank">ஃப்ளூ தடுப்பூசி</a></h5>
-ஃப்ளூ தடுப்பூசி. (2019/2020) <i>Public Health England</i>. Retrieved 2020, April 10.
 
-This website explains how vaccines prevent the spread of diseases, which diseases are vaccine-preventable and the importance of immunisation programmes.
+<h4>Disclaimer/ Rights statement</h4>
 
-
-<p style="font-size:10pt;"><b>Disclaimer/ Rights statement</b><br>
 The information in this resource guide is valid as at April 2020 and correct as far as we are able to ascertain from our sources. It is not intended to be an exhaustive or complete history on the subject. Please contact the Library for further reading materials on the topic.<br>
-All Rights Reserved. National Library Board Singapore 2020.<br></p>
+
+All Rights Reserved. National Library Board Singapore 2020.<br><p></p>
+
 ---
 #### **References**
