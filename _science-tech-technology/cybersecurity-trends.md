@@ -10,7 +10,7 @@ This resource guide was prepared in September 2021 by Darren Seow, Senior Librar
 #### Websites
 
 **The role of the cyber leader in building secure and resilient digital ecosystems**<br>
-Samartsev, D. (2021, July 19). The role of the cyber leader in building secure and resilient digital ecosystems. *World Economic Forum.* Retrieved 2021, September 20 from [https://www.weforum.org/agenda/2021/07/3-ways-cyber-leaders-can-build-secure-digital-ecosystems-and-global-cyber-resilience-cybersecurity-cyberattacks/](https://www.weforum.org/agenda/2021/07/3-ways-cyber-leaders-can-build-secure-digital-ecosystems-and-global-cyber-resilience-cybersecurity-cyberattacks/)
+Samartsev, D. (2021, July 19). The role of the cyber leader in building secure and resilient digital ecosystems. *The European Sting.* Retrieved 2021, September 20 from [https://europeansting.com/2021/07/21/the-role-of-the-cyber-leader-in-building-secure-and-resilient-digital-ecosystems/](https://europeansting.com/2021/07/21/the-role-of-the-cyber-leader-in-building-secure-and-resilient-digital-ecosystems/#comments)
 
 **Gartner top security and risk trends for 2021**<br>
 Panetta, K. (2021, April 5). Gartner top security and risk trends for 2021. *Gartner*. Retrieved 2021, September 20 from [https://www.gartner.com/smarterwithgartner/gartner-top-security-and-risk-trends-for-2021/](https://www.gartner.com/smarterwithgartner/gartner-top-security-and-risk-trends-for-2021/)
@@ -59,7 +59,7 @@ Gimenez-Aguilar, M., et al. (2021). Achieving cybersecurity in blockchain-based 
 
 **A Chinese perspective on the future of cyberspace**<br>
 Xu, P. (2021, July 7). A Chinese perspective on the future of cyberspace. *Global Commission on the Stability of Cyberspace &amp; Hague Centre for Strategic Studies*. Retrieved 2021, September 20 from<br>
-[https://cyberstability.org/wp-content/uploads/2021/06/A-Chinese-Perspective-on-the-Future-of-Cyberspace-1-1.pdf](https://cyberstability.org/wp-content/uploads/2021/06/A-Chinese-Perspective-on-the-Future-of-Cyberspace-1-1.pdf)
+[https://hcss.nl/wp-content/uploads/2021/07/Chinese-Perspective-Future-of-Cyberspace.pdf](https://hcss.nl/wp-content/uploads/2021/07/Chinese-Perspective-Future-of-Cyberspace.pdf)
 
 #### eBooks
 
