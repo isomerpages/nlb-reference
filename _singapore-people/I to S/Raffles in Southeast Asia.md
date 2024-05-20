@@ -59,7 +59,7 @@ in Southeast Asia, please visit the library’s <a href="http://catalogue.nlb.go
 </div>
 <p><em>Source: Collection of the National Library Singapore, B29029387G</em>
 </p>
-<p><strong>Raffles, T. S. (1816). <a href="https://catalogue.nlb.gov.sg/search/card?recordId=13198778" rel="noopener noreferrer nofollow" target="_blank">On the Maláyu nation: With a translation of its maritime institutions</a>. Asiatick Researches, 12, 102–158. Calcutta: Printed at the Calcutta Gazette Office. (Call no.: RRARE 959.503 RAF -[JSB])</strong>
+<p><strong>Raffles, T. S. (1816). <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201923575" rel="noopener noreferrer nofollow" target="_blank">On the Maláyu nation: With a translation of its maritime institutions</a>. Asiatick Researches, 12, 102–158. Calcutta: Printed at the Calcutta Gazette Office. (Call no.: RRARE 959.503 RAF -[JSB])</strong>
 </p>
 <p>In his first published work, Raffles attempts to unite the diverse elements
 of the Malays and present the region as one “nationality”. He also sought
@@ -160,7 +160,7 @@ missionaries at the urging of Raffles.</p>
 </div>
 <p><em>Source: Collection of the National Library Singapore, B29032262D</em>
 </p>
-<p><strong>Curious Javanese musical instrument. (1834, May). <a href="https://catalogue.nlb.gov.sg/search/card?recordId=202682266" rel="noopener noreferrer nofollow" target="_blank">The mirror of literature, amusement and instruction</a>, 23(664), 360-361. London: J. Limbird. (Call no.: RRARE 052 MIR -[JSB])</strong>
+<p><strong>Curious Javanese musical instrument. (1834, May). <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202661654" rel="noopener noreferrer nofollow" target="_blank">The mirror of literature, amusement and instruction</a>, 23(664), 360-361. London: J. Limbird. (Call no.: RRARE 052 MIR -[JSB])</strong>
 </p>
 <p>A description and illustration of the Gender, a Javanese musical instrument,
 that Raffles had brought to England.</p>
