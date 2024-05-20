@@ -2,6 +2,7 @@
 title: COVID 19 Resilience and Restrictions
 permalink: /guides/sci-tech/sciences/covid19-resilience-restrictions/
 description: ""
+variant: markdown
 ---
 # COVID-19 Resilience and Restrictions
 
@@ -14,7 +15,7 @@ We now have the knowledge and tools needed to control the pandemic. [Vaccine man
 “Parts of the [world](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02790-2/fulltext#coronavirus-linkback-header) are approaching a transition or a new phase of the COVID-19 pandemic.” Moving into a post-pandemic world will be more complicated than scenarios such as “Zero COVID.” The challenge is for individual nations to determine the acceptable level of COVID-19 in an interconnected world.
 
 This resource guide shines the spotlight on various COVID-19 restrictions and measures, how to live with COVID-19 as well as the future of the pandemic.
-The guide provides supplementary resources for those who are keen to further explore this topic. You can also visit <https://search.nlb.gov.sg/> to search for more resources.
+The guide provides supplementary resources for those who are keen to further explore this topic. You can also visit  to search for more resources.
 
 The resource guide was prepared in December 2021 by Darren Seow, Librarian, at the National Library, Singapore.
 
@@ -34,7 +35,7 @@ Hodgkin, R. (2021, December 23). Vaccine mandates. *The Institute for Government
 **New variants show why the world urgently needs vaccine equity**<br>
 Low-income countries have much lower Covid-19 vaccination rates compared to high-income countries. The persistent presence of large unvaccinated populations globally increases the emergence of vaccine-resistant variants, as in the case of Omicron. Omicron reminds us of the need to expedite efforts to protect populations everywhere. If we cannot address vaccine inequity, we will continue to face the risk of a prolonged pandemic, with the emergence of new variants and constant changes between the opening and closing of schools, offices, restaurants, borders and economies. 
 
-Yadav, P. (2021, November 30). New variants show why the world urgently needs vaccine equity. *INSEAD Knowledge*. Retrieved December 27, 2021, from [https://knowledge.insead.edu/blog/insead-blog/new-variants-show-why-the-world-urgently-needs-vaccine-equity-17766](https://knowledge.insead.edu/blog/insead-blog/new-variants-show-why-the-world-urgently-needs-vaccine-equity-17766)
+Yadav, P. (2021, November 30). New variants show why the world urgently needs vaccine equity. *INSEAD Knowledge*. Retrieved December 27, 2021, from [https://knowledge.insead.edu/responsibility/new-variants-show-why-world-urgently-needs-vaccine-equity](https://knowledge.insead.edu/responsibility/new-variants-show-why-world-urgently-needs-vaccine-equity)
 
 **Omicronomics: China’s economy looks especially vulnerable to the spread of Omicron**<br>
 The Omicron variant may further establish China’s strict restrictions on business travel. Omicron may cause more disruption to China’s economy than to other countries with high GDP. China’s zero-COVID policy requires at least 14 days of quarantine in a hotel for international visitors. Travel is essential to innovation. The restrictions on cross-border travel will have a negative impact on innovation. If Omicron is more contagious than other strains, it will increase the likelihood of COVID-19 outbreaks and more frequent lockdowns in China. 
@@ -72,19 +73,19 @@ Callaway, E. (2021, December 7). Beyond Omicron: What’s next for COVID’s vir
 **What can the world learn from China’s response to COVID-19?**<br>
 China was the first country to experience the outbreak of COVID-19. China adopts aggressive prevention and control strategies to contain and eliminate local infections. China uses old school public health strategies such as mask wearing, hand washing, social distancing, and restriction of public events and travel, contact tracing and quarantining infected people. New technologies assist too. “However, successful containment has also left China’s population almost entirely vulnerable, and thus the country needs to persist with strong public health measures until population immunity is established through vaccination.”
 
-Tang, J. L., & Abbasi, K. (2021, December 2). What can the world learn from China’s response to COVID-19? *British Medical Journal, 375*. Retrieved December 27, 2021, from [https://www.bmj.com/content/375/bmj.n2806.full.pdf](https://www.bmj.com/content/375/bmj.n2806.full.pdf)
+Tang, J. L., &amp; Abbasi, K. (2021, December 2). What can the world learn from China’s response to COVID-19? *British Medical Journal, 375*. Retrieved December 27, 2021, from [https://www.bmj.com/content/375/bmj.n2806.full.pdf](https://www.bmj.com/content/375/bmj.n2806.full.pdf)
 
 ### Reports
 
 **Losing time: End this pandemic and secure the future**<br>
 COVID-19 has revealed the urgent need for the world to respond to the current pandemic and to prepare for the next health threat. These health emergencies go beyond the health sector including finance, trade, labour, and education. Pandemic preparedness and response requires a whole-of-society approach. Countries must employ the full range of tools available beyond vaccines including equitable access to diagnostics and novel antivirals, masking, distancing, and ventilation. “There is no single magic bullet to end pandemics, but there is a combination of measures that will: commitment, finance, global public goods, alerts and preparedness, and leadership.”
 
-Sirleaf, J., & Clark, H. (2021, November 21). Losing time: End this pandemic and secure the future. *The Independent Panel for Pandemic Preparedness and Response*. Retrieved December 27, 2021, from [https://theindependentpanel.org/wp-content/uploads/2021/11/COVID-19-Losing-Time_Final.pdf](https://theindependentpanel.org/wp-content/uploads/2021/11/COVID-19-Losing-Time_Final.pdf)
+Sirleaf, J., &amp; Clark, H. (2021, November 21). Losing time: End this pandemic and secure the future. *The Independent Panel for Pandemic Preparedness and Response*. Retrieved December 27, 2021, from [https://theindependentpanel.org/wp-content/uploads/2021/11/COVID-19-Losing-Time_Final.pdf](https://theindependentpanel.org/wp-content/uploads/2021/11/COVID-19-Losing-Time_Final.pdf)
 
 **Global Health Security Index: Advancing collective action and accountability amid global crisis, 2021**<br>
 The Global Health Security (GHS) Index assesses pandemic preparedness and provides a benchmark for capacities to prevent, detect, and respond to epidemics and pandemics across 195 countries. The 2021 GHS Index finds that although many countries took steps to respond to the COVID-19 pandemic, all countries remain unprepared to meet future pandemic threats. Countries now have a more accurate understanding of what the lack of preparedness means for their health and prosperity. Countries should develop new tools and build additional capacities to better protect lives and livelihoods against the next pandemic.
 
-Bell, J. A., & Nuzzo, J. B. (2021, December). Global Health Security Index: Advancing collective action and accountability amid global crisis, 2021. *Nuclear Threat Initiative*. Retrieved December 27, 2021, from [https://www.ghsindex.org/wp-content/uploads/2021/12/2021_GHSindexFullReport_Final.pdf](https://www.ghsindex.org/wp-content/uploads/2021/12/2021_GHSindexFullReport_Final.pdf)
+Bell, J. A., &amp; Nuzzo, J. B. (2021, December). Global Health Security Index: Advancing collective action and accountability amid global crisis, 2021. *Nuclear Threat Initiative*. Retrieved December 27, 2021, from [https://www.ghsindex.org/wp-content/uploads/2021/12/2021_GHSindexFullReport_Final.pdf](https://www.ghsindex.org/wp-content/uploads/2021/12/2021_GHSindexFullReport_Final.pdf)
 
 **Tackling COVID-19 over the long term: How to strengthen international efforts to end the pandemic**<br>
 A fragmented global response risks extending the COVID-19 pandemic. Further variants are likely to emerge and all countries remain in a dangerous phase of the pandemic. Policy makers need to take action to develop a stronger plan for vaccinating the world, as well as invest in the surveillance and healthcare capacity that will be essential to combating the virus over the coming years. Countries should take it that their contributions would not only help end the pandemic, but equip the world to face future threats.
@@ -96,15 +97,15 @@ Sasse, T. (2021, July 26). Tackling COVID-19 over the long term: How to strength
 **Virtual roundtables on the future of the COVID-19 pandemic and other infectious threats**<br>
 The World Health Organization and partners discuss the future of the COVID-19 pandemic and other infectious threats in the next three to five years. They explore four potential scenarios and discuss the implications, potential risks and possible solutions, namely the pandemic is over, and COVID-19 is under control; five years later, the virus through multiple mutations manages to persist and become part of our lives; the virus has evolved to become even more infectious; and in addition to a worsening COVID-19 pandemic, a new pandemic emerges.
 
-Virtual roundtables (#1 & #2) on the future of the COVID-19 pandemic and other infectious threats. (2021, November 4 & 9). *WHO’s Information Network for Epidemics*. Retrieved December 27, 2021, from <https://www.youtube.com/watch?v=Z0OaNAYKpAQ> (#1) & <https://www.youtube.com/watch?v=DrzHj_mib1c> (#2)
+Virtual roundtables (#1 &amp; #2) on the future of the COVID-19 pandemic and other infectious threats. (2021, November 4 &amp; 9). *WHO’s Information Network for Epidemics*. Retrieved December 27, 2021, from  (#1) &amp;  (#2)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z0OaNAYKpAQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z0OaNAYKpAQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DrzHj_mib1c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DrzHj_mib1c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Resilience, post-traumatic growth and the COVID-19 pandemic**<br>
 The speakers describe resilience and post-traumatic growth (PTG), consider opportunities to build resiliency during COVID-19, and discuss approaches to shaping resiliency and PTG personally and collectively. Stress is a foundational element of building resilience. Resilience can be described in three different processes: recovery, adaption and transformation. PTG entails establishing perspectives for a new normal when the old normal is no longer viable. 
 
-Resilience, post-traumatic growth and the COVID-19 pandemic. (2021, November 30). *The Centre for Addiction and Mental Health*. Retrieved December 27, 2021, from <https://www.youtube.com/watch?v=MxZc5cFg_bw>
+Resilience, post-traumatic growth and the COVID-19 pandemic. (2021, November 30). *The Centre for Addiction and Mental Health*. Retrieved December 27, 2021, from 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MxZc5cFg_bw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MxZc5cFg_bw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
