@@ -2,6 +2,7 @@
 title: Food Logistics and Safety
 permalink: /guides/business/global-economy/food-logistics-safety/
 description: ""
+variant: markdown
 ---
 This resource guide was created as part of a learning package on The Global Economy. For other related resource guides, please head to this directory of [Learning Packages](/guides/learning-packages-directory).
 
@@ -21,26 +22,26 @@ The global food supply chain has become increasingly complex with globalization.
 To learn more about food logistics/supply and safety, check out the resources listed below.
 
 
-[^1]: Liu, V. (2019, December 10). Singapore tops food security index for 2nd straight year. *The Straits Times.* Retrieved 2020, June 16 from <https://www.straitstimes.com/singapore/singapore-tops-food-security-index-for-2nd-straight-year>
+[^1]: Liu, V. (2019, December 10). Singapore tops food security index for 2nd straight year. *The Straits Times.* Retrieved 2020, June 16 from [https://www.straitstimes.com/singapore/singapore-tops-food-security-index-for-2nd-straight-year](https://www.straitstimes.com/singapore/singapore-tops-food-security-index-for-2nd-straight-year)
 
-[^2]: AVA’s Food Security Roadmap for Singapore (2020, February 27). *Singapore Food Agency.* Retrieved 2020, June 16 from <https://www.sfa.gov.sg/food-for-thought/article/detail/ava’s-food-security-roadmap-for-singapore>
+[^2]: AVA’s Food Security Roadmap for Singapore (2020, February 27). *Singapore Food Agency.* Retrieved 2020, June 16 from [https://www.sfa.gov.sg/food-for-thought/article/detail/ava%27s-food-security-roadmap-for-singapore](https://www.sfa.gov.sg/food-for-thought/article/detail/ava%27s-food-security-roadmap-for-singapore)
 
-[^3]: Tan, H.Y. (2020, April 26). Coronavirus and our new relationship with food. *The Straits Times.* Retrieved 2020, June 16  from <https://www.straitstimes.com/lifestyle/food/coronavirus-and-our-new-relationship-with-food>
+[^3]: Tan, H.Y. (2020, April 26). Coronavirus and our new relationship with food. *The Straits Times.* Retrieved 2020, June 16  from [https://www.straitstimes.com/lifestyle/food/coronavirus-and-our-new-relationship-with-food](https://www.straitstimes.com/lifestyle/food/coronavirus-and-our-new-relationship-with-food)
 
-[^4]: Mahmud, A.H. (2019, March 7). Singapore aims to produce 30% of its nutritional needs by 2030, up from less than 10%. *CNA.* Retrieved 2020, June 15 from <https://channelnewsasia.com/news/singapore/singapore-produce-30-own-food-from-10-nutritional-needs-11320426>
+[^4]: Singapore Food Agency. (2023, December 7). 30 by 30. *Singapore Food Agency.* Retrieved 2024, May 5 from [https://www.ourfoodfuture.gov.sg/30by30/](https://www.ourfoodfuture.gov.sg/30by30/)
 
-[^5]: Food safety and the different types of food contamination. (2019, October 30). *Australian Institute of Food Safety.* Retrieved 2020, June 17 from <https://www.foodsafety.com.au/blog/food-safety-and-the-different-types-of-food-contamination>
+[^5]: Food safety and the different types of food contamination. (2019, October 30). *Australian Institute of Food Safety.* Retrieved 2020, June 17 from [https://blog.foodsafety.com.au/different-types-of-food-contamination](https://blog.foodsafety.com.au/different-types-of-food-contamination)
 
-[^6]: Food safety. (2020, April 30). *World Health Organization.* Retrieved 2020, 12 August from <https://www.who.int/news-room/fact-sheets/detail/food-safety>
+[^6]: Food safety. (2020, April 30). *World Health Organization.* Retrieved 2020, 12 August from [https://www.who.int/news-room/fact-sheets/detail/food-safety](https://www.who.int/news-room/fact-sheets/detail/food-safety)
 
-[^7]: Managing food safety along the supply chain. (2020, April 21). *Food Logistics.* Retrieved 2020, August 12 from <https://www.foodlogistics.com/cold-chain/article/21122568/managing-food-safety-along-the-supply-chain>
+[^7]: Managing food safety along the supply chain. (2020, April 21). *Food Logistics.* Retrieved 2020, August 12 from [https://www.foodlogistics.com/cold-chain/article/21122568/managing-food-safety-along-the-supply-chain](https://www.foodlogistics.com/cold-chain/article/21122568/managing-food-safety-along-the-supply-chain)
 
-[^8]: Food safety. (2020, April 30). *World Health Organization.* Retrieved 2020, 12 August from <https://www.who.int/news-room/fact-sheets/detail/food-safety>
+[^8]: Food safety. (2020, April 30). *World Health Organization.* Retrieved 2020, 12 August from [https://www.who.int/news-room/fact-sheets/detail/food-safety](https://www.who.int/news-room/fact-sheets/detail/food-safety)
 
 
 
 <h4>Websites</h4>
-<h5>1. <a href="https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-food-security-stockpile-national-12563280" target="_blank">The big read: Singapore has been buttressing its food security for decades. Now, people realise why.</a></h5>
+<h5>1. <a href="https://www.todayonline.com/big-read/big-read-singapore-has-been-buttressing-its-food-security-decades-now-people-realise-why" target="_blank">The big read: Singapore has been buttressing its food security for decades. Now, people realise why.</a></h5>
 Ng, J.S. (2020, March 23). The Big Read: Singapore has been buttressing its food security for decades. Now, people realise why. CNA. Retrieved 2020, June 16.
 
 <h5>2. <a href="https://www.futurelearn.com/courses/explore-how-farmers-produce-food-sustainably/0/steps/60769" target="_blank">Sustainability and the global food supply chain</a></h5>
@@ -53,51 +54,51 @@ Cullen, M.T. (2020, March 29). COVID-19 and the risk to food supply chains: How 
 Food safety. (2020, April 30). *World Health Organization.* Retrieved 2020, June 16.
 
 <h5>5. <a href="https://www2.deloitte.com/us/en/pages/risk/articles/food-safety-supply-chain-risk.html" target="_blank">Food safety supply chain risk management</a></h5>
-Chasen, R. & McGinnis, T. (2020). Food safety supply chain risk management. *Deloitte*. Retrieved 2020, June 16.
+Chasen, R. &amp; McGinnis, T. (2020). Food safety supply chain risk management. *Deloitte*. Retrieved 2020, June 16.
 
-<h5>6. <a href="https://www.foodprocessing.com/category/food_safety/" target="_blank">Food safety: Food processing</a></h5>
+<h5>6. <a href="https://www.foodprocessing.com/food-safety/" target="_blank">Food safety: Food processing</a></h5>
 Food Processing. (2020). Food safety: Food processing. *Food Processing.* Retrieved 2020, June 15.
 
 
 
 <h4>Videos and Podcasts</h4>
 <h5>1. Southeast Asia’s food supply chain could be upended</h5>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/UfMd7d9H4UY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/UfMd7d9H4UY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 Source: <a href="https://www.youtube.com/embed/UfMd7d9H4UY" target="_blank">Southeast Asia’s food supply chain could be upended. (2020, April 24). *CGTN.* Retrieved 2020, June 15.
 
 <h5>2. Future of food: Farming in the age of climate change</h5>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/Tjr6z1GMDqc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/embed/Tjr6z1GMDqc" target="_blank">Future of food: Farming in the age of climate change. (2017, November 22). *Quartz.* Retrieved 2020, June 15.
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/Tjr6z1GMDqc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+Source: </a><a href="https://www.youtube.com/embed/Tjr6z1GMDqc" target="_blank">Future of food: Farming in the age of climate change. (2017, November 22). *Quartz.* Retrieved 2020, June 15.
 
 <h5>3. Food for the future – A short documentary</h5>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/BCL1UI1qRXM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/embed/BCL1UI1qRXM" target="_blank">Food for the future – A short documentary. (2017, October 13). *European Bank for Reconstruction and Development.* Retrieved 2020, June 15.
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/BCL1UI1qRXM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+Source: </a><a href="https://www.youtube.com/embed/BCL1UI1qRXM" target="_blank">Food for the future – A short documentary. (2017, October 13). *European Bank for Reconstruction and Development.* Retrieved 2020, June 15.
 
 <h5>4. World Food Safety Day 2020</h5>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/FMIOEnNXMCU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/embed/FMIOEnNXMCU" target="_blank">World Food Safety Day 2020. (2020, March 19). *World Health Organization (WHO).* Retrieved 2020, June 16.
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/FMIOEnNXMCU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+Source: </a><a href="https://www.youtube.com/embed/FMIOEnNXMCU" target="_blank">World Food Safety Day 2020. (2020, March 19). *World Health Organization (WHO).* Retrieved 2020, June 16.
 
 
 
 <h4>Ebooks</h4>
 <h5>1. The chain: Farm, factory and the fate of our food</h5>
-Genoways, T. (2014). *The chain: Farm, factory and the fate of our food.* HarperCollins. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br/> 
+Genoways, T. (2014). *The chain: Farm, factory and the fate of our food.* HarperCollins. Retrieved from OverDrive. (</a><a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br> 
 <a href="https://nlb.overdrive.com/media/1537414" target="_blank"><img src="/images/business/GE5-the-chain.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
 
 <h5>2. A bone to pick: The good and bad news about food, with wisdom and advice on diets, food safety, GMOs, farming, and more</h5>
-Bittman, M. (2015). *A bone to pick: The good and bad news about food, with wisdom and advice on diets, food safety, GMOs, farming, and more.* Potter/Ten Speed/Harmony/Rodale. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br/> 
+Bittman, M. (2015). *A bone to pick: The good and bad news about food, with wisdom and advice on diets, food safety, GMOs, farming, and more.* Potter/Ten Speed/Harmony/Rodale. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br> 
 <a href="https://nlb.overdrive.com/media/2020335" target="_blank"><img src="/images/business/GE5-a-bone-to-pick.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
 
 <h5>3. Food safety: The science of keeping food safe</h5>
-Shaw, I. C. (2018). *Food safety: The science of keeping food safe.* Wiley. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br/> 
+Shaw, I. C. (2018). *Food safety: The science of keeping food safe.* Wiley. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br> 
 <a href="https://nlb.overdrive.com/media/3439703" target="_blank"><img src="/images/business/GE5-food-safety.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
 
 <h5>4. Corporate social responsibility, social justice and the global food supply chain</h5>
-Shaw, H. J. & Shaw, J. J.A. (2019). *Corporate social responsibility, social justice and the global food supply chain.* Taylor & Francis. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br/> 
+Shaw, H. J. &amp; Shaw, J. J.A. (2019). *Corporate social responsibility, social justice and the global food supply chain.* Taylor &amp; Francis. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br> 
 <a href="https://nlb.overdrive.com/media/4193616" target="_blank"><img src="/images/business/GE5-corporate-social-responsibility.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
 
 <h5>5. Hot, hungry planet: The fight to stop a global food crisis in the face of climate change</h5>
-Palmer, L. (2017). *Hot, hungry planet: The fight to stop a global food crisis in the face of climate change.* St Martin’s Publishing Group. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br/> 
+Palmer, L. (2017). *Hot, hungry planet: The fight to stop a global food crisis in the face of climate change.* St Martin’s Publishing Group. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br> 
 <a href="https://nlb.overdrive.com/media/2968686" target="_blank"><img src="/images/business/GE5-hot-hungry-planet.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
 
 
@@ -105,19 +106,19 @@ If you are interested to read up further on food logistics and safety, check out
 
 <h4>Journal articles</h4>
 <h5>1. Sensing safety in Singapore, 1900-2015</h5>
-Tarulevicz, N. (2018). Sensing safety in Singapore, 1900−2015. *Food, Culture & Society, 21(2)*, 164−179. Retrieved 2020, June 17 from EBSCOhost databases via NLB's <a href="https://eresources.nlb.gov.sg/main/browse/resource/1329/" target="_blank">eResources website</a>. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br/> 
+Tarulevicz, N. (2018). Sensing safety in Singapore, 1900−2015. *Food, Culture &amp; Society, 21(2)*, 164−179. Retrieved 2020, June 17 from EBSCOhost databases<br> 
 
 <h5>2. The role of smart packaging system in food supply chain</h5>
-Chen, S., Brahma, S., Mackay, J., Cao, C. & Aliakbarian, B. (2020, February 13) The role of smart packaging system in food supply chain. *Journal of Food Science, 85(3)*, 517−525. Retrieved 2020, June 17 from Proquest Central via NLB's <a href="https://eresources.nlb.gov.sg/main/browse/resource/1111/" target="_blank">eResources website</a>. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br/>
+Chen, S., Brahma, S., Mackay, J., Cao, C. &amp; Aliakbarian, B. (2020, February 13) The role of smart packaging system in food supply chain. *Journal of Food Science, 85(3)*, 517−525. Retrieved 2020, June 17 from Proquest Central via NLB's <a href="https://eresources.nlb.gov.sg/main/browse/resource/1111/" target="_blank">eResources website</a>. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br>
 
 <h5>3. An Asian way to safeguard food security: Transnational farmland investment</h5>
-Lin, S.Y. (2017). An Asian way to safeguard food security: Transnational farmland investment. *Asian Perspective, 41(3)*, 481−518. Retrieved 2020, June 17 from Proquest Central via NLB's <a href="https://eresources.nlb.gov.sg/main/browse/resource/1111/" target="_blank">eResources website</a>. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br/>
+Lin, S.Y. (2017). An Asian way to safeguard food security: Transnational farmland investment. *Asian Perspective, 41(3)*, 481−518. Retrieved 2020, June 17 from Proquest Central via NLB's <a href="https://eresources.nlb.gov.sg/main/browse/resource/1111/" target="_blank">eResources website</a>. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br>
 
 <h5>4. <a href="https://doi.org/10.31585/jbba-1-1-(10)2018" target="_blank">Food traceability on blockchain: Walmart’s pork and mango pilots with IBM</a></h5>
 Kamath, R. (2018, June 12) Food traceability on blockchain: Walmart’s pork and mango pilots with IBM. *The Journal of The British Blockchain Association, 1(1)*, 47−53. Retrieved 2020, June 17.
 
 <h4>Chinese, Malay and Tamil resources</h4>
-<h5>1. <a href="https://www.8world.com/news/singapore/article/covid19-food-sources-1074146" target="_blank">我国食品来源多元化 主要供应源有12个</a></h5>
+<h5>1. 我国食品来源多元化 主要供应源有12个</h5>
 我国食品来源多元化 主要供应源有12个。（2020年3月17日）。*8视界。* Retrieved 2020, June 8.
 
 To ensure a constant and reliable food supply and minimise dependency, Singapore imports from varied sources. The Singapore Food Agency works with industry partners and foreign counterparts to ensure our food supply and safety. Other measures include funding for Singapore companies to set up food production companies overseas and educating the public on alternative food products.
@@ -139,9 +140,8 @@ The Ministry of Health announced that only takeaways and delivery services were 
 
 To better address food gaps for the vulnerable, a virtual food banking app to has been developed to connect corporate donors with food support organisations.
 
-<p style="font-size:10pt;"><b>Disclaimer/ Rights statement</b><br/>
-The information in this resource guide is valid as of July 2020 and correct as far as we are able to ascertain from our sources. It is not intended to be an exhaustive or complete history on the subject. Please contact the Library for further reading materials on the topic.<br/>
-All Rights Reserved. National Library Board Singapore 2020.<br/></p>
+<p style="font-size:10pt;"><b>Disclaimer/ Rights statement</b><br>
+The information in this resource guide is valid as of July 2020 and correct as far as we are able to ascertain from our sources. It is not intended to be an exhaustive or complete history on the subject. Please contact the Library for further reading materials on the topic.<br>
+All Rights Reserved. National Library Board Singapore 2020.<br></p>
 ---
 #### **References**
-
