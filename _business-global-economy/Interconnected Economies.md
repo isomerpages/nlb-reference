@@ -2,6 +2,7 @@
 title: Interconnected Economies
 permalink: /guides/business/global-economy/interconnected-economies/
 description: ""
+variant: markdown
 ---
 This resource guide was created as part of a learning package on The Global Economy. For other related resource guides, please head to this directory of [Learning Packages](/guides/learning-packages-directory).
 
@@ -23,30 +24,30 @@ In the global economy, Singapore has served as a major business and financial hu
 
 Check out the resources below to find out more about the interconnectedness of the global economy and the impact of the COVID-19 pandemic. Our next guide will look at supply chains in a globalized world.
 
-[^1]: Yergin, D. (2002). “Globalization: The inside story of our new interconnected world.” *Social Education, 66*(2), p. 111. Accessed 2020, June 18.>
+[^1]: Yergin, D. (2002). “Globalization: The inside story of our new interconnected world.” *Social Education, 66*(2), p. 111. Accessed 2020, June 18.
 
-[^2]: Covid-19 should make Singapore look at globalisation and food security differently. (2020, April 15). Today. Retrieved 2020, June 18 from https://www.todayonline.com/commentary/covid-19-should-make-singapore-look-globalisation-and-food-security-differently; Singapore and 12 other countries pledge to maintain global trade and travel links amid COVID-19 pandemic. (2020, April 18). CNA. Retrieved 2020, June 18 from https://www.channelnewsasia.com/news/singapore/singapore-covid-19-ministerial-coordination-group-trade-travel-12654984; Ministry of Foreign Affairs Singapore. (2020, April 18). *Declaration of the Ministerial Coordination Group on COVID-19 on Maintaining Essential Global Links* [Press release]. Retrieved from https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2020/04/18042020-Ministerial-Coordination-Group-on-COVID-19; Coronavirus is ‘a serious crisis’ for Singapore, says deputy prime minister. (2020, March 29). CNBC. Retrieved 2020, June 18 from https://www.cnbc.com/2020/03/30/coronavirus-is-a-serious-crisis-for-singapore-deputy-prime-minister.html>
+[^2]: Covid-19 should make Singapore look at globalisation and food security differently. (2020, April 15). Today. Retrieved 2020, June 18 from https://www.todayonline.com/commentary/covid-19-should-make-singapore-look-globalisation-and-food-security-differently; Singapore and 12 other countries pledge to maintain global trade and travel links amid COVID-19 pandemic. (2020, April 18). CNA. Retrieved 2020, June 18 from https://www.channelnewsasia.com/news/singapore/singapore-covid-19-ministerial-coordination-group-trade-travel-12654984; Ministry of Foreign Affairs Singapore. (2020, April 18). *Declaration of the Ministerial Coordination Group on COVID-19 on Maintaining Essential Global Links* [Press release]. Retrieved from https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2020/04/18042020-Ministerial-Coordination-Group-on-COVID-19; Coronavirus is ‘a serious crisis’ for Singapore, says deputy prime minister. (2020, March 29). CNBC. Retrieved 2020, June 18 from https://www.cnbc.com/2020/03/30/coronavirus-is-a-serious-crisis-for-singapore-deputy-prime-minister.html&gt;
 
 
 
 <h4>Videos and Podcasts</h4>
 <h5>1. Will the coronavirus crisis reshape globalisation and the economic system? | COVID-19 Special</h5>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/WVvziN_g-bw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/WVvziN_g-bw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 Source: <a href="https://www.youtube.com/embed/WVvziN_g-bw" target="_blank">Will the coronavirus crisis reshape globalisation and the economic system? | COVID-19 Special.</a> (2020, May 27). <i>DW News</i>. Retrieved 2020, June 18.
 
 <h5>2. The future of the global economy: Integration or fragmentation?</h5>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/vMcMRHwPtEE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/vMcMRHwPtEE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 Source: <a href="https://www.youtube.com/embed/vMcMRHwPtEE" target="_blank">The future of the global economy: Integration or fragmentation?</a> (2019, January 9). Peterson Institute for International Economics. Retrieved 2020, June 28.
 
 <h5>3. China, coronavirus and the interconnected world – Arthur Kroeber</h5>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/kBo8AFMLXu4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/kBo8AFMLXu4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 Source: <a href="https://www.youtube.com/embed/kBo8AFMLXu4" target="_blank">China, coronavirus and the interconnected world – Arthur Kroeber.</a> (2020, April 20). Network 20/20. Retrieved 2020, June 18.
 
 
 
 <h4>Websites and Journal articles</h4>
 <h5>1. <a href="https://www.lawfareblog.com/travails-interconnected-world-pandemics-digital-economy" target="_blank">Travails of an interconnected world: From pandemics to the digital economy</a></h5>
-Levite, A. & Lyu, J. (2020, April 30). Travails of an interconnected world: From pandemics to the digital. <i>Lawfare Blog</i>. Retrieved 2020, June 18.
+Levite, A. &amp; Lyu, J. (2020, April 30). Travails of an interconnected world: From pandemics to the digital. <i>Lawfare Blog</i>. Retrieved 2020, June 18.
 
 <h5>2. <a href="https://www.edb.gov.sg/en/news-and-events/insights/headquarters/covid-19-could-redefine-singapore-s-place-in-the-global-economy.html" target="_blank">Covid-19 could redefine Singapore’s place in the global economy</a></h5>
 Capri, A. (2020, February 26). Covid-19 could redefine Singapore’s place in the global economy. <i>Singapore Economic Development Board</i>. Retrieved 2020, June 18.
@@ -57,7 +58,7 @@ Wijayasundara, M., (2020, June 22). Opportunities for a circular economy post CO
 <h5>4. <a href="https://www.bis.org/publ/bppdf/bispap100_u.pdf" target="_blank">Globalisation in a small open economy: The Singapore experience</a></h5>
 Robinson, E. (2018). Globalisation in a small open economy: The Singapore experience. BIS Papers No. 100, 321–329. Retrieved 2020, June 18.
 
-<h5>5. <a href="https://www.oecd.org/sti/ind/interconnected-economies-GVCs-synthesis.pdf" target="_blank">Interconnected economies: Benefitting from global value chains</a></h5>
+<h5>5. <a href="https://www.oecd.org/publications/interconnected-economies-9789264189560-en.htm" target="_blank">Interconnected economies: Benefitting from global value chains</a></h5>
 OECD. (2013). Interconnected economies: Benefitting from global value chains. Synthesis report – OECD, 1–54. Retrieved 2020, June 18.
 
 <h5>6. <a href="https://www.eria.org/uploads/media/policy-brief/COVID-19-and-Southeast-and-East-Asian-Economic-Integration.pdf" target="_blank">COVID-19 and Southeast and East Asian economic integration: Understanding the consequences for the future</a></h5>
@@ -67,19 +68,19 @@ Economic Research Institute for ASEAN and East Asia. (2020). COVID-19 and Southe
 
 <h4>Ebooks</h4>
 <h5>1. Visions for the global economy: Economic growth, global economic governance, and political economy</h5>
-Gagain Jr., J.R. (2012). <i>Visions for the global economy: Economic growth, global economic governance, and political economy</i>. iUniverse. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br/> 
+Gagain Jr., J.R. (2012). <i>Visions for the global economy: Economic growth, global economic governance, and political economy</i>. iUniverse. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br> 
 <a href="https://nlb.overdrive.com/media/26448A7B-BDE7-4B4C-BCB6-AFE7A60607AA" target="_blank"><img src="/images/business/GE2-visions-global-economy.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
 
 <h5>2. Flat world navigation: Collaboration and networking in the global digital economy</h5>
-McDonald, K.C. (2015). <i>Flat world navigation: Collaboration and networking in the global digital economy</i>. Kogan Page. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br/> 
+McDonald, K.C. (2015). <i>Flat world navigation: Collaboration and networking in the global digital economy</i>. Kogan Page. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br> 
 <a href="https://nlb.overdrive.com/media/15D6F3EA-F345-44D9-945D-6B85B9E91B3F" target="_blank"><img src="/images/business/GE2-flat-world-navigation.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
 
 <h5>3. Southeast Asia in the global economy: Securing competitiveness and social protection</h5>
-Djiwandono, J.S. & Nesadurai, H.E.S. (2009). <i>Southeast Asia in the global economy: Securing competitiveness and social protection</i>. Institute of Southeast Asian Studies. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br/> 
+Djiwandono, J.S. &amp; Nesadurai, H.E.S. (2009). <i>Southeast Asia in the global economy: Securing competitiveness and social protection</i>. Institute of Southeast Asian Studies. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br> 
 <a href="https://nlb.overdrive.com/media/B814C593-9093-4EC8-82E0-90CFC00CE4D9" target="_blank"><img src="/images/business/GE2-SEA-in-global-economy.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
 
 <h5>4. From global to local: The making of things and the end of globalization</h5>
-Livesey, F. (2017). <i>From global to local: The making of things and the end of globalization</i>. Knopf Doubleday Publishing Group. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br/> 
+Livesey, F. (2017). <i>From global to local: The making of things and the end of globalization</i>. Knopf Doubleday Publishing Group. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br> 
 <a href="https://nlb.overdrive.com/media/D7BA3F89-9601-408B-9351-7BA5931FAC6D" target="_blank"><img src="/images/business/GE2-from-global-to-local.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
 
 
@@ -90,7 +91,7 @@ Livesey, F. (2017). <i>From global to local: The making of things and the end of
 
 The breakdown of supply chains caused by the COVID-19 pandemic has forced many countries to re-think self-sustainability instead of relying on global supply chains.
 
-<h5>2. <a href="http://xw.sinoins.com/202006/01/content_346335.htm" target="_blank">莫让全球危机变为“全球化”危机</a></h5>
+<h5>2. <a href="https://m.investgo.cn/article/gb/fxbg/202006/489188.html" target="_blank">莫让全球危机变为“全球化”危机</a></h5>
 Vaeth, H. (2020年6月1日）。莫让全球危机变为“全球化”危机。<i>中国银行保险报网</i>。 Retrieved 2020, June 3.
 
 The COVID-19 pandemic has demonstrated how risks and opportunities are present in a connected world. The writer puts forth the view that multilateral collaboration is still required to fight the current and future epidemics. This will include stabilising economic activities and maintaining global supply chains.
@@ -111,8 +112,8 @@ Singapore has cut down its economic growth projection due to the COVID-19 pandem
 Due the disruptions caused by COVID-19, it is expected that tourism in Singapore will be heavily affected.
 
 
-<p style="font-size:10pt;"><b>Disclaimer/ Rights statement</b><br/>
-The information in this resource guide is valid as of June 2020 and correct as far as we are able to ascertain from our sources. It is not intended to be an exhaustive or complete history on the subject. Please contact the Library for further reading materials on the topic.<br/>
-All Rights Reserved. National Library Board Singapore 2020.<br/></p>
+<p style="font-size:10pt;"><b>Disclaimer/ Rights statement</b><br>
+The information in this resource guide is valid as of June 2020 and correct as far as we are able to ascertain from our sources. It is not intended to be an exhaustive or complete history on the subject. Please contact the Library for further reading materials on the topic.<br>
+All Rights Reserved. National Library Board Singapore 2020.<br></p>
 ---
 #### **References**
