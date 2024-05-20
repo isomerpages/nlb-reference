@@ -68,8 +68,8 @@ for sustainable transport? A case study on shared electric automated mobility
 initiatives in the Netherlands. <em>Transportation Research Interdisciplinary Perspectives</em>,
 5. Retrieved 2021, September 6 from <a href="https://dx.doi.org/10.1016/j.trip.2020.100129" rel="noopener noreferrer nofollow" target="_blank">https://dx.doi.org/10.1016/j.trip.2020.100129</a>
 </p>
-<p>[^5]:Coppens, J. (2021, June 4). The future of sustainable transportation.*
-Accenture*. Retrieved 2021, September 6 from <a href="https://www.accenture.com/sg-en/blogs/southeast-asia-blog/the-future-of-sustainable-transportation" rel="noopener noreferrer nofollow" target="_blank">https://www.accenture.com/sg-en/blogs/southeast-asia-blog/the-future-of-sustainable-transportation</a>
+<p>[^5]:Coppens, J. (2021, June 4). The future of sustainable transportation. <em>Accenture</em>.
+Retrieved 2021, September 6 from <a href="https://www.accenture.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.accenture.com/</a>
 </p>
 <h4>Websites</h4>
 <p><strong>Singapore is shaping the future of mobility</strong> 
