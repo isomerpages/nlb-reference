@@ -2,6 +2,7 @@ collections:
   singapore-history:
     output: true
     order:
+      - Understanding Singapore III.md
       - Colonial Period.md
       - Decolonisation Process.md
       - Post Independence SEA.md
