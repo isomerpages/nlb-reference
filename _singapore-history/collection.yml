@@ -2,7 +2,6 @@ collections:
   singapore-history:
     output: true
     order:
-      - Example Title.md
       - "S Rajaratnam’s Writings Before 1959: A Preliminary Annotated
         Bibliography.md"
       - Colonial Period.md
