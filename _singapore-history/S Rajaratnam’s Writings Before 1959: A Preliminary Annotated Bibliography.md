@@ -1,0 +1,22 @@
+---
+title: "S Rajaratnam’s Writings Before 1959: A Preliminary Annotated Bibliography"
+permalink: /s-rajaratnam-s-writings-before-1959-a-preliminary-annotated-bibliography/
+variant: markdown
+description: ""
+---
+<p>Sinnathamby Rajaratnam is best known as Singapore’s first Minister for
+Culture and, after independence in 1965, Singapore’s first Minister for
+Foreign Affairs. In these two positions, and in other offices in a long
+subsequent political career, Rajaratnam theorized Singaporean multiculturalism,
+and developed a national foreign policy. His speeches and commentaries
+while in Government are well known, and many have been reproduced in two
+collections, The Prophetic and the Political, edited by Chan Heng Chee
+and Obaid ul Haq, and S. Rajaratnam on Singapore: From Ideas to Reality,
+edited by Kwa Chong Guan. Rajaratnam’s short stories, written during his
+sojourn in London during the Second World War, and six radio plays he wrote
+in the 1950s, have also been collected in Irene Ng’s <em>The Short Stories and Radio Plays of S. Rajaratnam</em>.
+The majority of Rajaratnam’s writings before he entered the first People’s
+Action Party cabinet on 5 June 1959, however, were published in newspapers
+and magazines during his career as a journalist. Few of these are listed
+in bibliographical sources: Gandhimathy Durairaj and Linda Yip Seong Chun’s <em>S. Rajaratnam: A Bibliography</em>,
+for instance, makes scant reference to material before 1959.</p>
