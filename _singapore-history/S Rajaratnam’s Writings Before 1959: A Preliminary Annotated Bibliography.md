@@ -20,7 +20,7 @@ Action Party cabinet on 5 June 1959, however, were published in newspapers
 and magazines during his career as a journalist. Few of these are listed
 in bibliographical sources: Gandhimathy Durairaj and Linda Yip Seong Chun’s <em>S. Rajaratnam: A Bibliography</em>,
 for instance, makes scant reference to material before 1959.</p>
-<p></p>
+
 <p>This bibliography attempts a preliminary listing of Rajaratnam’s print
 publications before Singapore’s achievement of self-government in 1959.
 During his time in London from 1935 to 1947, Rajaratnam published articles
@@ -31,7 +31,7 @@ first for the Malaya Tribune, and then from 1950 onwards for the Singapore
 Standard. After an abortive and financially ruinous effort to found Raayat,
 “a magazine for educated Malayans,” Rajaratnam began working for the Straits
 Times in early 1955, resigning in election year in 1959.</p>
-<p></p>
+
 <p>The bibliography only lists articles that carry Rajaratnam’s byline, or
 which can be definitively identified as being by him from other contemporary
 sources. A large body of his work does not carry bylines. In London, Rajaratnam
@@ -61,5 +61,4 @@ Aw Boon Haw. For an account of some of this journalism, see Irene Ng’s
 The Singapore Lion: A Biography of S. Rajaratnam, especially chapters 7
 and 9. In the case when an article or short story is subsequently reprinted,
 I have only included details of its first publication.</p>
-<p>Philip Holden, May 2024</p>
-<p></p>
+<p align="right">Philip Holden, May 2024</p>
