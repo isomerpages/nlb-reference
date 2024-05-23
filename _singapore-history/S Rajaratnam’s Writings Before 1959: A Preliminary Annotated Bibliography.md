@@ -59,7 +59,7 @@ he refused to align his politics with that of the newspaper’s proprietor,
 Aw Boon Haw. For an account of some of this journalism, see Irene Ng’s <em>The Singapore Lion: A Biography of S. Rajaratnam</em>,
 especially chapters 7 and 9. In the case when an article or short story
 is subsequently reprinted, I have only included details of its first publication.</p>
-<p>Philip Holden, May 2024</p>
+<p align="right">Philip Holden, May 2024</p>
 <p><strong>References</strong>
 </p>
 <p>Durairaj, Gandhimathy.<em> <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12935514" rel="noopener noreferrer nofollow" target="_blank">S. Rajaratnam: A Bibliography.</a></em> Edited
@@ -75,8 +75,7 @@ Institute of Southeast Asian Studies, 2007.</p>
 <p><em>---.&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13792223" rel="noopener noreferrer nofollow" target="_blank">The Short Stories and Radio Plays of S. Rajaratnam</a>.</em> Edited
 by Irene Ng. Singapore: Epigram, 2011.</p>
 <p></p>
-<p></p>
-<h4><a href="/files/sg-history/Bibliography_of_Articles_and_Short_Stories.pdf" rel="noopener noreferrer nofollow" target="_blank">Bibliography of Articles and Short Stories</a></h4>
+Click the PDF icon to view and download the bibliography: <h4><a href="/files/sg-history/Bibliography_of_Articles_and_Short_Stories.pdf" rel="noopener noreferrer nofollow" target="_blank">Bibliography of Articles and Short Stories</a></h4>
 <p></p>
 <p></p>
 <p></p>
