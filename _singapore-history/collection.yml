@@ -2,7 +2,6 @@ collections:
   singapore-history:
     output: true
     order:
-      - Understanding Singapore I.md
       - Colonial Period.md
       - Decolonisation Process.md
       - Post Independence SEA.md
@@ -13,5 +12,6 @@ collections:
       - Communist Party of Malaya A Comprehensive Bibliography.md
       - "S Rajaratnam’s Writings Before 1959: A Preliminary Annotated
         Bibliography.md"
+      - Understanding Singapore I.md
       - Understanding Singapore (I).md
       - Understanding Singapore (II).md
