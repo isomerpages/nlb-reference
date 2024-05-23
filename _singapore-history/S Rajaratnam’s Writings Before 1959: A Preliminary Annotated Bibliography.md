@@ -59,7 +59,7 @@ he refused to align his politics with that of the newspaper’s proprietor,
 Aw Boon Haw. For an account of some of this journalism, see Irene Ng’s <em>The Singapore Lion: A Biography of S. Rajaratnam</em>,
 especially chapters 7 and 9. In the case when an article or short story
 is subsequently reprinted, I have only included details of its first publication.</p>
-<p>Philip Holden, May 2024</p>
+<p align="right">Philip Holden, May 2024</p>
 <p><strong>References</strong>
 </p>
 <p>Durairaj, Gandhimathy.<em> <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12935514" rel="noopener noreferrer nofollow" target="_blank">S. Rajaratnam: A Bibliography.</a></em> Edited
