@@ -75,6 +75,9 @@ Institute of Southeast Asian Studies, 2007.</p>
 <p><em>---.&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13792223" rel="noopener noreferrer nofollow" target="_blank">The Short Stories and Radio Plays of S. Rajaratnam</a>.</em> Edited
 by Irene Ng. Singapore: Epigram, 2011.</p>
 <p></p>
+<p><a href="/files/sg-history/Bibliography_of_Articles_and_Short_Stories.pdf" rel="noopener noreferrer nofollow" target="_blank">Bibliography of Articles and Short Stories</a>
+</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
