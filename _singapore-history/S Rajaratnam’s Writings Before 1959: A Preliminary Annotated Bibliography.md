@@ -49,7 +49,7 @@ I have also excluded anonymous or pseudonymous editorials and longer articles
 from the magazine <em>Raayat </em>which are clearly in Rajaratnam’s style,
 and pseudonymous articles, again distinctively in his style, from the People’s
 Action Party publication <em>Petir </em>during his tenure as editor. I have
-been unable to examine a full run of Petir, and so some articles published
+been unable to examine a full run of <em>Petir</em>, and so some articles published
 under Rajaratnam’s byline may still be missing from the bibliography as
 it stands. Finally, in the absence of contemporary external evidence, I
 have not included the many news articles and editorials from his period
