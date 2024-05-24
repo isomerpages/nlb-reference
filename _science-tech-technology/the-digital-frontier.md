@@ -1,6 +1,7 @@
 ---
 title: The Digital Frontier
 permalink: /guides/sci-tech/tech/digital-frontier/
+variant: markdown
 ---
 The COVID-19 pandemic has accelerated digitisation across many sectors of the economy and society.[^1] In the digital world, everything and everyone is connected to apps, data, purchases, services, and communication. Securing this world is critical for protecting people, organisations, infrastructure, and just about everything we rely on for health and prosperity.[^2]  
 
@@ -13,7 +14,7 @@ This resource guide was prepared in September 2021 by Darren Seow, Senior Librar
 #### Websites
 
 **Cybersecurity is too big a job for governments or business to handle alone**<br>
-Mee, P., & Chandrasekhar, C. (2021, May 3). Cybersecurity is too big a job for governments or business to handle alone. *World Economic Forum*. Retrieved 2021, September 20 from [https://www.weforum.org/agenda/2021/05/cybersecurity-governments-business/](https://www.weforum.org/agenda/2021/05/cybersecurity-governments-business/) 
+Mee, P., &amp; Chandrasekhar, C. (2021, May 3). Cybersecurity is too big a job for governments or business to handle alone. *World Economic Forum*. Retrieved 2021, September 20 from [https://www.weforum.org/agenda/2021/05/cybersecurity-governments-business/](https://www.weforum.org/agenda/2021/05/cybersecurity-governments-business/) 
 
 
 **Ransomware highlights the challenges and subtleties of cybersecurity**<br>
@@ -54,11 +55,11 @@ Dawda, S. (2021, February 3). Exploring national cyber security strategies: Poli
 
 
 **Achieving robust European cybersecurity through public-private partnerships: Approaches and developments** <br> 
-Cappelletti, F., & Martino, L. (2021, January). Achieving robust European cybersecurity through public-private partnerships: Approaches and developments. *European Liberal Forum*. Retrieved 2021, September 20 from<br>
-[https://www.liberalforum.eu/wp-content/uploads/2021/01/ELF_DiscussionPaper_4_Cyber-PPPs.pdf](https://www.liberalforum.eu/wp-content/uploads/2021/01/ELF_DiscussionPaper_4_Cyber-PPPs.pdf)
+Cappelletti, F., &amp; Martino, L. (2021, January). Achieving robust European cybersecurity through public-private partnerships: Approaches and developments. *European Liberal Forum*. Retrieved 2021, September 20 from<br>
+[https://liberalforum.eu/publication/discussion-paper-4-achieving-robust-european-cybersecurity-through-public-private-partnerships-approaches-and-developments/](https://liberalforum.eu/publication/discussion-paper-4-achieving-robust-european-cybersecurity-through-public-private-partnerships-approaches-and-developments/)
 
 **The CCP's next century: Expanding economic control, digital governance and national security**<br>
-Grünberg, N., & Wessling, C. (Eds.). (2021, June 15). The CCP's next century: Expanding economic control, digital governance and national security. *Mercatos Institute for Chinese Studies*. Retrieved 2021, September 20 from<br>[https://merics.org/sites/default/files/2021-07/MERICSPapersOnChinaCCP100_3_1.pdf](https://merics.org/sites/default/files/2021-07/MERICSPapersOnChinaCCP100_3_1.pdf)
+Grünberg, N., &amp; Wessling, C. (Eds.). (2021, June 15). The CCP's next century: Expanding economic control, digital governance and national security. *Mercatos Institute for Chinese Studies*. Retrieved 2021, September 20 from<br>[https://merics.org/sites/default/files/2021-07/MERICSPapersOnChinaCCP100_3_1.pdf](https://merics.org/sites/default/files/2021-07/MERICSPapersOnChinaCCP100_3_1.pdf)
 
 **Toward a collaborative cyber defense and enhanced threat intelligence structure**<br>
 Zabierek, L., et al. (2021, August). Toward a collaborative cyber defense and enhanced threat intelligence structure. *Belfer Center, Harvard Kennedy School*. Retrieved 2020, September 20 from<br>
@@ -66,7 +67,7 @@ Zabierek, L., et al. (2021, August). Toward a collaborative cyber defense and en
 
 
 **Reflections on digital sovereignty**<br> 
-Moerel, L., & Timmers, P. (2021, January 15). Reflections on digital sovereignty. *EU Cyber Direct*. Retrieved 2020, September 20 from<br>
+Moerel, L., &amp; Timmers, P. (2021, January 15). Reflections on digital sovereignty. *EU Cyber Direct*. Retrieved 2020, September 20 from<br>
 [https://eucd.s3.eu-central-1.amazonaws.com/eucd/assets/khGGovSY/rif_timmersmoerel-final-for-publication.pdf](https://eucd.s3.eu-central-1.amazonaws.com/eucd/assets/khGGovSY/rif_timmersmoerel-final-for-publication.pdf)
 
 
@@ -86,7 +87,7 @@ All Rights Reserved. National Library Board Singapore 2021.
 <br>
 
 
-[^1]:Emerging technology and systemic risk – maintaining a secure and resilient digital infrastructure. (2021, March 12). *Oxford Martin School*. Retrieved 2021, September 20 from [https://www.youtube.com/watch?v=ZiEgaHllzRQ&t=1s](https://www.youtube.com/watch?v=ZiEgaHllzRQ&t=1s)
+[^1]:Emerging technology and systemic risk – maintaining a secure and resilient digital infrastructure. (2021, March 12). *Oxford Martin School*. Retrieved 2021, September 20 from [https://www.youtube.com/watch?v=ZiEgaHllzRQ&amp;t=1s](https://www.youtube.com/watch?v=ZiEgaHllzRQ&amp;t=1s)
 
 
 [^2]:Cybersecurity. (n.d.). *World Economic Forum*. Retrieved 2021, September 20 from [https://intelligence.weforum.org/topics/a1Gb00000015LbsEAE?tab=publications](https://intelligence.weforum.org/topics/a1Gb00000015LbsEAE?tab=publications)
@@ -95,4 +96,4 @@ All Rights Reserved. National Library Board Singapore 2021.
 [^3]:Creese, S., et al. (2020, November 16). Cybersecurity, emerging technology and systemic risk. *World Economic Forum*. Retrieved 2021, September 20 from [http://www3.weforum.org/docs/WEF_Future_Series_Cybersecurity_emerging_technology_and_systemic_risk_2020.pdf](http://www3.weforum.org/docs/WEF_Future_Series_Cybersecurity_emerging_technology_and_systemic_risk_2020.pdf)
 
 
-[^4]:Koh, D., & Luquette, N. (2021, July 28). How to succeed in an increasingly risky cyber environment. *World Economic Forum*. Retrieved 2021, September 20 from [https://www.weforum.org/agenda/2021/07/how-to-succeed-in-an-increasingly-risky-cyber-environment/](https://www.weforum.org/agenda/2021/07/how-to-succeed-in-an-increasingly-risky-cyber-environment/)
+[^4]:Koh, D., &amp; Luquette, N. (2021, July 28). How to succeed in an increasingly risky cyber environment. *World Economic Forum*. Retrieved 2021, September 20 from [https://www.weforum.org/agenda/2021/07/how-to-succeed-in-an-increasingly-risky-cyber-environment/](https://www.weforum.org/agenda/2021/07/how-to-succeed-in-an-increasingly-risky-cyber-environment/)

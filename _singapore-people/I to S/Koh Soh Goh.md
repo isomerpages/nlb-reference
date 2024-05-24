@@ -4,11 +4,10 @@ permalink: /guides/singapore/people/koh-soh-goh/
 breadcrumb: Koh Soh Goh
 collection_name: singapore-people
 third_nav_title: I to S
-published: true
+published: "true"
 description: ""
+variant: markdown
 ---
-
-
 ### <u>Guide Index</u>
 
 * [Introduction](#introduction)
@@ -37,12 +36,12 @@ Call no.: RCLOS 959.57009922 HSW
 In this book, Koh Soh Goh traces the work and footsteps of five men: publishing and education pioneer Reverend B. P. Keasberry; historical researcher Song Ong Siang; Reverend Tay Pheng Teng who set up the Chinese Reading Room, Anti-opium Society and missionary schools; educator Hsu Tong Phan; and J.P. Liu Pai Hu who contributed to Chinese education.
 
 
-* 许苏我. [Xu, S. W. (Ed.).] (1975). [《南洋学报第一卷至第三十卷总目录》](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/EXPNOS/BIBENQ/2459440/161552465,7) Singapore: publisher unidentified.
+* 许苏我. [Xu, S. W. (Ed.).] (1975). [《南洋学报第一卷至第三十卷总目录》](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202454454) Singapore: publisher unidentified.
 Call no.: RCLOS 059.951 NYX-\[HYT\].
 This is a general catalogue of the 1st to 30th issues of Journal of the South Seas Society, published between 1941 to 1975, which was compiled by Koh Soh Goh in 1975.
 
 
-* 魏维贤 & 许苏我. [Wei, W. X., & Xu, S. W. (Eds.).] (1987). [《椰阴馆文存补编》](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/EXPNOS/BIBENQ/2390214/2156257,2) Singapore: South Seas Society.
+* 魏维贤 &amp; 许苏我. [Wei, W. X., &amp; Xu, S. W. (Eds.).] (1987). [《椰阴馆文存补编》](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84453001) Singapore: South Seas Society.
 Call no.: RSING 959.00992 SUP
 Edited by Wei Weixian and Koh Soh Goh after Tan Yeok Seong’s passing in 1984, this is a supplement to the collected writings from the Ya-yin Studio, which refers to Tan’s personal collection of books. Prior to this supplement, Tan had edited three volumes of Collected Writings from the Ya-yin Studio. The Ya-yin Studio collection was donated to the National Library Board, Singapore in 1964 by Tan, and is part of the National Library collection.
 
@@ -54,7 +53,7 @@ This book contains the biographies of 1,175 Chinese personalities in Singapore f
 
 ### <u>Selected articles on Koh Soh Goh</u>
 
-* 海外华人研究. (2008). [《许苏吾》 [Koh Soh Goh]](http://www.lib.nus.edu.sg/chz/chineseoverseas/oc_xsw.htm). Retrieved from National University of Singapore (NUS) website.
+* 海外华人研究. (2008). 《许苏吾》 [Koh Soh Goh]. Retrieved from National University of Singapore (NUS) website http://www.lib.nus.edu.sg/chz/chineseoverseas/oc_xsw.htm.
 This website provides a short biography of Koh Soh Goh’s life, as well as a list of books written or edited by Koh that can be found at the Chinese Library of the National University of Singapore.
 
 

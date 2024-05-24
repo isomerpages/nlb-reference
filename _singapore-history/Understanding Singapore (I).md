@@ -1,6 +1,8 @@
 ---
 title: Understanding Singapore (I)
-permalink: /singapore-history/understandingsingapore-i/
+permalink: /guides/singapore-history/understandingsingapore-i/
+variant: markdown
+description: ""
 ---
 ### Guide Index 
 
@@ -36,23 +38,23 @@ This library guide highlights selected resources on how the environment influenc
 
 #### Newspaper articles
 
-* Biodiversity surveys on Southern Islands, nature reserve. (2019, November 29). *The Straits Times*. Retrieved September 17, 2020, from The Straits Times website: <https://www.straitstimes.com/singapore/environment/biodiversity-surveys-on-southern-islands-nature-reserve>
+* Biodiversity surveys on Southern Islands, nature reserve. (2019, November 29). *The Straits Times*. Retrieved September 17, 2020, from The Straits Times website: 
 <p></p>
 
 
-*  [Gardens and parks part of gracious living](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720416-1.2.57?ST=1&AT=search&k=Gardens%20and%20parks%20part%20of%20gracious%20living&QT=gardens,and,parks,part,of,gracious,living&oref=article). (1972, April 16). *The Straits Times*, p. 9.
+*  [Gardens and parks part of gracious living](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720416-1.2.57?ST=1&amp;AT=search&amp;k=Gardens%20and%20parks%20part%20of%20gracious%20living&amp;QT=gardens,and,parks,part,of,gracious,living&amp;oref=article). (1972, April 16). *The Straits Times*, p. 9.
 
 "Singaporeans should be taught the importance of nature conservation for healthy and gracious living", the acting director of the Botanic Gardens, Mr. A.G. Alphonso, said. "And the best way to achieve this was to teach the young in schools."
 
-* Hoe, I. (1985, March 24). [Is the Bukit Timah Nature Reserve dying slowly? ](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850324-1.2.9.6?ST=1&AT=search&k=Is%20the%20Bukit%20Timah%20nature%20reserve%20dying%20slowly?&QT=is,the,bukit,timah,nature,reserve,dying&oref=article)*The Straits Times*, p 3.
+* Hoe, I. (1985, March 24). [Is the Bukit Timah Nature Reserve dying slowly? ](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850324-1.2.9.6?ST=1&amp;AT=search&amp;k=Is%20the%20Bukit%20Timah%20nature%20reserve%20dying%20slowly?&amp;QT=is,the,bukit,timah,nature,reserve,dying&amp;oref=article)*The Straits Times*, p 3.
 
 The Bukit Timah Nature Reserve may be dying a slow death. Some naturalists here believe that the 75 hectare reserve, one of the last patches of primary forest in Singapore, is too small to regenerate.
 
-* [Ministry to build six new major parks](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860819-1.2.55?ST=1&AT=search&k=Ministry%20to%20build%20six%20new%20major%20parks&QT=ministry,to,build,six,new,major,parks&oref=article). (1986, August 19). *The Straits Times*, p. 28.
+* [Ministry to build six new major parks](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860819-1.2.55?ST=1&amp;AT=search&amp;k=Ministry%20to%20build%20six%20new%20major%20parks&amp;QT=ministry,to,build,six,new,major,parks&amp;oref=article). (1986, August 19). *The Straits Times*, p. 28.
 
 Plans to attract the birds back and to grow more varieties of fruit trees. Singapore will have more and better parks, new varieties of fruit trees, and perhaps, more birds over the next few years. 
 
-* Northern coastal areas to form second nature park network. (2020, August 20). *The Straits Times*. Retrieved September 17, 2020, from The Straits Times website: <https://www.straitstimes.com/singapore/northern-coastal-areas-to-form-second-nature-park-network>
+* Northern coastal areas to form second nature park network. (2020, August 20). *The Straits Times*. Retrieved September 17, 2020, from The Straits Times website: 
 
 #### Singapore Infopedia - articles
 
@@ -74,27 +76,27 @@ Sungei Buloh Nature Park is designated a wild bird reserve and nature park for m
 
 #### Websites 
 
-* ButterflyCircle. (2020). *Butterflies of Singapore: a tribute to nature’s flying jewels*. Retrieved April 9, 2020, from ButterflyCircle website: <https://butterflycircle.blogspot.com/>
+* ButterflyCircle. (2020). *Butterflies of Singapore: a tribute to nature’s flying jewels*. Retrieved April 9, 2020, from ButterflyCircle website: 
 
 ButterflyCircle is an online resource founded by a group of butterfly enthusiasts in 2004. The group has a Singapore-centric focus with most of its activities held in Singapore. ButterflyCircle’s objectives and focus are in the areas of community engagement, publication, research, conservation and photography.
 
-* Lee Kong Chian Natural History Museum. (2017). *The biodiversity of Singapore: a digital reference collection for Singapore’s biodiversity*. Retrieved April 9, 2020, from The Biodiversity of Singapore website: <https://singapore.biodiversity.online/>
+* Lee Kong Chian Natural History Museum. (2017). *The biodiversity of Singapore: a digital reference collection for Singapore’s biodiversity*. Retrieved April 9, 2020, from The Biodiversity of Singapore website: 
 
 A growing online digital reference collection of the species that can be found in Singapore. It is also a research database that tracks the numerous species discoveries made by the Lee Kong Chian Natural History Museum. This ranges from colonial-era heritage specimens to recently-collected species that are new to science.
 
-* National University of Singapore. (2020). *Lee Kong Chian Natural History Museum*. Retrieved April 9, 2020, from Lee Kong Chian Natural History Museum website: <https://lkcnhm.nus.edu.sg/>
+* National University of Singapore. (2020). *Lee Kong Chian Natural History Museum*. Retrieved April 9, 2020, from Lee Kong Chian Natural History Museum website: 
 
 The museum inherited the natural history collection from its predecessor, the Raffles Museum of Biodiversity Research (established in 1998), whose collection was that of the Zoological Reference Collection (formally opened on 31 October 1988), which stems from the original Raffles Museum that was renamed the National Museum of Singapore in 1965.
 
-* National Parks Board. (2020). *Mission and history*. Retrieved April 9, 2020, from National Parks Board website: <https://www.nparks.gov.sg/about-us/mission-and-history> 
+* National Parks Board. (2020). *Mission and history*. Retrieved April 9, 2020, from National Parks Board website:  
 
 The National Parks Board (NParks) was established as a statutory board under the Ministry of National Development to manage and enhance the national parks, comprising Singapore Botanic Gardens and Fort Canning Park, and the nature reserves in June 1990. It continues to spearhead the maintenance of the garden city and its roadside greenery, as well as the development of new parks and upgrading of existing ones. NParks also embarked on the development of a comprehensive network of park connectors to bring the island’s parks and green spaces to the community and vice versa.
 
-* Singapore Tourism Board. (2020). *Nature & wildlife*. Retrieved April 9, 2020, from Visit Singapore website: <https://www.visitsingapore.com/see-do-singapore/nature-wildlife/>
+* Singapore Tourism Board. (2020). *Nature &amp; wildlife*. Retrieved April 9, 2020, from Visit Singapore website: 
 
 A visitor guide to Singapore’s parks, nature reserves, green spaces, islands and attractions with wildlife experiences, diverse habitats, vast conservatories, historical sites and Singapore’s last-remaining kampong (traditional village).
 
-* Raffles Museum of Biodiversity Research. (2014). *A virtual tour of Chek Jawa*. Retrieved April 9, 2020, from Chek Jawa website: <http://habitatnews.nus.edu.sg/news/chekjawa/ria/index.html>
+* Raffles Museum of Biodiversity Research. (2014). *A virtual tour of Chek Jawa*. Retrieved April 9, 2020, from Chek Jawa website: 
 
 A photo gallery of the100-hectare wetlands teeming with wildlife located in a corner of Pulau Ubin. Visitors could view the rich plant and marine life from a boardwalk and bird watching via a viewing tower at Chek Jawa. Guided tours are available at the Visitor Centre and viewing jetty.
 
@@ -113,7 +115,7 @@ A comprehensive account of Singapore's wild animals. Almost all terrestrial vert
 <img src="/images/singapore-history/understanding-singapore/book2.jpg" style="width:150px;">
 *All rights reserved, Singapore: Federal Publications, 2004*
 
-Cheng, V., & Tay, D. (2004). *[The new resource atlas for social studies](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12436511)*. Singapore: Federal Publications.  
+Cheng, V., &amp; Tay, D. (2004). *[The new resource atlas for social studies](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12436511)*. Singapore: Federal Publications.  
 Call number: RSING 300.0705957 CHE
 
 A colourful and stimulating resource book with comprehensive text, colourful maps, charts and illustrations specially designed for upper primary pupils. 
@@ -121,7 +123,7 @@ A colourful and stimulating resource book with comprehensive text, colourful map
 <img src="/images/singapore-history/understanding-singapore/book3.jpg" style="width:150px;">
 *All rights reserved, Singapore: Nature Society, 2008*
 
-Davison, G. W. H., Ng, Peter K. L., & Ho, H. C. (Eds.). (2008). *[The Singapore red data book: threatened plants & animals of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13152668)*. Singapore: Nature Society.  
+Davison, G. W. H., Ng, Peter K. L., &amp; Ho, H. C. (Eds.). (2008). *[The Singapore red data book: threatened plants &amp; animals of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13152668)*. Singapore: Nature Society.  
 Call number: RSING 591.68095957 SIN
 
 This book is an important reference for conservation plans and efforts for natural resource use and information on biodiversity. Information about species and ecosystems is also included.
@@ -153,7 +155,7 @@ This atlas illustrates through diachronic mapping of the changing distribution o
 <img src="/images/singapore-history/understanding-singapore/book7.jpg" style="width:150px;">
 *All rights reserved, Singapore: Small Books, 2005*
 
-Leng, Grace S. Y., & Small, T. (2005). *[Discover nature with--](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12608839).* Singapore: Small Books. 
+Leng, Grace S. Y., &amp; Small, T. (2005). *[Discover nature with--](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12608839).* Singapore: Small Books. 
 Call number: JRSING 508 LEN
 
 A small activity book for children to better appreciate and care for the natural environment. It includes delightful drawings, facts, as well as things to do, explore and learn.
@@ -161,7 +163,7 @@ A small activity book for children to better appreciate and care for the natural
 <img src="/images/singapore-history/understanding-singapore/book8.jpg" style="width:150px;">
 *All rights reserved, Singapore: Nature Society, 2010*
 
-Lim, K. S., & Chew, J. (2010). *[A field guide to the birds of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13695753)*. Singapore: Nature Society.  
+Lim, K. S., &amp; Chew, J. (2010). *[A field guide to the birds of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13695753)*. Singapore: Nature Society.  
 Call number: RSING 598.095957 LIM
 
 A comprehensive and colourful reference on birds and their behaviour. Also includes topics such as climate, habitat, and conservation in Singapore.
@@ -169,14 +171,14 @@ A comprehensive and colourful reference on birds and their behaviour. Also inclu
 <img src="/images/singapore-history/understanding-singapore/book9.jpg" style="width:150px;">
 *All rights reserved, Singapore: Singapore Science Centre, 1999*
 
-Ng, Peter K. L., & Sivasothi, N. (Eds.). (2001). *Guide to the mangroves of Singapore*. Retrieved April 9, 2020, from Raffles Museum of Biodiversity Research, The National University of Singapore & The Singapore Science Centre website: <http://mangrove.nus.edu.sg/guidebooks/contents.htm>
+Ng, Peter K. L., &amp; Sivasothi, N. (Eds.). (2001). *Guide to the mangroves of Singapore*. Retrieved April 9, 2020, from Raffles Museum of Biodiversity Research, The National University of Singapore &amp; The Singapore Science Centre website: 
 
 A guide to the mangroves found in Singapore, including its history, ecosystem, flora and fauna, values and uses, and a guide to visiting them. 
 
 <img src="/images/singapore-history/understanding-singapore/book10.jpg" style="width:150px;">
 *All rights reserved, Singapore: Ministry of National Development, 2019*
 
-Pang, A., et al. (Eds.). (2019). *[Groundbreaking: 60 years of national development in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204063880)*. Retrieved April 9, 2020, Centre for Liveable Cities website: <https://www.clc.gov.sg/research-publications/publications/books/view/groundbreaking-60-years-of-national-development-in-singapore>
+Pang, A., et al. (Eds.). (2019). *[Groundbreaking: 60 years of national development in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204063880)*. Retrieved April 9, 2020, Centre for Liveable Cities website: 
 
 The book draws on newspapers, interviews and photos to explore 200 years of urban planning in Singapore as well as the Ministry of National Development’s most significant milestones and achievements in shaping Singapore as a city and transforming the lives of citizens through key initiatives and policies.
 
@@ -199,7 +201,7 @@ A unique and exciting guidebook for children and families to discover more about
 <img src="/images/singapore-history/understanding-singapore/book13.jpg" style="width:150px;">
 *All rights reserved, Singapore: Singapore Science Centre, 1992*
 
-Tan, Leo W. H., & Ng, Peter K. L. (2001).  *A guide to seashore life.* Retrieved April 9, 2020, from Raffles Museum of Biodiversity Research and Singapore Science Centre website: <http://mangrove.nus.edu.sg/pub/seashore/index.html>  
+Tan, Leo W. H., &amp; Ng, Peter K. L. (2001).  *A guide to seashore life.* Retrieved April 9, 2020, from Raffles Museum of Biodiversity Research and Singapore Science Centre website:   
 
 A simplified, practical and unconventional guide to the many species of Singapore's shore plants and animals with descriptions of various common seashore life for the beginner reader.
 
@@ -246,7 +248,7 @@ A comprehensive resource and reference atlas which contains maps, information an
 ### 4. Accessing the Resources 
 
 #### Accessing the Print Materials
-You can search the library catalogue (for physical materials) in the library and from home (<http://catalogue.nlb.gov.sg>). The easy search function allows you to search/browse by author, title, keyword, subject and ISBN/ISSN whereas the advanced search allows you to narrow your searches to specific media types, language holdings or location of the collection. 
+You can search the library catalogue (for physical materials) in the library and from home (). The easy search function allows you to search/browse by author, title, keyword, subject and ISBN/ISSN whereas the advanced search allows you to narrow your searches to specific media types, language holdings or location of the collection. 
 
 #### To search Lee Kong Chian Reference Library's Holdings
 If you wish to search for only materials available in the above library, please always select “Lee Kong Chian Reference Library”, after you have keyed in your search term in advanced search. Followed by clicking on “search”.
@@ -263,7 +265,7 @@ iii. Write down the Location Code and the Call Number of the item. This helps yo
 #### Accessing the Databases
 The National Library Board (NLB)’s eResources are free for all NLB members. Click [here](http://eresources.nlb.gov.sg/HowDoI.aspx) to find out how to register as a member. 
 
-If you are having problems registering or logging in, please [contact us](http://www.nlb.gov.sg/ContactUs.aspx). If you wish to find information in the databases but am not sure where to begin, or need recommendations on which databases to use, please use the "[Ask A Librarian](https://form.gov.sg/#!/60012dfdcc381d001141b97f)" function or send an email to <ref@nlb.gov.sg> for help.
+If you are having problems registering or logging in, please [contact us](http://www.nlb.gov.sg/ContactUs.aspx). If you wish to find information in the databases but am not sure where to begin, or need recommendations on which databases to use, please use the "[Ask A Librarian](https://form.gov.sg/#!/60012dfdcc381d001141b97f)" function or send an email to  for help.
 
 ### 5. Author
 
