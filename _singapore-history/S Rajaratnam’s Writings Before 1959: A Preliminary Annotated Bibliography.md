@@ -4,6 +4,8 @@ permalink: /guides/singapore/history/s-rajaratnam-s-writings-before-1959-a-preli
 variant: markdown
 description: ""
 ---
+# **S Rajaratnam’s Writings Before 1959: A Preliminary Annotated Bibliography**
+
 <p>Sinnathamby Rajaratnam is best known as Singapore’s first Minister for
 Culture and, after independence in 1965, Singapore’s first Minister for
 Foreign Affairs. In these two positions, and in other offices in a long
