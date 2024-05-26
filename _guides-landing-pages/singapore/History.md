@@ -18,4 +18,5 @@ variant: markdown
 * [**Singapore's Public Housing**](/guides/singapore/history/sg-public-housing)
 * [**Communist Party of Malaya - A Comprehensive Bibliography**](/guides/singapore/history/cpm-biblio/)
 * [**S Rajaratnam’s Writings Before 1959: A Preliminary Annotated Bibliography**](/guides/singapore/history/s-rajaratnam-s-writings-before-1959-a-preliminary-annotated-bibliography/)
+
 * [**Understanding Singapore (I)**](/guides/singapore-history/understandingsingapore-i/)
