@@ -2,6 +2,8 @@ collections:
   singapore-history:
     output: true
     order:
+      - "S Rajaratnam’s Writings Before 1959: A Preliminary Annotated
+        Bibliography.md"
       - Raffles in Southeast Asia.md
       - Colonial Period.md
       - Decolonisation Process.md
