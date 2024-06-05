@@ -1,0 +1,89 @@
+---
+title: Lee Kuan Yew
+permalink: /guides/singapore/people/lee-kuan-yew/
+description: ""
+third_nav_title: I to S
+---
+# Lee Kuan Yew
+### Guide Index
+* [Introduction](#introduction)
+* [Publications in English](#publications-in-english)
+* [Publications in Malay](#publications-in-malay)
+* [Publications in Mandarin](#publications-in-mandarin)
+* [Publications in Tamil](#publications-in-tamil)
+
+### Introduction
+Lee Kuan Yew (b. 16 September 1923, Singapore–d. 23 March 2015, Singapore) served as Singapore's first prime minister from 1959 to 1990. During his tenure, he played a pivotal role in transforming the country from a developing ex-colony into one of the most stable and prosperous nations in Asia. His impact was not limited to Singapore, as he was widely recognized as an influential figure both within the country and abroad.
+
+This guide provides recommended resources for those who are keen to know more about the first prime minister of Singapore. You can also visit [**catalogue.nlb.gov.sg**](https://catalogue.nlb.gov.sg) to search for more resources. This resource guide was produced in August 2023 in commemoration of the 100th anniversary of his birthday.
+
+This introduction was adapted from Duncan Sutherland, “[Lee Kuan Yew](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-03-18_164023.html),” Singapore Infopedia, National Library Board, last modified March 23, 2015.
+
+### Publications in English
+
+| Cover | Title |
+| ----- | -------- |
+| <img style="width:50px" src="/images/singapore-people/LKY/e1lky100.PNG"> | Allison, Graham and Robert D. Blackwill. [*Lee Kuan Yew: The Grand Master’s Insights on China, the United States, and the World*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205245453). With Ali Wynes. With a foreword by Henry Kissinger. Cambridge, Massachusetts: The MIT Press, 2020. (Call no. RSING 303.49090512 LEE) |
+| <img style="width:50px" src="/images/singapore-people/LKY/e2lky100.PNG"> | Ang, Cheng Guan. [*Reassessing Lee Kuan Yew’s Strategic Thought*]( https://eservice.nlb.gov.sg/item_holding.aspx?bid=206037641). Abingdon, Oxon; New York, NY: Routledge, 2023. (Call no. RSING 327.5957 ANG) |
+| <img style="width:50px" src="/images/singapore-people/LKY/e3lky100.jpg"> | Centre for Liveable Cities and Lee Kuan Yew Centre for Innovative Cities. [*A Chance of A Lifetime: Lee Kuan Yew and the Physical Transformation of Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202571238). Singapore: Editions Didier Millet, 2016. (Call no. RSING 959.5705 CHA-[HIS])&nbsp; |
+| <img style="width:50px" src="/images/singapore-people/LKY/e4lky100.jpg">&nbsp;&nbsp; | Chan, Fiona, ed. [*Lee’s Legacy*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201393838). Singapore: Straits Times Press, 2015. (Call no. RSING 959.57051092 LEE-[HIS]) |
+| <img style="width:50px" src="/images/singapore-people/LKY/e5lky100.jpg"> | Chua, Chee Lay, ed. [*Keeping My Mandarin Alive: Lee Kuan Yew’s Language Learning Experience*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12518356). Singapore: World Scientific Publishing and Global Publishing, 2005. (Call no. RSING 495.1 KEE) |
+| <img style="width:50px" src="/images/singapore-people/LKY/e6lky100.jpg"> | Davis, Lindsay, ed. [*The Wit &amp; Wisdom of Lee Kuan Yew*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200128105). Singapore: Editions Didier Millet, 2013. (Call no. RSING 959.57051092 LEE-[HIS]) |
+| <img style="width:50px" src="/images/singapore-people/LKY/e7lky100.jpg"> | Han, Fook Kwang, Zuraidah Ibrahim, Chua Mui Hoong, Lydia Lim, Ignatius Low, Rachel Lin and Robin Chan. [*Lee Kuan Yew: Hard truths to Keep Singapore Going*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=206006189). 2011. Reprint, Singapore: Straits Times, SPH Media Limited, 2023. (Call no. RSING 959.5705092 LEE-[HIS]) |
+| <img style="width:50px" src="/images/singapore-people/LKY/e8lky100.jpg"> | Han, Fook Kwang, Warren Fernandez and Sumiko Tan. [*Lee Kuan Yew: The Man and His Ideas*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201263529). Singapore: Marshall Cavendish Editions and Straits Times Press, 2015. (Call no. RSING 959.5705092 HAN-[HIS]) |
+| <img style="width:50px" src="/images/singapore-people/LKY/e9lky100.jpg"> | Jayakumar, Shashi and Rahul Sagar, eds. [*The Big Ideas of Lee Kuan Yew*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200950578). Singapore: Straits Times Press, 2014. (Call no. RSING 320.95957 BIG) |
+| <img style="width:50px" src="/images/singapore-people/LKY/e10lky100.jpg"> | Josey, Alex. [*Lee Kuan Yew: The Critical Years (1971-1978)*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14669529). Facsimile edition. Singapore: Marshall Cavendish Editions, 2013. (Call no. RSING 959.5705092 JOS-[HIS]) |
+| <img style="width:50px" src="/images/singapore-people/LKY/e11lky100.jpg"> | Josey, Alex. [*Lee Kuan Yew: The Crucial Years*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14401760). Facsimile edition. Singapore: Marshall Cavendish Editions, 2012. (Call no. RSING 959.5705092 JOS-[HIS]) |
+| <img style="width:50px" src="/images/singapore-people/LKY/e12lky100.PNG"> | Kissinger, Henry. "Lee Kuan Yew: The Strategy of Excellence." In [*Leadership: Six Studies in World Strategy*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205806987), 279-322. London: Allen Lane, 2022. (Call no. R 303.34 KIS) |
+| <img style="width:50px" src="/images/singapore-people/LKY/e13lky100.jpg"> | Lau-Tan, Aileen, ed. [*Garden City Singapore: The Legacy of Lee Kuan Yew*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200189490). Singapore: Suntree Media Pte Ltd, 2014. (Call no. RSING 307.76095957 WON) |
+| <img style="width:50px" src="/images/singapore-people/LKY/e14lky100.PNG"> | [*Lee Kuan Yew: A Pictorial Biography*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6955485). Singapore: Singapore Press Holdings and Federal Publications, 1994. (Call no. RSING 959.5705 LEE-[HIS]) |
+| <img style="width:50px" src="/images/singapore-people/LKY/e15lky100.jpg"> | Lee, Kuan Yew. [*From Third World to First: the Singapore Story, 1965-2000: Memoirs of Lee Kuan Yew*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14299472). Memorial edition. Singapore: Marshall Cavendish Editions and Straits Times Press, 2015. (Call no. RSING 959.5705092 LEE-[HIS]) |
+| <img style="width:50px" src="/images/singapore-people/LKY/e16lky100.jpg"> | Lee, Kuan Yew. [*Lee Kuan Yew, My Lifelong Challenge: Singapore’s Bilingual Journey*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14232068). Singapore: Straits Times Press, 2012. (Call no. RSING 306.4495957 LEE) |
+| <img style="width:50px" src="/images/singapore-people/LKY/e17lky100.jpg"> | Lee, Kuan Yew. [*One Man’s View of the World*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202824444). 2nd ed. Reprint, Singapore: Straits Times Press, 2023. (Call no. RSING 909.83 LEE) |
+| <img style="width:50px" src="/images/singapore-people/LKY/e18lky100.jpg"> | Lee, Kuan Yew. [*The Battle for Merger*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200918497). Singapore: National Archives of Singapore and Straits Times Press, 2014. (Call no. RSING 959.5704 LEE-[HIS]) |
+| <img style="width:50px" src="/images/singapore-people/LKY/e19lky100.jpg"> | Lee, Kuan Yew. [*The Singapore Story: Memoirs of Lee Kuan Yew*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14299473). Memorial edition. Singapore: Marshall Cavendish Editions and Straits Times Press, 2015. (Call no. RSING 959.5705092 LEE-[HIS]) |
+| <img style="width:50px" src="/images/singapore-people/LKY/e20lky100.jpg"> | Lim, Lydia, ed. [*Vintage Lee: Landmark Speeches since 1955*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201485198). Singapore: Straits Times Press, 2016. (Call no. RSING 959.5705092 LEE-[HIS]) |
+| <img style="width:50px" src="/images/singapore-people/LKY/e21lky100.jpg"> | Oei, Anthony. [*Lee Kuan Yew: Blazing the Freedom Trail*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201341530). 3rd revised ed. Singapore: Marshall Cavendish Editions, 2015. (Call no. RSING 959.57051 OEI-[HIS]) |
+| <img style="width:50px" src="/images/singapore-people/LKY/e22lky100.jpg"> | Plate, Tom. [*Conversations with Lee Kuan Yew: Citizen Singapore: How to Build A Nation*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201338986). 3rd ed. Singapore: Marshall Cavendish Editions, 2015. (Call no. RSING 959.5705092 PLA-[HIS]) |
+| <img style="width:50px" src="/images/singapore-people/LKY/e23lky100.jpg"> | Singapore Press Holdings. [*Lee Kuan Yew: A Tribute*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201286917). Singapore: Straits Times Press, 2015. (Call no. RSING 959.5705092 LEE-[HIS]) |
+| <img style="width:50px" src="/images/singapore-people/LKY/e24alky100.jpg"> | Tay, Janice and Ronald Kow. [*LKY on Governance, Management, Life: A Collection of Quotes from Lee Kuan Yew*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201501406). Singapore: Straits Times Press, 2016. (Call no. RSING 959.5705092 LEE-[HIS]) |
+| <img style="width:50px" src="/images/singapore-people/LKY/e25lky100.jpg"> | Tan, Sheri and Patrick Yee. [*Harry Builds A Nation: the Legacy of Lee Kuan Yew*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201291459). Singapore: Epigram Books, 2015. (Call no. RSING 959.5705092 YEE) |
+| <img style="width:50px" src="/images/singapore-people/LKY/e26lky100.jpg"> | Wong, Karen. [*The Man of Firsts: Lee Kuan Yew*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12946833). Singapore: SNP Editions, 2008. (Call no. RSING 959.5705092 WON-[HIS]) |
+| <img style="width:50px" src="/images/singapore-people/LKY/e27lky100.PNG"> | Yeow, Stephanie, ed. [*Lee Kuan Yew: A Life in Pictures*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200133179). Singapore: Straits Times Press and Singapore Press Holdings, 2013. (Call no. RSING 959.5705092 LEE-[HIS]) |
+
+### Publications in Malay
+
+| Cover | Title |
+| ----- | -------- |
+| <img style="width:50px" src="/images/singapore-people/LKY/m28lky100.jpg"> | [*Lee Kuan Yew pada usia 80*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14305271). Singapore: Senior Minister Lee's 80th Birthday Celebration Committee, 2003. (Call no. Malay RSING 959.5705092 LEE-[HIS] | 
+| <img style="width:50px" src="/images/singapore-people/LKY/m29lky100.jpg"> | Lee, Kuan Yew. [*Angin perubahan: delapan ucapan Saudara Lee Kuan Yew, Perdana Menteri Singapura, mengenai kedudukan politik sekarang*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200097929) [Winds of change: Eight speeches by Mr Lee Kuan Yew, Prime Minister of Singapore, on the present political situation]. Singapore: PAP Political Bureau, 1964. (Call no. Malay RCLOS 959.57 LEE-[LKY]) | 
+| <img style="width:50px" src="/images/singapore-people/LKY/m30lky100.jpg"> | Lee, Kuan Yew. [*Malaysia dalam zaman rebolusi*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4367534) [Malaysia in the age of revolution]. Singapore: Ministry of Culture, 1965. (Call no. Malay RSING 959.507 LEE) | 
+| <img style="width:50px" src="/images/singapore-people/LKY/m31lky100.jpg"> | Lee, Kuan Yew. [*Perjuangan untuk perchantuman*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4385023) [The battle for merger]. Singapore: Ministry of Culture, 1961. (Call no. Malay RCLOS 959.57 LEE) | 
+| <img style="width:50px" src="/images/singapore-people/LKY/m32lky100.jpg"> | Mohd Guntor Sadali and Jamilah Mohd Hassan, eds. [*Kisah Singapura: memoir Lee Kuan Yew*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10194309) [The Singapore story: memoirs of Lee Kuan Yew]. Singapore: Times Media and Singapore Press Holdings, 2001. (Call no. Malay RSING 959.57 LEE-[HIS]) | 
+
+### Publications in Mandarin
+
+| Cover | Title |
+| ----- | -------- |
+| <img style="width:50px" src="/images/singapore-people/LKY/c39lky100.jpg"> | Cai, Yulin 蔡裕林. [*Li Guangyao shi dai vs hou Li Guangyao shi dai*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201292644) 李光耀时代vs后李光耀时代 [The Lee Kuan Yew era vs the post-Lee Kuan Yew era]. Singapore: Ling zi chuan mei si ren you xian gong si 玲子传媒私人有限公司, 2015. (Call no. Chinese RSING 959.5705 CYL-[HIS]) |
+| <img style="width:50px" src="/images/singapore-people/LKY/c40lky100.PNG"> | Chen, Guoqiang 陈国强. [*Li Guangyao chuan: yi gi ren he yi ge shi dai*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202191954) 李光耀传: 一个人和一个时代 [A biography of Lee Kuan Yew]. Beijing 北京: Ren min ri bao chu ban she人民日报出版社, 2015. (Call no. Chinese RSING 959.57051092 CGQ) |
+| <img style="width:50px" src="/images/singapore-people/LKY/c41alky100.PNG"> | Chen, Jiachang 陈加昌. [*Wo suo zhi dao de Li Guangyao*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202226065) 我所知道的李光耀 [LKY whom I knew]. Singapore: Ling zi chuan mei si ren you xian gong si 玲子传媒私人有限公司, 2015. (Call no. Chinese RSING 959.57051092 CJC-[HIS]) |
+| <img style="width:50px" src="/images/singapore-people/LKY/c42lky100.jpg"> | Chi, Lifang 池例芳, ed. [*Guangyao yi sheng*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201450205) 光耀一生. Singapore: Lian he zao bao 联合早报, 2015. (Call no. Chinese RSING 959.57092 GYY-[HIS]) |
+| <img style="width:50px" src="/images/singapore-people/LKY/c43lky100.PNG"> | Lee, Kuan Yew 李光耀. [*Jing ji teng fei lu: Li Guangyao hui yi lu*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11120321) 经济腾飞路: 李光耀回忆录. Beijing 北京: Wai wen chu ban she 外文出版社, 2001. (Call no. Chinese RSING 959.57 LKY -[HIS]) |
+| <img style="width:50px" src="/images/singapore-people/LKY/c44lky100.jpg"> | Lee, Kuan Yew 李光耀. [*Li Guangyao guan tian xia*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200185477) 李光耀观天下 [One man's view of the world]. Translated by Zhou Shuqin 周殊钦, Lin Wanfei 林琬绯, Lu Caixia 陆彩霞 and Gu Yaoming 顾耀明. Singapore: Straits Times Press Pte Ltd, 2014. (Call no. Chinese RSING 909.83 LKY) |
+| <img style="width:50px" src="/images/singapore-people/LKY/c45lky100.PNG"> | Lee, Kuan Yew 李光耀. [*Li Guangyao hui yi lu 1923-1965*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84487978) 李光耀回忆录 1923-1965 [Memoirs of Lee Kuan Yew 1923-1965]. Singapore: Xinjiapo lian he zao bao 新加坡联合早报, 1998. (Call no. Chinese RSING 959.57 LGY-[HIS]) |
+| <img style="width:50px" src="/images/singapore-people/LKY/c46lky100.jpg"> | Lee, Kuan Yew 李光耀. [*Li Guangyao hui yi lu 1965-2000*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9926101) 李光耀回憶錄 1965-2000 [Memoirs of Lee Kuan Yew 1965-2000]. Singapore: Xinjiapo lian he zao bao 新加坡联合早报, 2000. (Call no. Chinese RSING 959.57 LKY-[HIS]) |
+| <img style="width:50px" src="/images/singapore-people/LKY/c47lky100.jpg"> | Lee, Kuan Yew 李光耀. [*Li Guangyao hui yi lu: wo yi sheng de tiao zhan: Xinjiapo shuang yu zhi lu*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201295240) 李光耀回忆录: 我一生的挑战: 新加坡双语之路 [Memoirs of Lee Kuan Yew: My Lifelong Challenge: Singapore’s Bilingual Journey]. Nanjing shi 南京市: Yi lin chu ban she 译林出版社, 2013. (Call no. Chinese RSING 306.4495957 LKY) |
+| <img style="width:50px" src="/images/singapore-people/LKY/c48lky100.PNG"> | Wu, Jungang 吴俊刚, ed. [*Li Guangyao chuan ji*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9765618) 李光耀传记 [Biography of Lee Kuan Yew]. Singapore: Times media, 2000. (Call no. Chinese RSING 959.57 ZGC) |
+| <img style="width:50px" src="/images/singapore-people/LKY/c49lky100.PNG"> | Zhang, Yonghe 张永和. [*Li Guangyao zhuan*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84519217) 李光耀传 [Biography of Lee Kuan Yew]. Guangzhou 广州: Hua cheng chu ban she 花城出版社, 1993. (Call no. Chinese RSING 959.57092 ZYH-[HIS]) |
+
+### Publications in Tamil
+
+| Cover | Title |
+| ----- | -------- |
+| <img style="width:50px" src="/images/singapore-people/LKY/t33lky100.jpg"> | [*Māman̲itarukkup pukal̲āram, Lī Kuvān̲ Iyū 90*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200171222) மாமனிதருக்குப் புகழாரம், லீ குவான் இயூ 90 [A tribute to the great man Lee Kuan Yew 90]. Singapore: Association of Singapore Tamil Writers, 2013. (Call no. Tamil RSING 894.811172 MAM) |
+| <img style="width:50px" src="/images/singapore-people/LKY/t34lky100.jpg"> | Kiruṣṇān̲antacivam, Ka. கிருஷ்ணானந்தசிவம், க. [*Vālar̲ivu pēcukir̲atu: Lī Kuvān̲ Yū: Ciṅkappūrin̲ katai: oru mīḷāyvu*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12675076) வாலறிவு பேசுகிறது: லீ குவான் யூ: சிங்கப்பூரின் கதை: ஒரு மீளாய்வு [Wisdom speaks: Lee Kuan Yew: the story of Singapore: a review]. Colombo: Asian Trading House Pvt Ltd, 2004. (Call no. Tamil RSING 959.57 KRI-[HIS]) |
+| <img style="width:50px" src="/images/singapore-people/LKY/t35lky100.jpg"> | Lee, Kuan Yew. [*Malēciyā – puraṭcip paruvam*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200109346) மலேசியா – புரட்சிப் பருவம் [Malaysia – the age of revolution]. Singapore: Ministry of Culture, 1965. (Call no. Tamil RCLOS 959.5 LEE) |
+| <img style="width:50px" src="/images/singapore-people/LKY/t36lky100.PNG"> | Lee, Kuan Yew. [*100 āṇṭu kāla cōcalicam*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13982378) 100 ஆண்டு கால சோசலிசம [100 years of socialism]. Singapore: Ministry of Culture, 1964. (Call no. Tamil RCLOS 335 ANA) |
+| <img style="width:50px" src="/images/singapore-people/LKY/t37lky100.jpg"> | Lee, Kuan Yew. [*Malēciyāvaik kāppār̲r̲ap pōtumān̲a malēciyarkaḷ irukkir̲ārkaḷā?*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11148850) மலேசியாவைக் காப்பாற்றப் போதுமான மலேசியர்கள் இருக்கிறார்களா? [Are there enough Malaysians to save Malaysia?]. Singapore: Ministry of Culture, 1965. (Call no. Tamil RCLOS S959.57 LEE) |
+| <img style="width:50px" src="/images/singapore-people/LKY/t38lky100.jpg"> | Mūrtti, Es. El. Vi. மூர்த்தி, எஸ். எல். வி. [*Lī kuvān̲ yū*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202593796) லீ குவான் யூ  [Lee Kuan Yew]. Chennai சென்னை: Kil̲akku Patippakam கிழக்கு பதிப்பகம், 2016. (Call no. RSING Tamil 959.57051092 MOO-[HIS]) |

@@ -1,0 +1,32 @@
+collections:
+  arts-lit-arts:
+    output: true
+    order:
+      - bibliografi-sastera-melayu-singapura/.keep
+      - bibliografi-sastera-melayu-singapura/novel.md
+      - bibliografi-sastera-melayu-singapura/esei.md
+      - bibliografi-sastera-melayu-singapura/puisi.md
+      - bibliografi-sastera-melayu-singapura/cerpen.md
+      - bibliografi-sastera-melayu-singapura/drama.md
+      - bibliography-of-singapore-chinese-literature/.keep
+      - bibliography-of-singapore-chinese-literature/poetry-chinese.md
+      - bibliography-of-singapore-chinese-literature/criticism-and-research-chinese.md
+      - bibliography-of-singapore-chinese-literature/prose-and-miscellaneous-writing-chinese.md
+      - bibliography-of-singapore-chinese-literature/drama-and-crosstalk-chinese.md
+      - bibliography-of-singapore-chinese-literature/novels-chinese.md
+      - singapore-literature-in-english/.keep
+      - singapore-literature-in-english/miscellaneous.md
+      - singapore-literature-in-english/electronic-journals.md
+      - singapore-literature-in-english/novels.md
+      - singapore-literature-in-english/periodicals-electronic-journals-and-misc.md
+      - singapore-literature-in-english/poetry.md
+      - singapore-literature-in-english/short-stories.md
+      - singapore-literature-in-english/drama.md
+      - singapore-literature-in-english/anthologies.md
+      - bibliography-of-singapore-tamil-literature/.keep
+      - bibliography-of-singapore-tamil-literature/Novels (Tamil).md
+      - bibliography-of-singapore-tamil-literature/Plays (Tamil).md
+      - bibliography-of-singapore-tamil-literature/Short Stories (Tamil).md
+      - bibliography-of-singapore-tamil-literature/Poems (Tamil).md
+      - bibliography-of-singapore-tamil-literature/Articles and Research
+        (Tamil).md

@@ -1,0 +1,9 @@
+collections:
+  launch-resource-guides:
+    output: true
+    order:
+      - Mental Health in the Workplace.md
+      - Negotiation.md
+      - Social Entrepreneurship.md
+      - Subscription based Business.md
+      - Thriving in the Gig Economy.md

@@ -1,0 +1,32 @@
+collections:
+  guides-landing-pages:
+    output: true
+    order:
+      - resource-guides.md
+      - singapore/.keep
+      - singapore/People.md
+      - singapore/Places.md
+      - singapore/History.md
+      - arts/.keep
+      - arts/visual-arts.md
+      - arts/literary-arts.md
+      - arts/performing-arts.md
+      - arts/Singapore Online Arts Repository.md
+      - business/.keep
+      - business/The Global Economy.md
+      - business/management.md
+      - business/career-guidance.md
+      - business/innovation.md
+      - science-and-technology/.keep
+      - science-and-technology/Artificial Intelligence.md
+      - science-and-technology/sustainability.md
+      - science-and-technology/Sciences.md
+      - science-and-technology/technology.md
+      - social-sciences-and-humanities/.keep
+      - social-sciences-and-humanities/Social Sciences.md
+      - social-sciences-and-humanities/History.md
+      - social-sciences-and-humanities/Humanities.md
+      - digital-preservation/.keep
+      - digital-preservation/preserving-your-digital-memories.md
+      - Learning Bytes.md
+      - Learning Packages Directory.md

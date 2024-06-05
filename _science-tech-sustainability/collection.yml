@@ -1,0 +1,8 @@
+collections:
+  science-tech-sustainability:
+    output: true
+    order:
+      - sustainable-living.md
+      - Sustainable Mobility.md
+      - food-sustainability.md
+      - sustainable-fashion.md
