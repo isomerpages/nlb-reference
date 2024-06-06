@@ -141,10 +141,10 @@ Times*, 12 August 1989, 22. (From NewspaperSG)
 ### Singapore Infopedia - articles
 * Cornelius-Takahama, Vernon &amp; Damien Wang. “[Singapore River (historical overview)](https://www.nlb.gov.sg/main/article-detail?cmsuuid=011fc400-0632-453b-8520-12ada317e263).” Singapore Infopedia. Published 2016.
 * Cornelius-Takahama, Vernon &amp; Janice Loo. “[Anderson Bridge](https://www.nlb.gov.sg/main/article-detail?cmsuuid=13e377d8-020f-4eb6-935b-e9ee85ccdfc4).” Singapore Infopedia. Published September 2019.
-* Cornelius-Takahama, Vernon. “[Cavenagh Bridge](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2_2004-12-17.html).” Singapore Infopedia. Published September 2019.
-* Cornelius-Takahama, Vernon. “[Coleman Bridge](https://eresources.nlb.gov.sg/infopedia/articles/SIP_151_2004-12-16.html).” Singapore Infopedia. Published 2017.
-* Cornelius-Takahama, Vernon. “[Elgin Bridge](https://eresources.nlb.gov.sg/infopedia/articles/SIP_921_2004-12-10.html).” Singapore Infopedia. Published September 2019.
-* Cornelius-Takahama, Vernon. “[Read Bridge](https://eresources.nlb.gov.sg/infopedia/articles/SIP_28_2004-12-24.html).” Singapore Infopedia. Published 2017.
+* Cornelius-Takahama, Vernon. “[Cavenagh Bridge](https://www.nlb.gov.sg/main/article-detail?cmsuuid=563a3d5a-6323-49a4-8f38-fccfd2855c6c).” Singapore Infopedia. Published September 2019.
+* Cornelius-Takahama, Vernon. “[Coleman Bridge](https://www.nlb.gov.sg/main/article-detail?cmsuuid=20e7b062-2af1-4ec6-a509-848bf670ccf0).” Singapore Infopedia. Published 2017.
+* Cornelius-Takahama, Vernon. “[Elgin Bridge](https://www.nlb.gov.sg/main/article-detail?cmsuuid=361eaff3-9999-437e-b57f-375313b46ffd).” Singapore Infopedia. Published September 2019.
+* Cornelius-Takahama, Vernon. “[Read Bridge](https://www.nlb.gov.sg/main/article-detail?cmsuuid=df446a5b-96e8-4da1-ae2d-f4906b3636aa).” Singapore Infopedia. Published 2017.
 
 All Rights Reserved. National Library Board Singapore 2022.
 <br><br>
