@@ -173,10 +173,10 @@ Liu, Gretchen. <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=791975
 
 **Photographs**
 <img style="width:500px" src="/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/rg-images/victoria%20theatre.jpg">
-[Town Hall, Singapore](http://eresources.nlb.gov.sg/pictures/Details/5195f3a7-d7d9-42b9-b0c2-87de42dd8446). 1900s. Photograph. Lim Shao Bin Collection, PictureSG, National Library, Singapore.
+[Town Hall, Singapore](https://www.nlb.gov.sg/main/image-detail?cmsuuid=5195f3a7-d7d9-42b9-b0c2-87de42dd8446). 1900s. Photograph. Lim Shao Bin Collection, PictureSG, National Library, Singapore.
 
 **Singapore Infopedia - articles**
-* Tan, Bonny. “[Victoria Theatre and Concert Hall](https://eresources.nlb.gov.sg/infopedia/articles/SIP_770_2004-12-16.html).” Singapore Infopedia. Published 2016. 
+* Tan, Bonny. “[Victoria Theatre and Concert Hall](https://www.nlb.gov.sg/main/article-detail?cmsuuid=8472b2d8-5549-4858-912b-f6150b4bcae6).” Singapore Infopedia. Published 2016. 
 
 All Rights Reserved. National Library Board Singapore 2022.
 <br><br>
