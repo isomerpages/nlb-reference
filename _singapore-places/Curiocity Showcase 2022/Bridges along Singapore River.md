@@ -3,24 +3,25 @@ title: Bridges along Singapore River
 permalink: /guides/singapore/places/bridges-sg-river/
 description: ""
 third_nav_title: Curiocity Showcase 2022
+variant: markdown
 ---
 # Bridges along Singapore River
-## Curiocity: Places & Perspectives
+## Curiocity: Places &amp; Perspectives
 
 Looking at Singapore today, it is easy to forget that it was once dotted with *kampungs* and plantations. And as we have changed, so has our cityscape. By spotlighting selected leisure and entertainment places in downtown Singapore as well as presenting fascinating histories hidden in plain sight, Curiocity gives us an opportunity to examine the evolution of our spaces and reflect on our relationship with them.
 
-Accessible both in-person and online, Curiocity invites you to discover, learn and engage with our island’s history through the content and collections from the National Library Board and its partners. Presented in partnership with the Light to Night Festival 2022, *Curiocity: Places & Perspectives* is held at the National Library Building (3 January – 3 February 2022) and across several locations in the Civic District (14 January – 3 February 2022). Find out more about the showcase at <https://curiocity.nlb.gov.sg/events/curiocity-showcase-2022>. 
+Accessible both in-person and online, Curiocity invites you to discover, learn and engage with our island’s history through the content and collections from the National Library Board and its partners. Presented in partnership with the Light to Night Festival 2022, *Curiocity: Places &amp; Perspectives* is held at the National Library Building (3 January – 3 February 2022) and across several locations in the Civic District (14 January – 3 February 2022). Find out more about the showcase at . 
 
 This resource guide has been produced to complement the main showcase ‘The River Connects’ at the Asian Civilisations Museum, exploring the thematic focus of **‘Bridges along Singapore River’**.
 
 ### Introduction
 The Singapore River has a long, eventful history, and some have described it as our island’s lifeline for almost 200 years.[^1] The river’s calm waters made it an ideal harbour, enabling the waterway to serve as a key connector between Singapore and the rest of the world, bringing trade, people, and ideas to and from our historic port city.  
 
-[^1]: Vernon Cornelius-Takahama & Damien Wang, “[Singapore River (historical overview)](https://eresources.nlb.gov.sg/infopedia/articles/SIP_148_2005-02-02.html),” Singapore Infopedia, published 2016.
+[^1]: Vernon Cornelius-Takahama &amp; Damien Wang, “[Singapore River (historical overview)](https://www.nlb.gov.sg/main/article-detail?cmsuuid=011fc400-0632-453b-8520-12ada317e263),” Singapore Infopedia, published 2016.
 
 Not to be overlooked, however, are the many bridges erected across the Singapore River. From wooden bridges to modern structural bridges, these constructions have served as passageways where coolies, merchants, government administrators, and many others have interacted and formed connections with each other. The bridges not only tell stories of engineering failures and triumphs, but also stories of those who relied on the river for work, passage, leisure and even shelter. 
 
-This guide provides supplementary resources for those who are keen to further explore this topic. To search for more resources, go to <https://search.nlb.gov.sg/>. To view other resource guides created by our librarians, please visit <https://reference.nlb.gov.sg/guides/>.
+This guide provides supplementary resources for those who are keen to further explore this topic. To search for more resources, go to . To view other resource guides created by our librarians, please visit .
 
 This resource guide was prepared in December 2021 by Andrea Kee, an Associate Librarian at the National Library, Singapore.
 
@@ -28,8 +29,8 @@ This resource guide was prepared in December 2021 by Andrea Kee, an Associate Li
 * Lim, Tin Seng. “[Bridging History: Passageways Across Water](https://biblioasia.nlb.gov.sg/vol-14/issue-4/jan-mar-2019/bridging-history-wtr/). *BiblioAsia* 14, issue 4 (2019): 42-49. 
 
 ### Books
-<table style="width:100%" style="font-size:125%">
-<tr>
+<table style="width:100%">
+<tbody><tr>
 		<td style="width:30%">
 			<img style="width:150px" src="/images/singapore-places/curiocity-showcase-2022/bridges-sg-river/sg%20river%20living%20legacy%20thumb.jpg">
 		</td>
@@ -57,11 +58,11 @@ This resource guide was prepared in December 2021 by Andrea Kee, an Associate Li
 <br>
         </td>
      </tr>
-	</table>
+	</tbody></table>
 
 ### 	eBooks
-<table style="width:100%" style="font-size:125%">
-<tr>
+<table style="width:100%">
+<tbody><tr>
 		<td style="width:30%">
 	<img style="width:150px" src="/images/singapore-places/curiocity-showcase-2022/bridges-sg-river/singapore%20river%20social%20history%20thumb.jpg">
 		</td>
@@ -69,7 +70,7 @@ This resource guide was prepared in December 2021 by Andrea Kee, an Associate Li
 Dobbs, Stephen. <a href="https://nlb.overdrive.com/media/3236263"><i>The Singapore River: A social history</i></a>. Singapore: Singapore University Press, 2003. <br><br>Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/">myLibrary ID</a> is required to access the eBook)
 		</td>
 </tr>
-	</table>
+	</tbody></table>
 
 ### Newspaper articles
 **General**
@@ -110,11 +111,11 @@ Times*, 12 August 1989, 22. (From NewspaperSG)
 
 ### Photographs
 <img style="width:500px" src="/images/singapore-places/curiocity-showcase-2022/bridges-sg-river/rg-images/anderson%20bridge.jpg">
-[Anderson Bridge : panoramic view [2]](https://eresources.nlb.gov.sg/pictures/details/aa31f535-f987-4325-908d-a136be298a7d). 23 May 2003. Photograph. Collection of National Library, Singapore.
+[Anderson Bridge : panoramic view [2]](https://www.nlb.gov.sg/main/image-detail?cmsuuid=aa31f535-f987-4325-908d-a136be298a7d). 23 May 2003. Photograph. Collection of National Library, Singapore.
 <br>
 <br>
 <img style="width:500px" src="/images/singapore-places/curiocity-showcase-2022/bridges-sg-river/rg-images/cavenagh%20bridge.jpg">
-[Cavenagh Bridge, 2003: panoramic view](https://eresources.nlb.gov.sg/pictures/details/91f2c39e-4252-4e15-bb41-a8c35aac16ae). 6 September 2003. Photograph. Collection of National Library, Singapore. 
+[Cavenagh Bridge, 2003: panoramic view](https://www.nlb.gov.sg/main/image-detail?cmsuuid=91f2c39e-4252-4e15-bb41-a8c35aac16ae). 6 September 2003. Photograph. Collection of National Library, Singapore. 
 <br>
 <br>
 <img style="width:500px" src="/images/singapore-places/curiocity-showcase-2022/bridges-sg-river/rg-images/clemenceau%20bridge.jpg">
@@ -123,23 +124,23 @@ Times*, 12 August 1989, 22. (From NewspaperSG)
 <br>
 <br>
 <img style="width:500px" src="/images/singapore-places/curiocity-showcase-2022/bridges-sg-river/rg-images/coleman%20bridge.jpg">
-[Coleman Bridge: general view](https://eresources.nlb.gov.sg/pictures/Details/069f99ce-aacf-4896-aaae-1008b4b40504). 1980s. Photograph. Kouo Shang-Wei Collection, PictureSG, National Library, Singapore.
+[Coleman Bridge: general view](https://www.nlb.gov.sg/main/image-detail?cmsuuid=069f99ce-aacf-4896-aaae-1008b4b40504). 1980s. Photograph. Kouo Shang-Wei Collection, PictureSG, National Library, Singapore.
 <br>
 <br>
 <img style="width:500px" src="/images/singapore-places/curiocity-showcase-2022/bridges-sg-river/rg-images/elgin%20bridge.jpg">
-[Elgin Bridge: side view](http://eresources.nlb.gov.sg/pictures/Details/ca30930c-17c7-4b96-a01a-c6113111248b). 6 September 2003. Photograph. Collection of National Library, Singapore.
+[Elgin Bridge: side view](https://www.nlb.gov.sg/main/image-detail?cmsuuid=ca30930c-17c7-4b96-a01a-c6113111248b). 6 September 2003. Photograph. Collection of National Library, Singapore.
 <br>
 <br>
 <img style="width:500px" src="/images/singapore-places/curiocity-showcase-2022/bridges-sg-river/rg-images/ord%20bridge.jpg">
-[Singapore River, with Ord Bridge, 1984: general view [5]](https://eresources.nlb.gov.sg/pictures/Details/b5345eee-bd9c-4fdc-a9eb-2c92c2cdba7b). 25 March 1984. Photograph. Lee Kip Lin Collection, PictureSG, National Library, Singapore.
+[Singapore River, with Ord Bridge, 1984: general view [5]](https://www.nlb.gov.sg/main/image-detail?cmsuuid=b5345eee-bd9c-4fdc-a9eb-2c92c2cdba7b). 25 March 1984. Photograph. Lee Kip Lin Collection, PictureSG, National Library, Singapore.
 <br>
 <br>
 <img style="width:500px" src="/images/singapore-places/curiocity-showcase-2022/bridges-sg-river/rg-images/read%20bridge.jpg">
-[Read Bridge, 2003: general view [1]](https://eresources.nlb.gov.sg/pictures/Details/7ca0d5ae-c2a2-4279-97c1-86e9e8995733). 6 September 2003. Photograph. Collection of National Library, Singapore.
+[Read Bridge, 2003: general view [1]](https://www.nlb.gov.sg/main/image-detail?cmsuuid=7ca0d5ae-c2a2-4279-97c1-86e9e8995733). 6 September 2003. Photograph. Collection of National Library, Singapore.
 
 ### Singapore Infopedia - articles
-* Cornelius-Takahama, Vernon & Damien Wang. “[Singapore River (historical overview)](https://eresources.nlb.gov.sg/infopedia/articles/SIP_148_2005-02-02.html).” Singapore Infopedia. Published 2016.
-* Cornelius-Takahama, Vernon & Janice Loo. “[Anderson Bridge](https://eresources.nlb.gov.sg/infopedia/articles/SIP_923_2004-12-24.html).” Singapore Infopedia. Published September 2019.
+* Cornelius-Takahama, Vernon &amp; Damien Wang. “[Singapore River (historical overview)](https://www.nlb.gov.sg/main/article-detail?cmsuuid=011fc400-0632-453b-8520-12ada317e263).” Singapore Infopedia. Published 2016.
+* Cornelius-Takahama, Vernon &amp; Janice Loo. “[Anderson Bridge](https://www.nlb.gov.sg/main/article-detail?cmsuuid=13e377d8-020f-4eb6-935b-e9ee85ccdfc4).” Singapore Infopedia. Published September 2019.
 * Cornelius-Takahama, Vernon. “[Cavenagh Bridge](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2_2004-12-17.html).” Singapore Infopedia. Published September 2019.
 * Cornelius-Takahama, Vernon. “[Coleman Bridge](https://eresources.nlb.gov.sg/infopedia/articles/SIP_151_2004-12-16.html).” Singapore Infopedia. Published 2017.
 * Cornelius-Takahama, Vernon. “[Elgin Bridge](https://eresources.nlb.gov.sg/infopedia/articles/SIP_921_2004-12-10.html).” Singapore Infopedia. Published September 2019.
