@@ -127,14 +127,14 @@ Lim, Kay Tong. <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=609568
 
 ### Odeon Cinema
 **Singapore Infopedia - articles**
-* Chia, Joshua Yeong Jia. “[Odeon Cinema](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1143_2006-06-21.html).” Singapore Infopedia. Published September 2017.
+* Chia, Joshua Yeong Jia. “[Odeon Cinema](https://www.nlb.gov.sg/main/article-detail?cmsuuid=d444a843-ca5c-464a-8602-b4f3e3242271).” Singapore Infopedia. Published September 2017.
 
 **Newspaper articles**
 * Boland, Geoffery. “[This new cinema will have 'cry room,’ five bars—and 3D](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530329-1.2.104)”. *Straits Times*, 29 March 1953, 11. (From NewspaperSG) 
 
 **Photographs**
 <img style="width:250px" src="/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/rg-images/odeon%20cinema.jpg">
-[Odeon Cinema, 1983: general view [1]](https://eresources.nlb.gov.sg/pictures/details/d87b36df-3e0e-4414-8f61-50d7d83ebd4c). 16 January 1983. Photograph. Lee Kip Lin Collection, PictureSG, National Library, Singapore.
+[Odeon Cinema, 1983: general view [1]](https://www.nlb.gov.sg/main/image-detail?cmsuuid=d87b36df-3e0e-4414-8f61-50d7d83ebd4c). 16 January 1983. Photograph. Lee Kip Lin Collection, PictureSG, National Library, Singapore.
 
 ### Rex Cinema
 **Newspaper articles**
@@ -144,7 +144,7 @@ Lim, Kay Tong. <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=609568
 
 **Photographs**
 <img style="width:250px" src="/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/rg-images/rex%20cinema.jpg">
-[MacKenzie Road, with Rex Cinema, 1982: general view](https://eresources.nlb.gov.sg/pictures/Details/17b1c2c2-66e3-4d2e-98d1-6d851980695e). 18 July 1982. Photograph. Lee Kip Lin Collection, PictureSG, National Library, Singapore.
+[MacKenzie Road, with Rex Cinema, 1982: general view](https://www.nlb.gov.sg/main/image-detail?cmsuuid=17b1c2c2-66e3-4d2e-98d1-6d851980695e). 18 July 1982. Photograph. Lee Kip Lin Collection, PictureSG, National Library, Singapore.
 
 ### The Capitol
 **BiblioAsia - articles**
@@ -156,7 +156,7 @@ Tan, Bonny. "[Living it up at The Capitol](https://biblioasia.nlb.gov.sg/files/p
 
 **Photographs**
 <img style="width:500px" src="/images/singapore-places/curiocity-showcase-2022/entertainment-bbb-and-cd/rg-images/capitol%20cinema.jpg">
-[Capitol Cinema: exterior [1]](https://eresources.nlb.gov.sg/pictures/Details/637885d6-5e1d-4287-a78f-8bc50525a43f). 28 September 1982. Photograph. Lee Kip Lin Collection, PictureSG, National Library, Singapore
+[Capitol Cinema: exterior [1]](https://www.nlb.gov.sg/main/image-detail?cmsuuid=637885d6-5e1d-4287-a78f-8bc50525a43f). 28 September 1982. Photograph. Lee Kip Lin Collection, PictureSG, National Library, Singapore
 
 ### Victoria Theatre
 **Books**
