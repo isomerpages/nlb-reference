@@ -4,9 +4,9 @@ permalink: /guides/arts/performing-arts/the-substation-donor-collection/
 breadcrumb: The Substation Donor Collection
 collection_name: arts-performing-arts
 third_nav_title: Performing Arts
-published: true
+published: "true"
+variant: markdown
 ---
-
 ### <u>Guide Index</u>
 
 * [Introduction](#introduction)
@@ -76,7 +76,7 @@ Call no.: RCLOS 709.2 CHA -\[SST\]
 Call no.: RCLOS 709.2 CHE -\[SST\]
 
 
-* Chong, W. X. & Lau, U. (2013). [Panoramic imprint](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202361575). Singapore: Printmaking Society Singapore & The Substation.
+* Chong, W. X. &amp; Lau, U. (2013). [Panoramic imprint](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202361575). Singapore: Printmaking Society Singapore &amp; The Substation.
 Call no.: RCLOS 769.905074 PAN -\[SST\]
 
 
@@ -84,11 +84,11 @@ Call no.: RCLOS 769.905074 PAN -\[SST\]
 Call no.: RSING 700.95957 ART -\[SST\]
 
 
-* Chui, K. & Zarina Muhammad. (2013). [Visual Art Open Call: Performing Coloniality](http://eservice.nlb.gov.sg/item_holding.aspx?bid=201576817). Singapore: The Substation.
+* Chui, K. &amp; Zarina Muhammad. (2013). [Visual Art Open Call: Performing Coloniality](http://eservice.nlb.gov.sg/item_holding.aspx?bid=201576817). Singapore: The Substation.
 Call no.: RSING 709.2 CHU -\[SST\]
 
 
-* Craker, T., Saxton, L. & Jordon, C. (2008). [Dot-net-dot-au](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202363584). East Kew, Vic: L Saxton.
+* Craker, T., Saxton, L. &amp; Jordon, C. (2008). [Dot-net-dot-au](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202363584). East Kew, Vic: L Saxton.
 Call no.: RCLOS 709.94 CRA -\[SST\]
 
 
@@ -112,7 +112,7 @@ Call no.: RSING 709.05 INF -\[SST\]
 Call no.: RCLOS 709.04 NEW -\[SST\]
 
 
-* Low, F., Ho, J. & Yan, X. (2013). [The school never asked: a story about life and love for teenagers](http://eservice.nlb.gov.sg/item_holding.aspx?bid=201576682). Singapore: The Substation.
+* Low, F., Ho, J. &amp; Yan, X. (2013). [The school never asked: a story about life and love for teenagers](http://eservice.nlb.gov.sg/item_holding.aspx?bid=201576682). Singapore: The Substation.
 Call no.: RSING 305.235 LOW -\[SST\]
 
 
@@ -136,7 +136,7 @@ Call no.: RSING 792 PER -\[SST\]
 Call no.: RSING 709.5957 QUE -\[SST\]
 
 
-* Seoul Art Space Mullae & The Substation. (2013). [Project Part One: 2013/2014](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202357534). Singapore: The Substation; Seoul: Seoul Art Space Mullae
+* Seoul Art Space Mullae &amp; The Substation. (2013). [Project Part One: 2013/2014](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202357534). Singapore: The Substation; Seoul: Seoul Art Space Mullae
 Call no.: RCLOS 709.5957 SUB -\[SST\]
 
 
@@ -164,11 +164,11 @@ Call no.: RCLOS Call no.: RCLOS 791.43 SIN -\[SST\]
 Call no.: 792.92095957 THO -\[SST\]
 
 
-* Vertical Submarine & The Substation. (2012). [Logbook of public ideas. Volume one](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14335604). Singapore: Red Herring Press.
+* Vertical Submarine &amp; The Substation. (2012). [Logbook of public ideas. Volume one](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14335604). Singapore: Red Herring Press.
 Call no.: RSING 700.95957 LOG
 
 
-* Vertical Submarine & The Substation. (2013). [Logbook of public ideas. Volume two](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200142472). Singapore: Red Herring Press.
+* Vertical Submarine &amp; The Substation. (2013). [Logbook of public ideas. Volume two](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200142472). Singapore: Red Herring Press.
 Call no.: RSING 700.95957 LOG
 
 
@@ -180,7 +180,7 @@ Call no.: RSING 700.95957 TWE
 Call no.: RCLOS 759.95125 WON -\[SST\]
 
 
-* Yap, J. & Khairuddin Hori. (2010). [Us and them and you](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202357119). \[s.n\] Call no.: RCLOS 770.92 YAP -\[SST\]
+* Yap, J. &amp; Khairuddin Hori. (2010). [Us and them and you](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202357119). \[s.n\] Call no.: RCLOS 770.92 YAP -\[SST\]
 
 
 * Yeo, T. (2007). [Reflections: Paintings by Thomas Yeo](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202368210). Singapore: The Substation.
@@ -191,7 +191,7 @@ Call no.: RSING 759.95957 YEO -\[SST\]
 Call no.: RSING 759.95957 THO -\[SST\]
 
 
-* Zaki Razak. (2013). [Blind: the age of darkness & darkness of being](http://eservice.nlb.gov.sg/item_holding.aspx?bid=201161594). \[s.n.\] Call no.: RSING 700.103 BLN -\[SST\]
+* Zaki Razak. (2013). [Blind: the age of darkness &amp; darkness of being](http://eservice.nlb.gov.sg/item_holding.aspx?bid=201161594). \[s.n.\] Call no.: RSING 700.103 BLN -\[SST\]
 
 
 ### <u>Ephemera</u>
@@ -244,7 +244,7 @@ Another category of ephemera items from The Substation contains programme bookle
 Call no.: RCLOS 779.0745957 SIN -\[SST\]
 
 
-* Arianie Sulaiman & McKean, G. T. (1997). [Tribute to Mata Hari: East meets West: a collaboration with Gregory T Mckean](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202366733). Sinagpore: The Substation.
+* Arianie Sulaiman &amp; McKean, G. T. (1997). [Tribute to Mata Hari: East meets West: a collaboration with Gregory T Mckean](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202366733). Sinagpore: The Substation.
 Call no.: RCLOS 792.8095957 ARI -\[SST\]
 
 
@@ -260,15 +260,15 @@ Call no.: 709.5957 ASS -\[SST\]
 Call no.: 709.5957 JUL -\[SST\]
 
 
-* Babes & friends: It’s about time. (1999). [A poster advertised a fund raising concert for The Substation featuring Babes Conde, Jacintha Abishegenadan, John Lee, Es Choir, Kevin Verghese and Sheikh Haikel](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202360302). Singapore: The Substation.
+* Babes &amp; friends: It’s about time. (1999). [A poster advertised a fund raising concert for The Substation featuring Babes Conde, Jacintha Abishegenadan, John Lee, Es Choir, Kevin Verghese and Sheikh Haikel](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202360302). Singapore: The Substation.
 Call no.: RCLOS 781.64 BAB -\[SST\]
 
 
-* Cruickshank, A. & Lee, W. C. (2003). [Museum of the colonial post-colonial](http://eservice.nlb.gov.sg/item_holding.aspx?bid=12276010). Singapore: The Substation.
+* Cruickshank, A. &amp; Lee, W. C. (2003). [Museum of the colonial post-colonial](http://eservice.nlb.gov.sg/item_holding.aspx?bid=12276010). Singapore: The Substation.
 Call no.: RCLOS 779.2074095957 CRU -\[SST\]
 
 
-* De Rozario, T. & Zarina Muhammad. (2011). [Etiquette II: On getting down & dirty](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202362829). Singapore: The Substation.
+* De Rozario, T. &amp; Zarina Muhammad. (2011). [Etiquette II: On getting down &amp; dirty](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202362829). Singapore: The Substation.
 Call no.: RCLOS 709.05 ON -\[SST\]
 
 
@@ -296,7 +296,7 @@ Call no.: Chinese 700.95957 M -\[SST\]
 Call no.: RCLOS 791.430971 CIN -\[SST\]
 
 
-* [New Criteria III: Ray Langenbach, Suzann Victor, Ng Siew Kuan & Jason Lim](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202360401). (1995). Singapore: The Substation.
+* [New Criteria III: Ray Langenbach, Suzann Victor, Ng Siew Kuan &amp; Jason Lim](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202360401). (1995). Singapore: The Substation.
 Call no.: RCLOS 709.04 NEW -\[SST\] A pictorial supplement to the New Criteria III exhibition.
 
 
@@ -358,7 +358,7 @@ Call no.: RCLOS 709.59 ZAI -\[SST\]
 
 ### <u>Images</u>
 
-The Substation donated more than 2,000 physical and born-digital photographs of events, programmes and exhibitions. These have been made accessible and searchable on [PictureSG](http://eresources.nlb.gov.sg/pictures), NLB’s digital collection of images. Simply type “The Substation” in the search box in [PictureSG](http://eresources.nlb.gov.sg/pictures) to view the items from home.  A selection of photographs is highlighted below.
+The Substation donated more than 2,000 physical and born-digital photographs of events, programmes and exhibitions. These have been made accessible and searchable on [National Library Online](https://www.nlb.gov.sg/main/onesearch/result?type=image&amp;nlonline=true&amp;utm_source=corpweb&amp;utm_medium=web&amp;utm_id=nlonline&amp;utm_content=images), NLB’s digital collection. Simply type “The Substation” in the search box in [National Library Online](https://www.nlb.gov.sg/main/onesearch/result?type=image&amp;nlonline=true&amp;utm_source=corpweb&amp;utm_medium=web&amp;utm_id=nlonline&amp;utm_content=images) to view the items.  A selection of photographs is highlighted below.
 
  ![Talking image](/images/arts/performingarts/cd686934-21f1-413f-9a1c-38021ee7d6f2.jpg)
 
