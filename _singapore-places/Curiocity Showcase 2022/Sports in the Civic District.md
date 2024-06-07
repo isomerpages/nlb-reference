@@ -124,7 +124,7 @@ Valberg, Roger, ed. <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bi
 <img style="width:500px" src="/images/singapore-places/curiocity-showcase-2022/sports-cd/sports1.JPG">[Singapore Cricket Club with clock tower of Victoria Memorial Hall visible on the right, Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/ad9f3d19-1161-11e3-83d5-0050568939ad). c. 1908. Photograph. National Archives of Singapore.
 <br>
 <br>
-<img style="width:250px" src="/images/singapore-places/curiocity-showcase-2022/sports-cd/sports2.JPG">[New Year Sea Sports, 1925: general view [4]](http://eresources.nlb.gov.sg/pictures/Details/b628893b-a614-4598-8b01-8a4cee923500). 1 January 1925. Photograph. Edwin A. Brown Collection, PictureSG, National Library, Singapore.
+<img style="width:250px" src="/images/singapore-places/curiocity-showcase-2022/sports-cd/sports2.JPG">[New Year Sea Sports, 1925: general view [4]](https://www.nlb.gov.sg/main/image-detail?cmsuuid=b628893b-a614-4598-8b01-8a4cee923500). 1 January 1925. Photograph. Edwin A. Brown Collection, National Library, Singapore.
 <br>
 <br>
 <img style="width:500px" src="/images/singapore-places/curiocity-showcase-2022/sports-cd/sports3.JPG">[Presentation of prizes at the Inter Boy’s Club football finals held at the Padang](https://www.nas.gov.sg/archivesonline/photographs/record-details/246cf8ca-1162-11e3-83d5-0050568939ad). 22 August 1950. Photograph. Ministry of Information and the Arts Collection, National Archives of Singapore.
@@ -136,7 +136,7 @@ Valberg, Roger, ed. <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bi
 <img style="width:500px" src="/images/singapore-places/curiocity-showcase-2022/sports-cd/sports5.JPG">[Crowd watching dragon boat race heats for inaugural Singapore River Regatta at Singapore River](https://www.nas.gov.sg/archivesonline/photographs/record-details/edea99b3-1161-11e3-83d5-0050568939ad). 4 December 1983. Photograph. Ministry of Information and the Arts Collection, National Archives of Singapore.
 <br>
 <br>
-<img style="width:500px" src="/images/singapore-places/curiocity-showcase-2022/sports-cd/sports6.JPG">[Raffles City, 1986: general view [5]](http://eresources.nlb.gov.sg/pictures/Details/16333bb1-72e4-46a8-8f72-1960103fd0bd). 1986. Photograph. Kouo Shang-Wei Collection 郭尚慰珍藏, PictureSG, National Library, Singapore. 
+<img style="width:500px" src="/images/singapore-places/curiocity-showcase-2022/sports-cd/sports6.JPG">[Raffles City, 1986: general view [5]](https://www.nlb.gov.sg/main/image-detail?cmsuuid=16333bb1-72e4-46a8-8f72-1960103fd0bd). 1986. Photograph. Kouo Shang-Wei Collection 郭尚慰珍藏,  National Library, Singapore. 
 
 ### Oral history interviews
 * [Goh, Teck Phuan](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/73626ee5-115e-11e3-83d5-0050568939ad). Oral history interview with Chong Ching Liang, 12 October 1999. Transcript and MP3 audio, 29:36. National Archives of Singapore (accession no. 002128), 36.
