@@ -45,10 +45,7 @@ What defines a ‘Pandemic,’ and how are they stopped? (2020). <i>Discover</i>
 Pandemics from Homer to Stephen King: what we can learn from literary history. (2020). <i>The Conversation</i>. Retrieved March 26, 2020. 
 
 <h5>3. <a href="https://www.medicalnewstoday.com/categories/infectious_diseases" target="_blank">Infectious diseases / bacteria / viruses</a></h5>
-Infectious Diseases / Bacteria / Viruses. (2020). <i>Medical News Today</i>. Retrieved March 25, 2020.
-
-<h5>4. <a href="https://www.sciencedaily.com/news/health_medicine/viruses/" target="_blank">Viruses news</a></h5>
-Viruses News. (2020). <i>Science Daily</i>. Retrieved March 25, 2020.<br>
+Infectious Diseases / Bacteria / Viruses. (2020). <i>Medical News Today</i>. Retrieved March 25, 2020.<br>
 
 
 <img src="/images/sci-tech/P-hygiene.png" style="width:500px;">
