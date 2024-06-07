@@ -86,7 +86,7 @@ Soviet Prime Minister Nikita Khrushchev announces that the Soviet Union has orde
 Continued Soviet activity at Cuba’s missile bases results in heightened tensions between the United States, Soviet Union, and Cuba, and experts speculate on the probability of an American bomber strike on the missile sites, even as negotiations between the leaders drag on.
 
 
-* Ross, T. B. (1958, July 21). [The missile race](https://web.archive.org/web/20191222195306/http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19580721.2.66.aspx). The Singapore Free Press, p. 13. Retrieved from NewspaperSG.
+* Ross, T. B. (1958, July 21). [The missile race](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19580721.2.66.aspx). The Singapore Free Press, p. 13. Retrieved from NewspaperSG.
 
 American intelligence counts upwards of 25 Soviet missiles in development and production, giving the Soviets the range to threaten attacks on most of Europe, and soon the Western hemisphere.
 
