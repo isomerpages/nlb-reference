@@ -126,13 +126,10 @@ Davis, K. C. (2018, September 21). Philadelphia threw a WWI parade that gave tho
 <h5>2. <a href="https://www.politico.com/news/magazine/2020/03/17/spanish-flu-lessons-coronavirus-133888" target="_blank">Rampant lies, fake cures and not enough beds</a></h5>
 Zeitz, J. (2020, March 17). Rampant lies, fake cures and not enough beds: What the Spanish Flu debacle can teach us about coronavirus. <i>Politico Magazine</i>. Retrieved 2020, April 1.
 
-<h5>3. <a href="https://www.sciencedaily.com/releases/2019/05/190523202557.htm" target="_blank">Spanish Flu may have lingered two years before 1918 outbreak and vaccine could have treated it</a></h5>
-Taylor &amp; Francis Group. (2019, May 23). Spanish Flu may have lingered two years before 1918 outbreak and vaccine could have treated it. <i>ScienceDaily</i>. Retrieved 2020, April 1.
-
-<h5>4. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6477554/" target="_blank">The Spanish influenza pandemic: A lesson from history 100 years after 1918</a></h5>
+<h5>3. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6477554/" target="_blank">The Spanish influenza pandemic: A lesson from history 100 years after 1918</a></h5>
 Martini, M. [et. al.]. (2019, March). The Spanish influenza pandemic: A lesson from history 100 years after 1918. <i>Journal of Preventive Medicine and Hygiene, 60(1), 64-67</i>. Retrieved 2020, April 1.
 
-<h5>5. <a href="https://www.tandfonline.com/doi/full/10.1080/21645515.2019.1607711" target="_blank">A possible European origin of the Spanish influenza and the first attempts to reduce mortality to combat superinfecting bacteria: an opinion from a virologist and a military historian</a></h5>
+<h5>4. <a href="https://www.tandfonline.com/doi/full/10.1080/21645515.2019.1607711" target="_blank">A possible European origin of the Spanish influenza and the first attempts to reduce mortality to combat superinfecting bacteria: an opinion from a virologist and a military historian</a></h5>
 MOxford, J. S. &amp; Gill, D. (2019, May 23). A possible European origin of the Spanish influenza and the first attempts to reduce mortality to combat superinfecting bacteria: an opinion from a virologist and a military historian. <i>Immunotherapeutics, 15(9), 2009-2012</i>. Retrieved 2020, April 1.
 
 
