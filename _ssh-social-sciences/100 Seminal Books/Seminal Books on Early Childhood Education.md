@@ -46,7 +46,7 @@ We would like to thank the following for their insights, time and contributions 
 
 - Ms Maria Seda
 - Dr Sharifah Mariam Aljunied, Principal Educational Psychologist, Education Services Division, MOE
-- [Early Childhood Development Agency](https://www.ecda.gov.sg/pages/default.aspx)
+- [Early Childhood Development Agency](https://www.ecda.gov.sg/)
 
 ## **Child Development**
 (listed in alphabetical order)
