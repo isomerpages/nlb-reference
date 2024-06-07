@@ -108,22 +108,17 @@ Fuoco, M. A. (2020, March 29). The resilience of the human spirit worldwide, com
 
 
 <h4>Chinese and Malay resources</h4>
-<h5>1. <a href="https://cn.wsj.com/articles/影片﹕新冠疫情之下，世界各地開啟「陽台社交」-11585637110" target="_blank">新冠疫情之下，世界各地开启“阳台社交”</a></h5>
-（2020年 3月 31日)。新冠疫情之下，世界各地开启“阳台社交”。<i>華爾街日報。</i> Retrieved 2024, April 7.
-
-This article is about people around the world who socialised with their neighbours from their respective balconies while self-isolating at home during the pandemic.
-
-<h5>2. <a href="https://www.anntw.com/articles/20200427-WzR4" target="_blank">满足社交需求 虚拟演唱会吸千万人</a></h5>
+<h5>1. <a href="https://www.anntw.com/articles/20200427-WzR4" target="_blank">满足社交需求 虚拟演唱会吸千万人</a></h5>
 陈是祈。（2020年4月27日）。满足社交需求 虚拟演唱会吸千万人。<i>台湾醒报。</i> Retrieved 2020, May 4.
 
 Popular online game Fortnite organised a virtual concert that attracted more than 1.2 million viewers. Viewers were also able to interact, signaling how large-scale events could be conducted post-pandemic as well as the need for social interaction.
 
-<h5>3. <a href="https://www.bbc.com/zhongwen/simp/business-52289687" target="_blank">电玩游戏：它不只是帮你度过居家隔离期的娱乐</a></h5>
+<h5>2. <a href="https://www.bbc.com/zhongwen/simp/business-52289687" target="_blank">电玩游戏：它不只是帮你度过居家隔离期的娱乐</a></h5>
 克里斯·巴兰纽克（Chris Baraniuk）。（2020年4月15日）。电玩游戏：它不只是帮你度过居家隔离期的娱乐。<i>BBC中文网。</i> Retrieved 2020, May 4.
 
 With the closure of restaurants, bars, leisure venues and other facilities worldwide due to the COVID-19 pandemic, online games have helped people maintain social connections, providing a virtual space where people can gather, play and chat.
 
-<h5>4. <a href="https://www.beritaharian.sg/setempat/covid-19-mendaki-hulur-19j-bantu-masyarakat-melayuislam-yang-terjejas" target="_blank">Covid-19: Mendaki hulur $1.9j bantu masyarakat Melayu/Islam yang terjejas</a></h5>
+<h5>3. <a href="https://www.beritaharian.sg/setempat/covid-19-mendaki-hulur-19j-bantu-masyarakat-melayuislam-yang-terjejas" target="_blank">Covid-19: Mendaki hulur $1.9j bantu masyarakat Melayu/Islam yang terjejas</a></h5>
 Covid-19: Mendaki hulur $1.9j bantu masyarakat Melayu/Islam yang terjejas. (2020, April 9). <i>Berita Harian.</i> Retrieved 2020, April 30.
 
 As a follow up to #SGTeguhBersatu (#SGUnited), Mendaki announced that it was setting aside $1.9 million to help those in the Malay/Muslim community affected by the COVID-19 pandemic.
