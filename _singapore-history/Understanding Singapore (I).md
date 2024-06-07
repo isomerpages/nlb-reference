@@ -58,19 +58,19 @@ Plans to attract the birds back and to grow more varieties of fruit trees. Singa
 
 #### Singapore Infopedia - articles
 
-* National Library Board. (2015). *[Bukit Timah Nature Reserve](https://eresources.nlb.gov.sg/infopedia/articles/SIP_55_2004-12-20.html?s=Bukit%20Timah%20Nature%20Reserve)* written by Lee, Meiyu. Retrieved April 9, 2020, from Singapore Infopedia.  
+* National Library Board. (2015). *[Bukit Timah Nature Reserve]([Bukit Timah Nature Reserve (nlb.gov.sg)](https://www.nlb.gov.sg/main/article-detail?cmsuuid=0c96eac2-2c65-4d1b-81b2-bf49eb626175))* written by Lee, Meiyu. Retrieved April 9, 2020, from Singapore Infopedia.  
 
 The Bukit Timah Reserve, situated along Upper Bukit Timah Road, 1019 ha, is part of a limited area of primary rainforest left on Singapore island. Within the reserve lies Singapore’s highest point, the Bukit Timah Hill, which stands 162.5 m above sea-level and is composed of ancient granite.
 
-* National Library Board. (2009). *[MacRitchie Reservoir](https://eresources.nlb.gov.sg/infopedia/articles/SIP_159_2004-12-27.html?s=MacRitchie%20Reservoir)* written by Mohamed, Zaubida. Retrieved April 9, 2020, from Singapore Infopedia. 
+* National Library Board. (2009). *[MacRitchie Reservoir]([nlb.gov.sg/main/article-detail?cmsuuid=9daebfbc-261a-4785-a296-9a899017aee5](https://www.nlb.gov.sg/main/article-detail?cmsuuid=9daebfbc-261a-4785-a296-9a899017aee5))* written by Mohamed, Zaubida. Retrieved April 9, 2020, from Singapore Infopedia. 
 
 MacRitchie Reservoir, located off Lornie Road and completed in the late 1860s, was the first water supply system implemented in Singapore. The Impounding Reservoir or Thomson Road Reservoir, as it was originally called, was renamed MacRitchie Reservoir in 1922 after James MacRitchie, the municipal engineer of Singapore from 1883 to 1895.
 
-* National Library Board. (2017). *[Mangrove](https://eresources.nlb.gov.sg/infopedia/articles/SIP_412_2005-01-03.html?s=Mangrove)* written by Ahmad, Nureza. Retrieved April 9, 2020, from Singapore Infopedia.  
+* National Library Board. (2017). *[Mangrove]([Mangrove (nlb.gov.sg)](https://www.nlb.gov.sg/main/article-detail?cmsuuid=2b760d0a-a015-43a2-86ed-28b435822006))* written by Ahmad, Nureza. Retrieved April 9, 2020, from Singapore Infopedia.  
 
 Mangrove is a highly adaptive plant in tropical intertidal forest communities. Before the rapid post-war development of Singapore, mangroves were  growing freely along Singapore's coast, especially in the north and west. The plant's existence is now limited to mainly some offshore islands and the wetland reserves of Sungei Buloh.
 
-* National Library Board. (2015). *[Sungei Buloh Wetland Reserve](https://eresources.nlb.gov.sg/infopedia/articles/SIP_566_2005-02-01.html?s=Sungei%20Buloh%20Nature%20Park)* written by Loo, Janice. Retrieved April 9, 2020, from Singapore Infopedia. 
+* National Library Board. (2015). *[Sungei Buloh Wetland R[Sungei Buloh Wetland Reserve (nlb.gov.sg)](https://www.nlb.gov.sg/main/article-detail?cmsuuid=a6fb17f3-c113-4a02-8908-6f36f95c75e4))* written by Loo, Janice. Retrieved April 9, 2020, from Singapore Infopedia. 
 
 Sungei Buloh Nature Park is designated a wild bird reserve and nature park for mangrove flora and fauna in 1989. It is the first of its kind to be established in Singapore, and lies directly along the East Asian Flyway, a migratory route for birds. On 1 January 2002, the park was officially gazetted as a nature reserve and renamed Sungei Buloh Wetland Reserve (SBWR) to reflect its new status. 
 
