@@ -3,11 +3,10 @@ title: Streets and Places in Singapore
 permalink: /guides/singapore/places/streets-and-places-in-singapore/
 breadcrumb: Streets and Places in Singapore
 collection_name: singapore-places
-published: true
+published: "true"
 description: ""
+variant: markdown
 ---
-
-
 ### <u>Guide Index</u>
 
 * [Introduction](#introduction)
@@ -248,7 +247,7 @@ Showcases the unique appeal of rustic old charms with a modern feel at Radin Mas
 
 All rights reserved, Singapore: Radin Mas Citizens’ Consultative Committee in collaboration with Central Singapore, 2009.
 
-**Ray Tyers’ Singapore then & now**
+**Ray Tyers’ Singapore then &amp; now**
 
 by Ray K. Tyers
 
@@ -408,13 +407,11 @@ JSTOR is a database which provides access to important scholarly journals, mainl
 
 **Infopedia**
 
-URL: [http://eresources.nlb.gov.sg/infopedia/](http://eresources.nlb.gov.sg/infopedia/)
+URL: [http://eresources.nlb.gov.sg/infopedia/]([Resources (nlb.gov.sg)](https://www.nlb.gov.sg/main/onesearch/result?type=infopedia&amp;nlonline=true&amp;utm_source=corpweb&amp;utm_medium=web&amp;utm_id=nlonline&amp;utm_content=infopedia))
 
 Singapore Infopedia is an electronic encyclopedia on Singapore published by the National Library Board (NLB). It holds a collection of articles on Singapore and covers a wide range of topics, including but not limited to historical events, arts, culture, economy, government and key personalities.
 
-To search for Infopedia articles on streets and places in Singapore, check out this URL: [http://eresources.nlb.gov.sg/infopedia/Streets_and_Places.html](http://eresources.nlb.gov.sg/infopedia/Streets_and_Places.html)
-
-A list of 273 articles on Singapore streets and places are provided. Featured below are some of the articles you can find from Infopedia.
+Featured below are some of the articles you can find from Infopedia.
 
 * Arab Street
 
@@ -434,14 +431,11 @@ A list of 273 articles on Singapore streets and places are provided. Featured be
 
   Extract from article: Telok Ayer was designated a Chinese district by Stamford Raffles in 1822 and gained prominence in the 1820s because it served as the landing site for early immigrants. This led to a concentration of religious buildings and Chinese clan associations along the street. The street thus gives a useful insight into the life of early Chinese immigrants.
 
-**PictureSG**
-URL: [https://eresources.nlb.gov.sg/pictures](https://eresources.nlb.gov.sg/pictures)
+**Images on NL Online**
+URL: [[National Library Online (nlb.gov.sg)](https://www.nlb.gov.sg/main/nlonline)]([Resources (nlb.gov.sg)](https://www.nlb.gov.sg/main/onesearch/result?type=image&amp;nlonline=true&amp;utm_source=corpweb&amp;utm_medium=web&amp;utm_id=nlonline&amp;utm_content=images))
 
-PictureSG is a collection of pictures, be it photographs or artworks, which provide information about Singapore. It contains NLB’s own pictures, pictures donated to NLB by donors and others contributed by our partners.
+Pictures, be it photographs or artworks, which provide information about Singapore. It contains NLB’s own pictures, pictures donated to NLB by donors and others contributed by our partners.
 
-Visitors can browse through over 23,000 pictures featuring the streets and places of Singapore at this URL: [https://eresources.nlb.gov.sg/pictures/Browse/Streets_and_Places](https://eresources.nlb.gov.sg/pictures/Browse/Streets_and_Places)
-
-Keyword searches of a particular street, road, building or bridge can also be done at the search bar located at the top right-hand corner of the PictureSG website.
 
 **NewspaperSG**
 URL: [https://eresources.nlb.gov.sg/newspapers/](https://eresources.nlb.gov.sg/newspapers/)
