@@ -3,14 +3,15 @@ title: Notable Landmarks in the Bras Basah Bugis and Civic District Areas
 permalink: /guides/singapore/places/landmarks-bras-basah/
 description: ""
 third_nav_title: Curiocity Showcase 2022
+variant: markdown
 ---
 # Notable Landmarks in the Bras Basah Bugis and Civic District Areas
 
-## Curiocity: Places & Perspectives
+## Curiocity: Places &amp; Perspectives
 
 Looking at Singapore today, it is easy to forget that it was once dotted with *kampungs* and plantations. And as we have changed, so has our cityscape. By spotlighting selected leisure and entertainment places in downtown Singapore as well as presenting fascinating histories hidden in plain sight, Curiocity gives us an opportunity to examine the evolution of our spaces and reflect on our relationship with them.
 
-Accessible both in-person and online, Curiocity invites you to discover, learn and engage with our island’s history through the content and collections from the National Library Board and its partners. Presented in partnership with the Light to Night Festival 2022, *Curiocity: Places & Perspectives* is held at the National Library Building (3 January – 3 February 2022) and across several locations in the Civic District (14 January – 3 February 2022). Find out more about the showcase at <https://curiocity.nlb.gov.sg/events/curiocity-showcase-2022>.
+Accessible both in-person and online, Curiocity invites you to discover, learn and engage with our island’s history through the content and collections from the National Library Board and its partners. Presented in partnership with the Light to Night Festival 2022, *Curiocity: Places &amp; Perspectives* is held at the National Library Building (3 January – 3 February 2022) and across several locations in the Civic District (14 January – 3 February 2022). Find out more about the showcase at .
 
 This resource guide has been produced to complement the satellite installation ‘A Tessellation of Memories’ at The Arts House, exploring the thematic focus of **‘Notable landmarks in Bras Basah.Bugis and the Civic District’**.
 
@@ -23,7 +24,7 @@ The Grand Hotel de l’Europe was once one of the finest hotels in Singapore and
 
 Bras Basah.Bugis and the Civic District, particularly North Bridge Road and High Street, were also popular with shoppers in the 1960s. The Metro store, a two-storey shophouse on High Street, was the go-to destination for those looking for the latest in fashion. The Treasury is now located there. The area was also known for food. For example, the row of hawker stalls along Waterloo Street was well-known for Indian food especially Indian *rojak*, and the Satay Club at the Esplanade, a waterfront food centre, was popular with locals and tourists during the 1970s and 80s. 
 
-This guide provides resources for those who are keen to further explore this topic. To search for more resources, go to <https://search.nlb.gov.sg/>. To view other resource guides created by our librarians, please visit <https://reference.nlb.gov.sg/guides/>.
+This guide provides resources for those who are keen to further explore this topic. To search for more resources, go to . To view other resource guides created by our librarians, please visit .
 
 This resource guide was prepared in December 2021 by Toffa Abdul Wahed, an Associate Librarian at the National Library, Singapore.
 ### Grand Hotel de l'Europe
@@ -31,7 +32,7 @@ This resource guide was prepared in December 2021 by Toffa Abdul Wahed, an Assoc
 * Peleggi, Maurizio. “The Social and Material Life of Colonial Hotels: Comfort Zones as Contact Zones in British Colombo and Singapore, ca. 1870-1930.” *Journal of Social History* 46, issue 1 (2012): 124-153. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
 **Singapore Infopedia - article**
-* Chia, Joshua Yeong Jia and Andrea Kee Hwee Yee. “[Grand Hotel de l’Europe](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1117_2008-12-05.html).” Singapore Infopedia. Published 2020.
+* Chia, Joshua Yeong Jia and Andrea Kee Hwee Yee. “[Grand Hotel de l’Europe]([Grand Hotel de l’Europe (nlb.gov.sg)](https://www.nlb.gov.sg/main/article-detail?cmsuuid=f90d6c54-5556-4bac-8aad-65a555c71e28))).” Singapore Infopedia. Published 2020.
 
 **BiblioAsia - article**
 * Lai, Chee Kien. “[The Padang: Centrepiece of Colonial Design](https://biblioasia.nlb.gov.sg/vol-12/issue-3/oct-dec-2016/the-padang).” *BiblioAsia* 12, issue 3 (2016): 40–43.
@@ -57,17 +58,17 @@ This resource guide was prepared in December 2021 by Toffa Abdul Wahed, an Assoc
 * [Lim, Jiat Kim](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/83622522-6563-11e4-859c-0050568939ad). Oral history interview with Kiang-Koh Lai Lin, 18 August 2014. MP3 audio, 38:14. National Archives of Singapore (accession no. 003896), 2.
 
 **Photographs**
-<img style="width:250px" src="/images/singapore-places/curiocity-showcase-2022/notable-landmarks-in-bbb-cd/landmark3.JPG">[Empress Hotel, 1978 : general view [3]](http://eresources.nlb.gov.sg/pictures/Details/7475899d-36bc-46d6-b7c6-21ac52693c77). 1 December 1978. Photograph. Lee Kip Lin Collection, PictureSG, National Library, Singapore.
+<img style="width:250px" src="/images/singapore-places/curiocity-showcase-2022/notable-landmarks-in-bbb-cd/landmark3.JPG">[Empress Hotel, 1978 : general view [3]](https://www.nlb.gov.sg/main/image-detail?cmsuuid=7475899d-36bc-46d6-b7c6-21ac52693c77). 1 December 1978. Photograph. Lee Kip Lin Collection, National Library, Singapore.
 
-<img style="width:500px" src="/images/singapore-places/curiocity-showcase-2022/notable-landmarks-in-bbb-cd/landmark4.JPG">[Empress Hotel – night club & dining room](https://www.nas.gov.sg/archivesonline/photographs/record-details/f4e94a02-1161-11e3-83d5-0050568939ad). 1986. Photograph. National Archives of Singapore.
+<img style="width:500px" src="/images/singapore-places/curiocity-showcase-2022/notable-landmarks-in-bbb-cd/landmark4.JPG">[Empress Hotel – night club &amp; dining room](https://www.nas.gov.sg/archivesonline/photographs/record-details/f4e94a02-1161-11e3-83d5-0050568939ad). 1986. Photograph. National Archives of Singapore.
 
 ### Metro on High Street
 **Singapore Infopedia - article**
-* Ong, Isabel. “[Metro](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1506_2009-04-22.html).” Singapore Infopedia. Published 2016. 
+* Ong, Isabel. “[Metro]([Metro (nlb.gov.sg)](https://www.nlb.gov.sg/main/article-detail?cmsuuid=968a2277-f8df-45d6-b3d0-0ce546321fb9)).” Singapore Infopedia. Published 2016. 
 
 **BiblioAsia - articles**
 * Balasinghamchow, Yu-Mei. “[Going Shopping in the 60s](https://biblioasia.nlb.gov.sg/vol-14/issue-2/jul-sep-2018/going-shopping-in60s/).” *BiblioAsia* 14, issue 2 (2018): 30–37.
-* De Souza, John, Cat Ong & Tom Rao. “[The 1960s Fashion: The Legacy of Made-to-Measure](https://biblioasia.nlb.gov.sg/vol-12/issue-4/jan-mar-2017/1960s-fashion).” *BiblioAsia* 12, issue 4 (2017): 20–25.
+* De Souza, John, Cat Ong &amp; Tom Rao. “[The 1960s Fashion: The Legacy of Made-to-Measure](https://biblioasia.nlb.gov.sg/vol-12/issue-4/jan-mar-2017/1960s-fashion).” *BiblioAsia* 12, issue 4 (2017): 20–25.
 
 **Newspaper articles**
 * Chia, Poteik. “[Their aim: to make Singapore the shopping centre of the East](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19621130-1.2.114).” *Straits Times*, 30 November 1962, 14. (From NewspaperSG)
@@ -78,8 +79,8 @@ This resource guide was prepared in December 2021 by Toffa Abdul Wahed, an Assoc
 
 ### National Library Building on Stamford Road
 **Books**
-<table style="width:100%"><table style="font-size:125%">
-<tr>
+<table style="width:100%"></table><table style="font-size:125%">
+<tbody><tr>
 	<td style="width:30%">
             <img style="width:150px" src="/images/singapore-places/curiocity-showcase-2022/notable-landmarks-in-bbb-cd/seet.jpg">
         </td>
@@ -89,10 +90,10 @@ Seet, K. K. <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=408232
 <br>
 		</td>
 </tr>
-</table></table>
+</tbody></table>
 
 **Singapore Infopedia - article**
-* Balamurugan, Anasuya. “[National Library Building (Stamford Road)](https://eresources.nlb.gov.sg/infopedia/articles/SIP_661_2004-12-27.html).” Singapore Infopedia. Published 2018.
+* Balamurugan, Anasuya. “[National Library Building (Stamford Road)]([National Library Building (Stamford Road) (nlb.gov.sg)](https://www.nlb.gov.sg/main/article-detail?cmsuuid=62e46445-56be-4ea1-917d-f0b0fb5220eb)).” Singapore Infopedia. Published 2018.
 
 **BiblioAsia - article**
 * Boey, Kim Cheng. “[The Library of Memory](https://biblioasia.nlb.gov.sg/files/pdf/Bibliosia%20Apr-Jun%202014.pdf).” *BiblioAsia* 10, issue 1 (2014): 2–7.  
@@ -106,9 +107,9 @@ Seet, K. K. <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=408232
 * [Lee, Ellen Geck Hoon](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/9f0413b7-3a12-11e7-98bd-0050568939ad). Oral history interview by Kiang-Koh Lai Lin, 28 April 2017. MP3 audio, 43:48. National Archives of Singapore (accession no. 004115), 2.
 
 **Photographs**
-<img style="width:500px" src="/images/singapore-places/curiocity-showcase-2022/notable-landmarks-in-bbb-cd/landmark5.JPG">[National Library building at Stamford Road: exterior](http://eresources.nlb.gov.sg/pictures/Details/6a6907b1-ebaf-4b4e-9826-afe54694e689). 13 August 1998. Photograph. National Library Board Singapore.
+<img style="width:500px" src="/images/singapore-places/curiocity-showcase-2022/notable-landmarks-in-bbb-cd/landmark5.JPG">[National Library building at Stamford Road: exterior](https://www.nlb.gov.sg/main/image-detail?cmsuuid=6a6907b1-ebaf-4b4e-9826-afe54694e689). 13 August 1998. Photograph. National Library Board Singapore.
 
-<img style="width:500px" src="/images/singapore-places/curiocity-showcase-2022/notable-landmarks-in-bbb-cd/landmark6.JPG">[National Library Central Lending Section, reading area: top view](http://eresources.nlb.gov.sg/pictures/Details/aeab3d9a-25c0-4c5e-b119-afc0e098807b). 13 August 1998. Photograph. National Library Board Singapore.
+<img style="width:500px" src="/images/singapore-places/curiocity-showcase-2022/notable-landmarks-in-bbb-cd/landmark6.JPG">[National Library Central Lending Section, reading area: top view](https://www.nlb.gov.sg/main/image-detail?cmsuuid=aeab3d9a-25c0-4c5e-b119-afc0e098807b). 13 August 1998. Photograph. National Library Board Singapore.
 
 ### Hawker stalls at Waterloo Street
 **Book chapter**
@@ -125,12 +126,12 @@ Seet, K. K. <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=408232
 * [Kleinman, Cedric Buher](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/9b3df941-1160-11e3-83d5-0050568939ad). Oral history interview by Jason Lim, 27 April 2005. Transcript and MP3 audio, 31:13. National Archives of Singapore (accession no. 002943), 2.
 
 **Photograph**
-<img style="width:500px" src="/images/singapore-places/curiocity-showcase-2022/notable-landmarks-in-bbb-cd/landmark7.JPG">[Waterloo Street, towards Stamford Road: general view](https://eresources.nlb.gov.sg/pictures/Details/7f354fb3-1a39-4be4-bd20-3f5776c0d81e). 1977. Photograph. Lee Kip Lin Collection, PictureSG, National Library, Singapore.
+<img style="width:500px" src="/images/singapore-places/curiocity-showcase-2022/notable-landmarks-in-bbb-cd/landmark7.JPG">[Waterloo Street, towards Stamford Road: general view](https://www.nlb.gov.sg/main/image-detail?cmsuuid=7f354fb3-1a39-4be4-bd20-3f5776c0d81e). 1977. Photograph. Lee Kip Lin Collection, National Library, Singapore.
 
 ### Satay Club at the Esplanade
 
 **Singapore Infopedia - article**
-* Marsita Omar. “[Satay Club](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1027_2006-08-12.html).” Singapore Infopedia. Published 2006.
+* Marsita Omar. “[Satay Club]([Satay Club (nlb.gov.sg)](https://www.nlb.gov.sg/main/article-detail?cmsuuid=0d2d4bea-9182-4ac5-8d8a-041fad2a9d31)).” Singapore Infopedia. Published 2006.
 
 **BiblioAsia - article**
 * Quek, Barbara. “[Makan Places and Coffee Socks](https://biblioasia.nlb.gov.sg/vol-14/issue-3/oct-dec-2018/makan-place-coffee-s/).” *BiblioAsia* 14, issue 3 (2018): 62–65.
