@@ -3,6 +3,7 @@ title: Sheng Siong
 permalink: /launch/stories/sheng-siong/
 description: ""
 third_nav_title: Success Stories
+variant: markdown
 ---
 # **Company Profile—Sheng Siong**
 
@@ -51,7 +52,7 @@ In 2019, Lim was awarded Businessman of the Year, the highest accolade at the Si
 
 ## References 
 
-Chua, Alvin. (2010, n.d.). “Sheng Siong”. [https://eresources.nlb.gov.sg/infopedia/articles/SIP\_1673\_2010-06-16.html](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1673_2010-06-16.html)  
+Chua, Alvin. (2010, n.d.). “Sheng Siong”. (https://www.nlb.gov.sg/main/article-detail?cmsuuid=034bf670-569d-46f5-9813-2c0289ffee3e)
 
 CRC. (2016, November 3). “The Sheng Siong story: From selling pork in Ang Mo Kio to a millionaire” [https://unscrambled.sg/2016/11/03/the-sheng-shiong-story-from-one-stall-selling-pork-to-a-millionaire/](https://unscrambled.sg/2016/11/03/the-sheng-shiong-story-from-one-stall-selling-pork-to-a-millionaire/)  
 
