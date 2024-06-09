@@ -4,8 +4,9 @@ permalink: /guides/singapore/people/low-ing-sing/
 breadcrumb: Low Ing Sing
 collection_name: singapore-people
 third_nav_title: I to S
-published: true
+published: "true"
 description: ""
+variant: markdown
 ---
 # Low Ing Sing
 
@@ -24,7 +25,7 @@ Low Ing Sing (b. 1924, Sibu, Sarawak–d. 2002, Singapore) was a pioneer of Mand
 
 ### <u>Selected books by Low Ing Sing</u>
 
-* 方百成 & 杜南发. (编委主任). [Fang, B. C. & Du, N. F. (Eds.).] (2012). [《世界福建名人录, 新加坡编》](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200125706) [Prominent figures of the world Fujian communities: Singapore]. 新加坡: 新加坡福建会馆, p.29.
+* 方百成 &amp; 杜南发. (编委主任). [Fang, B. C. &amp; Du, N. F. (Eds.).] (2012). [《世界福建名人录, 新加坡编》](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200125706) [Prominent figures of the world Fujian communities: Singapore]. 新加坡: 新加坡福建会馆, p.29.
 Call no.: RSING 920.05957 PRO
 This book contains the biographies of 155 Chinese Hokkien personalities in Singapore from 1819 to 2012. Low Ing Sing’s biography is also included, along with information on his works and art contributions.
 
@@ -60,7 +61,7 @@ This is an obituary on Low Ing Sing with information on his date of passing and 
 
 ### <u>Selected articles on Low Ing Sing</u>
 
-* National Library Board. (2014). [Low Ing Sing](http://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-02-10_162443.HTML) written by Chor, Poh Chin. Retrieved from Singapore Infopedia.
+* National Library Board. (2014). [Low Ing Sing](https://www.nlb.gov.sg/main/article-detail?cmsuuid=732428fa-2f5d-49fb-94b9-5e666779a0cc), written by Chor, Poh Chin. Retrieved from Singapore Infopedia.
 This article traces the life and career of Low Ing Sing.
 
 
