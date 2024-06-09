@@ -4,8 +4,9 @@ permalink: /guides/singapore/people/lim-tze-peng/
 breadcrumb: Lim Tze Peng
 collection_name: singapore-people
 third_nav_title: I to S
-published: true
+published: "true"
 description: ""
+variant: markdown
 ---
 # Lim Tze Peng
 
@@ -29,7 +30,7 @@ Born on September 28, 1921 in Singapore, Lim Tze Peng is recognised as one of Si
 
 Lim Tze Peng© Lim Tze Peng, 2002–2006. All rights reserved.<br>
 Courtesy of the National Arts Council.<br>
-Retrieved from PictureSG.
+Retrieved from National Libary Online.
 
 While Lim is arguably most known for his works depicting and representing familiar Singaporean scenes/sites such as Malay kampungs (villages), the Singapore River, and Chinatown, as motivated by a nostalgic desire to register and document local heritage potentially endangered by the imperatives of modernity and modernisation, his subject matter also includes material such as Bali (Indonesia), Thailand, and Paris (France), as inspired by his travels and expeditions. This visual idioms and vocabularies of his works span oil painting, Chinese ink, and Chinese calligraphy; Lim has, of late, primarily concentrated mostly on the latter, reinventing and enlarging the Chinese calligraphic tradition with what he christens *hutuzi* (lit. ‘muddled calligraphy’).
 
@@ -401,7 +402,7 @@ This webpage provides a brief artist’s biography and major key events in his l
 Short four-minute interview with Lim, where Lim introduces himself and elaborates on his creative process and the refinement of his artistic sensibilities.
 
 
-* National Library Board. (2008). [Lim Tze Peng](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1327_2008-04-22.html), written by Wang, Zineng. Retrieved April 18, 2016, from Singapore Infopedia.
+* National Library Board. (2008). [Lim Tze Peng](https://www.nlb.gov.sg/main/article-detail?cmsuuid=cf2e1672-3890-44f1-9630-e3c24ffe4e71), written by Wang, Zineng. Retrieved April 18, 2016, from Singapore Infopedia.
 
 An Infopedia article that concisely chronicles Lim’s early life and works in the form of a chronological timeline, as well as major exhibitions held and awards received. A colour photograph of Lim is also included.
 
@@ -437,19 +438,19 @@ Interview in Chinese where Lim elaborates on how his consistent involvement in t
 
 (listed in alphabetical order)
 
-* [Banyan tree](http://eresources.nlb.gov.sg/pictures/Details/3c133762-fea4-47a3-ad46-49c004d55f9b). (1995), [Image of painting], \[Online\]. (2007). Retrieved June 25, 2021, from PictureSG.
+* [Banyan Tree](https://www.nlb.gov.sg/main/image-detail?cmsuuid=a0cda6aa-3b9b-4b53-a594-f6418aeba8a9). (1995), [Image of painting], \[Online\]. (2007). Retrieved June 25, 2021, from National Library Online.
 
 
-* [Junction: Circular road and canton road](http://eresources.nlb.gov.sg/pictures/Details/5cec6181-cd58-4018-bb6e-e230a3a1d5bb). (1975), [Image of painting], \[Online\]. (2007). Retrieved June 25, 2021, from PictureSG.
+* [Junction: Circular Road and Canton Road](https://www.nlb.gov.sg/main/image-detail?cmsuuid=5cec6181-cd58-4018-bb6e-e230a3a1d5bb). (1975), [Image of painting], \[Online\]. (2007). Retrieved June 25, 2021, from National Library Online.
 
 
-* [Lim Tze Peng: Half-length portrait](http://eresources.nlb.gov.sg/pictures/Details/3c133762-fea4-47a3-ad46-49c004d55f9b). (2002–2006), [Image of photograph], \[Online\]. Retrieved June 25, 2021, from PictureSG.
+* [Lim Tze Peng: Half-length Portrait](https://www.nlb.gov.sg/main/image-detail?cmsuuid=3c133762-fea4-47a3-ad46-49c004d55f9b). (2002–2006), [Image of photograph], \[Online\]. Retrieved June 25, 2021, from National Library Online.
 
 
-* [River Seine](http://eresources.nlb.gov.sg/pictures/Details/1b966731-48f2-447c-9fe7-c57c499aa088). (2000), [Image of painting], \[Online\]. (2007). Retrieved June 25, 2021, from PictureSG.
+* [River Seine (France)](https://www.nlb.gov.sg/main/image-detail?cmsuuid=1b966731-48f2-447c-9fe7-c57c499aa088). (2000), [Image of painting], \[Online\]. (2007). Retrieved June 25, 2021, from National Library Online.
 
 
-* [Singapore River](http://eresources.nlb.gov.sg/pictures/Details/8a3cd008-6d6f-4e78-be44-fad8c4b478fe). (198–), [Image of painting], \[Online\]. (2007). Retrieved June 25, 2021, from PictureSG.
+* [Singapore River](https://www.nlb.gov.sg/main/image-detail?cmsuuid=8a3cd008-6d6f-4e78-be44-fad8c4b478fe). (198–), [Image of painting], \[Online\]. (2007). Retrieved June 25, 2021, from National Library Online.
 
 
 ### <u>Accessing National Library Board Singapore Resources</u>
