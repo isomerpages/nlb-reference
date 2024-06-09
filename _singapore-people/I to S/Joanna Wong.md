@@ -3,6 +3,7 @@ title: Joanna Wong
 permalink: /guides/singapore/people/joanna-wong/
 description: ""
 third_nav_title: I to S
+variant: markdown
 ---
 # Joanna Wong
 Joanna Wong Quee Heng (b. 1939, Penang, Malaya)[^1] is a leading exponent of Cantonese opera in Singapore. Although an amateur artist, Wong’s artistic skills have won her praises from Beijing opera scholars. She has also pioneered many novel ideas to promote Cantonese opera among the young and non-Chinese speaking audiences. Her promotion efforts have not only revived Cantonese opera in Singapore, but also elevated it to a respectable art form. Some of Wong’s most well-known works include Madam White Snake, The Patriotic Princess, and Emperor Wu Ze Tian. For her tireless dedication in promoting the art form, Wong was awarded the Cultural Medallion for Chinese Opera in 1981.[^2]
@@ -13,7 +14,7 @@ Joanna Wong Quee Heng (b. 1939, Penang, Malaya)[^1] is a leading exponent of Can
 
 This guide provides supplementary resources for those who are keen to further explore this topic. You can also visit [**catalogue.nlb.gov.sg**](https://catalogue.nlb.gov.sg) to search for more resources. This resource guide was prepared in November 2021 by Winnie Tan, Associate Librarian at the National Library, Singapore.
 
-Introduction on Joanna Wong adapted from Chor, Poh Chin, “Joanna Wong Quee Heng,” Singapore Infopedia, National Library Board, last modified February 6, 2014, [https://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-02-10_162823.html](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-02-10_162823.html).
+Introduction on Joanna Wong adapted from Chor, Poh Chin, “Joanna Wong Quee Heng,” Singapore Infopedia, National Library Board, last modified February 6, 2014,  https://www.nlb.gov.sg/main/article-detail?cmsuuid=46012067-7c25-43e9-908d-ddabada62fd2.
 
 
 
