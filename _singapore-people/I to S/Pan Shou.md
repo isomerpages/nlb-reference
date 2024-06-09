@@ -3,6 +3,7 @@ title: Pan Shou
 permalink: /guides/singapore/people/pan-shou/
 description: ""
 third_nav_title: I to S
+variant: markdown
 ---
 # Pan Shou (潘受)
 
@@ -15,7 +16,7 @@ Pan had received various accolades for his artistic pursuits both in Singapore (
 
 This guide provides supplementary resources for those who are keen to know more about the dance pioneer. You can also visit [**catalogue.nlb.gov.sg**](https://catalogue.nlb.gov.sg/) to search for more resources. This resource guide was prepared in November 2022 by Goh Yu Mei, Librarian at the National Library, Singapore.
 
-Introduction on Pan Shou adapted from Tan, Bonny, “Pan Shou,” Singapore Infopedia, National Library Board, last modified 2017, <https://eresources.nlb.gov.sg/infopedia/articles/SIP_799_2004-12-28.html>.
+Introduction on Pan Shou adapted from Tan, Bonny, “Pan Shou,” Singapore Infopedia, National Library Board, last modified 2017, .
 
 ### Books
 * 潘受 [Pan, Shou]。《[海外庐诗](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84550529)》（重刊本）[Poetry from the Pavilion Beyond the Ocean (reprint)]。新加坡：新加坡文化学术协会，1985。(Call no.: RSING Chinese C811 PS)
@@ -26,22 +27,22 @@ Introduction on Pan Shou adapted from Tan, Bonny, “Pan Shou,” Singapore Info
 * 徐持庆 [Xu, Chi Qing]。《[新加坡国宝诗人潘受](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12923271)》[Pan Shou, Singapore prominent poet]。北京：中国社会科学出版社，2007。(Call no.: RSING Chinese C811.004 XCQ)
 
 ### Newspaper articles
-* 蔡哲民 [Chua, Tiag Ming]。[听潘受谈书法](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19820901-1.2.67.2) [Listening to Pan Shou’s lecture on calligraphy]。《南洋商报》[Nanyang Siang Pau]，September 1, 1982. <http://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19820901-1.2.67.2> 
-* 许梦丰 [Koh, Mun Hong]。[浅谈潘受先生的书法和诗文](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19840223-1.2.22.1.4) [On Mr Pan Shou’s calligraphy and poetry]。《联合早报》 [Lianhe Zaobao], February 23, 1984. <http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19840223-1.2.22.1.4> 
-* Leong, Weng Kam. “[Pan Shou’s other face](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19940814-1.2.122.2.4).” The Straits Times, August 14, 1994. <http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19940814-1.2.122.2.4> 
-* Leong, Weng Kam. “[The legacy of Pan Shou](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19990225-1.2.45.1).” The Straits Times, February 25, 1999. <http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19990225-1.2.45.1> (This article may only be viewed from the multimedia stations at NLB Libraries.)
-* Lim, Richard. “[Dance of the brushes](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19910301-1.2.66.9.1).” The Straits Times, March 1, 1991. <http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19910301-1.2.66.9.1> 
-* 刘抗 [Liu, Kang]。[潘受的艺术](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19840221-1.2.26.1.2) [The art of Pan Shou]。《联合早报》[Lianhe Zaobao], February 21, 1984. <https://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19840221-1.2.26.1.2> 
-* “[Pan Shou’s first show](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19840125-1.2.101.4).” The Straits Times, January 25, 1984. <http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19840125-1.2.101.4>
-* Pan, Soo Yeng. “[Remembering Pan Shou: Poet, philosopher, scholar, gentleman](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19970818-1.2.77.2.1).” The Straits Times, August 10, 1997. <http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19970818-1.2.77.2.1> 
-* Tan, Ban Huat. “[Calligraphy](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870211-1.2.60.24.1.3).” The Straits Times, February 11, 1987. <http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870211-1.2.60.24.1.3> 
-* 温伟中 [Woon, Wei Jong]。缅怀潘受 国宝级书法家辞世20年 [In memory of Pan Shou: 20th anniversary of the passing of a calligrapher regarded as a national treasure]. 《联合晚报》 [Lianhe Wanbao], July 8, 2019。Retrieved from Factiva via NLB eResources (<https://eresources.nlb.gov.sg/>).
-* 周颖南 [Zhou, Ying Nan]。[书展与诗展](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19840220-1.2.57.4) [Exhibitions of calligraphy and poetry]。《联合早报》 [Lianhe Zaobao], February 20, 1984. <http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19840220-1.2.57.4> 
+* 蔡哲民 [Chua, Tiag Ming]。[听潘受谈书法](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19820901-1.2.67.2) [Listening to Pan Shou’s lecture on calligraphy]。《南洋商报》[Nanyang Siang Pau]，September 1, 1982.  
+* 许梦丰 [Koh, Mun Hong]。[浅谈潘受先生的书法和诗文](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19840223-1.2.22.1.4) [On Mr Pan Shou’s calligraphy and poetry]。《联合早报》 [Lianhe Zaobao], February 23, 1984.  
+* Leong, Weng Kam. “[Pan Shou’s other face](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19940814-1.2.122.2.4).” The Straits Times, August 14, 1994.  
+* Leong, Weng Kam. “[The legacy of Pan Shou](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19990225-1.2.45.1).” The Straits Times, February 25, 1999.  (This article may only be viewed from the multimedia stations at NLB Libraries.)
+* Lim, Richard. “[Dance of the brushes](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19910301-1.2.66.9.1).” The Straits Times, March 1, 1991.  
+* 刘抗 [Liu, Kang]。[潘受的艺术](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19840221-1.2.26.1.2) [The art of Pan Shou]。《联合早报》[Lianhe Zaobao], February 21, 1984.  
+* “[Pan Shou’s first show](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19840125-1.2.101.4).” The Straits Times, January 25, 1984. 
+* Pan, Soo Yeng. “[Remembering Pan Shou: Poet, philosopher, scholar, gentleman](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19970818-1.2.77.2.1).” The Straits Times, August 10, 1997.  
+* Tan, Ban Huat. “[Calligraphy](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870211-1.2.60.24.1.3).” The Straits Times, February 11, 1987.  
+* 温伟中 [Woon, Wei Jong]。缅怀潘受 国宝级书法家辞世20年 [In memory of Pan Shou: 20th anniversary of the passing of a calligrapher regarded as a national treasure]. 《联合晚报》 [Lianhe Wanbao], July 8, 2019。Retrieved from Factiva via NLB eResources ().
+* 周颖南 [Zhou, Ying Nan]。[书展与诗展](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19840220-1.2.57.4) [Exhibitions of calligraphy and poetry]。《联合早报》 [Lianhe Zaobao], February 20, 1984.  
 
 ### Videos
-* Singapore Broadcasting Corporation. “[星期二特写·墨痕心影：潘受](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/702413df-1164-11e3-83d5-0050568939ad)” [Tuesday Report: Artist Profile - Pan Shou]。February 3, 1991. Video, 30:49.  <https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/702413df-1164-11e3-83d5-0050568939ad>.
-* “[南洋大师 - 潘受](https://youtu.be/QIciEA0UIMA)” [Nanyang master – Pan Shou]. YouTube video, 23:19. Posted by “十分南洋 VeryNanyang,” May 29, 2021. <https://youtu.be/QIciEA0UIMA> 
+* Singapore Broadcasting Corporation. “[星期二特写·墨痕心影：潘受](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/702413df-1164-11e3-83d5-0050568939ad)” [Tuesday Report: Artist Profile - Pan Shou]。February 3, 1991. Video, 30:49.  .
+* “[南洋大师 - 潘受](https://youtu.be/QIciEA0UIMA)” [Nanyang master – Pan Shou]. YouTube video, 23:19. Posted by “十分南洋 VeryNanyang,” May 29, 2021.  
 
 ### Websites
-* “[Pan Shou](https://www.esplanade.com/offstage/arts/pan-shou).” TributeSG, Esplanade. Accessed November 4, 2022. <https://www.esplanade.com/offstage/arts/pan-shou>. 
-* Tan, Bonny. “[Pan Shou](https://eresources.nlb.gov.sg/infopedia/articles/SIP_799_2004-12-28.html).” Singapore Infopedia, National Library Board. Last modified 2017. <https://eresources.nlb.gov.sg/infopedia/articles/SIP_799_2004-12-28.html>
+* “[Pan Shou](https://www.esplanade.com/offstage/arts/pan-shou).” TributeSG, Esplanade. Accessed November 4, 2022. . 
+* Tan, Bonny. “[Pan Shou](https://www.nlb.gov.sg/main/article-detail?cmsuuid=23878f30-3a2b-4482-a14d-d3c3d551d231).” Singapore Infopedia, National Library Board. Last modified 2017.
