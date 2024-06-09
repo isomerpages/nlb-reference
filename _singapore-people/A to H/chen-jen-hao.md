@@ -4,10 +4,9 @@ permalink: /guides/singapore/people/chen-jen-hao/
 breadcrumb: Chen Jen Hao
 collection_name: singapore-people
 third_nav_title: A to H
-published: true
+published: "true"
+variant: markdown
 ---
-
-
 ### <u>Guide Index</u>
 
 * [Introduction](#introduction)
@@ -47,7 +46,7 @@ Call no.: Chinese RSING 709.2 LK
 This article provides a brief biography of Chen Jen Hao and comments on his artworks in various genres, such as calligraphy and western painting.
 
 
-* Maulod, A. (2016). [Chen Jen Hao](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1474_2009-02-25.html). Retrieved from Infopedia.
+* Maulod, A. (2016). Chen Jen Hao (https://www.nlb.gov.sg/main/article-detail?cmsuuid=4fe04e6f-f6ea-4148-a7b3-cbb19a7ea99e). Retrieved from Infopedia.
 This brief biography of Chen Jen Hao also highlights Chen’s contribution to the art scene in Singapore.
 
 
@@ -79,9 +78,9 @@ An interview with Liu Kang, close friend and brother-in-law of Chen Jen Hao. In 
 
 * 陈人浩.. [Chen, R. H.] (2006). [陈人浩书画](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12774791) [Chinese calligraphy works and paintings by Chen Jen Hao]. 新加坡: 啸涛篆刻书画会.
 Call no.: Chinese RSING 745.619951 CJH
-In conjunction with the 30th anniversary of the passing of Chen Jen Hao, Siaw-Tao Chinese Seal-Carving Calligraphy & Painting Society organised an exhibition on Chen’s works and published this book. It contains plates of paintings, calligraphy and writings by Chen Jen Hao, as well as photographs and biography of and articles on Chen.
+In conjunction with the 30th anniversary of the passing of Chen Jen Hao, Siaw-Tao Chinese Seal-Carving Calligraphy &amp; Painting Society organised an exhibition on Chen’s works and published this book. It contains plates of paintings, calligraphy and writings by Chen Jen Hao, as well as photographs and biography of and articles on Chen.
 
 
-* 陈人浩.. [Chen, R. H.] (1984). [人浩书画](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84446651) [The collection of Chinese calligraphy & paintings by the late Mr. Chen Jen Hao]. 新加坡: 新加坡中华书学协会.
+* 陈人浩.. [Chen, R. H.] (1984). [人浩书画](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84446651) [The collection of Chinese calligraphy &amp; paintings by the late Mr. Chen Jen Hao]. 新加坡: 新加坡中华书学协会.
 Call no.: Chinese RSING 759.95957 CJH
 This book is a compilation of plates of selected calligraphy and paintings by Chen Jen Hao, and includes a biography of and writings on Chen.
