@@ -3,6 +3,7 @@ title: Lim Fei Shen
 permalink: /guides/singapore/people/lim-fei-shen/
 description: ""
 third_nav_title: I to S
+variant: markdown
 ---
 # Lim Fei Shen
 Lim Fei Shen (b. 1945, Singapore–) is a modern dance pioneer in Singapore. Both a dancer and a choreographer, Lim has produced works that show a creative blend of Western and Asian influences. She is also known for her multidisciplinary projects involving different genres of art as well as artists from different disciplines. For her contributions to modern dance, Lim was awarded the Cultural Medallion for Dance in 1988.
@@ -21,24 +22,24 @@ In 2002, Lim joined the Nanyang Academy of Fine Arts as a senior lecturer with t
 
 This guide provides supplementary resources for those who are keen to know more about the dance pioneer. You can also visit [**catalogue.nlb.gov.sg**](https://catalogue.nlb.gov.sg) to search for more resources. This resource guide was prepared in November 2021 by Goh Yu Mei, Librarian at the National Library, Singapore.
 
-Introduction on Lim Fei Shen adapted from Chor, Poh Chin, “Lim Fei Shen,” Singapore Infopedia, National Library Board, last modified February 18, 2014, <https://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-02-24_172520.html>.
+Introduction on Lim Fei Shen adapted from Chor, Poh Chin, “Lim Fei Shen,” Singapore Infopedia, National Library Board, last modified February 18, 2014, https://www.nlb.gov.sg/main/article-detail?cmsuuid=494c9f23-a27b-4f18-a91d-3c5c78b8615e.
 
 ### Books
 
 * Purushothaman, Venka. *[Narratives: notes on a cultural journey: cultural medallion recipients 1979 - 2001](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11789181)*. Singapore: National Arts Council, 2002. (Call no.: RSING 700.95957 NAR)
-* Burridge, Stephanie and Carino, Caren, eds. *Evolving synergies: Celebrating dance in Singapore*. Taylor and Francis, 2017. <https://nlb.overdrive.com/media/4171313>
+* Burridge, Stephanie and Carino, Caren, eds. *Evolving synergies: Celebrating dance in Singapore*. Taylor and Francis, 2017. 
 
-To access the ebooks listed, you must log in to [**NLB eResources**](https://eresources.nlb.gov.sg) using a *myLibraryID*. Don’t have a *myLibraryID* yet? Go to <https://account.nlb.gov.sg/> and sign up now using your SingPass or NRIC/FIN.
+To access the ebooks listed, you must log in to [**NLB eResources**](https://eresources.nlb.gov.sg) using a *myLibraryID*. Don’t have a *myLibraryID* yet? Go to  and sign up now using your SingPass or NRIC/FIN.
 
-### Performance booklets & posters
+### Performance booklets &amp; posters
 
-* *[Forms & norms](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203816269)*. Singapore: People's Association, 1989. (Call no.: RSING 792.8095957 FOR)
+* *[Forms &amp; norms](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203816269)*. Singapore: People's Association, 1989. (Call no.: RSING 792.8095957 FOR)
 * *[Next step](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12527739)* [poster]. Singapore: People’s Association, 1987. (Call no.: RCLOS 792.82095957 NEX)
 * *[Homecoming: a journey into the space within](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12496068)* [poster]. Singapore: [publisher not identified], 1994. (Call no.: RCLOS 792.82095957 HOM)
 
 ### Websites
 
-* Chor, Poh Chin. “[Lim Fei Shen](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-02-24_172520.html).” Singapore Infopedia, National Library Board. Last modified February 18, 2014. https://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-02-24_172520.html. 
+* Chor, Poh Chin. “[Lim Fei Shen](https://www.nlb.gov.sg/main/article-detail?cmsuuid=494c9f23-a27b-4f18-a91d-3c5c78b8615e).” Singapore Infopedia, National Library Board. Last modified February 18, 2014. https://www.nlb.gov.sg/main/article-detail?cmsuuid=494c9f23-a27b-4f18-a91d-3c5c78b8615e. 
 * “[Lim Fei Shen](https://www.esplanade.com/tributesg/performing-arts/lim-fei-shen).” TributeSG, Esplanade. Accessed November 1, 2021. https://www.esplanade.com/tributesg/performing-arts/lim-fei-shen. 
 * “[Performing artiste – Lim Fei Shen](https://tfcsea.nafa.edu.sg/artist_biography.aspx?id=47).” Tanoto Foundation Centre for Southeast Asian Arts at NAFA. Accessed November 3, 2021. https://tfcsea.nafa.edu.sg/artist_biography.aspx?id=47.
 
