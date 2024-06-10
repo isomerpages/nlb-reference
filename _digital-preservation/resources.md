@@ -146,6 +146,11 @@ This guide by the State Library of South Australia provides a basic explanation 
 [**Digital asset register toolkit**](https://www.dpconline.org/digipres/implement-digipres/dar-toolkit){:target="_blank"}
 
 
+<img src="/images/digital-preservation/Article-4.jpg" style="width:150px;">
+
+[**Rapid Assessment Model (DPC RAM)**](https://www.dpconline.org/digipres/implement-digipres/dpc-ram){:target="_blank"}
+
+
 <img src="/images/digital-preservation/Article-2.jpg" style="width:150px;">
 
 [**Digital preservation handbook**](https://www.dpconline.org/handbook){:target="_blank"}
