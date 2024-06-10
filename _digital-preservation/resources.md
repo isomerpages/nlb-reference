@@ -278,6 +278,13 @@ An online training course by the International Internet Preservation Consortium 
 
 
 <div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X53N86nP3lk?si=wC6sPSHlVOMNO6cD" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
+
+[**Introduction to Digital Archiving**](https://www.youtube.com/watch?v=X53N86nP3lk){:target="_blank"}
+
+
+<div class="bp-youtube">
 <iframe width="560" height="315" src="https://player.vimeo.com/video/62131787?h=6a6cd9053a&amp;title=0&amp;byline=0&amp;portrait=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div>
 
