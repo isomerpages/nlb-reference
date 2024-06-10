@@ -78,15 +78,16 @@ Institute of Southeast Asian Studies, 2007.</p>
 by Irene Ng. Singapore: Epigram, 2011.</p>
 <p></p>
 <hr>
-<p>Click the PDF icon to view and download the bibliography:
+<p><strong>Click the PDF icon to view and download the bibliography:</strong>
 	<br><strong><a href="/files/sg-history/Bibliography_of_Articles_and_Short_Stories.pdf" rel="noopener noreferrer nofollow" target="_blank">Bibliography of Articles and Short Stories</a></strong>
 </p>
+<p></p>
 <hr>
 <p></p>
 <p></p>
-
 <p></p>
-<i>Dr Philip Holden was formerly a Professor of English at the National University of Singapore with specialities in Southeast Asian literatures in English, postcolonial studies and gender studies. He has since left the academy to pursue a second career in counselling psychology.</i>
+<strong>About the Compiler</strong>
 <p></p>
+Philip Holden worked for 25 years at Nanyang Technological University and the National University of Singapore. His scholarship in auto/biography studies includes the book <em>Autobiography and Decolonization: Modernity, Masculinity and the Nation-State</em>, and articles in major journals such as <em>biography</em>, <em>Life Writing</em>, <em>a/b: Auto/biography Studies</em>, and <em>Postcolonial Studies</em>. He has published widely on Singapore and Southeast Asian literatures, is the co-author of <em>The Routledge Concise History of Southeast Asian Writing in English</em>, and one of the editors of <em>Writing Singapore</em>, the most comprehensive historical anthology of Singapore literature in English. He is now an independent scholar, researching Singapore intellectual and educational history, and also works, as a counsellor, at the intersection mental health and storytelling.<p></p>
 <p></p>
 <p></p>
