@@ -41,6 +41,11 @@ This is a selection of resources on digital preservation available from the [NLB
 [**Metadata for digital collections**](https://nlb.overdrive.com/media/73B98252-C49C-43E0-9D43-12D707D3F980){:target="_blank"}
 
 
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13714897" target="_blank"><img src="/images/digital-preservation/Managing_image_collections.jpg" style="width:150px;"></a>
+
+[**Managing image collections: A practical guide**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13714897){:target="_blank"}
+
+
 <a href="https://nlb.overdrive.com/media/FFF67288-706B-4D73-AF30-2CDC87EC35E3" target="_blank"><img src="/images/digital-preservation/saving-your-digital-past-present-future.jpg" style="width:150px;"></a>
 
 [**Saving your digital past, present and future: A step-by-step guide**](https://nlb.overdrive.com/media/FFF67288-706B-4D73-AF30-2CDC87EC35E3){:target="_blank"}
