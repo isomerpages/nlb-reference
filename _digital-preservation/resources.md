@@ -271,6 +271,13 @@ An online training course by the International Internet Preservation Consortium 
 ### **Videos**
 
 <div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rF0uwh-ruqE?si=NU_DgLaYgkcnljIe" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
+
+[**A guide to personal digital archiving**](https://www.youtube.com/watch?v=rF0uwh-ruqE){:target="_blank"}
+
+
+<div class="bp-youtube">
 <iframe width="560" height="315" src="https://player.vimeo.com/video/62131787?h=6a6cd9053a&amp;title=0&amp;byline=0&amp;portrait=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div>
 
