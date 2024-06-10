@@ -177,9 +177,15 @@ The Digital Curation Centre is a world-leading centre of expertise in digital in
 The Digital Preservation Coalition is an organisation from the United Kingdom that advocates digital preservation. These publications consist of in-depth reference guides and bite-sized papers that provide guidance on a variety of digital preservation topics, such as audio-visual, email and social media preservation.
 
 
-<img src="/images/digital-preservation/Article-5.jpg" style="width:150px;">
+<img src="/images/digital-preservation/Article-6.jpg" style="width:150px;">
 
 [**How can we make born-digital and digitised archives more accessible? Identifying obstacles and solutions**](https://link.springer.com/article/10.1007/s10502-022-09390-7){:target="_blank"}
+
+
+
+<img src="/images/digital-preservation/Article-2.jpg" style="width:150px;">
+
+[**Toward environmentally sustainable digital preservation**](https://dash.harvard.edu/handle/1/40741399){:target="_blank"}
 
 
 <img src="/images/digital-preservation/Article-4.jpg" style="width:150px;">
