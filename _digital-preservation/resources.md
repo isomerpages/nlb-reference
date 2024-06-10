@@ -21,7 +21,7 @@ This is a selection of resources on digital preservation available from the [NLB
 
 ### **NLB print and digital resources**
 
-<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202540429" target="_blank"><img src="/images/digital-preservation/no-nonsense-guide-born-digital-content.jpg" style="width:150px;"></a>
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202540429" target="_blank"><img src="/images/digital-preservation/Digitizing_your_collection_public_library_success_stories.jpg" style="width:150px;"></a>
 
 [**Digitizing your collection: Public library success stories**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202540429){:target="_blank"}
 
