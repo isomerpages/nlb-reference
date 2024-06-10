@@ -127,11 +127,23 @@ Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
 Learn how you can preserve your family's history via this guide, which explains the importance of organising and digitising family photographs and documents and provides easy-to-follow steps on how you can begin your own journey to scan, organise and manage a slice of your family history.
 
 
+<img src="/images/digital-preservation/Article-3.jpg" style="width:150px;">
+
+[**How to preserve family archives (papers and photographs)**](https://www.archives.gov/preservation/family-archives){:target="_blank"}
+
+These guides from the United States National Archives and Records Administration contain archiving tips on preserving family papers and photographs, including how to handle, store, display, digitise and repair original items. In particular, the guide on digitisation highlights some considerations to note when digitising papers and photographs. 
+
+
 <img src="/images/digital-preservation/Article-1.jpg" style="width:150px;">
 
 [**Caring for your collections: Digital collections**](https://guides.slsa.sa.gov.au/caringforyourcollections/digitalcollections){:target="_blank"}
 
 This guide by the State Library of South Australia provides a basic explanation and recommendation on how you can ensure the long-term survival of personal digital materials of various formats. It also provides a set of tips on how personal digital memories can be preserved.
+
+
+<img src="/images/digital-preservation/Article-6.jpg" style="width:150px;">
+
+[**Digital asset register toolkit**](https://www.dpconline.org/digipres/implement-digipres/dar-toolkit){:target="_blank"}
 
 
 <img src="/images/digital-preservation/Article-2.jpg" style="width:150px;">
@@ -181,13 +193,6 @@ A comprehensive resource on digital preservation tools created by and for the in
 [**File format assessments Wiki**](https://wiki.dpconline.org/index.php?title=File_Formats_Assessments){:target="_blank"}
 
 This is a collaboration by The British Library, Library of Congress, Harvard Library, National Archives and Records Administration and Digital Preservation Coalition to coordinate and make available their file format assessments. It is a valuable resource to understand specific file formats and its preservation risks.
-
-
-<img src="/images/digital-preservation/Article-3.jpg" style="width:150px;">
-
-[**How to preserve family archives (papers and photographs)**](https://www.archives.gov/preservation/family-archives){:target="_blank"}
-
-These guides from the United States National Archives and Records Administration contain archiving tips on preserving family papers and photographs, including how to handle, store, display, digitise and repair original items. In particular, the guide on digitisation highlights some considerations to note when digitising papers and photographs. 
 
 
 <img src="/images/digital-preservation/Article-5.jpg" style="width:150px;">
