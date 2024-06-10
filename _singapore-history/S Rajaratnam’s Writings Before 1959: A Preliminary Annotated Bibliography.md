@@ -78,7 +78,7 @@ Institute of Southeast Asian Studies, 2007.</p>
 by Irene Ng. Singapore: Epigram, 2011.</p>
 <p></p>
 <hr>
-<p><strong>Click the PDF icon to view and download the bibliography:</strong>
+<p><strong>Click on the link to view and download the bibliography:</strong>
 	<br><strong><a href="/files/sg-history/Bibliography_of_Articles_and_Short_Stories.pdf" rel="noopener noreferrer nofollow" target="_blank">Bibliography of Articles and Short Stories</a></strong>
 </p>
 <p></p>
