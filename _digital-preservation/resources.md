@@ -26,6 +26,11 @@ This is a selection of resources on digital preservation available from the [NLB
 [**Digitizing your collection: Public library success stories**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202540429){:target="_blank"}
 
 
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203768731" target="_blank"><img src="/images/digital-preservation/Digital_archives_mgmt_use.jpg" style="width:150px;"></a>
+
+[**Digital archives: Management, use and access**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203768731){:target="_blank"}
+
+
 <a href="https://nlb.overdrive.com/media/FFF67288-706B-4D73-AF30-2CDC87EC35E3" target="_blank"><img src="/images/digital-preservation/saving-your-digital-past-present-future.jpg" style="width:150px;"></a>
 
 [**Saving your digital past, present and future: A step-by-step guide**](https://nlb.overdrive.com/media/FFF67288-706B-4D73-AF30-2CDC87EC35E3){:target="_blank"}
@@ -83,7 +88,7 @@ All rights reserved, London: Facet Publishing, 2018
 
 [**How to archive family photos: A step-by-step guide to organize and share your photos digitally**](https://nlb.overdrive.com/media/FB65F0EE-AC97-4BAD-AB7A-1920317AE539 ){:target="_blank"}
 
-*Libraries and Archives in the Digital Age* contains a compilation of essays that discusses the digital future of libraries and archives. It is categorised into four sections covering access, preservation and community, archival politics and digital practice.
+In this book, the author shares tips on how to archive your family photograph collection, including steps on organising and managing digital photos, best practices for digitising and preserving original photos, and using digital photos to create photo projects for sharing with the future generations.
 
 Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
 
