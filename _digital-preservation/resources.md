@@ -81,6 +81,12 @@ All rights reserved, London: Facet Publishing, 2018
 
 <a href="https://nlb.overdrive.com/media/FB65F0EE-AC97-4BAD-AB7A-1920317AE539" target="_blank"><img src="/images/digital-preservation/how-to-archive-family-photos.jpg" style="width:150px;"></a>
 
+[**How to archive family photos: A step-by-step guide to organize and share your photos digitally**](https://nlb.overdrive.com/media/FB65F0EE-AC97-4BAD-AB7A-1920317AE539 ){:target="_blank"}
+
+*Libraries and Archives in the Digital Age* contains a compilation of essays that discusses the digital future of libraries and archives. It is categorised into four sections covering access, preservation and community, archival politics and digital practice.
+
+Retrieved from OverDrive. (*myLibrary* ID is required to access this ebook.)
+
 
 ### **Websites**
 
