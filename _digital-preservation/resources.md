@@ -148,13 +148,6 @@ This guide by the State Library of South Australia provides a basic explanation 
 The Digital Preservation Coalition is an organisation from the United Kingdom that advocates digital preservation. Written for individuals and institutions with the responsibility of preserving digital materials, this handbook is a comprehensive guide covering all aspects of digital preservation.
 
 
-<img src="/images/digital-preservation/Article-5.jpg" style="width:150px;">
-
-[**Digital Preservation Coalition Technology Watch publications**](https://www.dpconline.org/digipres/discover-good-practice/tech-watch-reports){:target="_blank"}
-
-The Digital Preservation Coalition is an organisation from the United Kingdom that advocates digital preservation. These publications consist of in-depth reference guides and bite-sized papers that provide guidance on a variety of digital preservation topics, such as audio-visual, email and social media preservation.
-
-
 <img src="/images/digital-preservation/Article-6.jpg" style="width:150px;">
 
 [**Digital asset register toolkit**](https://www.dpconline.org/digipres/implement-digipres/dar-toolkit){:target="_blank"}
@@ -165,9 +158,9 @@ The Digital Preservation Coalition is an organisation from the United Kingdom th
 [**Rapid Assessment Model (DPC RAM)**](https://www.dpconline.org/digipres/implement-digipres/dpc-ram){:target="_blank"}
 
 
-<img src="/images/digital-preservation/Article-4.jpg" style="width:150px;">
+<img src="/images/digital-preservation/Article-2.jpg" style="width:150px;">
 
-[**Rapid Assessment Model (DPC RAM)**](https://www.dpconline.org/digipres/implement-digipres/dpc-ram){:target="_blank"}
+[**Digital curation**](https://siarchives.si.edu/what-we-do/digital-curation){:target="_blank"}
 
 
 <img src="/images/digital-preservation/Article-3.jpg" style="width:150px;">
@@ -175,6 +168,18 @@ The Digital Preservation Coalition is an organisation from the United Kingdom th
 [**What is digital curation?**](https://www.dcc.ac.uk/about/digital-curation){:target="_blank"}
 
 The Digital Curation Centre is a world-leading centre of expertise in digital information curation. Read about what digital curation is, why it is important to preserve digital data and how the Digital Curation Lifecycle Model defines the management, curation and preservation of data.
+
+
+<img src="/images/digital-preservation/Article-5.jpg" style="width:150px;">
+
+[**Digital Preservation Coalition Technology Watch publications**](https://www.dpconline.org/digipres/discover-good-practice/tech-watch-reports){:target="_blank"}
+
+The Digital Preservation Coalition is an organisation from the United Kingdom that advocates digital preservation. These publications consist of in-depth reference guides and bite-sized papers that provide guidance on a variety of digital preservation topics, such as audio-visual, email and social media preservation.
+
+
+<img src="/images/digital-preservation/Article-5.jpg" style="width:150px;">
+
+[**How can we make born-digital and digitised archives more accessible? Identifying obstacles and solutions**](https://link.springer.com/article/10.1007/s10502-022-09390-7){:target="_blank"}
 
 
 <img src="/images/digital-preservation/Article-4.jpg" style="width:150px;">
