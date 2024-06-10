@@ -141,16 +141,6 @@ These guides from the United States National Archives and Records Administration
 This guide by the State Library of South Australia provides a basic explanation and recommendation on how you can ensure the long-term survival of personal digital materials of various formats. It also provides a set of tips on how personal digital memories can be preserved.
 
 
-<img src="/images/digital-preservation/Article-6.jpg" style="width:150px;">
-
-[**Digital asset register toolkit**](https://www.dpconline.org/digipres/implement-digipres/dar-toolkit){:target="_blank"}
-
-
-<img src="/images/digital-preservation/Article-4.jpg" style="width:150px;">
-
-[**Rapid Assessment Model (DPC RAM)**](https://www.dpconline.org/digipres/implement-digipres/dpc-ram){:target="_blank"}
-
-
 <img src="/images/digital-preservation/Article-2.jpg" style="width:150px;">
 
 [**Digital preservation handbook**](https://www.dpconline.org/handbook){:target="_blank"}
@@ -163,6 +153,21 @@ The Digital Preservation Coalition is an organisation from the United Kingdom th
 [**Digital Preservation Coalition Technology Watch publications**](https://www.dpconline.org/digipres/discover-good-practice/tech-watch-reports){:target="_blank"}
 
 The Digital Preservation Coalition is an organisation from the United Kingdom that advocates digital preservation. These publications consist of in-depth reference guides and bite-sized papers that provide guidance on a variety of digital preservation topics, such as audio-visual, email and social media preservation.
+
+
+<img src="/images/digital-preservation/Article-6.jpg" style="width:150px;">
+
+[**Digital asset register toolkit**](https://www.dpconline.org/digipres/implement-digipres/dar-toolkit){:target="_blank"}
+
+
+<img src="/images/digital-preservation/Article-1.jpg" style="width:150px;">
+
+[**Rapid Assessment Model (DPC RAM)**](https://www.dpconline.org/digipres/implement-digipres/dpc-ram){:target="_blank"}
+
+
+<img src="/images/digital-preservation/Article-4.jpg" style="width:150px;">
+
+[**Rapid Assessment Model (DPC RAM)**](https://www.dpconline.org/digipres/implement-digipres/dpc-ram){:target="_blank"}
 
 
 <img src="/images/digital-preservation/Article-3.jpg" style="width:150px;">
