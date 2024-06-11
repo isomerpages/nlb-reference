@@ -3,6 +3,7 @@ title: Sarkasi Said
 permalink: /guides/singapore/people/sarkasi-said/
 description: ""
 third_nav_title: I to S
+variant: markdown
 ---
 # Sarkasi Said
 
@@ -14,9 +15,9 @@ The artist rose to prominence in the 1970s with his portrayal of the orchid on a
 
 In recognition of his contribtions, Sarkasi Said was conferred the Cultural Medallion in 2020. He passed away on 14 October 2021 at the age of 81, inspiring tributes from Singapore's leaders and the arts community.[^ix]
 
-The above introduction is adapted from the Infopedia entry on [Sarkasi Said](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1692_2010-07-13.html). 
+The above introduction is adapted from the Infopedia entry on [Sarkasi Said](https://www.nlb.gov.sg/main/article-detail?cmsuuid=db70d785-90a5-4b89-9b60-d6324221b155). 
 
-[^i]: “Sarkasi Said,” Esplanade Theatres on the Bay, last retrieved 2 August 2016 from <https://www.esplanade.com/offstage/arts/sarkasi-said>
+[^i]: “Sarkasi Said,” Esplanade Theatres on the Bay, last retrieved 2 August 2016 from 
 
 [^ii]: Mardiana Abu Bakar. (1988, March 24). “[World View of Sarkasi](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880324-1.2.61.2),” *The Straits Times*, p.1. Retrieved from NewspaperSG
 
@@ -32,7 +33,7 @@ The above introduction is adapted from the Infopedia entry on [Sarkasi Said](htt
  
 [^viii]: Abu Bakar, “Art of Selling.” The Straits Times, 20 March 1993, Page 7. (Retrieved from NewspaperSG)
 
-[^ix]: Ong, S. F. (2021, October 15). Cultural Medallion batik artist Sarkasi Said, 81, dies from kidney failure. *The Straits Times*. Retrieved November 21, 2021 from <https://www.straitstimes.com/life/arts/cultural-medallion-batik-artist-sarkasi-said-81-dies-from-kidney-failure>
+[^ix]: Ong, S. F. (2021, October 15). Cultural Medallion batik artist Sarkasi Said, 81, dies from kidney failure. *The Straits Times*. Retrieved November 21, 2021 from 
 
 This guide provides a selection of resources on the artist and is not meant to be exhaustive. You can also visit [catalogue.nlb.gov.sg](https://catalogue.nlb.gov.sg) to search for more materials.
 
@@ -40,25 +41,25 @@ This resource guide was prepared in November 2021 by Juffri Supa’at, Senior Li
 
 ### Websites
 
-- Hong, X. Y. (2020, August 23). Sarkasi Said.  Singapore Infopedia. Retrieved November 9, 2021, from <https://eresources.nlb.gov.sg/infopedia/articles/SIP_1692_2010-07-13.html>
+- Hong, X. Y. (2020, August 23). Sarkasi Said.  Singapore Infopedia. Retrieved November 9, 2021, from 
 
-- Tham, D. (2021, October 15). Cultural Medallion batik artist Sarkasi Said dies aged 81. Channel NewsAsia. Retrieved November 9, 2021, from <https://www.channelnewsasia.com/singapore/sarkasi-said-batik-artist-cultural-medallion-death-obituary-2246876>
+- Tham, D. (2021, October 15). Cultural Medallion batik artist Sarkasi Said dies aged 81. Channel NewsAsia. Retrieved November 9, 2021, from 
 
 ### Videos
 
 - Daud Yusof (2009). [**Bicara. Sarkasi Said / MediaCorp News ; Suria ; penerbit, Daud Yusof**](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13177063). <br>Singapore : MediaCorp Pte Ltd., 2009. (Call no: 959.57 BIC -[HIS]) (DVD)
 
-- **Sarkasi Bin Said: Professional Batik Artist**. (2019, July 26)<br> Retrieved 9 November 2021, from NLB Singapore YouTube channel: <https://www.youtube.com/watch?v=lPzSmcht7iI>
+- **Sarkasi Bin Said: Professional Batik Artist**. (2019, July 26)<br> Retrieved 9 November 2021, from NLB Singapore YouTube channel: 
 <br>Duration: 3min 36sec 
 
-- **Mengenal lebih dekat, Tuan Sarkasi Said**. (2020, February 10). <br>Retrieved 9 November 2021, from Creative Malay Arts and Culture YouTube channel: <https://www.youtube.com/watch?v=kDEUmUy16Qo>
+- **Mengenal lebih dekat, Tuan Sarkasi Said**. (2020, February 10). <br>Retrieved 9 November 2021, from Creative Malay Arts and Culture YouTube channel: 
 <br>Duration: 6min 20sec
 
 ### Books
 
-- Sarkasi Said (2003). [Sarkasi : mother & child : a preview exhibition of Sarkasi Said's Mother & Child South East Asia tour](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200892147). (Call no: 746.662095957 SAR)
+- Sarkasi Said (2003). [Sarkasi : mother &amp; child : a preview exhibition of Sarkasi Said's Mother &amp; Child South East Asia tour](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200892147). (Call no: 746.662095957 SAR)
 
-- Sarkasi Said (2002). [Memory : black & white sketches of Sarkasi Said Tzee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11919813). Singapore : Baoyou, 2002. (Call no: 741.95957 SAR)
+- Sarkasi Said (2002). [Memory : black &amp; white sketches of Sarkasi Said Tzee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11919813). Singapore : Baoyou, 2002. (Call no: 741.95957 SAR)
 
 - Sarkasi Said (1997). [Lyrics in wax : art of Sarkasi Tzee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9138548).  Singapore : Tzee Creation, 1997. (Call no: 759.95957 SAR)
 
