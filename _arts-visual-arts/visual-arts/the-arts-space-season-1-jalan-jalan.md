@@ -292,14 +292,12 @@ The opening chapter provides a brief survey of the Chinese tradition of ink brus
 ### <u>On Subject</u>
 
 
-* [Ann Siang Hill general view](http://eresources.nlb.gov.sg/pictures/Details/a4812fea-038d-4d7d-8c40-4a0aaf5988c0) \[Photograph\]. Retrieved 21 March, 2018 from PictureSG.<br>
-URL: http://eresources.nlb.gov.sg/pictures/Details/a4812fea-038d-4d7d-8c40-4a0aaf5988c0
+* [Ann Siang Hill general view](https://www.nlb.gov.sg/main/image-detail?cmsuuid=a4812fea-038d-4d7d-8c40-4a0aaf5988c0) \[Photograph\]. Retrieved 21 March, 2018 from PictureSG.<br>
 
 A 1983 photograph showing Ann Siang Hill, from Club Street.
 
 
 * Annaliza Bakri. (2017). [Sikit-sikit lama-lama jadi bukit](http://eservice.nlb.gov.sg/item_holding.aspx?bid=203055395). Singapore: Math Paper Press.
-
 Call no: RSING 899.281 SIK
 
 This bilingual publication includes a poem by Isa Kamari on Haji Lane.
@@ -315,8 +313,7 @@ A short introduction to the history of Ann Siang Road, which was named after a w
 This Infopedia article describes the oldest Hindu temple on the South Bridge road which also the reason why the temple was called as South Bridge Mariamman temple. The article gives a brief account of the history, the development and the historical places around the temple.
 
 
-* Singapore. Archives and Oral History Dept (1983). [Chinatown : an album of a Singapore community = 牛车水](http://eservice.nlb.gov.sg/item_holding.aspx?bid=3213762). Singapore: Times Books International : Archives and Oral History Dept..
-
+* Singapore. Archives and Oral History Dept (1983). [Chinatown : an album of a Singapore community = 牛车水](http://eservice.nlb.gov.sg/item_holding.aspx?bid=3213762). Singapore: Times Books International : Archives and Oral History Dept.
 Call no: RSING 779.995957 CHI
 
 This publication features photographs and other documents exhibited at the “Exhibition of Chinatown” organised by the Archives &amp; Oral History Department from 31 March – 10 April 1983. The images and documents come with brief write-ups and captions. A map (circa 1846) by Government Surveyor Mr. John Turnbull Thomson is featured on p.16, which includes areas around Ann Siang Hill (then Scott’s Hill).
@@ -358,7 +355,6 @@ Below is a selection of related resources available from the [NLB catalogue](htt
 ### <u>On Artists</u>
 
 * [25 years of watercolour painting in Singapore](http://eservice.nlb.gov.sg/item_holding.aspx?bid=7028751). (1994). Singapore: Singapore Watercolour Society.
-
 Call no.: RSING 759.95957074 TWE
 
 Published in conjunction with the Singapore Watercolour Society’s 25th anniversary exhibition, this book includes a brief history of the society as well as the exhibited artworks and artists. A number of the paintings are also paired with poems by Singapore poet, Koh Buck Song.
@@ -384,7 +380,6 @@ Features 81 of Lim’s artistic representations of Singapore’s recent past, in
 
 
 * Loy, L. C. (2011). [Loy Chye Chuan’s watercolour world](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14235474). Singapore: Loy Chye Chuan.
-
 Call no.: RSING Chinese 759.95957 LCC
 
 Includes a foreword by the artist which briefly introduces his artistic philosophy and creative journey as an artist. The book highlights Loy’s paintings chronologically from 1960 to 2011, which features his scenic artworks of Singapore, Malaysia, Brunei and China.
@@ -394,35 +389,30 @@ Includes a foreword by the artist which briefly introduces his artistic philosop
 
 
 * Caine’s Gallery. (1995).  [The President’s Watercolour Selections](http://eservice.nlb.gov.sg/item_holding.aspx?bid=7516795). Singapore: President’s Office. 
-
 Call no.: RSING 759.95957074 PRE -\[SRN\] 
 
 As part of a charity art exhibition, twenty-two watercolour artists showcased their works and raised funds for charity. In addition to the twenty-two paintings, this exhibition publication features essays on watercolour by Ong Kim Seng and Leong Weng Kam.
 
 
 * National Museum. (1993). [Journey of ink: National Museum Art Gallery](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6467870). Singapore: National Museum.
-
 Call no.: RSING 759.95957 JOU
 
 Published in conjunction with the exhibition of the same name, this publication includes an essay titled ‘A perspective on the development of ink painting in Singapore’ by Kwok Kian Chow and Chua Ek Kay.
 
 
 * Parramon, J. M. (1993). [The complete book of watercolour: the history, materials, techniques, theory and practice of watercolour](http://eservice.nlb.gov.sg/item_holding.aspx?bid=8840997). London: Phaidon Press.
-
 Call no.: RART 751.422 PAR
 
 Encyclopedic in scope, this publication touches on the history and early masters of watercolour and takes a practical look at the material, tools and drawing needed for any aspiring watercolourists.
 
 
 * Singapore Art Museum. (1999).  [Power and poetry: Monuments and meditations in Chinese contemporary ink painting](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12875648). Singapore: Singapore Art Museum.
-
 Call no.: RSING 759.95957 POW
 
 An exhibition publication featuring three contemporary ink artists: Chua Ek Kay, Zhuang Shengtao and Henri Chen KeZhan. Provides interpretation of brushstrokes, motifs and concepts in modern Chinese ink painting through selected artworks.
 
 
 * Taylor, R. (2005). [Buildings in watercolour](http://eservice.nlb.gov.sg/item_holding.aspx?bid=12546131). London: Collins.
-
 Call no.: RART q751.42244 TAY
 
 An introductory book on painting buildings in watercolour, tips on colour, tone, perspectives and architectural details are covered. Guided steps are provided for the painting of selected building.
@@ -432,21 +422,18 @@ An introductory book on painting buildings in watercolour, tips on colour, tone,
 
 
 * Davison, J. (2010). [Singapore shophouse](http://eservice.nlb.gov.sg/item_holding.aspx?bid=13735527). Singapore: Talisman.
-
 Call no.: RSING 720.95957 DAV
 
 An in-depth study into the history and architecture of shophouses in Singapore, this book details its defining architectural characteristics, the development of shophouse styles and contemporary uses and features of shophouses.
 
 
 * Kong, L. (2011). [Conserving the past, creating the future: Urban heritage in Singapore](http://eservice.nlb.gov.sg/item_holding.aspx?bid=13816245). Singapore: Urban Redevelopment Authority.
-
 Call no.: RSING 363.69095957 KON
 
 Traces the history of Singapore’s conservation journey through policies and stories as well as the views of Singaporeans and foreigners about the urban heritage of our nation. This is one of the most comprehensive monographs on Singapore’s urban heritage conservation history, with rich photographs of Singapore streets then and now, and maps of historic districts.
 
 
 * Liu, G. (1984). [Pastel portraits: Singapore’s architectural heritage](http://eservice.nlb.gov.sg/item_holding.aspx?bid=4082440). Singapore: Singapore Coordinating Committee.
-
 Call no.: RSING 722.4095957 PAS
 
 Featuring Singapore’s pre-World War II architecture, this book explores the “Singapore Eclectic style” which combined elements of Chinese, Malay, Indian and European architectural style. The book highlights facades and architectural features of 17 selected areas, which includes Chinatown and Ann Siang Hill.
