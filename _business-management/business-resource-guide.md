@@ -124,7 +124,7 @@ This journal article studies whether the use of innovation can lead to improveme
 This infographic summarises the overall performance of the manufacturing sector in Singapore in the 1st quarter of 2024, with comparisons of the growth of the sector with the economic growth of Singapore.
 
 
-* Monetary Authority of Singapore (MAS). (2016). Macroeconomic policy. Macroeconomic review, 15(2), pp. 64-76. Retrieved March 30, 2017 from Monetary Authority of Singapore website: [http://www.mas.gov.sg/Monetary-Policy-and-Economics/Monetary-Policy/Macroeconomic-Review/2016/Volume-XV-Issue-2-Oct-2016.aspx](http://www.mas.gov.sg/Monetary-Policy-and-Economics/Monetary-Policy/Macroeconomic-Review/2016/Volume-XV-Issue-2-Oct-2016.aspx)
+* Monetary Authority of Singapore (MAS). (2024).Macroeconomic review. Retrieved June 18, 2024 from Monetary Authority of Singapore website: [https://www.mas.gov.sg/monetary-policy/mas-macroeconomic-review](https://www.mas.gov.sg/monetary-policy/mas-macroeconomic-review)
 
 This report, produced and released biannually by MAS, gives up-to-date information about the macroeconomy of Singapore, including statistics, reviews and analysis of the economy.
 
