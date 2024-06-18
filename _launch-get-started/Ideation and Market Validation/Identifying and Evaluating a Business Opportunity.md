@@ -3,6 +3,7 @@ title: Identifying and Evaluating a Business Opportunity
 permalink: /launch/get-started/ideation-validation/id-evaluate-opp/
 description: ""
 third_nav_title: Ideation & Market Validation
+variant: markdown
 ---
 # Identifying and Evaluating a Business Opportunity
 
@@ -41,12 +42,12 @@ Entrepreneurs will need to consider the risks that they may face when pursuing a
 
 ## References
 
-Wharton University of Pennsylvania. (2009, November 9). “How Entrepreneurs Identify New Business Opportunities”. <https://knowledge.wharton.upenn.edu/article/how-entrepreneurs-identify-new-business-opportunities/>
+Wharton University of Pennsylvania. (2009, November 9). “How Entrepreneurs Identify New Business Opportunities”. [https://knowledge.wharton.upenn.edu/podcast/knowledge-at-wharton-podcast/how-entrepreneurs-identify-new-business-opportunities/](https://knowledge.wharton.upenn.edu/podcast/knowledge-at-wharton-podcast/how-entrepreneurs-identify-new-business-opportunities/)
 
-Jesnoewski, Amanda. (2018, November 20). “Four Ways to Identify More Business Opportunities”. <https://www.smartcompany.com.au/startupsmart/advice/business-planning/four-ways-to-identify-more-business-opportunities/>
+Jesnoewski, Amanda. (2018, November 20). “Four Ways to Identify More Business Opportunities”. [https://www.smartcompany.com.au/startupsmart/advice/business-planning/four-ways-to-identify-more-business-opportunities/](https://www.smartcompany.com.au/startupsmart/advice/business-planning/four-ways-to-identify-more-business-opportunities/)
 
-Popomaronis, Tom. (2020, May 11). “5 Tips for Recognising a Meaningful Business Opportunity When You See One”. <https://www.entrepreneur.com/article/349668>
+Popomaronis, Tom. (2020, May 11). “5 Tips for Recognising a Meaningful Business Opportunity When You See One”. [https://www.stamfordadvocate.com/business/article/5-Tips-for-Recognizing-a-Meaningful-Business-15261546.php](https://www.stamfordadvocate.com/business/article/5-Tips-for-Recognizing-a-Meaningful-Business-15261546.php)
 
-Resnick, Nathan. (2018, June 20). “7 Ways to Identify Real, Money-making Business Opportunities”. <https://www.entrepreneur.com/article/314543>
+Resnick, Nathan. (2018, June 20). “7 Ways to Identify Real, Money-making Business Opportunities”. [https://www.entrepreneur.com/money-finance/7-ways-to-identify-real-money-making-business-opportunities/314543](https://www.entrepreneur.com/money-finance/7-ways-to-identify-real-money-making-business-opportunities/314543)
 
-Spencer, Jennifer. (2019, January 9). “5 Simple Ways to Identify Business Ideas that Could (Really) Change the World”. <https://www.entrepreneur.com/article/325922>
+Spencer, Jennifer. (2019, January 9). “5 Simple Ways to Identify Business Ideas that Could (Really) Change the World”. [https://www.entrepreneur.com/starting-a-business/5-simple-ways-to-identify-business-ideas-that-could/325922](https://www.entrepreneur.com/starting-a-business/5-simple-ways-to-identify-business-ideas-that-could/325922)
