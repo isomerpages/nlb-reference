@@ -4,10 +4,9 @@ permalink: /guides/singapore/people/tan-chay-yan/
 breadcrumb: Tan Chay Yan
 collection_name: singapore-people
 third_nav_title: T to Z
-published: true
+published: "true"
+variant: markdown
 ---
-
-
 ### <u>Guide Index</u>
 
 * [Introduction](#introduction)
@@ -48,7 +47,7 @@ The book contains the biographies of 1,175 Chinese personalities, including Tan 
 
 ### <u>Selected articles on Tan Chay Yan</u>
 
-* National Library Board. (2009). [Tan Chay Yan](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1628_2009-12-31.html) written by Sutherland, Duncan. Retrieved from Singapore Infopedia.
+* National Library Board. (2009). [Tan Chay Yan](https://www.nlb.gov.sg/main/article-detail?cmsuuid=7b121204-db63-4f02-a125-ac99b14128fb) written by Sutherland, Duncan. Retrieved from Singapore Infopedia.
 This article is a biography of Tan Chay Yan and highlights his commercial, philanthropic and community activities. It also gives a detailed account of his role as a pioneer in large-scale rubber planting in Malaya.
 
 
