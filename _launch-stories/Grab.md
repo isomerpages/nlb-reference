@@ -41,7 +41,6 @@ Choon Yun Ting, “Grab's Path to Success Built on Strong Culture, Unwavering Fo
 
 “From MyTeksi to Grab: Why Our Startup Picked SEA Over the World,” EDB Singapore, 6 June 2019. [https://www.edb.gov.sg/en/business-insights/insights/from-myteksi-to-grab-why-our-startup-picked-sea-over-the-world.html](https://www.edb.gov.sg/en/business-insights/insights/from-myteksi-to-grab-why-our-startup-picked-sea-over-the-world.html) 
 
-Mercedes Ruehl, “Commentary: Anthony Tan, The ‘Unabashedly Ambitious’ Man Behind Grab,” Channel News Asia, 13 April 2021. [https://www.channelnewsasia.com/commentary/grab-ceo-anthony-tan-ipo-spac-stock-market-ride-food-app-gojek-213096](https://www.channelnewsasia.com/commentary/grab-ceo-anthony-tan-ipo-spac-stock-market-ride-food-app-gojek-213096) 
 
 Ravi Velloor, “At 40, Grab Chief Executive Anthony Tan Has Miles to Go,” Straits Times, 3 April 2022. [https://www.straitstimes.com/business/invest/ingoodcompany-at-40-grab-chief-executive-anthony-tan-has-miles-to-go](https://www.straitstimes.com/business/invest/ingoodcompany-at-40-grab-chief-executive-anthony-tan-has-miles-to-go) 
 
