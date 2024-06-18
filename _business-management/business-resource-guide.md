@@ -221,7 +221,7 @@ This report provides updated information on the investments and securities indus
 This article examines the Trans-Pacific Partnership (TPP) agreement after America’s withdrawal, and provides 3 reasons why the TPP will still be useful and relevant even if the agreement does not go through eventually.
 
 
-* Economic Strategies Committee (ESC). Subcommittee on developing a vibrant SME landscape and globally competitive local enterprises. Retrieved March 30, 2017 from Ministry of Finance website: [http://www.mof.gov.sg/Resources/Economic-Strategies-Committee-ESC-Recommendations](http://www.mof.gov.sg/Resources/Economic-Strategies-Committee-ESC-Recommendations)
+* Economic Strategies Committee (ESC). Subcommittee on developing a vibrant SME landscape and globally competitive local enterprises. Retrieved June 16, 2024 from National Archives of Singapore: [https://www.nas.gov.sg/archivesonline/speeches/record-details/80947d06-115d-11e3-83d5-0050568939ad](https://www.nas.gov.sg/archivesonline/speeches/record-details/80947d06-115d-11e3-83d5-0050568939ad)
 
 This report contains the recommendations by the ESC to the Government to help local companies build their capabilities, establish their networks and nurture talent to become globally competitive.
 
