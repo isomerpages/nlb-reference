@@ -4,10 +4,9 @@ permalink: /guides/singapore/people/tan-yeok-seong/
 breadcrumb: Tan Yeok Seong
 collection_name: singapore-people
 third_nav_title: T to Z
-published: true
+published: "true"
+variant: markdown
 ---
-
-
 ### <u>Guide Index</u>
 
 * [Introduction](#introduction)
@@ -56,7 +55,7 @@ This report, written by Tan Yeok Seong, is an important guide to the history of 
 
 ### <u>Selected articles on Tan Yeok Seong</u>
 
-* Tan, Andrew (2016). [Tan Yeok Seong](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1662_2010-04-15.html). Retrieved from Infopedia.
+* Tan, Andrew (2016). [Tan Yeok Seong](https://www.nlb.gov.sg/main/article-detail?cmsuuid=ba7d9d85-bd0a-4523-90a1-dae56f05f712). Retrieved from Infopedia.
 This infopedia article describes Tan Yeok Seong’s early life to his contributions from 1903 to 1984.
 
 
