@@ -131,10 +131,10 @@ Retrieved from [OverDrive](https://nlb.overdrive.com/). (myLibrary ID is require
 
 ### Videos
 
-<b><font style="color:#4372d6;"> Gig Economy Offers Flexibility, But What About Traditional Benefits?</font></b><br>
-This video highlights that although the gig economy is attracting workers due to its flexibility, the benefits that traditional employees enjoy, such as healthcare, may not be available when they need them the most.
+<b><font style="color:#4372d6;"> Singapore's gig workers to get better job protections from 2024, including in CPF and injury compensation</font></b><br>
+This video highlights that gig workers previously did not have the benefits that traditional employees enjoy, such as healthcare and financial protection, but will have legislation to provide for these from 2024.
 
-Gig Economy Offers Flexibility, But What About Traditional Benefits? *Channel News Asia* Video: 3:47, 2 May 2021. [https://www.channelnewsasia.com/watch/sg-pulse-gig-economy-offers-flexibility-what-about-traditional-benefits-video-1438996](https://www.channelnewsasia.com/watch/sg-pulse-gig-economy-offers-flexibility-what-about-traditional-benefits-video-1438996)
+Singapore's gig workers to get better job protections from 2024, including in CPF and injury compensation *Channel News Asia* Video: 3:47, 2 May 2021. [https://www.channelnewsasia.com/watch/singapores-gig-workers-get-better-job-protections-2024-including-cpf-and-injury-compensation-video-3096151](https://www.channelnewsasia.com/watch/singapores-gig-workers-get-better-job-protections-2024-including-cpf-and-injury-compensation-video-3096151)
 
 <b><font style="color:#4372d6;"> What is the Gig Economy?</font></b>
 <br>
