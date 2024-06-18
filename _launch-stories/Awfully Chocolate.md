@@ -3,6 +3,7 @@ title: Awfully Chocolate
 permalink: /launch/stories/awfully-chocolate/
 description: ""
 third_nav_title: Success Stories
+variant: markdown
 ---
 # Profile of Awfully Chocolate Co-Founder, Lyn Lee 
 
@@ -33,8 +34,6 @@ Lyn opines that entrepreneurship in Singapore can be difficult, and business fai
 “How Awfully Chocolate's Founder Went From Connoisseur to Entrepreneur,” BBC, 8 November 2010. [https://www.bbc.com/news/business-11701575](https://www.bbc.com/news/business-11701575)  
 
 “Sweet Success,” Frasers Property, 3 July 2018. [https://www.frasersproperty.com/the-library/sg/2018/july/sweet-success](https://www.frasersproperty.com/the-library/sg/2018/july/sweet-success)  
-
-“How Awfully Chocolate Went From Shop to Successful Regional Franchise,” myBusiness. [https://mybusiness.singtel.com/techblog/how-awfully-chocolate-went-shop-successful-regional-franchise](https://mybusiness.singtel.com/techblog/how-awfully-chocolate-went-shop-successful-regional-franchise)  
 
 “Awfully Chocolate,” IPOS International, 25 July 2019. [https://iposinternational.com/resources/case-studies/awfully-chocolate\_136](https://iposinternational.com/resources/case-studies/awfully-chocolate_136) 
 
