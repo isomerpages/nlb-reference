@@ -3,14 +3,14 @@ title: Resources for Education and Career Guidance Personnel
 permalink: /guides/business/career-guidance/resources-for-education-and-career-guidance-personnel/
 breadcrumb: Resources for Education and Career Guidance Personnel
 collection_name: business-career-guidance
-published: true
+published: "true"
+variant: markdown
 ---
-
-
 ### <u>Guide Index</u>
 
 * [Introduction](#introduction)
 * [Books](#books)
+* [Websites](#websites)
 * [Databases](#databases)
 * [Accessing National Library Board Singapore Resources](#accessing-national-library-board-singapore-resources)
 * [Author](#author)
@@ -126,14 +126,14 @@ Call No.: R 371.4 SMI
 
 This book details an easy-to-follow road map for families, school counselors and mentors who help young people to make career choices that allow them to excel. This intuitive guidebook helps in orchestrating discussions and unearthing the right options for each child.
 
- All rights reserved, Hoboken, NJ: John Wiley & Sons, Inc., 2017.
+ All rights reserved, Hoboken, NJ: John Wiley &amp; Sons, Inc., 2017.
 
 ### <u>Websites</u>
 
 (listed in alphabetical order)
 
-* Australian Department of Education and Training. (2017). [Information for career practitioners](https://www.education.gov.au/information-career-practitioners). Retrieved 3 July, 2018, from Australian Department of Education and Training website: <br>
-https://www.education.gov.au/information-career-practitioners
+* Australian Department of Education and Training. (2017). [Information for career practitioners](https://www.education.gov.au/school-work-transitions/information-career-practitioners). Retrieved 3 July, 2018, from Australian Department of Education and Training website: <br>
+https://www.education.gov.au/school-work-transitions/information-career-practitioners
 
 This website provides information on career practitioner resources for career advisers in schools, universities and Technical and Further Education (TAFEs), Vocational education and Training (VET) teachers and coordinators, counsellors and those operating in community-based organisations. It also provides employment related programmes which can be downloaded. In addition, there are links provided to career practitioner associations in Australia.
 
@@ -148,12 +148,12 @@ The site offers resources on career development that are useful for career couns
 
 (listed in alphabetical order)
 
-* Bowers, H., Lemberger-Truelove, M., & Brigman, G. (2018). A social-emotional leadership framework for school counselors. Professional School Counseling, 21(1), 1-10. Retrieved October 5, 2018, from ProQuest Central.
+* Bowers, H., Lemberger-Truelove, M., &amp; Brigman, G. (2018). A social-emotional leadership framework for school counselors. Professional School Counseling, 21(1), 1-10. Retrieved October 5, 2018, from ProQuest Central.
 
 Discover the leadership approaches of school counselors in keeping the delicate balance between responding to the complex needs of others and one’s own priorities and capacities as a school leader. The Social-emotional learning framework (SEL) requires school counselors to maintain the integrity of their own social-emotional experiences while supporting those of others thus leading to improved school counseling practices and outcomes.
 
 
-* Lomako, G., Coward, V., & Ifill, A. (2018). How to become happy – provide students with the skills they need. The Business & Management Review, 9(3) 291-295. Retrieved October 5, 2018, from ProQuest Central.
+* Lomako, G., Coward, V., &amp; Ifill, A. (2018). How to become happy – provide students with the skills they need. The Business &amp; Management Review, 9(3) 291-295. Retrieved October 5, 2018, from ProQuest Central.
 
 This article shares how educators help students through co-curricular activities to discover their gifts, talents and abilities when doing course assignments, interdisciplinary team projects and researches. These help and provide guidance to meet students’ careers choice in future.
 
@@ -193,4 +193,4 @@ Hameedah M Ibrahim
 
 The information in this resource guide is valid as at October 2018 and correct as far as we are able to ascertain from our sources. It is not intended to be an exhaustive or complete history on the subject. Please contact the Library for further reading materials on the topic.
 
-All Rights Reserved. National Library Board Singapore 2018.
+All Rights Reserved. National Library Board Singapore 2018.</b></b>
