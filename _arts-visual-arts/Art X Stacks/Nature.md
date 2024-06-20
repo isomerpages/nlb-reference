@@ -3,6 +3,7 @@ title: Nature
 permalink: /guides/arts/visual-arts/artxstacks/nature/
 description: ""
 third_nav_title: Art X Stacks
+variant: markdown
 ---
 # Art X Stacks - Nature
 
@@ -46,7 +47,7 @@ In this section, we learn more about how nature features in the visual arts, fro
 
 ####  Infopedia articles 
 
-* [Singapore Botanic Gardens](https://eresources.nlb.gov.sg/infopedia/articles/SIP_545_2005-01-24.html)
+* [Singapore Botanic Gardens](https://www.nlb.gov.sg/main/article-detail?cmsuuid=b6422d18-428b-4150-9fd8-f0bab6ed5853)
 
 * [Heritage Tree Scheme](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-09-28_143310.html)
 
@@ -84,4 +85,4 @@ When city-living becomes unbearable in our concrete jungle, perhaps all we need 
 
 ---
 
-*This Resource Guide was compiled by Luke Chua, a Senior Librarian at the National Library, Singapore. The information in this guide is valid as of March 2023 and correct as far as we can ascertain from our sources. This list is not intended to be exhaustive or comprehensive. Please contact us at <ref@nlb.gov.sg> for more reading material on the topics.*
+*This Resource Guide was compiled by Luke Chua, a Senior Librarian at the National Library, Singapore. The information in this guide is valid as of March 2023 and correct as far as we can ascertain from our sources. This list is not intended to be exhaustive or comprehensive. Please contact us at  for more reading material on the topics.*
