@@ -82,7 +82,7 @@ National Day parades
 
 * [Singapore Sports Hub](https://www.nlb.gov.sg/main/article-detail?cmsuuid=7e5e5cac-b017-46a8-857b-cb4368170e92)
 
-* [Singapore’s first National Day celebrations](https://eresources.nlb.gov.sg/infopedia/articles/SIP_524_2004-12-29.html)
+* [Singapore’s first National Day celebrations](https://www.nlb.gov.sg/main/article-detail?cmsuuid=940d166f-bc56-4442-8a15-eb530a9447d4)
 
 * [National Day Songs](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-03-11_165927.html)
 
