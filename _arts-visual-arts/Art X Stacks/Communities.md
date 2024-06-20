@@ -61,7 +61,7 @@ Communities in Singapore and Southeast Asia
 
 * [Eurasian community](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-08-06_115106.html)
 
-* [Tamil community](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-08-12_114422.html)
+* [Tamil community](https://www.nlb.gov.sg/main/article-detail?cmsuuid=7cf8b115-d8bd-492a-825b-8aa47235dadd)
 
 Communities and their homes
 
