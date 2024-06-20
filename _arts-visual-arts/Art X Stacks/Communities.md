@@ -53,7 +53,7 @@ The artworks on Level 9 of the library give us a glimpse of life in the past, wh
 
 Communities in Singapore and Southeast Asia
 
-* [The Baweanese](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1069_2007-06-20.html) (Boyanese)
+* [The Baweanese](https://www.nlb.gov.sg/main/article-detail?cmsuuid=1c347e28-5925-4992-8dad-e2d702bfe634) (Boyanese)
 
 * [Orang Laut](https://www.nlb.gov.sg/main/article-detail?cmsuuid=e586ffef-6277-4c3d-b463-bd14eefc914f)
 
