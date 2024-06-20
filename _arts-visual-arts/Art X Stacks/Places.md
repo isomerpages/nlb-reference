@@ -98,11 +98,11 @@ Even though the geographical location of the Singapore River and Chinatown have 
 
 #### Spotlight: Photographs
 
-Photographs are often considered documentary in nature, but they can also offer us more intimate views of the cityscape, especially scenes which may no longer exist. Across NL’s [PictureSG](https://eresources.nlb.gov.sg/pictures) and NAS’ [Archives Online](https://www.nas.gov.sg/archivesonline), you will find a wealth of images that give us a glimpse of Singapore in the past.
+Photographs are often considered documentary in nature, but they can also offer us more intimate views of the cityscape, especially scenes which may no longer exist. Across NL’s [National Library Online](https://www.nlb.gov.sg/main/nlonline) and NAS’ [Archives Online](https://www.nas.gov.sg/archivesonline), you will find a wealth of images that give us a glimpse of Singapore in the past.
 
 Here are some photographs of the Singapore River, Chinatown and the former National Stadium. Visit PictureSG and Archives Online for more photographs of these and other sites in Singapore. 
 
-* View of [street in Chinatown](https://eresources.nlb.gov.sg/pictures/Details/1101a755-53b7-4c2a-b8d0-970de5cba737), 1950s
+* View of [street in Chinatown](https://www.nlb.gov.sg/main/image-detail?cmsuuid=1101a755-53b7-4c2a-b8d0-970de5cba737), 1950s
 * View of [Chinatown and its outskirts](https://eresources.nlb.gov.sg/pictures/Details/86fb7031-7ac2-48e4-a764-795fe1c38962), 1890s
 * [ Images of Cavanagh Bridge and Anderson Bridge, with the Elgin Bridge](https://www.nas.gov.sg/archivesonline/photographs/record-details/3402c1eb-5f70-11e6-b4c5-0050568939ad) under construction, c.1942
 * [Singapore River](https://www.nas.gov.sg/archivesonline/photographs/record-details/216d4408-1162-11e3-83d5-0050568939ad), 1905
