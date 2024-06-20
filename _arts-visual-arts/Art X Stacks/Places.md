@@ -62,7 +62,7 @@ Singapore River and Chinatown
 
 * [Raffles Town Plan (Jackson Plan)](https://www.nlb.gov.sg/main/article-detail?cmsuuid=ed0c1981-882f-42c2-9acf-e5dae577a3ba)
 
-* [Chinatown](https://eresources.nlb.gov.sg/infopedia/articles/SIP_734_2005-01-24.html)
+* [Chinatown](https://www.nlb.gov.sg/main/article-detail?cmsuuid=e965a1df-e1be-4016-a1a1-dc86bc2bc107)
 
 Bridges across the Singapore River
 
