@@ -134,7 +134,7 @@ This guide provides resources for those who are keen to know more about Georgett
   Accompanying website for the exhibition of the same title at the National Gallery of Singapore, containing various resources, videos, and information about the artworks exhibited.
 
 
-* National Library Board. (2002). [Georgette Chen](http://eresources.nlb.gov.sg/infopedia/articles/SIP_698_2005-01-12.html), written by Creamer, Ruth. Retrieved December 1, 2020, from Singapore Infopedia. 
+* National Library Board. (2002). [Georgette Chen](https://www.nlb.gov.sg/main/article-detail?cmsuuid=0f964e7f-5382-416b-932b-3da4151f20e3), written by Creamer, Ruth. Retrieved December 1, 2020, from Singapore Infopedia. 
 
   An Infopedia resource that concisely chronicles Chen’s life and artistic practice, as well as major exhibitions held.
 
