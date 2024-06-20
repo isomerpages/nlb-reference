@@ -71,7 +71,7 @@ Communities and their homes
 
 * [Queenstown](https://www.nlb.gov.sg/main/article-detail?cmsuuid=1dc1cdc8-1f9f-4a52-8237-71a768739ef7) (the first satellite town in Singapore)
 
-* [Public housing in Singapore](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1585_2009-10-26.html)
+* [Public housing in Singapore](https://www.nlb.gov.sg/main/article-detail?cmsuuid=755fcc44-f348-4488-963b-27616cb2773e)
 
 * [Void deck](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-01-27_191959.html)
 
