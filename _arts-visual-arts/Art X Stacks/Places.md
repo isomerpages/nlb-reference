@@ -84,7 +84,7 @@ National Day parades
 
 * [Singapore’s first National Day celebrations](https://www.nlb.gov.sg/main/article-detail?cmsuuid=940d166f-bc56-4442-8a15-eb530a9447d4)
 
-* [National Day Songs](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-03-11_165927.html)
+* [National Day Songs](https://www.nlb.gov.sg/main/article-detail?cmsuuid=07d7e2c6-e52c-4be5-9d0b-eb9080448908)
 
 * [The Padang](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2021-11-15_154605.html)
 
