@@ -79,7 +79,7 @@ Communities and their way of life
 
 * [Pasar malam](https://www.nlb.gov.sg/main/article-detail?cmsuuid=8661aa72-3ea6-4abc-b0a6-d2cc24d3f0ff)
 
-* [Wayang (Chinese Street Opera)](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1218_2011-06-28.html)
+* [Wayang (Chinese Street Opera)](https://www.nlb.gov.sg/main/article-detail?cmsuuid=a07c0ef0-d87f-49bf-a624-d09a1c3a4b52)
 
 * [Five-foot-way traders](https://eresources.nlb.gov.sg/infopedia/articles/SIP_105_2005-01-04.html)
 
