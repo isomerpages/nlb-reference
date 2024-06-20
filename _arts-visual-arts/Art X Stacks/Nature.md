@@ -53,7 +53,7 @@ In this section, we learn more about how nature features in the visual arts, fro
 
 * [Punggol Zoo](https://www.nlb.gov.sg/main/article-detail?cmsuuid=1473095b-ceb1-460e-9f12-d4b8357743be)
 
-* [Chek Jawa](https://eresources.nlb.gov.sg/infopedia/articles/SIP_256_2005-01-03.html)
+* [Chek Jawa](https://www.nlb.gov.sg/main/article-detail?cmsuuid=2a03daf2-006e-4412-957b-c800505dc129)
 
 * [Nature Society (Singapore)](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1437_2009-02-19.html)
 
