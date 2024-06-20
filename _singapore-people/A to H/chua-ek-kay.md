@@ -517,22 +517,22 @@ In the final reel of seven, Lim articulates his opinions on the Singaporean art 
 
  
 
-* [Archipelago](https://www.nlb.gov.sg/main/image-detail?cmsuuid=071921be-b6d4-4bce-bbad-5f3a9d203963). (2006), [Image of painting], \[Online\]. (2008). Retrieved March 9, 2016, from PictureSG.
+* [Archipelago](https://www.nlb.gov.sg/main/image-detail?cmsuuid=071921be-b6d4-4bce-bbad-5f3a9d203963). (2006), [Image of painting], \[Online\]. (2008). Retrieved March 9, 2016, from National Library Online.
 
 
-* [Chua Ek Kay: Half-length portrait](https://www.nlb.gov.sg/main/image-detail?cmsuuid=16112b47-9e60-4a4f-8c95-f6e578c7152a). (1979–2001), [Image of photograph], \[Online\]. (2008). Retrieved March 9, 2016, from PictureSG.
+* [Chua Ek Kay: Half-length portrait](https://www.nlb.gov.sg/main/image-detail?cmsuuid=16112b47-9e60-4a4f-8c95-f6e578c7152a). (1979–2001), [Image of photograph], \[Online\]. (2008). Retrieved March 9, 2016, from National Library Online.
 
 
-* [A junction on Rochor Road](https://www.nlb.gov.sg/main/image-detail?cmsuuid=7ae16fa5-4f05-4a33-a172-0a2f24f81947). (1999), [Image of painting], \[Online\]. (2008). Retrieved March 9, 2016, from PictureSG.
+* [A junction on Rochor Road](https://www.nlb.gov.sg/main/image-detail?cmsuuid=7ae16fa5-4f05-4a33-a172-0a2f24f81947). (1999), [Image of painting], \[Online\]. (2008). Retrieved March 9, 2016, from National Library Online.
 
 
-* [Reflections: Lotus pond in a moment of silence](https://www.nlb.gov.sg/main/image-detail?cmsuuid=8dbb563e-c403-4b7c-a121-29c96f9003f6). (2006), [Image of painting], \[Online\]. (2008). Retrieved March 9, 2016, from PictureSG.
+* [Reflections: Lotus pond in a moment of silence](https://www.nlb.gov.sg/main/image-detail?cmsuuid=8dbb563e-c403-4b7c-a121-29c96f9003f6). (2006), [Image of painting], \[Online\]. (2008). Retrieved March 9, 2016, from National Library Online.
 
 
-* [Song of cicada](https://www.nlb.gov.sg/main/image-detail?cmsuuid=25597c4e-e22a-41a4-b8f0-21c5be0dec70). (1995), [Image of painting], \[Online\]. (2008). Retrieved March 9, 2016, from PictureSG.
+* [Song of cicada](https://www.nlb.gov.sg/main/image-detail?cmsuuid=25597c4e-e22a-41a4-b8f0-21c5be0dec70). (1995), [Image of painting], \[Online\]. (2008). Retrieved March 9, 2016, from National Library Online.
 
 
-* [A wall of history](https://www.nlb.gov.sg/main/image-detail?cmsuuid=e1106e13-ec4c-41cf-a9e7-335cfc5a2eb7). (2006), [Image of painting], \[Online\]. (2008). Retrieved March 9, 2016, from PictureSG.
+* [A wall of history](https://www.nlb.gov.sg/main/image-detail?cmsuuid=e1106e13-ec4c-41cf-a9e7-335cfc5a2eb7). (2006), [Image of painting], \[Online\]. (2008). Retrieved March 9, 2016, from National Library Online.
 
 
 ### <u>Accessing National Library Board Singapore Resources</u>
