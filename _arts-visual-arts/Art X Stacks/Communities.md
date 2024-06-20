@@ -77,7 +77,7 @@ Communities and their homes
 
 Communities and their way of life
 
-* [Pasar malam](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-03-02_131952.html)
+* [Pasar malam](https://www.nlb.gov.sg/main/article-detail?cmsuuid=8661aa72-3ea6-4abc-b0a6-d2cc24d3f0ff)
 
 * [Wayang (Chinese Street Opera)](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1218_2011-06-28.html)
 
