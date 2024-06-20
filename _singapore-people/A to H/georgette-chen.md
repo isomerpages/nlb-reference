@@ -22,7 +22,7 @@ Georgette Chen Li Ying, born Chang Li Ying, was a Singaporean artist known for h
 
 <img src="/images/singapore-people/gc-Georgette Chen_Self Portrait_1946.jpg" alt="Georgette Chen, Self-Portrait" style="width:350px;">
 Georgette Chen, *Self-Portrait* (1946).<br>
-Gift of Lee Foundation, Collection of National Gallery Singapore. Digital image retrieved from [PictureSG](https://eresources.nlb.gov.sg/pictures/Details/ea65d5bf-67e9-476e-af64-790a2687f33b).
+Gift of Lee Foundation, Collection of National Gallery Singapore. Digital image retrieved from [National Library Online](https://www.nlb.gov.sg/main/image-detail?cmsuuid=ea65d5bf-67e9-476e-af64-790a2687f33b).
 
 Chen experienced a cosmopolitan and transcontinental life, traversing nations such as China, France, and the United States for much of her life and moving to Singapore permanently around 1953, after which she started teaching at the Nanyang Academy of Fine Arts (NAFA). She acquired Singaporean citizenship upon Singapore’s separation from Malaysia in 1965.
 
