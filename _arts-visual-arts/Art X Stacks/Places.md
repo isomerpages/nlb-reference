@@ -72,9 +72,9 @@ Bridges across the Singapore River
 
 * [Coleman Bridge](https://www.nlb.gov.sg/main/article-detail?cmsuuid=20e7b062-2af1-4ec6-a509-848bf670ccf0)
 
-* [Read Bridge](https://eresources.nlb.gov.sg/infopedia/articles/SIP_28_2004-12-24.html)
+* [Read Bridge](https://www.nlb.gov.sg/main/article-detail?cmsuuid=df446a5b-96e8-4da1-ae2d-f4906b3636aa)
 
-* [Anderson Bridge](https://eresources.nlb.gov.sg/infopedia/articles/SIP_923_2004-12-24.html)
+* [Anderson Bridge](https://www.nlb.gov.sg/main/article-detail?cmsuuid=13e377d8-020f-4eb6-935b-e9ee85ccdfc4)
 
 National Day parades
 
