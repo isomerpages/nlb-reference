@@ -646,10 +646,6 @@ Taylor considers the absence of a coherent or unified identity in Southeast Asia
 ### <u>Websites</u>
 
 
-* (2015). Arthop. Retrieved August 2, 2021, , from the Arthop website:
-[http://arthop.co/](http://arthop.co/)
-
-A Southeast Asian art online guide based in Singapore that, in its own words, aspires to cultivate and rally “an art community of professionals and enthusiasts [as] the place for art lovers to interact and learn.” Provides multiple useful and illuminating articles on Singaporean and regional modern/contemporary art as well as notifications on art events and festivals.
 
 * National Gallery Singapore. (n.d.). Collections Search Portal. Retrieved August 2, 2021, from the National Gallery Singapore website: [https://collections.nationalgallery.sg/#/](https://collections.nationalgallery.sg/#/)
 
