@@ -60,7 +60,7 @@ Singapore River and Chinatown
 
 * [Source of the Singapore River](https://www.nlb.gov.sg/main/article-detail?cmsuuid=bfa73636-a812-42ea-8923-f82c70fdbac9)
 
-* [Raffles Town Plan (Jackson Plan)](https://eresources.nlb.gov.sg/infopedia/articles/SIP_658_2005-01-07.html)
+* [Raffles Town Plan (Jackson Plan)](https://www.nlb.gov.sg/main/article-detail?cmsuuid=ed0c1981-882f-42c2-9acf-e5dae577a3ba)
 
 * [Chinatown](https://eresources.nlb.gov.sg/infopedia/articles/SIP_734_2005-01-24.html)
 
