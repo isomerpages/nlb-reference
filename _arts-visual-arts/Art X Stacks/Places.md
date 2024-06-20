@@ -86,7 +86,7 @@ National Day parades
 
 * [National Day Songs](https://www.nlb.gov.sg/main/article-detail?cmsuuid=07d7e2c6-e52c-4be5-9d0b-eb9080448908)
 
-* [The Padang](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2021-11-15_154605.html)
+* [The Padang](https://www.nlb.gov.sg/main/article-detail?cmsuuid=c3c58307-b306-4a38-846f-a0b7f13c0a7e)
 
 ###### [Back to top](#contents)
 
