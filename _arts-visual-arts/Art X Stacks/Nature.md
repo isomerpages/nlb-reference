@@ -51,7 +51,7 @@ In this section, we learn more about how nature features in the visual arts, fro
 
 * [Heritage Tree Scheme](https://www.nlb.gov.sg/main/article-detail?cmsuuid=95ce9bec-972c-442a-b7f9-62c245c776ea)
 
-* [Punggol Zoo](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2016-03-14_140006.html)
+* [Punggol Zoo](https://www.nlb.gov.sg/main/article-detail?cmsuuid=1473095b-ceb1-460e-9f12-d4b8357743be)
 
 * [Chek Jawa](https://eresources.nlb.gov.sg/infopedia/articles/SIP_256_2005-01-03.html)
 
