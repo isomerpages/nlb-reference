@@ -49,7 +49,7 @@ In this section, we learn more about how nature features in the visual arts, fro
 
 * [Singapore Botanic Gardens](https://www.nlb.gov.sg/main/article-detail?cmsuuid=b6422d18-428b-4150-9fd8-f0bab6ed5853)
 
-* [Heritage Tree Scheme](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-09-28_143310.html)
+* [Heritage Tree Scheme](https://www.nlb.gov.sg/main/article-detail?cmsuuid=95ce9bec-972c-442a-b7f9-62c245c776ea)
 
 * [Punggol Zoo](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2016-03-14_140006.html)
 
