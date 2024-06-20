@@ -65,7 +65,7 @@ Communities in Singapore and Southeast Asia
 
 Communities and their homes
 
-* [Kampong Lorong Buangkok](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1128_2009-12-09.html)
+* [Kampong Lorong Buangkok](https://www.nlb.gov.sg/main/article-detail?cmsuuid=e1b16980-6628-4391-af99-2389c35150d1)
 
 * [Chinese villages in the North](https://eresources.nlb.gov.sg/infopedia/articles/SIP_385_2011-01-07.html)
 
