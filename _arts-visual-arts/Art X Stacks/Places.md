@@ -103,7 +103,7 @@ Photographs are often considered documentary in nature, but they can also offer 
 Here are some photographs of the Singapore River, Chinatown and the former National Stadium. Visit PictureSG and Archives Online for more photographs of these and other sites in Singapore. 
 
 * View of [street in Chinatown](https://www.nlb.gov.sg/main/image-detail?cmsuuid=1101a755-53b7-4c2a-b8d0-970de5cba737), 1950s
-* View of [Chinatown and its outskirts](https://eresources.nlb.gov.sg/pictures/Details/86fb7031-7ac2-48e4-a764-795fe1c38962), 1890s
+* View of [Chinatown and its outskirts](https://www.nlb.gov.sg/main/image-detail?cmsuuid=86fb7031-7ac2-48e4-a764-795fe1c38962), 1890s
 * [ Images of Cavanagh Bridge and Anderson Bridge, with the Elgin Bridge](https://www.nas.gov.sg/archivesonline/photographs/record-details/3402c1eb-5f70-11e6-b4c5-0050568939ad) under construction, c.1942
 * [Singapore River](https://www.nas.gov.sg/archivesonline/photographs/record-details/216d4408-1162-11e3-83d5-0050568939ad), 1905
 * [The former National Stadium under construction](https://www.nas.gov.sg/archivesonline/photographs/record-details/a90f8558-1162-11e3-83d5-0050568939ad), 1971
