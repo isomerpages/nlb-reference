@@ -118,7 +118,7 @@ Tong, K. (2020). [A Frame in Time - S1E2: National Language Class](https://www.c
 
 #### Websites
 
-Omar, M. (2016). [Chua Mia Tee](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1010_2008-07-30.html). Infopedia. Retrieved 2021, November 3. 
+Omar, M. (2016). [Chua Mia Tee](https://www.nlb.gov.sg/main/article-detail?cmsuuid=6e424ef1-38be-429e-8a2d-b37cb258d013). Infopedia. Retrieved 2021, November 3. 
 
 [Chua Mia Tee](https://www.esplanade.com/offstage/arts/chua-mia-tee). (2016, October 12). Esplanade Offstage. Retrieved 2021, November 11. 
 
@@ -126,7 +126,7 @@ National Arts Council. (2015). [Cultural Medallion 2015: Chua Mia Tee](https://w
 
 Ting, K. (2019). [National Language Class, Chua Mia Tee, Singapore, 1959, oil on canvas](https://www.roots.gov.sg/stories-landing/stories/the-singapore-story-through-60-objects/art-historical/national-language-class/story). Roots.gov.sg. Retrieved 2021, November 11.
 
-The introduction is adapted from the Infopedia entry on Chua Mia Tee authored by Marsita Omar, available in full [here](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1010_2008-07-30.html). This guide provides a selection of resources on the artist and is not meant to be exhaustive. You can also visit [catalogue.nlb.gov.sg](https://catalogue.nlb.gov.sg) to search for more materials. This resource guide was prepared in November 2021 by Luke Chua, Senior Librarian at the National Library. The information in this resource guide is valid as at November 2021 and correct as far as we are able to ascertain from our sources.
+The introduction is adapted from the Infopedia entry on Chua Mia Tee authored by Marsita Omar, available in full [here](https://www.nlb.gov.sg/main/article-detail?cmsuuid=6e424ef1-38be-429e-8a2d-b37cb258d013). This guide provides a selection of resources on the artist and is not meant to be exhaustive. You can also visit [catalogue.nlb.gov.sg](https://catalogue.nlb.gov.sg) to search for more materials. This resource guide was prepared in November 2021 by Luke Chua, Senior Librarian at the National Library. The information in this resource guide is valid as at November 2021 and correct as far as we are able to ascertain from our sources.
 
 All Rights Reserved. National Library Board Singapore 2021.
 
