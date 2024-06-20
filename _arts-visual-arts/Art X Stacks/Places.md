@@ -70,7 +70,7 @@ Bridges across the Singapore River
 
 * [Cavenagh Bridge](https://www.nlb.gov.sg/main/article-detail?cmsuuid=563a3d5a-6323-49a4-8f38-fccfd2855c6c)
 
-* [Coleman Bridge](https://eresources.nlb.gov.sg/infopedia/articles/SIP_151_2004-12-16.html)
+* [Coleman Bridge](https://www.nlb.gov.sg/main/article-detail?cmsuuid=20e7b062-2af1-4ec6-a509-848bf670ccf0)
 
 * [Read Bridge](https://eresources.nlb.gov.sg/infopedia/articles/SIP_28_2004-12-24.html)
 
