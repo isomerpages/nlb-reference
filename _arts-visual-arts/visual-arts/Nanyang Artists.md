@@ -3,10 +3,11 @@ title: Nanyang Artists
 permalink: /guides/arts/visual-arts/nanyangartists/
 description: ""
 third_nav_title: Visual Arts
+variant: markdown
 ---
 ![Georgette Chen, Singapore Waterfront](/images/arts/visualarts/nanyang-artists/Georgette-Chen-Spore-Waterfront.JPG)
 
-Georgette Chen, *Singapore Waterfront.* (1958). Collection of National Museum of Singapore. Digital image retrieved from [PictureSG](https://eresources.nlb.gov.sg/pictures/Details/c0771dee-2f45-43ce-a4b3-3e50ab83165a).
+Georgette Chen, *Singapore Waterfront.* (1958). Collection of National Museum of Singapore. Digital image retrieved from [National Library Online](https://www.nlb.gov.sg/main/image-detail?cmsuuid=c0771dee-2f45-43ce-a4b3-3e50ab83165a).
 
 Originally used by the Chinese as a trading denomination for the Southeast Asian region, “Nanyang” literally translates as “South Seas.”[^1] Terms such as “Nanyang style” and “Nanyang art” are often used in Singapore’s art historical discourse, and one of the first attempts to define these terms was made by art historians Redza Piyadasa and T.K Sabapathy in 1979, as part of a seminal exhibition of Nanyang artists’ works.
 
@@ -24,7 +25,7 @@ Piyadasa identifies 1938 to 1965 as the golden period of the Nanyang art movemen
 #### Books
 
 <table style="width:100%; font-size:20px;">
-    <tr>
+    <tbody><tr>
         <td style="width:30%">
             <b>Books</b>
         </td>
@@ -34,7 +35,7 @@ Piyadasa identifies 1938 to 1965 as the golden period of the Nanyang art movemen
     </tr>
     <tr>
         <td>
-            <img style="width:150px" src="/images/arts/visualarts/nanyang-artists/pameran-retrospektif-pelukis-pelukis-nanyang.JPG ">
+            <img style="width:150px" src="/images/arts/visualarts/nanyang-artists/pameran-retrospektif-pelukis-pelukis-nanyang.JPG">
         </td>
         <td>
             Muzium Seni Negara (1979). <a href="https://www.nlb.gov.sg/biblio/4125450"> Pameran retrospektif pelukis-pelukis
@@ -104,7 +105,7 @@ Parisian art movements on the oeuvre of the Nanyang artists.
             <img style="width:150px" src="/images/arts/visualarts/nanyang-artists/singapore-artists-select-bibliography-nanyang.JPG">
         </td>
         <td>
-            Yeo, A., Gee, M.M., Balagopal, R., Tay, C.B., Cheng, T.Y., & Anuar, M. (Eds.). (2009). <a href="https://www.nlb.gov.sg/biblio/12917269">Singapore artists: A select annotated bibliography (Volume 1: The Nanyang artists)</a>. Singapore: National Library Board. (Call no.: RSING 016.7095957 LEE -[LIB])
+            Yeo, A., Gee, M.M., Balagopal, R., Tay, C.B., Cheng, T.Y., &amp; Anuar, M. (Eds.). (2009). <a href="https://www.nlb.gov.sg/biblio/12917269">Singapore artists: A select annotated bibliography (Volume 1: The Nanyang artists)</a>. Singapore: National Library Board. (Call no.: RSING 016.7095957 LEE -[LIB])
 <br> <br>
 This is an extensive annotated compilation of resources on Nanyang artists in the collection of the National Library Board Singapore. There are specific sections dedicated to the following artists: Cheng Chong Swee, Georgette Chen, Chen Wen Hsi, Cheong Soo Ping, Lim Hak Tai, and Liu Kang. 
         </td>
@@ -124,7 +125,7 @@ Published in conjunction with an exhibition of 40 artists who were graduates or 
             <img style="width:150px" src="/images/arts/visualarts/nanyang-artists/Writing-the-Modern.jpg">
         </td>
         <td>
-            Sabapathy, T.K. (2018). <a href="https://www.nlb.gov.sg/biblio/203023192"> Writing the modern: Selected texts on art & art history in Singapore, Malaysia & Southeast Asia 1973-2015</a>. Singapore: Singapore Art Museum. (Call no.: 709.59 SAB)
+            Sabapathy, T.K. (2018). <a href="https://www.nlb.gov.sg/biblio/203023192"> Writing the modern: Selected texts on art &amp; art history in Singapore, Malaysia &amp; Southeast Asia 1973-2015</a>. Singapore: Singapore Art Museum. (Call no.: 709.59 SAB)
 <br> <br>
 Art historian T.K. Sabapathy has written extensively on Singapore art for several decades, covering a wide range of topics, including Nanyang artists and the Nanyang style. This anthology brings together his writings across different genres such as exhibition reviews, interviews, papers, and personal correspondences.
         </td>
@@ -144,7 +145,7 @@ This catalogue was published to accompany the inaugural exhibition *Siapa Nama K
             <img style="width:150px" src="/images/arts/visualarts/nanyang-artists/channels-and-confluences.png">
         </td>
         <td>
-           Kwok, K.C. (1996). <a href="https://www.nlb.gov.sg/biblio/7628104"> Channels & confluences: A history of Singapore
+           Kwok, K.C. (1996). <a href="https://www.nlb.gov.sg/biblio/7628104"> Channels &amp; confluences: A history of Singapore
 art</a>. Singapore: Singapore Art Museum. (Call no.: RSING 709.5957 KWO)
 <br> <br>
 A fully illustrated book which outlines the history of the visual arts in
@@ -158,7 +159,7 @@ understanding of the development of the visual arts in Singapore.
             <img style="width:150px" src="/images/arts/visualarts/nanyang-artists/Charting-Thoughts.png">
         </td>
         <td>
-           Low, S.W., & Flores, P.D. (Eds.). (2017). <a href="https://www.nlb.gov.sg/biblio/202788638"> Charting thoughts: Essays on art in Southeast Asia</a>. Singapore: National Gallery Singapore. (Call no.: 709.59 CHA)
+           Low, S.W., &amp; Flores, P.D. (Eds.). (2017). <a href="https://www.nlb.gov.sg/biblio/202788638"> Charting thoughts: Essays on art in Southeast Asia</a>. Singapore: National Gallery Singapore. (Call no.: 709.59 CHA)
 <br> <br>
 This compilation includes two essays relating to the Nanyang artistic style in Singapore: Kevin Chua’s “When Was Modernism? A Historiography of Singapore Art” and Seng Yu Jin’s “Lim Hak Tai points a Third Way: Towards a Socially Engaged Art by the Nanyang Artists, 1950s-1960s.” 
         </td>
@@ -198,7 +199,7 @@ discussions on art, artists, art education, and critical issues, chiefly
 concerning Singapore but also Asia as well.
         </td>
     </tr>
-</table>
+</tbody></table>
 
 #### Articles
 
