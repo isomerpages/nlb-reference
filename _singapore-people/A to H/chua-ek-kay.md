@@ -4,7 +4,8 @@ permalink: /guides/singapore/people/chua-ek-kay/
 breadcrumb: Chua Ek Kay
 collection_name: singapore-people
 third_nav_title: A to H
-published: true
+published: "true"
+variant: markdown
 ---
 ### <u>Guide Index</u>
 
@@ -519,7 +520,7 @@ In the final reel of seven, Lim articulates his opinions on the Singaporean art 
 * [Archipelago](http://eresources.nlb.gov.sg/pictures/Details/071921be-b6d4-4bce-bbad-5f3a9d203963). (2006), [Image of painting], \[Online\]. (2008). Retrieved March 9, 2016, from PictureSG.
 
 
-* [Chua Ek Kay: Half-length portrait](http://eresources.nlb.gov.sg/pictures/Details/16112b47-9e60-4a4f-8c95-f6e578c7152a). (1979–2001), [Image of photograph], \[Online\]. (2008). Retrieved March 9, 2016, from PictureSG.
+* [Chua Ek Kay: Half-length portrait](https://www.nlb.gov.sg/main/image-detail?cmsuuid=16112b47-9e60-4a4f-8c95-f6e578c7152a). (1979–2001), [Image of photograph], \[Online\]. (2008). Retrieved March 9, 2016, from PictureSG.
 
 
 * [A junction on Rochor Road](http://eresources.nlb.gov.sg/pictures/Details/7ae16fa5-4f05-4a33-a172-0a2f24f81947). (1999), [Image of painting], \[Online\]. (2008). Retrieved March 9, 2016, from PictureSG.
