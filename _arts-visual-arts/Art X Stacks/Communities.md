@@ -57,7 +57,7 @@ Communities in Singapore and Southeast Asia
 
 * [Orang Laut](https://www.nlb.gov.sg/main/article-detail?cmsuuid=e586ffef-6277-4c3d-b463-bd14eefc914f)
 
-* [Peranakan (Straits Chinese) community](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-08-30_181745.html)
+* [Peranakan (Straits Chinese) community](https://www.nlb.gov.sg/main/article-detail?cmsuuid=1138ea9d-9dbe-4f09-9fef-ba2c7105eb91)
 
 * [Eurasian community](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-08-06_115106.html)
 
