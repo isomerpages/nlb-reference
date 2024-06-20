@@ -69,7 +69,7 @@ Communities and their homes
 
 * [Chinese villages in the North](https://www.nlb.gov.sg/main/article-detail?cmsuuid=d9bead6a-36c2-4c51-84f6-027b977d94a1)
 
-* [Queenstown](https://eresources.nlb.gov.sg/infopedia/articles/SIP_404_2005-01-18.html) (the first satellite town in Singapore)
+* [Queenstown](https://www.nlb.gov.sg/main/article-detail?cmsuuid=1dc1cdc8-1f9f-4a52-8237-71a768739ef7) (the first satellite town in Singapore)
 
 * [Public housing in Singapore](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1585_2009-10-26.html)
 
