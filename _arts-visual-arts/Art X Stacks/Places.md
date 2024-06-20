@@ -3,6 +3,7 @@ title: Places
 permalink: /guides/arts/visual-arts/artxstacks/places/
 description: ""
 third_nav_title: Art X Stacks
+variant: markdown
 ---
 # Art X Stacks - Places
 
@@ -22,7 +23,7 @@ In this section, we delve deeper into the history of the places portrayed in the
 
 | Book                                                         | Description                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![](/images/arts/visualarts/Art%20X%20Stacks/singaporeriversocialhistory.jpg) | Dobbs, Stephen. [*The Singapore River: A Social History, 1819-2002*](https://eservice.nlb.gov.sg/item_holding.aspx?id=12149559). Singapore: NUS Press, 2016.<br><br>Blending social history, geography, economic history and urban studies, Dobbs sets out the history of the Singapore River and of the people who made it their home and workplace. This text should be of interest to anyone wishing to understand Singapore's many transformations during the past two centuries. Also available as an [ebook](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203715582)   |
+| ![](/images/arts/visualarts/Art%20X%20Stacks/singaporeriversocialhistory.jpg) | Dobbs, Stephen. [*The Singapore River: A Social History, 1819-2002*](https://eservice.nlb.gov.sg/item_holding.aspx?id=12149559). Singapore: NUS Press, 2016.<br><br>Blending social history, geography, economic history and urban studies, Dobbs sets out the history of the Singapore River and of the people who made it their home and workplace. This text should be of interest to anyone wishing to understand Singapore's many transformations during the past two centuries. Also available as an [ebook](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=203715582)   |
 | ![](/images/arts/visualarts/Art%20X%20Stacks/cleanrivers.jpg) | [*Clean Rivers: Cleaning up of Singapore River and Kallang Basin*](https://eservice.nlb.gov.sg/item_holding.aspx?id=4425326). Singapore: Ministry of the Environment, 1987.<br><br>Commemorating the completion of a 10-year clean-up of the Singapore River and Kallang Basin, this booklet gives an introduction of the project, including its objectives, action plan and results.  |
 | ![](/images/arts/visualarts/Art%20X%20Stacks/singaporelifeline.jpg) | Oral History Department. [*Singapore Lifeline: The River and Its People*](https://eservice.nlb.gov.sg/item_holding.aspx?id=4182975). Singapore: Times Books International, 1986.<br><br>This is a publication on the history of Singapore River by the Oral History Department and the National Archives. It contains maps and photographs of the Singapore River’s transformation as a vital artery of trade and transportation. |
 | ![](/images/arts/visualarts/Art%20X%20Stacks/singaporeriverwalk.jpg) | Ng, Marcus. [*Singapore River Walk*](https://eservice.nlb.gov.sg/item_holding.aspx?id=202919344). Singapore: National Heritage Board, 2016.<br><br>Produced by the National Heritage Board (NHB), this guidebook provides a history of the Singapore River, with photographs and interviews relating memories of the river. A section of the guidebook focuses on the bridges across the Singapore River. A digital copy can also be downloaded from [Roots.sg](https://www.roots.gov.sg/nhb/singapore-river-walk).  |
@@ -53,7 +54,7 @@ In this section, we delve deeper into the history of the places portrayed in the
 
 Singapore River and Chinatown
 
-* [Singapore River communities](https://eresources.nlb.gov.sg/infopedia/articles/SIP_498_2004-12-27.html)
+* [Singapore River communities](https://www.nlb.gov.sg/main/article-detail?cmsuuid=b821c72a-9035-49e8-bcb7-a95bbd9443c9)
 
 * [Singapore River (historical overview)](https://eresources.nlb.gov.sg/infopedia/articles/SIP_148_2005-02-02.html)
 
@@ -137,7 +138,7 @@ Read [an article on the National Day songs](https://eresources.nlb.gov.sg/music/
 
 ---
 
-*This Resource Guide was compiled by Luke Chua, a Senior Librarian at the National Library, Singapore. The information in this guide is valid as of March 2023 and correct as far as we can ascertain from our sources. This list is not intended to be exhaustive or comprehensive. Please contact us at <ref@nlb.gov.sg> for more reading material on the topics.*
+*This Resource Guide was compiled by Luke Chua, a Senior Librarian at the National Library, Singapore. The information in this guide is valid as of March 2023 and correct as far as we can ascertain from our sources. This list is not intended to be exhaustive or comprehensive. Please contact us at  for more reading material on the topics.*
 
 ---
 
