@@ -67,7 +67,7 @@ Communities and their homes
 
 * [Kampong Lorong Buangkok](https://www.nlb.gov.sg/main/article-detail?cmsuuid=e1b16980-6628-4391-af99-2389c35150d1)
 
-* [Chinese villages in the North](https://eresources.nlb.gov.sg/infopedia/articles/SIP_385_2011-01-07.html)
+* [Chinese villages in the North](https://www.nlb.gov.sg/main/article-detail?cmsuuid=d9bead6a-36c2-4c51-84f6-027b977d94a1)
 
 * [Queenstown](https://eresources.nlb.gov.sg/infopedia/articles/SIP_404_2005-01-18.html) (the first satellite town in Singapore)
 
