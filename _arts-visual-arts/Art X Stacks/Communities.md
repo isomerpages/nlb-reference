@@ -81,7 +81,7 @@ Communities and their way of life
 
 * [Wayang (Chinese Street Opera)](https://www.nlb.gov.sg/main/article-detail?cmsuuid=a07c0ef0-d87f-49bf-a624-d09a1c3a4b52)
 
-* [Five-foot-way traders](https://eresources.nlb.gov.sg/infopedia/articles/SIP_105_2005-01-04.html)
+* [Five-foot-way traders](https://www.nlb.gov.sg/main/article-detail?cmsuuid=604a6d18-793d-4919-af9b-5ef014ba2141)
 
 * [Chettiars](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-12-11_165654.html)
 
