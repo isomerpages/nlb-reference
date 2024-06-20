@@ -56,7 +56,7 @@ Singapore River and Chinatown
 
 * [Singapore River communities](https://www.nlb.gov.sg/main/article-detail?cmsuuid=b821c72a-9035-49e8-bcb7-a95bbd9443c9)
 
-* [Singapore River (historical overview)](https://eresources.nlb.gov.sg/infopedia/articles/SIP_148_2005-02-02.html)
+* [Singapore River (historical overview)](https://www.nlb.gov.sg/main/article-detail?cmsuuid=011fc400-0632-453b-8520-12ada317e263)
 
 * [Source of the Singapore River](https://eresources.nlb.gov.sg/infopedia/articles/SIP_181_2005-01-25.html)
 
