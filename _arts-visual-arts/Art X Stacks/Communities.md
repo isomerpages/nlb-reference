@@ -59,7 +59,7 @@ Communities in Singapore and Southeast Asia
 
 * [Peranakan (Straits Chinese) community](https://www.nlb.gov.sg/main/article-detail?cmsuuid=1138ea9d-9dbe-4f09-9fef-ba2c7105eb91)
 
-* [Eurasian community](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-08-06_115106.html)
+* [Eurasian community](https://www.nlb.gov.sg/main/article-detail?cmsuuid=45dd95f2-31e0-4f7c-b264-dabc79907fbe)
 
 * [Tamil community](https://www.nlb.gov.sg/main/article-detail?cmsuuid=7cf8b115-d8bd-492a-825b-8aa47235dadd)
 
