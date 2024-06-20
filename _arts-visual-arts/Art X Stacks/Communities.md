@@ -85,7 +85,7 @@ Communities and their way of life
 
 * [Chettiars](https://www.nlb.gov.sg/main/article-detail?cmsuuid=013561b0-95db-445e-b5f4-1aac8b04fdf1)
 
-* [Cathay Keris Studio](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1159_2007-07-01.html) (a key producer of Malay films in the 1950s and 1960s)
+* [Cathay Keris Studio](https://www.nlb.gov.sg/main/article-detail?cmsuuid=0d44bd6f-4baa-4b31-ac59-facc796c0996) (a key producer of Malay films in the 1950s and 1960s)
 
 ###### [Back to top](#contents)
 
