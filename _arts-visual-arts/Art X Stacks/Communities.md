@@ -83,7 +83,7 @@ Communities and their way of life
 
 * [Five-foot-way traders](https://www.nlb.gov.sg/main/article-detail?cmsuuid=604a6d18-793d-4919-af9b-5ef014ba2141)
 
-* [Chettiars](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-12-11_165654.html)
+* [Chettiars](https://www.nlb.gov.sg/main/article-detail?cmsuuid=013561b0-95db-445e-b5f4-1aac8b04fdf1)
 
 * [Cathay Keris Studio](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1159_2007-07-01.html) (a key producer of Malay films in the 1950s and 1960s)
 
