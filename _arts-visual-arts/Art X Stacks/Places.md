@@ -68,7 +68,7 @@ Bridges across the Singapore River
 
 * [Elgin Bridge](https://www.nlb.gov.sg/main/article-detail?cmsuuid=361eaff3-9999-437e-b57f-375313b46ffd)
 
-* [Cavenagh Bridge](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2_2004-12-17.html)
+* [Cavenagh Bridge](https://www.nlb.gov.sg/main/article-detail?cmsuuid=563a3d5a-6323-49a4-8f38-fccfd2855c6c)
 
 * [Coleman Bridge](https://eresources.nlb.gov.sg/infopedia/articles/SIP_151_2004-12-16.html)
 
