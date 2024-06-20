@@ -78,7 +78,7 @@ Bridges across the Singapore River
 
 National Day parades
 
-* [National Stadium](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1441_2009-02-09.html)
+* [National Stadium](https://www.nlb.gov.sg/main/article-detail?cmsuuid=927b5e64-1e1b-46e2-9ca4-5240faa50247)
 
 * [Singapore Sports Hub](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-10-26_160204.html)
 
