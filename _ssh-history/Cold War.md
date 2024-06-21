@@ -164,7 +164,7 @@ This site contains archival research on Cold War events and themes. Also provide
 This timeline lists significant developments and events that occurred during the Cold War period from 1945-1991. A link is also provided to the timelines for the Cuban Missile Crisis and Vietnam War.
 
 
-* The Cold War Museum. (n.d.). The Cold War Museum. Retrieved March 18, 2017, from Cold War Museum website: [http://www.coldwar.org/index.asp](http://www.coldwar.org/index.asp)
+* The Cold War Museum. (n.d.). The Cold War Museum. Retrieved March 18, 2017, from Cold War Museum website: [https://coldwar.org/Default.asp](https://coldwar.org/Default.asp)
 
 This museum serves to preserve Cold War history and to honour the people who were casualties of the war. Although this is a physical museum located in the United States, there is available online, a virtual museum, photo galleries and links to collections of Cold War related material.
 

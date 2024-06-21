@@ -2,6 +2,7 @@
 title: Launch
 permalink: /launch/
 description: ""
+variant: markdown
 ---
 <center><img src="/images/launch-icons/Launch_Logo_RGB_Primary.png" style="width:500px"></center>
 
@@ -10,12 +11,12 @@ Whether it’s learning a new skill or taking your business in a different direc
 
 Connect with the right resources, communities, networks and spaces!
 
-Find out more in our Launch [**brochure**](/files/Launch/nlb%20launch%20brochure_july%202023.pdf).
+Find out more in our Launch [**brochure**](/files/Launch/NLB_LAUNCH_BROCHURE_JUNE2024.pdf).
 
 <hr>
 
 <table>
-	<tbody><tr><!--row 1-->
+	<tbody><tr>
 		<td>
 			<h3><b>Business Kickstarter</b></h3>
 			<p>No matter what stage your business is at, we have the resources and tools to take it to the next level.</p>
@@ -23,7 +24,7 @@ Find out more in our Launch [**brochure**](/files/Launch/nlb%20launch%20brochure
 		</td>
 		<td style="width:50%"><img src="/images/launch-icons/Database-01.png" style="width:250px"></td>
 	</tr>
-	<tr><!--row 2-->
+	<tr>
 		<td style="width:50%"><img src="/images/launch-icons/Programmes-Onsite-01.png" style="width:250px"></td>
 		<td>
 			<h3><b>Workshops &amp; Programmes</b></h3>
@@ -31,7 +32,7 @@ Find out more in our Launch [**brochure**](/files/Launch/nlb%20launch%20brochure
 			<p>Discover <a href="https://go.gov.sg/nlb-launch-programmes"><b>our programmes</b></a> now!</p>
 		</td>
 	</tr>
-	<tr><!--row 3-->
+	<tr>
 		<td>
 			<h3><b>Articles, Guides and Stories</b></h3>
 			<p>No matter what stage your business is at, we have the resources and tools to take it to the next level.</p>

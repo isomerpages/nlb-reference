@@ -4,7 +4,8 @@ permalink: /guides/singapore/people/chua-ek-kay/
 breadcrumb: Chua Ek Kay
 collection_name: singapore-people
 third_nav_title: A to H
-published: true
+published: "true"
+variant: markdown
 ---
 ### <u>Guide Index</u>
 
@@ -462,7 +463,7 @@ From the Singaporean chapter of the Postcolonial Web, maintained by the Universi
 
 Exhibition website for the National Gallery-organised and -hosted large-scale solo exhibition of Chua’s works from 26 November 2015 to 3 May 2016, structured around the thematic rubric of water. Explicates the exhibition’s theme and announces other programme and logistical information.
 
-* National Library Board. (2002). [Chua Ek Kay](http://eresources.nlb.gov.sg/infopedia/articles/SIP_431_2005-01-14.html), written by Nureza Ahmad. Retrieved March 9, 2016, from Singapore Infopedia.
+* National Library Board. (2002). [Chua Ek Kay](https://www.nlb.gov.sg/main/article-detail?cmsuuid=f3e342ee-7f59-411d-9ff5-8a09811c2eae), written by Nureza Ahmad. Retrieved March 9, 2016, from Singapore Infopedia.
 
 An Infopedia resource that concisely chronicles Chua’s early life and subsequent professional career as a full-time artist; includes a biographical timeline and list of awards conferred as well.
 
@@ -516,22 +517,22 @@ In the final reel of seven, Lim articulates his opinions on the Singaporean art 
 
  
 
-* [Archipelago](http://eresources.nlb.gov.sg/pictures/Details/071921be-b6d4-4bce-bbad-5f3a9d203963). (2006), [Image of painting], \[Online\]. (2008). Retrieved March 9, 2016, from PictureSG.
+* [Archipelago](https://www.nlb.gov.sg/main/image-detail?cmsuuid=071921be-b6d4-4bce-bbad-5f3a9d203963). (2006), [Image of painting], \[Online\]. (2008). Retrieved March 9, 2016, from National Library Online.
 
 
-* [Chua Ek Kay: Half-length portrait](http://eresources.nlb.gov.sg/pictures/Details/16112b47-9e60-4a4f-8c95-f6e578c7152a). (1979–2001), [Image of photograph], \[Online\]. (2008). Retrieved March 9, 2016, from PictureSG.
+* [Chua Ek Kay: Half-length portrait](https://www.nlb.gov.sg/main/image-detail?cmsuuid=16112b47-9e60-4a4f-8c95-f6e578c7152a). (1979–2001), [Image of photograph], \[Online\]. (2008). Retrieved March 9, 2016, from National Library Online.
 
 
-* [A junction on Rochor Road](http://eresources.nlb.gov.sg/pictures/Details/7ae16fa5-4f05-4a33-a172-0a2f24f81947). (1999), [Image of painting], \[Online\]. (2008). Retrieved March 9, 2016, from PictureSG.
+* [A junction on Rochor Road](https://www.nlb.gov.sg/main/image-detail?cmsuuid=7ae16fa5-4f05-4a33-a172-0a2f24f81947). (1999), [Image of painting], \[Online\]. (2008). Retrieved March 9, 2016, from National Library Online.
 
 
-* [Reflections: Lotus pond in a moment of silence](http://eresources.nlb.gov.sg/pictures/Details/8dbb563e-c403-4b7c-a121-29c96f9003f6). (2006), [Image of painting], \[Online\]. (2008). Retrieved March 9, 2016, from PictureSG.
+* [Reflections: Lotus pond in a moment of silence](https://www.nlb.gov.sg/main/image-detail?cmsuuid=8dbb563e-c403-4b7c-a121-29c96f9003f6). (2006), [Image of painting], \[Online\]. (2008). Retrieved March 9, 2016, from National Library Online.
 
 
-* [Song of cicada](http://eresources.nlb.gov.sg/pictures/Details/25597c4e-e22a-41a4-b8f0-21c5be0dec70). (1995), [Image of painting], \[Online\]. (2008). Retrieved March 9, 2016, from PictureSG.
+* [Song of cicada](https://www.nlb.gov.sg/main/image-detail?cmsuuid=25597c4e-e22a-41a4-b8f0-21c5be0dec70). (1995), [Image of painting], \[Online\]. (2008). Retrieved March 9, 2016, from National Library Online.
 
 
-* [A wall of history](http://eresources.nlb.gov.sg/pictures/Details/e1106e13-ec4c-41cf-a9e7-335cfc5a2eb7). (2006), [Image of painting], \[Online\]. (2008). Retrieved March 9, 2016, from PictureSG.
+* [A wall of history](https://www.nlb.gov.sg/main/image-detail?cmsuuid=e1106e13-ec4c-41cf-a9e7-335cfc5a2eb7). (2006), [Image of painting], \[Online\]. (2008). Retrieved March 9, 2016, from National Library Online.
 
 
 ### <u>Accessing National Library Board Singapore Resources</u>

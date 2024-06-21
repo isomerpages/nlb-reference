@@ -71,22 +71,22 @@ At least eight Latin American nations have offered assistance in the US blockade
 This article explains the significance of what the United States achieved in resolving the Cuban Missile Crisis, both in meeting Communist aggression firmly, and in doing so through international cooperation and diplomacy.
 
 
-* [Invasion threat](https://web.archive.org/web/20191222195306/http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19621025.2.2.aspx). (1962, October 25). The Straits Times, p. 1. Retrieved from NewspaperSG.
+* [Invasion threat](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19621025.2.2.aspx). (1962, October 25). The Straits Times, p. 1. Retrieved from NewspaperSG.
 
 The threat of open conflict looms over Cuba, as the United States readies an invasion force to neutralise the military threat of the island, should its naval blockade prove inadequate to prevent Cuban acquisition of Soviet missiles.
 
 
-* [Nikita acts](https://web.archive.org/web/20191222195306/http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19621029.2.3.aspx). (1962, October 29). The Straits Times, p. 1. Retrieved from NewspaperSG.
+* [Nikita acts](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19621029.2.3.aspx). (1962, October 29). The Straits Times, p. 1. Retrieved from NewspaperSG.
 
 Soviet Prime Minister Nikita Khrushchev announces that the Soviet Union has ordered the dismantling of its missile bases on Cuba and guarantees the removal of Soviet missiles under United Nations’ supervision. In return, President Kennedy accepts the proposal to lift the American quarantine on Cuba.
 
 
-* [Razor’s edge again](https://web.archive.org/web/20191222195306/http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19621028.2.3.aspx). (1962, October 28). The Straits Times, p. 1. Retrieved from NewspaperSG.
+* [Razor’s edge again](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19621028.2.3.aspx). (1962, October 28). The Straits Times, p. 1. Retrieved from NewspaperSG.
 
 Continued Soviet activity at Cuba’s missile bases results in heightened tensions between the United States, Soviet Union, and Cuba, and experts speculate on the probability of an American bomber strike on the missile sites, even as negotiations between the leaders drag on.
 
 
-* Ross, T. B. (1958, July 21). [The missile race](https://web.archive.org/web/20191222195306/http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19580721.2.66.aspx). The Singapore Free Press, p. 13. Retrieved from NewspaperSG.
+* Ross, T. B. (1958, July 21). [The missile race](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19580721.2.66.aspx). The Singapore Free Press, p. 13. Retrieved from NewspaperSG.
 
 American intelligence counts upwards of 25 Soviet missiles in development and production, giving the Soviets the range to threaten attacks on most of Europe, and soon the Western hemisphere.
 

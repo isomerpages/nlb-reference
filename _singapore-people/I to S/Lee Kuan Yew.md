@@ -3,6 +3,7 @@ title: Lee Kuan Yew
 permalink: /guides/singapore/people/lee-kuan-yew/
 description: ""
 third_nav_title: I to S
+variant: markdown
 ---
 # Lee Kuan Yew
 ### Guide Index
@@ -17,7 +18,7 @@ Lee Kuan Yew (b. 16 September 1923, Singapore–d. 23 March 2015, Singapore) ser
 
 This guide provides recommended resources for those who are keen to know more about the first prime minister of Singapore. You can also visit [**catalogue.nlb.gov.sg**](https://catalogue.nlb.gov.sg) to search for more resources. This resource guide was produced in August 2023 in commemoration of the 100th anniversary of his birthday.
 
-This introduction was adapted from Duncan Sutherland, “[Lee Kuan Yew](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-03-18_164023.html),” Singapore Infopedia, National Library Board, last modified March 23, 2015.
+This introduction was adapted from Duncan Sutherland, “[Lee Kuan Yew](https://www.nlb.gov.sg/main/article-detail?cmsuuid=5d7ebff1-0403-42bc-8f11-eee9f5967755),” Singapore Infopedia, National Library Board, last modified March 23, 2015.
 
 ### Publications in English
 

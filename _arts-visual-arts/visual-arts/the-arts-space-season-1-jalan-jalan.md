@@ -5,6 +5,7 @@ breadcrumb: The Arts Space (Season 1) Jalan-Jalan
 collection_name: arts-visual-arts
 third_nav_title: Visual Arts
 published: "true"
+variant: markdown
 ---
 **The Arts Space at Level 8 of the National Library has been re-imagined as a space that brings to life our rich collection from books and photographs to artworks and poems. Inspired by the painting, “The Couple” by acclaimed Singapore artist Tan Swie Hian, the Arts librarians have set out to create a multi-purpose space – physical and virtual, collaborative and contemplative – that not only evokes a cosy reading corner with recommended reads but a curated space for displays and exhibitions.**
 
@@ -73,7 +74,7 @@ Ong Kim Seng<br>
 
 Eminent watercolourist Ong Kim Seng is the former president of the Singapore Watercolour Society (1991 to 2001), a Cultural Medallion winner (Visual Art) in 1990, and winner of six awards from the prestigious American Watercolour Society. He has held numerous solo and group exhibitions since his first solo exhibition, Himalayan Trek Art Exhibition, at the Asia Art Gallery in 1979. His works have been exhibited internationally in Europe, USA, Japan and ASEAN countries.
 
-Below is a selection of related resources available from the [NLB catalogue](http://catalogue.nlb.gov.sg/) or the Internet. It is not meant to be an exhaustive list.
+Below is a selection of related resources available from the [NLB catalogue](https://catalogue.nlb.gov.sg/) or the Internet. It is not meant to be an exhaustive list.
 
 ### <u>On Artists</u>
 
@@ -98,8 +99,7 @@ Call no.: RCLOS English 759.9595 UNI
 On her return to Singapore after her studies at École Nationale Supérieure des Beaux-Arts in Paris, Lai Foong Moi brought back with her the paintings created during this time. This catalogue features these artworks.
 
 
-* National Library Board. (2017). [Ong Kim Seng](https://eresources.nlb.gov.sg/infopedia/articles/SIP_462_2005-01-17.html) written by Nureza Ahmad. Retrieved 21 March 2018, from Singapore Infopedia. <br>
-URL: https://eresources.nlb.gov.sg/infopedia/articles/SIP_462_2005-01-17.html
+* National Library Board. (2017). [Ong Kim Seng](https://www.nlb.gov.sg/main/article-detail?cmsuuid=ac9e7628-152b-4b3d-b65c-ca869e202688) written by Nureza Ahmad. Retrieved 21 March 2018, from Singapore Infopedia. <br>
 
 An article providing biographical information on eminent watercolourist and Cultural Medallion winner Ong Kim Seng about his life and achievements, including some of the publications he has produced over the years.
 
@@ -159,26 +159,22 @@ The Singapore Urban Sketchers group presents this compilation of illustrations b
 ### <u>On Subject</u>
 
 
-* National Library Board. (2016). [Cavenagh Bridge](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2_2004-12-17.html) written by Vernon Cornelius. Retrieved 21 March, 2018 from Singapore Infopedia.<br>
-URL: https://eresources.nlb.gov.sg/infopedia/articles/SIP_2_2004-12-17.html
+* National Library Board. (2016). [Cavenagh Bridge](https://www.nlb.gov.sg/main/article-detail?cmsuuid=563a3d5a-6323-49a4-8f38-fccfd2855c6c) written by Vernon Cornelius. Retrieved 21 March, 2018 from Singapore Infopedia.<br>
 
 Completed in 1869, Cavenagh Bridge is the oldest bridge across the Singapore River. This article gives the history and description about the bridge along with references.
 
 
-* National Library Board. (2001). [The Esplanade written by Vernon Cornelius-Takahama](https://eresources.nlb.gov.sg/infopedia/articles/SIP_149_2004-12-13.html). Retrieved 21 March, 2018 from Singapore Infopedia.<br>
-URL: https://eresources.nlb.gov.sg/infopedia/articles/SIP_149_2004-12-13.html
+* National Library Board. (2021). [The Padang](https://www.nlb.gov.sg/main/article-detail?cmsuuid=c3c58307-b306-4a38-846f-a0b7f13c0a7e) written by Joanna Tan. Retrieved 21 March, 2018 from Singapore Infopedia.<br>
 
 The Esplanade (or Padang) was a field originally by the sea before the 1843 reclamation. This article provides information about the history and some of the historic activities from colonial times to present day.
 
 
-* National Library Board. (2010). [CHIJMES](https://eresources.nlb.gov.sg/infopedia/articles/SIP_828_2004-12-15.html) written by Joanna HS Tan. Retrieved 21 March, 2018 from Singapore Infopedia.<br>
-URL: https://eresources.nlb.gov.sg/infopedia/articles/SIP_828_2004-12-15.html
+* National Library Board. (2010). [CHIJMES](https://www.nlb.gov.sg/main/article-detail?cmsuuid=a1145bd1-7c99-4dce-ba0b-2626122ebdbd) written by Joanna HS Tan. Retrieved 21 March, 2018 from Singapore Infopedia.<br>
 
 CHIJMES was originally known as the Convent of the Holy Infant Jesus, a premier girls’ school established in 1854. This article provides information on the history and its role in early education in Singapore.
 
 
-* National Library Board. (2002). [National Library Building (Stamford Road)](http://eresources.nlb.gov.sg/infopedia/articles/SIP_661_2004-12-27.html) written by Anasuya Balamururgan. Retrieved 21 March, 2018 from Singapore Infopedia.<br>
-URL: http://eresources.nlb.gov.sg/infopedia/articles/SIP_661_2004-12-27.html
+* National Library Board. (2002). [National Library Building (Stamford Road)](https://www.nlb.gov.sg/main/article-detail?cmsuuid=62e46445-56be-4ea1-917d-f0b0fb5220eb) written by Anasuya Balamururgan. Retrieved 21 March, 2018 from Singapore Infopedia.<br>
 
 Officially opened on 12 November 1960, the distinctive red-brick building was said to reflect the red-brick epoch of British architecture in the 1950s. This article gives the history and description of the now demolished building.
 
@@ -296,31 +292,28 @@ The opening chapter provides a brief survey of the Chinese tradition of ink brus
 ### <u>On Subject</u>
 
 
-* [Ann Siang Hill general view](http://eresources.nlb.gov.sg/pictures/Details/a4812fea-038d-4d7d-8c40-4a0aaf5988c0) \[Photograph\]. Retrieved 21 March, 2018 from PictureSG.<br>
-URL: http://eresources.nlb.gov.sg/pictures/Details/a4812fea-038d-4d7d-8c40-4a0aaf5988c0
+* [Ann Siang Hill general view](https://www.nlb.gov.sg/main/image-detail?cmsuuid=a4812fea-038d-4d7d-8c40-4a0aaf5988c0) \[Photograph\]. Retrieved 21 March, 2018 from PictureSG.<br>
 
 A 1983 photograph showing Ann Siang Hill, from Club Street.
 
 
 * Annaliza Bakri. (2017). [Sikit-sikit lama-lama jadi bukit](http://eservice.nlb.gov.sg/item_holding.aspx?bid=203055395). Singapore: Math Paper Press.
-
 Call no: RSING 899.281 SIK
 
 This bilingual publication includes a poem by Isa Kamari on Haji Lane.
 
 
-* National Library Board. (2016). [Ann Siang Road](http://eresources.nlb.gov.sg/infopedia/articles/SIP_329_2005-01-20.html) written by Thulaja, Naidu Ratnala. Retrieved March 21, 2018 from Singapore Infopedia.
+* National Library Board. (2016). [Ann Siang Road](https://www.nlb.gov.sg/main/article-detail?cmsuuid=aa5c3ef9-b547-4718-9214-99296446f404) written by Thulaja, Naidu Ratnala. Retrieved March 21, 2018 from Singapore Infopedia.
 
 A short introduction to the history of Ann Siang Road, which was named after a wealthy businessman. The article focuses on the historic buildings around the area and the richly decorated shophouses.
 
 
-* National Library Board. (2016). [Sri Mariamman Temple (historic site next to Ann Siang Road)](http://eresources.nlb.gov.sg/infopedia/articles/SIP_778_2004-12-23.html) written by Tan, Bonny and Chew, Valerie. Retrieved March 21, 2018 from Singapore Infopedia.
+* National Library Board. (2016). [Sri Mariamman Temple (historic site next to Ann Siang Road)](https://www.nlb.gov.sg/main/article-detail?cmsuuid=f4cc6f9a-ba52-4a91-bc85-e7232c2e572b) written by Tan, Bonny and Chew, Valerie. Retrieved March 21, 2018 from Singapore Infopedia.
 
 This Infopedia article describes the oldest Hindu temple on the South Bridge road which also the reason why the temple was called as South Bridge Mariamman temple. The article gives a brief account of the history, the development and the historical places around the temple.
 
 
-* Singapore. Archives and Oral History Dept (1983). [Chinatown : an album of a Singapore community = 牛车水](http://eservice.nlb.gov.sg/item_holding.aspx?bid=3213762). Singapore: Times Books International : Archives and Oral History Dept..
-
+* Singapore. Archives and Oral History Dept (1983). [Chinatown : an album of a Singapore community = 牛车水](http://eservice.nlb.gov.sg/item_holding.aspx?bid=3213762). Singapore: Times Books International : Archives and Oral History Dept.
 Call no: RSING 779.995957 CHI
 
 This publication features photographs and other documents exhibited at the “Exhibition of Chinatown” organised by the Archives &amp; Oral History Department from 31 March – 10 April 1983. The images and documents come with brief write-ups and captions. A map (circa 1846) by Government Surveyor Mr. John Turnbull Thomson is featured on p.16, which includes areas around Ann Siang Hill (then Scott’s Hill).
@@ -357,12 +350,11 @@ Loy Chye Chuan<br>
 
 A self-taught artist, Loy started painting in 1958 and established himself as a watercolour artist by learning from other established artists like Lim Cheng Hoe in the 1960s, eventually developing his own style. Loy’s works include landscape scenery and street scenes of an older Singapore, using bright colours to inject a fresh and lively feel to them. Loy is one of the thirteen founding members of the Singapore Watercolour Society.
 
-Below is a selection of related resources available from the [NLB catalogue](http://catalogue.nlb.gov.sg/) or the Internet. It is not meant to be an exhaustive list.
+Below is a selection of related resources available from the [NLB catalogue](https://catalogue.nlb.gov.sg/) or the Internet. It is not meant to be an exhaustive list.
 
 ### <u>On Artists</u>
 
 * [25 years of watercolour painting in Singapore](http://eservice.nlb.gov.sg/item_holding.aspx?bid=7028751). (1994). Singapore: Singapore Watercolour Society.
-
 Call no.: RSING 759.95957074 TWE
 
 Published in conjunction with the Singapore Watercolour Society’s 25th anniversary exhibition, this book includes a brief history of the society as well as the exhibited artworks and artists. A number of the paintings are also paired with poems by Singapore poet, Koh Buck Song.
@@ -388,7 +380,6 @@ Features 81 of Lim’s artistic representations of Singapore’s recent past, in
 
 
 * Loy, L. C. (2011). [Loy Chye Chuan’s watercolour world](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14235474). Singapore: Loy Chye Chuan.
-
 Call no.: RSING Chinese 759.95957 LCC
 
 Includes a foreword by the artist which briefly introduces his artistic philosophy and creative journey as an artist. The book highlights Loy’s paintings chronologically from 1960 to 2011, which features his scenic artworks of Singapore, Malaysia, Brunei and China.
@@ -398,35 +389,30 @@ Includes a foreword by the artist which briefly introduces his artistic philosop
 
 
 * Caine’s Gallery. (1995).  [The President’s Watercolour Selections](http://eservice.nlb.gov.sg/item_holding.aspx?bid=7516795). Singapore: President’s Office. 
-
 Call no.: RSING 759.95957074 PRE -\[SRN\] 
 
 As part of a charity art exhibition, twenty-two watercolour artists showcased their works and raised funds for charity. In addition to the twenty-two paintings, this exhibition publication features essays on watercolour by Ong Kim Seng and Leong Weng Kam.
 
 
 * National Museum. (1993). [Journey of ink: National Museum Art Gallery](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6467870). Singapore: National Museum.
-
 Call no.: RSING 759.95957 JOU
 
 Published in conjunction with the exhibition of the same name, this publication includes an essay titled ‘A perspective on the development of ink painting in Singapore’ by Kwok Kian Chow and Chua Ek Kay.
 
 
 * Parramon, J. M. (1993). [The complete book of watercolour: the history, materials, techniques, theory and practice of watercolour](http://eservice.nlb.gov.sg/item_holding.aspx?bid=8840997). London: Phaidon Press.
-
 Call no.: RART 751.422 PAR
 
 Encyclopedic in scope, this publication touches on the history and early masters of watercolour and takes a practical look at the material, tools and drawing needed for any aspiring watercolourists.
 
 
 * Singapore Art Museum. (1999).  [Power and poetry: Monuments and meditations in Chinese contemporary ink painting](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12875648). Singapore: Singapore Art Museum.
-
 Call no.: RSING 759.95957 POW
 
 An exhibition publication featuring three contemporary ink artists: Chua Ek Kay, Zhuang Shengtao and Henri Chen KeZhan. Provides interpretation of brushstrokes, motifs and concepts in modern Chinese ink painting through selected artworks.
 
 
 * Taylor, R. (2005). [Buildings in watercolour](http://eservice.nlb.gov.sg/item_holding.aspx?bid=12546131). London: Collins.
-
 Call no.: RART q751.42244 TAY
 
 An introductory book on painting buildings in watercolour, tips on colour, tone, perspectives and architectural details are covered. Guided steps are provided for the painting of selected building.
@@ -436,34 +422,29 @@ An introductory book on painting buildings in watercolour, tips on colour, tone,
 
 
 * Davison, J. (2010). [Singapore shophouse](http://eservice.nlb.gov.sg/item_holding.aspx?bid=13735527). Singapore: Talisman.
-
 Call no.: RSING 720.95957 DAV
 
 An in-depth study into the history and architecture of shophouses in Singapore, this book details its defining architectural characteristics, the development of shophouse styles and contemporary uses and features of shophouses.
 
 
 * Kong, L. (2011). [Conserving the past, creating the future: Urban heritage in Singapore](http://eservice.nlb.gov.sg/item_holding.aspx?bid=13816245). Singapore: Urban Redevelopment Authority.
-
 Call no.: RSING 363.69095957 KON
 
 Traces the history of Singapore’s conservation journey through policies and stories as well as the views of Singaporeans and foreigners about the urban heritage of our nation. This is one of the most comprehensive monographs on Singapore’s urban heritage conservation history, with rich photographs of Singapore streets then and now, and maps of historic districts.
 
 
 * Liu, G. (1984). [Pastel portraits: Singapore’s architectural heritage](http://eservice.nlb.gov.sg/item_holding.aspx?bid=4082440). Singapore: Singapore Coordinating Committee.
-
 Call no.: RSING 722.4095957 PAS
 
 Featuring Singapore’s pre-World War II architecture, this book explores the “Singapore Eclectic style” which combined elements of Chinese, Malay, Indian and European architectural style. The book highlights facades and architectural features of 17 selected areas, which includes Chinatown and Ann Siang Hill.
 
 
-* National Library Board. (2016) [Five-foot-way traders](http://eresources.nlb.gov.sg/infopedia/articles/SIP_105_2005-01-04.html) written by Thulaja, Naidu Ratnala. Retrieved March 21, 2018 from Singapore Infopedia.<br>
-URL: http://eresources.nlb.gov.sg/infopedia/articles/SIP_105_2005-01-04.html
+* National Library Board. (2016) [Five-foot-way traders](https://www.nlb.gov.sg/main/article-detail?cmsuuid=604a6d18-793d-4919-af9b-5ef014ba2141) written by Thulaja, Naidu Ratnala. Retrieved March 21, 2018 from Singapore Infopedia.<br>
 
 A short introduction to history of five-foot-ways which are unique architectural features of Malayan shophouses. The article focuses on the different trades plied along these narrow walkways as a means of earning a living.
 
 
-* National Library Board. (2016). [Sago Street](http://eresources.nlb.gov.sg/infopedia/articles/SIP_349_2005-01-11.html) written by Thulaja, Naidu Ratnala. Retrieved March 21, 2018 from Infopedia.<br>
-URL: http://eresources.nlb.gov.sg/infopedia/articles/SIP_349_2005-01-11.html
+* National Library Board. (2016). [Sago Street](https://www.nlb.gov.sg/main/article-detail?cmsuuid=37ce01ca-63fa-4819-bcdf-9b0ee55c9f5c) written by Thulaja, Naidu Ratnala. Retrieved March 21, 2018 from Infopedia.<br>
 
 Briefly introduces the history of how Sago Street got its name, its colourful history in the early 20th century and the different names accorded to the street by different dialect groups in the past.
 

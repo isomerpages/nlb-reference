@@ -3,6 +3,7 @@ title: Nature
 permalink: /guides/arts/visual-arts/artxstacks/nature/
 description: ""
 third_nav_title: Art X Stacks
+variant: markdown
 ---
 # Art X Stacks - Nature
 
@@ -46,15 +47,15 @@ In this section, we learn more about how nature features in the visual arts, fro
 
 ####  Infopedia articles 
 
-* [Singapore Botanic Gardens](https://eresources.nlb.gov.sg/infopedia/articles/SIP_545_2005-01-24.html)
+* [Singapore Botanic Gardens](https://www.nlb.gov.sg/main/article-detail?cmsuuid=b6422d18-428b-4150-9fd8-f0bab6ed5853)
 
-* [Heritage Tree Scheme](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-09-28_143310.html)
+* [Heritage Tree Scheme](https://www.nlb.gov.sg/main/article-detail?cmsuuid=95ce9bec-972c-442a-b7f9-62c245c776ea)
 
-* [Punggol Zoo](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2016-03-14_140006.html)
+* [Punggol Zoo](https://www.nlb.gov.sg/main/article-detail?cmsuuid=1473095b-ceb1-460e-9f12-d4b8357743be)
 
-* [Chek Jawa](https://eresources.nlb.gov.sg/infopedia/articles/SIP_256_2005-01-03.html)
+* [Chek Jawa](https://www.nlb.gov.sg/main/article-detail?cmsuuid=2a03daf2-006e-4412-957b-c800505dc129)
 
-* [Nature Society (Singapore)](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1437_2009-02-19.html)
+* [Nature Society (Singapore)](https://www.nlb.gov.sg/main/article-detail?cmsuuid=9aa5811a-2a84-440a-b7da-9eb8c88557a6)
 
 ###### [Back to top](#contents)
 
@@ -84,4 +85,4 @@ When city-living becomes unbearable in our concrete jungle, perhaps all we need 
 
 ---
 
-*This Resource Guide was compiled by Luke Chua, a Senior Librarian at the National Library, Singapore. The information in this guide is valid as of March 2023 and correct as far as we can ascertain from our sources. This list is not intended to be exhaustive or comprehensive. Please contact us at <ref@nlb.gov.sg> for more reading material on the topics.*
+*This Resource Guide was compiled by Luke Chua, a Senior Librarian at the National Library, Singapore. The information in this guide is valid as of March 2023 and correct as far as we can ascertain from our sources. This list is not intended to be exhaustive or comprehensive. Please contact us at  for more reading material on the topics.*

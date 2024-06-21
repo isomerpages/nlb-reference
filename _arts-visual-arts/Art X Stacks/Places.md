@@ -3,6 +3,7 @@ title: Places
 permalink: /guides/arts/visual-arts/artxstacks/places/
 description: ""
 third_nav_title: Art X Stacks
+variant: markdown
 ---
 # Art X Stacks - Places
 
@@ -22,7 +23,7 @@ In this section, we delve deeper into the history of the places portrayed in the
 
 | Book                                                         | Description                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![](/images/arts/visualarts/Art%20X%20Stacks/singaporeriversocialhistory.jpg) | Dobbs, Stephen. [*The Singapore River: A Social History, 1819-2002*](https://eservice.nlb.gov.sg/item_holding.aspx?id=12149559). Singapore: NUS Press, 2016.<br><br>Blending social history, geography, economic history and urban studies, Dobbs sets out the history of the Singapore River and of the people who made it their home and workplace. This text should be of interest to anyone wishing to understand Singapore's many transformations during the past two centuries. Also available as an [ebook](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203715582)   |
+| ![](/images/arts/visualarts/Art%20X%20Stacks/singaporeriversocialhistory.jpg) | Dobbs, Stephen. [*The Singapore River: A Social History, 1819-2002*](https://eservice.nlb.gov.sg/item_holding.aspx?id=12149559). Singapore: NUS Press, 2016.<br><br>Blending social history, geography, economic history and urban studies, Dobbs sets out the history of the Singapore River and of the people who made it their home and workplace. This text should be of interest to anyone wishing to understand Singapore's many transformations during the past two centuries. Also available as an [ebook](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=203715582)   |
 | ![](/images/arts/visualarts/Art%20X%20Stacks/cleanrivers.jpg) | [*Clean Rivers: Cleaning up of Singapore River and Kallang Basin*](https://eservice.nlb.gov.sg/item_holding.aspx?id=4425326). Singapore: Ministry of the Environment, 1987.<br><br>Commemorating the completion of a 10-year clean-up of the Singapore River and Kallang Basin, this booklet gives an introduction of the project, including its objectives, action plan and results.  |
 | ![](/images/arts/visualarts/Art%20X%20Stacks/singaporelifeline.jpg) | Oral History Department. [*Singapore Lifeline: The River and Its People*](https://eservice.nlb.gov.sg/item_holding.aspx?id=4182975). Singapore: Times Books International, 1986.<br><br>This is a publication on the history of Singapore River by the Oral History Department and the National Archives. It contains maps and photographs of the Singapore River’s transformation as a vital artery of trade and transportation. |
 | ![](/images/arts/visualarts/Art%20X%20Stacks/singaporeriverwalk.jpg) | Ng, Marcus. [*Singapore River Walk*](https://eservice.nlb.gov.sg/item_holding.aspx?id=202919344). Singapore: National Heritage Board, 2016.<br><br>Produced by the National Heritage Board (NHB), this guidebook provides a history of the Singapore River, with photographs and interviews relating memories of the river. A section of the guidebook focuses on the bridges across the Singapore River. A digital copy can also be downloaded from [Roots.sg](https://www.roots.gov.sg/nhb/singapore-river-walk).  |
@@ -53,39 +54,39 @@ In this section, we delve deeper into the history of the places portrayed in the
 
 Singapore River and Chinatown
 
-* [Singapore River communities](https://eresources.nlb.gov.sg/infopedia/articles/SIP_498_2004-12-27.html)
+* [Singapore River communities](https://www.nlb.gov.sg/main/article-detail?cmsuuid=b821c72a-9035-49e8-bcb7-a95bbd9443c9)
 
-* [Singapore River (historical overview)](https://eresources.nlb.gov.sg/infopedia/articles/SIP_148_2005-02-02.html)
+* [Singapore River (historical overview)](https://www.nlb.gov.sg/main/article-detail?cmsuuid=011fc400-0632-453b-8520-12ada317e263)
 
-* [Source of the Singapore River](https://eresources.nlb.gov.sg/infopedia/articles/SIP_181_2005-01-25.html)
+* [Source of the Singapore River](https://www.nlb.gov.sg/main/article-detail?cmsuuid=bfa73636-a812-42ea-8923-f82c70fdbac9)
 
-* [Raffles Town Plan (Jackson Plan)](https://eresources.nlb.gov.sg/infopedia/articles/SIP_658_2005-01-07.html)
+* [Raffles Town Plan (Jackson Plan)](https://www.nlb.gov.sg/main/article-detail?cmsuuid=ed0c1981-882f-42c2-9acf-e5dae577a3ba)
 
-* [Chinatown](https://eresources.nlb.gov.sg/infopedia/articles/SIP_734_2005-01-24.html)
+* [Chinatown](https://www.nlb.gov.sg/main/article-detail?cmsuuid=e965a1df-e1be-4016-a1a1-dc86bc2bc107)
 
 Bridges across the Singapore River
 
-* [Elgin Bridge](https://eresources.nlb.gov.sg/infopedia/articles/SIP_921_2004-12-10.html)
+* [Elgin Bridge](https://www.nlb.gov.sg/main/article-detail?cmsuuid=361eaff3-9999-437e-b57f-375313b46ffd)
 
-* [Cavenagh Bridge](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2_2004-12-17.html)
+* [Cavenagh Bridge](https://www.nlb.gov.sg/main/article-detail?cmsuuid=563a3d5a-6323-49a4-8f38-fccfd2855c6c)
 
-* [Coleman Bridge](https://eresources.nlb.gov.sg/infopedia/articles/SIP_151_2004-12-16.html)
+* [Coleman Bridge](https://www.nlb.gov.sg/main/article-detail?cmsuuid=20e7b062-2af1-4ec6-a509-848bf670ccf0)
 
-* [Read Bridge](https://eresources.nlb.gov.sg/infopedia/articles/SIP_28_2004-12-24.html)
+* [Read Bridge](https://www.nlb.gov.sg/main/article-detail?cmsuuid=df446a5b-96e8-4da1-ae2d-f4906b3636aa)
 
-* [Anderson Bridge](https://eresources.nlb.gov.sg/infopedia/articles/SIP_923_2004-12-24.html)
+* [Anderson Bridge](https://www.nlb.gov.sg/main/article-detail?cmsuuid=13e377d8-020f-4eb6-935b-e9ee85ccdfc4)
 
 National Day parades
 
-* [National Stadium](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1441_2009-02-09.html)
+* [National Stadium](https://www.nlb.gov.sg/main/article-detail?cmsuuid=927b5e64-1e1b-46e2-9ca4-5240faa50247)
 
-* [Singapore Sports Hub](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-10-26_160204.html)
+* [Singapore Sports Hub](https://www.nlb.gov.sg/main/article-detail?cmsuuid=7e5e5cac-b017-46a8-857b-cb4368170e92)
 
-* [Singapore’s first National Day celebrations](https://eresources.nlb.gov.sg/infopedia/articles/SIP_524_2004-12-29.html)
+* [Singapore’s first National Day celebrations](https://www.nlb.gov.sg/main/article-detail?cmsuuid=940d166f-bc56-4442-8a15-eb530a9447d4)
 
-* [National Day Songs](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-03-11_165927.html)
+* [National Day Songs](https://www.nlb.gov.sg/main/article-detail?cmsuuid=07d7e2c6-e52c-4be5-9d0b-eb9080448908)
 
-* [The Padang](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2021-11-15_154605.html)
+* [The Padang](https://www.nlb.gov.sg/main/article-detail?cmsuuid=c3c58307-b306-4a38-846f-a0b7f13c0a7e)
 
 ###### [Back to top](#contents)
 
@@ -97,12 +98,12 @@ Even though the geographical location of the Singapore River and Chinatown have 
 
 #### Spotlight: Photographs
 
-Photographs are often considered documentary in nature, but they can also offer us more intimate views of the cityscape, especially scenes which may no longer exist. Across NL’s [PictureSG](https://eresources.nlb.gov.sg/pictures) and NAS’ [Archives Online](https://www.nas.gov.sg/archivesonline), you will find a wealth of images that give us a glimpse of Singapore in the past.
+Photographs are often considered documentary in nature, but they can also offer us more intimate views of the cityscape, especially scenes which may no longer exist. Across NL’s [National Library Online](https://www.nlb.gov.sg/main/nlonline) and NAS’ [Archives Online](https://www.nas.gov.sg/archivesonline), you will find a wealth of images that give us a glimpse of Singapore in the past.
 
 Here are some photographs of the Singapore River, Chinatown and the former National Stadium. Visit PictureSG and Archives Online for more photographs of these and other sites in Singapore. 
 
-* View of [street in Chinatown](https://eresources.nlb.gov.sg/pictures/Details/1101a755-53b7-4c2a-b8d0-970de5cba737), 1950s
-* View of [Chinatown and its outskirts](https://eresources.nlb.gov.sg/pictures/Details/86fb7031-7ac2-48e4-a764-795fe1c38962), 1890s
+* View of [street in Chinatown](https://www.nlb.gov.sg/main/image-detail?cmsuuid=1101a755-53b7-4c2a-b8d0-970de5cba737), 1950s
+* View of [Chinatown and its outskirts](https://www.nlb.gov.sg/main/image-detail?cmsuuid=86fb7031-7ac2-48e4-a764-795fe1c38962), 1890s
 * [ Images of Cavanagh Bridge and Anderson Bridge, with the Elgin Bridge](https://www.nas.gov.sg/archivesonline/photographs/record-details/3402c1eb-5f70-11e6-b4c5-0050568939ad) under construction, c.1942
 * [Singapore River](https://www.nas.gov.sg/archivesonline/photographs/record-details/216d4408-1162-11e3-83d5-0050568939ad), 1905
 * [The former National Stadium under construction](https://www.nas.gov.sg/archivesonline/photographs/record-details/a90f8558-1162-11e3-83d5-0050568939ad), 1971
@@ -131,13 +132,13 @@ If the photographs in our collections have whetted your appetite, you can explor
 
 After watching the National Day Parade, you may be inspired to belt out some beloved National Day songs in the privacy of your home. NL’s MusicSG collection will equip you with lyrics, scores and histories of these songs. MusicSG is an archive set up to digitise, archive and provide access to all forms of Singapore musical works. It assembles a collection of music composed or published by Singaporeans, music produced or published in Singapore, and music related to Singapore.
 
-Read [an article on the National Day songs](https://eresources.nlb.gov.sg/music/opencmscontent.aspx?id=c6b02ce4-985b-4ecd-bc50-2f2af521fe75) before listening to a [medley](https://eresources.nlb.gov.sg/music/music/track/7892323f-fffe-4353-aaf4-f9077d489c61), including [_Stand up for Singapore_](https://eresources.nlb.gov.sg/music/music/track/959a82ef-f618-483b-8b26-9dbb51a59444), one of Singapore’s first National Day songs composed by Hugh Harrison in 1984. If you are musically trained, you might be interested in scores for songs such as [_Count on Me Singapore_](https://eresources.nlb.gov.sg/music/opencmscontent.aspx?id=67f2b22f-d4b8-4f0c-85dc-dd834d131d20) or [Dick Lee’s _Home_](https://eresources.nlb.gov.sg/music/opencmscontent.aspx?id=f20da4c8-69fb-4e4c-8e71-a72c0a0de591) which is one of the most popular National Day songs among Singaporeans. First performed by local singer Kit Chan in 1998, the song is remembered by many Singaporeans who can sing it from memory.
+Read [an article on the National Day songs](https://eresources.nlb.gov.sg/music/opencmscontent.aspx?id=c6b02ce4-985b-4ecd-bc50-2f2af521fe75) before listening to a [medley](https://www.nlb.gov.sg/main/track-detail?cmsuuid=7892323f-fffe-4353-aaf4-f9077d489c61), including [_Stand up for Singapore_](https://www.nlb.gov.sg/main/track-detail?cmsuuid=959a82ef-f618-483b-8b26-9dbb51a59444), one of Singapore’s first National Day songs composed by Hugh Harrison in 1984. If you are musically trained, you might be interested in scores for songs such as [_Count on Me Singapore_](https://eresources.nlb.gov.sg/music/opencmscontent.aspx?id=67f2b22f-d4b8-4f0c-85dc-dd834d131d20) or [Dick Lee’s _Home_](https://eresources.nlb.gov.sg/music/opencmscontent.aspx?id=f20da4c8-69fb-4e4c-8e71-a72c0a0de591) which is one of the most popular National Day songs among Singaporeans. First performed by local singer Kit Chan in 1998, the song is remembered by many Singaporeans who can sing it from memory.
 
 ###### [Back to top](#contents)
 
 ---
 
-*This Resource Guide was compiled by Luke Chua, a Senior Librarian at the National Library, Singapore. The information in this guide is valid as of March 2023 and correct as far as we can ascertain from our sources. This list is not intended to be exhaustive or comprehensive. Please contact us at <ref@nlb.gov.sg> for more reading material on the topics.*
+*This Resource Guide was compiled by Luke Chua, a Senior Librarian at the National Library, Singapore. The information in this guide is valid as of March 2023 and correct as far as we can ascertain from our sources. This list is not intended to be exhaustive or comprehensive. Please contact us at  for more reading material on the topics.*
 
 ---
 

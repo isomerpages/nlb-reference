@@ -4,8 +4,9 @@ permalink: /guides/singapore/people/leong-yoon-pin/
 breadcrumb: Leong Yoon Pin
 collection_name: singapore-people
 third_nav_title: I to S
-published: true
+published: "true"
 description: ""
+variant: markdown
 ---
 # Leong Yoon Pin
 
@@ -28,7 +29,7 @@ description: ""
 
 Leong Yoon Pin (梁荣平; b. 5 August 1931, Singapore–d. 13 April 2011, Singapore) was a composer, conductor and educator. Described as the doyen of Singapore composers, Leong was well-known for his choral compositions, many of which were locally commissioned and performed by both amateur and professional choirs. His compositions were often infused with a local flavour. Leong was awarded the Cultural Medallion in 1982.
 
-<img src="/images/arts/performingarts/Leong-Yoon-Pin-half-length-portrait.jpg" alt="Leong yoon pin image" style="width:500px;" />
+<img src="/images/arts/performingarts/Leong-Yoon-Pin-half-length-portrait.jpg" alt="Leong yoon pin image" style="width:500px;">
 
 © Eric Foo Chee Meng, 1979-2001. All rights reserved.<br>
 Courtesy of the National Arts Council.<br>
@@ -96,16 +97,16 @@ For Peters, Singapore’s musical fabric is a juxtaposition of cultures of Asia 
 * Phan, M. Y. (2002). Leong Yoon Pin. In V. Purushothaman (Ed.), [Narratives: Notes on a cultural journey: Cultural medallion recipients 1979 – 2001](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11769181) (pp. 98-99). Singapore: National Arts Council.
 Call no.: RSING 700.95957 NAR
 
-In this National Arts Council publication dedicated to Cultural Medallion Recipients (1979-2001), Phan introduces Leong as a Cultural Medallion Recipient who has made a mark on musical development in Singapore. This two-page essay is structured in a question and answer (Q&A) format, with Leong responding to questions such as the inspiration for his works to his role as a musical pioneer in Singapore.
+In this National Arts Council publication dedicated to Cultural Medallion Recipients (1979-2001), Phan introduces Leong as a Cultural Medallion Recipient who has made a mark on musical development in Singapore. This two-page essay is structured in a question and answer (Q&amp;A) format, with Leong responding to questions such as the inspiration for his works to his role as a musical pioneer in Singapore.
 
 
-* Phoon, Y. T. (2002). Leong Yoon Pin. In K. W. Kwok, A. Mahizhnan & T. Sasitharan (Eds.), [Selves: The state of the arts in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10798830) (pp. 204-205). Singapore: National Arts Council, 2002.
+* Phoon, Y. T. (2002). Leong Yoon Pin. In K. W. Kwok, A. Mahizhnan &amp; T. Sasitharan (Eds.), [Selves: The state of the arts in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10798830) (pp. 204-205). Singapore: National Arts Council, 2002.
 
 Call no.: RSING 700.95957 SEL
 This is a brief discussion of Leong’s five decades of musical contributions from a composer’s perspective. The author was a composition student of Leong. As to Leong’s compositional style, Phoon draws parallels with Russian nationalists such as Borodin and Tchaikovsky to the more recent Prokofiev and Shostakovich.
 
 
-* Soh, K. C., & Leong, Y. P. (1984). Active approach to music-making (Kodaly-based): A summative evaluation. Singapore: Institute of Education.
+* Soh, K. C., &amp; Leong, Y. P. (1984). Active approach to music-making (Kodaly-based): A summative evaluation. Singapore: Institute of Education.
 Call no.: No holdings in NL (Available in NIE Library)
 
 This is essentially a survey-based evaluation of the revised 1984 music text Active Approach to Music-Making (Module 1) for local primary schools. A questionnaire was answered by seventy teachers from twenty eight Pilot and Non-Pilot schools and the findings were published in this book.
@@ -117,13 +118,13 @@ Call no.: RSING 700.95957 NAR
 Tan briefly traces the musical beginnings of Singapore, providing a context to the awarding of the Cultural Medallion for musicians from the first winners Choo Hoey and David Lim Kim San in 1979, to the first composer Leong Yoon Pin in 1982, and others. In addition, choral music, Asian music cultures, and Singapore’s musical future are broached.
 
 
-* Tan, S. E. (2002). Notes from a small island: A review of recent musical traditions. In K. W. Kwok, A. Mahizhnan & T. Sasitharan (Eds.), [Selves: The state of the arts in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10798830) (pp. 28-47). Singapore: National Arts Council.
+* Tan, S. E. (2002). Notes from a small island: A review of recent musical traditions. In K. W. Kwok, A. Mahizhnan &amp; T. Sasitharan (Eds.), [Selves: The state of the arts in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10798830) (pp. 28-47). Singapore: National Arts Council.
 Call no.: RSING 700.95957 SEL
 
 Tan approaches her topic from both political and ethnological perspectives. Wide in scope, she considers the government’s role in shaping the local music scene through sponsorship schemes, Singapore’s colonial baggage, cultural identity, various ethnic music, and also discusses popular and rock music in the local scene, amongst others. Leong is mentioned briefly in relation to his compositions that were performed by the Singapore Symphony Orchestra (SSO) and Singapore Lyric Opera (SLO).
 
 
-* Ting, C. S., Leong, Y. P., & Tan, B. (1991). Singapore. In H. Ryker (Ed.), [New music in the orient: Essays on composition in Asia since World War II](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6386985) (pp. 97-114). Buren, Netherlands: Frits Knuf Publishers.
+* Ting, C. S., Leong, Y. P., &amp; Tan, B. (1991). Singapore. In H. Ryker (Ed.), [New music in the orient: Essays on composition in Asia since World War II](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6386985) (pp. 97-114). Buren, Netherlands: Frits Knuf Publishers.
 Call no.: RSING 780.95 NEW
 
 This chapter discusses compositional practices prior to Singapore’s independence, musical institutions after 1965, Singapore composers and their work, music in the 1980s, and the composer in Singapore society. Leong’s music is briefly discussed in the last section on Singaporean composers (pp.105-107). These include Largo and Vivace for string orchestra, Dance Suite for orchestra, Songs of the Phoenix for choir and orchestra, and the tone poem Episode from Journey to the West for orchestra with Chinese percussion instruments.
@@ -220,7 +221,7 @@ Seah previews Leong’s first opera Bunga Mawar, a collaboration with Edwin Thum
 Tan investigates this altercation between SSO and Singaporean composers, set off by Shui Lan’s provocative comment that Singaporean composers “did not meet international standards”. Opinions were gathered from the local music community as well as from Singaporeans based overseas. In two short paragraphs, Leong shares his view on whether preferential treatment should be given to Singaporean artistes, arguing that local works should not be judged from a western perspective. He maintains that there should be a deliberate creation of space to expose and discover young musicians.
 
 
-* Chia, H-L. (2000, February-March). Life of a composer: Leong Yoon Pin. [The Arts](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/EXPNOS/BIBENQ?BRN=7448591), 17-20.
+* Chia, H-L. (2000, February-March). Life of a composer: Leong Yoon Pin. [The Arts](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7448591), 17-20.
 Call no.: RSING 700.5 A
 
 This interview-style article explores Leong’s compositional outlook. Questions such as Leong’s preferred medium, the relationship between composer, conductor and the audience, Singapore’s musical identity, etc. are put forth. This article also includes a brief timeline from 1948 to 1982, a list of commissioned works from 1980 to 1999, and Leong’s compositional oeuvre from 1953-1987 (the latter in Chinese and without translation).
@@ -242,7 +243,7 @@ In this Chinese essay, Leong argues that Singapore does not yet have a common st
 A review of Leong’s Feasting in the Woods, performed by the SSO. Van highlights Leong’s penchant to frame sound pictures, “which change subtly with instrumental grouping”. She also infers the work’s programmatic content through the composer’s use of instrumental timbres.
 
 
-* Chew, G. (2000, July-August). Music in the making. [Esplanade: The Arts Magazine](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/EXPNOS/BIBENQ?BRN=8101252), 28-29.
+* Chew, G. (2000, July-August). Music in the making. [Esplanade: The Arts Magazine](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=8101252), 28-29.
 Call no.: RSING 791.095957 E
 
 This is essentially publicity for the launch of the SSO’s Composers-in-Residence Scheme—a scheme made possible by the benefactors Mr and Mrs Goh Geok Khim. Leong was the choice composer of the Selection Committee. Shui Lan compares the then local music scene to “America in the early twentieth century where they were still unsure of their own musical identity and played more European music . . . this is a step forward for local music and composition . . .”. See further Tan Shzr Ee’s article in The Straits Times (1999, March 22). [Classical divide: Support S’pore talent or lose it](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19990322-1.2.84.4.1).
@@ -284,24 +285,24 @@ This article talks about the musical journey of Leong of how he became a musicia
 This articles pays tribute to Leong when he passed away on 13 April from pneumonia. The article traces his life and key works, and conveys the respect and memories of Leong by eminent composers of artists like Phoon Yew Tien, Bernard Tan and Lim Yau.
 
 
-* 周文龙 & 王舒杨 [Zhou, W. L. & Wang, S. Y.] (2011, April 14). [没有他就没有今日新加坡音乐: 音乐界人士惋惜梁荣平逝世](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20110414-1.2.47.5.1) [There wouldn’t be today’s Singapore music without him: music industry players remember Leong Yoon Pin]. 联合早报 Lianhe Zaobao. Retrieved from NewspaperSG.
+* 周文龙 &amp; 王舒杨 [Zhou, W. L. &amp; Wang, S. Y.] (2011, April 14). [没有他就没有今日新加坡音乐: 音乐界人士惋惜梁荣平逝世](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20110414-1.2.47.5.1) [There wouldn’t be today’s Singapore music without him: music industry players remember Leong Yoon Pin]. 联合早报 Lianhe Zaobao. Retrieved from NewspaperSG.
 
 Singapore music industry players Zechariah Goh (吴多才), Tan Ngian Hong (陈仰丰), Choo Thiam Siew (朱添寿), Quek Yong Siu (郭永秀) and Lee Yuk Chuan (李煜传) shares about Leong’s contribution, character and passion in this tribute to Leong on his passing.
 
 
 ### <u>Audio and Video Recordings (Interviews)</u>
 
-* Chou, C. (Interviewer). (1994, June 4). [Oral history interview with Leong Yoon Pin](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/43daab67-115e-11e3-83d5-0050568939ad?keywords=leong%20yoon%20pin&keywords-type=all) [MP3 Recording no. 001490/04/01-04]. Retrieved July 11, 2017, from National Archives of Singapore website: http://www.nas.gov.sg/archivesonline.
+* Chou, C. (Interviewer). (1994, June 4). [Oral history interview with Leong Yoon Pin](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/43daab67-115e-11e3-83d5-0050568939ad?keywords=leong%20yoon%20pin&amp;keywords-type=all) [MP3 Recording no. 001490/04/01-04]. Retrieved July 11, 2017, from National Archives of Singapore website: https://www.nas.gov.sg/archivesonline.
 
 In 1994, researcher Cindy Chou conducted a one and a half hour interview with Leong for a Special Project (Music). Leong’s early childhood and family background, professional career and affiliations, compositional style, and the local music scene were topics of discussion. Transcript available.
 
 
-* Sng, S. (Interviewer). (2004, October 8 – 2006, October 23). [Oral history interview with Bernard Tan Tiong Gie](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/008d1737-115f-11e3-83d5-0050568939ad) [MP3 Recording 002893/105/02, 31, 60, 62 – 65, 68, 87]. Retrieved July 11, 2017, from National Archives of Singapore website: http://www.nas.gov.sg/archivesonline.
+* Sng, S. (Interviewer). (2004, October 8 – 2006, October 23). [Oral history interview with Bernard Tan Tiong Gie](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/008d1737-115f-11e3-83d5-0050568939ad) [MP3 Recording 002893/105/02, 31, 60, 62 – 65, 68, 87]. Retrieved July 11, 2017, from National Archives of Singapore website: https://www.nas.gov.sg/archivesonline.
 
 An audio interview with Bernard Tan, whose discussion of the Singapore music scene include Leong’s involvement with amateur and professional groups in the 1950s, a comparison of English and Chinese choral societies, Leong’s conducting career, and Singapore politics in the 1950s, amongst others. The interview was conducted over an extended period of time.
 
 
-* Tan, E. A. L. (Interviewer). (2007, April 12 & 13).  [Leong Yoon Pin, Cultural Medallion Recipient, 1982 Music](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13202659) \[DVD\]. Singapore: National Library Board Singapore.
+* Tan, E. A. L. (Interviewer). (2007, April 12 &amp; 13).  [Leong Yoon Pin, Cultural Medallion Recipient, 1982 Music](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13202659) \[DVD\]. Singapore: National Library Board Singapore.
 Call no.: RSING 780.92 LEO (Also available on National Online Repository of the Arts (NORA))
 
 The 1982 Cultural Medallion Recipient for music, Leong Yoon Pin, relates how he started working life as a primary school teacher, how he got interested in music and composing, as well as wide-ranging topics such as conducting, his works, his involvement with the Singapore Symphony Orchestra. The video also includes notes of appreciation from admirers.
@@ -317,67 +318,67 @@ Recorded live at the Palazzo dei Congressi, Riva del Garda, Italy on 7 April 199
 
 
 * 梁荣平. [Liang, R. P.] (1998). 雄心 [Aspiration]. [我愿意是急流及通俗合唱曲十首 : 梁荣平音乐作品集](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84579149) [Like a rapid stream and ten light choral works] \[CD]\. Singapore: Metro Philharmonic Society.
-Call no.: RSING 782.5 LRP (Also available on [MusicSG](http://eresources.nlb.gov.sg/music/music/track/a09eac67-5e0d-4d4f-a438-a0bb21b1d484))
+Call no.: RSING 782.5 LRP (Also available on [NL Online](https://www.nlb.gov.sg/main/track-detail?cmsuuid=a09eac67-5e0d-4d4f-a438-a0bb21b1d484))
 
 Based on a poem by 程文恺 about nature and giving. Performed by the Metro Philharmonic Choir and Echo Philharmonic Choir with So Heng (苏恒) on piano.
 
 
 * 梁荣平. [Liang, R. P.] (1998). 微弱 [Counting the stars]. [我愿意是急流及通俗合唱曲十首 : 梁荣平音乐作品集](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84579149) [Like a rapid stream and ten light choral works] \[CD\]. Singapore: Metro Philharmonic Society.
-Call no.: RSING 782.5 LRP (Also available on [MusicSG](http://eresources.nlb.gov.sg/music/music/track/2bf64904-626a-4a4d-8bdf-90164b69ba65))
+Call no.: RSING 782.5 LRP (Also available on [NL Online](https://www.nlb.gov.sg/main/track-detail?cmsuuid=2bf64904-626a-4a4d-8bdf-90164b69ba65))
 
 Based on a poem by 方玮德. Performed by the Metro Philharmonic Choir and Echo Philharmonic Choir with So Heng (苏恒) on piano.
 
 
 * 梁荣平. [Liang, R. P.] (1998). 早安啊大地 [Good morning motherland]. [我愿意是急流及通俗合唱曲十首 : 梁荣平音乐作品集](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84579149) [Like a rapid stream and ten light choral works] \[CD\]. Singapore: Metro Philharmonic Society.
-Call no.: RSING 782.5 LRP (Also available on [MusicSG](http://eresources.nlb.gov.sg/music/music/track/819dfcc3-dd7e-4eac-9cfa-e02f79abfa0b))
+Call no.: RSING 782.5 LRP (Also available on [NL Online](https://www.nlb.gov.sg/main/track-detail?cmsuuid=819dfcc3-dd7e-4eac-9cfa-e02f79abfa0b))
 
 Based on a poem by 三发. Performed by the Metro Philharmonic Choir and Echo Philharmonic Choir with So Heng (苏恒) on piano.
 
 
 * 梁荣平. [Liang, R. P.] (1998). 生活是多么广阔 [Life is like the ocean]. [我愿意是急流及通俗合唱曲十首 : 梁荣平音乐作品集](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84579149) [Like a rapid stream and ten light choral works] \[CD\]. Singapore: Metro Philharmonic Society.
-Call no.: RSING 782.5 LRP (Also available on [MusicSG](http://eresources.nlb.gov.sg/music/music/track/299554a9-8f32-4287-8103-ad7d4b7cf9dd))
+Call no.: RSING 782.5 LRP (Also available on [NL Online](https://www.nlb.gov.sg/main/track-detail?cmsuuid=299554a9-8f32-4287-8103-ad7d4b7cf9dd))
 
 Based on a poem by 何其芳 about how life is as wide as the ocean and to live life to the fullest with passion. Performed by the Metro Philharmonic Choir and Echo Philharmonic Choir with So Heng (苏恒) on piano.
 
 
 * 梁荣平. [Liang, R. P.] (1998). 我愿意是急流 [Like a rapid stream]. [我愿意是急流及通俗合唱曲十首 : 梁荣平音乐作品集](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84579149)  [Like a rapid stream and ten light choral works] \[CD\]. Singapore: Metro Philharmonic Society.
-Call no.: RSING 782.5 LRP (Also available on [MusicSG](http://eresources.nlb.gov.sg/music/music/track/4f1396a8-11c2-48e8-b978-1e23f4487056) and [NORA](http://eresources.nlb.gov.sg/arts/web/contents/ArticleDetails.aspx?Id=29df5fc2-1942-4731-a118-d4c3ec00cd19))
+Call no.: RSING 782.5 LRP (Also available on [NL Online](https://www.nlb.gov.sg/main/track-detail?cmsuuid=4f1396a8-11c2-48e8-b978-1e23f4487056))
 
 Based on a poem by Hungarian poet Sandor Petof (1823-1849), translated by Sun Yong (孙用). The poem is set to music for an 8-part double chorus by Leong Yoon Pin in 1981 at the invitation of Lim Yau. Performed by the Metro Philharmonic Choir and Echo Philharmonic Choir with So Heng (苏恒) on piano.
 
 
 * 梁荣平. [Liang, R. P.] (1998). 马林百列 [Marine Parade]. [我愿意是急流及通俗合唱曲十首 : 梁荣平音乐作品集](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84579149) \[CD\]. Singapore: Metro Philharmonic Society.
-Call no.: RSING 782.5 LRP (Also available on [MusicSG](http://eresources.nlb.gov.sg/music/music/track/d1400cdb-21dc-415e-bd74-62c623512203))
+Call no.: RSING 782.5 LRP (Also available on [NL Online](https://www.nlb.gov.sg/main/track-detail?cmsuuid=d1400cdb-21dc-415e-bd74-62c623512203))
 
 Based on a poem by 谢清 about Marine Parade by the sea. Performed by the Metro Philharmonic Choir and Echo Philharmonic Choir with So Heng (苏恒) on piano.
 
 
 * 梁荣平. [Liang, R. P.] (1998). 洗琉琅 [Mendulang]. [我愿意是急流及通俗合唱曲十首 : 梁荣平音乐作品集](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84579149) [Like a rapid stream and ten light choral works] \[CD\]. Singapore: Metro Philharmonic Society.
-Call no.: RSING 782.5 LRP (Also available on [MusicSG](http://eresources.nlb.gov.sg/music/music/track/e3dd9144-c1df-4e79-878a-5581b029897a))
+Call no.: RSING 782.5 LRP (Also available on [NL Online](https://www.nlb.gov.sg/main/track-detail?cmsuuid=e3dd9144-c1df-4e79-878a-5581b029897a))
 
 Based on a poem by 曹莽 about women who worked as dulang (tin pan) washers to extract tin, a dominant industry in Malaya at one time. Performed by the Metro Philharmonic Choir and Echo Philharmonic Choir with So Heng (苏恒) on piano.
 
 
-* 梁荣平. [Liang, R. P.] (1998). 歌唱高山和大海 [Of mountains & seas]. [我愿意是急流及通俗合唱曲十首 : 梁荣平音乐作品集](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84579149) [Like a rapid stream and ten light choral works] \[CD\]. Singapore: Metro Philharmonic Society.
-Call no.: RSING 782.5 LRP (Also available on [MusicSG](http://eresources.nlb.gov.sg/music/music/track/5895bc81-7385-461b-ab20-10ea3a1405a3))
+* 梁荣平. [Liang, R. P.] (1998). 歌唱高山和大海 [Of mountains &amp; seas]. [我愿意是急流及通俗合唱曲十首 : 梁荣平音乐作品集](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84579149) [Like a rapid stream and ten light choral works] \[CD\]. Singapore: Metro Philharmonic Society.
+Call no.: RSING 782.5 LRP (Also available on [NL Online](https://www.nlb.gov.sg/main/track-detail?cmsuuid=5895bc81-7385-461b-ab20-10ea3a1405a3))
 
 Based on a poem by 灿煌, praising the beauty of mountains and seas. Performed by the Metro Philharmonic Choir and Echo Philharmonic Choir with So Heng (苏恒) on piano.
 
 
 * 梁荣平. [Liang, R. P.] (1998). 蓝蓝的海 [The sea is blue].  [我愿意是急流及通俗合唱曲十首 : 梁荣平音乐作品集](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84579149) [Like a rapid stream and ten light choral works] [CD]. Singapore: Metro Philharmonic Society.
-Call no.: RSING 782.5 LRP (Also available on [MusicSG](http://eresources.nlb.gov.sg/music/music/track/e2a4ab1b-6d50-435a-bfb2-8b9ef3d32c2b))
+Call no.: RSING 782.5 LRP (Also available on [NL Online](https://www.nlb.gov.sg/main/track-detail?cmsuuid=e2a4ab1b-6d50-435a-bfb2-8b9ef3d32c2b))
 
 Based on a poem by 周粲 and 郑民威. Performed by the Metro Philharmonic Choir and Echo Philharmonic Choir with So Heng (苏恒) on piano.
 
 
 * 梁荣平. [Liang, R. P.] (1998). 我为少男少女们歌唱 [Singing for my lads and lasses]. [我愿意是急流及通俗合唱曲十首 : 梁荣平音乐作品集](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84579149) [Like a rapid stream and ten light choral works] \[CD\]. Singapore: Metro Philharmonic Society.
-Call no.: RSING 782.5 LRP (Also available on [MusicSG](http://eresources.nlb.gov.sg/music/music/track/c7a969f7-4abf-4d62-be49-efe66614ebf9))
+Call no.: RSING 782.5 LRP (Also available on [NL Online](https://www.nlb.gov.sg/main/track-detail?cmsuuid=c7a969f7-4abf-4d62-be49-efe66614ebf9))
 
 Based on a poem by 何其芳 about the hope of youth. Performed by the Metro Philharmonic Choir and Echo Philharmonic Choir with So Heng (苏恒) on piano.
 
 
 * 梁荣平. [Liang, R. P.] (1998). 快把这地球扫一扫 [Sweep clean the earth]. [我愿意是急流及通俗合唱曲十首 : 梁荣平音乐作品集](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84579149) [Like a rapid stream and ten light choral works] \[CD\]. Singapore: Metro Philharmonic Society.
-Call no.: RSING 782.5 LRP (Also available on [MusicSG](http://eresources.nlb.gov.sg/music/music/track/7c2e8e37-2a38-4c82-a5d2-8b8dba76595d))
+Call no.: RSING 782.5 LRP (Also available on [NL Online](https://www.nlb.gov.sg/main/track-detail?cmsuuid=7c2e8e37-2a38-4c82-a5d2-8b8dba76595d))
 
 Based on a poem by 杜红 about spring cleaning. Performed by the Metro Philharmonic Choir and Echo Philharmonic Choir with So Heng (苏恒) on piano.
 
@@ -389,13 +390,13 @@ Recorded at the Hollywood Recording Studio, Singapore from 28 April to 1 May 199
 
 
 * Leong, Y. P. (2000). Azure sky. On [Asian choral works 1](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12104203) \[CD\]. Singapore: Singapore Youth Choir.
-Call no.: RSING 782.542 SIN (Also available on [MusicSG](http://eresources.nlb.gov.sg/music/music/track/23c67c6c-f0be-42e5-a394-68f6dc2284e8))
+Call no.: RSING 782.542 SIN (Also available on [NL Online](https://www.nlb.gov.sg/main/track-detail?cmsuuid=23c67c6c-f0be-42e5-a394-68f6dc2284e8))
 
 This song 《碧云天》 was recorded in concert in March 1999, Victoria Concert Hall, Singapore.
 
 
 * Leong, Y. P. (2000). Nightmare. [Asian choral works 1](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12104203) \[CD\]. Singapore: Singapore Youth Choir.
-Call no.: RSING 782.542 SIN (Also available on [MusicSG](http://eresources.nlb.gov.sg/music/music/track/1f42bbb5-e84a-43d5-a2c0-c48a80b4007d))
+Call no.: RSING 782.542 SIN (Also available on [NL Online](https://www.nlb.gov.sg/main/track-detail?cmsuuid=1f42bbb5-e84a-43d5-a2c0-c48a80b4007d))
 
 Recorded in Jan – Mar 2000 at Victoria Concert Hall, Singapore, with Shane Thio on piano.
 
@@ -406,22 +407,22 @@ Call no.: RSING/RAV 782.5 LRP
 A collection of songs arranged by Leong and performed by the Metro Philharmonic Choir. Songs include 《春之歌》, 《春风的耳语》, 《恭喜大家今年好》, 《海岛之春》, 《新对花》, 《恭喜发财》, 《新年歌儿大家唱》, 《哩哩哩》, 《迎春花》, 《欢迎你们远方的朋友》, 《启程远航》, 《告别海港》, 《上茶山》, 《紫竹调》, 《种稻》 and 《假日营组歌》.
 
 
-* 梁荣平. [Liang, R. P.] (2007).  [Holiday camp song cycle = 假日营组歌](http://eresources.nlb.gov.sg/arts/web/contents/ArticleDetails.aspx?Id=d7a6bd2d-32c6-4d87-a5a5-427b32686392) \[wav\]. Retrieved from NORA.
+* 梁荣平. [Liang, R. P.] (2007).  [Holiday camp song cycle = 假日营组歌](https://www.nlb.gov.sg/main/music-article-detail?cmsuuid=d7a6bd2d-32c6-4d87-a5a5-427b32686392) \[wav\]. Retrieved from NL Online.
 
 In seven movements, this is an extended song cycle written early in Leong’s career (1969). The writing here is mostly tonal, with conventional harmonic progressions. Throughout Holiday Camp, Leong gives the pianist a more active involvement in the initiating of rhythms, melodies, and in mood setting. Though the piano writing can be awkward, there is a greater sense of purpose when tasked to provide counter melodies or rhythmic and melodic opposition to the voices.
 
 
-* 梁荣平. [Liang, R. P.] (2007). [Nine cantos = 九歌](http://eresources.nlb.gov.sg/arts/web/contents/ArticleDetails.aspx?Id=24c9d811-fb5d-422f-82e0-ae6b156d47df) \[wav\]. Retrieved from NORA.
+* 梁荣平. [Liang, R. P.] (2007). [Nine cantos = 九歌](https://www.nlb.gov.sg/main/music-article-detail?cmsuuid=24c9d811-fb5d-422f-82e0-ae6b156d47df) \[wav\]. Retrieved from NL Online.
 
 This is one of Leong’s more substantial choral work composed in 1986. Based on the work of poet patriot Qu Yuan who lived during the time of China’s Warring States Period, Nine Cantos is in eleven sections and is programmatic in nature. Set in the beautiful province of Hunan, the narrative elements in this poem allow for greater interplay between the voices and the supporting instruments, the piano and percussion. The varied timbre of the percussion instruments (glockenspiel, tambourine, temple bells, timpani, Chinese drum, etc.) provides Leong with the opportunity to characterize each section with a distinctive timbre. There is also greater independence of parts between the piano and percussion. Though the piano assumes a variety of styles across different movements, it is mostly cast in a supportive role, reinforcing choral parts, or sometimes offering momentum to relatively static vocal parts. The eleven sections: Monarch of the East 《东皇太一》, Lord of the Clouds 《云中君》, Lord and Lady of Xiang (1) 《湘君/湘夫人(上)》, Lord and Lady of Xiang (2) 《湘君/湘夫人(下)》, Master of Fate 《大司命》, Young Master of Fate (少司命), Lord of the East 《东君》, River Deity 《河伯》, Mountain Goddess 《山鬼》, Hymn of the Fallen Warriors 《国薚》 and Ritual Finale 《礼魂》.
 
 
-* 梁荣平. [Liang, R. P.] (2007).  [The peacock’s east-southerly flight: secular cantata for voice and piano = 孔雀東南飛](http://eresources.nlb.gov.sg/arts/web/contents/ArticleDetails.aspx?Id=670b509e-b0c0-471d-8c0a-563d2b7ca320) \[wav\]. Retrieved from NORA.
+* 梁荣平. [Liang, R. P.] (2007).  [The peacock’s east-southerly flight: secular cantata for voice and piano = 孔雀東南飛](https://www.nlb.gov.sg/main/music-article-detail?cmsuuid=670b509e-b0c0-471d-8c0a-563d2b7ca320) \[wav\]. Retrieved from NL Online.
 
 Written in 1962, The text tells the story of ill-fated lovers destined to be together only in death. The vocal writing in The Peacock’s East-Southerly Flight is patriotic in style, with many recognizable pentatonic turns of phrase. Leong maintains that this is the influence of Teochew street operas or wayangs he witnessed in his youth.
 
 
-* 梁荣平. [Liang, R. P.] (2007).  [Story of Mulan = 木兰诗](http://eresources.nlb.gov.sg/arts/web/contents/ArticleDetails.aspx?Id=47858b47-6c13-4553-ad65-33efdfe8b129) \[wav\]. Retrieved from NORA.
+* 梁荣平. [Liang, R. P.] (2007).  [Story of Mulan = 木兰诗](https://www.nlb.gov.sg/main/music-article-detail?cmsuuid=47858b47-6c13-4553-ad65-33efdfe8b129) \[wav\]. Retrieved from NL Online.
 
 Leong’s first composition in 1953, this may be perceived as Leong’s musical representation of Mulan’s defiance of social norms and her war against the invaders.
 
@@ -436,42 +437,42 @@ A collection of songs sung by various school choirs, recorded on 25th August 200
 (in chronological order)
 
 * Leong, Y. P. (1993). Episodes in Journey to the West. [Symphonic works of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6540142) \[CD\]. Singapore: National Arts Council.
-Call no.: RSING 784.2 LEO (Also available on [MusicSG](http://eresources.nlb.gov.sg/music/music/track/d99c488a-fd68-4d80-b73f-d9ad3aa48c28))
+Call no.: RSING 784.2 LEO (Also available on [NL Online](https://www.nlb.gov.sg/main/track-detail?cmsuuid=d99c488a-fd68-4d80-b73f-d9ad3aa48c28))
 
 Composed in 1983, this music was created as part of Leong’s reflection on certain interesting episodes from the famous Chinese novel Journey to the West (《西游记》). It is in three continuous movements.
 Performed by Singapore Symphony Orchestra, conducted by Lim Yau. The album was produced as a documentation project of the National Arts Council.
 
 
 * Leong, Y. P. (1993). Giocoso: Largamente. [Symphonic works of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6540142) \[CD\]. Singapore: National Arts Council.
-Call no.: RSING 784.2 LEO (Also available on [MusicSG](http://eresources.nlb.gov.sg/music/music/track/2044326a-0110-4050-975b-0b34ba84c23c))
+Call no.: RSING 784.2 LEO (Also available on [NL Online](https://www.nlb.gov.sg/main/track-detail?cmsuuid=2044326a-0110-4050-975b-0b34ba84c23c))
 
 The third movement of Leong’s Second Symphony, which was completed in 1979 and premiered in the same year by the Metro Philharmonic Society’s chorus and orchestra. It is based on the poetic sentiments of the poet Li Bai.
 Performed by Singapore Symphony Orchestra, conducted by Lim Yau. The album was produced as a documentation project of the National Arts Council.
 
 
 * Leong, Y. P. (1993). Largo: Vivace. [Symphonic works of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6540142) \[CD\]. Singapore: National Arts Council.
-Call no.: RSING 784.2 LEO (Also available on [MusicSG](http://eresources.nlb.gov.sg/music/music/track/99aa26fe-4912-415b-82a9-5457bd1d1a31))
+Call no.: RSING 784.2 LEO (Also available on [NL Online](https://www.nlb.gov.sg/main/track-detail?cmsuuid=99aa26fe-4912-415b-82a9-5457bd1d1a31))
 
 Composed in 1982, Largo is in 2 distinct sections of which Vivace‘s basic rhythm is taken from a Fujian folk song.
 Performed by Singapore Symphony Orchestra, conducted by Lim Yau. The album was produced as a documentation project of the National Arts Council.
 
 
 * Leong, Y. P. (1993). Metamorphosis. [Symphonic works of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6540142) \[CD\]. Singapore: National Arts Council.
-Call no.: RSING 784.2 LEO (Also available on [MusicSG](http://eresources.nlb.gov.sg/music/music/track/f2040816-239c-47ce-a898-58adac748496))
+Call no.: RSING 784.2 LEO (Also available on [NL Online](https://www.nlb.gov.sg/main/track-detail?cmsuuid=f2040816-239c-47ce-a898-58adac748496))
 
 Metamorphosis was composed in 1993 as a special commission for the Singapore Youth Orchestra for the 1993 Kumamoto Festival in Japan.
 Performed by Singapore Symphony Orchestra, conducted by Lim Yau. The album was produced as a documentation project of the National Arts Council.
 
 
 * Leong, Y. P. (1993). Overture “Dayong Sampan”. [Symphonic works of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6540142) \[CD\]. Singapore: National Arts Council.
-Call no.: RSING 784.2 LEO (Also available on [MusicSG](http://eresources.nlb.gov.sg/music/music/track/1e4b8ba1-afa9-4d83-9f28-f10d9b5a5fb7))
+Call no.: RSING 784.2 LEO (Also available on [NL Online](https://www.nlb.gov.sg/main/track-detail?cmsuuid=1e4b8ba1-afa9-4d83-9f28-f10d9b5a5fb7))
 
 Based on the Malay folk song Dayong Sampan, this 1980 work was the first Singaporean composition performed by the Singapore Symphony Orchestra.
 Performed by Singapore Symphony Orchestra, conducted by Choo Hoey. The album was produced as a documentation project of the National Arts Council.
 
 
 * Leong, Y. P. (1993). Temasekian. [Symphonic works of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6540142) \[CD\]. Singapore: National Arts Council.
-Call no.: RSING 784.2 LEO (Also available on [MusicSG](http://eresources.nlb.gov.sg/music/music/track/4e0f5d82-3100-4039-802f-193003e303ad))
+Call no.: RSING 784.2 LEO (Also available on [NL Online](http://eresources.nlb.gov.sg/music/music/track/4e0f5d82-3100-4039-802f-193003e303ad))
 
 Composed in 1990, the Temasekian is a symphonic tribute to Singapore’s pioneering forefathers who sailed the high seas to arrive in the tropical lands of Malaya.
 Performed by Singapore Symphony Orchestra, conducted by Lim Yau. The album was produced as a documentation project of the National Arts Council.
@@ -489,7 +490,7 @@ Call no.: RSING 784.2 SYN
 Metamorphosis was composed in 1993 as a special commission for the Singapore Youth Orchestra for the 1993 Kumamoto Festival in Japan. Performed by Singapore National Youth Orchestra, conducted by Lim Yau.
 
 
-* 梁荣平. [Liang, R. P.] (2007).  [Concerto for harmonica = 口琴協奏曲](http://eresources.nlb.gov.sg/arts/web/contents/ArticleDetails.aspx?Id=f519c85c-0ab9-4f86-9b06-13bf30fbc586) \[wav\]. Retrieved from NORA.
+* 梁荣平. [Liang, R. P.] (2007).  [Concerto for harmonica = 口琴協奏曲](https://www.nlb.gov.sg/main/music-article-detail?cmsuuid=f519c85c-0ab9-4f86-9b06-13bf30fbc586) \[wav\]. Retrieved from NL Online.
 
 This piece was first performed in 1980 by 马少良 (Ma Shaoliang). Written for the harmonica with piano accompaniment, the music is in 3 parts.
 
@@ -835,12 +836,12 @@ The following websites contain useful information on this topic.
 A short write-up of the Leong Yoon Pin collection at the National Academy of Fine Arts, that was donated in 2012.
 
 
-* National Library Board (2011). [Leong Yoon Pin](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1357_2008-12-30.html) written by Eleanor A. L. Tan. Retrieved July 12, 2017, from Singapore Infopedia.
+* National Library Board (2011). [Leong Yoon Pin](https://www.nlb.gov.sg/main/article-detail?cmsuuid=04da9fec-9b2a-4041-9722-d34fbaaf4ad8) written by Eleanor A. L. Tan. Retrieved July 12, 2017, from Singapore Infopedia.
 
 A biography of Leong Yoon Pin that talks about his life and education, musical achievements, his role as an educator, awards and a chronological listing of some of his works.
 
 
-* National Library Board (2011). [Cultural Medallion Recipient: Leong Yoon Pin](http://eresources.nlb.gov.sg/arts/web/Contents/ArtistDetails.aspx?Id=04da9fec-9b2a-4041-9722-d34fbaaf4ad8). Retrieved July 12, 2017 from National Online Repository of the Arts (NORA).
+* National Library Board (2011). [Cultural Medallion Recipient: Leong Yoon Pin](https://www.nlb.gov.sg/main/music-article-detail?cmsuuid=4316d98a-eafa-4cd7-8e52-7c8042bcf6fd). Retrieved July 12, 2017 from National Online Repository of the Arts (NORA).
 
 This site provides a selection of key works digitised as part of NLB’s NORA project. There is also an interview with Leong produced as part of the documentation project.
 
@@ -868,7 +869,7 @@ This is the programme booklet for the “New Music Forum” concert held on 14 N
 
 <b><u>Accessing the Print Materials</u></b>
 
-You can search the library catalogue (for physical materials) in the library and from home (<http://catalogue.nlb.gov.sg>). The easy search function allows you to search/browse by author, title, keyword, subject and ISBN/ISSN whereas the advanced search allows you to narrow your searches to specific media types or language holdings. In both instances, you will also be able to limit your search to specific libraries by clicking on the “limit by branch” option.
+You can search the library catalogue (for physical materials) in the library and from home (). The easy search function allows you to search/browse by author, title, keyword, subject and ISBN/ISSN whereas the advanced search allows you to narrow your searches to specific media types or language holdings. In both instances, you will also be able to limit your search to specific libraries by clicking on the “limit by branch” option.
 
 **To search Lee Kong Chian Reference Library’s Holdings**
 

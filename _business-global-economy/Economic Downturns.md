@@ -32,7 +32,7 @@ To learn more about economic downturns and their impact as well as how Singapore
 
 [^5]: Rolf, J. (2009). Singapore in Its Worst Recession for Years. The Effects of the Current Economic Crisis on the City-States Economy. *Journal of Current Southeast Asian Affairs* 28, No. 4 (2009): 95–110. Retrieved 2024, May 30 from [https://doi.org/10.1177/186810340902800405](https://doi.org/10.1177/186810340902800405)
 
-[^6]: Asian Financial Crisis Erupts. *National Library Bpard.* Retrieved 2024, May 30 from [https://www.nlb.gov.sg/main/article-detail?cmsuuid=87709dd7-72ae-47e2-876c-60544bb25e00(https://www.nlb.gov.sg/main/article-detail?cmsuuid=87709dd7-72ae-47e2-876c-60544bb25e00)
+[^6]: Asian Financial Crisis Erupts. *National Library Bpard.* Retrieved 2024, May 30 from [https://www.nlb.gov.sg/main/article-detail?cmsuuid=87709dd7-72ae-47e2-876c-60544bb25e00](https://www.nlb.gov.sg/main/article-detail?cmsuuid=87709dd7-72ae-47e2-876c-60544bb25e00)
 
 [^7]: Woo, J. J. (2018). Singapore's Approach to Handling Economic Crisis. *Lee Kuan Yew School of Public Policy*, 1–20. Retrieved 2024, May 30 from [https://lkyspp.nus.edu.sg/docs/default-source/case-studies/singapores_approach_to_managing_economic_crises_22052018_lowres.pdf?sfvrsn=7387660a_0](https://lkyspp.nus.edu.sg/docs/default-source/case-studies/singapores_approach_to_managing_economic_crises_22052018_lowres.pdf?sfvrsn=7387660a_0)
 
@@ -48,7 +48,7 @@ Claessens, S. &amp; Kose, M. A. (2020, February 24). Recession: When bad times p
 <h5>3. <a href="https://www.cato.org/cato-journal/springsummer-2019/ten-lessons-economic-crisis-2008" target="_blank">Ten Lessons from the economic crisis of 2008</a></h5>
 Summer, S. (2019). Ten Lessons from the economic crisis of 2008. United States: Cato Journal. <i>Cato Institute.</i> 39(2). 449–459. Retrieved 2020, May 30.
 
-<h5>4. <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1530_2009-06-09.html" target="_blank">Asian financial crisis 1997–1998</a></h5>
+<h5>4. <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=6a94eaac-75ec-41ff-b5ef-38154ccae4e0" target="_blank">Asian financial crisis 1997–1998</a></h5>
 Chew, V. (2016). Asian financial crisis 1997–1998. *Infopedia, National Library Board.* Retrieved 2020, May 30.
 
 <h5>5. <a href="https://www8.gsb.columbia.edu/articles/ideas-work/have-we-learned-lessons-great-recession" target="_blank">Have we learned the lessons of the great recession?</a></h5>

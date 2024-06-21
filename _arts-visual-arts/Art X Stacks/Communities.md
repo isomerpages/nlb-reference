@@ -3,6 +3,7 @@ title: Communities
 permalink: /guides/arts/visual-arts/artxstacks/communities/
 description: ""
 third_nav_title: Art X Stacks
+variant: markdown
 ---
 # Art X Stacks - Communities 
 The artworks on Level 9 of the library give us a glimpse of life in the past, whether it is *kampong* living or shopping at the street markets. The following resources will shed more light on how various communities made their homes in Singapore and developed different lifestyles and cultural practices. In this section, we will also hear the perspectives of various communities, either through oral history interviews or through songs and poems.
@@ -29,8 +30,8 @@ The artworks on Level 9 of the library give us a glimpse of life in the past, wh
 | ![](/images/arts/visualarts/Art%20X%20Stacks/vanishingtradesofsingapore.jpg) | Lo-Ang, Siew Ghim, and Chua Chee Huan, eds. [*Vanishing Trades of Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?id=6313327). Singapore: Oral History Department, 1992. <br><br>Occupations such as glove puppeteer, charcoal dealer and letter writers may be unfamiliar to contemporary society, but through documentation such as the one undertaken in this book, we are able to hear the stories of craftsmen engaged in such work. |
 | ![](/images/arts/visualarts/Art%20X%20Stacks/thefoodofsingaporemalays.jpg) | Khir Johari. [*The Food of Singapore Malays: Gastronomic Travels through the Archipelago.*](https://eservice.nlb.gov.sg/item_holding.aspx?id=205498204). Singapore: Marshall Cavendish Editions, 2021.<br><br>This comprehensive tome is not just a cookbook, as it explores the culinary and social history of the region, and how food is interconnected with history, worldviews and cultural identity. Packed with photographs, recipes and research covering 7th century Srivijaya to 21st century Singapore, this book will delight everyone with an affinity for food.  |
 | ![](/images/arts/visualarts/Art%20X%20Stacks/kampongdays.jpg) | [*Kampong Days: Village Life and Times in Singapore Revisited*](https://eservice.nlb.gov.sg/item_holding.aspx?id=6434970). Singapore: National Archives, 1993.<br><br>This book provides a brief introduction to the history of *kampongs* in Singapore and the types of *kampong* dwellings, as seen through the perspectives of various individuals such as housewives and working adults.   |
-| ![](/images/arts/visualarts/Art%20X%20Stacks/hdbhomesofsingapore.jpg) | Miyauchi, Tomohisa, and Keyakismos. [*HDB Homes of Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?id=202803200). Singapore: Keyakismos, 2017. <br><br>HDB, the acronym for Housing & Development Board, has come to be synonymous with the public housing apartments in Singapore. This volume celebrates the diversity and individuality of these flats by taking the reader into a wide array of homes through photographs and interviews.  |
-| ![](/images/arts/visualarts/Art%20X%20Stacks/goodbyemykampong.jpg) | Chia, Josephine. [*Goodbye My Kampong*](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204385721). Singapore: Ethos Books, 2020. <br><br>A sequel to Chia’s 2014 title, *Kampong Spirit – Gotong Royong: Life in Potong Pasir, 1955 to 1965*, this book charts the largest mass movement in Singapore with the phasing out of attap-thatched villages. With the collection of non-fiction stories set against significant national events, this volume gives us a glimpse of an important period of transition in Singapore’s urban history.   |
+| ![](/images/arts/visualarts/Art%20X%20Stacks/hdbhomesofsingapore.jpg) | Miyauchi, Tomohisa, and Keyakismos. [*HDB Homes of Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?id=202803200). Singapore: Keyakismos, 2017. <br><br>HDB, the acronym for Housing &amp; Development Board, has come to be synonymous with the public housing apartments in Singapore. This volume celebrates the diversity and individuality of these flats by taking the reader into a wide array of homes through photographs and interviews.  |
+| ![](/images/arts/visualarts/Art%20X%20Stacks/goodbyemykampong.jpg) | Chia, Josephine. [*Goodbye My Kampong*](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=204385721). Singapore: Ethos Books, 2020. <br><br>A sequel to Chia’s 2014 title, *Kampong Spirit – Gotong Royong: Life in Potong Pasir, 1955 to 1965*, this book charts the largest mass movement in Singapore with the phasing out of attap-thatched villages. With the collection of non-fiction stories set against significant national events, this volume gives us a glimpse of an important period of transition in Singapore’s urban history.   |
 
 ###### [Back to top](#contents)
 
@@ -52,39 +53,39 @@ The artworks on Level 9 of the library give us a glimpse of life in the past, wh
 
 Communities in Singapore and Southeast Asia
 
-* [The Baweanese](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1069_2007-06-20.html) (Boyanese)
+* [The Baweanese](https://www.nlb.gov.sg/main/article-detail?cmsuuid=1c347e28-5925-4992-8dad-e2d702bfe634) (Boyanese)
 
-* [Orang Laut](https://eresources.nlb.gov.sg/infopedia/articles/SIP_551_2005-01-09.html)
+* [Orang Laut](https://www.nlb.gov.sg/main/article-detail?cmsuuid=e586ffef-6277-4c3d-b463-bd14eefc914f)
 
-* [Peranakan (Straits Chinese) community](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-08-30_181745.html)
+* [Peranakan (Straits Chinese) community](https://www.nlb.gov.sg/main/article-detail?cmsuuid=1138ea9d-9dbe-4f09-9fef-ba2c7105eb91)
 
-* [Eurasian community](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-08-06_115106.html)
+* [Eurasian community](https://www.nlb.gov.sg/main/article-detail?cmsuuid=45dd95f2-31e0-4f7c-b264-dabc79907fbe)
 
-* [Tamil community](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-08-12_114422.html)
+* [Tamil community](https://www.nlb.gov.sg/main/article-detail?cmsuuid=7cf8b115-d8bd-492a-825b-8aa47235dadd)
 
 Communities and their homes
 
-* [Kampong Lorong Buangkok](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1128_2009-12-09.html)
+* [Kampong Lorong Buangkok](https://www.nlb.gov.sg/main/article-detail?cmsuuid=e1b16980-6628-4391-af99-2389c35150d1)
 
-* [Chinese villages in the North](https://eresources.nlb.gov.sg/infopedia/articles/SIP_385_2011-01-07.html)
+* [Chinese villages in the North](https://www.nlb.gov.sg/main/article-detail?cmsuuid=d9bead6a-36c2-4c51-84f6-027b977d94a1)
 
-* [Queenstown](https://eresources.nlb.gov.sg/infopedia/articles/SIP_404_2005-01-18.html) (the first satellite town in Singapore)
+* [Queenstown](https://www.nlb.gov.sg/main/article-detail?cmsuuid=1dc1cdc8-1f9f-4a52-8237-71a768739ef7) (the first satellite town in Singapore)
 
-* [Public housing in Singapore](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1585_2009-10-26.html)
+* [Public housing in Singapore](https://www.nlb.gov.sg/main/article-detail?cmsuuid=755fcc44-f348-4488-963b-27616cb2773e)
 
-* [Void deck](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-01-27_191959.html)
+* [Void deck](https://www.nlb.gov.sg/main/article-detail?cmsuuid=e342b869-736c-4e4c-a346-47b164663572)
 
 Communities and their way of life
 
-* [Pasar malam](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-03-02_131952.html)
+* [Pasar malam](https://www.nlb.gov.sg/main/article-detail?cmsuuid=8661aa72-3ea6-4abc-b0a6-d2cc24d3f0ff)
 
-* [Wayang (Chinese Street Opera)](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1218_2011-06-28.html)
+* [Wayang (Chinese Street Opera)](https://www.nlb.gov.sg/main/article-detail?cmsuuid=a07c0ef0-d87f-49bf-a624-d09a1c3a4b52)
 
-* [Five-foot-way traders](https://eresources.nlb.gov.sg/infopedia/articles/SIP_105_2005-01-04.html)
+* [Five-foot-way traders](https://www.nlb.gov.sg/main/article-detail?cmsuuid=604a6d18-793d-4919-af9b-5ef014ba2141)
 
-* [Chettiars](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-12-11_165654.html)
+* [Chettiars](https://www.nlb.gov.sg/main/article-detail?cmsuuid=013561b0-95db-445e-b5f4-1aac8b04fdf1)
 
-* [Cathay Keris Studio](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1159_2007-07-01.html) (a key producer of Malay films in the 1950s and 1960s)
+* [Cathay Keris Studio](https://www.nlb.gov.sg/main/article-detail?cmsuuid=0d44bd6f-4baa-4b31-ac59-facc796c0996) (a key producer of Malay films in the 1950s and 1960s)
 
 ###### [Back to top](#contents)
 
@@ -131,13 +132,13 @@ Migrant communities form an important part of societies around the world today. 
 | ![](/images/arts/visualarts/Art%20X%20Stacks/callandresponse2.jpg) | Zakir Hossain Khokan, Bhing Navato, Poh Yong Han, and Joshua Ip, eds. [*Call and Response 2, a Singapore Migrant Anthology*](https://eservice.nlb.gov.sg/item_holding.aspx?id=205391498). Singapore: Math Paper Press, 2021. <br><br>This sequel anthology continues the tradition of pairing “migrant” and local writers, where they write and respond to each other with stories and poems of their dreams, desires and innermost reflections.  |
 | ![](/images/arts/visualarts/Art%20X%20Stacks/songsfromadistance.jpg) | Lim, Vanessa, ed. [*Songs from a Distance: Selected Poems from the 2015 and 2016 Migrant Worker Poetry Competition*](https://eservice.nlb.gov.sg/item_holding.aspx?id=203067431). Singapore: Potato Productions Pte. Ltd., 2005. <br><br>The poems in this collection were shortlisted from the 2015 and 2016 Migrant Worker Poetry Competition, which was first held in Singapore in 2014 and in Malaysia in 2015. Giving voice to the migrant worker communities, this book also celebrates their literary talent and the linguistic diversity of the submissions.  
 | ![](/images/arts/visualarts/Art%20X%20Stacks/migranttales.jpg) | Zakir Hossain Khokan, and Monir Ahmod, eds. [*Migrant Tales: An Anthology of Poems by Migrant Bengali Poets in Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?id=202852267). Dhaka: Babui Prokashoni, 2007. <br><br>Featuring 25 poems from 18 migrant Bengali poets who came to work in Singapore, the volume speaks of longing, loneliness and the experiences of those missing their homes. |
-| ![](/images/arts/visualarts/Art%20X%20Stacks/memigrant.jpg) | Md Mukul Hossine. [*Me Migrant*](https://eservice.nlb.gov.sg/item_holding.aspx?id=202467880). Singapore: Ethos Books, 2016. <br><br>*Me Migrant* features the poems of Md Mukul Hossine, who came to work in Singapore from his home country Bangladesh. This collection represents the voice of hope and inclusiveness, of longing and dreaming, of service and heart. Born of the friendship between volunteers of community clinic HealthServe and foreign construction workers, this book also features writings from Dr Tan Lai Yong, a volunteer medical doctor at Healthserve and his team of medical students from National University of Singapore. Also available as an [ebook]( http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204385816). |
+| ![](/images/arts/visualarts/Art%20X%20Stacks/memigrant.jpg) | Md Mukul Hossine. [*Me Migrant*](https://eservice.nlb.gov.sg/item_holding.aspx?id=202467880). Singapore: Ethos Books, 2016. <br><br>*Me Migrant* features the poems of Md Mukul Hossine, who came to work in Singapore from his home country Bangladesh. This collection represents the voice of hope and inclusiveness, of longing and dreaming, of service and heart. Born of the friendship between volunteers of community clinic HealthServe and foreign construction workers, this book also features writings from Dr Tan Lai Yong, a volunteer medical doctor at Healthserve and his team of medical students from National University of Singapore. Also available as an [ebook]( http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=204385816). |
 
 ###### [Back to top](#contents)
 
 ---
 
-*This Resource Guide was compiled by Luke Chua, a Senior Librarian at the National Library, Singapore. The information in this guide is valid as of March 2023 and correct as far as we can ascertain from our sources. This list is not intended to be exhaustive or comprehensive. Please contact us at <ref@nlb.gov.sg> for more reading material on the topics.*
+*This Resource Guide was compiled by Luke Chua, a Senior Librarian at the National Library, Singapore. The information in this guide is valid as of March 2023 and correct as far as we can ascertain from our sources. This list is not intended to be exhaustive or comprehensive. Please contact us at  for more reading material on the topics.*
 
 ---
 

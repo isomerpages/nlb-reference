@@ -22,7 +22,7 @@ Georgette Chen Li Ying, born Chang Li Ying, was a Singaporean artist known for h
 
 <img src="/images/singapore-people/gc-Georgette Chen_Self Portrait_1946.jpg" alt="Georgette Chen, Self-Portrait" style="width:350px;">
 Georgette Chen, *Self-Portrait* (1946).<br>
-Gift of Lee Foundation, Collection of National Gallery Singapore. Digital image retrieved from [PictureSG](https://eresources.nlb.gov.sg/pictures/Details/ea65d5bf-67e9-476e-af64-790a2687f33b).
+Gift of Lee Foundation, Collection of National Gallery Singapore. Digital image retrieved from [National Library Online](https://www.nlb.gov.sg/main/image-detail?cmsuuid=ea65d5bf-67e9-476e-af64-790a2687f33b).
 
 Chen experienced a cosmopolitan and transcontinental life, traversing nations such as China, France, and the United States for much of her life and moving to Singapore permanently around 1953, after which she started teaching at the Nanyang Academy of Fine Arts (NAFA). She acquired Singaporean citizenship upon Singapore’s separation from Malaysia in 1965.
 
@@ -134,7 +134,7 @@ This guide provides resources for those who are keen to know more about Georgett
   Accompanying website for the exhibition of the same title at the National Gallery of Singapore, containing various resources, videos, and information about the artworks exhibited.
 
 
-* National Library Board. (2002). [Georgette Chen](http://eresources.nlb.gov.sg/infopedia/articles/SIP_698_2005-01-12.html), written by Creamer, Ruth. Retrieved December 1, 2020, from Singapore Infopedia. 
+* National Library Board. (2002). [Georgette Chen](https://www.nlb.gov.sg/main/article-detail?cmsuuid=0f964e7f-5382-416b-932b-3da4151f20e3), written by Creamer, Ruth. Retrieved December 1, 2020, from Singapore Infopedia. 
 
   An Infopedia resource that concisely chronicles Chen’s life and artistic practice, as well as major exhibitions held.
 

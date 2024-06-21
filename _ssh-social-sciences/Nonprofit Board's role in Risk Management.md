@@ -113,11 +113,6 @@ This article provides an overview of the nonprofit financial environment and ide
 The author advocates that nonprofits should use risk management principles to enhance sustainability and recommends a basic approach covering when to start and the steps to make risk management a standard operating procedure.
 
 
-* Davidson, C. (2014, June). Community Literacy of Ontario’s Board Governance Resource Guide. Retrieved February 14, 2017, from Community Literacy of Ontario website: [http://www.communityliteracyofontario.ca/wp/wp-content/uploads/2014/07/Board-Governance-Manual-June-2014.pdf](http://www.communityliteracyofontario.ca/wp/wp-content/uploads/2014/07/Board-Governance-Manual-June-2014.pdf)
-
-This resource guide offers an overview of the effective board governance practices for nonprofit organisations, covering areas such as board roles and responsibilities, governance structures and board development. Chapter seven (pp. 27–34) discusses the roles and responsibilities of the board in relation to risk management, such as indemnification, insurance and financial and human resource management. A risk assessment checklist is also included.
-
-
 * Matan, R. &amp; Hartnett, B. (2011, Summer). How nonprofit organisations manage risk. Retrieved February 14, 2017, from Sobel &amp; Co. website: [http://www.sobel-cpa.com/sites/default/files/Summer%202011%20nfp%20white%20papers.pdf](http://www.sobel-cpa.com/sites/default/files/Summer%202011%20nfp%20white%20papers.pdf)
 
 This white paper examines the type of risks faced by nonprofit organisations and suggests ways to effectively manage the risks against potential benefits.
