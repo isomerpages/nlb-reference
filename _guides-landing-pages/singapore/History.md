@@ -13,28 +13,6 @@ variant: tiptap
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Singapore Genealogy</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<ul data-tight="true" class="tight">
-<li>
-<p><strong><a href="/guides/singapore/history/chinese-genealogy" rel="noopener noreferrer nofollow" target="_blank">Chinese Genealogy</a></strong>
-</p>
-</li>
-<li>
-<p><strong><a href="/guides/singapore/history/malay-genealogy" rel="noopener noreferrer nofollow" target="_blank">Malay Genealogy</a></strong>
-</p>
-</li>
-<li>
-<p><strong><a href="/guides/singapore/history/eurasian-genealogy" rel="noopener noreferrer nofollow" target="_blank">Eurasian Genealogy</a></strong>
-</p>
-</li>
-</ul>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
 <summary><strong>Colonial Era</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
