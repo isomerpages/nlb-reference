@@ -510,87 +510,234 @@ date and place of birth, race, admission date, etc.). Attendance registers
 contain almost similar information except they include records of daily
 attendance, school fee paid, summary of students’ roll, etc.</p>
 <p>Available in microfilm at National Archives of Singapore</p>
+<p></p>
 <p><strong>School Yearbooks and Magazines</strong>
 </p>
 <p>The following are school records that are in the library's collection.
 They are mostly school magazines and souvenir publications. The schools
 that are selected below are mostly schools that were attended by Eurasians
 during the colonial period.</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>CHIJ Katong Primary. (19--). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12858461" rel="noopener noreferrer nofollow" target="_blank">CHIJ Katong Primary</a></em>.
 Singapore: CHIJ Katong Primary.</p>
+</li>
+</ul>
 <p>Call No.: RCLOS 372.95957 CKP</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>CHIJ Katong Primary. (2000). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10759887" rel="noopener noreferrer nofollow" target="_blank">CHIJ Katong Primary: 70<sup>th</sup> anniversary commemorative magazine, 1930-2000</a></em>.
 Singapore: The School.</p>
-<p>Call No.: RSING q372.95957 CHI</p>
-<p>&nbsp;</p>
+</li>
+</ul>
+<p>Call No.: RSING q372.95957 CHI&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>CHIJ Secondary. (1984-). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12536463" rel="noopener noreferrer nofollow" target="_blank">CHIJ</a></em>.
 Singapore: CHIJ Secondary.</p>
+</li>
+</ul>
 <p>Call No.: RCLOS q373.5957 CHIJST</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Convent of the Holy Infant Jesus. (1990). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5704131" rel="noopener noreferrer nofollow" target="_blank">135 years of CHIJ in Singapore: 1854-1989</a></em>.
 Singapore: CHIJ.</p>
+</li>
+</ul>
 <p>Call No.: RSING 372.95957 ONE</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Raffles Girls' Secondary School. (1980). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4402474" rel="noopener noreferrer nofollow" target="_blank">RGS 1880-1980 centenary magazine</a></em>.
 Singapore: Raffles Girls' Secondary School.</p>
+</li>
+</ul>
 <p>Call No.: RCLOS 373.5957 RGS</p>
 <p>Microfilm No.: NL19153</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Raffles Girls' Primary School. (1994). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7116299" rel="noopener noreferrer nofollow" target="_blank">RGPS: 35th anniversary 1959-1994</a></em>.
 Singapore : Raffles Girls' Primary School.</p>
+</li>
+</ul>
 <p>Call No.: RCLOS 372.95957 RAF</p>
 <p>Microfilm No.: NL26881</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Raffles Girls' Secondary School (19--). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5368571" rel="noopener noreferrer nofollow" target="_blank">Raffles Girls' School magazine</a></em>.
 Singapore: Raffles Girls' Secondary School.</p>
+</li>
+</ul>
 <p>Call No.: RCLOS 373.5957 RGSM</p>
 <p>Microfilm No.: NL 19152, NL 19153, NL 19154, NL 19155</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Raffles Girls' Primary School. (19--). RGPS : <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5368569" rel="noopener noreferrer nofollow" target="_blank">Raffles Girls' Primary School magazine</a></em>.
 Singapore: The School.</p>
+</li>
+</ul>
 <p>Call No.: RCLOS 372.95957 RGPSRG</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Raffles Institution (Singapore). (1987). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7051824" rel="noopener noreferrer nofollow" target="_blank">The Rafflesian: Centenary edition 1886-1986</a></em>.
 Singapore: Raffles Institution.</p>
+</li>
+</ul>
 <p>Call No.: RCLOS 373.5957 RAF</p>
 <p>Microfilm No.: NL 19652</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Raffles Institution (Singapore). (1924-). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4401138" rel="noopener noreferrer nofollow" target="_blank">The Rafflesian: Magazine of Raffles Institution</a></em>.
 Singapore: Raffles Institution.</p>
+</li>
+</ul>
 <p>Call No. RCLOS 373.5957 R</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Raffles Junior College. (1983-). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5461392" rel="noopener noreferrer nofollow" target="_blank">The Rafflesian</a></em>.
 Singapore: The School.</p>
+</li>
+</ul>
 <p>Call No.: RCLOS 378.1543095957 RJCR</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>St. Anthony Boys’ School. (19--). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5368471" rel="noopener noreferrer nofollow" target="_blank">The Anthonian</a></em>.
 Singapore: The School.</p>
+</li>
+</ul>
 <p>Microfilm No.: NL 26885 (1981)</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>St. Anthony Boys’ School. (1969). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6868450" rel="noopener noreferrer nofollow" target="_blank">The Anthonian: Souvenir publication in conjunction with the 150th anniversary of Singapore</a></em>.
 Singapore: The School.</p>
+</li>
+</ul>
 <p>Call No.: RCLOS 372.95957 SAI</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>St. Anthony’s Convent Secondary School. (19--). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5368473" rel="noopener noreferrer nofollow" target="_blank">The Magdalenian</a></em>.
 Singapore: St. Anthony's Convent Secondary School.</p>
+</li>
+</ul>
 <p>Call No.: RCLOS 373.5957 SACSSM</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
 <p><em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7035586" rel="noopener noreferrer nofollow" target="_blank">St. Anthony's Convent: Magazine</a></em>.
 (1950). Singapore: The Convent.</p>
+</li>
+</ul>
 <p>Call No.: RCLOS 372.95957 SAC year 1949-50</p>
 <p>Microfiche: NL 0045/054</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>St. Anthony's Convent Primary School &amp; St. Anthony's Convent Secondary
 School. (1994). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7353824" rel="noopener noreferrer nofollow" target="_blank">A century in Singapore: The Canossians, St. Anthony's Convent</a></em>.
 Singapore: Canossian Sisters of St. Anthony's Convent.</p>
+</li>
+</ul>
 <p>Call No.: RSING 372.95957 CEN</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>St. Joseph’s Institution. (2002). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13221727" rel="noopener noreferrer nofollow" target="_blank">150 years St. Joseph's Institution, 1852-2002</a></em>.
 Singapore: St Joseph's Institution.</p>
+</li>
+</ul>
 <p>Call No.: RCLOS 373.5957 FIF [DG: MEP (REL)]</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>St Joseph's Institution. (1952). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4402289" rel="noopener noreferrer nofollow" target="_blank">Souvenir magazine, 1852-1952</a></em>.
 Singapore: St Joseph's Institution.</p>
+</li>
+</ul>
 <p>Call No.: RCLOS 373.5951 SAI</p>
 <p>Microfilm No.: NL 9820</p>
+<p></p>
+<h3>Clubs and Associations Records</h3>
+<p><strong>The Eurasian Association</strong>
+</p>
+<p>The Eurasian Association was founded in 1919. Since then, the Association
+had always been at the forefront of the Eurasian community in Singapore,
+looking after their economic and social interests. Today, the mission of
+the Association remains relatively unchanged. It continues to act as a
+platform to enrich the cohesiveness of the Eurasian community as well as
+to integrate the community into the larger multi-ethnic, multi-religious
+and multi-cultural of the Singapore society.</p>
+<p></p>
+<p><strong>Associations and Clubs Records</strong>
+</p>
+<p><strong>Singapore Recreation Club</strong>
+</p>
+<p><a href="http://www.a2o.com.sg/a2o/public/search/prismDetail2.jsp?keyword=singapore+recreation+club&amp;siteIndex=6&amp;pk=7998&amp;pk=8000&amp;shows=Show+Selected+Records" rel="noopener noreferrer nofollow" target="_blank">Annual Reports, Membership lists (1938-1984)</a>
+</p>
+<p>Microfilm No.: NA 2159</p>
+<p><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4888842" rel="noopener noreferrer nofollow" target="_blank">Annual Reports (1986, 1987, 1994, 2008)</a>
+</p>
+<p>Call No.: RCLOS/RSING 796.0605957 SRCAR</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Eurasian Association</strong>
+</p>
+<p><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5040628" rel="noopener noreferrer nofollow" target="_blank">Annual Reports (2005, 2009)</a>
+</p>
+<p>Call No.: RSING/RCLOS 301.451104205957 EASAR</p>
+<p><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6580136" rel="noopener noreferrer nofollow" target="_blank">EA news (1991, 1993, 1997, 1998)</a>
+</p>
+<p>Call No.: RSING 305.80405957 EAN</p>
+<p>&nbsp;</p>
+<p><strong>Girls’ Sports Club</strong>
+</p>
+<p><a href="http://www.a2o.com.sg/a2o/public/search/prismDetail2.jsp?keyword=Girls%92+Sports+Club&amp;siteIndex=6&amp;pk=15478&amp;pk=15482&amp;shows=Show+Selected+Records" rel="noopener noreferrer nofollow" target="_blank">Annual Reports (1933-1985) | </a>Microfilm
+No.: NA 1172</p>
+<p>&nbsp;</p>
+<p><strong>Singapore Volunteer Corps</strong>
+</p>
+<p><a href="http://www.a2o.com.sg/a2o/public/search/gridDetail.jsp?pk=14623&amp;keyword=eurasian&amp;siteIndex=7" rel="noopener noreferrer nofollow" target="_blank">Proposed club for Eurasian members (1924) | </a>Microfilm
+No.: HDB 1001</p>
+<p><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12225853" rel="noopener noreferrer nofollow" target="_blank">Yearbooks (1930-1937) | </a>Microfilm
+No.: NL 28415</p>
+<p>Call No.: RARE 355.2236205 SSVFYB</p>
+<p></p>
+<p><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5049366" rel="noopener noreferrer nofollow" target="_blank">Annual report (1938) | </a>Microfilm
+No.: NL9936</p>
+<p>Call No.: RARE 355.232 STR</p>
+<p></p>
+<h3>Ship Registers and Passenger Lists</h3>
+<p><strong>Ships Registers and Passengers Lists</strong>
+</p>
+<p></p>
+<p>Passenger lists are records of people travelling on a ship from one place
+to another. Passenger lists usually offer important data such as the names
+of passengers, place of embarkation, age and destination. As most Singaporeans
+have ancestors who arrived here in the 1800s or later, these lists will
+be helpful in tracing ancestors. Currently, passenger lists and ships registers
+could be obtained from the resources below.</p>
+<p><strong>Ships Registers and Passengers Lists</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><em>Master Attendant’s Office Registry of British Ships and Ships Registers, 1866-1957</em></strong>
+</p>
+</li>
+</ul>
+<p>This series is currently located at the National Archives of Singapore.
+It consists of a wide range of subjects covering the registry of British
+ships, register of British and foreign ships, Master Attendant’s Colony
+Account Book, etc. Contents such as ships’ particulars and particulars
+of ship owners are useful records for genealogy research as it provides
+the arrival dates of ships that stopped in Singapore. However, the records
+do not contain the passenger list. The list can only be found in newspapers.</p>
+<p>Available in microfilm at National Archives of Singapore</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><em>The Singapore Free Press and Mercantile Advertiser, 1835-1942</em></strong>
+</p>
+</li>
+</ul>
+<p>The<em> Singapore Free Press &amp; Mercantile Advertiser</em> was a four-page
+weekly, with a page of commercial and shipping news that catered to the
+colony's burgeoning commercial enterprise. Backed by private merchants
+and lawyers, it earned a reputation of being a reliable, sober and moderate
+journal. One of the most important information held in this newspapers
+is the ship passenger arrival lists. Search on the newspaper can be conducted
+via the library's <a href="http://newspapers.nl.sg/" rel="noopener noreferrer nofollow" target="_blank">NewspaperSG</a> online database.</p>
+<p></p>
