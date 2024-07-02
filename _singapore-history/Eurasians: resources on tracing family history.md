@@ -345,3 +345,82 @@ names and the telephone number belonging to the person.</p>
 </li>
 </ul>
 <p></p>
+<h3>Church Records and Directories</h3>
+<p><strong>Church Directory</strong>
+</p>
+<p>There are currently more than 500 churches of all Christian denomiation
+in Singapore. To obtain the listing of all these churches, users can consult
+the church directory compiled by the National Council of Churches of Singapore
+listed below.</p>
+<p><em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12548044" rel="noopener noreferrer nofollow" target="_blank">A guide to churches and Christian organisations in Singapore</a></em>.
+(2011). Singapore: National Council of Churches of Singapore.</p>
+<p>Call No.: RSING 280.0255957 GUI</p>
+<p>&nbsp;</p>
+<p>Alternatively, users can also visit the main websites of the various Christian
+denominations and churches for more information on the respective churches
+they are seeking. Some of the major ones are listed below:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em><u>Archdiocese of Singapore (Roman Catholic)</u></em>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em><u>Diocese of Singapore (Anglican)</u></em>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em><u>Methodist Church of Singapore</u></em>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em><u>Presbyterian Church in Singapore</u></em>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em><u>Lutheran Church in Singapore</u></em>
+</p>
+<p><strong>Introduction</strong>
+</p>
+<p>Church records are another important source of information for genealogy
+research. The main types of information you can get from these records
+are baptism, marriage and death registrations. As Eurasians are mostly
+Roman Catholics, they should be able to find information on their ancestors
+in records from the different Roman Catholic churches in Singapore. These
+records are currently housed in the National Archives of Singapore. The
+Archives also has records of churches from other Christian demoniations
+including the Anglican, Methodist and Presbyterian. Some of the church
+records, especially those from the earliest churches in Singapore which
+were established in the 1800s and early 1900s, are listed below. Users
+are able to search for more church records using the National Archives
+of Singapore online catalogue (<a rel="noopener noreferrer nofollow" target="_blank">nas.gov.sg/archivesonline</a>).</p>
+<p><strong>Roman Catholic Church Records</strong>
+</p>
+<p><strong>Cathedral of the Good Shepherd</strong>
+</p>
+<p><u>Baptism registers, 1830s-1980s</u>
+</p>
+<p>Microfilm No.: NAA 001, NAA 002, NAA 003</p>
+<p><u>Marriage registers, 1850s-1980s</u>
+</p>
+<p>Microfilm No.: NAA 004, NAA 005</p>
+<p><u>Death registers, 1850s-1980s</u>
+</p>
+<p>Microfilm No.: NAA 005</p>
+<p>&nbsp;</p>
+<p><strong>Church of St. Joseph (Portuguese Mission), Waterloo Street</strong>
+</p>
+<p><a href="http://www.a2o.com.sg/prism/public/prism/prismDetail.jsp?keyword=St.+Joseph%27s+Portuguese+Mission+&amp;pk=2933&amp;pk=2934&amp;pk=2935&amp;pk=2936&amp;pk=2937&amp;pk=2938&amp;pk=4263&amp;pk=4264&amp;pk=4265&amp;pk=4266&amp;pk=4280&amp;pk=4286&amp;pk=4288&amp;pk=4290&amp;pk=4291&amp;pk=5047&amp;pk=5048&amp;shows=Show+Selected+" rel="noopener noreferrer nofollow" target="_blank">Baptism registers, 1840s-1960s</a>
+</p>
+<p>Microfilm No.: NAA 008, NAA 009, NAA 010</p>
+<p><a href="http://www.a2o.com.sg/prism/public/prism/prismDetail.jsp?keyword=St.+Joseph%27s+Portuguese+Mission+&amp;pk=4271&amp;pk=4272&amp;pk=4273&amp;pk=4274&amp;pk=4275&amp;pk=4276&amp;pk=4279&amp;pk=4281&amp;pk=4282&amp;pk=4283&amp;pk=4284&amp;pk=5253&amp;pk=5254&amp;shows=Show+Selected+Records" rel="noopener noreferrer nofollow" target="_blank">Marriage registers, 1840s-1970s</a>
+</p>
+<p>Microfilm No.: NAA 010, NAA 011, NAA 012</p>
+<p><a href="http://www.a2o.com.sg/prism/public/prism/prismDetail.jsp?keyword=St.+Joseph%27s+Portuguese+Mission+&amp;pk=4267&amp;pk=4268&amp;pk=4269&amp;pk=4270&amp;pk=4278&amp;pk=4287&amp;pk=4289&amp;shows=Show+Selected+Records" rel="noopener noreferrer nofollow" target="_blank">Death registers, 1840-1950s</a>
+</p>
+<p>Microfilm No.: NAA 011, NAA 012</p>
+<p>&nbsp;</p>
+<p><strong>Church of Saints Peter &amp; Paul, Queen Street</strong>
+</p>
+<p><a href="http://www.a2o.com.sg/prism/public/prism/prismDetail.jsp?keyword=Church+of+Saints+Peter+%26+Paul&amp;pk=14308&amp;pk=14309&amp;pk=14310&amp;pk=14311&amp;pk=14312&amp;pk=13584&amp;pk=13585&amp;pk=13323&amp;pk=14313&amp;pk=16410&amp;pk=16254&amp;pk=16256&amp;pk=16257&amp;pk=16258&amp;pk=16259&amp;pk=16411&amp;shows=Show+Sele" rel="noopener noreferrer nofollow" target="_blank">Baptism registers, 1870s-1960s</a>
+</p>
+<p>Microfilm No.: NA 029, NA 030, NA 031</p>
+<p><a href="http://www.a2o.com.sg/prism/public/prism/prismDetail.jsp?keyword=Church+of+Saints+Peter+%26+Paul&amp;pk=13320&amp;pk=13587&amp;pk=13588&amp;pk=13589&amp;pk=13590&amp;pk=13591&amp;pk=13592&amp;pk=13322&amp;pk=16252&amp;pk=16253&amp;pk=16255&amp;pk=16416&amp;shows=Show+Selected+Records" rel="noopener noreferrer nofollow" target="_blank">Marriage registers, 1870s-1960s</a>
+</p>
+<p>Microfilm No.: NA 033</p>
+<p><a href="http://www.a2o.com.sg/prism/public/prism/prismDetail.jsp?keyword=Church+of+Saints+Peter+%26+Paul&amp;pk=13586&amp;pk=13604&amp;pk=16413&amp;pk=16415&amp;shows=Show+Selected+Records" rel="noopener noreferrer nofollow" target="_blank">Death registers, 1870s-1960s</a>
+</p>
+<p>Microfilm No.: NA 032</p>
+<p><a href="http://www.a2o.com.sg/prism/public/prism/prismDetail.jsp?pk=13321&amp;keyword=Church" rel="noopener noreferrer nofollow" target="_blank">Registers of Baptism, Death and Confirmation at Fujigo, or Bahau settlement at Negri Sembilan</a>
+</p>
+<p>Microfilm No.: NA 033</p>
+<p></p>
