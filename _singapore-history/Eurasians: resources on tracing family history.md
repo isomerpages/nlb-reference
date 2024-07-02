@@ -112,14 +112,24 @@ be found in the web.</p>
 <td rowspan="1" colspan="1">
 <p><strong>References</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Braga-Blake, Myrna &amp; Ebert-Oehlers, Ann. (1992). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6319425" rel="noopener noreferrer nofollow" target="_blank">Singapore Eurasians: Memories and hopes</a></em>.
 Singapore: Times Editions.</p>
+</li>
+<li>
 <p>Blake, Myrna L. (1973). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=433497" rel="noopener noreferrer nofollow" target="_blank">Kampong Eurasians in Singapore</a></em>.
 Singapore: Dept. of Sociology, University of Singapore.</p>
+</li>
+<li>
 <p>Kraal, Diane. (2003). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12246405" rel="noopener noreferrer nofollow" target="_blank">Gateway to Eurasian culture</a></em>.
 Singapore: Asiapac.</p>
+</li>
+<li>
 <p>Wong, Lai Sim (1962). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5695671" rel="noopener noreferrer nofollow" target="_blank">The Eurasian population of Singapore, 1819-1959</a></em>.
 Singapore: Microfilm Service, University of Singapore.</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
@@ -189,3 +199,149 @@ Singapore: Straits Consultancy &amp; Pub.</p>
 <p>Call No.: RSING 929.107205957 SHE</p>
 <p>Strategies to researching a local family tree using both traditional and
 modern tools, including the internet and DNA testing.</p>
+<p></p>
+<h3><strong>Birth, Marriage and Death Records</strong></h3>
+<p><strong><em>Registry of Marriage (ROM) Certificates and Notices, 1859-1986</em></strong>
+</p>
+<p>These are registers of civil and Christian marriages that took place from
+1859 to 1986. Information recorded includes personal particulars of the
+bride and groom, their fathers, their religion, the marriage date, etc.</p>
+<p>Available in microfilm at National Archives of Singapore</p>
+<p>&nbsp;</p>
+<p><strong><em>Registry of Births and Deaths (RBD) Birth Certificates, 1938-1984</em></strong>
+</p>
+<p>These are registers that contain information on the newborn such as the
+date of birth, the place of birth, name of the newborn, names of the parents
+and the informant, etc. These registers were recorded according to the
+various centres of registrations. They include City Council Birth Registration,
+Kandang Kerbau Maternity Hospital, Royal Air Force hospitals, Changi and
+other hosptials, police stations and constable stations. There is also
+a register of late registrations.</p>
+<p>Available in microfilm at National Archives of Singapore</p>
+<p></p>
+<p><strong><em>Registry of Births and Deaths (RBD) Death Certificates, 1872-1968</em></strong>
+</p>
+<p>These certificates provide details of the deceased and the place of registration.
+They include the Registry of Birth and Deaths, police stations and hospitals.
+Still birth were also part of this registry.</p>
+<p>Available in microfilm at National Archives of Singapore</p>
+<p></p>
+<p><strong><em>Ministry of Health (MOH) Cemeteries Burial Registers, 1860s-1940s</em></strong>
+</p>
+<p>This collection consists of burial registers of Christian cemeteries.
+They provide information such as the name of the deceased, date of death,
+burial, etc.</p>
+<p>Available in microfilm at National Archives of Singapore</p>
+<p></p>
+<h3><strong>Government Records and Business Directories</strong></h3>
+<p>Apart from records that are related to births, marriages and deaths, names
+can also be obtained from publications produced by the Straits Settlements
+government given that the person had worked in the government. In these
+publications, it is possible to find the person’s name, the government
+department that he or she worked in, and in some cases the salary he or
+she drew. Besides this, if your ancestors were merchants or businessmen,
+there is a good chance that they would be listed in a business directory.
+The earliest Singapore business directory was published in 1846 as Singapore
+Almanack, Calendar and Directory and the title varies over the years. Below
+are some of these publications in the library’s collection.</p>
+<p><strong>Government Directories</strong>
+</p>
+<p>Straits Settlements, Statistical Office. (1870-1946). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4982696" rel="noopener noreferrer nofollow" target="_blank">Blue book for the year</a></em>.
+Singapore: Govt. Print. Off.</p>
+<p>Call No.: RARE 315.957 SSBB</p>
+<p>Microfilm No.: NL30780; NL30782; NL30783; NL30784, NL1156</p>
+<p>This series includes the schedule of taxes, duties, fees and all other
+sources of revenue/expenditure of the Straits Settlements government. Also
+included in the series are schedule of promulgated laws, proclamations
+and orders in council as well as the list of Executive and Legislative
+Council members, list of officers in civil establishment including salary,
+date of appointment and other important details and list of pensioners.</p>
+<p></p>
+<p><em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12675603" rel="noopener noreferrer nofollow" target="_blank">The Straits Settlements Civil Service List</a></em>.
+(1896-1933). Singapore: Government Printing Office.</p>
+<p>Call No.: RARE 354.595002 SSCSL</p>
+<p>Microfilm No.: NL 5821, NL 5822, NL 25422</p>
+<p></p>
+<p><em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5047345" rel="noopener noreferrer nofollow" target="_blank">The Malayan Civil List, 1925-1940</a></em>.
+(1925-1940). Singapore: Printed at the G.P.O.</p>
+<p>Call No.: RARE 354.595002 MCL</p>
+<p>Microfilm No.: NL 9781, NL 9782, NL 9783, NL 9784</p>
+<p></p>
+<p><em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4981646" rel="noopener noreferrer nofollow" target="_blank">Establishments</a></em>.
+(1888-1938). Singapore: Printed at the Govt. Print. Off.</p>
+<p>Call No.: RARE 351.2 STR (1888-1938); RCLOS 351.2 SIN (1948-1952)</p>
+<p>Microfilm No.: NL 7156, NL 5130, NL 8826-NL8828, NL8831, NL8834, NL 5131-NL
+5133, NL 7922</p>
+<p></p>
+<p>Apart from the Blue Book and Civil Service Establishment lists shown above,
+Government Gazettes are another information source that contains the appointments
+of public officers, particularly those that held executive positions in
+the government. The Straits Settlements Government Gazette also provides
+names of those who were qualified and liable to serve as jurors in the
+settlement. This list of jurors includes the names of a number of Chinese,
+Malays, Eurasians, Indians and other non-European residents. Each name
+is followed by the occupation, and employer's company name, as well as
+the juror's place of residence.</p>
+<p></p>
+<p><em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5289724" rel="noopener noreferrer nofollow" target="_blank">Straits Settlements Government Gazette</a></em>.
+(1858-1942). Singapore: Mission Press.</p>
+<p>Call No.: RARE 959.51 SGG</p>
+<p>Microfilm No.: NL 994; NL 1003-NL 1313</p>
+<p>&nbsp;</p>
+<p><em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4826186" rel="noopener noreferrer nofollow" target="_blank">Government Gazette</a></em>.
+Singapore. (1946-20--). Singapore: [s.n.]</p>
+<p>Call No.: RCLOS/RSING 959.57 SGG (also available in microfilm)</p>
+<p></p>
+<p><strong>Government Records</strong>
+</p>
+<p><strong>Registry of Land Titles and Deeds Records, 1848-1986</strong>
+</p>
+<p>The Registry of Land Titles and Deeds is the land registration authority
+which records all recordable transactions affecting land. This series,
+among other things, consist all recorded applications for certificates
+of title, substitute certificates of title, vestings of acquired land,
+changes/corrections of names, caveats lodged and land deeds entries.</p>
+<p>Available in microfilm at National Archives of Singapore</p>
+<p></p>
+<p><strong><em>Telecommunications Authority of Singapore Directories and Files, 1927-1978</em></strong>
+</p>
+<p>These are telephone directories of Singapore of various years. They contain
+names and the telephone number belonging to the person.</p>
+<p>Available in microfilm at National Archives of Singapore</p>
+<p></p>
+<p><strong>Business Directories</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singapore and Malayan Directory, 1846-1940</p>
+</li>
+<li>
+<p><em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5042730" rel="noopener noreferrer nofollow" target="_blank">Singapore Almanack, Calendar and Directory, 1846-1847</a></em>
+</p>
+</li>
+<li>
+<p><em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5042730" rel="noopener noreferrer nofollow" target="_blank">Singapore Almanac and Directory, 1848-1858</a></em>
+</p>
+</li>
+<li>
+<p><em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5042730" rel="noopener noreferrer nofollow" target="_blank">Royal Almanac and Directory, 1859-1860, 1864</a></em>
+</p>
+</li>
+<li>
+<p><em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5057490" rel="noopener noreferrer nofollow" target="_blank">Straits Calendar and Directory, 1861-1863, 1865-1874</a></em>
+</p>
+</li>
+<li>
+<p><em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5067040" rel="noopener noreferrer nofollow" target="_blank">Singapore Directory for the Straits Settlements, 1877-1879</a></em>
+</p>
+</li>
+<li>
+<p><em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5057490" rel="noopener noreferrer nofollow" target="_blank">Singapore and Straits Directory, 1880-1907, 1909, 1910-1921</a></em>
+</p>
+</li>
+<li>
+<p><em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5057493" rel="noopener noreferrer nofollow" target="_blank">Singapore Malayan Directory, 1922-1940</a></em>
+</p>
+</li>
+</ul>
+<p></p>
