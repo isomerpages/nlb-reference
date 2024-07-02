@@ -5,7 +5,10 @@ variant: tiptap
 description: Family history, genealogy
 ---
 <h3>Guide Index</h3>
-<p></p>
+<p>Introduction</p>
+<p>Resources</p>
+<p>Research Approach</p>
+<p>Records from the National Archives of Singapore</p>
 <h3>Introduction</h3>
 <p>Ever wondered where your ancestors originated, when and how they arrived
 at Singapore, who they married, the number of children they had, where
@@ -62,12 +65,20 @@ which are then leads which one could pursue further at the National Archives.</p
 <p></p>
 <p>The National Library published two guides to help people get started on
 their family history projects:</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Roots : tracing family histories : a resource guide</em> /
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/singapore-history/Roots.jpg">
+</div>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://catalogue.nlb.gov.sg/search/card?recordId=200130364" rel="noopener noreferrer nofollow" target="_blank">Roots: tracing family histories: a resource guide</a> /
 [Lim Ting Seng, Makeswary Periasamy, Lee Meiyu, Kartini Binte Saparudin
 (authors) ; Sharon Koh &amp; Janice Loo, (Eds)].</p>
 <p>Call No. RSING 929.107205957 LIM&nbsp;</p>
 <p>&nbsp;</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Sources on family history : a select bibliography</em> /
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/singapore-history/sources_on_family_history.jpg">
+</div>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://catalogue.nlb.gov.sg/search/card?recordId=13003806" rel="noopener noreferrer nofollow" target="_blank">Sources on family history: a select bibliography</a> /
 compiler, Kartini Saparudin ; contributors, Ang Seow Leng, Wee Tong Bao,
 Makeswary Periasamy ; editor, Noryati A. Samad.</p>
 <p>Call No. RSING 016.9292095957 LEE -[LIB]</p>
@@ -100,12 +111,11 @@ and select the dropdown menu to get a sense of the range of these churches
 and other associations we have records of.</p>
 <p>In addition to these private records, government records such as burial
 registers of municipal also contain information on the individual’s date
-of death or where they are buried. For the convenience of researchers,
-NAS has placed redacted copies of the digitised Bukit Brown registers online,
-and these are available for consultation here: <a rel="noopener noreferrer nofollow" target="_blank">http://www.nas.gov.sg/BukitBrown_signage.htm</a>
-</p>
+of death or where they are buried. The Bukit Brown burial register is available
+from the National Archives.</p>
 <p>Other sources such as the Blue Books, which are the colonial statistical
 returns, are useful if your ancestor was working for the colonial government.
 If your ancestor had worked for the colonial government, their names will
 be listed there and you can even find out their annual salary!</p>
+<p></p>
 <p></p>
