@@ -62,14 +62,14 @@ which are then leads which one could pursue further at the National Archives.</p
 <p></p>
 <p>The National Library published two guides to help people get started on
 their family history projects:</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Roots : tracing family histories
-: a resource guide / [Lim Ting Seng, Makeswary Periasamy, Lee Meiyu, Kartini
-Binte Saparudin (authors) ; Sharon Koh &amp; Janice Loo, (Eds)].</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Roots : tracing family histories : a resource guide</em> /
+[Lim Ting Seng, Makeswary Periasamy, Lee Meiyu, Kartini Binte Saparudin
+(authors) ; Sharon Koh &amp; Janice Loo, (Eds)].</p>
 <p>Call No. RSING 929.107205957 LIM&nbsp;</p>
 <p>&nbsp;</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sources on family history : a select
-bibliography / compiler, Kartini Saparudin ; contributors, Ang Seow Leng,
-Wee Tong Bao, Makeswary Periasamy ; editor, Noryati A. Samad.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Sources on family history : a select bibliography</em> /
+compiler, Kartini Saparudin ; contributors, Ang Seow Leng, Wee Tong Bao,
+Makeswary Periasamy ; editor, Noryati A. Samad.</p>
 <p>Call No. RSING 016.9292095957 LEE -[LIB]</p>
 <p></p>
 <p>They contain oral history checklists with useful questions to guide people
