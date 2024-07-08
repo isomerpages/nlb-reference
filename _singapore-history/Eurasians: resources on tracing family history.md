@@ -9,6 +9,9 @@ description: ""
 through the resources:</p>
 <ul data-tight="true" class="tight">
 <li>
+<p>Origins of the Singapore Eurasians</p>
+</li>
+<li>
 <p>Conducting family history search on Singapore-Eurasians</p>
 </li>
 <li>
@@ -161,9 +164,9 @@ Singapore: Microfilm Service, University of Singapore.</p>
 </tbody>
 </table>
 <p></p>
-<h3><strong>Origins of the Singapore-Eurasians</strong></h3>
+<h3><strong>Origins of the Singapore Eurasians</strong></h3>
 <p></p>
-<p><strong>Tracing the Roots of the Singapore-Eurasians</strong>
+<p><strong>Tracing the Roots of the Singapore Eurasians</strong>
 </p>
 <p>The ancestries of Singapore-Eurasians could be traced to the European
 traders, explorers and administrators who at different periods between
@@ -639,10 +642,10 @@ Ann Arbor, Mich.: University Microfilms International. Call No.: RCLOS
 </ul>
 <p><strong>Articles</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Baxter, I. A. (1983). Dutch records from Malacca in the India Office Records. <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333" rel="noopener noreferrer nofollow" target="_blank">Journal of the Malaysian Branch of the Royal Asiatic Society</a></em>,
-Vol. 56, No. 2.</p>
-<p>Call No.: RCLOS 959.5 JMBRAS year 1989-1984.</p>
-<p>&nbsp;</p>
+Vol. 56, No. 2. Call No.: RCLOS 959.5 JMBRAS year 1989-1984.</p>
 <p>A brief overview of the resources from the Dutch Reformed Church in Malacca
 found at the National Archives of Malaysia. Unfortunately, out of Hardy’s
 35 volumes he described in “Catalogue of church records, Malacca 1642 –
@@ -652,25 +655,27 @@ Council, financial records and miscellaneous resources. There are also
 the marriage and burial registers of the Roman Catholic St. Peter’s Church
 of Malacca. Listings of related resources added from the National Archives
 of the Netherlands in 1919 are also included.</p>
-<p>&nbsp;</p>
+</li>
+<li>
 <p>Van der Veur, Paul W. (Oct 1968). Cultural Aspects of the Eurasian Community
-in Indonesian Colonial Society. <em>Indonesia</em>, No. 6, pp. 38-53.</p>
-<p>From Database Name: <a href="http://eresources.nlb.gov.sg/browse.aspx?browse_by=A-Z&amp;filter1=P" rel="noopener noreferrer nofollow" target="_blank">JSTOR</a>
-</p>
+in Indonesian Colonial Society. <em>Indonesia</em>, No. 6, pp. 38-53. From
+<a href="http://eresources.nlb.gov.sg/browse.aspx?browse_by=A-Z&amp;filter1=P" rel="noopener noreferrer nofollow" target="_blank">JSTOR</a>Database.</p>
 <p>This article discusses the European ancestries and the culture of the
 Eurasians in Indonesia. It traces the heritage of the Indonesian-Eurasian
 community to the Dutch as well as other nationalities such as the British,
 German and even Belgian. The article also gives examples of the some of
 the cultural practices that the Eurasians followed in Indonesia.</p>
-<p>&nbsp;</p>
+</li>
+<li>
 <p>Verhoeven, F.R.J. (1964). The Lost Archives of Dutch Malacca, 1641-1824. <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333" rel="noopener noreferrer nofollow" target="_blank">Journal of the Malaysian Branch of the Royal Asiatic Society</a></em>,
-Vol. 37, No. 2.</p>
-<p>Call No.: RCLOS 959.5 JMBRAS year 1964</p>
-<p>&nbsp;</p>
+Vol. 37, No. 2. Call No.: RCLOS 959.5 JMBRAS year 1964</p>
+</li>
+<li>
 <p>Wertheim, W. F. (Sept. 1947). The Indo-European Problem in Indonesia. <em>Pacific Affairs</em>,
-Vol. 20, No. 3, pp. 290-298.</p>
-<p>From Database Name: <a href="http://eresources.nlb.gov.sg/browse.aspx?browse_by=A-Z&amp;filter1=P" rel="noopener noreferrer nofollow" target="_blank">JSTOR</a>
-</p>
+Vol. 20, No. 3, pp. 290-298. From <a href="http://eresources.nlb.gov.sg/browse.aspx?browse_by=A-Z&amp;filter1=P" rel="noopener noreferrer nofollow" target="_blank">JSTOR </a>Database.</p>
+</li>
+</ul>
+<p></p>
 <p><strong>Eurasians of British Descent</strong>
 </p>
 <p><strong>The term "Eurasians"</strong>
@@ -689,6 +694,7 @@ and Southeast Asia, including Singapore and Malaya.</p>
 Institute of Southeast Asian Studies.</p>
 <p>Hawes, Christopher J. (1996). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11866843" rel="noopener noreferrer nofollow" target="_blank">Poor relations: the making of a Eurasian community in British India, 1773-1833</a></em>.
 Richmond, Surrey: Curzon Press.</p>
+<p></p>
 <p><strong>English Surnames</strong>
 </p>
 <p>In Britain, hereditary surnames were introduced by the Norman barons after
@@ -720,27 +726,71 @@ and Thackwray are variation of Thatcher, a trade-related surname. In England
 alone there are around 45,000 different surnames, each with a history behind
 it.</p>
 <p>Below are some Eurasian families in Singapore with English names:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Leicester</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Clarke</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Richards</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Scully</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Stewart</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Moss</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Angus</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Woodford</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Traill</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Clunies-Ross</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lewis</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wheatley</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Norris</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Armstrong</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Houghton</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Shepherdson</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Shelley</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Blake</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; O'Hara</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Shears</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Baker</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Leicester</p>
+</li>
+<li>
+<p>Clarke</p>
+</li>
+<li>
+<p>Richards</p>
+</li>
+<li>
+<p>Scully</p>
+</li>
+<li>
+<p>Stewart</p>
+</li>
+<li>
+<p>Moss</p>
+</li>
+<li>
+<p>Angus</p>
+</li>
+<li>
+<p>Woodford</p>
+</li>
+<li>
+<p>Traill</p>
+</li>
+<li>
+<p>Clunies-Ross</p>
+</li>
+<li>
+<p>Lewis</p>
+</li>
+<li>
+<p>Wheatley</p>
+</li>
+<li>
+<p>Norris</p>
+</li>
+<li>
+<p>Armstrong</p>
+</li>
+<li>
+<p>Houghton</p>
+</li>
+<li>
+<p>Shepherdson</p>
+</li>
+<li>
+<p>Shelley</p>
+</li>
+<li>
+<p>Blake</p>
+</li>
+<li>
+<p>O'Hara</p>
+</li>
+<li>
+<p>Shears</p>
+</li>
+<li>
+<p>Baker</p>
+</li>
+</ul>
 <p><strong>Source: </strong>Braga-Blake, Myrna &amp; Ebert-Oehlers, Ann.
 (1992). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6319425" rel="noopener noreferrer nofollow" target="_blank">Singapore Eurasians: Memories and hopes</a></em>.
 Singapore: Times Editions.</p>
@@ -767,45 +817,54 @@ the Asian en masse. In India, the term Eurasian was rejected by the Anglo-Indian
 outright but it gained traction in Southeast Asia and the Far East.</p>
 <p><strong>Books</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Brendon, Vyvyen. (2006). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12806611" rel="noopener noreferrer nofollow" target="_blank">Children of the Raj</a></em>.
 London: Phoenix.</p>
+</li>
+<li>
 <p>Call No.: R 954.00421 BRE</p>
+</li>
+<li>
 <p>Drawing on memoirs, journals, and oral testimonies, the book conjures
 up the brilliant scenes and exotic atmosphere of the Anglo-Indians through
 the rich narratives of the children themselves. Here are accounts of journeys
 across perilous seas and the heartache of long family separations, as children
 were banished to British boarding schools and grim holiday homes.</p>
-<p>&nbsp;</p>
+</li>
+<li>
 <p>Crabb, Henry C. (1960). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4078002" rel="noopener noreferrer nofollow" target="_blank">Malaya's Eurasians: An opinion</a></em>.
-Singapore: Published by D. Moore for Eastern Universities Press.</p>
-<p>Call No.: RCLOS 301.451 CRA</p>
-<p>&nbsp;</p>
+Singapore: Published by D. Moore for Eastern Universities Press. Call No.:
+RCLOS 301.451 CRA</p>
+</li>
+<li>
 <p>De Bierre, Julia. (2006). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12817829" rel="noopener noreferrer nofollow" target="_blank">Penang: through gilded doors</a></em>.
-Penang, Malaysia: Areca Books.</p>
-<p>Call No.: RSING 959.51 DEB</p>
+Penang, Malaysia: Areca Books. Call No.: RSING 959.51 DEB</p>
 <p>Although it contains little information about Eurasians in Penang, this
 book reveals that the Eurasians were among the earliest residents in Penang.
 They came as early as 1786 at Francis Light’s invitation from Siam and
 Dutch-controlled Malacca where they were victims of religious prosecution.
 The first Penang-Eurasians were led by Roman Catholic Bishop Garnualt and
 they settled around what would become Bishop Street.</p>
-<p>&nbsp;</p>
+</li>
+<li>
 <p>Gist, Noel Pitts. (1973). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=396516" rel="noopener noreferrer nofollow" target="_blank">Marginality and identity; Anglo-Indians as a racially-mixed minority in India</a></em>.
-Leiden: E. J. Brill.</p>
-<p>Call No.: RU 301.4511042054 GIS</p>
-<p>&nbsp;</p>
+Leiden: E. J. Brill. Call No.: RU 301.4511042054 GIS</p>
+</li>
+<li>
 <p>Hawes, Christopher J. (1996). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11866843" rel="noopener noreferrer nofollow" target="_blank">Poor relations: the making of a Eurasian community in British India, 1773-1833</a></em>.
-Richmond, Surrey: Curzon Press.</p>
-<p>Call No.: R 954.09 HAW</p>
-<p>&nbsp;</p>
+Richmond, Surrey: Curzon Press. Call No.: R 954.09 HAW</p>
+</li>
+<li>
 <p>Hussin, Nordin. (2007). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12829152" rel="noopener noreferrer nofollow" target="_blank">Trade and Society in the Straits of Melaka: Dutch Melaka and English Penang, 1730-1830</a></em>.
-Singapore: NUS Press; Copenhagen: NIAS.</p>
-<p>Call No.: RSING 959.503 NOR</p>
-<p>&nbsp;</p>
+Singapore: NUS Press; Copenhagen: NIAS. Call No.: RSING 959.503 NOR</p>
+</li>
+<li>
 <p>Koop, John Clement. (1960). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4237863" rel="noopener noreferrer nofollow" target="_blank">The Eurasian population in Burma</a></em>.
-New Haven, Conn.: Southeast Asia Studies, Yale University.</p>
-<p>Call No.: RU 301.45110420591 KOO</p>
-<p>&nbsp;</p>
+New Haven, Conn.: Southeast Asia Studies, Yale University. Call No.: RU
+301.45110420591 KOO</p>
+</li>
+<li>
 <p>Lawson, Philip. (1993). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=8796612" rel="noopener noreferrer nofollow" target="_blank">The East India Company: A History, 1600-1857</a></em>.
 Harlow: Longman.</p>
 <p>This book provides short history of the British East India Company. It
@@ -813,16 +872,17 @@ covers the Company's entire history from its foundation through to its
 demise after the Indian Mutiny in 1857, paying particular attention to
 the Company's important but often neglected early years. An important contribution
 to both Anglo-Indian and imperial historiography, it also reflects the
-very lively state of scholarship in both fields today.</p>
-<p>Call No.: RU 382.095400601 LAW</p>
-<p>&nbsp;</p>
+very lively state of scholarship in both fields today. Call No.: RU 382.095400601
+LAW</p>
+</li>
+<li>
 <p>Lee, Vicky. (2004). <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12831121" rel="noopener noreferrer nofollow" target="_blank">Being Eurasian: memories across racial divides</a>.
-Hong Kong: Hong Kong University Press.</p>
-<p>Call No.: English 305.89505125 LEE</p>
-<p>&nbsp;</p>
+Hong Kong: Hong Kong University Press. Call No.: English 305.89505125 LEE</p>
+</li>
+<li>
 <p>Mallampalli, Chandra. (2011). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14282993" rel="noopener noreferrer nofollow" target="_blank">Race, religion, and law in colonial India: Trials of an interracial family</a></em>.
-Cambridge; New York : Cambridge University Press.</p>
-<p>Call No.: RBUS 346.5487052 MAL</p>
+Cambridge; New York : Cambridge University Press. Call No.: RBUS 346.5487052
+MAL</p>
 <p>This book explores such questions by examining the intriguing story of
 an interracial family who lived in southern India in the mid-nineteenth
 century. The family, which consisted of two untouchable brothers, both
@@ -830,10 +890,10 @@ of whom married Eurasian women, became wealthy as distillers in the local
 community. When one brother died, a dispute arose between his wife and
 brother over family assets, which resulted in a landmark court case, Abraham
 v. Abraham.</p>
-<p>&nbsp;</p>
+</li>
+<li>
 <p>Stark, Herbert Alick. (1936). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11867114" rel="noopener noreferrer nofollow" target="_blank">Hostages to India: The life story of the Anglo-Indian race</a></em>.
-Calcutta: The Star printing works.</p>
-<p>Call No.: RU 954.00421 STA</p>
+Calcutta: The Star printing works. Call No.: RU 954.00421 STA</p>
 <p>This book portrays the history of and presents a historical reconstruction
 of the Anglo Indian community. It is a work on Anglo Indians from their
 darkest to finest hour. The book describes the thriving and vibrant Anglo
@@ -841,43 +901,48 @@ Indian community and their subsequent impoverishment due to various administrati
 acts by the East India Company who saw Anglo Indian success as a threat.
 It chronicles the various measures the community took to obtain justice
 from England by sending emissaries from India to lobby parliament.</p>
+</li>
+</ul>
 <p><strong>Articles</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Allard, E. (Dec, 1964). Social Organisation of Eurasians in the Malaya
-Federation. Current Anthropology, Vol. 5, No. 5, p. 422.</p>
-<p>From Database Name: <a href="https://eresources.nlb.gov.sg/main/Browse?startsWith=J" rel="noopener noreferrer nofollow" target="_blank">JSTOR</a>
+Federation. Current Anthropology, Vol. 5, No. 5, p. 422. From Database
+Name: <a href="https://eresources.nlb.gov.sg/main/Browse?startsWith=J" rel="noopener noreferrer nofollow" target="_blank">JSTOR</a>
 </p>
 <p>This article provides a brief account of the Eurasian community in Malaysia.
 In the process, it identifies that the first Eurasian sub-group in Malaysia
 was the Portuguese-Eurasians in Malacca and highlights that the Dutch-Eurasians
 were totally submerged into the Portuguese group even though the Dutch
 came later than the Portuguese.</p>
-<p>&nbsp;</p>
+</li>
+<li>
 <p>Blunt, Alison (Autumn, 2002). Land of Our Mothers': Home, Identity, and
 Nationality for Anglo-Indians in British India, 1919-1947. <em>History Workshop Journal</em>,
-No. 54, pp. 49-72.</p>
-<p>From Database Name: <a href="https://eresources.nlb.gov.sg/main/Browse?startsWith=J" rel="noopener noreferrer nofollow" target="_blank">JSTOR</a>
-</p>
-<p>&nbsp;</p>
+No. 54, pp. 49-72. From Database Name: <a href="https://eresources.nlb.gov.sg/main/Browse?startsWith=J" rel="noopener noreferrer nofollow" target="_blank">JSTO</a>&nbsp;</p>
+</li>
+<li>
 <p>MacFarlane, Eileen W. Erlanson (Sept-Oct 1942). Blood Groups of Eurasians
 and Parsees in Calcutta. <em>The American Naturalistm</em>, Vol. 76, No.
-766, pp. 520-526.</p>
-<p>From Database Name: <a href="https://eresources.nlb.gov.sg/main/Browse?startsWith=J" rel="noopener noreferrer nofollow" target="_blank">JSTOR</a>
+766, pp. 520-526. From Database Name: <a href="https://eresources.nlb.gov.sg/main/Browse?startsWith=J" rel="noopener noreferrer nofollow" target="_blank">JSTOR</a>
 </p>
 <p>This article outlines the racial and historic origins of the Eurasians
 in India or the Anglo-Indians. By studying the different blood groups within
 a selected pool of Eurasians, this article also traces the Portuguese,
 Dutch, French and British ancestries of the Eurasians in India.</p>
-<p>&nbsp;</p>
-<p>Tait, P. M. (Sept, 1864). On the Mortality of Eurasians. <em>Journal of the Statistical Society of London</em>,</p>
-<p>Vol. 27, No. 3, pp. 324-356.</p>
-<p>From Database Name: <a href="https://eresources.nlb.gov.sg/main/Browse?startsWith=J" rel="noopener noreferrer nofollow" target="_blank">JSTOR</a>
+</li>
+<li>
+<p>Tait, P. M. (Sept, 1864). On the Mortality of Eurasians. <em>Journal of the Statistical Society of London</em>,
+Vol. 27, No. 3, pp. 324-356. From Database Name: <a href="https://eresources.nlb.gov.sg/main/Browse?startsWith=J" rel="noopener noreferrer nofollow" target="_blank">JSTOR</a>
 </p>
 <p>This article examines the mortality amongst the members of the Eurasian
 community in India. In the process, the article identifies the different
 European ancestries of the Eurasian community. It also narrates how the
 Eurasian community of different European background were established in
 India.</p>
+</li>
+</ul>
 <p></p>
 <p><strong>Eurasians of other European Groups</strong>
 </p>
@@ -907,11 +972,23 @@ imagine. In fact, as the individual goes back in time, he or she will discover
 the rich history behind it.</p>
 <p>Below are some Eurasian families in Singapore with names from different
 European groups other than the Portuguese, Dutch and British:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oehlers (German)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Baumgarten (German)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Neubronner (German)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Langes (Danish)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jalleh (French)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Oehlers (German)</p>
+</li>
+<li>
+<p>Baumgarten (German)</p>
+</li>
+<li>
+<p>Neubronner (German)</p>
+</li>
+<li>
+<p>Langes (Danish)</p>
+</li>
+<li>
+<p>Jalleh (French)</p>
+</li>
+</ul>
 <p><strong>&nbsp;</strong>
 </p>
 <p><strong>References</strong>
@@ -936,10 +1013,9 @@ British colonies in the East and the British Straits Settlements.</p>
 the earliest Teutonia Club founded in 1856 and continuing into the 21st
 century with various locations for the German Club described and illustrated
 with photographs (in German)</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Khoo, Salma Nasution. (2006). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12730150" rel="noopener noreferrer nofollow" target="_blank">More than merchants: A History of the German-speaking Community in Penang, 1800s-1940s</a></em>.
-Pulau Pinang: Areca Books.</p>
-<p>Call No.: RSING 305.73105951 KHO</p>
+Pulau Pinang: Areca Books. all No.: RSING 305.73105951 KHO</p>
 <p>The Germans moved to Penang in the Straits Settlements, drawn by business
 opportunities as entrepreneurs or as part of larger conglomerates. Their
 life and contributions are examined with accompanying photographs and illustrations
@@ -947,10 +1023,9 @@ until the difficult period of World War II. Chapters on German writers
 resident in Penang, a profile of Charles Ernest Tardy the patriarch of
 the Eurasian Karl family and the German trade expand on individuals involved
 in the community. A useful bibliography is appended.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Pilon, Maxime &amp; Weiler, Danièle. (2011). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14270610" rel="noopener noreferrer nofollow" target="_blank">The French in Singapore: An illustrated history</a>, 1819-today</em>.
-Singapore: Editions Didier Millet.</p>
-<p>Call No.: RSING 305.84105957 PIL</p>
+Singapore: Editions Didier Millet. all No.: RSING 305.84105957 PIL</p>
 <p>Since Singapore’s founding in 1819, missionaries, merchants, planters
 and other French pioneers have come to the fledgling island port and contributed
 to its economic, educational and cultural development. This book documents
