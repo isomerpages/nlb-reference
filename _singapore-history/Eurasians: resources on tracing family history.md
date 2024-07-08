@@ -1196,3 +1196,91 @@ Singapore: National Archives of Singapore. Call No.: RSING 940.530745957</p>
 </li>
 </ul>
 <p></p>
+<h3><strong>Eurasians in Pre- and Post-Independence Singapore</strong></h3>
+<p>The Japanese surrendered to the Allied Forces on 15 August 1945 effectively
+ending the Japanese Occupation of Singapore. A month later, the British
+returned to Singapore amid a scene of joy and jubilance. This euphoria,
+however, was short-lived as it was soon overtaken by the reality of reconstructing
+a post-war Singapore. Some of the immediate problems that the British faced
+included a thriving black market, a disoriented public service, food shortages
+and deteriorating infrastructure. They also had to address a rising nationalistic
+sentiment and the communist threat. To tackle these problems, the British
+started relooking the way they governed Singapore. Instead of bringing
+back the administration structure that was in place from 1819 to 1942,
+the British implemented reforms that would ultimately prepare Singapore
+for self-government. Notable changes were made in the areas of education,
+public services and legislature where a sense of belonging and nation-building
+were instilled. Local officers were also appointed or elected to fill up
+the positions in these areas.</p>
+<p>With their head start in education and fluency in the English language,
+the Eurasians were among the first local community that the British drew
+upon to indigenise the civil service. They were also sought after as members
+of Singapore’s first political parties such as the Progressive Party, the
+Democratic Party, the Labour Party and the People’s Action Party. This
+trend continued well into the 1950s and by the time Singapore attained
+self-government in 1959, there were a number of Eurasians serving in the
+government. They included Singapore’s first Speaker of Parliament Sir George
+Edward Noel Oehlers, first head civil service George Edwin Bogaars, the
+first chairman of Port of Authority of Singapore Stanley Toft Stewart,
+the first local commissioner of police John Le Cain, and Law Minister Edmund
+William Barker who was also involved in the crafting of the Proclamation
+of Singapore hours before Singapore announced its separation from Malaysia
+on 9 August 1965. After achieving independence, more Eurasians including
+those aforementioned continued to serve the government taking on roles
+in agencies such as the Economic Development Board and the Singapore Tourism
+Board. For instance, Kenneth Michael Bryne was a top civil servant having
+held many senior positions in the government including chairman of the
+Singapore Tourism Board and the Central Provident Fund as well as High
+Commissioner of several countries. Herman Ronald Hochstadt was another
+top civil servant having served as Deputy Secretary at the Treasury, Permanent
+Secretary at the Ministry of Communications and Ministry of Education,
+Deputy Managing Director of the Monetary Authority of Singapore, Chairman
+of the Mass Rapid Transit Authority board. Hedwig Anuar, on the other hand,
+served as the director of the National Library from 1964 to 1988.</p>
+<p>Besides the government, many Eurasians also made their mark in the professional
+field in areas such as medicine, research, education, and arts and culture.
+For example, Ernest Steven Monteiro, who was pro-chancellor of the National
+University of Singapore, is remembered for his contributions these areas,
+while Maureen Clarke was well known for her talent in amateur dramatics.
+Perhaps one of the most prominent Eurasian who excelled in the professional
+field was Dr Benjamin Henry Shears. Not only he was one of the first locals
+to be appointed as professor of obstetrics and gynaecology at the University
+of Malaya in Singapore in the 1950s, Shears was also a founding member
+of the Academy of Medicine and had contributed significantly to the field
+of medical research. In 1971, Shears was awarded the highest honour in
+Singapore when he was appointed the second President of the Republic of
+Singapore. He held this position for a decade from 1971 to 1981.</p>
+<p>As for the rest of the Eurasian community, the period from the end of
+the Japanese Occupation to the late 1980s was dedicated mostly to rebuilding
+the Eurasian community bond. After the war, the Eurasians were divided
+in reactions to the political developments in Singapore as the colony strived
+towards nationhood. Those who chose to remain loyal to the British opted
+to leave Singapore for Britain and other Commonwealth countries. For the
+remaining group who did not emigrate, they remained in Singapore to become
+Singaporeans eventually. Despite staying on, the Eurasians in Singapore
+experienced a decline in their communal identity in the 1970s. Partly,
+this was due to the rise of a non-communal outlook among the Eurasians
+as they tried to assimilate with other Singaporeans of different ethnic
+groups. The decline was also attributed to a sense of displacement. After
+Singapore became an independent nation in 1965, the multi-ethnic presentation
+of the nation did not include Eurasians as one of the major cultures. Instead,
+their identity was hidden under the “others” ethnic category which includes
+the smaller ethnic communities such as the Jews and the Armenians. The
+decline in the Eurasian identity was evident in terms of membership figures
+of the Eurasian Association. After reaching a peak of 855 members in 1973,
+the Association’s membership began to dwindle falling to as low as 91 in
+1986. Amid the development within the Eurasian community, the community
+continued to produce prominent figures such as sportsmen and literary figures
+who contributed greatly to the nation-building process.</p>
+<p>To reverse the downward trend in the Eurasian identity, the Management
+Committee of the Eurasian Association decided to embark on a massive membership
+drive in 1989, a year which became known as the year of Eurasian Awakening.
+Led by a group of younger Eurasians and driven by the determination to
+rekindle the sense of belonging within the Eurasian community, the Management
+Committee drove the Eurasian Association membership up to almost 1,000
+in less than two years through the introduction of programmes and activities
+that encourage community bonding. The Eurasian Association’s effort to
+uplift the Eurasian community was given a boost in 1994 when it was accorded
+by the Government Self-Help status to act on behalf of the Eurasian community
+in Singapore.</p>
+<p></p>
