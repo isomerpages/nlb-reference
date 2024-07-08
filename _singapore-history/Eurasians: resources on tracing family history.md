@@ -1701,3 +1701,9 @@ Singapore: Dagmar Books. Call No.: RSING 305.804205957 TES</p>
 </li>
 </ul>
 <p></p>
+<p>This resource guide is compiled by Lim Tin Seng. The information in this
+resource guide is valid as at 2013 and correct as far as we are able to
+ascertain from our sources. It is not intended to be an exhaustive or complete
+history on the subject. Please contact the Library for further reading
+materials on the topic.</p>
+<p>All Rights Reserved. National Library Board Singapore 2013.</p>
