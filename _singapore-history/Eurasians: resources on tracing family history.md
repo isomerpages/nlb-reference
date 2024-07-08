@@ -936,42 +936,292 @@ SIN</p>
 <p></p>
 <p><strong>Books on the Malayan Campaign and Fall of Singapore</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Callahan, Raymond. (2001). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10401645" rel="noopener noreferrer nofollow" target="_blank">The worst disaster: The fall of Singapore</a></em>.
-Singapore: Cultured Lotus.</p>
-<p>Call No.: RSING 940.5425 CAL</p>
+Singapore: Cultured Lotus. Call No.: RSING 940.5425 CAL</p>
+</li>
+<li>
 <p>Corfield, Justin J. (1988). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4886448" rel="noopener noreferrer nofollow" target="_blank">A bibliography of literature relating to the Malayan campaign and the Japanese period in Malaya, Singapore, and northern Borneo</a></em>.
-Hull: University of Hull, Centre for Southeast Asian Studies.</p>
-<p>Call No.: RSING 016.9405425 COR</p>
+Hull: University of Hull, Centre for Southeast Asian Studies. Call No.:
+RSING 016.9405425 COR</p>
+</li>
+<li>
 <p>Elphick, Peter. (1995). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=8802861" rel="noopener noreferrer nofollow" target="_blank">Singapore: The pregnable fortress</a></em>.
-London: Coronet.</p>
-<p>Call No.: RSING 940.5425 ELP</p>
+London: Coronet. Call No.: RSING 940.5425 ELP</p>
+</li>
+<li>
 <p>Falk, Stanley L. (1975). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=187408" rel="noopener noreferrer nofollow" target="_blank">Seventy days to Singapore: The Malayan Campaign, 1941-1942</a></em>.
-London: Hale.</p>
-<p>Call No.: RSING 940.5425 FAL</p>
+London: Hale. Call No.: RSING 940.5425 FAL</p>
+</li>
+<li>
 <p>Farrell, Brian P. (2005). <em><a href="http://eservice.nlb.gov.sg/det_12519274.aspx?mode=BR" rel="noopener noreferrer nofollow" target="_blank">The defence and fall of Singapore 1940-1942</a></em>.
-Stroud, Gloucestershire: Tempus.</p>
-<p>Call No.: RSING 940.5425 FAR</p>
+Stroud, Gloucestershire: Tempus. Call No.: RSING 940.5425 FAR</p>
+</li>
+<li>
 <p>Frei, Henry. (2004). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11919202" rel="noopener noreferrer nofollow" target="_blank">Guns of February: Ordinary Japanese soldiers' views of Malayan campaign and the fall of Singapore 1941-42</a></em>.
-Singapore: Singapore University Press.</p>
-<p>Call No.: RSING 940.5425 FRE</p>
+Singapore: Singapore University Press. Call No.: RSING 940.5425 FRE</p>
+</li>
+<li>
 <p>Hack, Karl &amp; Blackburn, Kevin. (2004). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12060408" rel="noopener noreferrer nofollow" target="_blank">Did Singapore have to fall?: Churchill and the impregnable fortress</a></em>.
-London; New York, N.Y.: RoutledgeCurzon.</p>
-<p>Call No.: RSING 940.5425 HAC</p>
+London; New York, N.Y.: Routledge Curzon. Call No.: RSING 940.5425 HAC</p>
+</li>
+<li>
 <p>Glover, Edwin Maurice. (1949). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5014436" rel="noopener noreferrer nofollow" target="_blank">In 70 days: The story of the Japanese campaign in British Malaya</a></em>.
-London: F. Muller.</p>
-<p>Call No.: RCLOS 940.53595 GLO</p>
+London: F. Muller. Call No.: RCLOS 940.53595 GLO</p>
+</li>
+<li>
 <p>Louis, Allen. (1993). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6703022" rel="noopener noreferrer nofollow" target="_blank">Singapore, 1941-1942</a></em>.
-London; Portland, Or: Frank Cass.</p>
-<p>Call No.: RSING 940.5425 ALL</p>
+London; Portland, Or: Frank Cass. Call No.: RSING 940.5425 ALL</p>
+</li>
+<li>
 <p>Moffatt, Jonathan &amp; McCormick, Audrey Holmes. (2002). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11112886" rel="noopener noreferrer nofollow" target="_blank">Moon over Malaya: A tale of Argylls and marines</a></em>.
-Stroud: Tempus.</p>
-<p>Call No.: RSING 940.5425 MOF</p>
+Stroud: Tempus. Call No.: RSING 940.5425 MOF</p>
+</li>
+<li>
 <p>Owen, Frank. (2001). <em><a href="http://eservice.nlb.gov.sg/det_10823519.aspx?mode=BR" rel="noopener noreferrer nofollow" target="_blank">The fall of Singapore</a></em>.
-London: Penguin Books.</p>
-<p>Call No.: RSING 940.5425 OWE</p>
+London: Penguin Books. Call No.: RSING 940.5425 OWE</p>
+</li>
+<li>
 <p>Simson, Ivan. (1981). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4635581" rel="noopener noreferrer nofollow" target="_blank">Singapore: Too little, too late; some aspects of the Malayan disaster in 1942</a></em>.
-Kuala Lumpur: UMCB Publications.</p>
-<p>Call No.: RSING 940.5425 SIM</p>
+Kuala Lumpur: UMCB Publications. Call No.: RSING 940.5425 SIM</p>
+</li>
+<li>
 <p>Warren, Alan. (2002). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11014741" rel="noopener noreferrer nofollow" target="_blank">Singapore 1942: Britain's greatest defeat</a></em>.
-Singapore: Talisman.</p>
-<p>Call No.: RSING 940.5425 WAR</p>
+Singapore: Talisman. Call No.: RSING 940.5425 WAR</p>
+</li>
+</ul>
+<p></p>
+<h3><strong>Personal Accounts</strong></h3>
+<p>Besides published resources, personal accounts of the war and the Japanese
+occupation can also be retrieved from oral history records. The National
+Archives of Singapore has a large collection of oral history records and
+they can be located through the Archives’ Oral History Centre database
+or their publications stated below.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Lam, Bee Goh &amp; Wong, Hway Fei. (1986). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4452143" rel="noopener noreferrer nofollow" target="_blank">Syonan: Singapore under the Japanese; A catalogue of oral history interviews</a></em>.
+Singapore: Oral History Dept. Call No.: RSING 959.57023 SYO</p>
+</li>
+<li>
+<p>Tan, Beng Luan. (1988). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4693352" rel="noopener noreferrer nofollow" target="_blank">A Battle to be remembered: Oral history extracts of war-time Singapore</a></em>.
+Singapore: Oral History Dept. Call No.: RSING 940.54861 BAT</p>
+</li>
+<li>
+<p>National Archives of Singapore Oral History Records
+<br>
+</p>
+</li>
+</ul>
+<p><strong>Introduction</strong>
+</p>
+<p>Similar to the other ethnic communities in Singapore, the Eurasian community
+had a difficult time during the Japanese Occupation. Almost immediately
+after the British surrendered, the entire community was summoned by the
+Japanese to undergo mass screening. During the screening, many Eurasians
+who were suspected to have taken part in the defence of Malaya and Singapore
+were arrested. As for the rest, they were ordered back to return to their
+livelihood but under the constant surveillance of the Japanese secret police
+or the Kempeitai. In 1943, the Japanese decided to set up an agricultural
+settlement for the Eurasians in Bahau in order to ease the food shortage
+problem in Singapore. From December 1943 to April 1944, some 2,000 Eurasians
+left Singapore for Bahau. However, most of the settlers had little knowledge
+of farming and found life tough at Bahau. Many suffered from malnutrition,
+as they were unable to make themselves more self-sufficient in food. In
+addition, they were plagued by malaria and other diseases. It was estimated
+that some 500 people lost their lives there, including their leader Bishop
+Devals. The wartime experience of the Eurasians in Singapore and Bahau
+can be found in the autobiographies and biographies below. They are authored
+by Eurasians as well as those who had interacted with the Eurasian community
+during the Japanese Occupation.</p>
+<p></p>
+<p><strong>Eurasian Accounts</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Shinozaki, Mamoru. (1973). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081691" rel="noopener noreferrer nofollow" target="_blank">My wartime experiences in Singapore</a></em>.
+Singapore: Institute of Southeast Asian Studies. Call No.: RSING 959.57023
+SHI</p>
+</li>
+<li>
+<p>Oehlers, Jock. (2007). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13063864" rel="noopener noreferrer nofollow" target="_blank">Sunshine and shadow: Memoirs of a new Australian from Singapore</a></em>.
+Carine, W.A.: F.A.C. Oehlers. Call No.: RSING 617.6092 OEH</p>
+</li>
+<li>
+<p>Van Cuylenburg, John Bertram. (1982). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4080104" rel="noopener noreferrer nofollow" target="_blank">Singapore through sunshine and shadow</a></em>.
+Singapore: Heinemann Asia. Call No.: RSING 959.57 VAN</p>
+</li>
+<li>
+<p>Shelley, Rex &amp; Chen, Fen. (2010). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13348517" rel="noopener noreferrer nofollow" target="_blank">Dr Paglar: Everyman's hero</a></em>.
+Singapore: Straits Times Press. Call No.: RSING 610.92 SHE</p>
+</li>
+<li>
+<p>Kenneison, Rebecca. (2012). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14082058" rel="noopener noreferrer nofollow" target="_blank">Playing for Malaya: A Eurasian family in the pacific war</a></em>.
+Singapore: NUS Press. Call No.: RSING 959.5103 KEN</p>
+</li>
+<li>
+<p>Follows the investigations into an Englishwoman's family tree which leads
+to a Eurasian branch with links to Burgher Ceylon, multicultural Malaya
+and the war-torn Pacific of the 1930s and 1940s. Primarily of families
+in Malaysia</p>
+</li>
+<li>
+<p>O'Donovan, Patricius. (2008). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13112699" rel="noopener noreferrer nofollow" target="_blank">Jungles are never neutral: War-time in Bahau</a></em>.
+Ipoh, Malaysia: Media Masters Publishing. Call No.: RSING 940.5308827178
+ODO</p>
+</li>
+<li>
+<p>Oehlers, Jock. (2011). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14056121" rel="noopener noreferrer nofollow" target="_blank">That's how it goes: The way of the 90-year life journey of a Singapore Eurasian</a></em>.
+Singapore: Select Pub. Call No.: RSING 617.6092 OEH</p>
+</li>
+<li>
+<p>Shinozaki, Mamoru. (1992). <em><a href="http://eservice.nlb.gov.sg/det_6324392.aspx?mode=BR" rel="noopener noreferrer nofollow" target="_blank">Syonan, my story: The Japanese occupation of Singapore</a></em>.
+Singapore: Times Books International. Call No.: RSING 959.57023 SHI</p>
+</li>
+<li>
+<p>La Brooy, Muriel. (1987). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5071148" rel="noopener noreferrer nofollow" target="_blank">Where is thy victory?</a></em>.
+Singapore: [s.n.]. Call No.: RSING 940.5481 LAB</p>
+</li>
+</ul>
+<p><strong>Bahau Settlement</strong>
+</p>
+<p>Bahau Settlement was an agricultural settlement set up at Bahau in the
+Malayan state of Negri Sembilan during the Japanese Occupation. The settlement
+was set up under a self-sufficiency scheme initiated by the Japanese authorities
+to ease the food supply problem in Singapore. Under the scheme, Singaporeans
+were encouraged to resettle outside Singapore, in areas where they could
+farm and live off the land. The Bahau Settlement was specially set up for
+Eurasians and Chinese Roman Catholics. It was also known as <em>Fuji-go</em>,
+which means "Fuji village". Below are some resources that covered this
+topic.</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chandran, K. (2006, April 15). <a href="http://newspapers.nl.sg/Digitised/Article/straitstimes20060415.2.53.3.5.aspx" rel="noopener noreferrer nofollow" target="_blank">Retelling the Eurasian WWII story</a>. <em>The Straits Times</em>.</p>
+</li>
+<li>
+<p>M. Braga-Blake (Ed.). (1992). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6319425" rel="noopener noreferrer nofollow" target="_blank">Singapore Eurasians: Memories and hopes</a></em> (pp.112-116).
+Singapore: Published for Eurasian Association, Singapore, by Times Editions.
+Call no.: RSING 305.80405957 SIN</p>
+</li>
+<li>
+<p>Lee, G. B. (1992). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6272416" rel="noopener noreferrer nofollow" target="_blank">Syonan Singapore under the Japanese 1942 - 1945</a></em> (pp.
+105-107). Singapore: Singapore Heritage Society. Call no.: RSING 959.57023
+LEE</p>
+</li>
+<li>
+<p>Shinozaki, M. (1982). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6324392" rel="noopener noreferrer nofollow" target="_blank">Syonan - my story: the Japanese occupation of Singapore</a></em>.
+(pp. 87-92). Singapore: Times Books International. Call no.: RSING 959.57023
+SHI</p>
+</li>
+<li>
+<p>Sidhu, H. (1991). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203841" rel="noopener noreferrer nofollow" target="_blank">The Bamboo fortress: True Singapore war stories</a></em> (pp.
+233-245). Singapore: Native Publications. Call no.: RSING 959.57023 SID</p>
+</li>
+<li>
+<p>Tan, B. L., &amp; Quah, I. (1996). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7971548" rel="noopener noreferrer nofollow" target="_blank">The Japanese Occupation 1942-1945: A pictorial record of Singapore during the war</a></em> (pp.
+7, 94, 133, 136, 138, 139). Singapore: Times Editions. Call no.: RSING
+940.5425 TAN</p>
+</li>
+<li>
+<p>Turnbull, C. M. (1989). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5178825" rel="noopener noreferrer nofollow" target="_blank">A History of Singapore: 1819-1988</a></em> (2nd
+ed) (p. 208). Singapore: Oxford University Press. Call no.: RSING 959.57
+TUR</p>
+</li>
+<li>
+<p><a href="https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20060415.2.53.3.3.aspx" rel="noopener noreferrer nofollow" target="_blank">When paradise became prison camp</a> .
+(2006, April 15). <em>The Straits Times.</em>
+</p>
+</li>
+</ul>
+<p><em><br></em><strong>Birth, Marriage and Death Records of Bahau Settlement</strong>
+</p>
+<p></p>
+<p>The birth, marriage and death records of Bahau Settlement can be found
+in the records of the <strong>Church of Saints Peter &amp; Paul</strong> at
+Queen Street. Users can access the records via the National Archives of
+Singapore.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://nas.gov.sg/archivesonline" rel="noopener noreferrer nofollow" target="_blank">Registers of Baptism, Death and Confirmation at Fujigo, or Bahau settlement at Negri Sembilan</a> (Microfilm
+No.: NA 033)</p>
+<p></p>
+<p><strong>The Rest of the Community</strong>
+</p>
+<p>Life during the Japanese occupation was exceptionally difficult. Not only
+the population in Singapore had to deal with malnourishment, they also
+lived in constant fear of being arrested by the Japanese. These books provide
+a good overview on the social conditions during the Japanese occupation
+of Singapore including the issues and hardships the people faced under
+the Japanese.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Caffrey, Kate. <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4162267" rel="noopener noreferrer nofollow" target="_blank">Out in the midday sun: Singapore 1941-45</a></em>.
+London: Deutsch.</p>
+</li>
+<li>
+<p>Call No.: RSING 940.5425 CAF</p>
+</li>
+<li>
+<p>Kratoska, Paul H. (1998). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=8730882" rel="noopener noreferrer nofollow" target="_blank">The Japanese occupation of Malaya: A social and economic history</a></em>.
+St Leonards, N.S.W.: Allen &amp;Unwin.</p>
+</li>
+<li>
+<p>Call No.: RSING 959.5103 KRA</p>
+</li>
+<li>
+<p>Yoji, Akashi &amp; Mako, Yoshimura (Eds.). (2008). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12849736" rel="noopener noreferrer nofollow" target="_blank">New perspectives on the Japanese occupation in Malaya</a></em>.
+Singapore: NUS Press.</p>
+</li>
+<li>
+<p>Call No.: 940.5337 NEW</p>
+</li>
+<li>
+<p>Lee, Geok Boi. (2005). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12661517" rel="noopener noreferrer nofollow" target="_blank">The Syonan years: Singapore under Japanese rule, 1942-1945</a></em>.
+Singapore: National Archives of Singapore and Epigram.</p>
+</li>
+<li>
+<p>Call No.: q940.53957 LEE</p>
+</li>
+<li>
+<p>Tan, Beng Luan &amp; Quah, Irene. (1996). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7971548" rel="noopener noreferrer nofollow" target="_blank">The Japanese occupation 1942-1945: A pictorial record of Singapore during the war</a></em>.
+Singapore: Times Editions.</p>
+</li>
+<li>
+<p>Call No.: RSING 940.5425 TAN</p>
+</li>
+<li>
+<p>Chin, Kee Onn. (1976). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082027" rel="noopener noreferrer nofollow" target="_blank">Malaya upside down</a></em>.
+Singapore: Federal Publications.</p>
+</li>
+<li>
+<p>Call No.: RCLOS 940.53595 CHI</p>
+</li>
+<li>
+<p>Cooper, Bryan C. (2001). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10200742" rel="noopener noreferrer nofollow" target="_blank">Decade of change: Malaya and the Straits Settlements, 1936-1945</a></em>.
+Singapore: Graham Brash.</p>
+</li>
+<li>
+<p>Call No.: RSING 959.57 COO</p>
+</li>
+<li>
+<p>Low, Ngiong Ing. (2004). <em><a href="http://eservice.nlb.gov.sg/det_12236444.aspx?mode=BR" rel="noopener noreferrer nofollow" target="_blank">When Singapore was Syonan-to</a></em>.
+Singapore: Times Editions.</p>
+</li>
+<li>
+<p>Call No.: RSING 940.54815957 LOW</p>
+</li>
+<li>
+<p>Foong, Choon Hon. (1997). <em><a href="http://eservice.nlb.gov.sg/det_8468498.aspx?mode=BR" rel="noopener noreferrer nofollow" target="_blank">The price of peace: True accounts of the Japanese occupation</a></em>.
+Singapore: Asiapac.</p>
+</li>
+<li>
+<p>Call No.: RSING 959.57 PRI</p>
+</li>
+<li>
+<p>Tan, Stanley Tik Loong. (2009). <em><a href="http://eservice.nlb.gov.sg/det_13221326.aspx?mode=BR" rel="noopener noreferrer nofollow" target="_blank">Syonan years, 1942-1945: Living beneath the rising sun</a></em>.
+Singapore: National Archives of Singapore.</p>
+</li>
+<li>
+<p>Call No.: RSING 940.530745957</p>
+</li>
+</ul>
+<p></p>
