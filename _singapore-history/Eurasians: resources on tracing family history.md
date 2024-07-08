@@ -161,6 +161,798 @@ Singapore: Microfilm Service, University of Singapore.</p>
 </tbody>
 </table>
 <p></p>
+<h3><strong>Origins of the Singapore-Eurasians</strong></h3>
+<p></p>
+<p><strong>Tracing the Roots of the Singapore-Eurasians</strong>
+</p>
+<p>The ancestries of Singapore-Eurasians could be traced to the European
+traders, explorers and administrators who at different periods between
+the 16<sup>th</sup> and 20<sup>th</sup> centuries followed the growth of
+the trade route between Europe and Asia to take up residency in European
+settlements in India, Ceylon, Burma, Malaya, the Malay Archipelago, Indo-China
+and China. During their residency, some of these European settlers chose
+to intermarry and establish families with the native population, thus giving
+rise to a Eurasian identity. The European groups that mainly make up the
+European ancestries of Singapore-Eurasians were the Portuguese, Dutch and
+British. It also includes the French, Spanish, German, Danish, Italian
+but to a lesser extent.</p>
+<p>This section lists out the resources that will help us trace the origins
+of the Singapore-Eurasian community. It focuses on the three major European
+groups – Portuguese, Dutch and British – that made up the Eurasian community
+in Singapore. The resources that are listed in this section can be found
+in the National Library collection as well as the web.</p>
+<p></p>
+<p><strong>References</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Braga-Blake, Myrna &amp; Ebert-Oehlers, Ann. (1992). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6319425" rel="noopener noreferrer nofollow" target="_blank">Singapore Eurasians: Memories and hopes</a></em>.
+Singapore: Times Editions.</p>
+</li>
+<li>
+<p>Daus, Ronald. (1989). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5196987" rel="noopener noreferrer nofollow" target="_blank">Portuguese Eurasian communities in Southeast Asia</a>.</em> Singapore:
+Institute of Southeast Asian Studies.</p>
+</li>
+<li>
+<p>De Witt, Dennis. (2007). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13089495" rel="noopener noreferrer nofollow" target="_blank">History of the Dutch in Malaysia</a>.</em> Selangor,
+Malaysia: Nutmeg Publications.</p>
+</li>
+<li>
+<p>Nonis, Eustace Anthony. (2012). <em>The Eurasians: A Founding Community Of Penang</em>.
+Penang: Eustace Anthony Nonis.</p>
+</li>
+</ul>
+<p><strong>Eurasians of Portuguese Decent - Kristang</strong>
+</p>
+<p>Kristang, or Papiah Kristang, is a Creole language born from the contacts
+between speakers of Portuguese and speakers of local and other languages
+at the time. Kristang can trace its origins to Portugal’s conquest of the
+maritime trade routes and the establishment of numerous trading posts along
+these routes in the 16<sup>th</sup> century, particularly Malacca. In fact,
+Kristang was the language often used by the Portuguese <em>casado</em> class
+or the <em>mestico</em> population (Portuguese married to local women loyal
+to the Portuguese Crown) in Malacca. Today, Kristang is still used by people
+of Portuguese descent in Malacca and elsewhere in Malaysia and Singapore.
+Below are examples of Kristang phrases and words.</p>
+<p>Thank You: Mutu Merseh</p>
+<p>How Are You?: Teng Bong?</p>
+<p>Good Morning: Bong Pamiang</p>
+<p>Good Afternoon: Bong Midia</p>
+<p>Good Evening: Bong Atadi</p>
+<p>Good Night: Bong Anuti</p>
+<p>Mother: Mai</p>
+<p>Father: Pai</p>
+<p>Wife: Muleh</p>
+<p>Husband: Maridu</p>
+<p>Beautiful: Bonitu</p>
+<p>&nbsp;</p>
+<p><strong>References</strong>
+</p>
+<p>Baxter, Alan N. &amp; De Silva, Patrick. (2004). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12761651" rel="noopener noreferrer nofollow" target="_blank">A dictionary of Kristang</a></em>.
+Canberra: Pacific Linguistics.</p>
+<p>Scully, Valerie &amp; Zuzarte, Catherine. (2004). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12264507" rel="noopener noreferrer nofollow" target="_blank">The most comprehensive Eurasian heritage dictionary: Kristang-English, English-Kristang</a></em>.
+Singapore: SNP Reference.</p>
+<p></p>
+<p><strong>Portuguese Surnames</strong>
+</p>
+<p>Portuguese commoners did not have fixed hereditary surnames until the
+use and registry of surnames were enforced in Portugal in 1755. Prior to
+then, hereditary surnames were only used by the Portuguese nobilities as
+means to convey lineage. However, most Portuguese had names in addition
+to their given names as identifiers. These identifying names originated
+from various naming customs that were common in both Portugal and the rest
+of Europe. One of the most common naming conventions was patronymics where
+a personal name was based on the name of one's father. For instance, names
+such as Henriques, Rodrigues and Fernandes are derived from patronymics
+as the suffix “-es” means “son of”. As a result, Henriques means son of
+Henriques, while Rodrigues and Fernandes mean son of Rodrigo and son of
+Fernando. In Spanish patronymics, the suffix is “-ez” instead of “-es”.</p>
+<p>Similar to naming practices in other parts of Europe, identifying names
+could also derive from the individual’s place of origin, trades, characteristics
+and physical attributes. Therefore, it is common to see prepositions such
+as “de”, “da”, “das” or “dos” in Portuguese names. These prepositions are
+contractions of the preposition “de” which is Portuguese for “from the”
+or “of the”. Some examples of these names are de Sousa (from Sousa), da
+Silva (from the woods), and dos Santos (of the saints). Identifying names
+with religious meaning are also common among the Portuguese. A possibility
+why individuals adopted such names could be because he or she wanted to
+demonstrate their Catholic faith. Examples of such names are <em>da Conceição</em> (of
+the Immaculate Conception of the Virgin Mary), <em>Pascoal</em> (of Easter)
+and <em>Ramos</em> (branches, from Palm Sunday).</p>
+<p>After surnames were enforced, Portuguese commoners started to use these
+identifying names as their hereditary surnames. As Portuguese law allows
+each individual to have up to six names (two given names and four surnames),
+it is common for a Portuguese to include the surnames from his or her paternal
+and maternal families.</p>
+<p>Below are some Eurasian families in Singapore with Portuguese names:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>de Souza</p>
+</li>
+<li>
+<p>Pereira</p>
+</li>
+<li>
+<p>Sequeira</p>
+</li>
+<li>
+<p>Aroozoo</p>
+</li>
+<li>
+<p>Oliveria</p>
+</li>
+<li>
+<p>D'Almeida</p>
+</li>
+<li>
+<p>da Silva</p>
+</li>
+<li>
+<p>Noronha</p>
+</li>
+<li>
+<p>Cardoza</p>
+</li>
+<li>
+<p>Fernando</p>
+</li>
+<li>
+<p>Noronha</p>
+</li>
+<li>
+<p>Lopez</p>
+</li>
+<li>
+<p>Gomes</p>
+</li>
+<li>
+<p>Fernandez</p>
+</li>
+<li>
+<p>de Costa</p>
+</li>
+<li>
+<p>Cruz</p>
+</li>
+<li>
+<p>Conceicao</p>
+</li>
+</ul>
+<p><strong>Source: </strong>Braga-Blake, Myrna &amp; Ebert-Oehlers, Ann.
+(1992). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6319425" rel="noopener noreferrer nofollow" target="_blank">Singapore Eurasians: Memories and hopes</a></em>.
+Singapore: Times Editions.</p>
+<p><strong>Portuguese Roots</strong>
+</p>
+<p>Examination of Singapore-Eurasian roots must begin with the Portuguese
+as they were the first to establish settlements in Asia in places such
+as Goa, Ceylon, Malacca and Macau in the early 16<sup>th</sup> century.
+With the object to propagate a local population that was loyal to the Portuguese
+crown in these settlements, marriages between Portuguese settlers and native
+women were encouraged. Some of these Portuguese-Eurasian families that
+were established through this union who would later migrate to Singapore
+included the names Cardoza (Goa), Fernando (Ceylon), de Souza (Malacca),
+Oliveira (Malacca), da Silva (Macau) and Noronha (Macau). The language
+that they used was Portuguese Creoles. In Malacca, however, it was Kristang.
+As for religion, the Portuguese-Eurasians were mostly Roman Catholics.
+Depending on where they were located, Portuguese-Eurasians were known as <em>Luso-Indian</em> (India), <em>Kristang </em>(Malacca)
+or <em>Macanese</em> (Macau). They were also called <em>Mestico</em> or <em>Filhos da terra</em> (children
+of the land) in general.</p>
+<p><strong>Books</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Bland, Robert Norman. (1905). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4123665" rel="noopener noreferrer nofollow" target="_blank">Historical tombstones of Malacca, mostly of Portuguese origin</a></em>.
+London: E Stock. Call No.: RRARE, RDTYS 959.53 BLA. Microfilm No.: NL 16200</p>
+</li>
+<li>
+<p>Borschberg, Peter (Ed.).2004. <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12493225" rel="noopener noreferrer nofollow" target="_blank">Iberians in the Singapore-Melaka area and adjacent regions</a> (16th to 18th century).</em>Wiesbaden,
+Harrassowitz, Lisboa.Fundação Oriente. Call No.: RSING/SING.959.50046
+IBE</p>
+<p>Chan, Kok Eng. (1983). The Eurasians of Malacca. In Kernial Singh Sandhu
+et. al (Eds.) <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=3012636" rel="noopener noreferrer nofollow" target="_blank">Melaka: The transformation of a Malay capital, 1400 – 1980</a></em>.
+Kuala Lumpur, New York: Oxford University Press. Call No.: RSING 959.5141
+MEL</p>
+</li>
+<li>
+<p>Daus, Ronald. (1989). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5196987" rel="noopener noreferrer nofollow" target="_blank">Portuguese Eurasian communities in Southeast Asia</a>.</em> Singapore:
+Institute of Southeast Asian Studies. Call No.: RSING 305.869059 DAU</p>
+</li>
+<li>
+<p>De Silva Jayasuriya, Shihan. (2008). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13209567" rel="noopener noreferrer nofollow" target="_blank">The Portuguese in the East: A Cultural History of a Maritime Trading Empire</a></em>.
+London: Tauris Academic Studies. Call No.: RSING 950 JAY</p>
+<p>This book charts the influences of the Portuguese in more than fifty Asian
+tongues, illustrating the extent of Lusitanian links. Luso-Asian influence
+became engrained in eastern cultures in more subtle ways than other European
+empires which followed, such as the Portuguese oral traditions in folk
+literature, now embedded in postcolonial Asian music and song.</p>
+</li>
+<li>
+<p>Gunn, Geoffrey C. (2003). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12329239" rel="noopener noreferrer nofollow" target="_blank">First globalization: The Eurasian exchange, 1500 to 1800</a></em>.
+Lanham, Md.: Rowman &amp; Littlefield. Call No.: R 303.482504 GUN</p>
+<p>This book presents an original and sweeping conceptualization of the cultural
+and civilizational encounter between Asia and Europe. Using metageography
+of the vast Eurasian zone, this book shows how between 1500 and 1800, a
+lively two-way flow in ideas, philosophies, and cultural products brought
+competing civilizations into serious dialogue and mostly peaceful exchange.</p>
+</li>
+<li>
+<p>Harfield, Alan. G. (1979). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4119232" rel="noopener noreferrer nofollow" target="_blank">Christian cemeteries and memorials in Malacca and Rasah New Village</a></em>.
+London: British Association for Cemeteries in South Asia. Call No.: RSING
+929.509595141 HAR</p>
+<p>From the Portuguese time in 1511 through the Dutch occupation (1641-1795)
+and the British period. Also includes a short history with lists of churches
+and MIs as well as an account of the local conflicts with lists of casualties
+in the Malayan Emergency.</p>
+</li>
+<li>
+<p>Jarnagin, Laura (2011). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14267679" rel="noopener noreferrer nofollow" target="_blank">Portuguese and Luso-Asian legacies in Southeast Asia, 1511-2011</a></em>.
+Singapore: Institute of Southeast Asian Studies. Call No.: RSING 305.869105
+POR</p>
+<p>This book contains case studies that analyse and discuss the intricate
+consequences of Portuguese interactions in Asia. By combing original archival
+and/or field research with innovative historiographical perspectives, the
+case studies explore the Luso-Asian communities as well as the material
+and symbolic nature of the Luso-Asian heritage with depth and insight.</p>
+</li>
+<li>
+<p>Pintado, M.J. (1993). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6534928" rel="noopener noreferrer nofollow" target="_blank">Portuguese documents on Malacca</a></em>.
+Kuala Lumpur: National Archives of Malaysia. Call No.: RSING 959.5102 PIN&nbsp;</p>
+</li>
+<li>
+<p>Rony, Abdul Kohar &amp; Wiarda, Iéda Siqueira. (1997). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9344073" rel="noopener noreferrer nofollow" target="_blank">The Portuguese in Southeast Asia: Malacca, Moluccas, East Timor</a></em>.
+Hamburg: Abera Verlag. Call No.: RSING 016.3058691059 RON</p>
+<p>A bibliography containing citations of resources that explore the topic
+of Portuguese in Southeast Asia.</p>
+</li>
+<li>
+<p>Sarkissian, Margaret. (2000). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9804058" rel="noopener noreferrer nofollow" target="_blank">D'Albuquerque's children: performing tradition</a></em>.
+Chicago: The University of Chicago Press. Call No.: RSING 959.51004691
+SAR</p>
+<p>When the Portuguese seafarer Afonso de Albuquerque conquered the bustling
+port of Malacca in 1511, he effectively gained control of the entire South
+China Sea spice trade. Although their dominance lasted only 130 years,
+the Portuguese legacy lies at the heart of a burgeoning tourist attraction
+on the outskirts of the city, in which performers who believe they are
+the descendants of swashbuckling Portuguese conquerors encapsulate their
+"history" in a cultural stage show. Using historical and ethnographic data,
+Margaret Sarkissian reveals that this music and dance draws on an eclectic
+array of influences that span the Portuguese diaspora.</p>
+</li>
+<li>
+<p>Smith, Stefan Halikowski. (2011). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14240805" rel="noopener noreferrer nofollow" target="_blank">Creolization and diaspora in the Portuguese Indies: the social world of Ayutthaya, 1640-1720</a></em>.
+Leiden; Boston: Brill. Call No.: RSING 305.86910593 SMI</p>
+</li>
+<li>
+<p>Teixeira, Manuel. (1961). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=1048109" rel="noopener noreferrer nofollow" target="_blank">The Portuguese missions in Malacca and Singapore, 1511-1958</a></em>.
+Lisboa: Agência Geral do Ultramar. Call No.: RCLOS 266.25953 TEI v. 1-3</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Eurasians of Dutch Descent</strong>
+</p>
+<p><strong>The Burghers</strong>
+</p>
+<p>The Burghers are a Eurasian ethnic group, historically from Sri Lanka,
+consisting for the most part of the male-line descendants of the European
+colonists and of the maternal ancestry of Sinhalese and Tamil. The term
+"Burgher" was first introduced by the Dutch to identify the mixed Eurasian
+people in Ceylon when they took over the island from the Portuguese. It
+comes from the Dutch word Burger, meaning "citizen" or "resident". People
+of mixed ancestry were not allowed citizenship of the country of their
+European fathers, nor of their Asian mothers, so a compromise was found
+whereby they would be citizens of the towns of their birth, and they were
+known as "Burgers".</p>
+<p><strong>References</strong>
+</p>
+<p>Kanagasingam, Rajkumar. (2006, September 23). "An Exploration Into Eurasians:
+The Burghers of Sri Lanka". <em>ezinearticles</em>. <a rel="noopener noreferrer nofollow" target="_blank">http://EzineArticles.com/308085</a>.</p>
+<p>Muller, J. B. (2006). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13035528" rel="noopener noreferrer nofollow" target="_blank">The Burghers</a></em>.
+Colombo: Wimal Enterprises.</p>
+<p><strong>Dutch Surnames</strong>
+</p>
+<p>In the Netherlands, the Dutch nobilities had been using fixed surnames
+to denote their hereditary lineage as early as the 16<sup>th</sup> century.
+However, this practice was adopted by the commoners until much later. Nonetheless,
+the commoners used names in addition to their given names in order to identify
+themselves. One common naming method, which goes back to the 15<sup>th</sup> century,
+was the using patronymic names. Patronymic means the child’s last name
+would be a form of the father’s given name. Thus, Claus, son of Barent,
+would be Claus Barents or Claus Barentsz, Barentsen or Barentszen, depending
+on how certain regions used abbreviate the “z” in “zoon,” Dutch for “son”.</p>
+<p>Other naming methods that the Dutch commonly used were by the individual’s
+place of origin, their physical attributes, characteristics and trades.
+As a result, many Dutch names have prepositions like “van”, “van der”,
+or “de” which are Dutch for “of”, “of the” and “the” respectively. Some
+examples of these names are van Dyke (of the dike), van der Bilt (from
+the hill), de Wit (the white) and de Groot (the great).</p>
+<p>The Dutch commoners only started to use these names as their hereditary
+surnames after the introduction of the civil registry in which all persons
+were required to have a fixed surname in 1811. Some of these names would
+undergo some variations after the families left Netherlands to settle in
+the colonies. For example, those who settled in the British colonies changed
+the spelling of their surnames to adapt to the English sound set. For instance,
+Filips becomes Philips while Abels becomes Ables.</p>
+<p>Below are some Eurasian families in Singapore with Dutch names:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Westerhout</p>
+</li>
+<li>
+<p>Kloezeman</p>
+</li>
+<li>
+<p>van Cuylenburg</p>
+</li>
+<li>
+<p>Yzelman</p>
+</li>
+<li>
+<p>Koek</p>
+</li>
+<li>
+<p>Baumgarten</p>
+</li>
+<li>
+<p>Cornelius</p>
+</li>
+<li>
+<p>de Vries</p>
+</li>
+<li>
+<p>Klass</p>
+</li>
+<li>
+<p>Klassen</p>
+</li>
+<li>
+<p>Kraal</p>
+</li>
+<li>
+<p>Velge</p>
+<p>Bartholomeusz</p>
+</li>
+<li>
+<p>Bogaars</p>
+</li>
+<li>
+<p>Ebert</p>
+</li>
+<li>
+<p>Geyzel</p>
+</li>
+<li>
+<p>Tessensohn</p>
+</li>
+<li>
+<p>Hartman</p>
+</li>
+</ul>
+<p><strong>Source: </strong>Braga-Blake, Myrna &amp; Ebert-Oehlers, Ann.
+(1992). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6319425" rel="noopener noreferrer nofollow" target="_blank">Singapore Eurasians: Memories and hopes</a></em>.
+Singapore: Times Editions.</p>
+<p></p>
+<p><strong>Dutch Roots</strong>
+</p>
+<p>When the Dutch took over the Portuguese in Malacca and Ceylon in the mid-16<sup>th</sup> century,
+they also established Eurasian families with local or existing Portuguese-Eurasian
+population. Baumgarten, Cornelius, de Vries, Klass, Klassen, Koek, Kraal,
+Velge and Westerhout were some of the Dutch-Eurasian family names that
+took root in Malacca. On the other hand, the family names Bartholomeusz,
+Bogaars, Ebert, Fruigtneit, Leembruggen, Scharenguivel, van Cuylenburg
+and van Geyzel were the Eurasians of Dutch descent originating in Ceylon
+or the <em>Burghers</em>. Dutch-Eurasian families carrying names like Yzelman
+were also established in the Dutch East Indies and were referred to as <em>Indo-Dutch</em> or <em>Indos</em>.
+Despite their Dutch heritage, some of the Dutch-Eurasians, particularly
+those in Malacca, spoke Portuguese Creoles with some even considered themselves
+as Portuguese-Eurasians. Otherwise, the Dutch-Eurasians would maintain
+their Dutch heritage and remain as Protestant. For the two groups of Dutch-Eurasians,
+they would later found their way to Singapore.</p>
+<p><strong>Books</strong>
+</p>
+<p>Boxer, Charles Ralph. (1947). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4500540" rel="noopener noreferrer nofollow" target="_blank">The Topasses of Timor</a></em>.
+Amsterdam: Indisch Instituut.</p>
+<p>Call No.: RCLOS 991.4 BOX [RFL]</p>
+<p>&nbsp;</p>
+<p>De Witt, Dennis. (2006). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13583660" rel="noopener noreferrer nofollow" target="_blank">Reconnecting through our roots</a></em>.
+Petaling Jaya, Selangor: D. De Witt.</p>
+<p>Call No.: RSING 959.5004393 DEW</p>
+<p>This book constitutes one of the very few publications to showcase the
+history, culture and heritage of the community of Dutch descendants in
+Malaysia. It also serves to highlight the continued existence of the Dutch
+descendants in Malaysia, as well as their ancestral connection to other
+similar communities from South Africa, Sri Lanka and Indonesia.</p>
+<p>&nbsp;</p>
+<p>De Witt, Dennis. (2007). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13089495" rel="noopener noreferrer nofollow" target="_blank">History of the Dutch in Malaysia</a>.</em> Selangor,
+Malaysia: Nutmeg Publications.</p>
+<p>Call No.: RSING 959.5004393 DEW</p>
+<p>Published as a contribution by the Malaysian Dutch descendants to commemorate
+Malaysia's 50 years of independence, the theme of my book focuses on the
+mutual heritage shared between Malaysia and the Netherlands. It also tells
+about ties of friendship, diplomacy and commerce shared between the Dutch
+and the Malays that goes all the way back to their first contact in 1602
+at Batu Sawar, Johor. The book includes a history of the Netherlands which
+lead to the founding of the Dutch East India Company; the first contact
+between the Dutch and the Malays in Johor; capture of Malacca, relationships
+between the Protestant Dutch and the Roman Catholic Portuguese-Eurasians
+in Dutch Malacca; their attempts to enhance trade, maintain diplomacy and
+create an equilibrium of power in the Straits; as well as an insight to
+the Dutch Admirals, Burghers, Governors and their administrative ranks
+in shaping Malaysia's history.</p>
+<p>&nbsp;</p>
+<p>Hardy, T. J. (Ed.). (1899). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4412601" rel="noopener noreferrer nofollow" target="_blank">Catalogue of church records, Malacca 1642-1898</a></em>.
+Singapore: Govt. Print. Off.</p>
+<p>Call No.: RRARE, RDTYS 275.953 HAR</p>
+<p>Microfilm No.: NL2769</p>
+<p>&nbsp;</p>
+<p>Jacobs, E. M. (2006). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12918326" rel="noopener noreferrer nofollow" target="_blank">Merchant in Asia: The Trade of the Dutch East India Company</a></em>.
+Leiden : CNWS Publications.</p>
+<p>Call No.: RSING 382.0949205 JAC</p>
+<p>&nbsp;</p>
+<p>Muller, J. B. (2006). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13035528" rel="noopener noreferrer nofollow" target="_blank">The Burghers</a></em>.
+Colombo: Wimal Enterprises.</p>
+<p>Call no.: R 305.891413 MUL</p>
+<p>&nbsp;</p>
+<p>Schenkhuizen, Marguérite. (1993). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6696160" rel="noopener noreferrer nofollow" target="_blank">Memoirs of an Indo woman: twentieth century life in the East Indies and abroad</a></em>.
+Athens, Ohio: Ohio University Centre for International Studies</p>
+<p>Call No.: RSING 959.8004042 SCH</p>
+<p>The memoirs of Marguerite Schenkhuizen provide an overview of practically
+the whole of the twentieth century as experienced by persons of mixed Dutch
+and Indonesian ancestry who lived in the former Dutch East Indies. The
+memoirs provide vignettes of Indonesian life, both rural and urban, as
+seen through the eyes of the author first as a girl, then as a wife separated
+from her husband during the Japanese occupation, finally as an immigrant
+to the United States after World War II. This self-portrait gives glimpses
+of the life of Indos from inside their society, glimpses that are valuable
+for their descendants as well as for outsiders.</p>
+<p>&nbsp;</p>
+<p>Taylor, Jean Gelman .(1983). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=2822861" rel="noopener noreferrer nofollow" target="_blank">The social world of Batavia: European and Eurasian in Dutch Asia</a></em>.
+Madison, Wis.: University of Wisconsin Press.</p>
+<p>Call No.: RSING 959.82 TAY</p>
+<p>In the 17<sup>th</sup> century, the Dutch established a trading base at
+the Indonesian site of Jacarta. What began as a minor colonial outpost
+under the name Batavia would become, over the next three centuries, the
+flourishing economic and political nucleus of the Dutch Asian Empire. In
+this pioneering study, Jean Gelman Taylor offers a comprehensive analysis
+of Batavia’s extraordinary social world such as its marriage patterns,
+religious and social organizations and economic interests. With an emphasis
+on the urban ruling elite, she argues that Europeans and Asians alike were
+profoundly altered by their merging, resulting in a distinctive hybrid,
+Indo-Dutch culture.</p>
+<p>&nbsp;</p>
+<p>Taylor, Jean Stewart. (1978). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5643847" rel="noopener noreferrer nofollow" target="_blank">The social world of Batavia: a history of Mestizo culture in Dutch Asia</a></em>.
+Ann Arbor, Mich.: University Microfilms International.</p>
+<p>Call No.: RCLOS 959.802 TAY</p>
+<p>&nbsp;</p>
+<p>Van Der Veur, Paul Willem. (1971). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=622632" rel="noopener noreferrer nofollow" target="_blank">The Eurasians of Indonesia; a political-historical bibliography</a>.</em> Ithaca,
+N.Y.: Modern Indonesia Project, Cornell University.</p>
+<p>Call No.: RCLOS 016.3014511040598 VAN</p>
+<p>&nbsp;</p>
+<p>Veur, Paul Willen van der. (1995). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5066632" rel="noopener noreferrer nofollow" target="_blank">Introduction to a socio-political study of the Eurasians of Indonesia</a></em>.
+Ann Arbor, Mich.: University Microfilms International.</p>
+<p>Call No.: RCLOS 301.45110420598 VEU</p>
+<p><strong>Articles</strong>
+</p>
+<p>Baxter, I. A. (1983). Dutch records from Malacca in the India Office Records. <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333" rel="noopener noreferrer nofollow" target="_blank">Journal of the Malaysian Branch of the Royal Asiatic Society</a></em>,
+Vol. 56, No. 2.</p>
+<p>Call No.: RCLOS 959.5 JMBRAS year 1989-1984.</p>
+<p>&nbsp;</p>
+<p>A brief overview of the resources from the Dutch Reformed Church in Malacca
+found at the National Archives of Malaysia. Unfortunately, out of Hardy’s
+35 volumes he described in “Catalogue of church records, Malacca 1642 –
+1898” only 14 volumes extending to 1825 from the original set studied by
+Hardy exist. They include baptismal registers, proceedings of the Church
+Council, financial records and miscellaneous resources. There are also
+the marriage and burial registers of the Roman Catholic St. Peter’s Church
+of Malacca. Listings of related resources added from the National Archives
+of the Netherlands in 1919 are also included.</p>
+<p>&nbsp;</p>
+<p>Van der Veur, Paul W. (Oct 1968). Cultural Aspects of the Eurasian Community
+in Indonesian Colonial Society. <em>Indonesia</em>, No. 6, pp. 38-53.</p>
+<p>From Database Name: <a href="http://eresources.nlb.gov.sg/browse.aspx?browse_by=A-Z&amp;filter1=P" rel="noopener noreferrer nofollow" target="_blank">JSTOR</a>
+</p>
+<p>This article discusses the European ancestries and the culture of the
+Eurasians in Indonesia. It traces the heritage of the Indonesian-Eurasian
+community to the Dutch as well as other nationalities such as the British,
+German and even Belgian. The article also gives examples of the some of
+the cultural practices that the Eurasians followed in Indonesia.</p>
+<p>&nbsp;</p>
+<p>Verhoeven, F.R.J. (1964). The Lost Archives of Dutch Malacca, 1641-1824. <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333" rel="noopener noreferrer nofollow" target="_blank">Journal of the Malaysian Branch of the Royal Asiatic Society</a></em>,
+Vol. 37, No. 2.</p>
+<p>Call No.: RCLOS 959.5 JMBRAS year 1964</p>
+<p>&nbsp;</p>
+<p>Wertheim, W. F. (Sept. 1947). The Indo-European Problem in Indonesia. <em>Pacific Affairs</em>,
+Vol. 20, No. 3, pp. 290-298.</p>
+<p>From Database Name: <a href="http://eresources.nlb.gov.sg/browse.aspx?browse_by=A-Z&amp;filter1=P" rel="noopener noreferrer nofollow" target="_blank">JSTOR</a>
+</p>
+<p><strong>Eurasians of British Descent</strong>
+</p>
+<p><strong>The term "Eurasians"</strong>
+</p>
+<p>The term “Eurasian” was coined by the British. It is said to be used around
+1820 to describe the people of European-Asian mixed blood descent. Prior
+to then, the group was referred to by the British as Anglo-Indians, Indon-Britons
+or even Christian natives. Under the new definition, the Eurasian group
+was assigned to a social status that was between the Europeans at the top
+and the remaining Asian masses. The term was regarded as derogatory in
+India and was rejected flatly. However, it gained currency in the Far East
+and Southeast Asia, including Singapore and Malaya.</p>
+<p><strong>References</strong>
+</p>
+<p>Daus, Ronald. (1989). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5196987" rel="noopener noreferrer nofollow" target="_blank">Portuguese Eurasian communities in Southeast Asia</a>.</em> Singapore:
+Institute of Southeast Asian Studies.</p>
+<p>Hawes, Christopher J. (1996). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11866843" rel="noopener noreferrer nofollow" target="_blank">Poor relations: the making of a Eurasian community in British India, 1773-1833</a></em>.
+Richmond, Surrey: Curzon Press.</p>
+<p><strong>English Surnames</strong>
+</p>
+<p>In Britain, hereditary surnames were introduced by the Norman barons after
+their conquest of Britain in 1066 and the 1086 Domesday survey. However,
+the practice spread slowly. Among the feudal nobility and gentry, hereditary
+surnames were adopted at a much faster pace. One reason was because they
+could be used to maintain their hereditary rights to the lands and titles
+they held, a practice that the Normans had been following in France even
+before they came to Britain.</p>
+<p>As for the commoners, it was sufficient for them to refer to each other
+by a personal name or nickname as their communities were still small. But
+as the population increased, it gradually became necessary for the commoners
+to include identifiers in their names to set themselves apart. The sources
+for these identifiers were endless. They could come from the person’s trades,
+physical attributes and place of origin thus leading to names such as John
+the butcher, William the short or Henry from Sutton. It was also often
+that patronymics, the using of the father’s given name as the child’s last
+name, were used. For example, John, the son of William, would be John Williamson
+or Williams.</p>
+<p>The identifying names were not fixed and they were often changed or dropped
+at will. For example, John the butcher may become John the carpenter after
+switching trades. It was only in 1538 during the reign of Henry VIII after
+the enactment of the Registration Act requiring people to record a permanent
+surname in Church registers for births, marriage and deaths that commoners
+adopted fixed hereditary surnames. However, as standardised spelling for
+both surnames and forenames did not arrive until the 19<sup>th</sup> century,
+some surnames underwent some variations. For instance, Thacker, Thackery
+and Thackwray are variation of Thatcher, a trade-related surname. In England
+alone there are around 45,000 different surnames, each with a history behind
+it.</p>
+<p>Below are some Eurasian families in Singapore with English names:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Leicester</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Clarke</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Richards</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Scully</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Stewart</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Moss</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Angus</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Woodford</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Traill</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Clunies-Ross</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lewis</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wheatley</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Norris</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Armstrong</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Houghton</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Shepherdson</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Shelley</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Blake</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; O'Hara</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Shears</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Baker</p>
+<p><strong>Source: </strong>Braga-Blake, Myrna &amp; Ebert-Oehlers, Ann.
+(1992). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6319425" rel="noopener noreferrer nofollow" target="_blank">Singapore Eurasians: Memories and hopes</a></em>.
+Singapore: Times Editions.</p>
+<p><strong>British Roots</strong>
+</p>
+<p>When the British began to make their presence felt in the region towards
+the end of the 18<sup>th</sup> century, many of them started families in
+India and the Malay Archipelago with local or Portuguese-descended women
+thus giving rise to Eurasian families with British heritage (including
+the Irish, Welsh and Scots). Among the earliest were the British-Eurasian
+families originated in India and Ceylon as well as in Bencoolen. The offspring
+of the British-Eurasians in Bencoolen were particularly noteworthy because
+they represented the earliest Eurasian families in Singapore. Among those
+were the names Leicester, Nicholson, Angus and Perreau. Some of the Singapore-Eurasian
+family names such as Cornelius, Clarke, Shepherdson, and Oliveiro could
+also trace their roots to the British colonies of Penang and Malacca, while
+others like Trails to Burma, Siam and Indo-China. In terms of language
+and culture, the British had the most influence on the Singapore-Eurasian
+community. But most of all, the British were the ones that introduced the
+term “Eurasian” in the 1820s to describe people of European-Asian mixed
+blood. The term was also used to classify and position the progeny of European-Asian
+intermarriages as British subjects that were in between the Europeans and
+the Asian en masse. In India, the term Eurasian was rejected by the Anglo-Indians
+outright but it gained traction in Southeast Asia and the Far East.</p>
+<p><strong>Books</strong>
+</p>
+<p>Brendon, Vyvyen. (2006). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12806611" rel="noopener noreferrer nofollow" target="_blank">Children of the Raj</a></em>.
+London: Phoenix.</p>
+<p>Call No.: R 954.00421 BRE</p>
+<p>Drawing on memoirs, journals, and oral testimonies, the book conjures
+up the brilliant scenes and exotic atmosphere of the Anglo-Indians through
+the rich narratives of the children themselves. Here are accounts of journeys
+across perilous seas and the heartache of long family separations, as children
+were banished to British boarding schools and grim holiday homes.</p>
+<p>&nbsp;</p>
+<p>Crabb, Henry C. (1960). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4078002" rel="noopener noreferrer nofollow" target="_blank">Malaya's Eurasians: An opinion</a></em>.
+Singapore: Published by D. Moore for Eastern Universities Press.</p>
+<p>Call No.: RCLOS 301.451 CRA</p>
+<p>&nbsp;</p>
+<p>De Bierre, Julia. (2006). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12817829" rel="noopener noreferrer nofollow" target="_blank">Penang: through gilded doors</a></em>.
+Penang, Malaysia: Areca Books.</p>
+<p>Call No.: RSING 959.51 DEB</p>
+<p>Although it contains little information about Eurasians in Penang, this
+book reveals that the Eurasians were among the earliest residents in Penang.
+They came as early as 1786 at Francis Light’s invitation from Siam and
+Dutch-controlled Malacca where they were victims of religious prosecution.
+The first Penang-Eurasians were led by Roman Catholic Bishop Garnualt and
+they settled around what would become Bishop Street.</p>
+<p>&nbsp;</p>
+<p>Gist, Noel Pitts. (1973). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=396516" rel="noopener noreferrer nofollow" target="_blank">Marginality and identity; Anglo-Indians as a racially-mixed minority in India</a></em>.
+Leiden: E. J. Brill.</p>
+<p>Call No.: RU 301.4511042054 GIS</p>
+<p>&nbsp;</p>
+<p>Hawes, Christopher J. (1996). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11866843" rel="noopener noreferrer nofollow" target="_blank">Poor relations: the making of a Eurasian community in British India, 1773-1833</a></em>.
+Richmond, Surrey: Curzon Press.</p>
+<p>Call No.: R 954.09 HAW</p>
+<p>&nbsp;</p>
+<p>Hussin, Nordin. (2007). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12829152" rel="noopener noreferrer nofollow" target="_blank">Trade and Society in the Straits of Melaka: Dutch Melaka and English Penang, 1730-1830</a></em>.
+Singapore: NUS Press; Copenhagen: NIAS.</p>
+<p>Call No.: RSING 959.503 NOR</p>
+<p>&nbsp;</p>
+<p>Koop, John Clement. (1960). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4237863" rel="noopener noreferrer nofollow" target="_blank">The Eurasian population in Burma</a></em>.
+New Haven, Conn.: Southeast Asia Studies, Yale University.</p>
+<p>Call No.: RU 301.45110420591 KOO</p>
+<p>&nbsp;</p>
+<p>Lawson, Philip. (1993). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=8796612" rel="noopener noreferrer nofollow" target="_blank">The East India Company: A History, 1600-1857</a></em>.
+Harlow: Longman.</p>
+<p>This book provides short history of the British East India Company. It
+covers the Company's entire history from its foundation through to its
+demise after the Indian Mutiny in 1857, paying particular attention to
+the Company's important but often neglected early years. An important contribution
+to both Anglo-Indian and imperial historiography, it also reflects the
+very lively state of scholarship in both fields today.</p>
+<p>Call No.: RU 382.095400601 LAW</p>
+<p>&nbsp;</p>
+<p>Lee, Vicky. (2004). <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12831121" rel="noopener noreferrer nofollow" target="_blank">Being Eurasian: memories across racial divides</a>.
+Hong Kong: Hong Kong University Press.</p>
+<p>Call No.: English 305.89505125 LEE</p>
+<p>&nbsp;</p>
+<p>Mallampalli, Chandra. (2011). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14282993" rel="noopener noreferrer nofollow" target="_blank">Race, religion, and law in colonial India: Trials of an interracial family</a></em>.
+Cambridge; New York : Cambridge University Press.</p>
+<p>Call No.: RBUS 346.5487052 MAL</p>
+<p>This book explores such questions by examining the intriguing story of
+an interracial family who lived in southern India in the mid-nineteenth
+century. The family, which consisted of two untouchable brothers, both
+of whom married Eurasian women, became wealthy as distillers in the local
+community. When one brother died, a dispute arose between his wife and
+brother over family assets, which resulted in a landmark court case, Abraham
+v. Abraham.</p>
+<p>&nbsp;</p>
+<p>Stark, Herbert Alick. (1936). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11867114" rel="noopener noreferrer nofollow" target="_blank">Hostages to India: The life story of the Anglo-Indian race</a></em>.
+Calcutta: The Star printing works.</p>
+<p>Call No.: RU 954.00421 STA</p>
+<p>This book portrays the history of and presents a historical reconstruction
+of the Anglo Indian community. It is a work on Anglo Indians from their
+darkest to finest hour. The book describes the thriving and vibrant Anglo
+Indian community and their subsequent impoverishment due to various administrative
+acts by the East India Company who saw Anglo Indian success as a threat.
+It chronicles the various measures the community took to obtain justice
+from England by sending emissaries from India to lobby parliament.</p>
+<p><strong>Articles</strong>
+</p>
+<p>Allard, E. (Dec, 1964). Social Organisation of Eurasians in the Malaya
+Federation. Current Anthropology, Vol. 5, No. 5, p. 422.</p>
+<p>From Database Name: <a href="https://eresources.nlb.gov.sg/main/Browse?startsWith=J" rel="noopener noreferrer nofollow" target="_blank">JSTOR</a>
+</p>
+<p>This article provides a brief account of the Eurasian community in Malaysia.
+In the process, it identifies that the first Eurasian sub-group in Malaysia
+was the Portuguese-Eurasians in Malacca and highlights that the Dutch-Eurasians
+were totally submerged into the Portuguese group even though the Dutch
+came later than the Portuguese.</p>
+<p>&nbsp;</p>
+<p>Blunt, Alison (Autumn, 2002). Land of Our Mothers': Home, Identity, and
+Nationality for Anglo-Indians in British India, 1919-1947. <em>History Workshop Journal</em>,
+No. 54, pp. 49-72.</p>
+<p>From Database Name: <a href="https://eresources.nlb.gov.sg/main/Browse?startsWith=J" rel="noopener noreferrer nofollow" target="_blank">JSTOR</a>
+</p>
+<p>&nbsp;</p>
+<p>MacFarlane, Eileen W. Erlanson (Sept-Oct 1942). Blood Groups of Eurasians
+and Parsees in Calcutta. <em>The American Naturalistm</em>, Vol. 76, No.
+766, pp. 520-526.</p>
+<p>From Database Name: <a href="https://eresources.nlb.gov.sg/main/Browse?startsWith=J" rel="noopener noreferrer nofollow" target="_blank">JSTOR</a>
+</p>
+<p>This article outlines the racial and historic origins of the Eurasians
+in India or the Anglo-Indians. By studying the different blood groups within
+a selected pool of Eurasians, this article also traces the Portuguese,
+Dutch, French and British ancestries of the Eurasians in India.</p>
+<p>&nbsp;</p>
+<p>Tait, P. M. (Sept, 1864). On the Mortality of Eurasians. <em>Journal of the Statistical Society of London</em>,</p>
+<p>Vol. 27, No. 3, pp. 324-356.</p>
+<p>From Database Name: <a href="https://eresources.nlb.gov.sg/main/Browse?startsWith=J" rel="noopener noreferrer nofollow" target="_blank">JSTOR</a>
+</p>
+<p>This article examines the mortality amongst the members of the Eurasian
+community in India. In the process, the article identifies the different
+European ancestries of the Eurasian community. It also narrates how the
+Eurasian community of different European background were established in
+India.</p>
+<p></p>
+<p><strong>Eurasians of other European Groups</strong>
+</p>
+<p><strong>Surnames from other European Groups</strong>
+</p>
+<p>When it comes to tracing family history, one of the first sources to consult
+is the registry for births, marriage and deaths. Not only the registry
+provides vital information such as names, dates and places, it also allows
+one to trace his or her lineage through surnames. However, it is important
+to note that most European families, except the nobilities or land-owning
+gentry, did not have fixed surnames until the use and registry of surnames
+was introduced. Prior to then, people referred to each other by a personal
+name or nicknames. As the population increased, they began to include names
+in addition to their given names as identifiers.</p>
+<p>One of the most common methods these identifying names were constructed
+was through patronymics where a personal name was based on the name of
+one's father. For example, John, the son of William, would be John Williamson
+or Williams. In addition, identifying names could derive from various sources
+such as occupation, physical attributes and the individual’s place of origin.
+As a result, European names have prepositions. For instance, the Dutch
+names have “van”, “van der”, or “de”, while the Portuguese have “da”, “das”
+or “dos”.</p>
+<p>With the advent of the registry of surnames, European families started
+to use these identifying names as their hereditary surnames. As a result,
+the process of tracing one’s surname is not as straightforward as one can
+imagine. In fact, as the individual goes back in time, he or she will discover
+the rich history behind it.</p>
+<p>Below are some Eurasian families in Singapore with names from different
+European groups other than the Portuguese, Dutch and British:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oehlers (German)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Baumgarten (German)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Neubronner (German)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Langes (Danish)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jalleh (French)</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>References</strong>
+</p>
+<p>Khoo, Salma Nasution. (2006). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12730150" rel="noopener noreferrer nofollow" target="_blank">More than merchants: A History of the German-speaking Community in Penang, 1800s-1940s</a></em>.
+Pulau Pinang: Areca Books.</p>
+<p><strong>Other European Groups</strong>
+</p>
+<p>Besides the Portuguese, Dutch and British, the Singapore-Eurasian community
+could also trace their heritage to the other European groups such as the
+French, German, Spanish and Danish that had either established colonies
+or had commercial interests in the Far East region. Some of the them, particularly
+the Germans, arrived at the Far East as soldiers employed by the Dutch.
+Stationing in places such as Malacca, the Germans assimilated with the
+Dutch and Dutch-Eurasian community. This trend was also repeated in the
+British colonies in the East and the British Straits Settlements.</p>
+<p><strong>Books</strong>
+</p>
+<p>Geschichte der German Association (History of the German Association). <em>The German Club.</em>
+</p>
+<p>The history of the German community in Singapore is traced beginning with
+the earliest Teutonia Club founded in 1856 and continuing into the 21st
+century with various locations for the German Club described and illustrated
+with photographs (in German)</p>
+<p>&nbsp;</p>
+<p>Khoo, Salma Nasution. (2006). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12730150" rel="noopener noreferrer nofollow" target="_blank">More than merchants: A History of the German-speaking Community in Penang, 1800s-1940s</a></em>.
+Pulau Pinang: Areca Books.</p>
+<p>Call No.: RSING 305.73105951 KHO</p>
+<p>The Germans moved to Penang in the Straits Settlements, drawn by business
+opportunities as entrepreneurs or as part of larger conglomerates. Their
+life and contributions are examined with accompanying photographs and illustrations
+until the difficult period of World War II. Chapters on German writers
+resident in Penang, a profile of Charles Ernest Tardy the patriarch of
+the Eurasian Karl family and the German trade expand on individuals involved
+in the community. A useful bibliography is appended.</p>
+<p>&nbsp;</p>
+<p>Pilon, Maxime &amp; Weiler, Danièle. (2011). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14270610" rel="noopener noreferrer nofollow" target="_blank">The French in Singapore: An illustrated history</a>, 1819-today</em>.
+Singapore: Editions Didier Millet.</p>
+<p>Call No.: RSING 305.84105957 PIL</p>
+<p>Since Singapore’s founding in 1819, missionaries, merchants, planters
+and other French pioneers have come to the fledgling island port and contributed
+to its economic, educational and cultural development. This book documents
+the legacy of the French community and their contributions in Singapore.
+Various personalities featured include J. Casteleyns (who built the first
+hostelry in 1857, the Hotel de l’Europe), Father Jean-Marie Beurel (who
+constructed the Cathedral of the Good Shepherd and St Joseph’s Institution
+in 1839) and Alfred Clouët (who started the well-known Ayam Brand canned
+sardines business).</p>
 <h3><strong>Conducting Family History Search on Singapore-Eurasians</strong></h3>
 <p>In general, these resources are useful to delve into for family history
 research on Singapore-Eurasians.</p>
@@ -908,7 +1700,7 @@ journal. One of the most important information held in this newspapers
 is the ship passenger arrival lists. Search on the newspaper can be conducted
 via the library's <a href="https://eresources.nlb.gov.sg/newspapers" rel="noopener noreferrer nofollow" target="_blank">NewspaperSG</a> online database.</p>
 <p></p>
-<h3><strong>Newspaper</strong></h3>
+<h3><strong>Newspapers</strong></h3>
 <p><strong>Eurasian Newspapers</strong>
 </p>
 <p>In an effort to develop a distinct Eurasian identity, the Eurasian community
@@ -1072,12 +1864,14 @@ forces who died during the two world wars. It also records details of the
 67,000 Commonwealth civilians who died "as a result of enemy action" in
 the Second World War. Users are able to search by surname, date, war, rank,
 regiment, awards or any combination of those criteria.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Commonwealth War Graves Commission
-Casualty Database
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://www.cwgc.org/search-for-war-dead.aspx</a>
+<ul data-tight="true" class="tight">
+<li>
+<p>Commonwealth War Graves Commission Casualty Database
+<br><a href="https://www.cwgc.org/find-records/find-war-dead/" rel="noopener noreferrer nofollow" target="_blank">https://www.cwgc.org/find-records/find-war-dead/</a>
 </p>
-<p><strong>Introduction</strong>
-</p>
+</li>
+</ul>
+<p></p>
 <p>The Japanese invasion of Malaya and Singapore including the British response
 is a well researched area, resulting in the production of many resources.
 The selected resources below cover many topics such as the reasons behind
@@ -1345,8 +2139,12 @@ TUR</p>
 in the records of the <strong>Church of Saints Peter &amp; Paul</strong> at
 Queen Street. Users can access the records via the National Archives of
 Singapore.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://nas.gov.sg/archivesonline" rel="noopener noreferrer nofollow" target="_blank">Registers of Baptism, Death and Confirmation at Fujigo, or Bahau settlement at Negri Sembilan</a> (Microfilm
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="http://nas.gov.sg/archivesonline" rel="noopener noreferrer nofollow" target="_blank">Registers of Baptism, Death and Confirmation at Fujigo, or Bahau settlement at Negri Sembilan</a> (Microfilm
 No.: NA 033)</p>
+</li>
+</ul>
 <p></p>
 <p><strong>The Rest of the Community</strong>
 </p>
@@ -1711,6 +2509,6 @@ Singapore: Dagmar Books. Call No.: RSING 305.804205957 TES</p>
 <p>This resource guide is compiled by Lim Tin Seng. The information in this
 resource guide is valid as at 2013 and correct as far as we are able to
 ascertain from our sources. It is not intended to be an exhaustive or complete
-history on the subject. Please contact the Library for further reading
-materials on the topic.</p>
+history on the subject. Please contact the National Library for further
+reading materials on the topic.</p>
 <p>All Rights Reserved. National Library Board Singapore 2013.</p>
