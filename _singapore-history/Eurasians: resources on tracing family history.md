@@ -7,16 +7,42 @@ description: ""
 <h3><strong>Guide Index</strong></h3>
 <p>This guide is divided into the following sections to help users to navigate
 through the resources:</p>
-<p><a href="http://libguides.nl.sg/aecontent.php?pid=354036&amp;sid=2895929" rel="noopener noreferrer nofollow" target="_blank"><u>Origins of the Singapore-Eurasians</u></a>
-</p>
-<p><a href="http://libguides.nl.sg/aecontent.php?pid=354036&amp;sid=2896077" rel="noopener noreferrer nofollow" target="_blank"><u>Eurasians in Colonial Singapore</u></a>
-</p>
-<p><a href="http://libguides.nl.sg/aecontent.php?pid=354036&amp;sid=2896078" rel="noopener noreferrer nofollow" target="_blank"><u>Eurasians during the Japanese Occupation</u></a>
-</p>
-<p><a href="http://libguides.nl.sg/aecontent.php?pid=354036&amp;sid=2896090" rel="noopener noreferrer nofollow" target="_blank"><u>Eurasians in Pre-Independence and Post-Independence Singapore</u></a>
-</p>
-<p><a href="http://libguides.nl.sg/aecontent.php?pid=354036&amp;sid=2900392" rel="noopener noreferrer nofollow" target="_blank"><u>Books on the Eurasians</u></a>
-</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Conducting family history search on Singapore-Eurasians</p>
+</li>
+<li>
+<p>Birth, marriage and death records</p>
+</li>
+<li>
+<p>Government records and business directories</p>
+</li>
+<li>
+<p>Church records and directories</p>
+</li>
+<li>
+<p>Educational records</p>
+</li>
+<li>
+<p>Clubs and association records</p>
+</li>
+<li>
+<p>Ship registers and passenger lists</p>
+</li>
+<li>
+<p>Eurasians during the Japanese Occupation</p>
+</li>
+<li>
+<p>Personal accounts</p>
+</li>
+<li>
+<p>Eurasians in pre- and post indepedence Singapore</p>
+</li>
+<li>
+<p>Publications on Eurasians</p>
+</li>
+</ul>
+<p></p>
 <h3><strong>Introduction - The Eurasian Community in Singapore</strong></h3>
 <p>Eurasians are one of Singapore’s four major ethnic groups. Carrying a
 pedigree of European and Asian, the Eurasians are also Singapore’s earliest
@@ -1459,7 +1485,7 @@ in Singapore.</p>
 <p>Braga-Blake, Myrna &amp; Ebert-Oehlers, Ann. (1992). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6319425" rel="noopener noreferrer nofollow" target="_blank">Singapore Eurasians: Memories and hopes</a></em>.
 Singapore: Times Editions.</p>
 <p></p>
-<h3><strong>Publications on and by Eurasians</strong></h3>
+<h3><strong>Publications on Eurasians</strong></h3>
 <p></p>
 <p><strong>Books on the Eurasians</strong>
 </p>
