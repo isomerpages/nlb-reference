@@ -725,6 +725,15 @@ the Association remains relatively unchanged. It continues to act as a
 platform to enrich the cohesiveness of the Eurasian community as well as
 to integrate the community into the larger multi-ethnic, multi-religious
 and multi-cultural of the Singapore society.</p>
+<p>Clubs and associations related to the Eurasian community continued to
+be active in pre and post-independence Singapore. Among the three main
+Eurasian clubs, two of them – the Singapore Recreation Club and the Girls’
+Sports Club – underwent major changes including allowing the admission
+of non-Eurasian members. Despite the liberalisation effort, these clubs
+remained popular among the Eurasians. The overall experience on the changes
+these clubs and associations underwent and its impact on the Eurasian community
+during the pre and post-independence periods are captured in the publications
+below.</p>
 <p></p>
 <p><strong>Associations and Clubs Records</strong>
 </p>
@@ -776,6 +785,55 @@ Microfilm No.: NL 31107</p>
 <p>Singapore Recreation Club. (1983). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4078699" rel="noopener noreferrer nofollow" target="_blank">Singapore Recreation Club 100 anniversary: Centenary celebrations, 1883-1983</a></em>.
 Singapore: The Club. Call No.: RCLOS 796.0605957 SIN. Microfilm No.: NL
 31106</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Professional Clubs and Associations</strong>
+</p>
+<p>Besides using the types of record above, it is also possible to find names
+through records of trade and professional associations as well as other
+secular social clubs and unions. Usually, these records consist of minutes
+of council meetings and the annual general meetings, circulars, annual
+reports and statements of accounts. But some of them have membership list
+or membership applications thus proving to be important sources of names.
+Below are some associations and organisations that Eurasians may be associated
+with that can be accessed via microfilm at the National Archives of Singapore.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Obstetrical and Gynaecological Society of Singapore records, 1972-1990</p>
+</li>
+<li>
+<p>The Pharmaceutical Society of Singapore records, 1979-1990</p>
+</li>
+<li>
+<p>Institute of Internal Auditors Inc (Singapore Chapter) records, 1976-1986</p>
+</li>
+<li>
+<p>Institute of Certified Public Accountants of Singapore records, 1963-1989</p>
+</li>
+<li>
+<p>National Theatre Club files, 1967-1985</p>
+</li>
+<li>
+<p>Republic of Singapore Flying Club files, 1952-1985</p>
+</li>
+<li>
+<p>Singapore Children’s Society records, 1953-1975</p>
+</li>
+<li>
+<p>Singapore Cricket Club records, 1956-1974</p>
+</li>
+<li>
+<p>Singapore Port Workers’ Union files, 1976-1983</p>
+</li>
+<li>
+<p>Singapore Teachers’ Union files, 1946-1979</p>
+</li>
+<li>
+<p>Public Utilities Board Daily-rated Employees’ Union files, 1979-1982</p>
+</li>
+<li>
+<p>Pioneer Industries’ Employees’ Union files, 1975-1980</p>
 </li>
 </ul>
 <h3><strong>Ship Registers and Passenger Lists</strong></h3>
