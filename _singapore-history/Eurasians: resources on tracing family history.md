@@ -1283,4 +1283,7 @@ that encourage community bonding. The Eurasian Association’s effort to
 uplift the Eurasian community was given a boost in 1994 when it was accorded
 by the Government Self-Help status to act on behalf of the Eurasian community
 in Singapore.</p>
-<p></p>
+<p><strong>References</strong>
+</p>
+<p>Braga-Blake, Myrna &amp; Ebert-Oehlers, Ann. (1992). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6319425" rel="noopener noreferrer nofollow" target="_blank">Singapore Eurasians: Memories and hopes</a></em>.
+Singapore: Times Editions.</p>
