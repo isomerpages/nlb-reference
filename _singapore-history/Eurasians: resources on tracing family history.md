@@ -377,7 +377,25 @@ names and the telephone number belonging to the person.</p>
 </p>
 </li>
 </ul>
-<p></p>
+<p>Singapore and Malaysia Directory, 1949-2011</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4193650" rel="noopener noreferrer nofollow" target="_blank">Straits Times Directory of Singapore and Malaya, 1949-1964</a></em>
+</p>
+</li>
+<li>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4193650" rel="noopener noreferrer nofollow" target="_blank">Straits Times Directory of Malaysia and Singapore, 1965-1973</a></em>
+</p>
+</li>
+<li>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=1016326" rel="noopener noreferrer nofollow" target="_blank">The Straits Times Directory of Singapore, 1973-1983</a></em>
+</p>
+</li>
+<li>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082208" rel="noopener noreferrer nofollow" target="_blank">Times Directory of Singapore, 1984-2011</a></em>
+</p>
+</li>
+</ul>
 <h3><strong>Church Records and Directories</strong></h3>
 <p><strong>Church Directory</strong>
 </p>
@@ -1027,8 +1045,6 @@ Singapore: Oral History Dept. Call No.: RSING 940.54861 BAT</p>
 </p>
 </li>
 </ul>
-<p><strong>Introduction</strong>
-</p>
 <p>Similar to the other ethnic communities in Singapore, the Eurasian community
 had a difficult time during the Japanese Occupation. Almost immediately
 after the British surrendered, the entire community was summoned by the
@@ -1097,6 +1113,7 @@ Singapore: Times Books International. Call No.: RSING 959.57023 SHI</p>
 Singapore: [s.n.]. Call No.: RSING 940.5481 LAB</p>
 </li>
 </ul>
+<p></p>
 <p><strong>Bahau Settlement</strong>
 </p>
 <p>Bahau Settlement was an agricultural settlement set up at Bahau in the
@@ -1150,7 +1167,6 @@ TUR</p>
 </ul>
 <p><em><br></em><strong>Birth, Marriage and Death Records of Bahau Settlement</strong>
 </p>
-<p></p>
 <p>The birth, marriage and death records of Bahau Settlement can be found
 in the records of the <strong>Church of Saints Peter &amp; Paul</strong> at
 Queen Street. Users can access the records via the National Archives of
