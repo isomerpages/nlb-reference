@@ -189,10 +189,9 @@ books from the National Library are a good start collection.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Shepherdson, Kevin Linus &amp; Shepherdson, Percival Joseph. (2003). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12263522" rel="noopener noreferrer nofollow" target="_blank">Journey to the Straits: The Shepherdson story</a></em>.
-Singapore: Shepherdson Family.</p>
+Singapore: Shepherdson Family. Call No.: RSING q929.2095957 SHE</p>
 </li>
 </ul>
-<p>Call No.: RSING q929.2095957 SHE</p>
 <p>Extensive details of branch lines, personalities and research strategies
 in developing the Shepherdson family tree. Begins chronologically with
 the first known Shepherdson from England, William who married in 1714.
@@ -202,20 +201,19 @@ gained in researching their genealogy.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Scully-Shepherdson, Martha. (2006). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12793275" rel="noopener noreferrer nofollow" target="_blank">Looking back: A family's history discovered and remembered</a></em>.
-Singapore: Martha Scully-Shepherdson.</p>
+Singapore: Martha Scully-Shepherdson. Call No.: RSING 929.2095957 SCU</p>
 </li>
 </ul>
-<p>Call No.: RSING 929.2095957 SCU</p>
 <p>Highlights of the Scully and de Souza family told through anecdotes and
 recollections with many family photographs.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Shepherdson, Kevin Linus et. al. (2010). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13366950" rel="noopener noreferrer nofollow" target="_blank">The great genealogical search: A remarkable story of how one family traced its roots in the East Indies and discovered its British ancestry</a></em>.
-Singapore: Straits Consultancy &amp; Pub.</p>
+Singapore: Straits Consultancy &amp; Pub. Call No.: RSING 929.107205957
+SHE</p>
 </li>
 </ul>
-<p>Call No.: RSING 929.107205957 SHE</p>
 <p>Strategies to researching a local family tree using both traditional and
 modern tools, including the internet and DNA testing.</p>
 <p></p>
@@ -224,9 +222,9 @@ modern tools, including the internet and DNA testing.</p>
 </p>
 <p>These are registers of civil and Christian marriages that took place from
 1859 to 1986. Information recorded includes personal particulars of the
-bride and groom, their fathers, their religion, the marriage date, etc.</p>
-<p>Available in microfilm at National Archives of Singapore</p>
-<p>&nbsp;</p>
+bride and groom, their fathers, their religion, the marriage date, etc.
+Available in microfilm at National Archives of Singapore</p>
+<p></p>
 <p><strong><em>Registry of Births and Deaths (RBD) Birth Certificates, 1938-1984</em></strong>
 </p>
 <p>These are registers that contain information on the newborn such as the
@@ -252,6 +250,13 @@ They provide information such as the name of the deceased, date of death,
 burial, etc.</p>
 <p>Available in microfilm at National Archives of Singapore</p>
 <p></p>
+<p><strong><em>Registry of Births and Deaths (RBD) Adopted Children Registers, 1940-1966</em></strong>
+</p>
+<p>These registers provide details of the adoption such as the name of the
+child, sex, adoption date, date and place of birth of the child, and registration
+number. They also contain the name, address and occupation of the adoptive
+parent and court description which made the order.</p>
+<p>Available in microfilm at National Archives of Singapore</p>
 <h3><strong>Government Records and Business Directories</strong></h3>
 <p>Apart from records that are related to births, marriages and deaths, names
 can also be obtained from publications produced by the Straits Settlements
@@ -265,32 +270,37 @@ Almanack, Calendar and Directory and the title varies over the years. Below
 are some of these publications in the library’s collection.</p>
 <p><strong>Government Directories</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Straits Settlements, Statistical Office. (1870-1946). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4982696" rel="noopener noreferrer nofollow" target="_blank">Blue book for the year</a></em>.
-Singapore: Govt. Print. Off.</p>
-<p>Call No.: RARE 315.957 SSBB</p>
-<p>Microfilm No.: NL30780; NL30782; NL30783; NL30784, NL1156</p>
+Singapore: Govt. Print. Off. Call No.: RARE 315.957 SSBB. Microfilm No.:
+NL30780; NL30782; NL30783; NL30784, NL1156</p>
+</li>
+</ul>
 <p>This series includes the schedule of taxes, duties, fees and all other
 sources of revenue/expenditure of the Straits Settlements government. Also
 included in the series are schedule of promulgated laws, proclamations
 and orders in council as well as the list of Executive and Legislative
 Council members, list of officers in civil establishment including salary,
 date of appointment and other important details and list of pensioners.</p>
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
 <p><em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12675603" rel="noopener noreferrer nofollow" target="_blank">The Straits Settlements Civil Service List</a></em>.
-(1896-1933). Singapore: Government Printing Office.</p>
-<p>Call No.: RARE 354.595002 SSCSL</p>
-<p>Microfilm No.: NL 5821, NL 5822, NL 25422</p>
-<p></p>
+(1896-1933). Singapore: Government Printing Office. Call No.: RARE 354.595002
+SSCSL. Microfilm No.: NL 5821, NL 5822, NL 25422</p>
+</li>
+<li>
 <p><em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5047345" rel="noopener noreferrer nofollow" target="_blank">The Malayan Civil List, 1925-1940</a></em>.
-(1925-1940). Singapore: Printed at the G.P.O.</p>
-<p>Call No.: RARE 354.595002 MCL</p>
-<p>Microfilm No.: NL 9781, NL 9782, NL 9783, NL 9784</p>
-<p></p>
+(1925-1940). Singapore: Printed at the G.P.O. Call No.: RARE 354.595002
+MCL. Microfilm No.: NL 9781, NL 9782, NL 9783, NL 9784</p>
+</li>
+<li>
 <p><em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4981646" rel="noopener noreferrer nofollow" target="_blank">Establishments</a></em>.
-(1888-1938). Singapore: Printed at the Govt. Print. Off.</p>
-<p>Call No.: RARE 351.2 STR (1888-1938); RCLOS 351.2 SIN (1948-1952)</p>
-<p>Microfilm No.: NL 7156, NL 5130, NL 8826-NL8828, NL8831, NL8834, NL 5131-NL
-5133, NL 7922</p>
+(1888-1938). Singapore: Printed at the Govt. Print. Off. Call No.: RARE
+351.2 STR (1888-1938); RCLOS 351.2 SIN (1948-1952). Microfilm No.: NL 7156,
+NL 5130, NL 8826-NL8828, NL8831, NL8834, NL 5131-NL 5133, NL 7922</p>
+</li>
+</ul>
 <p></p>
 <p>Apart from the Blue Book and Civil Service Establishment lists shown above,
 Government Gazettes are another information source that contains the appointments
@@ -302,14 +312,18 @@ Malays, Eurasians, Indians and other non-European residents. Each name
 is followed by the occupation, and employer's company name, as well as
 the juror's place of residence.</p>
 <p></p>
+<ul data-tight="true" class="tight">
+<li>
 <p><em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5289724" rel="noopener noreferrer nofollow" target="_blank">Straits Settlements Government Gazette</a></em>.
-(1858-1942). Singapore: Mission Press.</p>
-<p>Call No.: RARE 959.51 SGG</p>
-<p>Microfilm No.: NL 994; NL 1003-NL 1313</p>
-<p>&nbsp;</p>
+(1858-1942). Singapore: Mission Press. Call No.: RARE 959.51 SGG. Microfilm
+No.: NL 994; NL 1003-NL 1313</p>
+</li>
+<li>
 <p><em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4826186" rel="noopener noreferrer nofollow" target="_blank">Government Gazette</a></em>.
-Singapore. (1946-20--). Singapore: [s.n.]</p>
-<p>Call No.: RCLOS/RSING 959.57 SGG (also available in microfilm)</p>
+Singapore. (1946-20--). Singapore: [s.n.]. Call No.: RCLOS/RSING 959.57
+SGG (also available in microfilm)</p>
+</li>
+</ul>
 <p></p>
 <p><strong>Government Records</strong>
 </p>
