@@ -514,7 +514,7 @@ at Negri Sembilan</p>
 <p>Marriage registers, 1946-1973. Microfilm No.: NA 034Education and School
 Records</p>
 <p></p>
-<h3>Educational Records</h3>
+<h3><strong>Educational Records</strong></h3>
 <p>Other than birth, marriage and death records, school records and yearbooks
 are also a valuable source of material for genealogy research. Below are
 some resources that can be found in the collections of the National Archives
@@ -539,138 +539,89 @@ during the colonial period.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>CHIJ Katong Primary. (19--). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12858461" rel="noopener noreferrer nofollow" target="_blank">CHIJ Katong Primary</a></em>.
-Singapore: CHIJ Katong Primary.</p>
+Singapore: CHIJ Katong Primary. Call No.: RCLOS 372.95957 CKP</p>
 </li>
-</ul>
-<p>Call No.: RCLOS 372.95957 CKP</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>CHIJ Katong Primary. (2000). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10759887" rel="noopener noreferrer nofollow" target="_blank">CHIJ Katong Primary: 70<sup>th</sup> anniversary commemorative magazine, 1930-2000</a></em>.
-Singapore: The School.</p>
+Singapore: The School. Call No.: RSING q372.95957 CHI&nbsp;</p>
 </li>
-</ul>
-<p>Call No.: RSING q372.95957 CHI&nbsp;</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>CHIJ Secondary. (1984-). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12536463" rel="noopener noreferrer nofollow" target="_blank">CHIJ</a></em>.
-Singapore: CHIJ Secondary.</p>
+Singapore: CHIJ Secondary. Call No.: RCLOS q373.5957 CHIJST</p>
 </li>
-</ul>
-<p>Call No.: RCLOS q373.5957 CHIJST</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>Convent of the Holy Infant Jesus. (1990). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5704131" rel="noopener noreferrer nofollow" target="_blank">135 years of CHIJ in Singapore: 1854-1989</a></em>.
-Singapore: CHIJ.</p>
+Singapore: CHIJ. Call No.: RSING 372.95957 ONE</p>
 </li>
-</ul>
-<p>Call No.: RSING 372.95957 ONE</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>Raffles Girls' Secondary School. (1980). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4402474" rel="noopener noreferrer nofollow" target="_blank">RGS 1880-1980 centenary magazine</a></em>.
-Singapore: Raffles Girls' Secondary School.</p>
+Singapore: Raffles Girls' Secondary School. Call No.: RCLOS 373.5957 RGS.
+Microfilm No.: NL19153</p>
 </li>
-</ul>
-<p>Call No.: RCLOS 373.5957 RGS</p>
-<p>Microfilm No.: NL19153</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>Raffles Girls' Primary School. (1994). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7116299" rel="noopener noreferrer nofollow" target="_blank">RGPS: 35th anniversary 1959-1994</a></em>.
-Singapore : Raffles Girls' Primary School.</p>
+Singapore : Raffles Girls' Primary School. Call No.: RCLOS 372.95957 RAF.
+Microfilm No.: NL26881</p>
 </li>
-</ul>
-<p>Call No.: RCLOS 372.95957 RAF</p>
-<p>Microfilm No.: NL26881</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>Raffles Girls' Secondary School (19--). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5368571" rel="noopener noreferrer nofollow" target="_blank">Raffles Girls' School magazine</a></em>.
-Singapore: Raffles Girls' Secondary School.</p>
+Singapore: Raffles Girls' Secondary School. Call No.: RCLOS 373.5957 RGSM.
+Microfilm No.: NL 19152, NL 19153, NL 19154, NL 19155</p>
 </li>
-</ul>
-<p>Call No.: RCLOS 373.5957 RGSM</p>
-<p>Microfilm No.: NL 19152, NL 19153, NL 19154, NL 19155</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>Raffles Girls' Primary School. (19--). RGPS : <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5368569" rel="noopener noreferrer nofollow" target="_blank">Raffles Girls' Primary School magazine</a></em>.
-Singapore: The School.</p>
+Singapore: The School. Call No.: RCLOS 372.95957 RGPSRG.</p>
 </li>
-</ul>
-<p>Call No.: RCLOS 372.95957 RGPSRG</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>Raffles Institution (Singapore). (1987). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7051824" rel="noopener noreferrer nofollow" target="_blank">The Rafflesian: Centenary edition 1886-1986</a></em>.
-Singapore: Raffles Institution.</p>
+Singapore: Raffles Institution. Call No.: RCLOS 373.5957 RAF. Microfilm
+No.: NL 19652</p>
 </li>
-</ul>
-<p>Call No.: RCLOS 373.5957 RAF</p>
-<p>Microfilm No.: NL 19652</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>Raffles Institution (Singapore). (1924-). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4401138" rel="noopener noreferrer nofollow" target="_blank">The Rafflesian: Magazine of Raffles Institution</a></em>.
-Singapore: Raffles Institution.</p>
+Singapore: Raffles Institution. Call No. RCLOS 373.5957 R</p>
 </li>
-</ul>
-<p>Call No. RCLOS 373.5957 R</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>Raffles Junior College. (1983-). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5461392" rel="noopener noreferrer nofollow" target="_blank">The Rafflesian</a></em>.
-Singapore: The School.</p>
+Singapore: The School. Call No.: RCLOS 378.1543095957 RJCR</p>
 </li>
-</ul>
-<p>Call No.: RCLOS 378.1543095957 RJCR</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>St. Anthony Boys’ School. (19--). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5368471" rel="noopener noreferrer nofollow" target="_blank">The Anthonian</a></em>.
-Singapore: The School.</p>
+Singapore: The School. Microfilm No.: NL 26885 (1981)</p>
 </li>
-</ul>
-<p>Microfilm No.: NL 26885 (1981)</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>St. Anthony Boys’ School. (1969). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6868450" rel="noopener noreferrer nofollow" target="_blank">The Anthonian: Souvenir publication in conjunction with the 150th anniversary of Singapore</a></em>.
-Singapore: The School.</p>
+Singapore: The School. Call No.: RCLOS 372.95957 SAI</p>
 </li>
-</ul>
-<p>Call No.: RCLOS 372.95957 SAI</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>St. Anthony’s Convent Secondary School. (19--). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5368473" rel="noopener noreferrer nofollow" target="_blank">The Magdalenian</a></em>.
-Singapore: St. Anthony's Convent Secondary School.</p>
+Singapore: St. Anthony's Convent Secondary School. Call No.: RCLOS 373.5957
+SACSSM</p>
 </li>
-</ul>
-<p>Call No.: RCLOS 373.5957 SACSSM</p>
-<ul data-tight="true" class="tight">
 <li>
 <p><em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7035586" rel="noopener noreferrer nofollow" target="_blank">St. Anthony's Convent: Magazine</a></em>.
-(1950). Singapore: The Convent.</p>
+(1950). Singapore: The Convent. Call No.: RCLOS 372.95957 SAC year 1949-50.
+Microfiche: NL 0045/054</p>
 </li>
-</ul>
-<p>Call No.: RCLOS 372.95957 SAC year 1949-50</p>
-<p>Microfiche: NL 0045/054</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>St. Anthony's Convent Primary School &amp; St. Anthony's Convent Secondary
 School. (1994). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7353824" rel="noopener noreferrer nofollow" target="_blank">A century in Singapore: The Canossians, St. Anthony's Convent</a></em>.
-Singapore: Canossian Sisters of St. Anthony's Convent.</p>
+Singapore: Canossian Sisters of St. Anthony's Convent. Call No.: RSING
+372.95957 CEN</p>
 </li>
-</ul>
-<p>Call No.: RSING 372.95957 CEN</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>St. Joseph’s Institution. (2002). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13221727" rel="noopener noreferrer nofollow" target="_blank">150 years St. Joseph's Institution, 1852-2002</a></em>.
-Singapore: St Joseph's Institution.</p>
+Singapore: St Joseph's Institution. Call No.: RCLOS 373.5957 FIF [DG: MEP
+(REL)]</p>
 </li>
-</ul>
-<p>Call No.: RCLOS 373.5957 FIF [DG: MEP (REL)]</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>St Joseph's Institution. (1952). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4402289" rel="noopener noreferrer nofollow" target="_blank">Souvenir magazine, 1852-1952</a></em>.
-Singapore: St Joseph's Institution.</p>
+Singapore: St Joseph's Institution. Call No.: RCLOS 373.5951 SAI. Microfilm
+No.: NL 9820</p>
 </li>
 </ul>
-<p>Call No.: RCLOS 373.5951 SAI</p>
-<p>Microfilm No.: NL 9820</p>
 <p></p>
-<h3>Clubs and Associations Records</h3>
+<h3><strong>Clubs and Associations Records</strong></h3>
 <p><strong>The Eurasian Association</strong>
 </p>
 <p>The Eurasian Association was founded in 1919. Since then, the Association
@@ -685,22 +636,18 @@ and multi-cultural of the Singapore society.</p>
 </p>
 <p><strong>Singapore Recreation Club</strong>
 </p>
-<p><a href="http://www.a2o.com.sg/a2o/public/search/prismDetail2.jsp?keyword=singapore+recreation+club&amp;siteIndex=6&amp;pk=7998&amp;pk=8000&amp;shows=Show+Selected+Records" rel="noopener noreferrer nofollow" target="_blank">Annual Reports, Membership lists (1938-1984)</a>
-</p>
-<p>Microfilm No.: NA 2159</p>
-<p><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4888842" rel="noopener noreferrer nofollow" target="_blank">Annual Reports (1986, 1987, 1994, 2008)</a>
-</p>
-<p>Call No.: RCLOS/RSING 796.0605957 SRCAR</p>
+<p><a href="http://www.a2o.com.sg/a2o/public/search/prismDetail2.jsp?keyword=singapore+recreation+club&amp;siteIndex=6&amp;pk=7998&amp;pk=8000&amp;shows=Show+Selected+Records" rel="noopener noreferrer nofollow" target="_blank">Annual Reports, Membership lists (1938-1984) | </a>Microfilm
+No.: NA 2159</p>
+<p><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4888842" rel="noopener noreferrer nofollow" target="_blank">Annual Reports (1986, 1987, 1994, 2008)</a>|
+Call No.: RCLOS/RSING 796.0605957 SRCAR</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p><strong>Eurasian Association</strong>
 </p>
-<p><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5040628" rel="noopener noreferrer nofollow" target="_blank">Annual Reports (2005, 2009)</a>
-</p>
-<p>Call No.: RSING/RCLOS 301.451104205957 EASAR</p>
-<p><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6580136" rel="noopener noreferrer nofollow" target="_blank">EA news (1991, 1993, 1997, 1998)</a>
-</p>
-<p>Call No.: RSING 305.80405957 EAN</p>
+<p><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5040628" rel="noopener noreferrer nofollow" target="_blank">Annual Reports (2005, 2009)</a>|
+Call No.: RSING/RCLOS 301.451104205957 EASAR</p>
+<p><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6580136" rel="noopener noreferrer nofollow" target="_blank">EA news (1991, 1993, 1997, 1998) </a>Call
+No.: RSING 305.80405957 EAN</p>
 <p>&nbsp;</p>
 <p><strong>Girls’ Sports Club</strong>
 </p>
@@ -712,23 +659,18 @@ No.: NA 1172</p>
 <p><a href="http://www.a2o.com.sg/a2o/public/search/gridDetail.jsp?pk=14623&amp;keyword=eurasian&amp;siteIndex=7" rel="noopener noreferrer nofollow" target="_blank">Proposed club for Eurasian members (1924) | </a>Microfilm
 No.: HDB 1001</p>
 <p><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12225853" rel="noopener noreferrer nofollow" target="_blank">Yearbooks (1930-1937) | </a>Microfilm
-No.: NL 28415</p>
-<p>Call No.: RARE 355.2236205 SSVFYB</p>
-<p></p>
+No.: NL 28415. Call No.: RARE 355.2236205 SSVFYB</p>
 <p><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5049366" rel="noopener noreferrer nofollow" target="_blank">Annual report (1938) | </a>Microfilm
-No.: NL9936</p>
-<p>Call No.: RARE 355.232 STR</p>
+No.: NL9936. Call No.: RARE 355.232 STR</p>
 <p></p>
-<h3>Ship Registers and Passenger Lists</h3>
-<p><strong>Ships Registers and Passengers Lists</strong>
-</p>
-<p></p>
+<h3><strong>Ship Registers and Passenger Lists</strong></h3>
 <p>Passenger lists are records of people travelling on a ship from one place
 to another. Passenger lists usually offer important data such as the names
 of passengers, place of embarkation, age and destination. As most Singaporeans
 have ancestors who arrived here in the 1800s or later, these lists will
 be helpful in tracing ancestors. Currently, passenger lists and ships registers
 could be obtained from the resources below.</p>
+<p></p>
 <p><strong>Ships Registers and Passengers Lists</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -758,5 +700,278 @@ colony's burgeoning commercial enterprise. Backed by private merchants
 and lawyers, it earned a reputation of being a reliable, sober and moderate
 journal. One of the most important information held in this newspapers
 is the ship passenger arrival lists. Search on the newspaper can be conducted
-via the library's <a href="http://newspapers.nl.sg/" rel="noopener noreferrer nofollow" target="_blank">NewspaperSG</a> online database.</p>
+via the library's <a href="https://eresources.nlb.gov.sg/newspapers" rel="noopener noreferrer nofollow" target="_blank">NewspaperSG</a> online database.</p>
 <p></p>
+<h3><strong>Newspaper</strong></h3>
+<p><strong>Eurasian Newspapers</strong>
+</p>
+<p>In an effort to develop a distinct Eurasian identity, the Eurasian community
+in Singapore began exploring ways to consolidate its communal bond. Other
+than forming clubs and associations, the Eurasians also started publishing
+their own newspapers to develop a voice for the community. Below are the
+key Eurasian newspapers that were published towards the end of the 19th
+century. These newspapers carry mostly advertisements of companies owned
+by Eurasians. They also feature opinion pieces written by Eurasians. Users
+can access these newspapers via our <a href="https://eresources.nlb.gov.sg/newspapers" rel="noopener noreferrer nofollow" target="_blank">NewspaperSG </a>online
+database.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>The Straits Intelligence</em> (1882-1884)</p>
+</li>
+<li>
+<p><em>Straits Eurasian Advocate</em> (1888)</p>
+</li>
+<li>
+<p><em>The Daily Advertiser</em> (1890-1894)</p>
+</li>
+<li>
+<p><em>Mid-day Herald</em> (1895-1896)</p>
+</li>
+<li>
+<p><em>Straits Telegraph and Daily Advertiser</em> (1899)</p>
+</li>
+</ul>
+<p>Newspapers are an important source of information for research on 19<sup>th</sup> and
+20<sup>th</sup> century Singapore, and can be good source of information
+for genealogy. The types of information you can find in newspapers are:</p>
+<p><u>Marriage notices</u>
+</p>
+<p>Marriage notices contain the names of the bride and groom and the wedding
+date. They may also include names of other relatives and guests who attended
+the wedding and other information.</p>
+<p><u>Obituaries</u>
+</p>
+<p>Obituaries are articles that announce an individual’s death. They give
+vital particulars of the decreased such as names, age, birth and death,
+funeral date, native place names and names of next-of-kins.</p>
+<p><u>Other Information</u>
+</p>
+<p>Apart from passenger lists and marriage and death notices, other public
+notices in the newspapers such as government notices as well as news articles
+can also offer unique information about individuals.</p>
+<p>The National Reference Library has a collection of Singapore newspapers
+dating from the early 1800s. Below is a listing of the major English newspapers
+available at the National Library.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>The Singapore Free Press </em>(1925-1962)</p>
+</li>
+<li>
+<p><em>The Singapore Free Press and Mercantile Advertiser </em>(1835-1942)</p>
+</li>
+<li>
+<p><em>The Straits Times </em>(1845-present)</p>
+</li>
+<li>
+<p><em>Singapore Chronicle </em>(1827-1837)</p>
+</li>
+<li>
+<p><em>Straits Times Overland Journal </em>(1869-1881)</p>
+</li>
+<li>
+<p><em>Straits Observer </em>(1874-1897)</p>
+</li>
+</ul>
+<p></p>
+<h3><strong>Eurasians during the Japanese Occupation</strong></h3>
+<p>The Japanese occupation of Singapore lasted about forty-four months. During
+this period as well as the months leading up to the invasion and eventual
+fall of Singapore, the Eurasian community together with other ethnic groups
+underwent an unnerving wartime experience with the constant fear of internment,
+torture and even death. Within the Eurasian community, those from the “D”
+and “G” Company of the Singapore Volunteer Corps and the Singapore Royal
+Artillery were among the first to experience war. As the war intensified
+and the Japanese forces moving southwards towards Singapore after landing
+at Kota Bahru on 8 December 1941, the Singapore Volunteer Corps were mobilised
+to take part in the defence of Malaya and Singapore. When Singapore fell
+on 15 February 1942, the volunteer corps, including Eurasian volunteers,
+was last stationed at Goodwood Park Hotel. By then, many Eurasian volunteers
+had lost their lives in battle. Many others would succumbed to hunger,
+sickness and brutality when they were interned as prisoners of war at Changi
+prison or deported to Thailand to lay the “Death Railway”, the railway
+line to link peninsular Malaysia and Burma.</p>
+<p>The violence and horrors of the Japanese invasion of Malaya and Singapore
+were not confined to the battlegrounds. Right from the start when the Japanese
+began their invasion in Malaya, countless air raids were carried out by
+the Japanese on Singapore which inflicted huge loss of civilian lives.
+After the fall of Singapore, the Japanese continued to terrorise the civilian
+population as they tried to weed out anti-Japanese elements within the
+different ethnic communities in Malaya and Singapore. Because of their
+European descent, the Japanese thought it was likely that British sympathisers
+would exist within the Eurasian community. In order to keep the Eurasians
+in check, the Japanese ordered the appointment of a Eurasian committee.
+The new committee comprised leading Eurasians like G.E.N Oehlers, H.E.
+Woodford, W.H. Mosbergen and G. Shelley, and it was tasked by the Japanese
+to determine the number and particulars of Eurasians residing in Singapore.
+Subsequently, the entire Singapore-Eurasian community was ordered by the
+Japanese to assemble on the Padang for mass screening. During the screening,
+Eurasians who were suspected of involvement in the defence of Malaya and
+Singapore were detained. Some of them were reported to be executed. Others
+who were employed in essential services such as the electrical and water
+departments were ordered to return to their posts. For the rest of the
+community, they were commanded to return to the livelihood, switch their
+allegiance to the Japanese government and not to take part in anti-Japanese
+activities. The Eurasian Association was renamed the Syonan Eurasian Welfare
+Association (SEWA) and Dr Charles J. P. Paglar was appointed by the Japanese
+as the President of SEWA with John Bertram van Cuylenburg as the Vice President.</p>
+<p>However, not all Japanese officers were notorious. There were some who
+were sympathetic and took an interest in the welfare of the different communities
+in Singapore. Mamoru Shonzaki was one such notable who worked with a number
+of Eurasians including Dr Paglar to look after the Eurasian community in
+Singapore and in the Bahau settlement in Negri Sembilan. Bahau was a village
+created by the Japanese for the Eurasians to imitate the Endau Chinese
+settlement in Johor. Both settlements were part of the larger Japanese
+attempt to create a string of self-sufficient agricultural settlements
+to allay the food shortage problem in Singapore. While the Endau was relatively
+successful, Bahau punctuated with problems including diseases and poor
+soil and living conditions. As a result, many Eurasians perished in Bahau.
+Many more would have similar fate if not for the medical care provided
+by Dr Paglar and other Eurasian doctors like Dr Jock Oehlers and Dr Cuylenburg.</p>
+<p>This section provides a list of books and resources that contain general
+accounts of the Japanese invasion of Malaya and Singapore as well as the
+Japanese occupation of Singapore. The topics these resources discuss include
+the disastrous British defence of Malaya and Singapore, the disorganised
+evacuation of civilians from Singapore and Singapore under the Japanese.
+Some of the most widely used resources related to this topic are stated
+below.</p>
+<p><strong>References</strong>
+</p>
+<p>Braga-Blake, Myrna &amp; Ebert-Oehlers, Ann. (1992). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6319425" rel="noopener noreferrer nofollow" target="_blank">Singapore Eurasians: Memories and hopes</a></em>.
+Singapore: Times Editions.</p>
+<p></p>
+<p><strong>Military Records and Accounts</strong>
+</p>
+<p><strong>Singapore Volunteer Corps</strong>
+</p>
+<p>The Singapore Volunteer Corps began as the Singapore Volunteer Rifle Corps
+in 1854, with the support of the Governor, Colonel J. Butterworth. The
+outbreak of riots between Chinese secret societies in 1854 led to the formation
+of a volunteer force to booster the internal security of Singapore. The
+group underwent several reorganisations and was known by various names
+through its history. In 1965, it was renamed the People's Defence Force.
+The Eurasians had a company in the Corps. The company was formed in 1901
+before it was disbanded in 1909. It was then formed again in 1918. This
+contingent would take part in the defence of Singapore against the Japanese
+in 1942 as the "D" Company.</p>
+<p><strong>References</strong>
+</p>
+<p>Winsley, T. M. (1938). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4182615" rel="noopener noreferrer nofollow" target="_blank">A history of the Singapore Volunteer Corps 1854-1937</a></em>.
+Singapore: Govt. Print. Off. Call No.: RCLOS 355.23 WIN. Microfilm No.:
+NL 9819, NL 25997</p>
+<p><strong>Commonwealth War Graves Commission Casualty Database</strong>
+</p>
+<p>The Commonwealth War Graves Commission casualty database lists the names
+and place of commemoration of the 1.7 million men and women of the Commonwealth
+forces who died during the two world wars. It also records details of the
+67,000 Commonwealth civilians who died "as a result of enemy action" in
+the Second World War. Users are able to search by surname, date, war, rank,
+regiment, awards or any combination of those criteria.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Commonwealth War Graves Commission
+Casualty Database
+<br><a rel="noopener noreferrer nofollow" target="_blank">http://www.cwgc.org/search-for-war-dead.aspx</a>
+</p>
+<p><strong>Introduction</strong>
+</p>
+<p>The Japanese invasion of Malaya and Singapore including the British response
+is a well researched area, resulting in the production of many resources.
+The selected resources below cover many topics such as the reasons behind
+the Japanese invasion, the British defence strategy in Malaya and Singapore,
+the battle of Singapore and the final days before the British surrendered.
+For family history research, grasping a general understanding of the Japanese
+invasion and occupation of Malaya and Singapore is only a part of the research
+process. To obtain better insights on the wartime experience of the different
+communities in Singapore, one could delve deeper into the memories collected
+by families. Such accounts could be acquired through biographies or autobiographies.
+From these publications, the reader could find names and accounts of soldiers
+or volunteers including those from the Eurasian community who had fought
+in Malaya and Singapore as well as names of families who were evacuated
+days before the fall of Singapore. This is in addition to the many first-person
+accounts of life during the Japanese Occupation.</p>
+<p></p>
+<p><strong>Personal Accounts of the War</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Baker, Maurice . (1999). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9653246" rel="noopener noreferrer nofollow" target="_blank">A time of fireflies and wild guavas</a></em>.
+Singapore: Federal Publications. Call No.: RSING q370.92 BAK</p>
+</li>
+<li>
+<p>Corfield, Justin J. &amp; Corfield, Robin. (2012). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14296288" rel="noopener noreferrer nofollow" target="_blank">The fall of Singapore: 90 days November 1941-Feburary 1942</a></em>.
+Singapore: Talisman Publishing. Call No.: RSING 940.5425957 COR</p>
+</li>
+<li>
+<p>Corner, E. J. H. (1981). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4080105" rel="noopener noreferrer nofollow" target="_blank">The Marquis: A tale of Syonan-to</a>. </em>Singapore:
+Heinemann Asia. Call No.: RSING 959.57023 COR</p>
+</li>
+<li>
+<p>Danaraj, T. J. (1990). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5629633" rel="noopener noreferrer nofollow" target="_blank">Japanese invasion of Malaya &amp; Singapore: Memoirs of a doctor</a></em>.
+Kuala Lumpur, Malaysia: T.J. Danaraj. Call No.: RSING 959.5105 DAN</p>
+</li>
+<li>
+<p>Gough, Richard. (2000). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9765499" rel="noopener noreferrer nofollow" target="_blank">The escape from Singapore</a></em>.
+Singapore: Raffles. Call No.: RSING 940.5425 GOU</p>
+</li>
+<li>
+<p>Kennedy, Joseph. (1989). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4790483" rel="noopener noreferrer nofollow" target="_blank">When Singapore fell: Evacuations and escapes, 1941-42</a></em>.
+Basingstoke: Macmillan. Call No.: RSING 940.5316 KEN</p>
+</li>
+<li>
+<p>Moore, Michael. (1988). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5145404" rel="noopener noreferrer nofollow" target="_blank">Battalion at war: Singapore 1942</a></em>.
+Norwich: Gliddon Books. Call No.: RSING 940.5425 MOO</p>
+</li>
+<li>
+<p>Outpost. (1942). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5017486" rel="noopener noreferrer nofollow" target="_blank">Singapore nightmare: A story of the evacuation and an escape to Australia</a></em>.
+London: J. Crowther. Call No.: RCLOS 940.5425 OUT</p>
+</li>
+<li>
+<p>Plotkin, David George. (1942). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4347964" rel="noopener noreferrer nofollow" target="_blank">Rage in Singapore: The cauldron of Asia boils over</a></em>.
+New York: Wisdom House. Call No.: RCLOS 940.548173 PLO</p>
+</li>
+<li>
+<p>Wall, Don. (1985). <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=3542276" rel="noopener noreferrer nofollow" target="_blank">Singapore &amp; beyond: The story of the men of the 2/20 Battalion told by the survivors</a>.
+East Hills: 2/20 Battalion Association Secretary. Call No.: RSING 940.541294
+SIN</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Books on the Malayan Campaign and Fall of Singapore</strong>
+</p>
+<p>Callahan, Raymond. (2001). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10401645" rel="noopener noreferrer nofollow" target="_blank">The worst disaster: The fall of Singapore</a></em>.
+Singapore: Cultured Lotus.</p>
+<p>Call No.: RSING 940.5425 CAL</p>
+<p>Corfield, Justin J. (1988). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4886448" rel="noopener noreferrer nofollow" target="_blank">A bibliography of literature relating to the Malayan campaign and the Japanese period in Malaya, Singapore, and northern Borneo</a></em>.
+Hull: University of Hull, Centre for Southeast Asian Studies.</p>
+<p>Call No.: RSING 016.9405425 COR</p>
+<p>Elphick, Peter. (1995). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=8802861" rel="noopener noreferrer nofollow" target="_blank">Singapore: The pregnable fortress</a></em>.
+London: Coronet.</p>
+<p>Call No.: RSING 940.5425 ELP</p>
+<p>Falk, Stanley L. (1975). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=187408" rel="noopener noreferrer nofollow" target="_blank">Seventy days to Singapore: The Malayan Campaign, 1941-1942</a></em>.
+London: Hale.</p>
+<p>Call No.: RSING 940.5425 FAL</p>
+<p>Farrell, Brian P. (2005). <em><a href="http://eservice.nlb.gov.sg/det_12519274.aspx?mode=BR" rel="noopener noreferrer nofollow" target="_blank">The defence and fall of Singapore 1940-1942</a></em>.
+Stroud, Gloucestershire: Tempus.</p>
+<p>Call No.: RSING 940.5425 FAR</p>
+<p>Frei, Henry. (2004). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11919202" rel="noopener noreferrer nofollow" target="_blank">Guns of February: Ordinary Japanese soldiers' views of Malayan campaign and the fall of Singapore 1941-42</a></em>.
+Singapore: Singapore University Press.</p>
+<p>Call No.: RSING 940.5425 FRE</p>
+<p>Hack, Karl &amp; Blackburn, Kevin. (2004). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12060408" rel="noopener noreferrer nofollow" target="_blank">Did Singapore have to fall?: Churchill and the impregnable fortress</a></em>.
+London; New York, N.Y.: RoutledgeCurzon.</p>
+<p>Call No.: RSING 940.5425 HAC</p>
+<p>Glover, Edwin Maurice. (1949). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5014436" rel="noopener noreferrer nofollow" target="_blank">In 70 days: The story of the Japanese campaign in British Malaya</a></em>.
+London: F. Muller.</p>
+<p>Call No.: RCLOS 940.53595 GLO</p>
+<p>Louis, Allen. (1993). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6703022" rel="noopener noreferrer nofollow" target="_blank">Singapore, 1941-1942</a></em>.
+London; Portland, Or: Frank Cass.</p>
+<p>Call No.: RSING 940.5425 ALL</p>
+<p>Moffatt, Jonathan &amp; McCormick, Audrey Holmes. (2002). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11112886" rel="noopener noreferrer nofollow" target="_blank">Moon over Malaya: A tale of Argylls and marines</a></em>.
+Stroud: Tempus.</p>
+<p>Call No.: RSING 940.5425 MOF</p>
+<p>Owen, Frank. (2001). <em><a href="http://eservice.nlb.gov.sg/det_10823519.aspx?mode=BR" rel="noopener noreferrer nofollow" target="_blank">The fall of Singapore</a></em>.
+London: Penguin Books.</p>
+<p>Call No.: RSING 940.5425 OWE</p>
+<p>Simson, Ivan. (1981). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4635581" rel="noopener noreferrer nofollow" target="_blank">Singapore: Too little, too late; some aspects of the Malayan disaster in 1942</a></em>.
+Kuala Lumpur: UMCB Publications.</p>
+<p>Call No.: RSING 940.5425 SIM</p>
+<p>Warren, Alan. (2002). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11014741" rel="noopener noreferrer nofollow" target="_blank">Singapore 1942: Britain's greatest defeat</a></em>.
+Singapore: Talisman.</p>
+<p>Call No.: RSING 940.5425 WAR</p>
