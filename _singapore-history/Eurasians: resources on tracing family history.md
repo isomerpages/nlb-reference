@@ -549,22 +549,23 @@ their Dutch heritage and remain as Protestant. For the two groups of Dutch-Euras
 they would later found their way to Singapore.</p>
 <p><strong>Books</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Boxer, Charles Ralph. (1947). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4500540" rel="noopener noreferrer nofollow" target="_blank">The Topasses of Timor</a></em>.
-Amsterdam: Indisch Instituut.</p>
-<p>Call No.: RCLOS 991.4 BOX [RFL]</p>
-<p>&nbsp;</p>
+Amsterdam: Indisch Instituut. Call No.: RCLOS 991.4 BOX [RFL]</p>
+</li>
+<li>
 <p>De Witt, Dennis. (2006). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13583660" rel="noopener noreferrer nofollow" target="_blank">Reconnecting through our roots</a></em>.
-Petaling Jaya, Selangor: D. De Witt.</p>
-<p>Call No.: RSING 959.5004393 DEW</p>
+Petaling Jaya, Selangor: D. De Witt. Call No.: RSING 959.5004393 DEW</p>
 <p>This book constitutes one of the very few publications to showcase the
 history, culture and heritage of the community of Dutch descendants in
 Malaysia. It also serves to highlight the continued existence of the Dutch
 descendants in Malaysia, as well as their ancestral connection to other
 similar communities from South Africa, Sri Lanka and Indonesia.</p>
-<p>&nbsp;</p>
+</li>
+<li>
 <p>De Witt, Dennis. (2007). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13089495" rel="noopener noreferrer nofollow" target="_blank">History of the Dutch in Malaysia</a>.</em> Selangor,
-Malaysia: Nutmeg Publications.</p>
-<p>Call No.: RSING 959.5004393 DEW</p>
+Malaysia: Nutmeg Publications. Call No.: RSING 959.5004393 DEW</p>
 <p>Published as a contribution by the Malaysian Dutch descendants to commemorate
 Malaysia's 50 years of independence, the theme of my book focuses on the
 mutual heritage shared between Malaysia and the Netherlands. It also tells
@@ -578,23 +579,24 @@ in Dutch Malacca; their attempts to enhance trade, maintain diplomacy and
 create an equilibrium of power in the Straits; as well as an insight to
 the Dutch Admirals, Burghers, Governors and their administrative ranks
 in shaping Malaysia's history.</p>
-<p>&nbsp;</p>
+</li>
+<li>
 <p>Hardy, T. J. (Ed.). (1899). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4412601" rel="noopener noreferrer nofollow" target="_blank">Catalogue of church records, Malacca 1642-1898</a></em>.
-Singapore: Govt. Print. Off.</p>
-<p>Call No.: RRARE, RDTYS 275.953 HAR</p>
-<p>Microfilm No.: NL2769</p>
-<p>&nbsp;</p>
+Singapore: Govt. Print. Off. Call No.: RRARE, RDTYS 275.953 HAR. Microfilm
+No.: NL2769</p>
+</li>
+<li>
 <p>Jacobs, E. M. (2006). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12918326" rel="noopener noreferrer nofollow" target="_blank">Merchant in Asia: The Trade of the Dutch East India Company</a></em>.
-Leiden : CNWS Publications.</p>
-<p>Call No.: RSING 382.0949205 JAC</p>
-<p>&nbsp;</p>
+Leiden : CNWS Publications. Call No.: RSING 382.0949205 JAC</p>
+</li>
+<li>
 <p>Muller, J. B. (2006). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13035528" rel="noopener noreferrer nofollow" target="_blank">The Burghers</a></em>.
-Colombo: Wimal Enterprises.</p>
-<p>Call no.: R 305.891413 MUL</p>
-<p>&nbsp;</p>
-<p>Schenkhuizen, Marguérite. (1993). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6696160" rel="noopener noreferrer nofollow" target="_blank">Memoirs of an Indo woman: twentieth century life in the East Indies and abroad</a></em>.
-Athens, Ohio: Ohio University Centre for International Studies</p>
-<p>Call No.: RSING 959.8004042 SCH</p>
+Colombo: Wimal Enterprises. Call no.: R 305.891413 MUL</p>
+</li>
+<li>
+<p>&nbsp;Schenkhuizen, Marguérite. (1993). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6696160" rel="noopener noreferrer nofollow" target="_blank">Memoirs of an Indo woman: twentieth century life in the East Indies and abroad</a></em>.
+Athens, Ohio: Ohio University Centre for International Studies. Call No.:
+RSING 959.8004042 SCH</p>
 <p>The memoirs of Marguerite Schenkhuizen provide an overview of practically
 the whole of the twentieth century as experienced by persons of mixed Dutch
 and Indonesian ancestry who lived in the former Dutch East Indies. The
@@ -604,10 +606,10 @@ from her husband during the Japanese occupation, finally as an immigrant
 to the United States after World War II. This self-portrait gives glimpses
 of the life of Indos from inside their society, glimpses that are valuable
 for their descendants as well as for outsiders.</p>
-<p>&nbsp;</p>
+</li>
+<li>
 <p>Taylor, Jean Gelman .(1983). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=2822861" rel="noopener noreferrer nofollow" target="_blank">The social world of Batavia: European and Eurasian in Dutch Asia</a></em>.
-Madison, Wis.: University of Wisconsin Press.</p>
-<p>Call No.: RSING 959.82 TAY</p>
+Madison, Wis.: University of Wisconsin Press. Call No.: RSING 959.82 TAY</p>
 <p>In the 17<sup>th</sup> century, the Dutch established a trading base at
 the Indonesian site of Jacarta. What began as a minor colonial outpost
 under the name Batavia would become, over the next three centuries, the
@@ -618,18 +620,23 @@ religious and social organizations and economic interests. With an emphasis
 on the urban ruling elite, she argues that Europeans and Asians alike were
 profoundly altered by their merging, resulting in a distinctive hybrid,
 Indo-Dutch culture.</p>
-<p>&nbsp;</p>
+</li>
+<li>
 <p>Taylor, Jean Stewart. (1978). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5643847" rel="noopener noreferrer nofollow" target="_blank">The social world of Batavia: a history of Mestizo culture in Dutch Asia</a></em>.
-Ann Arbor, Mich.: University Microfilms International.</p>
-<p>Call No.: RCLOS 959.802 TAY</p>
-<p>&nbsp;</p>
+Ann Arbor, Mich.: University Microfilms International. Call No.: RCLOS
+959.802 TAY</p>
+</li>
+<li>
 <p>Van Der Veur, Paul Willem. (1971). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=622632" rel="noopener noreferrer nofollow" target="_blank">The Eurasians of Indonesia; a political-historical bibliography</a>.</em> Ithaca,
-N.Y.: Modern Indonesia Project, Cornell University.</p>
-<p>Call No.: RCLOS 016.3014511040598 VAN</p>
-<p>&nbsp;</p>
+N.Y.: Modern Indonesia Project, Cornell University. Call No.: RCLOS 016.3014511040598
+VAN</p>
+</li>
+<li>
 <p>Veur, Paul Willen van der. (1995). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5066632" rel="noopener noreferrer nofollow" target="_blank">Introduction to a socio-political study of the Eurasians of Indonesia</a></em>.
-Ann Arbor, Mich.: University Microfilms International.</p>
-<p>Call No.: RCLOS 301.45110420598 VEU</p>
+Ann Arbor, Mich.: University Microfilms International. Call No.: RCLOS
+301.45110420598 VEU</p>
+</li>
+</ul>
 <p><strong>Articles</strong>
 </p>
 <p>Baxter, I. A. (1983). Dutch records from Malacca in the India Office Records. <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333" rel="noopener noreferrer nofollow" target="_blank">Journal of the Malaysian Branch of the Royal Asiatic Society</a></em>,
