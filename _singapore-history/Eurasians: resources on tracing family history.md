@@ -380,19 +380,19 @@ names and the telephone number belonging to the person.</p>
 <p>Singapore and Malaysia Directory, 1949-2011</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4193650" rel="noopener noreferrer nofollow" target="_blank">Straits Times Directory of Singapore and Malaya, 1949-1964</a></em>
+<p><em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4193650" rel="noopener noreferrer nofollow" target="_blank">Straits Times Directory of Singapore and Malaya, 1949-1964</a></em>
 </p>
 </li>
 <li>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4193650" rel="noopener noreferrer nofollow" target="_blank">Straits Times Directory of Malaysia and Singapore, 1965-1973</a></em>
+<p><em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4193650" rel="noopener noreferrer nofollow" target="_blank">Straits Times Directory of Malaysia and Singapore, 1965-1973</a></em>
 </p>
 </li>
 <li>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=1016326" rel="noopener noreferrer nofollow" target="_blank">The Straits Times Directory of Singapore, 1973-1983</a></em>
+<p><em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=1016326" rel="noopener noreferrer nofollow" target="_blank">The Straits Times Directory of Singapore, 1973-1983</a></em>
 </p>
 </li>
 <li>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082208" rel="noopener noreferrer nofollow" target="_blank">Times Directory of Singapore, 1984-2011</a></em>
+<p><em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082208" rel="noopener noreferrer nofollow" target="_blank">Times Directory of Singapore, 1984-2011</a></em>
 </p>
 </li>
 </ul>
@@ -546,6 +546,45 @@ at Negri Sembilan</p>
 <p>Marriage registers, 1946-1973. Microfilm No.: NA 034Education and School
 Records</p>
 <p></p>
+<p><strong>Church Publications</strong>
+</p>
+<p>Besides the church records above, churches in Singapore also released
+many commemorative publications during post-independence period to celebrate
+the long history of their establishments in Singapore. Some of these publications
+found in our collections are stated below. They may contain information
+that is relevant to family history research especially if the family attended
+these churches.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13219780" rel="noopener noreferrer nofollow" target="_blank">150th anniversary arrival of the De la Salle Brothers, birth of Lasallian Family in Asia, founding fathers of St Joseph's Institution: Euchartistic celebration Cathedral of the Good Shepherd, 10th May 2002</a></em>.
+(2002). Singapore: Cathedral of the Good Shepherd. Call No.: RCLOS 271.78
+ONE</p>
+</li>
+<li>
+<p>Boss, James Newton. (2009). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13681196" rel="noopener noreferrer nofollow" target="_blank">An account of the Portuguese mission in Singapore (1825-1999): Founding of St. Joseph's Church</a></em>.
+Singapore: James Newton Boss. Call No.: RSING 282.5957 BOS</p>
+</li>
+<li>
+<p>Loader, Jon. (1999). <em><a href="http://sgebooks.nl.sg/opendoc.aspx?doc=shc/nlbhb/020000036.pdf" rel="noopener noreferrer nofollow" target="_blank">Glimpses and memories of St. Joseph's Church and the Portuguese Mission in Singapore, 1825-1999</a></em>.
+Singapore: B. de Sousa. Call No.: RCLOS 282.5957 GLI</p>
+</li>
+<li>
+<p><em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12829852" rel="noopener noreferrer nofollow" target="_blank">Monument of love: The Church of St Teresa</a></em>.
+(2005). Singapore: Church of St Teresa. Call No.: RSING 282.5957 MON</p>
+</li>
+<li>
+<p><em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12664368" rel="noopener noreferrer nofollow" target="_blank">Space for God: Church of St. Mary of the Angels, Singapore</a></em>.
+(2004). Singapore: Franciscan Friars. Call No.: RSING 287.5957 SPA</p>
+</li>
+<li>
+<p><em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=8947230" rel="noopener noreferrer nofollow" target="_blank">St. Joseph's Church, Bukit Timah: 150 years, 1846-1996</a></em>.
+(1996). Singapore: The Church. Call No.: RSING 282.5957 SAI</p>
+</li>
+<li>
+<p>Wijeysingha, Eugene &amp; Nicolas, René. (2006). <em><a href="http://eservice.nlb.gov.sg/det_12747544.aspx?mode=BR" rel="noopener noreferrer nofollow" target="_blank">Going forth: The Catholic Church in Singapore 1819-2004</a></em>.
+Singapore: Nicholas Chia. Call No.: RSING 282.5957 WIJ</p>
+</li>
+</ul>
 <h3><strong>Educational Records</strong></h3>
 <p>Other than birth, marriage and death records, school records and yearbooks
 are also a valuable source of material for genealogy research. Below are
@@ -559,8 +598,31 @@ the first Eurasian enclave or Waterloo Street area.</p>
 records. The admission registers contain students’ particulars (e.g. sex,
 date and place of birth, race, admission date, etc.). Attendance registers
 contain almost similar information except they include records of daily
-attendance, school fee paid, summary of students’ roll, etc.</p>
-<p>Available in microfilm at National Archives of Singapore</p>
+attendance, school fee paid, summary of students’ roll, etc. Available
+in microfilm at National Archives of Singapore</p>
+<p><strong><em>Admission and Attendance Registers and School Records, 1888-1985</em></strong>
+</p>
+<p>The series consists of admission and attendance registers and other school
+records. The admission registers contain students’ particulars (e.g. sex,
+date and place of birth, race, admission date, etc.). Attendance registers
+contain almost similar information except they include records of daily
+attendance, school fee paid, summary of students’ roll, etc. Available
+in microfilm at National Archives of Singapore</p>
+<p></p>
+<p><strong><em>Institute of Education Administrative Files, 1950-1970</em></strong>
+</p>
+<p>This series contains administrative records of the Teachers' Training
+College (known as Institute of Education today). Among other things, the
+records consist of staff appointments, departmental scholarships, annual
+reports and student movements. Available in microfilm at National Archives
+of Singapore</p>
+<p></p>
+<p><strong><em>People’s Association Kindergarten Registers, 1964-1982</em></strong>
+</p>
+<p>This series consists of registers of People's Association (PA) kindergarten.
+Each registry contains information of the pupils and their parents/guardians.
+The later years registries document each pupil's health, cleaniness and
+conduct in class. Available in microfilm at National Archives of Singapore</p>
 <p></p>
 <p><strong>School Yearbooks and Magazines</strong>
 </p>
@@ -672,20 +734,19 @@ and multi-cultural of the Singapore society.</p>
 No.: NA 2159</p>
 <p><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4888842" rel="noopener noreferrer nofollow" target="_blank">Annual Reports (1986, 1987, 1994, 2008)</a>|
 Call No.: RCLOS/RSING 796.0605957 SRCAR</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p><strong>Eurasian Association</strong>
 </p>
 <p><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5040628" rel="noopener noreferrer nofollow" target="_blank">Annual Reports (2005, 2009)</a>|
 Call No.: RSING/RCLOS 301.451104205957 EASAR</p>
 <p><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6580136" rel="noopener noreferrer nofollow" target="_blank">EA news (1991, 1993, 1997, 1998) </a>Call
 No.: RSING 305.80405957 EAN</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Girls’ Sports Club</strong>
 </p>
 <p><a href="http://www.a2o.com.sg/a2o/public/search/prismDetail2.jsp?keyword=Girls%92+Sports+Club&amp;siteIndex=6&amp;pk=15478&amp;pk=15482&amp;shows=Show+Selected+Records" rel="noopener noreferrer nofollow" target="_blank">Annual Reports (1933-1985) | </a>Microfilm
 No.: NA 1172</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Singapore Volunteer Corps</strong>
 </p>
 <p><a href="http://www.a2o.com.sg/a2o/public/search/gridDetail.jsp?pk=14623&amp;keyword=eurasian&amp;siteIndex=7" rel="noopener noreferrer nofollow" target="_blank">Proposed club for Eurasian members (1924) | </a>Microfilm
@@ -695,6 +756,28 @@ No.: NL 28415. Call No.: RARE 355.2236205 SSVFYB</p>
 <p><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5049366" rel="noopener noreferrer nofollow" target="_blank">Annual report (1938) | </a>Microfilm
 No.: NL9936. Call No.: RARE 355.232 STR</p>
 <p></p>
+<p><strong>Eurasian Clubs and Associations Publications</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Eurasian Association. (1999). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12155148" rel="noopener noreferrer nofollow" target="_blank">Messages for the millennium: The Eurasian speaks on the 80th anniversary of the Eurasian Association</a></em>.
+Singapore: Eurasian Association. Call No.: RSING q305.80405957 MES</p>
+</li>
+<li>
+<p>Girls Sports Club. (1980). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4192367" rel="noopener noreferrer nofollow" target="_blank">Girls Sports Club, 1930-1980: 50th golden anniversary of the founding of the Club</a></em>.
+Singapore: The Club. Call No.: RSING 796.0605957 GIR</p>
+</li>
+<li>
+<p>Singapore Recreation Club. (2008). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13050859" rel="noopener noreferrer nofollow" target="_blank">Singapore Recreation Club celebrates 1883-2007</a></em>.
+Singapore: Singapore Recreation Club. Call No.: RSING 796.0605957 SIN.
+Microfilm No.: NL 31107</p>
+</li>
+<li>
+<p>Singapore Recreation Club. (1983). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4078699" rel="noopener noreferrer nofollow" target="_blank">Singapore Recreation Club 100 anniversary: Centenary celebrations, 1883-1983</a></em>.
+Singapore: The Club. Call No.: RCLOS 796.0605957 SIN. Microfilm No.: NL
+31106</p>
+</li>
+</ul>
 <h3><strong>Ship Registers and Passenger Lists</strong></h3>
 <p>Passenger lists are records of people travelling on a ship from one place
 to another. Passenger lists usually offer important data such as the names
