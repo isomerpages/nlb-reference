@@ -1496,10 +1496,12 @@ Singapore: Epigram. Call No.: RSING 641.5 PER</p>
 <li>
 <p>Hutton, Wendy. (2003). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11919215" rel="noopener noreferrer nofollow" target="_blank">Eurasian favourites</a></em>.
 Hong Kong: Periplus Editions. Call No.: RSING 641.5 HUT</p>
-<p>&nbsp;</p>
+<p></p>
+</li>
+</ul>
 <p><strong>Novels</strong>
 </p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p>Hamilton-Shimmen, Wilfred. (1993). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6958845" rel="noopener noreferrer nofollow" target="_blank">Seasons of darkness: A story of Singapore</a></em>.
 Klang, Selangor: W. Hamilton-Shimmen. Call No.: R 823.914 HAM</p>
