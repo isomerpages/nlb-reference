@@ -36,14 +36,14 @@ through the resources:</p>
 <p>Personal accounts</p>
 </li>
 <li>
-<p>Eurasians in pre- and post indepedence Singapore</p>
+<p>Eurasians in pre- and post-independence Singapore</p>
 </li>
 <li>
 <p>Publications on Eurasians</p>
 </li>
 </ul>
 <p></p>
-<h3><strong>Introduction - The Eurasian Community in Singapore</strong></h3>
+<h3><strong>The Eurasian Community in Singapore</strong></h3>
 <p>Eurasians are one of Singapore’s four major ethnic groups. Carrying a
 pedigree of European and Asian, the Eurasians are also Singapore’s earliest
 ethnic communities. The origins of the Eurasians in Singapore can be traced
@@ -430,22 +430,29 @@ in Singapore. To obtain the listing of all these churches, users can consult
 the church directory compiled by the National Council of Churches of Singapore
 listed below.</p>
 <p><em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12548044" rel="noopener noreferrer nofollow" target="_blank">A guide to churches and Christian organisations in Singapore</a></em>.
-(2011). Singapore: National Council of Churches of Singapore.</p>
-<p>Call No.: RSING 280.0255957 GUI</p>
-<p>&nbsp;</p>
-<p>Alternatively, users can also visit the main websites of the various Christian
+(2011). Singapore: National Council of Churches of Singapore. Call No.:
+RSING 280.0255957 GUI</p>
+<p></p>
+<p>Alternatively, you can also visit the main websites of the various Christian
 denominations and churches for more information on the respective churches
 they are seeking. Some of the major ones are listed below:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em><u>Archdiocese of Singapore (Roman Catholic)</u></em>
-</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em><u>Diocese of Singapore (Anglican)</u></em>
-</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em><u>Methodist Church of Singapore</u></em>
-</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em><u>Presbyterian Church in Singapore</u></em>
-</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em><u>Lutheran Church in Singapore</u></em>
-</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Archdiocese of Singapore (Roman Catholic)</p>
+</li>
+<li>
+<p>Diocese of Singapore (Anglican)</p>
+</li>
+<li>
+<p>Methodist Church of Singapore</p>
+</li>
+<li>
+<p>Presbyterian Church in Singapore</p>
+</li>
+<li>
+<p>Lutheran Church in Singapore</p>
+</li>
+</ul>
 <p></p>
 <p><strong>Roman Catholic Church Records</strong>
 </p>
