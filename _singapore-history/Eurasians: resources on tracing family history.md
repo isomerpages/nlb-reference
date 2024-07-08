@@ -1458,3 +1458,218 @@ in Singapore.</p>
 </p>
 <p>Braga-Blake, Myrna &amp; Ebert-Oehlers, Ann. (1992). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6319425" rel="noopener noreferrer nofollow" target="_blank">Singapore Eurasians: Memories and hopes</a></em>.
 Singapore: Times Editions.</p>
+<p></p>
+<h3><strong>Publications on and by Eurasians</strong></h3>
+<p></p>
+<p><strong>Books on the Eurasians</strong>
+</p>
+<p><strong>Capturing the Eurasian Culture</strong>
+</p>
+<p>During the post-independence period, the Eurasian community had produced
+many publications to highlight their identity. These publications vary
+from general works on the community to biographies or autobiographies.
+There are also novels and even cookbooks to highlight the culture of the
+Eurasians. For family history research, these publications are able to
+provide the researchers an understanding to the social and cultural background
+of the Eurasians. They are also useful in terms of linking the researchers
+to other related sources.</p>
+<p>&nbsp;</p>
+<p><strong>Cookbooks</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Gomes, Mary. (2001). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10902933" rel="noopener noreferrer nofollow" target="_blank">The Eurasian cookbook</a></em>.
+Singapore: Horizon Books. Call No.: RSING 641.5 GOM</p>
+</li>
+<li>
+<p>Kraal, David (2005). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12691102" rel="noopener noreferrer nofollow" target="_blank">The Devil in Me: Tasty Tidbits on Love and Life: Confessions of a Singapore Eurasian</a></em>.
+Singapore: Angsana Books. Call No.: RSING 305.804205957 KRA</p>
+</li>
+<li>
+<p>Pereira, Robin. (2009). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13228024" rel="noopener noreferrer nofollow" target="_blank">Robin's Eurasian recipes</a></em>.
+Singapore: Epigram. Call No.: RSING 641.5 PER</p>
+</li>
+<li>
+<p>Sarawak Eurasian Association. (2011). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14173379" rel="noopener noreferrer nofollow" target="_blank">Legacy cookbook</a></em>.
+[Malaysia]: Rhino Press. Call No.: RSING 641.59595 LEG</p>
+</li>
+<li>
+<p>Hutton, Wendy. (2003). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11919215" rel="noopener noreferrer nofollow" target="_blank">Eurasian favourites</a></em>.
+Hong Kong: Periplus Editions. Call No.: RSING 641.5 HUT</p>
+<p>&nbsp;</p>
+<p><strong>Novels</strong>
+</p>
+</li>
+<li>
+<p>Hamilton-Shimmen, Wilfred. (1993). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6958845" rel="noopener noreferrer nofollow" target="_blank">Seasons of darkness: A story of Singapore</a></em>.
+Klang, Selangor: W. Hamilton-Shimmen. Call No.: R 823.914 HAM</p>
+</li>
+<li>
+<p>Lazaroo, Simone (1994). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=8072495" rel="noopener noreferrer nofollow" target="_blank">The World Waiting to Be Made</a></em>.
+South Fremantle: Fremantle Arts Centre Press. Call No.: R 828.99434 LAZ</p>
+</li>
+<li>
+<p>Lazaroo, Simone (2000). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10241877" rel="noopener noreferrer nofollow" target="_blank">The Australian Fiancé</a></em>.
+Sydney: Pan Macmillan Australia. Call No.: R 823.914 LAZ</p>
+</li>
+<li>
+<p>Lazaroo, Simone (2006). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12776620" rel="noopener noreferrer nofollow" target="_blank">The Travel Writer</a></em>.
+Sydney: Pan Macmillan Australia. Call No.: R S823 LAZ</p>
+</li>
+<li>
+<p>Lim, Catherine. (1980). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4141256" rel="noopener noreferrer nofollow" target="_blank">Or Else the Lighting God</a></em>.
+Singapore: Heinemann Educational Books. Call No.: R S823.01 LIM&nbsp;</p>
+</li>
+<li>
+<p>Shelley, Rex. (2009). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13211407" rel="noopener noreferrer nofollow" target="_blank">The Shrimp people</a></em>.
+Singapore: Marshall Cavendish Editions. Call No.: R S823 SHE</p>
+</li>
+<li>
+<p>Shelley, Rex. (2011). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13767480" rel="noopener noreferrer nofollow" target="_blank">People of Pear Tree</a></em>.
+Singapore: Marshall Cavendish Editions. Call No.: R S823 SHE</p>
+</li>
+<li>
+<p>Shelley, Rex. (2011). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13767479" rel="noopener noreferrer nofollow" target="_blank">Island in the Centre</a></em>.
+Singapore: Marshall Cavendish Editions. Call No.: R S823 SHE</p>
+</li>
+<li>
+<p>Shelley, Rex. (2007). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=8815337" rel="noopener noreferrer nofollow" target="_blank">A River of Roses</a></em>.
+Singapore: Times Books International. Call No.: R S823 SHE</p>
+</li>
+</ul>
+<p></p>
+<p>The Eurasian community produced many publications pertaining to their
+family history. The coverage of these publications usually spanned from
+the colonial to the present period covering major historical events in
+Singapore. Some of them even went as far back as the pre-colonial period
+to provide a narrative of the origins of the Singapore-Eurasian community.
+These publications provide valuable information for Eurasians to trace
+their ancestors as many of them contain family trees and names of Eurasian
+families as well as their cultural heritage. The following titles are some
+of these publications.</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Blake, Myrna L. (1973). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=433497" rel="noopener noreferrer nofollow" target="_blank">Kampong Eurasians in Singapore</a></em>.
+Singapore: Dept. of Sociology, University of Singapore. Call No.: RCLOS
+301.451104205957 BLA. Microfiche No.: NL0034/026</p>
+</li>
+<li>
+<p>Braga-Blake, Myrna &amp; Ebert-Oehlers, Ann. (1992). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6319425" rel="noopener noreferrer nofollow" target="_blank">Singapore Eurasians: Memories and hopes</a></em>.
+Singapore: Times Editions. Call No.: RSING 305.80405957 SIN</p>
+</li>
+<li>
+<p>A coffee table piece with short essays on the personalities, lifestyle,
+culture and families of Singapore Eurasians. The family trees of the Leicester,
+O'Hara, Cornelius, Oliveiro and Moss in the article "Who's your mother?
+Who's your father?" by Pat de Silva. Photographs of many other family lines
+are also appended</p>
+</li>
+<li>
+<p>Carlos, A. (1991). The Eurasians in Singapore. In Makepeace et al. (Eds). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718" rel="noopener noreferrer nofollow" target="_blank">One Hundred Years of Singapore</a></em>.
+Singapore: Oxford University Press, pp. 363-374. Call No.: RSING 959.57
+ONE</p>
+</li>
+<li>
+<p>Harfield, A. G. (1988). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5166590" rel="noopener noreferrer nofollow" target="_blank">Early cemeteries in Singapore</a></em>.
+London: British Association for Cemeteries in South Asia. Call No.: RSING
+929.5095957 HAR</p>
+</li>
+<li>
+<p>Harfield, A. G. (1979). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=2002507" rel="noopener noreferrer nofollow" target="_blank">Fort Canning Cemetery, Singapore</a>.</em> London:
+British Association for Cemeteries in South Asia. Call No.: RCLOS 929.5095957
+HAR. Microfilm No.: NL 17974</p>
+</li>
+<li>
+<p>Kraal, Diane. (2003). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12246405" rel="noopener noreferrer nofollow" target="_blank">Gateway to Eurasian culture</a></em>.
+Singapore: Asiapac. Call No.: RSING 305.804 GAT</p>
+</li>
+<li>
+<p>Manley, Iain. (2010). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13695446" rel="noopener noreferrer nofollow" target="_blank">Tales of old Singapore: The glorious past of Asia's greatest emporium</a></em>.
+Hong Kong : Earnshaw Books. Call No.: RSING 959.57 MAN</p>
+</li>
+<li>
+<p>Peet, George L. (2009). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13164104" rel="noopener noreferrer nofollow" target="_blank">Rickshaw reporter</a></em>.
+Singapore: Marshall Cavendish Editions. Call No.: RSING 070.92 PEE</p>
+</li>
+<li>
+<p>Pereira, Alexius (1997). “The revitalization of Eurasian identity in Singapore”. <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5053584" rel="noopener noreferrer nofollow" target="_blank">Southeast Asian Journal of Social Science</a></em>,
+Vol. 25, No. 2, pp.7-24. Call No.: RSING 300.5 SAJSS</p>
+</li>
+<li>
+<p>Rappa, Antonio. L. (2000). “Surviving the Politics of Late Modernity:
+The Eurasian Fringe Community of Singapore”<em>.</em>  <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5053584" rel="noopener noreferrer nofollow" target="_blank">Southeast Asian Journal of Social Science</a></em>,
+Vol. 28, No.1, pp.153-180. Call No.: RSING 300.5 SAJSS</p>
+</li>
+<li>
+<p>Rappa, Nicolette Bernedette. (1998). <em>Inter-ethnic perceptions of the Eurasian and Chinese communities in Singapore. </em>Dept.
+of Sociology, Faculty of Arts &amp; Social Sciences, National University
+of Singapore.</p>
+</li>
+<li>
+<p>Thomson, John Turnbull (1865). <em><a href="http://econtent.elibraryhub.com/SHC/NLBHB/020000176.pdf" rel="noopener noreferrer nofollow" target="_blank">Some glimpses into life in the Far East</a></em>.
+London: Richardson &amp; Company. Call No.: RARE 959 THO</p>
+</li>
+<li>
+<p>Microfilm No.: NL8371, NL25422</p>
+</li>
+<li>
+<p>This book is a recollection of the time the author spent in the Far East
+30 years earlier when he was a young man. His description is about what
+he observed and experienced during his stay mainly in Penang, Singapore
+and Malacca - the different ethnic groups, their daily lives, food, customs,
+superstitions and ceremonies.</p>
+</li>
+<li>
+<p>Turnbull, C. M. (1972). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4132712" rel="noopener noreferrer nofollow" target="_blank">The Straits Settlements, 1826-67: Indian presidency to crown colony</a></em>.
+London: Athlone Press. Call No.: RSING 959.57 TUR</p>
+</li>
+<li>
+<p>Turnbull, C. M. (2009). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13206047" rel="noopener noreferrer nofollow" target="_blank">A history of modern Singapore, 1819-2005</a></em>.
+Singapore: NUS Press. Call No.: RSING 959.57 TUR</p>
+</li>
+<li>
+<p>Willis, Jon. (1983). <em>The Serani and the upper ten: Eurasian ethnicity in Singapore. </em>111p.
+Academic exercise - University of New South Wales.</p>
+</li>
+<li>
+<p>Wong, Lai Sim (1962). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5695671" rel="noopener noreferrer nofollow" target="_blank">The Eurasian population of Singapore, 1819-1959</a></em>.
+Singapore: Microfilm Service, University of Singapore. Call No.: RCLOS
+305.80405957 WON</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Biographies/Autobiographies</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Oehlers, Jock. (2011). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14056121" rel="noopener noreferrer nofollow" target="_blank">That's how it goes: The way of the 90-year life journey of a Singapore Eurasian</a></em>.
+Singapore: Select Pub. Call No.: RSING 617.6092 OEH</p>
+</li>
+<li>
+<p>Scully-Shepherdson, Martha. (2006). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12793275" rel="noopener noreferrer nofollow" target="_blank">Looking back: A family's history discovered and remembered</a></em>.
+Singapore: Martha Scully-Shepherdson. Call No.: RSING 929.2095957 SCU</p>
+</li>
+<li>
+<p>Shelley, Rex &amp; Chen, Fen. (2010). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13348517" rel="noopener noreferrer nofollow" target="_blank">Dr Paglar: Everyman's hero</a></em>.
+Singapore: Straits Times Press. Call No.: RSING 610.92 SHE &nbsp;</p>
+</li>
+<li>
+<p>Shepherdson, Kevin Linus &amp; Shepherdson, Percival Joseph. (2003). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12263522" rel="noopener noreferrer nofollow" target="_blank">Journey to the Straits: The Shepherdson story</a></em>.
+Singapore: Shepherdson Family. Call No.: RSING q929.2095957 SHE</p>
+</li>
+<li>
+<p>Shepherdson, Kevin Linus et. al. (2010). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13366950" rel="noopener noreferrer nofollow" target="_blank">The great genealogical search: A remarkable story of how one family traced its roots in the East Indies and discovered its British ancestry</a></em>.
+Singapore: Straits Consultancy &amp; Pub. Call No.: RSING 929.107205957
+SHE</p>
+</li>
+<li>
+<p>Tessensohn, Denyse. (2003). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12231015" rel="noopener noreferrer nofollow" target="_blank">Elvis still lives in Katong</a></em>.
+Singapore: Dagmar Books. Call No.: RSING 305.804205957 TES</p>
+</li>
+<li>
+<p>Tessensohn, Denyse. (2001). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10400014" rel="noopener noreferrer nofollow" target="_blank">Elvis lived in Katong: Personal Singapore Eurasiana</a></em>.
+Singapore: Dagmar Books. Call No.: RSING 305.804205957 TES</p>
+</li>
+</ul>
+<p></p>
