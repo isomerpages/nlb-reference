@@ -4,7 +4,7 @@ permalink: /eurasians-resources-on-tracing-family-history/
 variant: tiptap
 description: ""
 ---
-<h3>Guide Index</h3>
+<h3><strong>Guide Index</strong></h3>
 <p>This guide is divided into the following sections to help users to navigate
 through the resources:</p>
 <p><a href="http://libguides.nl.sg/aecontent.php?pid=354036&amp;sid=2895929" rel="noopener noreferrer nofollow" target="_blank"><u>Origins of the Singapore-Eurasians</u></a>
@@ -17,7 +17,7 @@ through the resources:</p>
 </p>
 <p><a href="http://libguides.nl.sg/aecontent.php?pid=354036&amp;sid=2900392" rel="noopener noreferrer nofollow" target="_blank"><u>Books on the Eurasians</u></a>
 </p>
-<h3>Introduction - The Eurasian Community in Singapore</h3>
+<h3><strong>Introduction - The Eurasian Community in Singapore</strong></h3>
 <p>Eurasians are one of Singapore’s four major ethnic groups. Carrying a
 pedigree of European and Asian, the Eurasians are also Singapore’s earliest
 ethnic communities. The origins of the Eurasians in Singapore can be traced
@@ -138,16 +138,35 @@ Singapore: Microfilm Service, University of Singapore.</p>
 <h3><strong>Conducting Family History Search on Singapore-Eurasians</strong></h3>
 <p>In general, these resources are useful to delve into for family history
 research on Singapore-Eurasians.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Births, deaths and marriages records</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Church records</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School records</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Clubs and association records</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Government records</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Immigration and shipping records</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Land records and maps</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Newspapers</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Secondary resources such as books,
-biographies and articles</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Births, deaths and marriages records</p>
+</li>
+<li>
+<p>Church records</p>
+</li>
+<li>
+<p>School records</p>
+</li>
+<li>
+<p>Clubs and association records</p>
+</li>
+<li>
+<p>Government records</p>
+</li>
+<li>
+<p>Immigration and shipping records</p>
+</li>
+<li>
+<p>Land records and maps</p>
+</li>
+<li>
+<p>Newspapers</p>
+</li>
+<li>
+<p>Secondary resources such as books, biographies and articles</p>
+</li>
+</ul>
 <p>How these records are used by the featured families in their family history
 research is largely dependent on their ethnic and religious background.
 For instance, to trace vital statistics such as birth, death and marriage
@@ -233,7 +252,7 @@ They provide information such as the name of the deceased, date of death,
 burial, etc.</p>
 <p>Available in microfilm at National Archives of Singapore</p>
 <p></p>
-<h3>Government Records and Business Directories</h3>
+<h3><strong>Government Records and Business Directories</strong></h3>
 <p>Apart from records that are related to births, marriages and deaths, names
 can also be obtained from publications produced by the Straits Settlements
 government given that the person had worked in the government. In these
@@ -345,7 +364,7 @@ names and the telephone number belonging to the person.</p>
 </li>
 </ul>
 <p></p>
-<h3>Church Records and Directories</h3>
+<h3><strong>Church Records and Directories</strong></h3>
 <p><strong>Church Directory</strong>
 </p>
 <p>There are currently more than 500 churches of all Christian denomiation
@@ -369,7 +388,8 @@ they are seeking. Some of the major ones are listed below:</p>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em><u>Lutheran Church in Singapore</u></em>
 </p>
-<p><strong>Introduction</strong>
+<p></p>
+<p><strong>Roman Catholic Church Records</strong>
 </p>
 <p>Church records are another important source of information for genealogy
 research. The main types of information you can get from these records
@@ -377,14 +397,13 @@ are baptism, marriage and death registrations. As Eurasians are mostly
 Roman Catholics, they should be able to find information on their ancestors
 in records from the different Roman Catholic churches in Singapore. These
 records are currently housed in the National Archives of Singapore. The
-Archives also has records of churches from other Christian demoniations
+Archives also has records of churches from other Christian denominations
 including the Anglican, Methodist and Presbyterian. Some of the church
 records, especially those from the earliest churches in Singapore which
 were established in the 1800s and early 1900s, are listed below. Users
 are able to search for more church records using the National Archives
 of Singapore online catalogue (<a rel="noopener noreferrer nofollow" target="_blank">nas.gov.sg/archivesonline</a>).</p>
-<p><strong>Roman Catholic Church Records</strong>
-</p>
+<p></p>
 <p><strong>Cathedral of the Good Shepherd</strong>
 </p>
 <p>Baptism registers, 1830s-1980s | Microfilm No.: NAA 001, NAA 002, NAA
