@@ -1155,73 +1155,44 @@ the Japanese.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Caffrey, Kate. <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4162267" rel="noopener noreferrer nofollow" target="_blank">Out in the midday sun: Singapore 1941-45</a></em>.
-London: Deutsch.</p>
-</li>
-<li>
-<p>Call No.: RSING 940.5425 CAF</p>
+London: Deutsch. Call No.: RSING 940.5425 CAF</p>
 </li>
 <li>
 <p>Kratoska, Paul H. (1998). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=8730882" rel="noopener noreferrer nofollow" target="_blank">The Japanese occupation of Malaya: A social and economic history</a></em>.
-St Leonards, N.S.W.: Allen &amp;Unwin.</p>
-</li>
-<li>
-<p>Call No.: RSING 959.5103 KRA</p>
+St Leonards, N.S.W.: Allen &amp; Unwin. Call No.: RSING 959.5103 KRA</p>
 </li>
 <li>
 <p>Yoji, Akashi &amp; Mako, Yoshimura (Eds.). (2008). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12849736" rel="noopener noreferrer nofollow" target="_blank">New perspectives on the Japanese occupation in Malaya</a></em>.
-Singapore: NUS Press.</p>
-</li>
-<li>
-<p>Call No.: 940.5337 NEW</p>
+Singapore: NUS Press. Call No.: 940.5337 NEW</p>
 </li>
 <li>
 <p>Lee, Geok Boi. (2005). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12661517" rel="noopener noreferrer nofollow" target="_blank">The Syonan years: Singapore under Japanese rule, 1942-1945</a></em>.
-Singapore: National Archives of Singapore and Epigram.</p>
-</li>
-<li>
-<p>Call No.: q940.53957 LEE</p>
+Singapore: National Archives of Singapore and Epigram. Call No.: q940.53957
+LEE</p>
 </li>
 <li>
 <p>Tan, Beng Luan &amp; Quah, Irene. (1996). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7971548" rel="noopener noreferrer nofollow" target="_blank">The Japanese occupation 1942-1945: A pictorial record of Singapore during the war</a></em>.
-Singapore: Times Editions.</p>
-</li>
-<li>
-<p>Call No.: RSING 940.5425 TAN</p>
+Singapore: Times Editions. Call No.: RSING 940.5425 TAN</p>
 </li>
 <li>
 <p>Chin, Kee Onn. (1976). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082027" rel="noopener noreferrer nofollow" target="_blank">Malaya upside down</a></em>.
-Singapore: Federal Publications.</p>
-</li>
-<li>
-<p>Call No.: RCLOS 940.53595 CHI</p>
+Singapore: Federal Publications. Call No.: RCLOS 940.53595 CHI</p>
 </li>
 <li>
 <p>Cooper, Bryan C. (2001). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10200742" rel="noopener noreferrer nofollow" target="_blank">Decade of change: Malaya and the Straits Settlements, 1936-1945</a></em>.
-Singapore: Graham Brash.</p>
-</li>
-<li>
-<p>Call No.: RSING 959.57 COO</p>
+Singapore: Graham Brash. Call No.: RSING 959.57 COO</p>
 </li>
 <li>
 <p>Low, Ngiong Ing. (2004). <em><a href="http://eservice.nlb.gov.sg/det_12236444.aspx?mode=BR" rel="noopener noreferrer nofollow" target="_blank">When Singapore was Syonan-to</a></em>.
-Singapore: Times Editions.</p>
-</li>
-<li>
-<p>Call No.: RSING 940.54815957 LOW</p>
+Singapore: Times Editions. Call No.: RSING 940.54815957 LOW</p>
 </li>
 <li>
 <p>Foong, Choon Hon. (1997). <em><a href="http://eservice.nlb.gov.sg/det_8468498.aspx?mode=BR" rel="noopener noreferrer nofollow" target="_blank">The price of peace: True accounts of the Japanese occupation</a></em>.
-Singapore: Asiapac.</p>
-</li>
-<li>
-<p>Call No.: RSING 959.57 PRI</p>
+Singapore: Asiapac. Call No.: RSING 959.57 PRI</p>
 </li>
 <li>
 <p>Tan, Stanley Tik Loong. (2009). <em><a href="http://eservice.nlb.gov.sg/det_13221326.aspx?mode=BR" rel="noopener noreferrer nofollow" target="_blank">Syonan years, 1942-1945: Living beneath the rising sun</a></em>.
-Singapore: National Archives of Singapore.</p>
-</li>
-<li>
-<p>Call No.: RSING 940.530745957</p>
+Singapore: National Archives of Singapore. Call No.: RSING 940.530745957</p>
 </li>
 </ul>
 <p></p>
