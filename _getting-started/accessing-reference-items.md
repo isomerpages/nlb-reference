@@ -30,7 +30,7 @@ Asian Children's Literature collection</p>
 <p><strong>Level 11</strong>: Singapore and Southeast Asia collections</p>
 </li>
 </ul>
-<p>All our collection items can be found in our <strong><a href="https://catalogue.nlb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">online Catalogue</a></strong>{:target="_blank"}.
+<p>All our collection items can be found in our <strong><a href="https://catalogue.nlb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">online Catalogue</a></strong>.
 Click on&nbsp;<strong>“View All Libraries”</strong> to display the respective
 locations of individual items at each library.</p>
 <p>Listed here are the different item locations you would see for items from
