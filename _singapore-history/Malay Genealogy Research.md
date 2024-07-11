@@ -31,22 +31,13 @@ mengenai jurai keturunan<strong> </strong>keluarga rumpun Melayu<strong> </stron
 yang berkaitan dengannya, yang dirujuk atau menjadi panduan bagi pengumpulan
 bibliografi ini.</p>
 <p>======================================================================</p>
-<p>Tracing Malay family lineage are often difficult because documentation
-and records are very poorly documented and seldom published commercially.
-Most family records are either typed or handwritten in their original state
-as pencil or ink notes on paper, bound and then folded or rolled up for
-storage. There are also those that are displayed in the glass pavilion.
-The author or registrar is the copyright owner of the descendant jurai
-who represents the family members responsible for adding or updating it.
-For others, there are those who hire a scribe called "Cadillac" whose job
-is to write and sketch the lineage, according to what is instructed. Notes
-sheets, charts and names are collected and bound with adhesive into a simple,
-homemade book. Or photocopies are made in limited numbers and distributed
-to family representatives (usually the oldest members) on special occasions
-of gatherings. This resource guide presents a select list of publications
-containing information on the lineage of the Malay family or related to
-it, to serve as a guide for the compilation of Malay family history or
-genealogy.</p>
+<p>Tracing Malay family lineage are often difficult because records are very
+poorly documented and seldom published commercially. Most family records
+are either typed or handwritten in pencil or ink on paper, bound and then
+folded or rolled up for storage. This resource guide presents a select
+list of publications containing information on the lineage of the Malay
+family or related to it, to serve as a guide for the compilation of Malay
+family history or genealogy.</p>
 <h3><strong>Judul-judul Melayu (Malay Titles)</strong></h3>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dilema Singapura : peminggiran politik
 dan pelajaran masyarakat Melayu / Lily Zubaidah Rahim ; penterjemah, Yunus
