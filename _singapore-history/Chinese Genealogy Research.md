@@ -275,11 +275,14 @@ information.</p>
 海口: 海南出版社. (2004)</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 康熙乐会县志: 康熙八年本
 <br>Call Number: R 951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907449林子兰总辑、陈宗琛等纂.《康熙乐会县志</a>:
-康熙二十六年本》；程秉慥纂修《宣统乐会县志》.林大华等纂修.海口:海南出版社.(2006)</p>
+<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907449 </a>
+</p>
+<p>林子兰总辑、陈宗琛等纂.《康熙乐会县志: 康熙二十六年本》；程秉慥纂修《宣统乐会县志》.林大华等纂修.海口:海南出版社.(2006)</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 康熙儋州志 by [淸]韩祐重修; [林冠群点校]
 <br>Call Number: R 951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907459海口：海南出版社.(2004)</a>.</p>
+<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907459 </a>
+</p>
+<p>海口：海南出版社.(2004)</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 康熙定安县志 by 张文豹纂修、梁廷佐同修
 <br>Call Number: R 951.29 HND
 <br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907455海口:海南出版社.(2006)</a>.</p>
@@ -466,8 +469,7 @@ information.</p>
 <br>Call Number: R 915.10014 ZGD
 <br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12815094北京</a>:
 华夏出版社.(2005).</p>
-<p><strong>人物志、传记</strong>
-</p>
+<h3><strong>人物志、传记</strong></h3>
 <p>以下书目介绍人物的生卒年份、身平、教育背景和事迹等。下列书目包括当代人物如:《扭转生命的方向: 20位成功者的故事》、不同区域的人物传如:《新加坡华人百年史》、《厦门人物•海外篇》、《世界华侨名人传》等。</p>
 <p>The biographies listed below cover past and present, local and regional
 Chinese personalities. Information usually available in these sources are
