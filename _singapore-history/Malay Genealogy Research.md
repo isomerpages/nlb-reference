@@ -27,10 +27,26 @@ dalam bilangan terhad, dijilidkan dengan baik untuk dibahagikan kepada
 wakil-wakil keluarga ( biasanya anggota paling berusia) dalam majlis khas
 perjumpaan atau keramaian rumpun keluarga-besar masing-masing.</p>
 <p>Daftar ini menyenaraikan penerbitan-penerbitan yang mengandungi maklumat
-mengenai <strong>jurai keturunan </strong>keluarga rumpun Melayu<strong> </strong>atau
+mengenai jurai keturunan<strong> </strong>keluarga rumpun Melayu<strong> </strong>atau
 yang berkaitan dengannya, yang dirujuk atau menjadi panduan bagi pengumpulan
 bibliografi ini.</p>
-<p>&nbsp;</p>
+<p>======================================================================</p>
+<p>Tracing Malay family lineage are often difficult because documentation
+and records are very poorly documented and seldom published commercially.
+Most family records are either typed or handwritten in their original state
+as pencil or ink notes on paper, bound and then folded or rolled up for
+storage. There are also those that are displayed in the glass pavilion.
+The author or registrar is the copyright owner of the descendant jurai
+who represents the family members responsible for adding or updating it.
+For others, there are those who hire a scribe called "Cadillac" whose job
+is to write and sketch the lineage, according to what is instructed. Notes
+sheets, charts and names are collected and bound with adhesive into a simple,
+homemade book. Or photocopies are made in limited numbers and distributed
+to family representatives (usually the oldest members) on special occasions
+of gatherings. This resource guide presents a select list of publications
+containing information on the lineage of the Malay family or related to
+it, to serve as a guide for the compilation of Malay family history or
+genealogy.</p>
 <h3><strong>Judul-judul Melayu (Malay Titles)</strong></h3>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dilema Singapura : peminggiran politik
 dan pelajaran masyarakat Melayu / Lily Zubaidah Rahim ; penterjemah, Yunus
@@ -51,7 +67,6 @@ budaya kampung-kampung di Singapura by Hadijah Rahmat
 <br>Call Number: RSING 959.57 HAD -[HIS]
 <br>ISBN: 981050652X
 <br>Publication Date: 2005 <a rel="noopener noreferrer nofollow" target="_blank"><u><br></u>http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12535182</a>
-<a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12535182" rel="noopener noreferrer nofollow" target="_blank"></a>
 <br>Singapore : HS Yang Publishing, 2005</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Memoir penghulu Dato' Zainal Abidin
 Lati by Harun Johari
@@ -211,6 +226,7 @@ bagi pencarian maklumat mengenai latar hubung-kait sesebuah kesultanan
 dan warga istana mengenai sejarah, masa dan peristiwa yang berlaku pada
 masa itu. Daftar ini menyenaraikan penerbitan-penerbitan yang terdapat
 kandungan mengenai salasilah keluarga diraja Nusantara.</p>
+<p>=============================================================================</p>
 <p>The genealogies of the sultanates of the Malay Archipelago are an important
 source for those who wish to link or relate their family histories to the
 Malay kings of the region. These sources can also be used to appreciate
@@ -220,8 +236,8 @@ dan legenda by Nisriwani Yahaya.
 <br>Call Number: R q959.010922 NIS
 <br>ISBN: 9679935310
 <br>Publication Date: 2003
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12283082</a>
-<a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12283082" rel="noopener noreferrer nofollow" target="_blank"></a><u><br></u>Kuala Lumpur : Jabatan Muzium dan Antikuiti, 2003.</p>
+<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12283082</a><u><br></u>Kuala
+Lumpur : Jabatan Muzium dan Antikuiti, 2003.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ahlul-Bait (Keluarga) Rasulullah
 SAW &amp; kesultanan Melayu / susunan, Hj. Muzaffar Dato' Haji Mohamad,
 (Tun)Suzana (Tun) Hj Othman
@@ -229,7 +245,6 @@ SAW &amp; kesultanan Melayu / susunan, Hj. Muzaffar Dato' Haji Mohamad,
 <br>ISBN: 9833020127
 <br>Publication Date: 2006
 <br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12736651</a>
-<a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12736651" rel="noopener noreferrer nofollow" target="_blank"></a>
 <br>Selangor : Crescent News (KL) Sdn Bhd, 2006.</p>
 <p>This traces the progeny of the Prophet of Islam to Muslim rulers of the
 Archipelago.</p>
@@ -252,15 +267,15 @@ Patani / Ibrahim Syukri ; translated by Conner Bailey and John N. Miksic
 <br>Call Number: RSEA English 959.3 IBR
 <br>ISBN: 9749575776
 <br>Publication Date: 2005
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12585505</a>
-<a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12585505%20" rel="noopener noreferrer nofollow" target="_blank"></a><u><br></u>Chiang Mai : Silkworm, 2005.</p>
+<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12585505</a><u><br></u>Chiang
+Mai : Silkworm, 2005.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ke Bawah Duli Yang Maha Mulia Sultan
 Ismail Petra : sebuah biografi by Mohd. Zain bin Saleh.
 <br>Call Number: R q923.1595121 MOH
 <br>ISBN: 9836271457
 <br>Publication Date: 2001
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10555251</a>
-<a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10555251%20" rel="noopener noreferrer nofollow" target="_blank"></a><u><br></u>Kuala Lumpur : Dewan Bahasa dan Pustaka, 2001.</p>
+<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10555251</a><u><br></u>Kuala
+Lumpur : Dewan Bahasa dan Pustaka, 2001.</p>
 <p>This biography explains the contributions that Sultan Ismail Petra makes
 to this people and and country. It also contains the genealogy chart of
 the Kings of Kelantan.</p>
@@ -282,7 +297,6 @@ Imam Perang Jabor (1858-1921) by Hashim Sam, 1928-
 <br>ISBN: 983214003X
 <br>Publication Date: 2000
 <br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10288428</a>
-<a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10288428%20" rel="noopener noreferrer nofollow" target="_blank"></a>
 <br>Kuala Lumpur : Persatuan Sejarah Malaysia, 2000.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Orang Indonesia &amp; orang Prancis
 : dari abad XVI sampai dengan abad XX by Dorléans, Bernard
@@ -297,18 +311,17 @@ Nik Abdul Rahman ... [et al.].
 <br>Call Number: RSEA 959.5 SEM
 <br>ISBN: 9834251408
 <br>Publication Date: 2005
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12903087</a>
-<a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12903087" rel="noopener noreferrer nofollow" target="_blank"></a><u><br></u>Pahang : Lembaga Muzium Negeri Pahang ; Kuala Lumpur :
-Institut Alam &amp; Tamadun Melayu (ATMA), Universiti Kebangsaan Malaysia,
-2005.</p>
+<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12903087</a><u><br></u>Pahang
+: Lembaga Muzium Negeri Pahang ; Kuala Lumpur : Institut Alam &amp; Tamadun
+Melayu (ATMA), Universiti Kebangsaan Malaysia, 2005.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Raja Melayu, kerabat &amp; pembesar
 : 707 kisah dan fakta / Ghulam Jie M. Khan.
 <br>Call Number: R Malay 959.508621 KHA
 <br>ISBN: 983945739X
 <br>Publication Date: 2006
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12916181</a>
-<a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12916181%20" rel="noopener noreferrer nofollow" target="_blank"></a><u>&nbsp;<br></u>[Kota, Negeri Sembilan Darul Khusus : Ainna's Publications
-; Johor Bharu : Pengedar tunggal, City Megazone, 2006].</p>
+<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12916181</a><u>&nbsp;<br></u>[Kota,
+Negeri Sembilan Darul Khusus : Ainna's Publications ; Johor Bharu : Pengedar
+tunggal, City Megazone, 2006].</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sejarah hidup Syeikh Muhammad Suhaimi
 / disusun oleh ustadz Hj. Mohd.Taha Suhaimi
 <br>Call Number: RSING 297.092 SEJ
@@ -321,29 +334,27 @@ Ibrahim Syukri.
 <br>Call Number: RSEA Malay 959.51 IBR
 <br>ISBN: 967942569X
 <br>Publication Date: 2002
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11780375</a>
-<a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11780375%20" rel="noopener noreferrer nofollow" target="_blank"></a><u><br></u>Bangi : Penerbit Universiti Kebangsaan Malaysia, 2002.</p>
+<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11780375</a><u><br></u>Bangi
+: Penerbit Universiti Kebangsaan Malaysia, 2002.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sejarah Melayu / diusahakan oleh
 W.G. Shellabear
 <br>Call Number: R 959.5 SEJ
 <br>Publication Date: 1975
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4184073</a>
-<a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4184073%20" rel="noopener noreferrer nofollow" target="_blank"></a><u>&nbsp;<br></u>Kuala Lumpur : Fajar Bakti, 1975.</p>
+<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4184073</a><u>&nbsp;<br></u>Kuala
+Lumpur : Fajar Bakti, 1975.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Seminar Antarabangsa Dunia Melayu-Dunia
 Indochina : hubungan sejarah dan kebudayaan, 21-22 November 2000, Jabatan
 Muzium dan Antikuiti, Kuala Lumpur, Malaysia by anjuran Kementerian Kebudayaan,
 Kesenian dan Pelancongan Malaysia ... [<a rel="noopener noreferrer nofollow" target="_blank">et.al</a>.]
 <br>Call Number: R Malay q305.800595 SEM
 <br>Publication Date: 2000
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11022931</a>
-<a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11022931%20" rel="noopener noreferrer nofollow" target="_blank"></a><u><br></u>Seminar Antarabangsa Dunia Melayu - Dunia Indochina : (2000
-: Kuala Lumpur, Malaysia).</p>
+<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11022931</a><u><br></u>Seminar
+Antarabangsa Dunia Melayu - Dunia Indochina : (2000 : Kuala Lumpur, Malaysia).</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Silsilah Melayu dan Bugis / disusun
 dan dikaji oleh Arena Wati by Ali al-Haji Riau, Raja, 1809-1870
 <br>Call Number: R Malay 899.230088102 ARE
 <br>Publication Date: 1973
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=1435178</a>
-<a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=1435178%20" rel="noopener noreferrer nofollow" target="_blank"></a>&nbsp;&nbsp;&nbsp;
+<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=1435178</a>&nbsp;&nbsp;&nbsp;
 <br>Kuala Lumpur : Pustaka Antara, 1973</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tarsilah Brunei : sejarah awal dan
 perkembangan Islam by Mohd. Jamil Al-Sufri, Pehin Orang Kaya Amar Diraja
@@ -360,8 +371,7 @@ Ali al-Haji Riau, Raja, 1809-1870
 <br>Call Number: R Malay 959.5 ALI
 <br>ISBN: 9836221239
 <br>Publication Date: 1991
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6252229</a>
-<a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6252229%20" rel="noopener noreferrer nofollow" target="_blank"></a>&nbsp;
+<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6252229</a>&nbsp;
 <br>Kuala Lumpur : Dewan Bahasa dan Pustaka, 1991</p>
 <h3><strong>Akhbar Melayu (Malay Newspapers)</strong></h3>
 <p>Akhbar pertama dalam bahasa Melayu bertulisan Jawi dikenali sebagai <strong>Jawi Peranakan (1876-1895) </strong>diterbitkan
@@ -369,6 +379,7 @@ seminggu sekali. Maklumat seperti senarai penumpang, notis perkahwinan,
 berita kematian dan lain-lain pengumuman adalah antara isi kandungan berguna
 untuk disemak atau sebagai bahan rujukan. Antara akhbar-akhbar yang terdapat
 dalam koleksi kami adalah:</p>
+<p>=======================================================================</p>
 <p>The earliest Malay newspaper that was published in Singapore is the Jawi
 Peranakan (1876-1895). Information useful for research from newspapers
 are marriage notices, obituaries, passenger lists and other public information.
@@ -404,8 +415,7 @@ Amongst the Malay newspapers in our collection are as follows:</p>
 </p>
 </li>
 <li>
-<p><a rel="noopener noreferrer nofollow" target="_blank">Jawi Peranakan (1876-1895)</a>
-<a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank"></a><a rel="noopener noreferrer nofollow" target="_blank">https://eresources.nlb.gov.sg/newspapers/browse/7bbb6487-0b80-42be-a73b-35fe08e55482</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">Jawi Peranakan (1876-1895)https://eresources.nlb.gov.sg/newspapers/browse/7bbb6487-0b80-42be-a73b-35fe08e55482</a>
 </p>
 </li>
 <li>
@@ -448,8 +458,7 @@ Amongst the Malay newspapers in our collection are as follows:</p>
 </p>
 </li>
 <li>
-<p><a rel="noopener noreferrer nofollow" target="_blank">Warta Malaya (1930-1941)</a>
-<a href="#_msocom_3" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank"></a><a rel="noopener noreferrer nofollow" target="_blank">https://eresources.nlb.gov.sg/newspapers/browse/38bd3307-949f-4604-a16c-abe3a04a8cb2</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">Warta Malaya (1930-1941)https://eresources.nlb.gov.sg/newspapers/browse/38bd3307-949f-4604-a16c-abe3a04a8cb2</a>
 </p>
 </li>
 <li>
