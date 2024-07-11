@@ -5,6 +5,27 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>Malay Genealogy Research</strong></h3>
+<p></p>
+<p><strong>Guide index</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Introduction</p>
+</li>
+<li>
+<p>Judul-judul Melayu (Malay Titles)</p>
+</li>
+<li>
+<p>Judul-judul Inggeris (English Titles)</p>
+</li>
+<li>
+<p>Salasilah-salasilah Kesultanan (Royal Family Histories)</p>
+</li>
+<li>
+<p>Akhbar Melayu (Malay Newspapers)</p>
+</li>
+</ul>
+<p></p>
 <p><strong><a rel="noopener noreferrer nofollow" target="_blank">Pengenalan (Introduction)</a></strong>
 </p>
 <p><strong>Genealogi = Salasilah, Jurai keturunan</strong>
