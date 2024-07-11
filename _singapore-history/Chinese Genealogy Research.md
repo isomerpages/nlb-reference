@@ -4,8 +4,58 @@ permalink: /chinese-genealogy-research/
 variant: tiptap
 description: ""
 ---
-<h3></h3>
+<h3><strong>Chinese Genealogy Research</strong></h3>
 <p></p>
+<p>家谱是记载本宗族和事迹历史的图籍，它与正史、方志一起，构成中华民族历史学的三大支柱。
+<br>李光前参考图书馆收藏了一些家谱。这些家谱多数是民间个人出版物 （即非卖品）。主要通过公众人士的捐赠。“<em>本馆馆藏内的家谱书目</em>"选列了一些馆藏内的家谱、族谱和人物传记。此外，馆藏也收集了中国主要图书馆汇集的家谱目录。
+<br>
+<br>方志也是寻根的有用工具。新加坡早期的华人移民主要源自中国南方闽粤两省。想进一步了解新加坡早期华社的情况，请翻阅见"<em>新加坡华社概况</em>"。</p>
+<p><em>Jiapu</em> (Family genealogy records) is a type of pictorial publication
+that records the history and activities of a Chinese clan. It is one of
+the three major publications that documents the history of the Chinese,
+with the other two being official history records and local gazetteers.</p>
+<p>The Lee Kong Chan Reference Library has a collection of <em>jiapu</em>,
+which are mostly acquired through public donations. This bibliography of
+the <em>jiapu</em> collection is a select listing of the <em>jiapu</em>,<em> zupu </em>(Clan
+genealogy records)<em> </em>and biographies available at the Lee Kong Chian
+Reference Library. In addition, the library also collects bibliographies
+of <em>jiapu</em> collections published by other major libraries in China.</p>
+<p>Local gazetteers are also useful for searching information on family roots.
+The Chinese in Singapore are mostly descendants from Chinese migrants who
+came from the southern part of China - the Fujian and Guangdong provinces.
+More information can be found under An overview of the Chinese society
+in Singapore section.</p>
+<p></p>
+<h3><strong>新加坡华社概况</strong></h3>
+<p></p>
+<p>根据新加坡统计局在2000年所做的户口调查，新加坡华人依次以福建、潮州、广东、客家、海南、福州、兴化、上海、福清为主。 家里没有清楚自己家族来源的长辈可通过自己的籍贯和姓氏来找寻相关的资料。需要知道的是，有许多族谱、宗谱还是保留在各民间组织或个人的手上的，而并非在国家机构内。这一类的资料大部分也在中国，而其中虽然有不少已经数码化，但那也只是一部分的资料。
+本馆可尽量帮忙查找背景资料，但是有兴趣查找自己族谱、家谱的人们还是有可能需要自己亲自到中国或其他相关地区跑一趟。</p>
+<p>According to the household survey done by the Department of Statistics
+Singapore in 2000, majority of Singapore Chinese population are Hokkiens,
+Teochews, Cantonese, Hakka, Hainanese, Foochow, Henghua, Shanghainese and
+Fuching. If you are unsure of the origin of your family and have no elders
+to ask, you can search for information of your family roots based on your
+dialect group and surname. Take note that most <em>zupu</em> or <em>zongpu</em> (clan
+genealogy records) are in the hands of private organisations or personal
+collections, and hence cannot be found in government bodies. Such publications
+are mostly found in China as well, and only a portion of them have been
+digitised for access. The library can provide basic background information,
+however, it is advisable to pay a personal visit to China or related geographical
+areas for deeper research on the family's <em>zupu</em> or <em>zongpu</em>.</p>
+<p></p>
+<p><strong>相关组织</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>新加坡宗乡会馆联合总会</p>
+</li>
+<li>
+<p>新加坡族谱学会</p>
+</li>
+</ul>
+<p></p>
+<p><strong>相关馆藏</strong>
+</p>
 <p>·&nbsp; 新加坡华人史论丛 by 庄钦永
 <br>Call Number: R SING 959.57 CDK-[HIS]</p>
 <p></p>
@@ -275,12 +325,12 @@ information.</p>
 海口: 海南出版社. (2004)</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 康熙乐会县志: 康熙八年本
 <br>Call Number: R 951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907449 </a>
+<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907449</a>
 </p>
 <p>林子兰总辑、陈宗琛等纂.《康熙乐会县志: 康熙二十六年本》；程秉慥纂修《宣统乐会县志》.林大华等纂修.海口:海南出版社.(2006)</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 康熙儋州志 by [淸]韩祐重修; [林冠群点校]
 <br>Call Number: R 951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907459 </a>
+<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907459</a>
 </p>
 <p>海口：海南出版社.(2004)</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 康熙定安县志 by 张文豹纂修、梁廷佐同修
