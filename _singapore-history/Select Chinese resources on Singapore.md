@@ -230,8 +230,7 @@ understanding on Singapore history, places, society, culture and language.</p>
 <p>书近百篇的文章，都是作者多年来发表于《联合早报·四方八面》版上的。书的内容，与根有关。不论是怀人或忆事，都饱含感情和乡土味。娓娓写来，令人感动。</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><strong>### 历史</strong>
-</p>
+<h3><strong>历史</strong></h3>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>新加坡风土记 by 李重珏</p>
@@ -979,8 +978,7 @@ understanding on Singapore history, places, society, culture and language.</p>
 <p>3. 铁证如山，历史是涂改不了的。读者读后，必能触动不少感悟的。</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><strong>### 地区·街名·地名·其他</strong>
-</p>
+<h3><strong>地区·街名·地名·其他</strong></h3>
 <p>&nbsp;</p>
 <p>新加坡街名地名人物故事 by 冯仲汉</p>
 <p>Call Number: Y R SING 959.570099 STR</p>
@@ -1310,8 +1308,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>这是领导干部经济管理研究班学员论文选编。</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><strong>### 名胜古迹</strong>
-</p>
+<h3><strong>名胜古迹</strong></h3>
 <p>&nbsp;</p>
 <p>新加坡名胜介绍 by 万捷（编）</p>
 <p>Call Number: R SING 959.57 XJP-[HIS]</p>
@@ -1391,8 +1388,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>本书是“新加坡风土志”之二。 许福吉博士在〈序〉文中指出：新加坡在风雨飘摇中，不断创造了她的丰富多彩的多元文化，也在时代的琴弦搏动与变奏中，塑造了一种形象、信念与坚强。又说：我们从这些具有文化属性的百年古刹、庙宇、禅寺、公园、山丘、水池、别墅、名园、酒店，看到了汇聚成历史与文化的重要元素，这种风土、民俗、神话、传说、文学与文化，从口述历史到文字记载，流传下来。再进一步说：生活在这个城市里，我们希望更多人通过此书的阅读去认识新加坡，希望这本书，除了能让新加坡本土读者回忆与记忆之外，也祈望它能让世界各地的读者激发思绪，从风土文化的角度，去透视新加坡的历史与社会风貌。</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><strong>### 广角下的新加坡</strong>
-</p>
+<h3><strong>广角下的新加坡</strong></h3>
 <p>&nbsp;</p>
 <p>新加坡的廉政建设 by 刘国雄</p>
 <p>Call Number: R SING 354.5957 LGX</p>
@@ -1676,7 +1672,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>2. 本书的〈序言〉，读者应详细阅读，它在论析时事发展，言简意赅，特别是最后一段话，放诸四海皆准，但是，多少人真正做到呢？</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>### 其他</p>
+<h3><strong>其他</strong></h3>
 <p>&nbsp;</p>
 <p>新加坡地理论文集 by 邹豹君</p>
 <p>Call Number: R SING 959.57 TPC-[HIS]</p>
