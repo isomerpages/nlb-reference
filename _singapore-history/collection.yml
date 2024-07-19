@@ -2,6 +2,7 @@ collections:
   singapore-history:
     output: true
     order:
+      - 50 Years of Singapore Chinese Periodicals 1940 to 1980.md
       - Select Chinese resources on Singapore.md
       - Chinese Genealogy Resources.md
       - Malay Genealogy Resources.md
