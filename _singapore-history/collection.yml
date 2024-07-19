@@ -2,6 +2,7 @@ collections:
   singapore-history:
     output: true
     order:
+      - Select Chinese resources on Singapore.md
       - Chinese Genealogy Resources.md
       - Malay Genealogy Resources.md
       - "Eurasians: resources on tracing family history.md"
