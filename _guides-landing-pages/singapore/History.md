@@ -13,6 +13,32 @@ variant: tiptap
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
+<summary><strong>Family History</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><a href="/guides/singapore/history/family-history-resources/" rel="noopener noreferrer nofollow" target="_blank">Family History Resources</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="/guides/singapore/history/chinese-genealogy-resources/" rel="noopener noreferrer nofollow" target="_blank">Chinese Genealogy Resources</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="/guides/singapore/history/malay-genealogy-resources" rel="noopener noreferrer nofollow" target="_blank">Malay Genealogy Resources</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="/guides/singapore/history/eurasians-resources-tracing-family-history/" rel="noopener noreferrer nofollow" target="_blank">Eurasians: resources on tracing family history</a></strong>
+</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
 <summary><strong>Colonial Era</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
