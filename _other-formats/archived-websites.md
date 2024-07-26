@@ -3,7 +3,8 @@ title: Archived Websites
 permalink: /other-formats/archived-websites/
 breadcrumb: Archived Websites
 collection_name: other-formats
-published: true
+published: "true"
+variant: markdown
 ---
 # **Archived Websites**
 
@@ -17,17 +18,17 @@ For more information on WAS and nominating your website for archival, check out 
 
 - [Say Hello to Web Archive Singapore](https://www.youtube.com/watch?v=8iEBaBbe-yk)
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/8iEBaBbe-yk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/8iEBaBbe-yk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 - [Archive Your Website with Web Archive Singapore](https://www.youtube.com/watch?v=I0iMqHJ_jIE)
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/I0iMqHJ_jIE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/I0iMqHJ_jIE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 This guide will explain how to search, browse, and access the library’s archived websites collection on WAS.
 
 ## **Searching on Web Archive Singapore**
 
-<img src="\images\other-formats\archivedwebsites-01.png" style="width:600px;" />
+![](/images/other-formats/archivedwebsites-01.png)
 
 WAS employs full-text search capabilities and will display search results that contain the keywords in the archived website’s title, content, documents, or images. 
 
@@ -41,13 +42,13 @@ WAS employs full-text search capabilities and will display search results that c
 
 2. Refine your search results by using the **Accessibility, Type, Year, and URL filters**. The explanations are detailed below:
 
-    <div class="new-accordion"><!--accordion--> 
+    <div class="new-accordion"> 
     <input type="checkbox" id="acc1">
        <label for="acc1">Accessibility</label>
        <div class="new-accordion-content">
         <p><i>Online</i>: To view archived content that are available online.</p>
-        <p><img src="\images\other-formats\archivedwebsites-lock.png" align="left" style="width:20px;" /><i>Onsite</i>: To view archived content that are only available at Level 11 of the <a href="https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/national-library-singapore/lee-kong-chian-reference-library">Lee Kong Chian Reference Library</a> due to copyright restrictions. Archived websites that are only available onsite are denoted with a lock icon. Please approach the counter at Level 11 for assistance.</p>
-        <p><img src="\images\other-formats\archivedwebsites-11.png" style="width:600px;" /></p>
+        <p><img src="\images\other-formats\archivedwebsites-lock.png" align="left" style="width:20px;"><i>Onsite</i>: To view archived content that are only available at Level 11 of the <a href="https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/national-library-singapore/lee-kong-chian-reference-library">Lee Kong Chian Reference Library</a> due to copyright restrictions. Archived websites that are only available onsite are denoted with a lock icon. Please approach the counter at Level 11 for assistance.</p>
+        <p><img src="\images\other-formats\archivedwebsites-11.png" style="width:600px;"></p>
        </div>
     <input type="checkbox" id="acc2">
        <label for="acc2">Type</label>
@@ -63,11 +64,11 @@ WAS employs full-text search capabilities and will display search results that c
        <div class="new-accordion-content">
         <p>Use this filter to view archived content only from that URL.</p>
        </div>
-    </div><!--close accordion-->
+    </div>
 
 3. Recommended filters for searching websites and webpage 
 
-    <div class="new-accordion"><!--accordion--> 
+    <div class="new-accordion"> 
         <input type="checkbox" id="acc4">
         <label for="acc4">If you are searching for an <b>archived website</b>, click here to see the recommended filters:</label>
         <div class="new-accordion-content">
@@ -76,10 +77,10 @@ WAS employs full-text search capabilities and will display search results that c
         <p>Year: <i>Select the year of when the website was archived where necessary</i></p>
         <p>URL: <i>Select the website URL where necessary</i></p>
         <p>In this example of searching for the National Library Board (NLB) website, we searched for the phrase “National Library Board” and applied the following filters as pictured below.</p>
-        <p><img src="\images\other-formats\archivedwebsites-02.png" style="width:600px;" /></p>
+        <p><img src="\images\other-formats\archivedwebsites-02.png" style="width:600px;"></p>
         </div>
-    </div><!--close accordion-->
-    <div class="new-accordion"><!--accordion--> 
+    </div>
+    <div class="new-accordion"> 
         <input type="checkbox" id="acc5">
         <label for="acc5">If you are searching for an <b>archived webpage</b>, click here to see the recommended filters:</label>
         <div class="new-accordion-content">
@@ -88,23 +89,23 @@ WAS employs full-text search capabilities and will display search results that c
         <p>Year: <i>Select the year of when the website was archived where necessary</i></p>
         <p>URL: <i>Select the website URL where necessary</i></p>
         <p>In this example of searching for the BiblioAsia blog article on the Web Archive Singapore, we searched for the keywords ‘“web archive Singapore” BiblioAsia’ and applied the following filters as pictured below.</p>
-        <p><img src="\images\other-formats\archivedwebsites-03.png" style="width:600px;" /></p>
+        <p><img src="\images\other-formats\archivedwebsites-03.png" style="width:600px;"></p>
         </div>
-    </div><!--close accordion-->
+    </div>
     
 4. Where necessary, you can remove the applied filters by unchecking the filters on the left or clicking the grey boxes under the search bar.
 
-   <img src="\images\other-formats\archivedwebsites-04.png" style="width:600px;" />
+   ![](/images/other-formats/archivedwebsites-04.PNG)
 
 ## **Viewing the Archived Website**
 
 Click on the record title to view the archived website. 
 
-<img src="\images\other-formats\archivedwebsites-05.png" style="width:600px;" />
+![](/images/other-formats/archivedwebsites-05.PNG)
 
 <br>
 
-<img src="\images\other-formats\archivedwebsites-06.png" style="width:600px;" />
+![](/images/other-formats/archivedwebsites-06.PNG)
 
 This is what the NLB website looked like on 28 Apr 2006. To view other archived versions of the NLB website, you can either select the dates shown in the timeline bar or ‘View Other Versions’ for the complete list of dates.
 
@@ -124,23 +125,23 @@ Depending on the record that you are viewing, the links within the website may n
 
 You can also explore WAS through the **Special Collections** and **Browse by Category**.
 
-<img src="\images\other-formats\archivedwebsites-07.png" style="width:600px;" />
+![](/images/other-formats/archivedwebsites-07.PNG)
 
 Special Collections are themed archived websites curated by librarians on topics that are of interest to the public and researchers. Some themes include defunct schools, and past events like the 2015 Southeast Asian Games and ASEAN Para Games, the 2018 Trump-Kim Summit, National Day parades and the Singapore Budget. 
 
-<img src="\images\other-formats\archivedwebsites-08.png" style="width:600px;" />
+![](/images/other-formats/archivedwebsites-08.PNG)
 
-You can also browse archived websites by categories such as Arts, Events, Heritage & Culture, etc., in the Browse by Category section. Each category has a search feature to allow you to narrow your results based on the archived website’s title and abstract. 
+You can also browse archived websites by categories such as Arts, Events, Heritage &amp; Culture, etc., in the Browse by Category section. Each category has a search feature to allow you to narrow your results based on the archived website’s title and abstract. 
 
 ## **Citations**
 
 The citation feature enables you to save a list of archived websites which you can revisit later and/or email the list to yourself.
 
-<img src="\images\other-formats\archivedwebsites-09.png" style="width:600px;" />
+![](/images/other-formats/archivedwebsites-09.PNG)
 
 Click on ‘Add to Citation’, found under each website record, to save it. 
 
-<img src="\images\other-formats\archivedwebsites-10.png" style="width:600px;" />
+![](/images/other-formats/archivedwebsites-10.PNG)
 
 You can access your list of citations by clicking on “Citation” at the top of the page. Here you can make further edition to your citations list and email the list to yourself.
 
