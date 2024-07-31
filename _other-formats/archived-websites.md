@@ -116,8 +116,8 @@ archived from the website.</p>
 </ol>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>If you are searching for an archived <strong>website</strong>, click here
-to see the recommended filters:</summary>
+<summary>If you are searching for an archived website, click here to see the recommended
+filters:</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Accessibility: <em>Online</em> (if the archived website is available online)</p>
 <p>Type: <em>Websites</em>
@@ -135,8 +135,8 @@ filters as pictured below.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>If you are searching for an archived <strong>webpage</strong>, click here
-to see the recommended filters:</summary>
+<summary>If you are searching for an archived webpage, click here to see the recommended
+filters:</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Accessibility: <em>Online</em> (if the archived website is available online)</p>
 <p>Type: <em>Webpages</em>
