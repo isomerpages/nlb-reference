@@ -77,7 +77,7 @@ WAS employs full-text search capabilities and will display search results that c
         <p>Year: <i>Select the year of when the website was archived where necessary</i></p>
         <p>URL: <i>Select the website URL where necessary</i></p>
         <p>In this example of searching for the National Library Board (NLB) website, we searched for the phrase “National Library Board” and applied the following filters as pictured below.</p>
-        <p><img src="/images/other-formats/archivedwebsites-02.png" style="width:600px;"></p>
+        <p><img src="/images/other-formats/archivedwebsites_02_a.png" style="width:600px;"></p>
         </div>
     </div>
     <div class="new-accordion"> 
@@ -89,7 +89,7 @@ WAS employs full-text search capabilities and will display search results that c
         <p>Year: <i>Select the year of when the website was archived where necessary</i></p>
         <p>URL: <i>Select the website URL where necessary</i></p>
         <p>In this example of searching for the BiblioAsia blog article on the Web Archive Singapore, we searched for the keywords ‘“web archive Singapore” BiblioAsia’ and applied the following filters as pictured below.</p>
-        <p><img src="\images\other-formats\archivedwebsites-03.png" style="width:600px;"></p>
+        <p><img src="\images\other-formats\archivedwebsites_03_a.png" style="width:600px;"></p>
         </div>
     </div>
     
