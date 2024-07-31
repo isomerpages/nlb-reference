@@ -64,12 +64,16 @@ quotation marks to generate better results, e.g. “National Library Board”.</
 <p>TIP: Use Boolean operators to expand or narrow your search. For example,
 'National Day Parade OR NDP' will retrieve websites containing the words
 National Day Parade <strong>or</strong> NDP.</p>
+<p></p>
 </li>
 <li>
 <p>Refine your search results by using the <strong>Accessibility, Type, Year, and URL filters</strong>.
 The explanations are detailed below:</p>
-<p>Accessibility</p>
-<p><em>Online</em>: To view archived content that are available online.</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Accessibility</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><em>Online</em>: To vie6w archived content that are available online.</p>
 <p><em>Onsite</em>: To view archived content that are only available at Level
 11 of the <a href="https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/national-library-singapore/lee-kong-chian-reference-library" rel="noopener noreferrer nofollow" target="_blank">Lee Kong Chian Reference Library</a> due
 to copyright restrictions. Archived websites that are only available onsite
@@ -78,7 +82,11 @@ assistance.</p>
 <div class="isomer-image-wrapper">
 <img style="width:600px;" height="auto" width="100%" src="/images/other-formats/archivedwebsites-11.png">
 </div>
-<p>Type</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Type</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><em>Websites</em>: To view archived websites only. This refers to website
 that have been archived in its entirety (i.e. homepage and all related
 webpages of that website). Selecting this filter will return the record
@@ -91,12 +99,26 @@ record, and associated links in the webpage may not be archived.</p>
 the website.</p>
 <p><em>Images</em>: To view images (e.g. in JPG, PNG, GIF formats) that were
 archived from the website.</p>
-<p>URL</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>URL</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Use this filter to view archived content only from that URL.</p>
+</div>
+</details>
+</div>
+<p></p>
 </li>
 <li>
 <p>Recommended filters for searching websites and webpage</p>
-<p>If you are searching for an archived <strong>website</strong>, click here
-to see the recommended filters:</p>
+</li>
+</ol>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>If you are searching for an archived <strong>website</strong>, click here
+to see the recommended filters:</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Accessibility: <em>Online</em> (if the archived website is available online)</p>
 <p>Type: <em>Websites</em>
 </p>
@@ -110,8 +132,12 @@ filters as pictured below.</p>
 <div class="isomer-image-wrapper">
 <img style="width:600px;" height="auto" width="100%" src="/images/other-formats/archivedwebsites_02_a.png">
 </div>
-<p>If you are searching for an archived <strong>webpage</strong>, click here
-to see the recommended filters:</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>If you are searching for an archived <strong>webpage</strong>, click here
+to see the recommended filters:</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Accessibility: <em>Online</em> (if the archived website is available online)</p>
 <p>Type: <em>Webpages</em>
 </p>
@@ -122,26 +148,29 @@ to see the recommended filters:</p>
 <p>In this example of searching for the BiblioAsia blog article on the Web
 Archive Singapore, we searched for the keywords ‘“web archive Singapore”
 BiblioAsia’ and applied the following filters as pictured below.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:600px;" height="auto" width="100%" src="\images\other-formats\archivedwebsites_03_a.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/other-formats/archivedwebsites_03_a.png">
 </div>
-</li>
+</div>
+</details>
+</div>
+<p></p>
+<ol start="4" data-tight="true" class="tight">
 <li>
 <p>Where necessary, you can remove the applied filters by unchecking the
 filters on the left or clicking the grey boxes under the search bar.</p>
+</li>
+</ol>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/other-formats/archivedwebsites-04.PNG">
 </div>
-</li>
-</ol>
 <h2><strong>Viewing the Archived Website</strong></h2>
 <p>Click on the record title to view the archived website.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/other-formats/archivedwebsites-05.PNG">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/other-formats/archivedwebsites-06.PNG">
 </div>
