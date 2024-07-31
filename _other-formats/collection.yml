@@ -2,6 +2,7 @@ collections:
   other-formats:
     output: true
     order:
+      - Test.md
       - other-formats.md
       - ephemera.md
       - maps.md
