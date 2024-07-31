@@ -47,8 +47,8 @@ WAS employs full-text search capabilities and will display search results that c
        <label for="acc1">Accessibility</label>
        <div class="new-accordion-content">
         <p><i>Online</i>: To view archived content that are available online.</p>
-        <p><img src="\images\other-formats\archivedwebsites-lock.png" align="left" style="width:20px;"><i>Onsite</i>: To view archived content that are only available at Level 11 of the <a href="https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/national-library-singapore/lee-kong-chian-reference-library">Lee Kong Chian Reference Library</a> due to copyright restrictions. Archived websites that are only available onsite are denoted with a lock icon. Please approach the counter at Level 11 for assistance.</p>
-        <p><img src="\images\other-formats\archivedwebsites-11.png" style="width:600px;"></p>
+        <p><img src="/images/other-formats/archivedwebsites-lock.png" align="left" style="width:20px;"><i>Onsite</i>: To view archived content that are only available at Level 11 of the <a href="https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/national-library-singapore/lee-kong-chian-reference-library">Lee Kong Chian Reference Library</a> due to copyright restrictions. Archived websites that are only available onsite are denoted with a lock icon. Please approach the counter at Level 11 for assistance.</p>
+        <p><img src="/images/other-formats/archivedwebsites-11.png" style="width:600px;"></p>
        </div>
     <input type="checkbox" id="acc2">
        <label for="acc2">Type</label>
@@ -70,19 +70,19 @@ WAS employs full-text search capabilities and will display search results that c
 
     <div class="new-accordion"> 
         <input type="checkbox" id="acc4">
-        <label for="acc4">If you are searching for an <b>archived website</b>, click here to see the recommended filters:</label>
+        <label for="acc4">If you are searching for an archived <b>website</b>, click here to see the recommended filters:</label>
         <div class="new-accordion-content">
         <p>Accessibility: <i>Online</i> (if the archived website is available online)</p>
         <p>Type: <i>Websites</i></p>
         <p>Year: <i>Select the year of when the website was archived where necessary</i></p>
         <p>URL: <i>Select the website URL where necessary</i></p>
         <p>In this example of searching for the National Library Board (NLB) website, we searched for the phrase “National Library Board” and applied the following filters as pictured below.</p>
-        <p><img src="\images\other-formats\archivedwebsites-02.png" style="width:600px;"></p>
+        <p><img src="/images/other-formats/archivedwebsites-02.png" style="width:600px;"></p>
         </div>
     </div>
     <div class="new-accordion"> 
         <input type="checkbox" id="acc5">
-        <label for="acc5">If you are searching for an <b>archived webpage</b>, click here to see the recommended filters:</label>
+        <label for="acc5">If you are searching for an archived <b>webpage</b>, click here to see the recommended filters:</label>
         <div class="new-accordion-content">
         <p>Accessibility: <i>Online</i> (if the archived website is available online)</p>
         <p>Type: <i>Webpages</i></p>
