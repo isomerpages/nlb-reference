@@ -26,8 +26,7 @@ description: ""
 </li>
 </ul>
 <p></p>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">Pengenalan (Introduction)</a></strong>
-</p>
+<h3><strong>Pengenalan (Introduction)</strong></h3>
 <p><strong>Genealogi = Salasilah, Jurai keturunan</strong>
 </p>
 <p>Pendokumentasian dan rekod atau carta jurai keturunan keluarga Melayu
@@ -51,7 +50,7 @@ perjumpaan atau keramaian rumpun keluarga-besar masing-masing.</p>
 mengenai jurai keturunan<strong> </strong>keluarga rumpun Melayu<strong> </strong>atau
 yang berkaitan dengannya, yang dirujuk atau menjadi panduan bagi pengumpulan
 bibliografi ini.</p>
-<p>======================================================================</p>
+<p></p>
 <p>Tracing Malay family lineage are often difficult because records are very
 poorly documented and seldom published commercially. Most family records
 are either typed or handwritten in pencil or ink on paper, bound and then
