@@ -145,13 +145,16 @@ filters:</summary>
 </p>
 <p>URL: <em>Select the website URL where necessary</em>
 </p>
-<p>In this example of searching for the BiblioAsia blog article on the Web
-Archive Singapore, we searched for the keywords ‘“web archive Singapore”
-BiblioAsia’ and applied the following filters as pictured below.</p>
+<p></p>
+<p>In this example of searching for the National Library Board (NLB) website,
+we searched for the phrase “National Library Board” and applied the following
+filters as pictured below.</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/other-formats/archivedwebsites_03_a.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/other-formats/archivedwebsites_02_a.png">
 </div>
+<p></p>
 </div>
 </details>
 </div>
