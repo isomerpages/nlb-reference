@@ -150,7 +150,6 @@ filters:</summary>
 we searched for the phrase “National Library Board” and applied the following
 filters as pictured below.</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/other-formats/archivedwebsites_02_a.png">
 </div>
