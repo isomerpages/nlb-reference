@@ -9,7 +9,7 @@ description: Family history, genealogy
 * [Introduction](#introduction)
 * [Resources](#resources)
 * [Research Approach](#research-approach)
-* [Records from the National Archives of Singapore](records-from-the-national-archives-of-singapore)
+* [Records from the National Archives of Singapore](#records-from-the-national-archives-of-singapore)
 
 
 <h3>Introduction</h3>
