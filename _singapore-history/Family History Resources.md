@@ -12,7 +12,7 @@ description: Family history, genealogy
 * [Records from the National Archives of Singapore](#records-from-the-national-archives-of-singapore)
 
 
-<h3>Introduction</h3>
+### Introduction
 <p>Ever wondered where your ancestors originated, when and how they arrived
 at Singapore, who they married, the number of children they had, where
 they stayed and what did they do for a living? Or how you always wanted
@@ -29,7 +29,8 @@ can help uncover the information on family history.</p>
 National Library and the National Archives of Singapore that are useful
 for family history research.</p>
 <p></p>
-<h3>Resources</h3>
+
+### Resources
 <p>In general, family history resources can be obtained from the following:</p>
 
 * Births, deaths and marriages records
@@ -55,7 +56,8 @@ and Customs Authority.</p>
 to trace their ancestors back to the country of origins, it is often that
 such research would span beyond the borders of Singapore.</p>
 <p></p>
-<h3>Research Approach</h3>
+
+### Research Approach
 <p>Start by talking to family and extended family members. These provide
 valuable leads from which one can identify or begin planning out what sorts
 of records might exist that may help in uncovering family information.</p>
@@ -99,7 +101,8 @@ published resources such as magazines, newsletters, annual reports and
 collaterals which may include information such as marriages, birth and
 donation by its members and associates.</p>
 <p></p>
-<h3>Records from the National Archives of Singapore</h3>
+
+### Records from the National Archives of Singapore
 <p>The National Archives of Singapore has some church records, which require
 permission from the churches before viewing is allowed due to privacy concerns.
 These have been a rich vein of information to draw up family trees. These
