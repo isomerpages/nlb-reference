@@ -5,21 +5,13 @@ variant: markdown
 description: Family history, genealogy
 ---
 <h3>Guide Index</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="#introduction" rel="noopener noreferrer nofollow" target="_blank">Introduction</a>
-</p>
-</li>
-<li>
-<p>Resources</p>
-</li>
-<li>
-<p>Research Approach</p>
-</li>
-<li>
-<p>Records from the National Archives of Singapore</p>
-</li>
-</ul>
+
+* [Introduction](#introduction)
+* [Resources](#resources)
+* [Research Approach](#research-approach)
+* [Records from the National Archives of Singapore](records-from-the-national-archives-of-singapore)
+
+
 <h3>Introduction</h3>
 <p>Ever wondered where your ancestors originated, when and how they arrived
 at Singapore, who they married, the number of children they had, where
@@ -39,17 +31,18 @@ for family history research.</p>
 <p></p>
 <h3>Resources</h3>
 <p>In general, family history resources can be obtained from the following:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Births, deaths and marriages records</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Religious organisation membership
-records</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School records</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Clubs and association records</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Government records</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Immigration and shipping records</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Land records and maps</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Newspapers</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Secondary resources such as books,
-biographies and articles</p>
+
+* Births, deaths and marriages records
+* Religious organisation membership records
+* School records
+* Clubs and association records
+* Government records
+* Immigration and shipping records
+* Land records and maps
+* Newspapers
+* Secondary resources such as books,
+* biographies and articles
+
 <p>The amount of family history information that are searchable is largely
 dependent on one's ethnic and religious background. For instance, to trace
 vital statistics such as birth, death and marriage dates of family members,
