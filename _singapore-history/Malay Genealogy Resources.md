@@ -6,28 +6,16 @@ description: ""
 ---
 <h3><strong>Malay Genealogy Research</strong></h3>
 <p></p>
-<p><strong>Guide index</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="#introduction" rel="noopener noreferrer nofollow" target="_blank">Introduction</a>
-</p>
-</li>
-<li>
-<p>Judul-judul Melayu (Malay Titles)</p>
-</li>
-<li>
-<p>Judul-judul Inggeris (English Titles)</p>
-</li>
-<li>
-<p>Salasilah-salasilah Kesultanan (Royal Family Histories)</p>
-</li>
-<li>
-<p>Akhbar Melayu (Malay Newspapers)</p>
-</li>
-</ul>
-<p></p>
-<h3><strong>&lt;a name="introduction"&gt;Pengenalan (Introduction)&lt;/a&gt;</strong></h3>
+<strong>Guide index</strong>
+
+* Introduction
+* Judul-judul Melayu (Malay Titles)
+* Judul-judul Inggeris (English Titles)
+* Salasilah-salasilah Kesultanan (Royal Family Histories)
+* Akhbar Melayu (Malay Newspapers)
+	
+### **Pengenalan (Introduction)**
+	
 <p><strong>Genealogi = Salasilah, Jurai keturunan</strong>
 </p>
 <p>Pendokumentasian dan rekod atau carta jurai keturunan keluarga Melayu
@@ -59,7 +47,9 @@ folded or rolled up for storage. This resource guide presents a select
 list of publications containing information on the lineage of the Malay
 family or related to it, to serve as a guide for the compilation of Malay
 family history or genealogy.</p>
-<h3><strong>Judul-judul Melayu (Malay Titles)</strong></h3>
+
+### **Judul-judul Melayu (Malay Titles)**
+
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dilema Singapura : peminggiran politik
 dan pelajaran masyarakat Melayu / Lily Zubaidah Rahim ; penterjemah, Yunus
 Ali.
@@ -154,7 +144,9 @@ UMNO, PAP) by oleh Sulaiman Jeem &amp; Abdul Ghani Hamid
 <br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5815911<u><br></u></a>Singapura
 : Penerbitan Wisma, 1990</p>
 <p></p>
-<h3><strong><a rel="noopener noreferrer nofollow" target="_blank">Judul-judul Inggeris (English Titles)</a></strong></h3>
+
+### **Judul-judul Inggeris (English Titles)**
+
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A kite in the evening sky by Shaik
 Kadir
 <br>Call Number: RSING 959.57 SHA
@@ -385,7 +377,9 @@ Ali al-Haji Riau, Raja, 1809-1870
 <br>Publication Date: 1991
 <br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6252229</a>&nbsp;
 <br>Kuala Lumpur : Dewan Bahasa dan Pustaka, 1991</p>
-<h3><strong>Akhbar Melayu (Malay Newspapers)</strong></h3>
+
+### **Akhbar Melayu (Malay Newspapers)**
+
 <p>Akhbar pertama dalam bahasa Melayu bertulisan Jawi dikenali sebagai <strong>Jawi Peranakan (1876-1895) </strong>diterbitkan
 seminggu sekali. Maklumat seperti senarai penumpang, notis perkahwinan,
 berita kematian dan lain-lain pengumuman adalah antara isi kandungan berguna
