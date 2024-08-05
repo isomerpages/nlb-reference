@@ -18,7 +18,7 @@ through the resources:</p>
 * [Ship registers and passenger lists](#ship-registers-and-passenger-lists)
 * [Eurasians during the Japanese Occupation](#eurasians-during-the-japanese-occupation)
 * [Personal accounts](#personal-accounts)
-* [Eurasians in pre- and post-independence Singapore](#eurasians-in-pre-and-post-independence-singapore)
+* [Eurasians in pre- and post-independence Singapore](#eurasians-in-pre--and-post-independence-singapore)
 * [Publications on Eurasians](#publications-on-eurasians)
 
 ### The Eurasian Community in Singapore
