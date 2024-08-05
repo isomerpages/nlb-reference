@@ -6,6 +6,16 @@ description: ""
 ---
 <h3><strong>Chinese Genealogy Research</strong></h3>
 <p></p>
+<p><strong>目录</strong>
+</p>
+<p>新加坡华社概况</p>
+<p>本馆馆藏内的家谱书目</p>
+<p>各地区、籍贯史料、姓氏史料</p>
+<p>人物志、传记</p>
+<p>族谱、家谱（新加坡）</p>
+<p>族谱、家谱（马来西亚）</p>
+<p></p>
+<p></p>
 <p>家谱是记载本宗族和事迹历史的图籍，它与正史、方志一起，构成中华民族历史学的三大支柱。
 <br>李光前参考图书馆收藏了一些家谱。这些家谱多数是民间个人出版物 （即非卖品）。主要通过公众人士的捐赠。“<em>本馆馆藏内的家谱书目</em>"选列了一些馆藏内的家谱、族谱和人物传记。此外，馆藏也收集了中国主要图书馆汇集的家谱目录。
 <br>
@@ -211,7 +221,7 @@ areas for deeper research on the family's <em>zupu</em> or <em>zongpu</em>.</p>
 <p>&nbsp;</p>
 <p>·&nbsp; 新加坡宗乡会馆出版书刊目录 by 编者黄美萍, 钟伟耀, 林永美
 <br>Call Number: RSING Chinese 016.95957 BIB -[LIB]
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12922844</a> 
+<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12922844</a>
 </p>
 <p>新加坡 : 新加坡国家图书馆管理局, 2007
 <br><strong>简介</strong>：此目录罗列了收藏在新加坡主要图书馆和资料室的会馆刊物。刊物总类包括：会馆章程、会员名录、纪念特刊、征信录、期刊、族谱、文艺著作与学术论文、宣传会馆的手册、海报、纪念活动光碟、会馆会务报告等。</p>
