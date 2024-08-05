@@ -5,10 +5,21 @@ variant: tiptap
 description: Family history, genealogy
 ---
 <h3>Guide Index</h3>
-<p>Introduction</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="#introduction" rel="noopener noreferrer nofollow" target="_blank">Introduction</a>
+</p>
+</li>
+<li>
 <p>Resources</p>
+</li>
+<li>
 <p>Research Approach</p>
+</li>
+<li>
 <p>Records from the National Archives of Singapore</p>
+</li>
+</ul>
 <h3>Introduction</h3>
 <p>Ever wondered where your ancestors originated, when and how they arrived
 at Singapore, who they married, the number of children they had, where
