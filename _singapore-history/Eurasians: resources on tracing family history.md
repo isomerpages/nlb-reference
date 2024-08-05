@@ -7,46 +7,22 @@ description: ""
 <h3><strong>Guide Index</strong></h3>
 <p>This guide is divided into the following sections to help users to navigate
 through the resources:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Origins of the Singapore Eurasians</p>
-</li>
-<li>
-<p>Conducting family history search on Singapore-Eurasians</p>
-</li>
-<li>
-<p>Birth, marriage and death records</p>
-</li>
-<li>
-<p>Government records and business directories</p>
-</li>
-<li>
-<p>Church records and directories</p>
-</li>
-<li>
-<p>Educational records</p>
-</li>
-<li>
-<p>Clubs and association records</p>
-</li>
-<li>
-<p>Ship registers and passenger lists</p>
-</li>
-<li>
-<p>Eurasians during the Japanese Occupation</p>
-</li>
-<li>
-<p>Personal accounts</p>
-</li>
-<li>
-<p>Eurasians in pre- and post-independence Singapore</p>
-</li>
-<li>
-<p>Publications on Eurasians</p>
-</li>
-</ul>
-<p></p>
-<h3><strong>The Eurasian Community in Singapore</strong></h3>
+
+* Origins of the Singapore Eurasians
+* Conducting family history search on Singapore-Eurasians
+* Birth, marriage and death records
+* Government records and business directories
+* Church records and directories
+* Educational records
+* Clubs and association records
+* Ship registers and passenger lists
+* Eurasians during the Japanese Occupation
+* Personal accounts
+* Eurasians in pre- and post-independence Singapore
+* Publications on Eurasians
+
+### The Eurasian Community in Singapore
+
 <p>Eurasians are one of Singapore’s four major ethnic groups. Carrying a
 pedigree of European and Asian, the Eurasians are also Singapore’s earliest
 ethnic communities. The origins of the Eurasians in Singapore can be traced
@@ -164,7 +140,8 @@ Singapore: Microfilm Service, University of Singapore.</p>
 </tbody>
 </table>
 <p></p>
-<h3><strong>Origins of the Singapore Eurasians</strong></h3>
+
+### **Origins of the Singapore Eurasians**
 <p></p>
 <p><strong>Tracing the Roots of the Singapore Eurasians</strong>
 </p>
@@ -1035,7 +1012,9 @@ hostelry in 1857, the Hotel de l’Europe), Father Jean-Marie Beurel (who
 constructed the Cathedral of the Good Shepherd and St Joseph’s Institution
 in 1839) and Alfred Clouët (who started the well-known Ayam Brand canned
 sardines business).</p>
-<h3><strong>Conducting Family History Search on Singapore-Eurasians</strong></h3>
+
+### **Conducting Family History Search on Singapore-Eurasians**
+
 <p>In general, these resources are useful to delve into for family history
 research on Singapore-Eurasians.</p>
 <ul data-tight="true" class="tight">
@@ -1117,7 +1096,9 @@ SHE</p>
 <p>Strategies to researching a local family tree using both traditional and
 modern tools, including the internet and DNA testing.</p>
 <p></p>
-<h3><strong>Birth, Marriage and Death Records</strong></h3>
+
+### **Birth, Marriage and Death Records**
+
 <p><strong><em>Registry of Marriage (ROM) Certificates and Notices, 1859-1986</em></strong>
 </p>
 <p>These are registers of civil and Christian marriages that took place from
@@ -1157,7 +1138,9 @@ child, sex, adoption date, date and place of birth of the child, and registratio
 number. They also contain the name, address and occupation of the adoptive
 parent and court description which made the order.</p>
 <p>Available in microfilm at National Archives of Singapore</p>
-<h3><strong>Government Records and Business Directories</strong></h3>
+
+### **Government Records and Business Directories**
+
 <p>Apart from records that are related to births, marriages and deaths, names
 can also be obtained from publications produced by the Straits Settlements
 government given that the person had worked in the government. In these
@@ -1296,7 +1279,9 @@ names and the telephone number belonging to the person.</p>
 </p>
 </li>
 </ul>
-<h3><strong>Church Records and Directories</strong></h3>
+
+### **Church Records and Directories**
+
 <p><strong>Church Directory</strong>
 </p>
 <p>There are currently more than 500 churches of all Christian denomiation
@@ -1492,7 +1477,9 @@ Singapore: B. de Sousa. Call No.: RCLOS 282.5957 GLI</p>
 Singapore: Nicholas Chia. Call No.: RSING 282.5957 WIJ</p>
 </li>
 </ul>
-<h3><strong>Educational Records</strong></h3>
+
+### **Educational Records**
+
 <p>Other than birth, marriage and death records, school records and yearbooks
 are also a valuable source of material for genealogy research. Below are
 some resources that can be found in the collections of the National Archives
@@ -1622,7 +1609,9 @@ No.: NL 9820</p>
 </li>
 </ul>
 <p></p>
-<h3><strong>Clubs and Associations Records</strong></h3>
+
+### **Clubs and Associations Records**
+
 <p><strong>The Eurasian Association</strong>
 </p>
 <p>The Eurasian Association was founded in 1919. Since then, the Association
@@ -1743,7 +1732,9 @@ with that can be accessed via microfilm at the National Archives of Singapore.</
 <p>Pioneer Industries’ Employees’ Union files, 1975-1980</p>
 </li>
 </ul>
-<h3><strong>Ship Registers and Passenger Lists</strong></h3>
+
+### **Ship Registers and Passenger Lists**
+
 <p>Passenger lists are records of people travelling on a ship from one place
 to another. Passenger lists usually offer important data such as the names
 of passengers, place of embarkation, age and destination. As most Singaporeans
@@ -1782,7 +1773,7 @@ journal. One of the most important information held in this newspapers
 is the ship passenger arrival lists. Search on the newspaper can be conducted
 via the library's <a href="https://eresources.nlb.gov.sg/newspapers" rel="noopener noreferrer nofollow" target="_blank">NewspaperSG</a> online database.</p>
 <p></p>
-<h3><strong>Newspapers</strong></h3>
+<strong>Newspapers</strong>
 <p><strong>Eurasian Newspapers</strong>
 </p>
 <p>In an effort to develop a distinct Eurasian identity, the Eurasian community
@@ -1853,7 +1844,9 @@ available at the National Library.</p>
 </li>
 </ul>
 <p></p>
-<h3><strong>Eurasians during the Japanese Occupation</strong></h3>
+
+### **Eurasians during the Japanese Occupation**
+
 <p>The Japanese occupation of Singapore lasted about forty-four months. During
 this period as well as the months leading up to the invasion and eventual
 fall of Singapore, the Eurasian community together with other ethnic groups
@@ -2074,7 +2067,9 @@ Singapore: Talisman. Call No.: RSING 940.5425 WAR</p>
 </li>
 </ul>
 <p></p>
-<h3><strong>Personal Accounts</strong></h3>
+
+### **Personal Accounts**
+
 <p>Besides published resources, personal accounts of the war and the Japanese
 occupation can also be retrieved from oral history records. The National
 Archives of Singapore has a large collection of oral history records and
@@ -2280,7 +2275,9 @@ Singapore: National Archives of Singapore. Call No.: RSING 940.530745957</p>
 </li>
 </ul>
 <p></p>
-<h3><strong>Eurasians in Pre- and Post-Independence Singapore</strong></h3>
+
+### **Eurasians in Pre- and Post-Independence Singapore**
+
 <p>The Japanese surrendered to the Allied Forces on 15 August 1945 effectively
 ending the Japanese Occupation of Singapore. A month later, the British
 returned to Singapore amid a scene of joy and jubilance. This euphoria,
@@ -2372,7 +2369,9 @@ in Singapore.</p>
 <p>Braga-Blake, Myrna &amp; Ebert-Oehlers, Ann. (1992). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6319425" rel="noopener noreferrer nofollow" target="_blank">Singapore Eurasians: Memories and hopes</a></em>.
 Singapore: Times Editions.</p>
 <p></p>
-<h3><strong>Publications on Eurasians</strong></h3>
+
+### **Publications on Eurasians**
+
 <p></p>
 <p><strong>Books on the Eurasians</strong>
 </p>
