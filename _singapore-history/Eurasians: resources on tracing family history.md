@@ -8,18 +8,18 @@ description: ""
 <p>This guide is divided into the following sections to help users to navigate
 through the resources:</p>
 
-* Origins of the Singapore Eurasians
-* Conducting family history search on Singapore-Eurasians
-* Birth, marriage and death records
-* Government records and business directories
-* Church records and directories
-* Educational records
-* Clubs and association records
-* Ship registers and passenger lists
-* Eurasians during the Japanese Occupation
-* Personal accounts
-* Eurasians in pre- and post-independence Singapore
-* Publications on Eurasians
+* [Origins of the Singapore Eurasians](#origins-of-the-singapore-eurasians)
+* [Conducting family history search on Singapore-Eurasians](#conducting-family-history-search-on-singapore-eurasians)
+* [Birth, marriage and death records](#birth-marriage-and-death-records)
+* [Government records and business directories](#government-records-and-business-directories)
+* [Church records and directories](#church-records-and-directories)
+* [Educational records](#educational-records)
+* [Clubs and association records](#clubs-and-association-records)
+* [Ship registers and passenger lists](#ship-registers-and-passenger-lists)
+* [Eurasians during the Japanese Occupation](#eurasians-during-the-japanese-occupation)
+* [Personal accounts](#personal-accounts)
+* [Eurasians in pre- and post-independence Singapore](#eurasians-in-pre-and-post-independence-singapore)
+* [Publications on Eurasians](#publications-on-eurasians)
 
 ### The Eurasian Community in Singapore
 
