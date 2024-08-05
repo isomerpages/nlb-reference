@@ -8,7 +8,7 @@ description: ""
 <p></p>
 <strong>Guide index</strong>
 
-* [Introduction](#introduction)
+* [Introduction](#pengenalan-introduction)
 * [Judul-judul Melayu (Malay Titles)](#judul-judul-melayu-malay-titles)
 * [Judul-judul Inggeris (English Titles)](#judul-judul-inggeris-english-titles)
 * [Salasilah-salasilah Kesultanan (Royal Family Histories)](#salasilah-salasilah-kesultanan-royal-family-histories)
