@@ -10,7 +10,8 @@ description: ""
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Introduction</p>
+<p><a href="#introduction" rel="noopener noreferrer nofollow" target="_blank">Introduction</a>
+</p>
 </li>
 <li>
 <p>Judul-judul Melayu (Malay Titles)</p>
@@ -26,7 +27,7 @@ description: ""
 </li>
 </ul>
 <p></p>
-<h3><strong>Pengenalan (Introduction)</strong></h3>
+<h3><strong>&lt;a name="introduction"&gt;Pengenalan (Introduction)&lt;/a&gt;</strong></h3>
 <p><strong>Genealogi = Salasilah, Jurai keturunan</strong>
 </p>
 <p>Pendokumentasian dan rekod atau carta jurai keturunan keluarga Melayu
