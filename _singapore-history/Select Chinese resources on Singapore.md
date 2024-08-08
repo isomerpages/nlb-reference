@@ -288,9 +288,8 @@ understanding on Singapore history, places, society, culture and language.</p>
 <p>&nbsp;</p>
 <p>作者综合中外资料,分六章叙述,即导言、新加坡名称的探索、史前时代的新加坡、新加坡早期史钩沉、早期新加坡与中国的交往，新加坡拉王朝时代。 本书概述了开埠以前的新加坡的历史发展，勾勒出自史前时代的新加坡到狮子城王朝的兴衰历史轮廓。书中也对早期新加坡与中国各朝代的交往加以整理说明。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>新加坡建国史 by 幼兰</p>
+
+**新加坡建国史 by 幼兰**
 <p>Call Number: RSING 959.57 XJP&nbsp;</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84472315</a>
 </p>
@@ -298,9 +297,9 @@ understanding on Singapore history, places, society, culture and language.</p>
 <p>&nbsp;</p>
 <p>本书从古代史迹中的新加坡开始谈起，概述新加坡的发展，以至自治邦的成立。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>新加坡简史 by 李美贤</p>
+
+**新加坡简史 by 李美贤**
+
 <p>Call Number: RSING 959.57 LMX-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12765056</a>
 </p>
@@ -308,8 +307,9 @@ understanding on Singapore history, places, society, culture and language.</p>
 <p>&nbsp;</p>
 <p>本书简要介绍新加坡从古代到独立的历史。本书的“注释”，说明相当详细清楚，读者不容错过，会有很好的参考价值。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>新加坡从开埠到建国 by 郑文辉</p>
+
+**新加坡从开埠到建国 by 郑文辉**
+
 <p>Call Number: RSING 959.57 CWH-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84498152</a>
 </p>
@@ -317,9 +317,9 @@ understanding on Singapore history, places, society, culture and language.</p>
 <p>&nbsp;</p>
 <p>本书概述了新加坡的历史从开埠时期到建国时期的发展历程，并配以插图和照片，让读者更清楚地了解新加坡的历史发展。本书内容简明扼要，文字浅白，适合一般读者。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>新加坡一百五十年大事记 by 许云樵</p>
+
+**新加坡一百五十年大事记 by 许云樵**
+
 <p>Call Number: RCLOS 959.57 HYC&nbsp;</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84450607</a>
 </p>
@@ -329,9 +329,9 @@ understanding on Singapore history, places, society, culture and language.</p>
 <p>&nbsp;</p>
 <p>2. 本书目次：卷首插图二十幅/引言/附录柔佛割让新加坡条例译文/大事记/插图索引</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>新加坡一百五十年 by 南洋商报</p>
+
+**新加坡一百五十年 by 南洋商报**
+
 <p>Call Number: RCLOS 959.57 NAN-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84498741</a>
 </p>
@@ -341,8 +341,9 @@ understanding on Singapore history, places, society, culture and language.</p>
 <p>&nbsp;</p>
 <p>本书是为纪念新加坡开埠150周年所出版的一部综合资料专集，分文字和插图两部分，收集了新加坡自开埠以来一百五十年的发展记录。书中资料涵盖范围广泛，有助于了解新加坡开埠后在历史、政治、社会、民生等方面的变迁。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>从渔村发展到多元种族的大都市： 新加坡开埠一百五拾周年纪念特刊 by 伊布拉欣混合中学</p>
+
+**从渔村发展到多元种族的大都市： 新加坡开埠一百五拾周年纪念特刊 by 伊布拉欣混合中学**
+
 <p>Call Number: RCLOS 959.57 AHM&nbsp;</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84453774</a>
 </p>
@@ -350,9 +351,8 @@ understanding on Singapore history, places, society, culture and language.</p>
 <p>&nbsp;</p>
 <p>内刊“历史大事年表”，“新加坡新旧市区图”，“新加坡之景色图片”即“新加坡具有历史性的有趣建筑物”多篇。 本书乃伊布拉欣混合中学为纪念新加坡开埠一百五十周年所出版的特刊，书中刊有多幅图片和文章，从不同角度介绍新加坡开埠以来的发展与变迁。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>新加坡图片史1819-2000年 by 葛月赞</p>
+
+**新加坡图片史1819-2000年 by 葛月赞**
 <p>Call Number: R SING q959.57 GYZ-[HIS]&nbsp;</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10038003</a>
 </p>
@@ -360,9 +360,13 @@ understanding on Singapore history, places, society, culture and language.</p>
 <p>&nbsp;</p>
 <p>本书通过1200多张的图片，反映了新加坡从1819年到2000年的历史、人民的生活，加上言简意赅的说明，加深了读者对新加坡各个时期的发展的认识。非常有意义。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>新加坡历史（绘画本） by 尉厚</p>
-<p>Call Number: 第一册：JR SING 959.57 PIC 第二册：YR SING 959.57 PIC</p>
+
+**新加坡历史（绘画本） by 尉厚**
+
+Call Number:
+- 第一册：JR SING 959.57 PIC
+- 第二册：YR SING 959.57 PIC
+
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84470933</a>
 </p>
 <p>出版: 新加坡·莱佛士书社，第一册:1997，第二册:1998</p>
@@ -371,9 +375,9 @@ understanding on Singapore history, places, society, culture and language.</p>
 <p>&nbsp;</p>
 <p>第二册：开埠初期至日军占领时期/第五章：开埠初期人口与商业的迅速增长/第六章：开埠初期居民的生活情况/第七章：开埠初期虎患和贩卖猪仔事件/第八章：开埠初期的海盗骚乱/第九章：开埠初期的私会党/第十章：日军占领时期</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>新加坡建国历程 by 李玉梅</p>
+
+**新加坡建国历程 by 李玉梅**
+
 <p>Call Number: RSING 959.57 XJP-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84473087</a>
 </p>
@@ -381,8 +385,9 @@ understanding on Singapore history, places, society, culture and language.</p>
 <p>&nbsp;</p>
 <p>1. 本书很生动地描述了我国从早期到独立的发展过程，让读者走进历史隧道，回顾当年对重大政策的抉择，同时也见证影响我国历史事件的发展过程。了解到影响我们过去的各种因素仍然存在，并对新加坡地理有所认识，这是个好的开始。因为当我们具备了这方面的知识，才能增进人与人之间的了解，进而避免重犯过去的错误，对新加坡这么一个弹丸小国或对任何一个国家来说，每当要向前迈出一步时，都必须慎重考虑其可能带来的后果。这本书图文并茂，可读性很高，除了百多张发人深省的图片外，同时也附上大事年表，使它更为通俗易读。对那些想要进一步认识新加坡历史，了解我国建国历程的种种课题，并想要对目前的课题有深一层认识的人，这是一本值得推荐的书（录自本书的封底折页）。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>新加坡通俗史 by [英] 哈·弗·皮尔逊</p>
+
+**新加坡通俗史 by [英] 哈·弗·皮尔逊**
+
 <p>Call Number: RCLOS 959.57 PEA</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84513676</a>
 </p>
@@ -390,9 +395,9 @@ understanding on Singapore history, places, society, culture and language.</p>
 <p>&nbsp;</p>
 <p>本书是作者续《新加坡史》之后的一部著作，出版于1961年。本书跟《新加坡史》不同之处是，不涉及古代史，而是集中叙述了1819年以后的新加坡近代现代史，侧重于社会政治情况和经济贸易方面。本书是根据新加坡东方大学出版社的版本译出。—录自〈出版说明〉。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>新加坡简史：创业的背景，独立的道路 by 罗佩恒, 罗佩菁</p>
+
+**新加坡简史：创业的背景，独立的道路 by 罗佩恒, 罗佩菁**
+
 <p>Call Number: RSING 959.57 XJP-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84530826</a>
 </p>
@@ -400,9 +405,9 @@ understanding on Singapore history, places, society, culture and language.</p>
 <p>&nbsp;</p>
 <p>本书是一本通俗易懂的历史读物，编者除了概述新加坡的历史发展之外，也从经济、社会、政治等角度对不同时期的新加坡作了介绍，让读者对新加坡的发展有更好的认识。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>建国十年 by Lim Siam Kim, Pitt Kuan Wah (NAS), Teo Kai Lin</p>
+
+**建国十年 by Lim Siam Kim, Pitt Kuan Wah (NAS), Teo Kai Lin**
+
 <p>Call Number: R SING 959.5705 TEN-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12981512</a>
 </p>
@@ -410,8 +415,9 @@ understanding on Singapore history, places, society, culture and language.</p>
 <p>&nbsp;</p>
 <p>这是“建国十年”的展览图集。中英文对照本。清楚说明：新加坡于1965年8月9日成为独立自主的共和国。虽然历史浅短，但成就斐然。在庆祝建国42周年之际，让我们通过历史档案的呈现，回顾新加坡独立后首十年的发展历程，了解我们的开国元勋当初如何以卓越的领导才能，带领人民建设新国家，为今天繁荣昌盛的新加坡奠定了扎实的基础。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>和中学生谈历史 by 王振春</p>
+
+**和中学生谈历史 by 王振春**
+
 <p>Call Number: R CO 959.57 WZC-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10910481</a>
 </p>
