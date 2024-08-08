@@ -4,18 +4,19 @@ permalink: /50-years-of-singapore-chinese-periodicals-1940-to-1980/
 variant: markdown
 description: ""
 ---
-<p><strong>主页&nbsp;</strong>
-</p>
-<p><strong>目录</strong>&nbsp;</p>
-<p>说明</p>
-<p>新加坡华文期刊50年</p>
-<p>50years of Singapore Chinese Periodicals</p>
-<p>综合类</p>
-<p>文艺类</p>
-<p>学术类</p>
-<p>少年、儿童类</p>
-<p>其他类别</p>
-<p></p>
+## 50 Years of Singapore Chinese Periodicals 1940 to 1980
+
+**目录**
+
+* [说明](#说明)
+* [新加坡华文期刊50年](#新加坡华文期刊50年)
+* [50 years of Singapore Chinese Periodicals](#50-years-of-Singapore-Chinese-Periodicals)
+* [综合类](#综合类)
+* [文艺类](#文艺类)
+* [学术类](#学术类)
+* [少年, 儿童类](#少年-儿童类)
+* [其他类别](#其他类别)
+
 <p>本网站只收录了本书目的部分内容。有兴趣者，可向新加坡国家图书馆， 李光前参考图书馆9楼参考咨询柜台免费索取此书。送完为至。&nbsp;&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong>前言</strong>&nbsp;</p>
@@ -51,9 +52,10 @@ description: ""
 <p>3. 本书目所收录的期刊资料共281条，期刊分类表以出版日期先后为序，不包括学校出版的期刊。资料上限为20世纪40年代，下限为80年代。&nbsp;</p>
 <p>4.本馆所藏期刊有欠缺，恳请热心人士有收藏者，愿意割爱，捐献我馆或借我馆影印，感激不尽。馆藏期刊，将开放予学者专家或有研究兴趣者。有关本馆所藏期刊的详细及最新资料，请查询本馆网上目录 <strong><a rel="noopener noreferrer nofollow" target="_blank">http://catalogue.nlb.gov.sg</a></strong>&nbsp;</p>
 <p></p>
-<p><strong>新加坡华文期刊50年&nbsp;</strong>
-</p>
-<p></p>
+
+### **新加坡华文期刊50年**
+
+
 <p><strong>总介</strong>&nbsp;</p>
 <p><strong>作者：韩山元</strong>&nbsp;</p>
 <p>从上世纪40年代到80年代，是个不平凡的大时代，新加坡社会经历了一波又一波的巨变，人民也经历了一轮又一轮的考验。从英国统治到日本统治，再回到英国统治，然后是争取独立，内部自治，加入马来西亚，最后又退出马国成立独立的共和国。&nbsp;
@@ -99,10 +101,10 @@ description: ""
 <br>进入80年代后半期，华文期刊告别了辉煌和灿烂。但是，仍有《赤道风》、《海峡诗刊》、《热带文艺》、《天空》等期刊坚强地发出微弱的声音。&nbsp;
 <br>&nbsp;
 <br>由此可见，沙漠中仍有绿洲，绿洲仍有浅浅的清流，清流仍滋养着生命力顽强的仙人掌
-<br>
-<br>
 </p>
-<h3><strong>50 years of Singapore Chinese Periodicals&nbsp;</strong></h3>
+
+### **50 years of Singapore Chinese Periodicals**
+
 <p><strong>Introduction</strong>&nbsp;</p>
 <p><strong>Translation of “ 新加坡华文期刊50年” written by: Han Tan Juan (韩山元)</strong>&nbsp;
 <br>&nbsp;
@@ -199,15 +201,17 @@ of 1980s.&nbsp;
 periodicals. Nonetheless, there were still some notable publications during
 this period, such as 《赤道风》(Equatorial Wind), 《海峡诗刊》(Hai xia shi kan), 《热带文艺》(Re
 dai wen yi) and 《天空》(Sky).&nbsp;</p>
-<p><strong>综合类&nbsp;</strong>
-</p>
+
+### **综合类**
+	
 <p><strong>目录</strong>&nbsp;</p>
 <p>此类别按年份分类&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 40 年代&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 50年代&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 60年代&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 70年代&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 80年代&nbsp;</p>
+<p>40 年代</p>
+<p>50 年代</p>
+<p>60 年代</p>
+<p>70 年代</p>
+<p>80 年代</p>
+
 <p><strong>40年代&nbsp;</strong>
 </p>
 <p><strong>目录</strong>&nbsp;</p>
@@ -823,7 +827,9 @@ of Knowledge)&nbsp;&nbsp;| 光芒&nbsp;&nbsp;| 青年广场 (Youth Square)&nbsp;
 <br>刊期：季刊&nbsp;
 <br>附注：8开型综合性刊物。为一份“展现这一代学生风貌的季刊”。共出15期。联合早报联合学生编辑部主催，由青年学生负责策划编采。&nbsp;</p>
 <p>&nbsp;</p>
-<h3><strong>文艺类&nbsp;</strong></h3>
+
+### **文艺类**
+
 <p>此类别按年份分类&nbsp;</p>
 <p></p>
 <p><strong>40年代&nbsp;</strong>
@@ -1515,7 +1521,9 @@ Mangrove)&nbsp;&nbsp;| &nbsp;文学月报 (Literature Monthly)&nbsp;| &nbsp;度�
 <br>出版社：新韵文化事业公司&nbsp;
 <br>刊期：双月刊&nbsp;
 <br>附注：文艺性刊物。&nbsp;</p>
-<h3><strong>学术类</strong></h3>
+
+### **学术类**
+
 <p><strong>40年代&nbsp;</strong>
 </p>
 <p><strong>目录</strong>&nbsp;</p>
@@ -2118,8 +2126,9 @@ Garden) |&nbsp;会计学刊| 南洋大学中国语文学报|&nbsp;地理集刊(T
 <br>出版：新加坡国立大学中文系&nbsp;
 <br>刊期：不定期&nbsp;
 <br>附注：新加坡国立大学中文系学报。以推动学术研究、弘扬华族文化为宗旨。&nbsp;</p>
-<p>&nbsp;</p>
-<h3><strong>少年、儿童类&nbsp;</strong></h3>
+
+### **少年， 童类**
+
 <p><strong>40年代&nbsp;</strong>
 </p>
 <p><strong>目录</strong>&nbsp;</p>
@@ -2389,8 +2398,9 @@ Garden) |&nbsp;会计学刊| 南洋大学中国语文学报|&nbsp;地理集刊(T
 <br>出版：新加坡新闻&nbsp;
 <br>刊期：双周刊&nbsp;
 <br>附注：1986年4月5日出版第10期后停刊。&nbsp;</p>
-<p>&nbsp;</p>
-<h3><strong>其他类别&nbsp;</strong></h3>
+
+### **其他类别**
+
 <p><strong>40年代&nbsp;</strong>
 </p>
 <p><strong>目录</strong>&nbsp;</p>
@@ -2813,5 +2823,3 @@ Ra'ayat"。&nbsp;</p>
 <p>索书号： 馆藏暂缺</p>
 <p>出版：椰风出版社&nbsp;
 <br>创刊日期：1949年3月</p>
-<p></p>
-<p>未分类</p>
