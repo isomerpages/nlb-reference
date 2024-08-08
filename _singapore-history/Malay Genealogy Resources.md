@@ -387,7 +387,7 @@ seminggu sekali. Maklumat seperti senarai penumpang, notis perkahwinan,
 berita kematian dan lain-lain pengumuman adalah antara isi kandungan berguna
 untuk disemak atau sebagai bahan rujukan. Antara akhbar-akhbar yang terdapat
 dalam koleksi kami adalah:</p>
-<p>=======================================================================</p>
+=====
 <p>The earliest Malay newspaper that was published in Singapore is the Jawi
 Peranakan (1876-1895). Information useful for research from newspapers
 are marriage notices, obituaries, passenger lists and other public information.
