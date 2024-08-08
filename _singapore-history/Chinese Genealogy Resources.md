@@ -1146,8 +1146,9 @@ background, achievements and official appointments if they are in the bureaucrac
 <br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84447085</a>
 </p>
 <p>台北: 中华文化出版事业委员会.(1955).</p>
-<p><strong>族谱、家谱（中港台）</strong>
-</p>
+
+<p><strong>族谱、家谱（中港台）</strong></p>
+
 <p>· 西河九龙族谱 by 孙中乔
 <br>Call Number: RDTYS Chinese 929.20951 SCC
 <br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84504505</a>
@@ -1162,7 +1163,7 @@ background, achievements and official appointments if they are in the bureaucrac
 <p>出版：古晋 : 刘伯奎, 1980.
 <br>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 福建晋江石龟瑶林许氏族谱 by 许氏族谱资料珍藏室重修 ; 许嘉立书.
+<p>·福建晋江石龟瑶林许氏族谱 by 许氏族谱资料珍藏室重修 ; 许嘉立书.
 <br>Call Number: R Chinese 929.1 FJJ
 <br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84528396</a>
 </p>
@@ -1195,7 +1196,6 @@ background, achievements and official appointments if they are in the bureaucrac
 </p>
 <p>出版：台北 : 国立中央图书馆, 1998
 <br>
-<br>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 泉州桃源庄氏族谱汇编 by 《泉州桃源庄氏族谱汇编》编篡委员会编
 <br>Call Number: R Chinese q929.20951 QZT
@@ -1210,9 +1210,8 @@ background, achievements and official appointments if they are in the bureaucrac
 </p>
 <p>出版：上海 : 上海书店, 1999
 <br>
-<br>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 韶山毛氏族谱 by 责任编辑, 姜亚沙
+<p>· 韶山毛氏族谱 by 责任编辑, 姜亚沙
 <br>Call Number: R Chinese q929.20951 SSM
 <br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11926442</a>
 </p>
@@ -1221,7 +1220,7 @@ background, achievements and official appointments if they are in the bureaucrac
 <br>
 <br>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 醴陵何氏五修族谱
+<p>·醴陵何氏五修族谱
 <br>Call Number: R Chinese q929.20951 LLH
 <br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11926441</a>
 </p>
@@ -1290,9 +1289,10 @@ background, achievements and official appointments if they are in the bureaucrac
 </p>
 <p>出版：百奇郭氏回族宗谱编委会， 200-
 <br>册数：3</p>
-<p>&nbsp;&nbsp;</p>
-<h3><strong>族谱、家谱（新加坡）</strong></h3>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 邝氏族谱 by 邝氏公会族谱委员会编
+
+### **族谱, 家谱 (新加坡)**
+
+<p>·邝氏族谱 by 邝氏公会族谱委员会编
 <br>Call Number: RSING Chinese 929.1 KWO
 <br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84542468</a>
 </p>
@@ -1386,10 +1386,10 @@ background, achievements and official appointments if they are in the bureaucrac
 <p>出版：新加坡 : 新加坡吕氏公会, 1994.
 <br>页数：478
 <br>丛书：吕氏史料丛书</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<h3><strong>族谱、家谱（马来西亚）</strong></h3>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 马来西亚槟城北马六槁林氏公会庆祝成立第十五周年紀念暨上街林氏宗亲族谱特刊,
+
+### **族谱, 家谱 (马来西亚)**
+
+<p>·马来西亚槟城北马六槁林氏公会庆祝成立第十五周年紀念暨上街林氏宗亲族谱特刊,
 公元一九六四年至一九七八年
 <br>Call Number: RSEA Chinese q369.25951 MLX
 <br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12747747</a>
