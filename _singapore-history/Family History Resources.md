@@ -76,7 +76,7 @@ their family history projects:</p>
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/singapore-history/Roots.jpg">
 </div>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://catalogue.nlb.gov.sg/search/card?recordId=200130364" rel="noopener noreferrer nofollow" target="_blank">Roots: tracing family histories: a resource guide</a> /
-[Lim Ting Seng, Makeswary Periasamy, Lee Meiyu, Kartini Binte Saparudin
+[Lim Tin Seng, Makeswary Periasamy, Lee Meiyu, Kartini Binte Saparudin
 (authors) ; Sharon Koh &amp; Janice Loo, (Eds)].</p>
 <p>Call No. RSING 929.107205957 LIM&nbsp;</p>
 <p>&nbsp;</p>
