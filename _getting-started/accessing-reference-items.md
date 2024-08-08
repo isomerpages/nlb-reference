@@ -41,7 +41,7 @@ refer to the <strong>Section/Shelf Location</strong> within the catalogue
 entry:</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Items listed under <strong><u>Reference, Reference Art, Reference Business, Reference Singapore,Reference Southeast Asia, Reference China Resource, Reference Chinese Overseas</u></strong>
+<summary>Items listed under <strong><u>Reference,</u> <u>Reference Art,</u> <u>Reference Business,</u> <u>Reference Singapore,</u> <u>Reference Southeast Asia,</u> <u>Reference China Resource,</u> <u>Reference Chinese Overseas</u></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
