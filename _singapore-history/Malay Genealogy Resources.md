@@ -232,7 +232,9 @@ bagi pencarian maklumat mengenai latar hubung-kait sesebuah kesultanan
 dan warga istana mengenai sejarah, masa dan peristiwa yang berlaku pada
 masa itu. Daftar ini menyenaraikan penerbitan-penerbitan yang terdapat
 kandungan mengenai salasilah keluarga diraja Nusantara.</p>
-<p>=============================================================================</p>
+
+======
+
 <p>The genealogies of the sultanates of the Malay Archipelago are an important
 source for those who wish to link or relate their family histories to the
 Malay kings of the region. These sources can also be used to appreciate
