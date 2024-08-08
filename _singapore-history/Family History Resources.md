@@ -42,7 +42,7 @@ for family history research.</p>
 * Land records and maps
 * Newspapers
 * Secondary resources such as books,
-* biographies and articles
+* Biographies and articles
 
 <p>The amount of family history information that are searchable is largely
 dependent on one's ethnic and religious background. For instance, to trace
