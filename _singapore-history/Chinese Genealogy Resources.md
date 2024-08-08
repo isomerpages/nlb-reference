@@ -4,18 +4,19 @@ permalink: /guides/singapore/history/chinese-genealogy-resources/
 variant: markdown
 description: ""
 ---
-<h3><strong>Chinese Genealogy Research</strong></h3>
+<h2><strong>Chinese Genealogy Research</strong></h2>
 <p></p>
 <p><strong>目录</strong>
-</p>
-<p>新加坡华社概况</p>
-<p>本馆馆藏内的家谱书目</p>
-<p>各地区、籍贯史料、姓氏史料</p>
-<p>人物志、传记</p>
-<p>族谱、家谱（新加坡）</p>
-<p>族谱、家谱（马来西亚）</p>
-<p></p>
-<p></p>
+
+* 新加坡华社概况
+* 本馆馆藏内的家谱书目
+* 各地区, 籍贯史料, 姓氏史料
+* 中国地方志
+* 人物志, 传记
+* 族谱, 家谱 (新加坡)
+* 族谱, 家谱 (马来西亚)
+
+</p><p></p>
 <p>家谱是记载本宗族和事迹历史的图籍，它与正史、方志一起，构成中华民族历史学的三大支柱。
 <br>李光前参考图书馆收藏了一些家谱。这些家谱多数是民间个人出版物 （即非卖品）。主要通过公众人士的捐赠。“<em>本馆馆藏内的家谱书目</em>"选列了一些馆藏内的家谱、族谱和人物传记。此外，馆藏也收集了中国主要图书馆汇集的家谱目录。
 <br>
@@ -36,8 +37,9 @@ came from the southern part of China - the Fujian and Guangdong provinces.
 More information can be found under An overview of the Chinese society
 in Singapore section.</p>
 <p></p>
-<h3><strong>新加坡华社概况</strong></h3>
-<p></p>
+
+### **新加坡华社概况**
+
 <p>根据新加坡统计局在2000年所做的户口调查，新加坡华人依次以福建、潮州、广东、客家、海南、福州、兴化、上海、福清为主。 家里没有清楚自己家族来源的长辈可通过自己的籍贯和姓氏来找寻相关的资料。需要知道的是，有许多族谱、宗谱还是保留在各民间组织或个人的手上的，而并非在国家机构内。这一类的资料大部分也在中国，而其中虽然有不少已经数码化，但那也只是一部分的资料。
 本馆可尽量帮忙查找背景资料，但是有兴趣查找自己族谱、家谱的人们还是有可能需要自己亲自到中国或其他相关地区跑一趟。</p>
 <p>According to the household survey done by the Department of Statistics
@@ -397,8 +399,9 @@ the research in this book.</p>
 <br>Singapore: Editions Didier Millet 2006
 <br>A quick reference source on the history of the Chinese overseas. Provides
 a general overview.</p>
-<p></p>
-<h3><strong>本馆馆藏内的家谱书目</strong></h3>
+
+### **本馆馆藏内的家谱书目**
+
 <p><strong>目录书籍</strong>
 </p>
 <p>中国境内收藏南方家族的主要图书目录</p>
@@ -427,8 +430,9 @@ a general overview.</p>
 <br>简介：
 <br>1.本书收录了中国大陆图书馆、文化馆、文管会、博物馆、纪念馆、档案馆等单位所藏家谱目录，另外还转录了《全国古籍善本书目》、《台湾地区家谱目录》、《宗谱之研究》（日本）、《美国家谱协会收藏中国家谱目录》等家谱目录所收条目。
 <br>2.本书共收录1949年以前的中国家谱目录14719条。该书所收条目按姓氏笔划编排，著录书名与卷数、纂修朝代与纂修人、纂修时间、出版时间、版本、册数、藏书单位以及备注等项目。书后附“地区索引”和“报送目录单位名单。”这是迄今反映中国家谱收藏状况最重要的一部书目。</p>
-<p></p>
-<h3><strong>各地区、籍贯史料、姓氏史料</strong></h3>
+
+### **各地区, 籍贯史料, 姓氏史料**
+
 <p>华人姓氏达上百种，起源各异。下列所选书籍包括姓氏辞典和个别阐释某个姓氏的渊源、改姓氏族群最早的栖居处、迁徙的历史沿革及各别姓氏的名人事迹。</p>
 <p>The origins of each Chinese surname are unique to that respective surname.
 The books selected below introduce how a group was given the surname, their
@@ -466,8 +470,9 @@ listed below.</p>
 <br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10103730</a>
 </p>
 <p>[北京]: 现代出版社 ; 华艺出版社.(2000)</p>
-<p></p>
-<h3><strong>中国地方志</strong></h3>
+
+### **中国地方志**
+
 <p>方志记载某个地理环境的自然景观和人文历史。多数也收录该地区的风俗习惯、祠庙宗祠、杰出人士的事迹等。本区域华人多数来自中国长江以南的南部省份如
 广东省 (包括海南岛)、福建省等地。</p>
 <p>For many of the Chinese in this region, their ancestors came from the
@@ -949,8 +954,9 @@ information.</p>
 <br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12815094</a>
 </p>
 <p>北京: 华夏出版社.(2005).</p>
-<p>&nbsp;</p>
-<h3><strong>人物志、传记</strong></h3>
+
+### **人物志, 传记**
+
 <p>以下书目介绍人物的生卒年份、身平、教育背景和事迹等。下列书目包括当代人物如:《扭转生命的方向: 20位成功者的故事》、不同区域的人物传如:《新加坡华人百年史》、《厦门人物•海外篇》、《世界华侨名人传》等。</p>
 <p>The biographies listed below cover past and present, local and regional
 Chinese personalities. Information usually available in these sources are
@@ -1021,7 +1027,7 @@ background, achievements and official appointments if they are in the bureaucrac
 </p>
 <p>[台北]:台湾商务.(1965).</p>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 历代名人生卒年表 ; 历代名人生卒年表补 by 梁廷灿、陶容、于士雄编
+<p>· 历代名人生卒年表 ; 历代名人生卒年表补 by 梁廷灿、陶容、于士雄编
 <br>Call Number: R q920.051 LDM
 <br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12270674</a>
 </p>
@@ -1033,13 +1039,13 @@ background, achievements and official appointments if they are in the bureaucrac
 </p>
 <p>(1980).新加坡: 南海编译所.</p>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 扭转生命的方向: 20位成功者的故事 by 龙丽娴作者 、吴君译者
+<p>·扭转生命的方向: 20位成功者的故事 by 龙丽娴作者 、吴君译者
 <br>Call Number: RSING 920.02 LS
 <br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12666603</a>
 </p>
 <p>新加坡: 八方文艺创作室.(2005).</p>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 历代名人生卒录 by 钱保塘编
+<p>·历代名人生卒录 by 钱保塘编
 <br>Call Number: R q920.051 LDM
 <br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12270033</a>
 </p>
@@ -1085,7 +1091,7 @@ background, achievements and official appointments if they are in the bureaucrac
 <br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12276523</a>
 </p>
 <p>厦门: 鹭江出版社.(2003).</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 现代华侨人物志
+<p>·现代华侨人物志
 <br>Call Number: RDTYS 920.59 HTH
 <br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84447072</a>
 </p>
@@ -1100,7 +1106,7 @@ background, achievements and official appointments if they are in the bureaucrac
 <br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11806255</a>
 </p>
 <p>上海:东方出版中心.(2002).(4册)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 星洲琼崖翁氏公会人物志 by 星洲琼崖翁氏公会
+<p>·星洲琼崖翁氏公会人物志 by 星洲琼崖翁氏公会
 <br>Call Number: RSING q929.1 XZQ
 <br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84541703</a>
 </p>
@@ -1120,36 +1126,36 @@ background, achievements and official appointments if they are in the bureaucrac
 <br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10293630</a>
 </p>
 <p>北京: 中国华侨出版社.(2001)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 世界华侨名人传 by 杨庆南编著
+<p>· 世界华侨名人传 by 杨庆南编著
 <br>Call Number: RSING 920.0092951 YQN
 <br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84549900</a>
 </p>
 <p>[台北]: 华侨工商职业学校基金会.(1984)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 世界华侨名人传 by 杨庆南编著
+<p>· 世界华侨名人传 by 杨庆南编著
 <br>Call Number: RSING q909.4951 YQN
 <br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84465119</a>
 </p>
 <p>古晋: 马华企业.(第四、五、六、七册).(19--).</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 稿本清代人物史料三编. 外一种 by 朱彭寿编纂
+<p>· 稿本清代人物史料三编. 外一种 by 朱彭寿编纂
 <br>Call Number: R q920.051 GBQ
 <br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11547815</a>
 </p>
 <p>北京: 北京图书馆出版社.(2002).(10册)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 华侨名人传 by 祝秀侠主编
+<p>· 华侨名人传 by 祝秀侠主编
 <br>Call Number: RCLOS 920.051 CHH-[SEA]
 <br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84447085</a>
 </p>
 <p>台北: 中华文化出版事业委员会.(1955).</p>
 <p><strong>族谱、家谱（中港台）</strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 西河九龙族谱 by 孙中乔
+<p>· 西河九龙族谱 by 孙中乔
 <br>Call Number: RDTYS Chinese 929.20951 SCC
 <br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84504505</a>
 </p>
 <p>出版：无版地 : 吧双留真印务, 1931.
 <br>页数：182</p>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 广东河婆刘氏族谱新编 by 刘伯奎编
+<p>·广东河婆刘氏族谱新编 by 刘伯奎编
 <br>Call Number: RCLOS Chinese 929.1 GEN issue Oct1980
 <br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84552362</a>
 </p>
@@ -1196,7 +1202,6 @@ background, achievements and official appointments if they are in the bureaucrac
 <br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12276602</a>
 </p>
 <p>出版：厦门 : 厦门大学出版社, 1999
-<br>
 <br>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 族谱 : 华南汉族的宗族、风水、移居 by 濑川昌久 ; 钱杭译
