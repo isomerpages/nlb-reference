@@ -4,9 +4,10 @@ permalink: /select-chinese-resources-on-singapore/
 variant: markdown
 description: ""
 ---
-&lt;**elect bibliography of Chinese resources on Singapore available at the
+Select bibliography of Chinese resources on Singapore available at the
 Lee Kong Chian Reference Library. It includes books that provide broad
-understanding on Singapore history, places, society, culture and language.<p></p>
+understanding on Singapore history, places, society, culture and language.
+
 <p>介绍收藏在李光前参考图书馆有关新加坡历史、掌故、名胜古迹、社会机制、文化、语言等的书籍。</p>
 <p></p>
 <h3>Guide Index</h3>
@@ -23,7 +24,7 @@ understanding on Singapore history, places, society, culture and language.<p></p
 ### **简介**
 
 <u>Introduction</u>
-<p>《新加坡总揽》介绍收藏在李光前参考图书馆有关新加坡历史、掌故、名胜古迹、社会机制、文化、语言等的书籍。具体分成七个部分: 1.总 览, 2.新加坡风土·掌故·寻根,
+<p>《新加坡总揽》介绍收藏在李光前参考图书馆有关新加坡历史、掌故、名胜古迹、社会机制、文化、语言等的书籍。具体分成七个部分: 1.总览, 2.新加坡风土·掌故·寻根,
 3.历史, 4.地区·街名·地名, 5.名胜古迹, 6. 广角下的新加坡, 7. 其他</p>
 <p></p>
 
