@@ -103,8 +103,6 @@ request form.</p>
 </div>
 </details>
 </div>
-<p><u><br></u>
-</p>
 <h2>Items in the Repository Used Book Collection or PublicationSG</h2>
 <p>As these items are not physically stored in the LKCRL, <strong>a reservation must be made in order to access these materials.</strong> &lt;sup&gt;1&lt;/sup&gt;
 Items will take at least 3-5 working days to arrive in the library. Items
