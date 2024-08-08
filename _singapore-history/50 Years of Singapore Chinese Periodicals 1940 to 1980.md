@@ -10,7 +10,7 @@ description: ""
 
 * [说明](#说明)
 * [新加坡华文期刊50年](#新加坡华文期刊50年)
-* [50 years of Singapore Chinese Periodicals](#50-years-of-Singapore-Chinese-Periodicals)
+* [50 years of Singapore Chinese Periodicals](#50-years-of-singapore-chinese-periodicals)
 * [综合类](#综合类)
 * [文艺类](#文艺类)
 * [学术类](#学术类)
@@ -32,8 +32,9 @@ description: ""
 <br>&nbsp;
 <br>在机缘巧合之下，我馆和海南会馆读书会都有共同意愿，要即时把这份工作做起来，为我们国家保存更完整的文献资料。我们于2007年10月间联手举办了为期一个月的“新加坡华文期刊50年”展。这个展出得到多位私藏家的大力支持,
 或惠借或捐赠，期刊展深受好评。</p>
-<h4> <br>&nbsp; <br><strong>说明&nbsp;</strong></h4>
-<p></p>
+
+### **说明**
+
 <p><strong>1. 主要资料来源：</strong>&nbsp;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 馆藏期刊&nbsp;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 新加坡国立大学中文图书馆&nbsp;</p>
@@ -2127,7 +2128,7 @@ Garden) |&nbsp;会计学刊| 南洋大学中国语文学报|&nbsp;地理集刊(T
 <br>刊期：不定期&nbsp;
 <br>附注：新加坡国立大学中文系学报。以推动学术研究、弘扬华族文化为宗旨。&nbsp;</p>
 
-### **少年， 童类**
+### **少年, 童类**
 
 <p><strong>40年代&nbsp;</strong>
 </p>
