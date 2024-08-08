@@ -4,9 +4,9 @@ permalink: /select-chinese-resources-on-singapore/
 variant: markdown
 description: ""
 ---
-<p>Select bibliography of Chinese resources on Singapore available at the
+&lt;**elect bibliography of Chinese resources on Singapore available at the
 Lee Kong Chian Reference Library. It includes books that provide broad
-understanding on Singapore history, places, society, culture and language.</p>
+understanding on Singapore history, places, society, culture and language.<p></p>
 <p>介绍收藏在李光前参考图书馆有关新加坡历史、掌故、名胜古迹、社会机制、文化、语言等的书籍。</p>
 <p></p>
 <h3>Guide Index</h3>
@@ -425,8 +425,9 @@ Call Number:
 <p>&nbsp;</p>
 <p>原书〈关于本书〉介绍如下：本书是作者近年来，以新加坡历史为题，写给中学生的信。他以浅白生动的文笔，配合珍贵的历史照片，在信上告诉读者，新加坡什么时候建国？什么时候举行全民投票？当时的情况如何？第一届自治邦政府什么时候产生？新加坡有多少别名以及末代总督是谁等等……本书共有33篇寄简。新加坡的历史，就在寄简里。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>新月山河：新加坡历史篇 by 杨萱</p>
+
+**新月山河：新加坡历史篇 by 杨萱**
+
 <p>Call Number: RSING 959.57 XYS-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11148943</a>
 </p>
@@ -434,9 +435,8 @@ Call Number:
 <p>&nbsp;</p>
 <p>本书收录12篇短文，从历史、商贸、教育、和社会文化等不同的角度介绍新加坡历史。书中附有照片，让读者对新加坡的历史有更深一层的认识。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>从开埠到建国 by 黄敬恭，魏维贤</p>
+
+**从开埠到建国 by 黄敬恭，魏维贤**
 <p>Call Number: RCLOS 959.57 TKF</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84499606</a>
 </p>
@@ -444,10 +444,9 @@ Call Number:
 <p>&nbsp;</p>
 <p>本书收录13篇文章，其中一些提纲挈领地介绍新加坡不同领域的发展与变迁，其他则针对一些与新加坡有关的课题进行探讨分析。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>新加坡史话 by 曾铁忱</p>
+
+**新加坡史话 by 曾铁忱**
+
 <p>Call Number: RSING 959.57 TTC&nbsp;</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84566058</a>
 </p>
@@ -455,7 +454,9 @@ Call Number:
 <p>&nbsp;</p>
 <p>卷首有连士升，许云樵序，全书凡二十则，大多叙述开埠以来之掌故。本书作者以“史话”的体裁来写新加坡的历史片段，书中收录20篇文章，记述新加坡开埠以来的掌故，有助了解新加坡早期历史。</p>
 <p>&nbsp;</p>
-<p>狮城史话 by 韩山元</p>
+
+**狮城史话 by 韩山元**
+
 <p>Call Number: RSING 959.57 HSY-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11983619</a>
 </p>
@@ -464,7 +465,9 @@ Call Number:
 <p>作者通过一些史料，一些史事，一些掌故，以深入浅出的文字，简洁的叙述手法，让读者对新加坡的发展历史有一个清晰地了解。书中还穿插了一些图片，增加阅读的兴趣。</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>喊默迪卡的年代（根的系列6） by 王振春</p>
+
+**喊默迪卡的年代（根的系列6） by 王振春**
+
 <p>Call Number: RSING 959.5704 WZC-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12334673</a>
 </p>
@@ -472,9 +475,9 @@ Call Number:
 <p>&nbsp;</p>
 <p>杜南发的〈序〉介绍说：本书记录了新加坡50—60年代政坛风云人物和历史事件，这是新加坡诞生前后的重要历史年代，也是作者亲身经历的年轻岁月，书中有历史人事的故事性记载，也有作者自己在这个大时代里的目击经验和感情。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>历史回形针—重温建国之路 by 朱志伟，蔡婉婷等</p>
+
+**历史回形针—重温建国之路 by 朱志伟，蔡婉婷等**
+
 <p>Call Number: RSING 959.57 JOU</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10204720</a>
 </p>
@@ -483,8 +486,9 @@ Call Number:
 <p>本书收录《星期5周报》的“历史课室系列”，从人的情感与变迁回顾国家建设的心路历程（引自〈开卷〉1）。书中穿插的图片，正是历史的定格，正是历史最好的说明。</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>从星洲日报看星洲50年1929-1979 by 卓南生（编辑）</p>
+
+**从星洲日报看星洲50年1929-1979 by 卓南生（编辑）**
+
 <p>Call Number: RSING 959.57 SIN-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84454823</a>
 </p>
@@ -492,8 +496,9 @@ Call Number:
 <p>&nbsp;</p>
 <p>本书分A、B、C三部分。A部分主要论述《星洲日报》发展简史及报章刊载有关新加坡50年来的发展概况；B部分全是主要事项的报纸影印；C部分为广告。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>石叻史记 by 柯木林</p>
+
+**石叻史记 by 柯木林**
+
 <p>Call Number: RCO 959.57 KML-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12923242</a>
 </p>
@@ -502,8 +507,9 @@ Call Number:
 <p>&nbsp;作者以业余时间，孜孜不休地从事新加坡历史史料整理与研究凡数十年，卓有成就。揽辑此集中为其众多文稿之经典部分。他从古籍、官方及民间档案资料、历史遗存、报章杂志、人物访谈等去收集与整理相关佐证，以踏实的研究手段与方法，完成新华历史鲜为人知的片段或某一专题的研究……本书的一大特色是作者颇费了一番心血，从他历年辛苦收集而来的历史图片中，精选了五十三幅穿插书中，诚为所述历史的佐证。—摘录自原书封底。
 本书为南洋大学学术论丛之9。&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>星马史 by 方显</p>
+
+**星马史 by 方显**
+
 <p>Call Number: RCLOS 959.5 FH&nbsp;</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84533730</a>
 </p>
@@ -511,9 +517,9 @@ Call Number:
 <p>&nbsp;</p>
 <p>本书概述了新加坡与马来亚的历史。书中阐述新加坡的历史，上自淡马锡，下至新加坡共和国的成立。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>星马史 by 邬史昌主编</p>
+
+**星马史 by 邬史昌主编**
+
 <p>Call Number: RSING 959.5 HMS</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84533860</a>
 </p>
@@ -521,8 +527,9 @@ Call Number:
 <p>&nbsp;</p>
 <p>本书乃根据最新“新加坡剑桥普通教育证书”普通水准考试纲要编纂而成。全书共分为十五章，由马六甲王朝之史开始，一直到新马的独立，都有做适当的叙述。文中安插了许多图片，目的在于引起学生的兴趣。（录自〈前言〉的段落）。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>马来亚史上册 by 许云樵</p>
+
+**马来亚史上册 by 许云樵**
+
 <p>Call Number: RSING 959.5 HYC&nbsp;</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84449442</a>
 </p>
@@ -530,8 +537,9 @@ Call Number:
 <p>&nbsp;</p>
 <p>本书以丰富的中外史料立论，以通史体例著述，从马来亚的史前史开始叙述马来亚的发展。第三章介绍了“蒲罗中国”，即一千七百年前的新加坡古名，第四章则介绍了“单马锡”和“龙牙门”。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>新马史话一千年 by 韩山元</p>
+
+**新马史话一千年 by 韩山元**
+
 <p>Call Number: RSING 959.5 HSY</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12795455</a>
 </p>
@@ -539,8 +547,9 @@ Call Number:
 <p>&nbsp;</p>
 <p>一本帮助你了解新加坡与马来亚（现为马来西亚）千年往事的通俗读物，它告诉你：我们的先辈如何披荆斩棘，唤醒原始森林，将荒山变良田，由如何前仆后继，摆脱殖民统治，争取独立自主。在这个历史舞台上，你将看到一个又一个历史名人登场，一出又一出历史剧在上演。（录自封底说明）。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>星马史论丛 by 崔贵强</p>
+
+**星马史论丛 by 崔贵强**
+
 <p>Call Number: RSING 959.57 TKC-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84499401</a>
 </p>
@@ -548,8 +557,9 @@ Call Number:
 <p>&nbsp;</p>
 <p>内刊〈战前新加坡华族史特征〉，〈海峡殖民地华人对五四运动的反响〉等论文。 本书收录12篇文章，内容分为两部分：第一部分是十九世纪与二十世纪初的星马华人历史；第二部分是作者对星马历史的一些课题提出自己的看法。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>东南亚古代史论丛 by 邱新民</p>
+
+**东南亚古代史论丛 by 邱新民**
+
 <p>Call Number: RSING 959 CHM&nbsp;</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84570293</a>
 </p>
@@ -557,8 +567,8 @@ Call Number:
 <p>&nbsp;</p>
 <p>内载〈莱佛士登陆时的新加坡〉等文。 本书收论文二十余篇，内容主要讨论东南亚的史前史及古代史、东南亚历史地理的考证以及有关东南亚文化人类学等课题的探讨。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>东南亚文化交通史 by 邱新民</p>
+
+**东南亚文化交通史 by 邱新民**
 <p>Call Number: RSING 959.007 QXM&nbsp;</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84496504</a>
 </p>
@@ -567,18 +577,19 @@ Call Number:
 <p>1. 第十九章“新加坡”，讨论新加坡的名称，通商口岸及新加坡与巨港满刺加的关系。</p>
 <p>&nbsp;2. 本书从东南亚文化交通史的角度出发，概述东南亚历史发展，其中第十九章讨论新加坡的名称，新加坡作为一个通商口岸的发展过程，以及新加坡与巨港满刺加王国的关系。　</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;东南亚建国史 by 宋哲美</p>
+
+**东南亚建国史 by 宋哲美**
+
 <p>Call Number: RSING 959 SCM</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84495318</a>
 </p>
 <p>出版: 香港·东南亚研究所，1976</p>
 <p>&nbsp;</p>
 <p>本书分述东南亚各国的建国史略。 其中的第一章，就先谈到新加坡建国的历史。主要内容分六节阐述。 第一章：新加坡建国史/第一节：新加坡在东西洋交通的地位/第二节：信诃补罗王朝时代/第三节：莱佛士开埠时代/第四节：海峡殖民地时代/第五节：自治与独立运动/第六节：人民行动党时代。附注
--- 其他章节阐述的国家有：马来西亚/婆罗乃/印尼/菲律宾/泰国/越南/柬埔寨/寮国/缅甸。&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>椰阴馆文存补篇 by 陈育崧</p>
+-- 其他章节阐述的国家有：马来西亚/婆罗乃/印尼/菲律宾/泰国/越南/柬埔寨/寮国/缅甸。</p>
+
+**椰阴馆文存补篇 by 陈育崧**
+
 <p>Call Number: R CO 959.00992 SUP</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84453001</a>
 </p>
@@ -586,9 +597,9 @@ Call Number:
 <p>&nbsp;</p>
 <p>本书分为两部分，第一部分是作者的论著，共7篇；第二部分是附录，又分为三项，附录一是学者对作者的论述及悼念文章、附录二是作者的手迹、附录三是有关作者和中正中学的关系和《椰阴馆文存》各篇来源补遗。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>海上丝绸之路的新加坡 — 兼叙海上民族与文化的源流及其传播 by 邱新民</p>
+
+**海上丝绸之路的新加坡 — 兼叙海上民族与文化的源流及其传播 by 邱新民**
+
 <p>Call Number: RSING 959.57 QXM-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84509351</a>
 </p>
@@ -596,8 +607,9 @@ Call Number:
 <p>&nbsp;</p>
 <p>1819年以前的新加坡及其海上民族在海上丝绸之路中扮演了重要的角色，本书探讨新加坡的不同名称及其历史根源，也介绍了新加坡拉的历史和亚澳地中海的水上民族及其文化。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>新加坡拉焚城记 by 李过</p>
+
+**新加坡拉焚城记 by 李过**
+
 <p>Call Number: RSING C813.4 LG</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84449758</a>
 </p>
@@ -606,8 +618,9 @@ Call Number:
 <p>这篇小说于1975年9月至同年12月在《星洲日报·星洲周刊》发表。这次出版，我加上小标题，也加上拜里米苏刺追杀伊斯干达沙的尾巴，其他的没有什么改动。（摘自〈后记〉）。
 读者要了解作者写古新加坡拉灭亡经过的依据，作者的〈后记〉有详细说明，可资参考。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>太平洋战争史料汇编 by 李业霖</p>
+
+**太平洋战争史料汇编 by 李业霖**
+
 <p>Call Number: R CO q959.5 SEL&nbsp;</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84536791</a>
 </p>
@@ -615,8 +628,9 @@ Call Number:
 <p>&nbsp;</p>
 <p>太平洋战争爆发，日本出动了40万大军向东南亚发动进攻，1942年5月，日军先后侵占了马来半岛、新加坡、荷属东印度群岛、香港……展开了侵略者种种血腥的暴行。本书名篇章，字字血泪记载了新、马两地抗日救亡运动的事迹，同时暴露了日军凶残冷酷的种种罪行，作为历史的铁证，让后人痛定思痛，居安思危，最重要的是维护和平。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>新马华人抗日史料1937-1945 by 许云樵</p>
+
+**新马华人抗日史料1937-1945 by 许云樵**
+
 <p>Call Number: RSING 959.57023 MAL-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84454889</a>
 </p>
@@ -626,8 +640,9 @@ Call Number:
 <p>&nbsp;</p>
 <p>本书收集了与这个时期有关的重要史料。全书长达百万余言。文章除了采自当时的报章、杂志、书籍与档案之外，也包括了许多未曾发表的个人回忆录，同时并收集了八百多历史照片，不但是专家、学者研究上不可多得的重要资料，也是一般人士了解当时社会面貌的最佳书籍。（摘录自封底内页）</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>居安思危—大战前后新马史科汇编 by 冯仲汉</p>
+
+**居安思危—大战前后新马史科汇编 by 冯仲汉**
+
 <p>Call Number: RSING 940.54815957 ETE-[WAR]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84590443</a>
 </p>
@@ -635,8 +650,9 @@ Call Number:
 <p>&nbsp;</p>
 <p>&nbsp;本书收录了四百多张珍贵的历史图片，配以文章、访谈、书摘，层层带出了新马（马来半岛）在大战前后的概况。（录自封底说明）</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>新加坡沦陷—日军入侵马来亚 by 亚瑟·史文生（Arthur Swinson)，李伯鹰译</p>
+
+**新加坡沦陷—日军入侵马来亚 by 亚瑟·史文生（Arthur Swinson)，李伯鹰译**
+
 <p>Call Number: RSING 940.5425 SWI-[WAR]&nbsp;</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12182925</a>
 </p>
@@ -644,8 +660,9 @@ Call Number:
 <p>&nbsp;</p>
 <p>作者详尽描述了日军入侵马来亚的始末。时间从1941年12月—1942年2月初新加坡沦陷。—摘自〈序〉。日本一步步扩张在亚洲的势力，英国却未意识到日本逐步升高的威胁，导致殖民地新加坡为此付出惨痛的代价！当日本从最令人意想不到的丛林长驱直入时，昔日的“日不落国”在血战后屈辱败退，留下新加坡人民承受被占领的痛苦。—摘自封底。历史的图片，留下了历史的定格，也留下了不容争辩的史实。这段悲惨的历史，随着长河水过去了，可是，它的沉淀，我们怎能忘记！这是抹不去的伤痕，留给后人反思。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>新加坡沦陷记—山下奉文兵团马来亚闪电战 by 亚瑟·史恩逊</p>
+
+**新加坡沦陷记—山下奉文兵团马来亚闪电战 by 亚瑟·史恩逊**
+
 <p>Call Number: RSING 940.5425 SES-[WAR]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84509735</a>
 </p>
@@ -653,18 +670,17 @@ Call Number:
 <p>&nbsp;</p>
 <p>本书讲述二战时，新加坡沦陷的前因后果。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>日军进攻星马画史 by 文史资料社编</p>
-<p>Call Number: RCLOS 959.57 WST&nbsp;</p>
+
+**日军进攻星马画史 by 文史资料社编**
+
+<p>Call Number: RCLOS 959.57 WST</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84502169</a>
 </p>
 <p>出版: 新加坡·真善美出版，19uu</p>
 <p>&nbsp;</p>
 <p>本书记述日军进攻马来亚和新加坡的经过，配以多幅插图作介绍，把马来亚之战真实地呈现给读者。此外，作者也对马来亚战败的原因做出分析。书末附日方发表〈马来亚作战日记〉和〈日方发表马来作战战果〉两篇。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>真相—新马二战沦陷揭秘 by （英）彼得·埃尔菲克（Peter Elphick)</p>
 <p>Call Number: RSING 940.5425 ELP-[WAR]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12825399</a>
