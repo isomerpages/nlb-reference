@@ -73,7 +73,7 @@ The explanations are detailed below:</p>
 <details class="isomer-details">
 <summary>Accessibility</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><em>Online</em>: To vie6w archived content that are available online.</p>
+<p><em>Online</em>: To view archived content that are available online.</p>
 <p><em>Onsite</em>: To view archived content that are only available at Level
 11 of the <a href="https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/national-library-singapore/lee-kong-chian-reference-library" rel="noopener noreferrer nofollow" target="_blank">Lee Kong Chian Reference Library</a> due
 to copyright restrictions. Archived websites that are only available onsite
