@@ -104,7 +104,7 @@ request form.</p>
 </details>
 </div>
 <h2>Items in the Repository Used Book Collection or PublicationSG</h2>
-<p>As these items are not physically stored in the LKCRL, <strong>a reservation must be made in order to access these materials.</strong> &lt;sup&gt;1&lt;/sup&gt;
+<p>As these items are not physically stored in the LKCRL, <strong>a reservation must be made in order to access these materials.</strong> [^1]
 Items will take at least 3-5 working days to arrive in the library. Items
 will be made available for on-site consultation for a period of 2-3 weeks.
 Detailed instructions will be emailed to you upon a successful reservation. <strong>Please note that the reservation fee will still be charged for any uncollected items.</strong>
