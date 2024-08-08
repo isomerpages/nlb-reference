@@ -6,12 +6,12 @@ collection_name: other-formats
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Other Formats" src="%5Cimages%5Cother-formats%5Cother-formats-main.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Discover the special formats we hold in our collections" src="/images/other-formats/other-formats-main.jpg">
 </div>
 <h1>Discover the special formats we hold in our collections!</h1>
 <hr>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/other-formats/ephemera/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ephemera" src="/images/other-formats/ephemera-main.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ephemera</div><div class="isomer-card-description">Ephemera refers to items intended for short-term use, such as tickets, pamphlets and brochures. </div><div class="isomer-card-link">Click here</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/other-formats/ephemera/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ephemera" src="/images/other-formats/ephemera-main.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ephemera</div><div class="isomer-card-description">Ephemera refers to items intended for short-term use, such as tickets, pamphlets and brochures.</div><div class="isomer-card-link">Click here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/other-formats/maps/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -53,34 +53,5 @@ archived versions (snapshots of the same website over time).</div>
 </div>
 </a>
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ephemera" src="/images/other-formats/ephemera-main.jpg">
-</div>
-<h5><strong><a href="/other-formats/ephemera/" class="project-link" rel="noopener noreferrer nofollow" target="_blank">Ephemera</a></strong></h5>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Maps" src="/images/other-formats/maps-main.jpg">
-</div>
-<h5><strong><a href="/other-formats/maps/" class="project-link" rel="noopener noreferrer nofollow" target="_blank">Maps</a></strong></h5>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Newspapers" src="/images/other-formats/newspapers-main.jpg">
-</div>
-<h5><strong><a href="/other-formats/newspapers/" class="project-link" rel="noopener noreferrer nofollow" target="_blank">Newspapers</a></strong></h5>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Photographs" src="/images/other-formats/pictures-main.jpg">
-</div>
-<h5><strong><a href="/other-formats/photographs/" class="project-link" rel="noopener noreferrer nofollow" target="_blank">Photographs</a></strong></h5>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Posters" src="/images/other-formats/posters-main.jpg">
-</div>
-<h5><strong><a href="/other-formats/posters/" class="project-link" rel="noopener noreferrer nofollow" target="_blank">Posters</a></strong></h5>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Archived Websites" src="/images/other-formats/archivedwebsites-main.png">
-</div>
-<h5><strong><a href="/other-formats/archived-websites/" class="project-link" rel="noopener noreferrer nofollow" target="_blank">Archived Websites</a></strong></h5>
 <p></p>
 <p></p>
