@@ -13,6 +13,32 @@ variant: tiptap
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
+<summary><strong>Family History</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><a href="/guides/singapore/history/family-history-resources/" rel="noopener noreferrer nofollow" target="_blank">Family History Resources</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="/guides/singapore/history/chinese-genealogy-resources/" rel="noopener noreferrer nofollow" target="_blank">Chinese Genealogy Resources</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="/guides/singapore/history/malay-genealogy-resources" rel="noopener noreferrer nofollow" target="_blank">Malay Genealogy Resources</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="/guides/singapore/history/eurasians-resources-tracing-family-history/" rel="noopener noreferrer nofollow" target="_blank">Eurasians: resources on tracing family history</a></strong>
+</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
 <summary><strong>Colonial Era</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -39,12 +65,20 @@ variant: tiptap
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Modern Singapore</strong>
+<summary><strong>Contemporary Singapore</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
 <p><strong><a href="/guides/singapore/history/cpm-biblio/" rel="noopener noreferrer nofollow" target="_blank">Communist Party of Malaya - A Comprehensive Bibliography</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="/guides/singapore/history/50-years-of-singapore-chinese-periodicals-1940-to-1980/" class="" rel="noopener noreferrer nofollow" target="_blank">50 Years of Singapore Chinese Periodicals 1940 to 1980</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="/guides/singapore/history/select-chinese-resources-on-singapore/" class="is-active" rel="noopener noreferrer nofollow" target="_blank">Select Chinese resources on Singapore</a></strong>
 </p>
 </li>
 <li>
