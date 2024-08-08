@@ -39,14 +39,22 @@ the LKCRL.</p>
 <p>For items from <strong>Lee Kong Chian Reference Library</strong>, please
 refer to the <strong>Section/Shelf Location</strong> within the catalogue
 entry:</p>
-<p>Items listed under <u>Reference, Reference Art, Reference Business, Reference Singapore,<br>Reference Southeast Asia, Reference China Resource, Reference Chinese Overseas</u>
-</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Items listed under <strong><u>Reference, Reference Art, Reference Business, Reference Singapore,Reference Southeast Asia, Reference China Resource, Reference Chinese Overseas</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p>These items should be available in the <strong>open shelves</strong>. Please
 head to the respective level (levels 7, 8, 9 or 11) and look for the corresponding
 shelf numbers and shelf sections.</p>
 <p>Items are shelved according to their call numbers.</p>
-<p>Items listed under <u>Reference Closed Access, Reference Donor...</u>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Items listed under <strong><u>Reference Closed Access, Reference Donor...</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>These items are in our Closed Stacks and are not found on the open shelves.
 You can make an online reservation to access these materials, or request
 for them in-person at the Level 11 Information Counter (10am - 7pm).
@@ -64,8 +72,12 @@ our staff. This typically takes 20 minutes, but may require more time,
 depending on complexity of the request. You can view the items in the library
 until closing time the same day. Please return the items to the counter
 when you are done.</p>
-<p>Items listed under <u>Reference Rare</u>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Items listed under <strong><u>Reference Rare</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>These rare items often hold heritage value and are not available for reference
 without written permission. Due to preservation considerations, the rare
 materials are kept in a controlled environment at the National Library.
@@ -88,6 +100,11 @@ Rare Collection must be submitted. A detailed explanation for the purpose
 of research and explanation for the necessity to access the physical item
 is compulsory. Please click <a href="https://form.gov.sg/611c69af928b860012c23309" rel="noopener noreferrer nofollow" target="_blank">here</a> to access the
 request form.</p>
+</div>
+</details>
+</div>
+<p><u><br></u>
+</p>
 <h2>Items in the Repository Used Book Collection or PublicationSG</h2>
 <p>As these items are not physically stored in the LKCRL, <strong>a reservation must be made in order to access these materials.</strong>[^1]
 Items will take at least 3-5 working days to arrive in the library. Items
@@ -111,7 +128,7 @@ retrieved for on-site consultation if there are no other loan or reference
 copies available in NLB's catalogue. You may find out more <a href="https://www.nlb.gov.sg/main/services/Reference-and-Research-Services/PublicationSG" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>PublicationSG items can be reserved using <a href="https://go.gov.sg/nlb-pubsg-form" rel="noopener noreferrer nofollow" target="_blank">this form</a>{:target="_blank"}.</p>
+<p>PublicationSG items can be reserved using <a href="https://go.gov.sg/nlb-pubsg-form" rel="noopener noreferrer nofollow" target="_blank">this form</a>.</p>
 </li>
 </ul>
 <h2>For further assistance</h2>
