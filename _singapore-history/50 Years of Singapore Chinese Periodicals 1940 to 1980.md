@@ -30,10 +30,9 @@ description: ""
 <br>当我们着手整理和出版这本书时，就面对了期刊收存不齐的问题，让我们感到惭愧和遗憾。&nbsp;
 <br>&nbsp;
 <br>在机缘巧合之下，我馆和海南会馆读书会都有共同意愿，要即时把这份工作做起来，为我们国家保存更完整的文献资料。我们于2007年10月间联手举办了为期一个月的“新加坡华文期刊50年”展。这个展出得到多位私藏家的大力支持,
-或惠借或捐赠，期刊展深受好评。&nbsp;
-<br>&nbsp;
-<br><strong>说明&nbsp;</strong>
-</p>
+或惠借或捐赠，期刊展深受好评。</p>
+<h4> <br>&nbsp; <br><strong>说明&nbsp;</strong></h4>
+<p></p>
 <p><strong>1. 主要资料来源：</strong>&nbsp;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 馆藏期刊&nbsp;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 新加坡国立大学中文图书馆&nbsp;</p>
@@ -51,9 +50,10 @@ description: ""
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 林琼。林琼《存稿簿》（共29册，林琼私人珍藏，收录作者于1948-2007年间所发表的文稿）。&nbsp;</p>
 <p>3. 本书目所收录的期刊资料共281条，期刊分类表以出版日期先后为序，不包括学校出版的期刊。资料上限为20世纪40年代，下限为80年代。&nbsp;</p>
 <p>4.本馆所藏期刊有欠缺，恳请热心人士有收藏者，愿意割爱，捐献我馆或借我馆影印，感激不尽。馆藏期刊，将开放予学者专家或有研究兴趣者。有关本馆所藏期刊的详细及最新资料，请查询本馆网上目录 <strong><a rel="noopener noreferrer nofollow" target="_blank">http://catalogue.nlb.gov.sg</a></strong>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>新加坡华文期刊50年&nbsp;</strong>
 </p>
+<p></p>
 <p><strong>总介</strong>&nbsp;</p>
 <p><strong>作者：韩山元</strong>&nbsp;</p>
 <p>从上世纪40年代到80年代，是个不平凡的大时代，新加坡社会经历了一波又一波的巨变，人民也经历了一轮又一轮的考验。从英国统治到日本统治，再回到英国统治，然后是争取独立，内部自治，加入马来西亚，最后又退出马国成立独立的共和国。&nbsp;
