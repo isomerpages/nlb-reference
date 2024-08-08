@@ -681,7 +681,8 @@ Call Number:
 <p>本书记述日军进攻马来亚和新加坡的经过，配以多幅插图作介绍，把马来亚之战真实地呈现给读者。此外，作者也对马来亚战败的原因做出分析。书末附日方发表〈马来亚作战日记〉和〈日方发表马来作战战果〉两篇。</p>
 <p>&nbsp;</p>
 
-<p>真相—新马二战沦陷揭秘 by （英）彼得·埃尔菲克（Peter Elphick)</p>
+**真相—新马二战沦陷揭秘 by （英）彼得·埃尔菲克（Peter Elphick)**
+
 <p>Call Number: RSING 940.5425 ELP-[WAR]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12825399</a>
 </p>
@@ -690,9 +691,8 @@ Call Number:
 <p>本书是二战历史著作的华文节译本。原著是《Singapore: The Pregnable Fortress》；作者在精心研究了大量英国和澳洲官方和私人资料，尤其是通过查找1990年后才解禁的许多英国重要档案之后，突破英、澳两国有关马来西亚战役的官方史的局限，第一次向人揭示了新马沦陷三年零八个月的历史真相。有关本书的优点，新加坡国立大学副教授、军事史专家雷恩·P·法雷尔博士说：作者不是告诉读者日军如何攻占新加坡，而是告诉他们“盟国是如何失去新加坡”。—摘录原书封底的介绍。
 读者不容错过〈译者的话〉和〈作者的话〉，对读本书会有所启示的。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>昭南时代—新加坡沦陷三年零八个月展览图集 by 毕观华、林源福、王丽萍</p>
+
+<b>昭南时代—新加坡沦陷三年零八个月展览图集 by 毕观华、林源福、王丽萍</b>
 <p>Call Number: RSING 959.5703 ZNS-[HIS]&nbsp;</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12767706</a>
 </p>
@@ -700,9 +700,8 @@ Call Number:
 <p>&nbsp;</p>
 <p>新加坡国家档案馆是在昭南福特车厂纪念馆“昭南时代—新加坡沦陷三年零八个月”永久性展览开幕后，出版这本展览图集。除了刊载有关展览的图像和文稿外，也包罗了展览厅因为面积小而容纳不下的珍贵资料。—摘写自新加坡国家文物局总裁杨淑萍的序文。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>日治时期1942-1945：从图片忆战时的新加坡 by 陈鸣鸾，林爱玲</p>
+
+<b>日治时期1942-1945：从图片忆战时的新加坡 by 陈鸣鸾，林爱玲</b>
 <p>Call Number: RSING 940.5425 CML-[WAR]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84514514</a>
 </p>
@@ -710,17 +709,16 @@ Call Number:
 <p>&nbsp;</p>
 <p>本书收录许多日治时期的照片和访谈记录，让读者了解新加坡人民在日军统治下所经历的苦难。书中的照片都附上文字说明，让读者对那段历史有更好的了解。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>昭南时代史话 by 邱新民</p>
-<p>Call Number: RSING 959.57023 QXM-[HIS]</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84446899</a>
+<b>昭南时代史话 by 邱新民<p></p>
+</b><p><b>Call Number: RSING 959.57023 QXM-[HIS]</b>
+</p><p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84446899</a>
 </p>
 <p>出版: 新加坡·青年书局，1990</p>
 <p>&nbsp;</p>
 <p>本书以日本统治新加坡时期为背景，描述当时新加坡人民的生活。书中附上多幅图片，并加上文字说明，让读者对那个时代的人民生活有更好的认识。作者也收录刘抗的杂碎（漫画）和浩劫余生写的昭南纪事诗，让读者更了解日军在昭南时代对华人所犯下的暴行。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>昭南历劫记 by 罗汉松</p>
+
+<b>昭南历劫记 by 罗汉松</b>
 <p>Call Number: RCLOS 959.57023 LHS&nbsp;</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84522465</a>
 </p>
@@ -728,7 +726,7 @@ Call Number:
 <p>&nbsp;</p>
 <p>本书记述了一些在昭南时代劫后余生者的回忆片断，有助读者了解新加坡沦陷时期市井小民的生活面貌。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>三年八个月 by 杜晖（郑文辉）</p>
 <p>Call Number: RSING 959.575023 CWH-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84499940</a>
@@ -737,7 +735,7 @@ Call Number:
 <p>&nbsp;</p>
 <p>本书叙述日军南侵的背景，战争进行的情形及当时大检证屠杀的实况。日治时期的人民生活、社会、经济、文化等的概况与演变；写出了日军占领时期的血泪史，是两地数百万人民在铁蹄枪尖利刀下的惨痛生活实录。（节录自封底）</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>新加坡沦陷三年半 by 篠崎护著，陈加昌译</p>
 <p>Call Number: RSING 959.5702 SHI-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84518012</a>
@@ -755,8 +753,7 @@ Call Number:
 <p>&nbsp;</p>
 <p>本书记述自新加坡沦陷至日军投降的那段历史，书末也描述了日本战败后对战犯的军事审判。</p>
 <p>&nbsp;</p>
-<p>　</p>
-<p>&nbsp;</p>
+
 <p>星洲屠城录—华侨异乡漂泊纪实 by 黄浪华</p>
 <p>Call Number: RSING 959.57004951 HLH-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84533665</a>
@@ -769,8 +766,8 @@ Call Number:
 <p>&nbsp;</p>
 <p>3. 本书是参考了一些资料来创作的。请参阅‘本书写作主要资料来源’和〈跋〉。&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;惨痛的回忆 by 司马春英编绘</p>
+
+<p>惨痛的回忆 by 司马春英编绘</p>
 <p>Call Number: RSING 741.595957 SMCY&nbsp;</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84554393</a>
 </p>
@@ -778,8 +775,7 @@ Call Number:
 <p>&nbsp;</p>
 <p>以漫画描述日军沦陷新加坡时之惨痛回忆，一页一画，各有说明，共计三十二幅。 本书是一本图文并茂的画集，书中收录多幅描绘日军占领新加坡时所犯下的残暴罪行的漫画，读者可从中了解新加坡人民在沦陷时期所承受的苦痛和凌辱。&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>杂碎画集：马来居民受创之实录，日军占领期间之缩影 by 刘抗绘</p>
 <p>Call Number: RSING 940.53595 LK-[WAR]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84536634</a>
@@ -788,8 +784,8 @@ Call Number:
 <p>&nbsp;</p>
 <p>本书乃是根据刘抗先生于1946年出版的中英文版本同名画集和1990年的日文版本重新编辑而成的中英合订本画集。书中收录36幅图画，并附上中英文说明，描绘了日军占领马来亚时期的种种暴行，作为无辜受害人民的伤痛记忆。&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;沦陷岁月 by 区如柏</p>
+
+<p>沦陷岁月 by 区如柏</p>
 <p>Call Number: RSING 959.57023 ORB-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84520228</a>
 </p>
@@ -797,8 +793,7 @@ Call Number:
 <p>&nbsp;</p>
 <p>本书收录了23篇新加坡沦陷前后所发生的真人真事记录，见证了新加坡人民在三年八个月那段沦陷岁月时所经历的集体悲惨记忆。作者通过访问有关人士所取得的第一手资料，写下了一些少为人知的真实故事，让读者对那段沦陷岁月有更多的了解。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>烽火岁月 by 区如柏</p>
 <p>Call Number: RSING 959.57023 ORB-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84458740</a>
@@ -807,7 +802,7 @@ Call Number:
 <p>&nbsp;</p>
 <p>本书按内容可分三部分：第一部分是“烽火岁月”，收录了６篇日治时期的真人真事；第二部分是“报章报人”，收集了一些老报人回顾的沦陷岁月，也介绍了亚洲最大的图书馆－北京图书馆及其收藏的新马华文报；第三部分是“虎豹家族的故事”，主要叙述胡文虎办报的历史、虎豹别墅的建设以及其他家族的故事。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>峥嵘岁月（一）（二） by 区如柏</p>
 <p>Call Number: 第一册：RSEA 959.5703 ORB-[HIS]，第二册：RSING 959.5703 ORB-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12878816</a>
@@ -818,7 +813,7 @@ Call Number:
 <p>第二册: <a rel="noopener noreferrer nofollow" target="_blank">https://www.nlb.gov.sg/main/book-detail?cmsuuid=acd4b1a1-3cee-4eb5-a884-7334720e2336</a>
 </p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>1. 本书作者服务报界多年，专职采访各界与历史有关之研究，对于二战大时代，新马沦陷的悲惨岁月，殚精竭虑，搜集抗日事迹，寻访东南亚战区的见证者，而不遗余力，并以精辟严谨，坦诚评判，为历史揭开真面目。—摘自陈崇智〈序一〉。</p>
 <p>&nbsp;</p>
 <p>2. 本书第一册包括三部分：㈠豪情壮志篇、㈡南侨机工抗日血泪篇、㈢新马抗日篇本书第二册包括四部分：㈣暴行见证篇、㈤大时代的报人、㈥偷运树胶篇、㈦蔡公时烈士篇</p>
@@ -833,8 +828,7 @@ Call Number:
 <p>&nbsp;</p>
 <p>本书以日军统治下的华人乡村为研究对象，探讨我国人民在日本占领新加坡时期的生活情况。书中从政治、经济、社会各方面描绘日军对华族的统治，并对日军的统治进行了分析。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>劫后回忆录 by 洪锦棠</p>
 <p>Call Number: RCLOS 959.57023 hct</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84486113</a>
@@ -855,7 +849,7 @@ Call Number:
 <p>2. 本书主要栏目有：新加坡四排坡监狱D号—日本军事监狱内的惨绝人寰的暴行（共收11篇文章）/浩气永存的抗日英雄们（共收诗文30篇）/日本法西斯统治下新加坡、吉隆坡、太平监狱里的实况（共收诗文10篇）/有关《血碑》的人和事（诗文5篇、初版编后记/重印后记—摘录）。附：收录5篇
 -- 日占时期被捕入狱的抗日志士部分名单/《揭叛歌》仿孟姜女调/星华文化界青年部训练班班歌/附录珍贵照片/《血碑》增补本编后记。&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>艰难的行程 by 邱新民</p>
 <p>Call Number: RSING 959.57 QXM-[HIS]&nbsp;</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84498807</a>
@@ -875,8 +869,7 @@ Call Number:
 <p>&nbsp;</p>
 <p>2. 主编在〈导言〉中说：本书终于付梓出版了，它凝聚了孙建成先生、柯冰蓉女士和众多投诉人以及关心支持这一工作人们的心血，我们期望此书的出版能给人类提供更多反省的素材，为呼唤人类和平提供更广阔的思考空间。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>大战与南侨：马来亚之部 by 南洋华侨筹赈祖国难民总会</p>
 <p>Call Number: RCLOS 959.51034 NYH&nbsp;</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84540932</a>
@@ -885,8 +878,7 @@ Call Number:
 <p>&nbsp;</p>
 <p>本书收录多篇南洋各地华侨撰写的文章，为大战时期南洋各地华侨的活动和遭遇作出真实的反映。第二篇集中叙述新加坡侨民在大战期间的活动，其中对沦陷时期的大检证有不少记录。第二篇内容包括：星洲华侨抗敌动员总会记略/星洲沦陷前的星华义勇军/星华义勇军总部报告抗敌经过/关于大检举/新嘉坡沦陷期间回忆记/新加坡军港工人地狱生活回忆录/浮罗泽光沦陷期间回忆录。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>我与一三六部队 by 陈崇智</p>
 <p>Call Number: RSING 940.548641092 CCZ-[WAR]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84556881</a>
@@ -908,8 +900,7 @@ Call Number:
 <p>&nbsp;</p>
 <p>本书以漫画反映林谋盛的英雄事迹，绘画者是周益民。 林谋盛是闻名新加坡和马来西亚（旧称马来亚）的大企业家。第二次世界大战爆发后，他忍痛离开家人，不惜一切代价献身于抗日活动，最终为争取和平而壮烈牺牲。林谋盛在被捕期间，承受了无尽的折磨与凌辱。然而，即使在最恶劣的环境下，他也毫不退缩。凭着一股宁死不屈的精神，顽强地与敌人对抗到底。林烈士那坚贞不屈，矢志不渝，为正义牺牲而无怨无悔的精神，使他的英名流芳百世。—见书封底介绍。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>一个新加坡少女的战争日记 by 司徒醒铃</p>
 <p>Call Number: RSING 959.5703 STX-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12716621</a>
@@ -918,8 +909,7 @@ Call Number:
 <p>&nbsp;</p>
 <p>日治时期，来自广州的资深教师吕萌荃先生，寄居于作者司徒醒铃的家，并当上了她的华文老师。在老师鼓励之下，她写日记，记录了一段叫人毕生难忘的烽火岁月。这本日记就是她在14岁至17岁之间写下的。为了让子孙及年少的一辈分享她的祖国沦陷经历，对日记进行文学加工，出版成这本书。书中日记是根据主题归类，按日期排序，使年轻读者对新加坡沦陷时期的生活状况如粮食短缺，交通系统及市况有更好的了解。—摘写自原书《关于本书》。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>日治时期的童年生活 by 李金龙</p>
 <p>Call Number: Y R SING 959.5703 LJL&nbsp;</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12105682出版</a>:
@@ -929,8 +919,7 @@ Call Number:
 <p>&nbsp;</p>
 <p>2. 书中附有两张日治时期“香蕉票”复制品。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>南侨机工有唱不完的悲歌 by 锺锡金</p>
 <p>Call Number: RSEA 951.081 ZXJ</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12337363</a>
@@ -939,8 +928,7 @@ Call Number:
 <p>&nbsp;</p>
 <p>本书主要是歌颂南侨机工的伟大献身，为抗日担负起运输军需的任务，不怕牺牲。战后，有的复员回到南洋，有的留在中国。这一段史事，似乎被人淡忘了。于是，著者才会慨叹“南侨机工有唱不完的悲歌”，藉此唤起人们的记忆。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>华侨与抗日战争论文集（上下两册） by 台北·华侨协会总会</p>
 <p>Call Number: RSEA 951.081 HQY</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10416598</a>
@@ -949,7 +937,7 @@ Call Number:
 <p>&nbsp;</p>
 <p>本文集共收文章五十五篇，以记述各地区华侨参与抗战的史实与贡献为多。有关新、马部分：苏云峰：星马华人在抗日战争中的牺牲与奉献/杨庆南：星马华侨与抗日战争/秦钦峙：南侨机工与抗日战争/姚锡琛：抗日战争中南侨机工对畅通国际通道滇缅公路的贡献/甄炳华：南侨总会与华侨社会的分合隆替/黄乾：新加坡华侨林谋盛与抗日战争/郁美兰：郁达夫在星加坡及印尼抗日工作纪略。&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>海峡两岸“华侨与抗日战争”学术研讨会文集 by 黄小坚</p>
 <p>Call Number: RSEA q951.081 HXL&nbsp;</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12639911</a>
@@ -958,7 +946,7 @@ Call Number:
 <p>&nbsp;</p>
 <p>有关新、马部分：廖小健：马来亚日本军政府的种族政策及其影响/张应龙：论新马华侨抗日活动的历史地位/甄炳华：南侨总会与华侨社会的分合隆替/姚锡琛：抗日战争中南侨机工对畅通国际通道滇缅路的贡献/黄乾：新加坡华侨林谋盛与抗日战争/郁美兰：作家郁达夫在新加坡及印尼抗日纪略。&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>日本占领时期死难人民纪念碑徵信录 by 许统泽</p>
 <p>Call Number: RCLOS 725.94 CHI&nbsp;</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84493653</a>
@@ -967,6 +955,7 @@ Call Number:
 <p>&nbsp;</p>
 <p>本书收录与筹建日本占领时期死难人民纪念碑有关的文字资料和图片，有助了解该纪念碑的筹建经过。</p>
 <p>&nbsp;</p>
+
 <p>精魂忠骨 永昭日月—日据时期殉难同胞追思活动（1995年-2001年纪念刊） by 本书编委会 吴志超主编</p>
 <p>Call Number: RSING 940.535951 JHZ-[WAR]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11903463</a>
@@ -975,7 +964,7 @@ Call Number:
 <p>&nbsp;</p>
 <p>顾名思义，本书是报导日据时期殉难同胞追思活动的情况。出版此刊的重点，黄汉良主席认为在于教育，提醒人民明了战争的恐怖及和平得来不易，应居安思危，小心警惕，引以为戒，维护和平，造福人群，并不是挑起新仇旧恨，更不是为了破坏马日两国的友谊，而是要从战争中吸取教训。黄良友顾问说：希望大家再接再厉并带动更多年轻一代参与（纪念活动）。让心怀不轨，顽固不灵的好战分子知道历史不容篡改，事实不能抹杀的大道理。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>和平的代价 by 冯仲汉</p>
 <p>Call Number: RSING 959.57023 HPD-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84446298</a>
@@ -984,9 +973,8 @@ Call Number:
 <p>&nbsp;</p>
 <p>本书是为纪念二战结束50年的和平岁月所出版的纪念刊物。书中收录24篇文章，讲述了日军占领新加坡期间，新加坡人民为保卫和平献出生命与鲜血的经过。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp; 和平的代价评论集：大专及中学生作品精选 by 新加坡中华总商会编</p>
+
+<p>和平的代价评论集：大专及中学生作品精选 by 新加坡中华总商会编</p>
 <p>Call Number: RSING C814.3 PRI&nbsp;</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84460236</a>
 </p>
@@ -994,8 +982,8 @@ Call Number:
 <p>&nbsp;</p>
 <p>新加坡中华总商会在1996年举行了一项征文活动，收集我国大专及中学生阅读该会所编的《和平的代价》（见上）一书后的感想或心得。本书收录二十余篇优秀学生作品，另外也把无法收录书中的一些文章的名言隽语编成语录，收入书中。读者可通过此书了解年轻学子对过去那段历史的思考和体会。&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;昭南岛的故事 by 李过</p>
+
+<p>昭南岛的故事 by 李过</p>
 <p>Call Number: RSING C813.4 LG</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12821947</a>
 </p>
@@ -1003,8 +991,7 @@ Call Number:
 <p>&nbsp;</p>
 <p>本书主要反映日军侵占新加坡（后称昭南岛）前后的“故事”，从中可以了解当时人民生活在恐怖环境的情况。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>奉纳金资料选编 by 李业霖主编</p>
 <p>Call Number: RSEA 959.5703 FNJ-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12925660</a>
@@ -1017,9 +1004,9 @@ Call Number:
 <p>&nbsp;</p>
 <p>3. 铁证如山，历史是涂改不了的。读者读后，必能触动不少感悟的。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<h3><strong>地区·街名·地名·其他</strong></h3>
-<p>&nbsp;</p>
+
+### **地区, 街名, 地名, 其他**
+
 <p>新加坡街名地名人物故事 by 冯仲汉</p>
 <p>Call Number: Y R SING 959.570099 STR</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12555550</a>
@@ -1078,8 +1065,7 @@ Call Number:
 <p>本书是南洋大学历史系东南亚华人史村史调查计划中的其中一项调查报告（抄印本）。</p>
 <p>书中从历史、地理的角度简单介绍了波东巴西村，也对波东巴西村村民的背景和他们从中国南来的原因、过程进行了分析。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>大城市旁边的小乡村：波东巴西村史调查报告 by 南洋大学历史系</p>
 <p>Call Number: R CLOS 959.57 NAN</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84568717</a>
@@ -1089,7 +1075,7 @@ Call Number:
 <p>本书是南洋大学历史系新加坡华人史村史调查计划中的其中一项调查报告（抄印本）。</p>
 <p>书中从地理、经济、社会、文教方面对波东巴西村进行了调查研究，也分析了该村各民族与华族各帮派之间的良好关系。著者也在书的结论中分析了城市对波东巴西村的正面与负面影响及这两者之间的关系。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>蔡厝港东成村村史调查 by 南洋大学历史系</p>
 <p>Call Number: R CLOS 959.57 NAN</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84551863</a>
@@ -1098,7 +1084,7 @@ Call Number:
 <p>&nbsp;</p>
 <p>本书是南洋大学历史系东南亚华人史村史调查计划中的其中一项调查报告 （抄印本）。 书中从历史、地理的角度简单介绍了位于蔡厝港的东成村，也简述了东成村在经济、政治、文化与人口方面的发展。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>蔡厝港：从乡村到新镇 by 林顺福，陈昭连，陈顺和</p>
 <p>Call Number: R SING 959.57 CCK-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84571209</a>
@@ -1107,7 +1093,7 @@ Call Number:
 <p>&nbsp;</p>
 <p>本书通过文字和图片概述蔡厝港区的变迁与发展。书中介绍了一些与蔡厝港发展有关的先驱人物，如林推迁、梁后宙、林文泉等人。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>义顺区兴利芭 by 南洋大学历史系</p>
 <p>Call Number: R CLOS 959.57 NAN</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84551731</a>
@@ -1118,8 +1104,7 @@ Call Number:
 <p>本书是南洋大学历史系东南亚华人史村史调查计划中的其中一项调查报告。兴利芭是福建南安县人组成的社区，本书对该社区的背景、宗教信仰、教育与经济情况作了概述。书中也从政治、经济、社会与文化四方面描绘了日治时期的兴利芭
 （抄印本）。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>传统延伸落地不生根：兴利芭潘家族历史调查报告初稿 by 南洋大学历史系</p>
 <p>Call Number: R CLOS 959.57 NAN</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84552065</a>
@@ -1137,7 +1122,7 @@ Call Number:
 <p>&nbsp;</p>
 <p>本书通过生动的图片和文字说明了十九世纪中叶以来义顺区的发展，也反映了先辈拓荒的伟大精神。书中的图片和文字记录了义顺区一百多年来的社会和经济变迁、教育发展、先驱人物、乡村生活面貌、民俗、公共建设、体育活动以及新镇的形成。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>潘家村史 by 林孝胜</p>
 <p>Call Number: R SING 307.762095957 HIS&nbsp;</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84481639</a>
@@ -1146,7 +1131,7 @@ Call Number:
 <p>&nbsp;</p>
 <p>本书让我们具体的看到华南乡村以血缘纽带为基础的社会和经济结构以及文化传统被移植到新加坡来，又如何随时空的变更而加以调整，以适应新环境。本书收集了口述历史、历史调查和文献资料，让资料本身把潘家村百年来的沧桑描绘出来，使潘家族人开拓兴利芭的史实，永留史册。（摘录自封面）</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>一个典型的帮派社会，两个特出的三结缘体：绝后岛华族村史调查报告 by 南洋大学历史系 东南亚华人史调查小组</p>
 <p>Call Number: R CLOS 959.57 NAN</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84568782</a>&nbsp;</p>
@@ -1156,7 +1141,7 @@ Call Number:
 <p>1. “三结缘体”指的是由“地缘”、“血缘”和“业缘”关系而组成的小群体。绝后岛上的华族社会有两个特出的“三结缘体”，即杨家三结缘体和王家三结缘体。本书集中探讨这两个“三结缘体”的形成、发展和它们的对外关系
 （抄印本）。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>义顺社区发展史 by 编委会 林孝胜, 林源福</p>
 <p>Call Number: R SING 959.57 DEV-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84459386</a>
@@ -1165,8 +1150,7 @@ Call Number:
 <p>&nbsp;</p>
 <p>义顺区的发展，改变了旧有的容貌，通过本书各方面的介绍，你将对它的历史有一番新的认识；这本书的出版，是当时唯一有关义顺区历史的书，弥足珍贵。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>牛车水史料文物展 by 牛车水史料文物展工委会</p>
 <p>Call Number: R SING 307.095957 NCS&nbsp;</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84556420</a>
@@ -1175,7 +1159,7 @@ Call Number:
 <p>&nbsp;</p>
 <p>这是配合1986年牛车水史料文物展出版的一本纪念刊物，记录该展览所展出的史料和文物内容。书中介绍了反映牛车水历史发展及基层组织的史料和与牛车水有关的艺术创作。&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>牛车水—颜容与心声 by 柯宗元 李丁金</p>
 <p>Call Number: R CO 959.57 NCS-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84544177</a>
@@ -1184,7 +1168,7 @@ Call Number:
 <p>&nbsp;</p>
 <p>本书是图文并茂介绍牛车水的过去和现在发展的概况，诚如牛车水选区国会议员胡赐道博士所说，它记录了牛车水几方面的实况，也反映了文化给牛车水的历史建筑物增添生气。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>说吧！牛车水 by 许永顺</p>
 <p>Call Number: R SING 959.57 XYS-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11083307</a>
@@ -1194,7 +1178,7 @@ Call Number:
 <p>作者认为牛车水和Chinatown是两个地区范围的名称。牛车水大多住了广东人。牛车水原本是指今日珍珠坊对面那几条街道邻近地带。老一辈华人把新加坡河岸西南地区称为“大坡”，指的就是Chinatown，不妨把它译成“大坡牛车水”或“大坡华人区”。（官方所称的Kreta
 Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作品，主要评说文化保留与地区发展诸问题，提出个人的看法和建议；也有抒发怀古思情的感人故事。&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>记得，大坡牛车水 by 许永顺</p>
 <p>Call Number: R SING 959.57 XYS-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11801042</a>
@@ -1203,7 +1187,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>据作者〈序〉文说：全书分两个部分，第一部分是《大坡街道华文名称探索》，内容集中谈论这个华人区的街道华文名称，还有官方街名中富有华人特色的街名。第二个部分是过去在报章上发表的有关街道历史的旧稿，而加以修删。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>寻访牛车水 by 许永顺</p>
 <p>Call Number: R SING 959.57 XYS-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12263166</a>
@@ -1220,6 +1204,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>据潘峇厘先生的〈序〉介绍：除了地方戏曲的演出活动，《又见牛车水》一书也简要记录过去四年（2000年至2003年），牛车水区的活动和事件，包括商业、文化艺术、基层组织和社团的活动，让读者对牛车水近年来的各方动向有更深一层的了解与认识。</p>
 <p>&nbsp;</p>
+
 <p>画说牛车水：寻根 by 叶文</p>
 <p>Call Number: R SING 959.57 YA-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12708441</a>
@@ -1229,6 +1214,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>作者根据牛车水的旧照片，以诗或文字介绍，说明照片的“故事”。</p>
 <p>&nbsp;2. 本书综述新加坡早期移民的社团组织的基础，他们如何互惠互助，以及他们的生活，及其在社会的处境，包括如何跟本地制度配合在一起。（摘自〈前言〉）。</p>
 <p>&nbsp;</p>
+
 <p>改变中的新加坡风貌：芽笼，牛车水，实笼岗 by 魏维贤</p>
 <p>Call Number: R SING 959.57 SIN-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84454048</a>
@@ -1238,7 +1224,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>本书内容是根据新加坡广播局电视纪录片改编而成的，书中介绍了代表新加坡三大民族文化的地区－芽笼、牛车水、实笼岗，让读者对这三个地区的发展和变迁有更好的了解。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>芳林今昔 by 王玉成</p>
 <p>Call Number: R SING 959.57 HON-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84462819</a>
@@ -1255,7 +1241,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>第四辑介绍该区民众联络所的组织和各项活动。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>石叻老街（根的系列之四） by 王振春</p>
 <p>Call Number: R CO 959.57 WZC-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84536262</a>
@@ -1272,7 +1258,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>本书每一篇经作者娓娓道来，如数家珍，或杂记风土人情，或考证史迹，也发议论。—摘自〈序一〉。&nbsp; 他所写的题材和内容，多数是来自实地采访或亲身经历，资料翔实，文笔浅白，叙事清楚，勾划历史侧面，意趣兼备。—摘自封底社南发语。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>从大坡到小坡—新加坡市区掌故 by 韩山元</p>
 <p>Call Number: R CO 959.57 HSY-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12327996</a>
@@ -1290,7 +1276,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>本书收录新加坡华文碑铭共一百十九件，分庙宇、会馆、公冢、宗祠、书院、医院、墓志铭附题赞、教会及纪念碑九类，每一类碑铭以年代顺序排列。碑铭研究对华侨史和华侨社会史的研究有很高的价值，是研究华侨史不可忽略的重要史料。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>新加坡的人口与人口问题 by 饶尚东</p>
 <p>Call Number: R CLOS 301.3295957 JST</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84488745</a>
@@ -1299,7 +1285,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>本书先从介绍发展中国家人口增长的特征开始，让读者对发展中国家所出现的一些人口问题有个基本的认识。进而提出新加坡的人口增长趋势，和其他发展中国家作一比较后更容易衬托出其特殊之处。末了一篇则根据最新的统计数字，分析了新加坡人口在东南亚诸国中所处的地位，以所取得的八个第一为重点，突出了新加坡在解决人口问题－人口增长问题上所获得的辉煌成就。（节录自本书“自序”）</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>新加坡十年电话卡回顾集 by 新加坡电信有限公司</p>
 <p>Call Number: R SING 769.5075 TEN</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7495959</a>
@@ -1308,7 +1294,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>本书收集了1985年至1994年间发行的551款全彩色的新加坡电话卡图片。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>新加坡中国留学生新生手册2004 by 祁巍</p>
 <p>Call Number: R SING 959.57 XJP-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12263423</a>
@@ -1318,8 +1304,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>这是创立于2000年初的华新网自己编写并筹款印刷发送给新生的《新生手册》，是非卖品。 华新网出版这本手册，是“真心希望，今年的新生们，能够通过这本手册，对前面的路有更直观详尽的认识与了解”。
 这本小册子，对于新生初抵新加坡是有较全面的基本认识。本册子所涵盖的生活面相当广，是本很有用的“小百科”。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>新加坡与苏州工业园区 by 苏简亚</p>
 <p>Call Number: R SING 959.57 XJP-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84460893</a>
@@ -1328,7 +1313,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>1. 王霞林在〈虚〉文中说：中新合作开发建设苏州工业园区，并借鉴运用新加坡经济发展和公共行政管理的经验，是中新两国关系发展史上的一件大事，也是我省对外开放的一件罕事。它将对我省乃至全国的现代化建设产生积极而深远的影响。出版这本书：成为我们广大读者及时了解和认识当今新加坡的一扇窗口。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>战前星华社会结构与领导层初探 by 杨进发</p>
 <p>Call Number: R SING 301.45195105957 YCF</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84474002</a>
@@ -1337,8 +1322,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>杨进发在〈自序〉一文谈到本书时说：“（本书）一共蒐集了凡十九篇有关此问题之文章。在此十九篇之作品中，绝大部分都曾登载于一九七六年星洲日报各期之〈文化〉版上。本书要旨着重于探讨战前星洲华族的社会结构（诸如社团、政党等等）与领导人物崛起与兴盛之相互关系。它亦讨论华族社会组织的控制，对陈嘉庚等人物领导星华社会与政治活动的重要性。”</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>新加坡市场经济借鉴与思考 by 李智勇、王焕田</p>
 <p>Call Number: R SING 959.57 XJP-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11097924</a>
@@ -1347,9 +1331,9 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>这是领导干部经济管理研究班学员论文选编。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<h3><strong>名胜古迹</strong></h3>
-<p>&nbsp;</p>
+
+### **名胜古迹**
+
 <p>新加坡名胜介绍 by 万捷（编）</p>
 <p>Call Number: R SING 959.57 XJP-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84542019</a>
@@ -1369,7 +1353,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 本书不是一本旅游报导，作者在运用轻松活泼的文句介绍优美的风景的同时，也穿插了许多富有教育意义的情节，使读者在阅读时，不仅看到优美的风景，也从生动的故事情节中，得到一定的启示。如在〈安息吧！战火下的英魂〉一章里，作者用忧伤的笔调，描写那些在战火下无辜牺牲的同胞，使读者在为他们掬一把同情之泪的同时，也体会到和平的可贵。
 本书是通过生活故事，介绍新加坡，让读者对新加坡有一定的认识。&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>圣淘沙—令人流连忘返的小岛 by 智力出版社编辑部编著</p>
 <p>Call Number: R SING 915.95704 STS</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84553513</a>
@@ -1378,8 +1362,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>圣淘沙（Sentosa），原是一个渔村，称为绝后岛（Pulau Blakang Mati)。1968年，政府将之发展为度假胜地。本书详细介绍了岛上各种景点、设备等等，图文并茂。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>新加坡风光 by 洪生</p>
 <p>Call Number: R SING959.5704 HS–[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84555278</a>
@@ -1388,7 +1371,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>本书为教育部主办1973-74年儿童读物征文比赛书本组入选奖作品。 征文比赛的目的是为了配合我国的两种语文政策，鼓励学童课余时间多阅读健谈书本和提高学童的华文水平。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>石叻古迹 by 林孝胜等</p>
 <p>Call Number: R SING 959.57 SLK-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84499135</a>
@@ -1397,8 +1380,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>本书收集25篇有关新加坡华族历史古迹的文章，从这些古迹的建筑风貌、周遭环境及内部所保存的文物分析它们在某个特定历史阶段所扮演的角色。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>新加坡古迹 by 陈汉荣</p>
 <p>Call Number: R SING 959.57 CYY-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84530636</a>
@@ -1407,7 +1389,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>作者有感于政府大力推行市区重建计划下，将有不少历史性的建筑物会被拆除，于是，和友人按图索骥，参观各处的古迹，在1975年11月至1977年1月，“新加坡古迹”共五十篇先后在《南洋商报》的〈商余版〉发表。结集时，并请友人翻译成英语，以双语出版。（附地理简图）。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>非常独特“新加坡”—一颗闪耀之星 by 潘年贵</p>
 <p>Call Number: R SING 959.57 PNG-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12892892</a>
@@ -1418,7 +1400,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>2. 作者是依照新加坡旅游局推出的旅游景点，依历史背景将人、事、物，作较完整和可靠的介绍（新加坡）。—见〈前言〉</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>名胜古迹 by 吴彦鸿</p>
 <p>Call Number: R SING 959.57 WYH-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12892082</a>
@@ -1427,8 +1409,9 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>本书是“新加坡风土志”之二。 许福吉博士在〈序〉文中指出：新加坡在风雨飘摇中，不断创造了她的丰富多彩的多元文化，也在时代的琴弦搏动与变奏中，塑造了一种形象、信念与坚强。又说：我们从这些具有文化属性的百年古刹、庙宇、禅寺、公园、山丘、水池、别墅、名园、酒店，看到了汇聚成历史与文化的重要元素，这种风土、民俗、神话、传说、文学与文化，从口述历史到文字记载，流传下来。再进一步说：生活在这个城市里，我们希望更多人通过此书的阅读去认识新加坡，希望这本书，除了能让新加坡本土读者回忆与记忆之外，也祈望它能让世界各地的读者激发思绪，从风土文化的角度，去透视新加坡的历史与社会风貌。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<h3><strong>广角下的新加坡</strong></h3>
+
+### **广角下的新加坡**
+
 <p>&nbsp;</p>
 <p>新加坡的廉政建设 by 刘国雄</p>
 <p>Call Number: R SING 354.5957 LGX</p>
@@ -1438,9 +1421,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>本书从制度、体制、法律、文化等诸多方面介绍了新加坡廉政建设的具体做法和取得的成就，阐述了廉政建设对新加坡经济发展所起的巨大作用。为我国（编者按：中国）在廉政建设方面提供一定的借鉴和启迪。（摘录自书中内容简介）</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>新加坡的人力资源管理 by 鲁之玉，常毓盛等</p>
 <p>Call Number: R SING 658.30095957 XJP&nbsp;</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84460572</a>
@@ -1449,7 +1430,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>1. 本书介绍了新加坡人力资源管理的观念和方法，对于人事部门更新人才观念，充分认识人力资源管理的重要性：重视人才，把考核工作中的“量才”、“评估”放到比较突出的位置；重视教育，加强职工培训，造就人才，提高企业的素质方面具有普通的意义。并在书后附有21个讲话、讲论和总结文章，对学习、借鉴新加坡的人才资源管理，具有重要的参考价值。（摘自〈内容提要〉）。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>亚洲的小巨人：新加坡为什么自豪？ by 天下杂志编辑</p>
 <p>Call Number: R SING 959.57 YZD-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84513614</a>
@@ -1458,7 +1439,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>1. 本书是台湾《天下》杂志越洋采访队伍经过七天在新加坡的密集采访之后的集结报道。这支采访队伍不但采访各部会首长，也访问了不少新加坡市井小民，希望从不同角度探讨新加坡成功的原因、发掘促使新加坡进步的动力、了解支持新加坡成长的精神与制度。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>今日新加坡 by 张格民，高志罡主编</p>
 <p>Call Number: R SING 959.57 JRX-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84460631</a>
@@ -1467,6 +1448,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>1. 本书是一本比较全面介绍新加坡和苏州工业园区的普及性读物。作者从不同角度来论析各个有关的课题，让读者对新加坡和苏州工业园有更好和更广泛的了解。</p>
 <p>&nbsp;</p>
+
 <p>新加坡学 by 洪镰德</p>
 <p>Call Number: R SING 959.57 HLD-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84523593</a>
@@ -1475,7 +1457,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>1. 本书作者对新加坡的种族、政治、国家认同、外交、福利政策、民主与人权等问题加以剖析叙述，俾使读者对新加坡有更进一步的了解。（节录自封底）</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>新加坡见闻录 by 吴晓民</p>
 <p>Call Number: R SING 959.57 WXM-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84524057</a>
@@ -1484,7 +1466,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>本书收集了三十余篇短文，记录了作者在新加坡短暂生活时的所见所闻。作者在新加坡期间广泛接触了新加坡的各个层面，文章内容多以民生问题为主，可让读者更好地了解新加坡人民的生活。&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>&nbsp;新加坡纪行 by 李辉英</p>
 <p>Call Number: R CLOS 959.51 LHY-[HYT]&nbsp;</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84559539</a>
@@ -1495,8 +1477,8 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>2. 本书目次：从开船到晚餐/甲板上迎日出/生活历/陆地的边缘/日出/晚餐和抵步/初步的印象/夜景的领略/从吃说起/关于衣服/住和行/博物院/植物园/郎迎和班顿/后记。&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;南洋人 by 徐宗懋</p>
+
+<p>南洋人 by 徐宗懋</p>
 <p>Call Number: R SING 959 XZM&nbsp;</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84565112</a>
 </p>
@@ -1504,6 +1486,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>1. 东南亚各国和台湾的政治经济发展有着密切的关系，本书让读者看到一个台湾人眼中的东南亚，书中虽不乏作者的主观意见，但也有一定的参考价值。书中所谈到的新加坡人物包括我国总理李显龙、故总统王鼎昌、前华报总编辑李星可，另外，作者也对新加坡的言论环境和语言问题提出自己的看法。</p>
 <p>&nbsp;</p>
+
 <p>新加坡的精神文明 by 中国赴新加坡精神文明考察团</p>
 <p>Call Number: R SING 959.57 XJB-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84523746</a>
@@ -1512,8 +1495,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>1. 本书是中国赴新加坡精神文明考察团在1992年在新加坡进行了12天的考察后由个别成员所撰写的报告。考察团成员从民生、政治、文化、经济等各方面的所见所闻及感受记录下来，让外国读者更好地了解新加坡，也让新加坡读者了解外国人眼中的新加坡。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>随笔南洋—出国经历、海外见闻、新移民眼中的新加坡 by 李叶明</p>
 <p>Call Number: R SING C814.3 LYM&nbsp;</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12747872</a>
@@ -1522,7 +1504,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>1. 本书以作者本人出国闯荡的经历为线索，以清新、流畅的文字，走笔新加坡、马来西亚、菲律宾、澳洲等多个国家。书中以海外见闻为主，既有对身边人物和故事的细腻描写，也有对恢宏史卷的泼墨疾书，既有对敏感话题的深入思考，也有对部分涉及海外中国人事件的入木三分的剖析，是一本能够让读者拾趣南洋，增广见闻，同时又能发人深思，激荡共鸣的新移民佳作。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>情怀新加坡 by 张青</p>
 <p>Call Number: R CO 959.5705 ZQ-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12275900</a>
@@ -1535,7 +1517,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>3. 书中附有不少珍贵照片。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>创造奇迹的新加坡 by 亚历克斯·泽西（Alex Josey)</p>
 <p>Call Number: R SING 959.57 JOS-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84494866</a>
@@ -1548,7 +1530,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>3. 原著的英文书名：Singapore—Its Past, Present and Future。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>新加坡25年来的发展 by 游保生 林崇椰合编</p>
 <p>Call Number: R SING 959.5705 XJP-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84503765</a>
@@ -1557,7 +1539,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>1. 本书是为配合新加坡建国25周年纪念而出版。主要目的是要较详细地探讨新加坡过去25年来社会及经济高速发展的原因，以及展望未来。出版委员会特地邀请了新加坡国立大学的14名学者各就他们专长，从不同方面撰文研讨。（摘自封底的介绍）。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>解读新加坡—中国官员新加坡培训散记 by 马誉峰主编</p>
 <p>Call Number: R SING 959.5705 JDX-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12605401</a>
@@ -1566,8 +1548,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>1. 宋长瑞在〈序〉文中说：这是市委选派了31名县处级领导干部赴新加坡民事服务学院进行为期28天的学习培训。此次境外培训注重理论联系实际，主要科目涉及新加坡治国之道和管理原则、新加坡社会保障制度、新加坡公共服务改革以及新加坡廉政建设等，并对新加坡经济、社会、文化等方面进行了考察……尤为可喜的是，学员们以其理性的视角去洞察新加坡各个方面的见闻和风采。这本书，就是他们汲取传统与外来营养，结合我市工作的实际和特点，写出的真切感受。—摘要自〈序〉文。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>走近新加坡—中国官员新加坡培训散记（2） by 马誉峰主编</p>
 <p>Call Number: R SING 959.5705 ZJX-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12735132</a>
@@ -1578,7 +1559,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>3. 书中附有新加坡彩图多页。&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>感受新加坡—一个中国人的观察与思考 by 马誉峰</p>
 <p>Call Number: R SING 959.5705 MYF-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12323118</a>
@@ -1587,8 +1568,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>1. 方桂香介绍本书时说：作者马誉峰是中国年轻一代领导干部，他于2003年7月受组织委派，到新加坡南洋理工大学攻读为期一年的“市长班”。在南大进修的一年里，他把握每一个难得的机缘，在多个特别安排的场合中，积极参与各种活动，并抓紧机会向新加坡领导人，以及一些重要机构与组织的负责人交流与学习，并专访了我国多个领域中的卓越人才，从中发掘与了解更多新加坡的特色与成就。本书就是他考察与学习的成果结集。—方桂香〈序〉。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>亚洲的瑞士—新加坡启示录 by 曹云华</p>
 <p>Call Number: R SING 959.57 CYH-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11094207</a>
@@ -1597,8 +1577,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>1. 作者从政治、经济和社会三方面来研究和分析新加坡发展所取得的成就和特点。辅以各种表格，阐述很有条理，也表达了自己的一些看法，很有参考价值。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>南洋感录 by 潘宏峰、黄永俊、赵连中、蔡晗编</p>
 <p>Call Number: R CO 959.57 NYG-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12323119</a>
@@ -1609,8 +1588,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>2. 徐冠林校长的〈序言〉说：本书的编辑出版，既展示了学员们勤奋学习的成果，又反映了同学间的切磋交流、互相启迪，还可为后来的学员更好地认识新加坡提供便捷的阶梯。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>老英话当年 by 陈朝耀译</p>
 <p>Call Number: R SING 959.57 RET-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12522441</a>
@@ -1623,7 +1601,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>3. 卷一和卷二内的文章是属于游记，回忆录一类的文学作品，不是历史也不是小说，书中的人物与作者们亲身的体验是真实的。他们主要的目的，是要将大英帝国在天涯海角各领地的风土人情介绍给读者。（摘自译者的〈前言〉）。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>新加坡的成功 by 玖芎林译</p>
 <p>Call Number: R SING 959.57 TAN-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84497429</a>
@@ -1632,7 +1610,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>1. 作者通过各方面来透视和析论一个资源并不丰富的小岛国，却奇迹似的创造了它的繁荣和发达，让世人瞩目。它的成功，令世人刮目相看。当然，它也存在一些困难。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>新加坡—明珠狮城 by 中国市长协会编</p>
 <p>Call Number: R SING 959.57 XJP-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11727007</a>
@@ -1641,8 +1619,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>1. 本书是中国市长代表团到新加坡来学习和考察后，将他们的心得组合出版的。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>新加坡第一 by 亚力克斯·朱熹(Alex Josey)</p>
 <p>Call Number: R CLOS 959.57 LKY.J</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84514317</a>
@@ -1660,7 +1637,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>《创造奇迹的新加坡》：追踪新加坡政治上的特色/盖房子背后的精神和制度/新加坡充满了“祸福与共”的集体意识/新加坡是个处处罚款的地方/现实主义给新加坡带来的利与弊/探索新加坡财经世界。&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>亚太世纪的号角—新加坡·马来西亚·泰国百年强国历程 by 滕藤主编</p>
 <p>Call Number: R SING 959 YTS</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84476566</a>
@@ -1681,7 +1658,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>㈤快速发展的根源：1.市场经济与政府干预的有机结合/2.政治稳定与经济发展的相互促进/3.居者有其屋/4.各民族和谐共存/5.儒家思想治国/6.高效廉洁的政府/7.为民办实事。&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>我们中国人—越洋女工手记 by 双月</p>
 <p>Call Number: R SING C818 SY</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11301025</a>
@@ -1691,7 +1668,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>1. 这是一本很偶然成型的书。这是一本从一个中国女孩的类似日记的东西里演变出来的书。这是一本很大声地讲中国人和新加坡人好话和坏话的书。它是一本很诚实的书。（摘自书中〈关于本书〉）
 &nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>上课—中国女孩留学新加坡 by 于萌</p>
 <p>Call Number: R SING 920.72 YM</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12594977</a>
@@ -1700,7 +1677,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>一位突出考试重围，公费留学新加坡的成功女孩，生活的倾情自述，打工的精彩纪录（见封面的介绍）。通过她的描述，也让我们从另一个侧面或另一个角度，看到了新加坡的面貌。发人深思。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>天下第二—富裕之门 by 王义成</p>
 <p>Call Number: R SING 959.57 WYC-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11835464</a>
@@ -1711,9 +1688,9 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>2. 本书的〈序言〉，读者应详细阅读，它在论析时事发展，言简意赅，特别是最后一段话，放诸四海皆准，但是，多少人真正做到呢？</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<h3><strong>其他</strong></h3>
-<p>&nbsp;</p>
+
+### **其他**
+
 <p>新加坡地理论文集 by 邹豹君</p>
 <p>Call Number: R SING 959.57 TPC-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84454566</a>
@@ -1739,7 +1716,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>本书以地形、气候、人口、工业、农业、渔业、都市、交通与贸易及其他各项来阐明星马两地的概况。配以简图、统计表和图片，让读者一目了然，容易理解。作者的写作态度和研究精神，让人感动。&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>新加坡的语言与社会 by 郭振羽</p>
 <p>Call Number: R CO 409.5957 GZY</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84468164</a>
@@ -1757,7 +1734,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>1. 本书从政治、社会、教育、传媒等不同角度介绍语言和新加坡社会的关系，另外也有专文讨论新加坡的土话--峇峇话。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>新加坡的社会语言 by 吴元华</p>
 <p>Call Number: R SING 301.21 WYH</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84508257</a>
@@ -1767,6 +1744,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>1. 本书共收10篇文章，研究的范围，主要在新加坡的社会语言，翻译和华文应用文等问题。</p>
 <p>2. 作者在〈自序〉中，对各篇的主要内容都有扼要介绍，读者可以参考。</p>
 <p>&nbsp;</p>
+
 <p>十年华语（1979-1989） by 新加坡交通部及新闻部推广华语秘书处</p>
 <p>Call Number: R SING 306.4495957 DEC&nbsp;</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84549129</a>
@@ -1775,7 +1753,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>1. 本书是为纪念推广华语运动10周年所出版的纪念特刊，书中总结了这项运动的发展和成果，并指出它的未来前景。书中登载的一些调查结果显示，华语在新加坡的使用次数和范围已逐年增加，显示这项运动在推广了10年后取得了一定的成效。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>新加坡宗教文化 by 邱新民</p>
 <p>Call Number: R SING 200.95957 QXM</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84478212</a>
@@ -1794,7 +1772,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>2. 作者在〈自序〉中，对本书的主要内容有扼要的介绍，并整理了大事年表，供研究参考。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>狮城古庙走一回 by 莫美颜</p>
 <p>Call Number: R CO 291.35095957 MMY</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12417063</a>
@@ -1811,8 +1789,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>1. 本书收录十八篇短文，说明早期新加坡籍贯（即方言群）与行业的密切关系。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>坚韧走过漫漫岁月—新加坡传统企业的传承故事 by 利亮时、李岩等采访撰稿 方桂香主编</p>
 <p>Call Number: R SING 658.04 JRZ</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12715476</a>
@@ -1821,8 +1798,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>1. 本书介绍了新加坡八个老字号：大华酱油、泰山药行、宝兴金庄、恒生当、百龄麦、吴裕兴、白新春茶庄和德利雪厂。从专访各代接班人的谈话中，我们找到了这些老字号独特的企业文化内涵与经营理念。对有意创业的读者来说，具有很好的启发和参考价值。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>新加坡华族会馆志 by 吴华</p>
 <p>Call Number: R SING 369.25957 WH [v.]3</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84502638</a>
@@ -1831,7 +1807,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>本书共分三册，第一册的〈星华社会传统组织〉一文为导论，着重介绍新加坡的地缘性团体；第二册介绍血缘性组织（宗亲会）；第三册介绍行业公会。本书插图收录逾百年历史及各帮主要的会馆照片。&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>新加坡华人会馆沿革史 by 新加坡华人会馆沿革史编辑委员会</p>
 <p>Call Number: R SING q369.25957 HIS</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84488556</a>
@@ -1840,7 +1816,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>1. 新加坡宗乡会馆联合总会在1986年与国家档案馆及口述历史馆联办“新加坡华人会馆沿革史”展览，旨在引导年轻国人了解先贤在建国过程中所作的贡献。本书乃配合该展览所出版的图片集，内容包括早期华族移民的背景和截至1985年止的华族宗乡会馆发展的照片、地图、旧文件和文物等，有助读者了解新加坡华人会馆的发展。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>新加坡华社与华商 by 林孝胜</p>
 <p>Call Number: R SING 959.57004951 LXS-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84482699</a>
@@ -1849,8 +1825,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>1. 本书分两部分，即新加坡华人的社会结构篇和家族企业篇。作者分别以宏观与微观的角度去析论移民社会时期新华社会的两根栋果：帮权与家族企业。帮权是个融合了血缘、地缘、方言缘，甚至业缘的社会实体，而家族企业则是个以血缘为纽带的经济实体。读者在本书中可以清楚看到两者的亲切关系。最后的总结篇则描绘出二战后东南亚，尤其是新马华人社会与经济变迁的轮廓。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>新加坡的私会党 by 郑文辉</p>
 <p>Call Number: R SING 366.095957 ZWH</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84462993</a>
@@ -1872,8 +1847,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>3. 本书新增：杜南发/序：远去的刀光、郑文辉/自序、邱俗然/腥风血雨中、何盈/说黑道白、附录：新加坡战前私会党活动年表/私会党名称中英对照表。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>星马华人私会党的研究 by 麦留芳著、张清江译</p>
 <p>Call Number: R SING 366.095957 MLF</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84481144</a>
@@ -1882,8 +1856,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>1. 本书主要探讨海峡殖民地时代华人私会党与当今新加坡及马来西亚半岛华人私会党之间的关系，作者也提出私会党持续生存的条件，并加以阐述。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>星马私会党与洪门天地会的渊源 by 许云樵</p>
 <p>Call Number: R SING 366.095957 HYC&nbsp;</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84480928</a>
@@ -1892,7 +1865,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>本书收录同名论文一篇，介绍洪门天地会的起源与发展，并阐述洪门天地会在南洋的活动及其与星马私会党的关系。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>百年树人 by 区如柏</p>
 <p>Call Number: R CO 370.95957 ORB&nbsp;</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84522511</a>
@@ -1903,8 +1876,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>2. 其中最后两篇是介绍大马的宽柔独立中学和吉兰丹中学。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>体验新加坡—27位留学生眼中的中新教育差异 by 朱默君（主编）</p>
 <p>Call Number: R SING 370.95957 TYX</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12783484</a>
@@ -1915,8 +1887,7 @@ Ayar—马来语文是牛车水之意—即牛车水）。 本书收录36篇作�
 <p>&nbsp;</p>
 <p>2. 主编希望本书的出版，能够为大家思考我国（中国）的高中课程改革提供一个全新的视野。</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>新加坡教育点评 by 潘星华</p>
 <p>Call Number: R SING 370.95957 PXH&nbsp;</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12680570</a>
