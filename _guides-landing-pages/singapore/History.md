@@ -74,7 +74,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong><a href="guides/singapore/history/50-years-of-singapore-chinese-periodicals-1940-to-1980/" class="" rel="noopener noreferrer nofollow" target="_blank">50 Years of Singapore Chinese Periodicals 1940 to 1980</a></strong>
+<p><strong><a href="/guides/singapore/history/50-years-of-singapore-chinese-periodicals-1940-to-1980/" class="" rel="noopener noreferrer nofollow" target="_blank">50 Years of Singapore Chinese Periodicals 1940 to 1980</a></strong>
 </p>
 </li>
 <li>
