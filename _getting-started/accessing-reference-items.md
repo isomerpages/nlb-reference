@@ -106,7 +106,7 @@ request form.</p>
 <p><u><br></u>
 </p>
 <h2>Items in the Repository Used Book Collection or PublicationSG</h2>
-<p>As these items are not physically stored in the LKCRL, <strong>a reservation must be made in order to access these materials.</strong>[^1]
+<p>As these items are not physically stored in the LKCRL, <strong>a reservation must be made in order to access these materials.</strong> &lt;sup&gt;1&lt;/sup&gt;
 Items will take at least 3-5 working days to arrive in the library. Items
 will be made available for on-site consultation for a period of 2-3 weeks.
 Detailed instructions will be emailed to you upon a successful reservation. <strong>Please note that the reservation fee will still be charged for any uncollected items.</strong>
@@ -118,7 +118,7 @@ and titles used less frequently although still relevant to Singapore, Southeast
 Asia and Asia. You may find out more <a href="https://www.nlb.gov.sg/main/services/reference-and-research-services/repository-used-materials" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Repository Used Book Collection items can be reserved using <a href="https://go.gov.sg/nlb-rur-form" rel="noopener noreferrer nofollow" target="_blank">this form</a>{:target="_blank"}.</p>
+<p>Repository Used Book Collection items can be reserved using <a href="https://go.gov.sg/nlb-rur-form" rel="noopener noreferrer nofollow" target="_blank">this form</a>.</p>
 </li>
 </ul>
 <p><strong>PublicationSG</strong> is the National Library's collection of
