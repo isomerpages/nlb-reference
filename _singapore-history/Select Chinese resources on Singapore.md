@@ -10,21 +10,34 @@ understanding on Singapore history, places, society, culture and language.</p>
 <p>介绍收藏在李光前参考图书馆有关新加坡历史、掌故、名胜古迹、社会机制、文化、语言等的书籍。</p>
 <p></p>
 <h3>Guide Index</h3>
-<p>主页</p>
-<p>总览</p>
-<p>新加坡风土·掌故·寻根</p>
-<p>历史</p>
-<p>地区·街名·地名·其他</p>
-<p>名胜古迹</p>
-<p>广角下的新加坡</p>
-<p>其他</p>
-<p>读者指南</p>
-<p></p>
-<h3><strong>简介 Introduction</strong></h3>
+
+- [简介](#简介)
+
+总览
+
+新加坡风土·掌故·寻根
+
+历史
+
+地区·街名·地名·其他
+
+名胜古迹
+
+广角下的新加坡
+
+其他
+
+读者指南
+
+### **简介**
+
+<u>Introduction</u>
 <p>《新加坡总揽》介绍收藏在李光前参考图书馆有关新加坡历史、掌故、名胜古迹、社会机制、文化、语言等的书籍。具体分成七个部分: 1.总 览, 2.新加坡风土·掌故·寻根,
 3.历史, 4.地区·街名·地名, 5.名胜古迹, 6. 广角下的新加坡, 7. 其他</p>
 <p></p>
-<h3><strong>总览</strong></h3>
+
+### **总览**
+
 <p></p>
 <p><strong>星马通鉴 by [世界书局编]</strong>
 </p>
@@ -129,7 +142,9 @@ understanding on Singapore history, places, society, culture and language.</p>
 <p>这是“认识东亚及东南亚系列”之一。 出版这套丛书，是“希望以浅白的文字，每一本书针对一个国家作概况的介绍，让大专学生、工商界人士、游客、以及有兴趣的读者，对该国有一初步的认识。</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<h3><strong>新加坡风土·掌故·寻根</strong></h3>
+
+### **新加坡风土, 掌故, 寻根**
+
 <p>&nbsp;</p>
 <p><strong>新加坡风土记by 李钟珏</strong>
 </p>
@@ -221,7 +236,7 @@ understanding on Singapore history, places, society, culture and language.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>寻根集 by 王振春</p>
+<p><b>寻根集 by 王振春</b></p>
 <p>Call Number: R SING C818.2 WZC</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11149880</a>
 </p>
@@ -230,10 +245,11 @@ understanding on Singapore history, places, society, culture and language.</p>
 <p>书近百篇的文章，都是作者多年来发表于《联合早报·四方八面》版上的。书的内容，与根有关。不论是怀人或忆事，都饱含感情和乡土味。娓娓写来，令人感动。</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<h3><strong>历史</strong></h3>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>新加坡风土记 by 李重珏</p>
+
+### **历史**
+
+
+**新加坡风土记 by 李重珏**
 <p>Call Number: RSING 959.5703 LCC</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84506114</a>
 </p>
@@ -243,7 +259,8 @@ understanding on Singapore history, places, society, culture and language.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>新加坡古事记 by 饶宗颐</p>
+
+**新加坡古事记 by 饶宗颐**
 <p>Call Number: RSING 959.57 JTI-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84557118</a>
 </p>
@@ -252,7 +269,8 @@ understanding on Singapore history, places, society, culture and language.</p>
 <p>本书收录清代以来史籍有关新加坡的记录，是东南亚华侨史研究的重要参考资料。</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>龙牙门新考 by 林我铃</p>
+
+**龙牙门新考 by 林我铃**
 <p>Call Number: RSING 911.5 LWL</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84579319</a>
 </p>
@@ -261,8 +279,8 @@ understanding on Singapore history, places, society, culture and language.</p>
 <p>有关龙牙门之论说，众说纷纭，最终以新加坡岛南的岌巴港口即古龙牙门，为多数学者所接受而成定论。本书作者则认为牵强附会，不可置信。据《岛夷志略》记载，另有一个龙牙门，后人误将两龙牙门混淆。因此，作者认为龙牙门其地即今龙牙岛东南岸海角。</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>开埠前的新加坡 by 郑文辉</p>
+
+**开埠前的新加坡 by 郑文辉**
 <p>Call Number: RSING 959.5701 ZWH-[HIS]</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84497564</a>
 </p>
