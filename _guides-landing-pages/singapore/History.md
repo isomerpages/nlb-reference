@@ -74,6 +74,14 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><strong><a href="guides/singapore/history/50-years-of-singapore-chinese-periodicals-1940-to-1980/" class="" rel="noopener noreferrer nofollow" target="_blank">50 Years of Singapore Chinese Periodicals 1940 to 1980</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="/guides/singapore/history/select-chinese-resources-on-singapore/" class="is-active" rel="noopener noreferrer nofollow" target="_blank">Select Chinese resources on Singapore</a></strong>
+</p>
+</li>
+<li>
 <p><strong><a href="/guides/singapore/history/s-rajaratnam-s-writings-before-1959-a-preliminary-annotated-bibliography/" rel="noopener noreferrer nofollow" target="_blank">S Rajaratnam’s Writings Before 1959: A Preliminary Annotated Bibliography</a></strong>
 </p>
 </li>
