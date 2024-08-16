@@ -11,7 +11,7 @@ Whether it’s learning a new skill or taking your business in a different direc
 
 Connect with the right resources, communities, networks and spaces!
 
-Find out more in our Launch [**brochure**](/files/Launch/NLB_LAUNCH_BROCHURE_JUNE2024.pdf).
+Find out more in our Launch [**brochure**](/files/Launch/Brochure_LAUNCH_Brochure_Web_July2024.pdf).
 
 <hr>
 
