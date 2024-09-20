@@ -2521,13 +2521,8 @@ of Sociology, Faculty of Arts &amp; Social Sciences, National University
 of Singapore.</p>
 </li>
 <li>
-<p>Thomson, John Turnbull (1865). <em><a href="http://econtent.elibraryhub.com/SHC/NLBHB/020000176.pdf" rel="noopener noreferrer nofollow" target="_blank">Some glimpses into life in the Far East</a></em>.
-London: Richardson &amp; Company. Call No.: RARE 959 THO</p>
-</li>
-<li>
-<p>Microfilm No.: NL8371, NL25422</p>
-</li>
-<li>
+<p>Thomson, John Turnbull (1865). <em>Some glimpses into life in the Far East</em>.
+	London: Richardson &amp; Company. Call No.: RARE 959 THO; Microfilm No.: NL8371, NL25422</p>
 <p>This book is a recollection of the time the author spent in the Far East
 30 years earlier when he was a young man. His description is about what
 he observed and experienced during his stay mainly in Penang, Singapore
