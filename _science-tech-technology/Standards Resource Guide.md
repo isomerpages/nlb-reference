@@ -571,7 +571,7 @@ and systems of Singapore.</p>
 </li>
 <li>
 <p>National Environment Agency (NEA)
-<br><a href="http://www.nea.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">http://www.nea.gov.sg/</a>
+<br><a href="https://www.nea.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.nea.gov.sg/</a>
 </p>
 <p>Ensures sustainable development and a quality living environment for Singapore’s
 present and future generations.</p>
