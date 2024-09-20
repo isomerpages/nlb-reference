@@ -74,4 +74,4 @@ All Rights Reserved. National Library Board Singapore 2021.
 
 [^2]:Cybersecurity skills gap. (n.d.). *World Economic Forum.* Retrieved 2021, September 20 from [https://intelligence.weforum.org/topics/a1Gb00000015LbsEAE?tab=publications](https://intelligence.weforum.org/topics/a1Gb00000015LbsEAE?tab=publications)
 
-[^3]:International Consortium of Minority Cyber Professionals names Maggie Domond as Executive Director (2021, August 19). *International Consortium of Minority Cyber Professionals.* Retrieved 2021, September 20 from [https://www.icmcp.org/resources](https://www.icmcp.org/resources)
+[^3]:International Consortium of Minority Cyber Professionals names Maggie Domond as Executive Director (2021, August 19). *PRWeb.* Retrieved 2021, September 20 from [https://www.prweb.com/releases/international-consortium-of-minority-cyber-professionals-names-maggie-domond-as-executive-director-849796672.html](https://www.prweb.com/releases/international-consortium-of-minority-cyber-professionals-names-maggie-domond-as-executive-director-849796672.html)
