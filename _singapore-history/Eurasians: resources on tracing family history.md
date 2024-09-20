@@ -2173,7 +2173,7 @@ topic.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Chandran, K. (2006, April 15). <a href="http://newspapers.nl.sg/Digitised/Article/straitstimes20060415.2.53.3.5.aspx" rel="noopener noreferrer nofollow" target="_blank">Retelling the Eurasian WWII story</a>. <em>The Straits Times</em>.</p>
+<p>Chandran, K. (2006, April 15). <a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20060415-1.2.53.3.5" rel="noopener noreferrer nofollow" target="_blank">Retelling the Eurasian WWII story</a>. <em>The Straits Times</em>.</p>
 </li>
 <li>
 <p>M. Braga-Blake (Ed.). (1992). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6319425" rel="noopener noreferrer nofollow" target="_blank">Singapore Eurasians: Memories and hopes</a></em> (pp.112-116).
