@@ -1654,7 +1654,7 @@ No.: NA 1172</p>
 <p></p>
 <p><strong>Singapore Volunteer Corps</strong>
 </p>
-<p><a href="http://www.a2o.com.sg/a2o/public/search/gridDetail.jsp?pk=14623&amp;keyword=eurasian&amp;siteIndex=7" rel="noopener noreferrer nofollow" target="_blank">Proposed club for Eurasian members (1924) | </a>Microfilm
+<p><a href="https://www.nas.gov.sg/archivesonline/government_records/record-details/6d1868f1-1159-11e3-83d5-0050568939ad" rel="noopener noreferrer nofollow" target="_blank">Proposed club for Eurasian members (1924) | </a>Microfilm
 No.: HDB 1001</p>
 <p><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12225853" rel="noopener noreferrer nofollow" target="_blank">Yearbooks (1930-1937) | </a>Microfilm
 No.: NL 28415. Call No.: RARE 355.2236205 SSVFYB</p>
