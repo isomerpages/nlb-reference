@@ -3,6 +3,7 @@ title: Love Bonito
 permalink: /launch/stories/love-bonito/
 description: ""
 third_nav_title: Success Stories
+variant: markdown
 ---
 # Profile of Love, Bonito Co-founder, Rachel Lim 
 
@@ -32,7 +33,7 @@ Lim quit her NIE post grad studies and chose to pay back the teacher training bo
 
 Gilchrist, Karen. (2020, March 3). “This 32-year-old borrowed her mom’s life savings and built a multimillion-dollar fashion empire”. [https://www.cnbc.com/2020/03/03/love-bonito-ceo-rachel-lim-built-a-multimillion-dollar-fashion-empire.html](https://www.cnbc.com/2020/03/03/love-bonito-ceo-rachel-lim-built-a-multimillion-dollar-fashion-empire.html) 
 
-Her World. (2010, March 15). “Stylish Dresser: Viola Tan of Bonitochico”. Accessed April 6, 2022. [https://www.herworld.com/fashion/stylish-dresser-viola-tan-bonitochico/](https://www.herworld.com/fashion/stylish-dresser-viola-tan-bonitochico/) 
+Sandhu, Balvinder. (2019, March 1). “#Girlboss: 10 Singapore women entrepreneurs who are in a league of their own”. *Her World*. Accessed September 20, 2024. [https://www.herworld.com/independence/career/women-entrepreneurs-pat-law-krystal-choo-ayesha-khanna-love-bonito-rachel-lim](https://www.herworld.com/independence/career/women-entrepreneurs-pat-law-krystal-choo-ayesha-khanna-love-bonito-rachel-lim) 
 
 OSIM Contributor. (2021, October 21). “Dare To Dream: Rachel Lim, Cofounder of Love, Bonito”. [https://www.forbes.com/sites/osim/2021/10/21/dare-to-dream-rachel-lim-cofounder-of-love-bonito/](https://www.forbes.com/sites/osim/2021/10/21/dare-to-dream-rachel-lim-cofounder-of-love-bonito/) 
 
