@@ -1457,7 +1457,7 @@ ONE</p>
 Singapore: James Newton Boss. Call No.: RSING 282.5957 BOS</p>
 </li>
 <li>
-<p>Loader, Jon. (1999). <em><a href="http://sgebooks.nl.sg/opendoc.aspx?doc=shc/nlbhb/020000036.pdf" rel="noopener noreferrer nofollow" target="_blank">Glimpses and memories of St. Joseph's Church and the Portuguese Mission in Singapore, 1825-1999</a></em>.
+<p>Loader, Jon. (1999). <em><a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=41d45a38-c516-4337-8b38-8a2ab76b190f" rel="noopener noreferrer nofollow" target="_blank">Glimpses and memories of St. Joseph's Church and the Portuguese Mission in Singapore, 1825-1999</a></em>.
 Singapore: B. de Sousa. Call No.: RCLOS 282.5957 GLI</p>
 </li>
 <li>
@@ -1635,7 +1635,7 @@ below.</p>
 </p>
 <p><strong>Singapore Recreation Club</strong>
 </p>
-<p><a href="http://www.a2o.com.sg/a2o/public/search/prismDetail2.jsp?keyword=singapore+recreation+club&amp;siteIndex=6&amp;pk=7998&amp;pk=8000&amp;shows=Show+Selected+Records" rel="noopener noreferrer nofollow" target="_blank">Annual Reports, Membership lists (1938-1984) | </a>Microfilm
+<p><a href="https://www.nas.gov.sg/archivesonline/private_records/record-details/de755bf0-115b-11e3-83d5-0050568939ad" rel="noopener noreferrer nofollow" target="_blank">Annual Reports, Membership lists (1938-1984) | </a>Microfilm
 No.: NA 2159</p>
 <p><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4888842" rel="noopener noreferrer nofollow" target="_blank">Annual Reports (1986, 1987, 1994, 2008)</a>|
 Call No.: RCLOS/RSING 796.0605957 SRCAR</p>
@@ -1649,12 +1649,12 @@ No.: RSING 305.80405957 EAN</p>
 <p></p>
 <p><strong>Girls’ Sports Club</strong>
 </p>
-<p><a href="http://www.a2o.com.sg/a2o/public/search/prismDetail2.jsp?keyword=Girls%92+Sports+Club&amp;siteIndex=6&amp;pk=15478&amp;pk=15482&amp;shows=Show+Selected+Records" rel="noopener noreferrer nofollow" target="_blank">Annual Reports (1933-1985) | </a>Microfilm
+<p><a href="https://www.nas.gov.sg/archivesonline/private_records/record-details/e14e7f51-115b-11e3-83d5-0050568939ad" rel="noopener noreferrer nofollow" target="_blank">Annual Reports (1933-1985) | </a>Microfilm
 No.: NA 1172</p>
 <p></p>
 <p><strong>Singapore Volunteer Corps</strong>
 </p>
-<p><a href="http://www.a2o.com.sg/a2o/public/search/gridDetail.jsp?pk=14623&amp;keyword=eurasian&amp;siteIndex=7" rel="noopener noreferrer nofollow" target="_blank">Proposed club for Eurasian members (1924) | </a>Microfilm
+<p><a href="https://www.nas.gov.sg/archivesonline/government_records/record-details/6d1868f1-1159-11e3-83d5-0050568939ad" rel="noopener noreferrer nofollow" target="_blank">Proposed club for Eurasian members (1924) | </a>Microfilm
 No.: HDB 1001</p>
 <p><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12225853" rel="noopener noreferrer nofollow" target="_blank">Yearbooks (1930-1937) | </a>Microfilm
 No.: NL 28415. Call No.: RARE 355.2236205 SSVFYB</p>
@@ -2173,7 +2173,7 @@ topic.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Chandran, K. (2006, April 15). <a href="http://newspapers.nl.sg/Digitised/Article/straitstimes20060415.2.53.3.5.aspx" rel="noopener noreferrer nofollow" target="_blank">Retelling the Eurasian WWII story</a>. <em>The Straits Times</em>.</p>
+<p>Chandran, K. (2006, April 15). <a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20060415-1.2.53.3.5" rel="noopener noreferrer nofollow" target="_blank">Retelling the Eurasian WWII story</a>. <em>The Straits Times</em>.</p>
 </li>
 <li>
 <p>M. Braga-Blake (Ed.). (1992). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6319425" rel="noopener noreferrer nofollow" target="_blank">Singapore Eurasians: Memories and hopes</a></em> (pp.112-116).
@@ -2521,13 +2521,8 @@ of Sociology, Faculty of Arts &amp; Social Sciences, National University
 of Singapore.</p>
 </li>
 <li>
-<p>Thomson, John Turnbull (1865). <em><a href="http://econtent.elibraryhub.com/SHC/NLBHB/020000176.pdf" rel="noopener noreferrer nofollow" target="_blank">Some glimpses into life in the Far East</a></em>.
-London: Richardson &amp; Company. Call No.: RARE 959 THO</p>
-</li>
-<li>
-<p>Microfilm No.: NL8371, NL25422</p>
-</li>
-<li>
+<p>Thomson, John Turnbull (1865). <em>Some glimpses into life in the Far East</em>.
+	London: Richardson &amp; Company. Call No.: RARE 959 THO; Microfilm No.: NL8371, NL25422</p>
 <p>This book is a recollection of the time the author spent in the Far East
 30 years earlier when he was a young man. His description is about what
 he observed and experienced during his stay mainly in Penang, Singapore

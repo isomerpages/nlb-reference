@@ -133,3 +133,4 @@ No matter what stage your business is at, we have the resources and tools to tak
 - Visit us at any of our Launch sites, where curated information resources are available for browsing or loan:
 	- Launch @ National Library, Level 7
 	- Launch @ Punggol Regional Library, Level 4
+	- Launch @ Jurong Regional Library, Level 1

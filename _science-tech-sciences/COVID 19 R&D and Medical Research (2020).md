@@ -72,13 +72,14 @@ World Health Organization. (2020). Coronavirus disease (COVID-2019) R&amp;D. <i>
 </a></h5>
 Ministry of Health Singapore. (2021, January 27). Clinical evidence summaries. <i>Agency for Care Effectiveness</i>. Retrieved 2024, May 20. 
 
-<h5>6. <a href="https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/testing.html" target="_blank">COVID-19 Testing: What You Need to Know</a></h5>
-National Center for Immunization and Respiratory Diseases. (2024, May 2). COVID-19 Testing: What You Need to Know. <i>Centers for Disease Control and Prevention</i>. Retrieved 2024, May 20.
+<h5>6. <a href="https://www.cdc.gov/covid/testing/" target="_blank">Testing for COVID-19</a></h5>
+Testing for COVID-19 (2024, August 24). <i>Centers for Disease Control and Prevention</i>. Retrieved 2024, September 20.
 
 
-<img src="/images/sci-tech/P4-biologist.jpg" style="width:500px;">
 
-<p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://pixabay.com/photos/microbiologist-scientist-woman-1332376/" target="_blank">https://pixabay.com/photos/microbiologist-scientist-woman-1332376/</a></p>
+<p><img src="/images/sci-tech/P4-biologist.jpg" style="width:500px;">
+
+</p><p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://pixabay.com/photos/microbiologist-scientist-woman-1332376/" target="_blank">https://pixabay.com/photos/microbiologist-scientist-woman-1332376/</a></p>
 
 <p><strong>For the latest journal articles on COVID-19, please visit these free-to-access academic resource portals.</strong></p>
 

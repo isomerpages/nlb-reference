@@ -81,11 +81,6 @@ Retrieved 2021, September 6 from <a href="https://www.project-syndicate.org/comm
 of smart mobility. <em>SmartCitiesWorld</em>. Retrieved 2021, September
 6 from <a href="https://www.smartcitiesworld.net/special-reports/special-reports/the-technology-that-is-driving-the-future-of-smart-mobility" rel="noopener noreferrer nofollow" target="_blank">https://www.smartcitiesworld.net/special-reports/special-reports/the-technology-that-is-driving-the-future-of-smart-mobility</a>
 </p>
-<p><strong>Urban simulation tech models effects of shared mobility in reducing congestion</strong> 
-<br>Fourie, P. (2021, April 27). Urban simulation tech models effects of shared
-mobility in reducing congestion. <em>Meeting of the Minds</em>. Retrieved
-2021, September 6 from <a href="https://meetingoftheminds.org/urban-simulation-shows-effects-of-shared-mobility-services-in-reducing-congestion-35138" rel="noopener noreferrer nofollow" target="_blank">https://meetingoftheminds.org/urban-simulation-shows-effects-of-shared-mobility-services-in-reducing-congestion-35138</a>
-</p>
 <p><strong>The lost history of the electric car – and what it tells us about the future of transport</strong> 
 <br>Standage, T. (2021, August 3). The lost history of the electric car –
 and what it tells us about the future of transport. <em>The Guardian</em>.
