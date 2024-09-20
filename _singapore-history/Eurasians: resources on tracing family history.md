@@ -1649,7 +1649,7 @@ No.: RSING 305.80405957 EAN</p>
 <p></p>
 <p><strong>Girls’ Sports Club</strong>
 </p>
-<p><a href="http://www.a2o.com.sg/a2o/public/search/prismDetail2.jsp?keyword=Girls%92+Sports+Club&amp;siteIndex=6&amp;pk=15478&amp;pk=15482&amp;shows=Show+Selected+Records" rel="noopener noreferrer nofollow" target="_blank">Annual Reports (1933-1985) | </a>Microfilm
+<p><a href="https://www.nas.gov.sg/archivesonline/private_records/record-details/e14e7f51-115b-11e3-83d5-0050568939ad" rel="noopener noreferrer nofollow" target="_blank">Annual Reports (1933-1985) | </a>Microfilm
 No.: NA 1172</p>
 <p></p>
 <p><strong>Singapore Volunteer Corps</strong>
