@@ -1457,7 +1457,7 @@ ONE</p>
 Singapore: James Newton Boss. Call No.: RSING 282.5957 BOS</p>
 </li>
 <li>
-<p>Loader, Jon. (1999). <em><a href="http://sgebooks.nl.sg/opendoc.aspx?doc=shc/nlbhb/020000036.pdf" rel="noopener noreferrer nofollow" target="_blank">Glimpses and memories of St. Joseph's Church and the Portuguese Mission in Singapore, 1825-1999</a></em>.
+<p>Loader, Jon. (1999). <em><a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=41d45a38-c516-4337-8b38-8a2ab76b190f" rel="noopener noreferrer nofollow" target="_blank">Glimpses and memories of St. Joseph's Church and the Portuguese Mission in Singapore, 1825-1999</a></em>.
 Singapore: B. de Sousa. Call No.: RCLOS 282.5957 GLI</p>
 </li>
 <li>
