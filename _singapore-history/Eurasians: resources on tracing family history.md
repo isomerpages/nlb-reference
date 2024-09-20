@@ -1635,7 +1635,7 @@ below.</p>
 </p>
 <p><strong>Singapore Recreation Club</strong>
 </p>
-<p><a href="http://www.a2o.com.sg/a2o/public/search/prismDetail2.jsp?keyword=singapore+recreation+club&amp;siteIndex=6&amp;pk=7998&amp;pk=8000&amp;shows=Show+Selected+Records" rel="noopener noreferrer nofollow" target="_blank">Annual Reports, Membership lists (1938-1984) | </a>Microfilm
+<p><a href="https://www.nas.gov.sg/archivesonline/private_records/record-details/de755bf0-115b-11e3-83d5-0050568939ad" rel="noopener noreferrer nofollow" target="_blank">Annual Reports, Membership lists (1938-1984) | </a>Microfilm
 No.: NA 2159</p>
 <p><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4888842" rel="noopener noreferrer nofollow" target="_blank">Annual Reports (1986, 1987, 1994, 2008)</a>|
 Call No.: RCLOS/RSING 796.0605957 SRCAR</p>
