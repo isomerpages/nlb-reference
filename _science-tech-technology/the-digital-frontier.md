@@ -61,10 +61,6 @@ Cappelletti, F., &amp; Martino, L. (2021, January). Achieving robust European cy
 **The CCP's next century: Expanding economic control, digital governance and national security**<br>
 Grünberg, N., &amp; Wessling, C. (Eds.). (2021, June 15). The CCP's next century: Expanding economic control, digital governance and national security. *Mercatos Institute for Chinese Studies*. Retrieved 2021, September 20 from<br>[https://merics.org/sites/default/files/2021-07/MERICSPapersOnChinaCCP100_3_1.pdf](https://merics.org/sites/default/files/2021-07/MERICSPapersOnChinaCCP100_3_1.pdf)
 
-**Toward a collaborative cyber defense and enhanced threat intelligence structure**<br>
-Zabierek, L., et al. (2021, August). Toward a collaborative cyber defense and enhanced threat intelligence structure. *Belfer Center, Harvard Kennedy School*. Retrieved 2020, September 20 from<br>
-[https://www.belfercenter.org/sites/default/files/files/publication/8.10.21%20Toward%20a%20Collaborative%20Cyber%20Defense%20and%20Enhanced%20Threat%20Intelligence%20Structure.pdf](https://www.belfercenter.org/sites/default/files/files/publication/8.10.21%20Toward%20a%20Collaborative%20Cyber%20Defense%20and%20Enhanced%20Threat%20Intelligence%20Structure.pdf)
-
 
 **Reflections on digital sovereignty**<br> 
 Moerel, L., &amp; Timmers, P. (2021, January 15). Reflections on digital sovereignty. *EU Cyber Direct*. Retrieved 2020, September 20 from<br>
