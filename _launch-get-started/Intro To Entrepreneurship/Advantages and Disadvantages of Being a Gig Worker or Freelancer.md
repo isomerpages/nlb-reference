@@ -7,9 +7,8 @@ description: The freelance economy has grown over the past decade. Freelancers
   include better work-life balance, the flexibility to choose your work hours
   and larger income potential.
 third_nav_title: Intro To Entrepreneurship
+variant: markdown
 ---
-
-
 # What are the Advantages and Disadvantages of Being a Freelancer or Gig Worker?  
 
 The freelance economy has grown over the past decade. Freelancers are workers who operate their own businesses, and they usually provide services to their clients for an agreed-upon fee.  
@@ -78,15 +77,11 @@ Freelancers may feel isolated when working alone without any team members. Freel
 
  
 
-Freelance UK. “The Pros and Cons of Freelancing.” Accessed 2 May 2022, <https://www.freelanceuk.com/become/pros-and-cons-freelancing.shtml>
-
- 
-
-Walrack, Jessica. “The Disadvantages of Freelancing.” The Balance Careers. Last updated 1 September 2022, <https://www.thebalancecareers.com/disadvantages-of-freelancing-2164223> 
-
- 
-
-Kendrick, Cori. “The Future of Work is Here: Freelance Economy Offers Unparalleled Opportunity for Growth.” Businesswire. Published 5 February 2020, <https://www.businesswire.com/news/home/20200205005129/en/The-Future-of-Work-Is-Here-Freelance-Economy-Offers-Unparalleled-Opportunity-for-Growth-Moves-to-Close-the-Gender-Pay-Gap>
+*Freelance UK*. “The Pros and Cons of Freelancing.” Accessed 2 May 2022, 
 
 
-Wimbledon, Jade.  “11 Pros and Cons of Working as a Freelancer”. Simply Business. Published 28 June 2018, <https://www.simplybusiness.co.uk/knowledge/articles/2016/06/pros-and-cons-of-being-a-freelancer/>
+Walrack, Jessica. “The Disadvantages of Freelancing.” *The Balance Careers*. Last updated 1 September 2022
+
+Kendrick, Cori. “The Future of Work is Here: Freelance Economy Offers Unparalleled Opportunity for Growth.” *Businesswire*. Published 5 February 2020
+
+Wimbledon, Jade.  “11 Pros and Cons of Working as a Freelancer”. *Simply Business*. Published 28 June 2018
