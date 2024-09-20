@@ -37,6 +37,6 @@ Lyn opines that entrepreneurship in Singapore can be difficult, and business fai
 
 “Awfully Chocolate,” IPOS International, 25 July 2019. [https://iposinternational.com/resources/case-studies/awfully-chocolate\_136](https://iposinternational.com/resources/case-studies/awfully-chocolate_136) 
 
-“Location & Operating Hours,” Awfully Chocolate, 2022. [https://www.awfullychocolate.com/stores](https://www.awfullychocolate.com/stores)  
+“Location & Operating Hours,” Awfully Chocolate, 2022. [https://www.awfullychocolate.com/pages/store-locator](https://www.awfullychocolate.com/pages/store-locator)  
 
 Jeanette Tan, “23 Years On, Awfully Chocolate Founder Continues Serving Customers & Clearing Tables At Her Shops,” Mothership, 22 May 2021. [https://mothership.sg/2021/05/lessons-on-leadership-lyn-lee-awfully-chocolate-interview/](https://mothership.sg/2021/05/lessons-on-leadership-lyn-lee-awfully-chocolate-interview/)
