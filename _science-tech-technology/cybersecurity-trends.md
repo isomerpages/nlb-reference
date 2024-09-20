@@ -50,9 +50,6 @@ Oltsik, J., &amp; Lundell, B. (2021, July 21). The life and times of cybersecuri
 **See something, say something: Coordinating the disclosure of security vulnerabilities in Canada**<br>
 Stevens, Y., et al. (2021, June 24). See something, say something: Coordinating the disclosure of security vulnerabilities in Canada. *Toronto Metropolitan University*. Retrieved 2021, September 20 from [https://dais.ca/reports/vulnerability-disclosure/](https://dais.ca/reports/vulnerability-disclosure/)
 
-**Quantum computing and cybersecurity**<br>
-Lee, M. (2021, July). Quantum computing and cybersecurity. *Belfer Center, Harvard Kennedy School*. Retrieved 2021, September 20 from<br>[https://www.belfercenter.org/sites/default/files/2021-07/QCSecurity.pdf](https://www.belfercenter.org/sites/default/files/2021-07/QCSecurity.pdf)
-
 **Achieving cybersecurity in blockchain-based systems: A survey**<br>
 Gimenez-Aguilar, M., et al. (2021). Achieving cybersecurity in blockchain-based systems: A survey. *Future Generation Computer Systems*, 124 (2021): 91-118. Retrieved 2021, September 20 from<br>
 [https://www.sciencedirect.com/science/article/pii/S0167739X21001576/pdfft?md5=02a84f1fe7adcda8c70b31aa47f14208&amp;pid=1-s2.0-S0167739X21001576-main.pdf](https://www.sciencedirect.com/science/article/pii/S0167739X21001576/pdfft?md5=02a84f1fe7adcda8c70b31aa47f14208&amp;pid=1-s2.0-S0167739X21001576-main.pdf)
