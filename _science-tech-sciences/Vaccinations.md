@@ -86,8 +86,8 @@ World Immunization Week: Power of vaccines still not fully utilized, says UN hea
 <h5>3. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1200696/" target="_blank">Edward Jenner and the history of the smallpox and vaccination</a></h5>
 Riedel, S. (2005, January). Edward Jenner and the history of the smallpox and vaccination. <i>Proceedings (Baylor University, Medical Center) 18(1), 21-25</i>. Retrieved on 2020, April 2.
 
-<h5>4. <a href="https://www.cdc.gov/vaccines/parents/why-vaccinate/vaccine-decision.html" target="_blank">Making the vaccine decision: Common concerns</a></h5>
-Making the vaccine decision: Common concerns | CDC. (2019, August 5). <i>Centers for Disease Control and Prevention (CDC)</i>. Retrieved 2020, April 2.
+<h5>4. <a href="https://www.cdc.gov/vaccines-children/reasons/" target="_blank">Reasons to Vaccinate</a></h5>
+Reasons to Vaccinate | Childhood Vaccines | CDC. (2019, August 5). <i>Centers for Disease Control and Prevention (CDC)</i>. Retrieved 2024, September 20.
 
 <h5>5. <a href="https://www.healthhub.sg/a-z/diseases-and-conditions/658/vaccinations-for-adults" target="_blank">Vaccinations: Immunisation boosters for adults</a></h5>
 Vaccinations: Immunisation boosters for adults. (2019, October 11). <i>HealthHub</i>. Retrieved 2020, April 2.
@@ -123,8 +123,8 @@ Martinez-Vega, R., Jauneikaite, E., Thoon, K.C., Chua, A.H., Khong, W.X., et al.
 
 This page maintained by the United Nations Children’s Fund (UNICEF) addresses common questions and concerns of parents about vaccines, such as their safety and whether it is necessary to vaccinate their child. 
 
-<h5>2. <a href="https://scitechvista.nat.gov.tw/Article/C000003/detail?ID=15d10c37-1f49-45b2-b064-6aa1f53c9463" target="_blank">消灭疾病，疫苗的发明与免疫反应</a></h5>
-郑瑞洲。（2008年7月9日）。消灭疾病，疫苗的发明与免疫反应。<i>科学大观园。</i> Retrieved 2020, April 2. 
+<h5>2. 消灭疾病，疫苗的发明与免疫反应</h5>
+郑瑞洲。（2008年7月9日）。消灭疾病，疫苗的发明与免疫反应。<i>科学大观园。</i> Retrieved 2020, April 2 from https://scitechvista.nat.gov.tw/Article/C000003/detail?ID=15d10c37-1f49-45b2-b064-6aa1f53c9463. 
 
 This article gives an overview of the history of vaccine development and principles behind how vaccines work.
 
