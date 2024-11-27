@@ -324,9 +324,9 @@ Following the ratification of the ASEAN Agreement on Transboundary Haze Pollutio
 
 **Haze Information**
 
-*Haze Information*. (2021). Retrieved January 20, 2021, from Metereological Service of Singapore website [https://www.haze.gov.sg/](https://www.haze.gov.sg/)
+*Haze*. (2021). Retrieved November 24, 2024, from National Environment Agency website [https://www.haze.gov.sg/](https://www.haze.gov.sg/)
 
-The Meteorological Service of Singapore provides an overview on the Latest Satellite Images and Regional Haze Maps. 
+The National Environment Agency provides an overview on the Latest Satellite Images and Regional Haze Maps. 
 
 
 
