@@ -76,15 +76,12 @@ Schatteman, O. (2020, April 27). Supply chain lessons from covid-19: Time to ref
 Khan, S. A. H. &amp; Yu, Z. (2019). *Strategic supply chain management*. Springer. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br> 
 <a href="https://nlb.overdrive.com/media/4768658" target="_blank"><img src="/images/business/GE3-strategic-supply.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
 
-<h5>2. Global supply chain ecosystems (summary): Strategies for competitive advantage in a complex, connected world</h5>
-Millar, M. (2017). *Global supply chain ecosystems (summary): Strategies for competitive advantage in a complex, connected world*. getAbstract. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br> 
-<a href="https://nlb.overdrive.com/media/3180602" target="_blank"><img src="/images/business/GE3-Global-supply-chain-ecosystems.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
 
-<h5>3. Sustainable development goals and sustainable supply chains in the post-global economy</h5>
+<h5>2. Sustainable development goals and sustainable supply chains in the post-global economy</h5>
 Yakovleva, N. &amp; Frei, R. (2019). *Sustainable development goals and sustainable supply chains in the post-global economy*. Springer International Publishing. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br> 
 <a href="https://nlb.overdrive.com/media/4760643" target="_blank"><img src="/images/business/GE3-Sustainable-development-goals.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
 
-<h5>4. The Global Supply Chain and Risk Management</h5>
+<h5>3. The Global Supply Chain and Risk Management</h5>
 Rosenberg, S. (2018). *The Global Supply Chain and Risk Management*. LaVergne: Business Expert Press. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br> 
 <a href="https://nlb.overdrive.com/media/3942490" target="_blank"><img src="/images/business/GE3-The-Global-Supply-Chain.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
 
