@@ -3,6 +3,7 @@ title: Air Pollution
 permalink: /guides/sci-tech/sciences/air-pollution/
 breadcrumb: Air Pollution
 description: ""
+variant: markdown
 ---
 ![Air Pollution](\images\sci-tech\air-pollution-banner.jpg)
 
@@ -23,17 +24,17 @@ Photo credit: [www.pexels.com](https://www.pexels.com/photo/air-air-pollution-cl
 
 Air pollution is the accumulation in the atmosphere of substances that, in sufficient concentrations, degrade ecosystems, damage buildings and endanger human health. Most air pollution is caused by human activities, but there are some natural sources of air pollution such as wildfires or volcanic ash.[^1]
 
-[^1]: Air pollution. (2011, April 4). *National Geographic*. Retrieved February 4, 2021 from <https://www.nationalgeographic.org/encyclopedia/air-pollution/>
+[^1]: Air pollution. (2011, April 4). *National Geographic*. Retrieved February 4, 2021 from [https://education.nationalgeographic.org/resource/air-pollution/](https://education.nationalgeographic.org/resource/air-pollution/)
 
 Some common air pollutants are soot, smoke, mold, pollen, methane and carbon dioxide. These can reach harmful concentrations both indoors and outdoors. Tiny particles smaller than 10 micrometers (classified as PM10 and PM2.5) can even be breathed into our lungs and into our bloodstream. Air pollution has caused an estimated 4.2 million premature deaths in 2016, about 90% of them in low- and middle-income countries.[^2] Air pollution has been linked to higher rates of cancer, heart disease, stroke, and other respiratory diseases.
 
-[^2]: Ambient (outdoor) air pollution. (2018, May 2). *World Health Organisation*. Retrieved February 4, 2021 from <https://www.who.int/en/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health/>
+[^2]: Ambient (outdoor) air pollution. (2018, May 2). *World Health Organisation*. Retrieved February 4, 2021 from [https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health](https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health)
 
 Beyond individual health, air pollution is known to have direct impacts on our environment. Climate change, global warming, ozone layer depletion, smog and acid rain are some effects of air pollution. Singapore has encountered situations with heavy haze in the past as well.
 
 Internationally, countries have begun working together to reduce air pollution and improve air quality worldwide. Renewable energy and zero-emission alternatives to vehicles and machines are being developed and implemented. Governments have also made commitments to limit emissions of carbon dioxide and greenhouse gases, through agreements such as the Paris Agreement and the Kigali Agreement.[^3]
 
-[^3]: Nunez, Christina. (2019, May 13). Carbon dioxide levels are at a record high. Here's what you need to know. *National Geographic*. Retrieved February 4, 2021 from <https://www.nationalgeographic.com/environment/global-warming/greenhouse-gases/>
+[^3]: Nunez, Christina. (2019, May 13). Carbon dioxide levels are at a record high. Here's what you need to know. *National Geographic*. Retrieved February 4, 2021 from [https://education.nationalgeographic.org/resource/carbon-dioxide-levels-are-record-high-heres-what-you-need-know/](https://education.nationalgeographic.org/resource/carbon-dioxide-levels-are-record-high-heres-what-you-need-know/)
 
 This guide highlights resources on air pollution and haze that are available at the Lee Kong Chian Reference Library as well as on the Internet. As the guide is not intended to be comprehensive, interested readers should search the NLB catalogue or the Internet for more resources.
 
@@ -52,7 +53,7 @@ This guide highlights resources on air pollution and haze that are available at 
 
 **Air Pollution: health and environmental impacts**
 
-<img src="/images/sci-tech/Air pollution health and environmental impacts.jpg" style="width:180px;" />
+<img src="/images/sci-tech/Air pollution health and environmental impacts.jpg" style="width:180px;">
 
 Bhola R. G., et al. (Eds.). (2010). [*Air Pollution: health and environmental impacts.*](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13600794) Boca Raton, Fla.: CRC Press.
 
@@ -62,7 +63,7 @@ The book examines the effect of air pollution on human health and the environmen
 
 **Clearing the air: The beginning and the end of air pollution**
 
-<img src="/images/sci-tech/clearing the air.jpg" style="width:180px;" />
+<img src="/images/sci-tech/clearing the air.jpg" style="width:180px;">
 
 Smedly, T. (2019). [*Clearing the air: The beginning and the end of air pollution*](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203834603)*.* London: Bloomsbury Sigma.
 
@@ -72,11 +73,11 @@ Sustainability journalist Tim Smedley explores what air pollution is, how it is 
 
 
 
-**Encyclopedia of global warming & climate change. (vols.1-3)**
+**Encyclopedia of global warming &amp; climate change. (vols.1-3)**
 
-<img src="/images/sci-tech/Encyclopedia of global warming and climate change.jpg" style="width:180px;" />
+<img src="/images/sci-tech/Encyclopedia of global warming and climate change.jpg" style="width:180px;">
 
-Philander, S. G. (Ed.). (2012). [*Encyclopedia of global warming & climate change*](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14692138). Thousand Oaks, Calif.: SAGE Publications, Inc.
+Philander, S. G. (Ed.). (2012). [*Encyclopedia of global warming &amp; climate change*](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14692138). Thousand Oaks, Calif.: SAGE Publications, Inc.
 
 Call Number: R 363.7387403 ENC
 
@@ -86,7 +87,7 @@ Philander explores and explains the importance of global warming and climate cha
 
 **Environmental Science**
 
-<img src="/images/sci-tech/Environmental Science.jpg" style="width:180px;" />
+<img src="/images/sci-tech/Environmental Science.jpg" style="width:180px;">
 
 Chiras, Daniel D. (2010). 8th ed. [*Environmental Science*](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13366474). 8th ed. Sudbury, Mass.; Singapore: Jones and Bartlett Publishers.
 
@@ -98,7 +99,7 @@ This book discusses environmental issues such as preserving biological diversity
 
 **Every breath you take: A user's guide to the atmosphere**
 
-<img src="/images/sci-tech/Every breath you take.jpg" style="width:180px;" />
+<img src="/images/sci-tech/Every breath you take.jpg" style="width:180px;">
 
 Broomfield, M. (2019). [*Every breath you take: A user's guide to the atmosphere.*](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203945295) London: Duckworth.
 
@@ -110,9 +111,9 @@ Air quality specialist Dr Mark Broomfield combines scientific evidence with pers
 
 **The great smog of China : a short event history of air pollution**
 
-<img src="/images/sci-tech/The great smog of China.jpg" style="width:180px;" />
+<img src="/images/sci-tech/The great smog of China.jpg" style="width:180px;">
 
-Ahlers, A. L., Hansen, M. H., & Svarverud, R. (2020). [*The great smog of China : a short event history of air pollution*](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=205255789){:target="_blank"}. Ann Arbor, MI: Association for Asian Studies, Inc.
+Ahlers, A. L., Hansen, M. H., &amp; Svarverud, R. (2020). [*The great smog of China : a short event history of air pollution*](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=205255789){:target="_blank"}. Ann Arbor, MI: Association for Asian Studies, Inc.
 
 Call number: 363.7392 AHL
 
@@ -122,7 +123,7 @@ This book traces the history or air pollution in China over more than 2000 years
 
 **Handbook of environment and waste management. [Volume 1], Air and water pollution**
 
-<img src="/images/sci-tech/Handbook of environment and waste management.jpg" style="width:180px;" />
+<img src="/images/sci-tech/Handbook of environment and waste management.jpg" style="width:180px;">
 
 Hung, Y., et. al. (Eds.). (2012). [*Handbook of environment and waste management. [Volume 1], Air and water pollution control*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14323681) Hackensack, NJ: World Scientific.
 
@@ -134,7 +135,7 @@ Chapters 1-4 of this volume address air pollution problems and control measures 
 
 **How much is clean air worth?: Calculating the benefits of pollution control**
 
-<img src="/images/sci-tech/How much is clean air worth.jpg" style="width:180px;" />
+<img src="/images/sci-tech/How much is clean air worth.jpg" style="width:180px;">
 
 Rabl, Ari. [et al.]. (2014). [*How much is clean air worth? : Calculating the benefits of pollution control*](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201295216). Cambridge, United Kingdom: Cambridge University Press.
 
@@ -146,7 +147,7 @@ The book offers an overview of the core methodologies and tools used to quantify
 
 **The invisible killer: The rising global threat of air pollution - and how we can fight back**
 
-<img src="/images/sci-tech/The invisible killer the rising global threat of air pollution.jpg" style="width:180px;" />
+<img src="/images/sci-tech/The invisible killer the rising global threat of air pollution.jpg" style="width:180px;">
 
 Fuller, G. (2019). [*The invisible killer: The rising global threat of air pollution - and how we can fight back*](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203791551). London: Melville House UK.
 
@@ -158,13 +159,13 @@ Air pollution scientist Gary Fuller explores particle pollution, delving into th
 
 **Pollution across borders: Transboundary fire, smoke and haze in Southeast Asia**
 
-<img src="/images/sci-tech/Pollution across borders.jpg" style="width:180px;" />
+<img src="/images/sci-tech/Pollution across borders.jpg" style="width:180px;">
 
-Quah, E. & Tan, T.S. (2018). [*Pollution across borders: Transboundary fire, smoke and haze in Southeast Asia*](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203143673)*.* Singapore ; Hackensack, NJ : World Scientific Publishing Co. Pte. Ltd.
+Quah, E. &amp; Tan, T.S. (2018). [*Pollution across borders: Transboundary fire, smoke and haze in Southeast Asia*](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203143673)*.* Singapore ; Hackensack, NJ : World Scientific Publishing Co. Pte. Ltd.
 
 Call number: 363.73870959 POL
 
-Experts from various fields discuss the recurring haze problem in Southeast Asia, covering its causes, perpetrators & victims, costs & impacts, potential solutions & their effectiveness, and prospects of resolving the pollution.
+Experts from various fields discuss the recurring haze problem in Southeast Asia, covering its causes, perpetrators &amp; victims, costs &amp; impacts, potential solutions &amp; their effectiveness, and prospects of resolving the pollution.
 
 
 ### Ebooks
@@ -197,9 +198,9 @@ This book presents new research and findings related to environmental emissions,
 
 **Non-exhaust emissions: An urban air quality problem for public health; impact and mitigation measures**
 
-<img src="/images/sci-tech/Non exhaust emissions an urban air quality.jpg" style="width:180px;" />
+<img src="/images/sci-tech/Non exhaust emissions an urban air quality.jpg" style="width:180px;">
 
-Amato, F. (2018). *Non-exhaust emissions: An urban air quality problem for public health; impact and mitigation measures.* Elsevier Science & Technology. Retrieved from [Proquest Ebook Central](https://eresources.nlb.gov.sg/main/Resource/1324){:target="blank"}. ([*myLibrary ID*](https://account.nlb.gov.sg) is required to access the e-book)
+Amato, F. (2018). *Non-exhaust emissions: An urban air quality problem for public health; impact and mitigation measures.* Elsevier Science &amp; Technology. Retrieved from [Proquest Ebook Central](https://eresources.nlb.gov.sg/main/Resource/1324){:target="blank"}. ([*myLibrary ID*](https://account.nlb.gov.sg) is required to access the e-book)
 
 A significant part of emissions are generated from non-exhaust sources, such as road dust and tire wear. This book explores the nature of this specific type of particulate matter and their impact on public health, defining the current knowledge, gaps, and future needs.
 
@@ -209,7 +210,7 @@ A significant part of emissions are generated from non-exhaust sources, such as 
 
 **Experience from Integrated Air Quality Management in the Mexico City Metropolitan Area and Singapore**
 
-Molina, L. T., Velasco, E., Retama, A., & Zavala, M. (2019). Experience from Integrated Air Quality Management in the Mexico City Metropolitan Area and Singapore. *Atmosphere,* *10*(9). Retrieved 2021, February 23, from [Proquest Central](http://eresources.nlb.gov.sg/main/browse/resource/1111/){:target="blank"} via NLB’s eResources website.
+Molina, L. T., Velasco, E., Retama, A., &amp; Zavala, M. (2019). Experience from Integrated Air Quality Management in the Mexico City Metropolitan Area and Singapore. *Atmosphere,* *10*(9). Retrieved 2021, February 23, from [Proquest Central](http://eresources.nlb.gov.sg/main/browse/resource/1111/){:target="blank"} via NLB’s eResources website.
 
 This article reviews the air quality and compares the policies implemented in both the Mexico City Metropolitan Area (MCMA) and Singapore. While differences in the governance, economics, and culture of the two cities influence the decision-making process, both have made progress in reducing concentrations of harmful pollutants by implementing comprehensive integrated air quality management programs. Findings offer insights into the complexity of managing air pollution to protect public health and the environment.
 
@@ -225,7 +226,7 @@ Haze in Indonesia and Malaysia is thought to have caused more than 200,000 respi
 
 **Impacts of Climate Change and Air Pollution on the Tourism Industry: Evidence from Southeast Asia**
 
-Nguyen, T. G. (2019). Impacts of Climate Change and Air Pollution on the Tourism Industry: Evidence from Southeast Asia. *Journal of Environmental Management & Tourism,* *10*(8), 1711-1722. Retrieved 2021, February 23, from [Proquest Central](http://eresources.nlb.gov.sg/main/browse/resource/1111/){:target="blank"} via NLB’s eResources website.
+Nguyen, T. G. (2019). Impacts of Climate Change and Air Pollution on the Tourism Industry: Evidence from Southeast Asia. *Journal of Environmental Management &amp; Tourism,* *10*(8), 1711-1722. Retrieved 2021, February 23, from [Proquest Central](http://eresources.nlb.gov.sg/main/browse/resource/1111/){:target="blank"} via NLB’s eResources website.
 
 This paper examines the effects of climate change and air pollution on the tourism industry in Southeast Asia. Findings show that air pollution has a negative effect on total tourist arrivals, with nitrous oxide emission being the key driver. These results suggest that governments may need to make critical policy decisions to weigh between short-term economic growth and long-term environmental improvement to enhance tourist destination quality in the future.
 
@@ -233,7 +234,7 @@ This paper examines the effects of climate change and air pollution on the touri
 
 **Particulate air pollution on cardiovascular mortality in the tropics: impact on the elderly**
 
-Yap, J., Ng, Y., Yeo, K. K., Sahlén, A., Lam, C. S. P., Lee, V., & Ma, S. (2019). Particulate air pollution on cardiovascular mortality in the tropics: impact on the elderly. *Environmental Health: A Global Access Science Source*, *18*(34). Retrieved 2021, February 23, from [EBSCOhost Academic Search Complete](http://eresources.nlb.gov.sg/main/browse/resource/1329/){:target="blank"} via NLB’s eResources website.
+Yap, J., Ng, Y., Yeo, K. K., Sahlén, A., Lam, C. S. P., Lee, V., &amp; Ma, S. (2019). Particulate air pollution on cardiovascular mortality in the tropics: impact on the elderly. *Environmental Health: A Global Access Science Source*, *18*(34). Retrieved 2021, February 23, from [EBSCOhost Academic Search Complete](http://eresources.nlb.gov.sg/main/browse/resource/1329/){:target="blank"} via NLB’s eResources website.
 
 Air pollution has a significant health impact, and this study examines the health impact of air pollution, particularly among the elderly, in a tropical region. Contemporary population-based data from an equatorial country with tropical climate show that exposure to particulate air pollution was significantly associated with non-accidental mortality and cardiovascular mortality, especially in the elderly.
 
@@ -241,7 +242,7 @@ Air pollution has a significant health impact, and this study examines the healt
 
 **Southeast Asia's transboundary haze pollution: Unravelling the inconvenient truth**
 
-Zhang, J. J., & Savage, V. R. (2019). Southeast Asia’s transboundary haze pollution: Unravelling the inconvenient truth. *Asia Pacific Viewpoint*, *60*(3), 355–369. Retrieved 2021, February 23, from [EBSCOhost Academic Search Complete](http://eresources.nlb.gov.sg/main/browse/resource/1329/){:target="blank"} via NLB’s eResources website.
+Zhang, J. J., &amp; Savage, V. R. (2019). Southeast Asia’s transboundary haze pollution: Unravelling the inconvenient truth. *Asia Pacific Viewpoint*, *60*(3), 355–369. Retrieved 2021, February 23, from [EBSCOhost Academic Search Complete](http://eresources.nlb.gov.sg/main/browse/resource/1329/){:target="blank"} via NLB’s eResources website.
 
 This paper examines the political intricacies inherent in the management of Southeast Asia's transboundary haze pollution. The 'environment' takes on different meanings at each scale, and both Indonesia and the Association of Southeast Asian Nations (ASEAN) need to recognise this in order to engage more effectively with the transboundary environmental issue. The paper calls for a greater awareness of structural weaknesses in the management of forest resources and a change in ASEAN's environmental paradigm to a more holistic ecosystem perspective that prioritises not just environmental and human health, but also a healthy and sustainable ecosystem. 
 
@@ -249,7 +250,7 @@ This paper examines the political intricacies inherent in the management of Sout
 
 **The Impacts of Air Pollution on Health and Economy in Southeast Asia**
 
-Taghizadeh-Hesary, F., & Taghizadeh-Hesary, F. (2020). The Impacts of Air Pollution on Health and Economy in Southeast Asia. *Energies,* *13*(7), 1812. Retrieved 2021, February 23, from [Proquest Central](http://eresources.nlb.gov.sg/main/browse/resource/1111/){:target="blank"} via NLB’s eResources website.
+Taghizadeh-Hesary, F., &amp; Taghizadeh-Hesary, F. (2020). The Impacts of Air Pollution on Health and Economy in Southeast Asia. *Energies,* *13*(7), 1812. Retrieved 2021, February 23, from [Proquest Central](http://eresources.nlb.gov.sg/main/browse/resource/1111/){:target="blank"} via NLB’s eResources website.
 
 Ambient air pollution from fossil fuel use has a latent cost, that is public health issues such as respiratory diseases, lung cancer and long-term economic burdens. In Southeast Asia, lung cancer are leading causes of cancer-related deaths. This study uses 2000-2016 data for ten Southeast Asian countries to examine the possible associations between emissions, lung cancer, and the economy. Results confirm that CO2 and PM2.5 are major risk factors for lung cancer in the region. However, increased use of renewable energy and higher healthcare expenditure tends to reduce lung cancer prevalence.
 
@@ -257,7 +258,7 @@ Ambient air pollution from fossil fuel use has a latent cost, that is public hea
 
 **The Relationship Between Air Pollution and All-Cause Mortality in Singapore**
 
-Ho, A. F. W., Zheng, H., Cheong, K. H., En, W. L., Pek, P. P., Zhao, X., Morgan, G. G., Earnest, A., Tan, B. Y. Q., Ng, Y. Y., Foo, L. L., & Ong, M. E. H. (2020). The Relationship Between Air Pollution and All-Cause Mortality in Singapore. *Atmosphere*, *11*(1), 9. Retrieved 2021, February 23, from [https://www.mdpi.com](https://www.mdpi.com/2073-4433/11/1/9/htm){:target="blank"}
+Ho, A. F. W., Zheng, H., Cheong, K. H., En, W. L., Pek, P. P., Zhao, X., Morgan, G. G., Earnest, A., Tan, B. Y. Q., Ng, Y. Y., Foo, L. L., &amp; Ong, M. E. H. (2020). The Relationship Between Air Pollution and All-Cause Mortality in Singapore. *Atmosphere*, *11*(1), 9. Retrieved 2021, February 23, from [https://www.mdpi.com](https://www.mdpi.com/2073-4433/11/1/9/htm){:target="blank"}
 
 Ambient air pollution is a risk factor for both acute and chronic diseases and poses serious health threats to the world population. This study examines the relationship between air pollution and all-cause mortality in the context of a city-state exposed to the Southeast Asian haze problem. Findings provide evidence on the general health hazard of exposure to air pollution, which can potentially guide public health policies in the region.
 
@@ -265,7 +266,7 @@ Ambient air pollution is a risk factor for both acute and chronic diseases and p
 
 **Urban and air pollution: a multi-city study of long-term effects of urban landscape patterns on air quality trends**
 
-Liang, L., & Gong, P. (2020). Urban and air pollution: a multi-city study of long-term effects of urban landscape patterns on air quality trends. *Scientific Reports*, *10*(1), 1-13. Retrieved 2021, February 23, from [EBSCOhost Academic Search Complete](http://eresources.nlb.gov.sg/main/browse/resource/1329/){:target="blank"} via NLB’s eResources website.
+Liang, L., &amp; Gong, P. (2020). Urban and air pollution: a multi-city study of long-term effects of urban landscape patterns on air quality trends. *Scientific Reports*, *10*(1), 1-13. Retrieved 2021, February 23, from [EBSCOhost Academic Search Complete](http://eresources.nlb.gov.sg/main/browse/resource/1329/){:target="blank"} via NLB’s eResources website.
 
 This study comprehensively examines the urban form effects on air quality in cities of different population sizes, at different developmental levels, and in different spatial layouts. The study shows that urban form changes have long-term effects on PM2.5 levels with different aspects playing larger roles for different developmental stages.
 
@@ -277,14 +278,14 @@ These websites provide further information on the topic of air pollution, such a
 
 **Air pollution**
 
-World Health Organisation (WHO). (2016, January). *Air pollution*. Retrieved January 20, 2021, from: <https://www.who.int/health-topics/air-pollution>
+World Health Organisation (WHO). (2016, January). *Air pollution*. Retrieved January 20, 2021, from [https://www.who.int/health-topics/air-pollution](https://www.who.int/health-topics/air-pollution)
 
 The WHO provides facts, technical information and statistics with data analysis on air pollution. 2016, January. 
 
 
 **Air Pollution Facts, Causes and the Effects of Pollutants in the Air**
 
-Natural Resources Defence Council (NRDC). (2016, November 1). *Air Pollution Facts, Causes and the Effects of Pollutants in the Air*. Retrieved January 20, 2021, from: <https://www.nrdc.org/stories/air-pollution-everything-you-need-know>
+Natural Resources Defence Council (NRDC). (2016, November 1). *Air Pollution Facts, Causes and the Effects of Pollutants in the Air*. Retrieved January 20, 2021, from [https://www.nrdc.org/stories/air-pollution-everything-you-need-know](https://www.nrdc.org/stories/air-pollution-everything-you-need-know)
 
 The NRDC is an environmental action organisation that tackles environmental issues through public lobbying and partners community groups and businesses to ensure the rights of all people to clean air, clean water, and healthy communities. This section of the website reports on how smog, soot, greenhouse gases, and other top air pollutants are affecting the planet and your health.
 
@@ -292,7 +293,7 @@ The NRDC is an environmental action organisation that tackles environmental issu
 
 **Air Pollution: Medline Plus**
 
-MedlinePlus*.* (2016, March 28). *Air Pollution: Medline Plus*. Retrieved January 20, 2021, from: <https://medlineplus.gov/airpollution.html>
+MedlinePlus*.* (2016, March 28). *Air Pollution: Medline Plus*. Retrieved January 20, 2021, from [https://medlineplus.gov/airpollution.html](https://medlineplus.gov/airpollution.html)
 
 This website focuses on the health impact of air pollution, providing authoritative information from various US health associations and government organisations, including the US National Library of Medicine.
 
@@ -300,7 +301,7 @@ This website focuses on the health impact of air pollution, providing authoritat
 
 **Air Topics**
 
-Environmental Protection Agency. (2020, May 15*). Air Topics*. Retrieved January 20, 2021, from: <https://www.epa.gov/environmental-topics/air-topics>
+Environmental Protection Agency. (2020, May 15*). Air Topics*. Retrieved January 20, 2021, from [https://www.epa.gov/environmental-topics/air-topics](https://www.epa.gov/environmental-topics/air-topics)
 
 This website provides information on air pollution, including air pollutants, indoor air quality, air quality management, relevant research and pertinent data. 
 
@@ -308,23 +309,14 @@ This website provides information on air pollution, including air pollutants, in
 
 **ASEAN Agreement on Transboundary Haze Pollution**
 
-The ASEAN Secretariat, (2019). [*ASEAN Agreement on Transboundary Haze Pollution*](http://haze.asean.org/wp-content/uploads/2019/11/ASEAN-Agreement-on-Transboundary-Haze-Pollution-AATHP-Reprint-2019_web.pdf). Retrieved 2021, January 20 from <http://haze.asean.org/>
+The ASEAN Secretariat, (2019). [*ASEAN Agreement on Transboundary Haze Pollution*](http://haze.asean.org/wp-content/uploads/2019/11/ASEAN-Agreement-on-Transboundary-Haze-Pollution-AATHP-Reprint-2019_web.pdf). Retrieved 2021, January 20 from 
 
 This is the ASEAN Agreement on Transboundary Haze Pollution, which the ASEAN countries affirmed on 10 June 2002, in order to manage transboundary haze pollution in the region.
 
 
-
-**Clean Air Counter**
-
-Greenpeace International. (2021). *Clean Air Counter.* Retrieved January 20, 2021, from: <https://www.greenpeace.org/international/campaign/tracking-cost-air-pollution/>
-
-Greenpeace uses live air quality data to track the health impact and economic cost of air pollution in real time. Estimated premature deaths and economic cost in US$ billions are projected.
-
-
-
 **Haze Action Online**
 
-ASEAN Haze Action Online (2021). *Haze Action Online.* Retrieved January 20, 2021, from <http://haze.asean.org/>
+The ASEAN Secretariat (2021). *ASEAN Haze Portal .* Retrieved November 27, 2024, from [https://hazeportal.asean.org/](https://hazeportal.asean.org/)
 
 Following the ratification of the ASEAN Agreement on Transboundary Haze Pollution, this website traces the haze outlook for the ASEAN region. Media resources, guidelines, agreements and other publications regarding ASEAN provide contextual information about the region and the ASEAN countries’ participation.
 
@@ -332,23 +324,21 @@ Following the ratification of the ASEAN Agreement on Transboundary Haze Pollutio
 
 **Haze Information**
 
-*Haze Information*. (2021). Retrieved January 20, 2021, from Metereological Service of Singapore website: <http://www.weather.gov.sg/warning-haze-satellite-image/>
+*Haze*. (2021). Retrieved November 24, 2024, from National Environment Agency website [https://www.haze.gov.sg/](https://www.haze.gov.sg/)
 
-The Meteorological Service of Singapore provides an overview on the Latest Satellite Images and Regional Haze Maps. 
-
-
+The National Environment Agency provides an overview on the Latest Satellite Images and Regional Haze Maps. 
 
 **Haze-Related Commentaries**
 
-National Environment Agency (2021). *Haze-Related Commentaries.* Retrieved January 20, 2021 from <https://www.haze.gov.sg/haze-related-commentaries>
+National Environment Agency (2021). *Haze-Related Commentaries.* Retrieved January 20, 2021 from [https://www.haze.gov.sg/haze-related-commentaries](https://www.haze.gov.sg/haze-related-commentaries)
 
 The National Environment Agency commissioned this dedicated website in 2013 to track the air quality of the nation, provide health advisories, and collate related news and information resources regarding haze and air quality in the region.
 
 
 
-**NEA &#124; Air Quality**
+**NEA |&nbsp;Air Quality**
 
-National Environment Agency (NEA) (2013). *NEA &#124; Air Quality.* Retrieved January 20, 2021, from: <https://www.nea.gov.sg/our-services/pollution-control/air-pollution/air-quality>
+National Environment Agency (NEA) (2013). *NEA |&nbsp;Air Quality.* Retrieved January 20, 2021, from [https://www.nea.gov.sg/our-services/pollution-control/air-pollution/air-quality](https://www.nea.gov.sg/our-services/pollution-control/air-pollution/air-quality)
 
 Find out about Singapore’s air quality targets, air pollution regulations, how PSI is measured, and read FAQs on air quality and haze.
 
@@ -359,43 +349,43 @@ The videos selected below provide an overview of the causes of air pollution and
 
 (listed in alphabetical order)
 
-**Air Pollution 101 &#124; National Geographic**
+**Air Pollution 101 | National Geographic**
 
-National Geographic. (2017, October 16). *Air Pollution 101 &#124; National Geographic* [Video]. YouTube. https://www.youtube.com/watch?v=e6rglsLy1Ys
+National Geographic. (2017, October 16). *Air Pollution 101 |&nbsp;National Geographic* [Video]. YouTube. https://www.youtube.com/watch?v=e6rglsLy1Ys
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e6rglsLy1Ys" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e6rglsLy1Ys" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 National Geographic provides a short primer on what air pollution is and its effects on people.
 
 **Air pollution and health**
 
-World Health Organization (WHO). (2019, October 1). Air pollution and health. YouTube. <https://www.youtube.com/playlist?list=PL9S6xGsoqIBUkBtzM6weiNUc1ZNMPT0-7>
+World Health Organization (WHO). (2019, October 1). Air pollution and health. YouTube. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P-65ik9UKew" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P-65ik9UKew" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 The WHO provides a playlist of videos related to air pollution, covering its health effects, actions taken by organisations and nations, and what you can do to help.
 
-**CNA &#124; Talking Point &#124; E26: Will we see an end to the haze?**
+**CNA | Talking Point |&nbsp;E26: Will we see an end to the haze?**
 
-CNA. (2019, October 26). *CNA &#124; Talking Point &#124; E26: Will we see an end to the haze?* [Video]. YouTube. <https://www.youtube.com/watch?v=ychBYe6BD90>
+CNA. (2019, October 26). *CNA | Talking Point | E26: Will we see an end to the haze?* [Video]. YouTube. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ychBYe6BD90" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ychBYe6BD90" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 CNA discusses the forest fires in Indonesia and considers whether there will be an end to the haze
 
 **Haze in Southeast Asia**
 
-The Straits Times. (2019, September 19). Haze in Southeast Asia &#124; Asian Insider &#124; The Straits Times [Video]. YouTube. <https://www.youtube.com/watch?v=Tq7CIprijEU>
+The Straits Times. (2019, September 19). Haze in Southeast Asia | Asian Insider | The Straits Times [Video]. YouTube. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Tq7CIprijEU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Tq7CIprijEU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ST's Asian Insider explores the transboundary haze engulfing the region, discussing this recurring phenomenon and the implications for Indonesia, Malaysia and Singapore.
 
 **What to do during the haze? (English)**
 
-govsg. (2016, August 31). *What to do during the haze? (English)* [Video]. YouTube. <https://www.youtube.com/watch?v=R3vpkMWyt2w>{:target="blank"} 
+govsg. (2016, August 31). *What to do during the haze? (English)* [Video]. YouTube. {:target="blank"} 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/R3vpkMWyt2w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R3vpkMWyt2w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 The Singapore Government provides some useful tips and precautions to take to keep safe and healthy during any haze.
 

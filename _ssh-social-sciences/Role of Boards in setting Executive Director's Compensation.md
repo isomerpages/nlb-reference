@@ -3,10 +3,9 @@ title: Role of Boards in setting Executive Director's Compensation
 permalink: /guides/socscihum/soc-sci/exec-director-compense/
 breadcrumb: Role of Boards in setting Executive Director's Compensation
 collection_name: social-sciences-humanities-social-sciences
-published: true
+published: "true"
+variant: markdown
 ---
-
-
 ### <u>Guide Index</u>
 
 * [Introduction](#introduction)
@@ -31,32 +30,32 @@ This guide provides recommended resources on the topic of role of boards in sett
 
 (listed in alphabetical order)
 
-* Donnolo, M. (2017). [What your CEO needs to know about sales compensation: Connecting the corner office to the front line](https://nlb.overdrive.com/media/03E09B6D-34DE-4540-ADFA-7656C1FFC6F1). Luzern: getAbstract. Available from NLB Overdrive.
+* Girous, G. (2020). [Executive compensation: Accounting and economic issues](https://nlb.overdrive.com/media/3313401). Business Expert Press. Available from NLB Overdrive.
 
-The author offers chief executive officer (CEO) the best practices in sales compensation planning and program implementation. Includes a revenue roadmap and an interactive report card that will be useful for CEO in planning and grading the compensation plans.
+The CEO and executive team manage a corporation's success, often receiving high, performance-based compensation. This has led to concerns about short-term earnings manipulation, prompting public policy discussions and federal regulation regarding executive pay structures and their impact on corporate behavior. This title discusses current issues regarding executive compensation and possible steps forward.
 
 
-* Clifford, S. (2017). [The CEO pay machine: How it trashes America and how to stop it](https://singapore.libraryreserve.com/10/50/en/ContentDetails.htm?id=9BC097F7-577A-4B45-A326-229BA6DE761F). New York: Penguin Random House Audio Publishing Group. Available from NLB Overdrive.
+* Clifford, S. (2017). [The CEO pay machine: How it trashes America and how to stop it](https://nlb.overdrive.com/media/2937926). New York: Penguin Random House Audio Publishing Group. Available from NLB Overdrive.
 
 Clifford examines how board directors and compensation committees have directly contributed to the rising salaries and bonuses of executives. He questions the wisdom of an out-of-control bonus system that limits an organisation’s progress or induces a CEO to act in a way that may be in conflict with a company’s best interests. Instead, he advocates replacing an annual bonus with restricted stock, making the CEO a shareholder with a vested interest in the organisation’s success. Other recommendations include prohibiting CEOs from also being board chairpersons, linking pay to internal equity and instituting a luxury tax on excess compensation.
 
 
-* Hoskisson, R. E., & Hitt, M. A. (2014). Downscoping: How to tame the diversified firm. Oxford: Oxford University Press. Available from Proquest Ebook Central.
+* Hoskisson, R. E., &amp; Hitt, M. A. (2014). Downscoping: How to tame the diversified firm. Oxford: Oxford University Press. Available from Proquest Ebook Central.
 
 The authors offer incentive and compensation adjustments for executives, leveraged buy-outs and capital structure changes, focusing on core skills, diversifying internationally and buying and selling mature businesses where product development is not a great concern. 
 
 
-* Reda, J. F., Reifler, S., & Stevens, M. L. (2014). Compensation committee handbook (4). Hoboken, New Jersey: Wiley. Available from Proquest Ebook Central.
+* Reda, J. F., Reifler, S., &amp; Stevens, M. L. (2014). Compensation committee handbook (4). Hoboken, New Jersey: Wiley. Available from Proquest Ebook Central.
 
 This handbook provides information on compensation and how to succeed in melding highly complex technical information and concepts with both corporate governance principles and business judgment. Available from eBrary books.
 
 
-* Sheridan, K. (2011).[ Building a magnetic culture: How to attract and retain top talent to create an engaged, productive workforce](https://singapore.libraryreserve.com/10/50/en/ContentDetails.htm?id=3CEEA73E-E42B-4B61-B33A-661627C14C3B). Columbus, OH: McGraw-Hill Education. Available from NLB Overdrive.
+* Sheridan, K. (2011).[Building a magnetic culture: How to attract and retain top talent to create an engaged, productive workforce](https://nlb.overdrive.com/media/681194). Columbus, OH: McGraw-Hill Education. Available from NLB Overdrive.
 
 The author gives strategies and tactics to transform company by creating and sustaining a magnetic culture. Organisations that place a high value on actively cultivating a culture of engagement stand apart from their competition and enjoy superior business results.
 
 
-* Welch, S., Klauer, K., & Fontenot, S. F. (2012). Healthcare executive compensation: A guide for leaders and trustees. Chicago: Ache Management Series. Available from Proquest Ebook Central.
+* Welch, S., Klauer, K., &amp; Fontenot, S. F. (2012). Healthcare executive compensation: A guide for leaders and trustees. Chicago: Ache Management Series. Available from Proquest Ebook Central.
 
 This book helps CEOs and board compensation committees deal with issues such as compensation philosophy, the structure of the executive compensation programme, the balance among its components, the emphasis on pay-for-performance, and the challenges of governing executive compensation. Available from eBrary books.
 
@@ -78,7 +77,7 @@ Call no.: RBUS 658.422 NON
 A guide to good governance for board leaders at all levels of experience and expertise. It offers resources on board governance. The topics includes board structure and process, board member recruitment and orientation, board-staff relations, financial management, risk management and mergers. Part three of the book provides information on board members’ compensation.
 
 
-* Lim, G. S., Mathis, R. L., & Jackson, J. H. (2016). [Human resource management](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202593627). (Second edition, Asia edition). Singapore: Cengage Learning Asia Pte Ltd.
+* Lim, G. S., Mathis, R. L., &amp; Jackson, J. H. (2016). [Human resource management](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202593627). (Second edition, Asia edition). Singapore: Cengage Learning Asia Pte Ltd.
 
 Call no.: RSING 658.30095 LIM
 
@@ -126,7 +125,7 @@ Nonprofit organisations are diverse and their human resources needs can vary wid
 * City of New York (NYC). (2016). Board and staff structure: Compensation of the Chief Executive of a nonprofit. Retrieved July 18, 2017, from NYC Nonprofits website:
 http://www1.nyc.gov/site/nonprofits/resources/compensation-of-the-chief-executive-of-a-nonprofit.page 
 
-Describes the role of board directors in hiring and establishing the compensation (salary and benefits) of the executive director or CEO. Includes a complete copy of the NYC Good Governance Blueprint (Board and Staff Roles & Responsibility Section).
+Describes the role of board directors in hiring and establishing the compensation (salary and benefits) of the executive director or CEO. Includes a complete copy of the NYC Good Governance Blueprint (Board and Staff Roles &amp; Responsibility Section).
 
 
 * Clifford, S. (2017). How companies actually decide what to pay CEOs. Retrieved September 5, 2017, from The Atlantic website: https://www.theatlantic.com/business/archive/2017/06/how-companies-decide-ceo-pay/530127/ T
