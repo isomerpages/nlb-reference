@@ -133,11 +133,6 @@ Maklumat salah tular buatkan ramai tidak percaya faedah vaksin. (2019, June 29).
 
 This article reports UNICEF’s social media campaign that was launched in April 2019 to raise public awareness that vaccines are safe and can save lives. 
 
-<h5>4. <a href="https://in.vaccine-safety-training.org/how-vaccines-work.html" target="_blank">Bagaimana vaksin bekerja</a></h5>
-Bagaimana vaksin bekerja. (2020). <i>World Health Organization</i>. Retrieved 2020, March 31.
-
-This website explains how vaccines prevent the spread of diseases, which diseases are vaccine-preventable and the importance of immunisation programmes.
-
 
 <h4>Disclaimer/ Rights statement</h4>
 
