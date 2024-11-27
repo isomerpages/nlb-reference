@@ -86,7 +86,7 @@ Source: <a href="https://www.youtube.com/embed/s6bk1PKIuzo" target="_blank">The 
 Source: <a href="https://www.youtube.com/embed/_cYIvfS-knA" target="_blank">Neuroscience, AI and the future of education | Scott Bolland | TEDxSouthBank.</a> (2016, June 30). <i>TEDx Talks</i>. Retrieved 2020, April 28.
 
 <h5>4. <a href="https://soundcloud.com/harvardedcast/the-digital-divide-and-remote-learning" target="_blank">Harvard EdCast: Remote learning and the digital divide</a></h5>
-Harvard EdCast: Remote learning and the digital divide. (2020, April 22). <i>Harvard Graduate School of Education</i>. Retrieved 2024, November 24 from SoundCl.
+Harvard EdCast: Remote learning and the digital divide. (2020, April 22). <i>Harvard Graduate School of Education</i>. Retrieved 2024, November 24 from SoundCloud.
 
 
 
