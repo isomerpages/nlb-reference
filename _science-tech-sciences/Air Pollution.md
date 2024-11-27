@@ -328,11 +328,9 @@ Following the ratification of the ASEAN Agreement on Transboundary Haze Pollutio
 
 The National Environment Agency provides an overview on the Latest Satellite Images and Regional Haze Maps. 
 
-
-
 **Haze-Related Commentaries**
 
-National Environment Agency (2021). *Haze-Related Commentaries.* Retrieved January 20, 2021 from 
+National Environment Agency (2021). *Haze-Related Commentaries.* Retrieved January 20, 2021 from [https://www.haze.gov.sg/haze-related-commentaries](https://www.haze.gov.sg/haze-related-commentaries)
 
 The National Environment Agency commissioned this dedicated website in 2013 to track the air quality of the nation, provide health advisories, and collate related news and information resources regarding haze and air quality in the region.
 
@@ -340,7 +338,7 @@ The National Environment Agency commissioned this dedicated website in 2013 to t
 
 **NEA |&nbsp;Air Quality**
 
-National Environment Agency (NEA) (2013). *NEA |&nbsp;Air Quality.* Retrieved January 20, 2021, from: 
+National Environment Agency (NEA) (2013). *NEA |&nbsp;Air Quality.* Retrieved January 20, 2021, from [https://www.nea.gov.sg/our-services/pollution-control/air-pollution/air-quality](https://www.nea.gov.sg/our-services/pollution-control/air-pollution/air-quality)
 
 Find out about Singapore’s air quality targets, air pollution regulations, how PSI is measured, and read FAQs on air quality and haze.
 
