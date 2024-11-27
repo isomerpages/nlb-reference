@@ -3,10 +3,9 @@ title: Role of Boards in Managing Risks
 permalink: /guides/business/management/role-of-boards-in-managing-risks/
 breadcrumb: Role of Boards in Managing Risk
 collection_name: business-management
-published: true
+published: "true"
+variant: markdown
 ---
-
-
 ### <u>Guide Index</u>
 
 * [Introduction](#introduction)
@@ -43,12 +42,12 @@ This is a selection of resources on Role of Boards in Managing Risks available f
 
  
 
-* Adi, A., Crowther, D., & Grigore, G. (Eds.) (2015). Corporate social responsibility in the digital age.  Bingley, U.K.: Emerald Group Publishing Limited. Available from ProQuest Ebook Central.
+* Adi, A., Crowther, D., &amp; Grigore, G. (Eds.) (2015). Corporate social responsibility in the digital age.  Bingley, U.K.: Emerald Group Publishing Limited. Available from ProQuest Ebook Central.
 
 This book examines key conceptual insights about corporate social responsibility (CSR) and digital and social media and explores best practices for online corporate social responsibility. In this way, the volume explores the impact and influence of the new ‘social’ on responsibility and their feasibility, measurability and success in a boundary-less world.
 
 
-* McCarthy, M. P., & Flynn, T. P. (2017). [Risk from the CEO and Board perspective: What all managers need to know about growth in a turbulent world](https://nlb.overdrive.com/media/3186549). Luzern: GetAbstract. Retrieved from OverDrive.
+* McCarthy, M. P., &amp; Flynn, T. (2011). [Risk from the CEO and Board perspective: What all managers need to know about growth in a turbulent world](https://nlb.overdrive.com/media/591582). McGraw Hill LLC. Retrieved from OverDrive.
 
 This book provides a simple, short introduction to the subject of risk such as financial risk, operational risk, reputation risk, governance risk and even the risk of terrorist attack that the CEO and Board should know about.
 
@@ -62,7 +61,7 @@ One key to success in managing a nonprofit organisation is building a strong rel
 
 (listed in alphabetical order)
 
-* Alexander, G. (2015). [The nonprofit survival guide: A strategy for sustainability](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202498437). Jefferson, North Carolina: McFarland & Company, Inc., Publishers.
+* Alexander, G. (2015). [The nonprofit survival guide: A strategy for sustainability](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202498437). Jefferson, North Carolina: McFarland &amp; Company, Inc., Publishers.
 
 Call no.: 658.048 ALE -\[BIZ\]
 
@@ -76,21 +75,21 @@ Call no.: RBUS 658.422 NON
 This book demonstrates how executives and board members of nonprofit boards can be more effective, meet difficult situations head-on and deal with commonplace challenges with confidence. Topics include information on the viability of for-profit ventures, board retreats, board diversity, fundraising, financial oversight, strategic thinking and the use of technology.
 
 
-* Charan, R., Carey, D. C., & Useem, M. (2014). [Boards that lead: When to take charge, when to partner, and when to stay out of the way](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200163040). Boston, Massachusetts: Harvard Business Review Press.
+* Charan, R., Carey, D. C., &amp; Useem, M. (2014). [Boards that lead: When to take charge, when to partner, and when to stay out of the way](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200163040). Boston, Massachusetts: Harvard Business Review Press.
 
 Call no.: 658.422 CHA -\[BIZ\]
 
 This book, from three leading experts in the field, serves as a guide to help take advantage of board oversight while avoiding the pitfalls. They say to today’s leaders that chief executives must run the corporation and directors lead the corporation on the most crucial issues such as monitoring, governance and rebalance the responsibilities of the board. They offer a new roadmap both to CEOs and directors so that senior executives can better balance board oversight with their day-to-day operations of the firm and directors have a better understanding of when to lead, when to partner and when to stay out of the way.
 
 
-* Ott, J. S., & Dicke, L. A. (Eds.). (2016). [Understanding nonprofit organizations: Governance, leadership and management with case studies by C. Kenneth Meyer](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202661190). (3rd ed). Boulder, CO: Westview Press, a member of the Perseus Book Group.
+* Ott, J. S., &amp; Dicke, L. A. (Eds.). (2016). [Understanding nonprofit organizations: Governance, leadership and management with case studies by C. Kenneth Meyer](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202661190). (3rd ed). Boulder, CO: Westview Press, a member of the Perseus Book Group.
 
 Call no.: RBUS 658.048 UND
 
 The text focuses on governing, leading, and managing nonprofit organisations and how such organisations differ from both the public and private sectors. Each of the ten chapters in the book opens with a framing essay that identifies the central theme and issues and summarises the significance of the contribution that each piece makes to the development of knowledge in the field. Includes new articles on legal frameworks, philanthropy, managing volunteers and accountability, as well as an essay on capacity building.
 
 
-* Sargeant, A., & Jay, E. (2014). [Fundraising management: Analysis, planning and practice](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202421091). (3rd ed). New York: Routledge.
+* Sargeant, A., &amp; Jay, E. (2014). [Fundraising management: Analysis, planning and practice](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202421091). (3rd ed). New York: Routledge.
 
 Call no.: RBUS 658.15224 SAR
 
