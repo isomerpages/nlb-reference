@@ -162,7 +162,7 @@ This article examines how OSH has become a negative culture in companies, which 
 This article looks at the importance of a positive safety culture in the workplace, and how such a culture can complement safety management systems. It also proposes some ways to change existing safety cultures in organisations.
 
 
-* Office employees are like top athletes. (2017). Retrieved March 27, 2017, from Bakker Elkhuizen website: [https://www.bakkerelkhuizen.co.uk/knowledge-center/infographic-office-employees-are-like-professional-athletes/](https://www.bakkerelkhuizen.co.uk/knowledge-center/infographic-office-employees-are-like-professional-athletes/)
+* Office employees are like top athletes. (2017). Retrieved March 27, 2017, from Bakker Elkhuizen website: [https://www.bakkerelkhuizen.com/en-ot/knowledge/whitepaper-office-employees-are-like-professional-athletes/](https://www.bakkerelkhuizen.com/en-ot/knowledge/whitepaper-office-employees-are-like-professional-athletes/)
 
 This infographic lists some health and safety issues which workers may face in the workplace, such as work-related stress and fatigue, which might ultimately affect their performance and lead to accidents. It also provides some useful tips for workers to relax and recover from stress and pressure faced at work.
 
