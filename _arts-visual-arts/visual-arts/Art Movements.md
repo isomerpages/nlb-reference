@@ -3,6 +3,7 @@ title: Art Movements
 permalink: /guides/arts/visual-arts/art-movements/
 description: ""
 third_nav_title: Visual Arts
+variant: markdown
 ---
 # Art Movements
 
@@ -22,7 +23,7 @@ This guide provides resources for those who are keen to know more about selected
 ### Books, Book Chapters, and Exhibition Catalogues
 
 <table style="width:100%; font-size:20px;">
-    <tr>
+    <tbody><tr>
         <td style="width:30%">
             <b>Books</b>
         </td>
@@ -57,7 +58,7 @@ This guide provides resources for those who are keen to know more about selected
             <img style="width:150px" src="/images/arts/visualarts/art-movements/ModernArt.jpg">
         </td>
         <td>
-Britt, David (Ed.). <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13160872"> Modern Art: Impressionism to post-modernism</a>. London: Thames & Hudson, 2007. (Call no.: RART 709.04 MOD)
+Britt, David (Ed.). <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13160872"> Modern Art: Impressionism to post-modernism</a>. London: Thames &amp; Hudson, 2007. (Call no.: RART 709.04 MOD)
 <br>
 <br>First published in 1974, this book traces the development of some of the major art trends since the second half of the 19th century through eight essays, including Impressionism, Fauvism, Cubism, Dada and Surrealism, Abstract Expressionism and Pop Art.
         </td>
@@ -67,7 +68,7 @@ Britt, David (Ed.). <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=1
             <img style="width:150px" src="/images/arts/visualarts/art-movements/PerformanceArt.jpg">
         </td>
         <td>
-            Goldberg, RoseLee. <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=14220519">Performance art: From Futurism to the present </a>(third edition). London; New York: Thames & Hudson, 2011. (Call no.: RART 700.904 GOL)
+            Goldberg, RoseLee. <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=14220519">Performance art: From Futurism to the present </a>(third edition). London; New York: Thames &amp; Hudson, 2011. (Call no.: RART 700.904 GOL)
 <br> <br>
 This book highlights some of the early forms of performance art and discusses the development of this art form from the early 20th century till 2010.
         </td>
@@ -88,7 +89,7 @@ New York: OUP Oxford, 2017. Retrieved from OverDrive. (myLibrary ID is required 
             <img style="width:150px" src="/images/arts/visualarts/art-movements/channels and confluences.jpg">
         </td>
         <td>
-            Kwok, Kian Chow. <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=7628104">Channels & confluences: A history of Singapore art</a>. Singapore: Singapore Art Museum, National Heritage Board, 1996. (Call no.: RSING 709.5957 KWO)
+            Kwok, Kian Chow. <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=7628104">Channels &amp; confluences: A history of Singapore art</a>. Singapore: Singapore Art Museum, National Heritage Board, 1996. (Call no.: RSING 709.5957 KWO)
 <br>
 <br>Published in conjunction with the 1996 Singapore Art Museum exhibition entitled Modernity and Beyond, this is arguably one of the most comprehensive and sustained examinations of Singapore art; as its blurb announces, it is the “first fully-illustrated historical survey of Singapore art.” Scrutinizes at length the genesis of modern Singapore art and its many tributaries, from the Nanyang School to the Singapore Art Society and the Society of Malay Artists, as well as highlighting the important art trends such as the Nanyang style and social realism.
         </td>
@@ -98,7 +99,7 @@ New York: OUP Oxford, 2017. Retrieved from OverDrive. (myLibrary ID is required 
             <img style="width:150px" src="/images/arts/visualarts/art-movements/Writing the modern.jpg">
         </td>
         <td>
-Sabapathy, Thiagarajan Kanaga. “The Nanyang artists: Some general remarks.” In <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203023192">Writing the modern: Selected texts on art & art history in Singapore, Malaysia & Southeast Asia 1973-2015</a>, 340-345. Singapore: Singapore Art Museum, 2018. (Call no.: RSING 709.59 SAB)
+Sabapathy, Thiagarajan Kanaga. “The Nanyang artists: Some general remarks.” In <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203023192">Writing the modern: Selected texts on art &amp; art history in Singapore, Malaysia &amp; Southeast Asia 1973-2015</a>, 340-345. Singapore: Singapore Art Museum, 2018. (Call no.: RSING 709.59 SAB)
 <br> <br>
 This essay was first published in the catalogue of a seminal exhibition at the Muzium Seni Negara in Malaysia in 1979 and was considered by researchers as one of the first attempts to define terms such as “Nanyang style” and “Nanyang art”.
 		</td>
@@ -123,7 +124,7 @@ Sheares, Constance. “Introduction.” In <a href="https://eservice.nlb.gov.sg/
 An introduction to the National Musuem centenary art exhibition, this article highlights that the artworks featured in the exhibition reflected most of the significant trends in Singapore art since 1950s. Sheares categorised the artworks into three broad categories, abstraction, non-objectivity and realism, giving each category a brief overview and cites relevant artworks featured in the exhibition.
         </td>
     </tr>
-	</table>
+	</tbody></table>
 	
 ### 	Articles and academic writings
 
@@ -145,15 +146,15 @@ Call no.: RSING 027.495957 SNBBA -[LIB] (Also available [here](https://biblioasi
 <p style="margin-left: 32px">This article narrates the development of contemporary art in Singapore and sets the beginning of this movement to at least two to three years before the formation of The Artists Village. This differed from the viewpoint that the formation of The Artists Village marked the start of contemporary art in Singapore, which was widely accepted by researchers and critics of art in Singapore.</p>
 
 ### Websites
-* Anderson, Mic. “[10 Modernist art movements](https://www.britannica.com/list/10-modernist-art-movements).” Encyclopaedia Britannica. Accessed December 14, 2021. <https://www.britannica.com/list/10-modernist-art-movements>
+* Anderson, Mic. “[10 Modernist art movements](https://www.britannica.com/list/10-modernist-art-movements).” Encyclopaedia Britannica. Accessed December 14, 2021. 
 
 <p style="margin-left: 32px">This page gives a short introduction to ten art movements in the 20th century, namely Surrealism, Dada, De Stijl, Suprematism, Constructivism, Vorticism, Futurism, Cubism, Fauvism and Post-Impressionism.</p>
 
-* “[Art movements](https://www.sothebys.com/en/art-movements).” Sotheby’s. Accessed December 14, 2021. <https://www.sothebys.com/en/art-movements>
+* “[Art movements](https://www.sothebys.com/en/art-movements).” Sotheby’s. Accessed December 14, 2021. 
 
 <p style="margin-left: 32px">This page features 17 art movements, including Impressionism, Dada, Abstract Expressionism and Pop Art. Each art movement has a dedicated page which gives an overview and introduces its characteristics, legacy, timeline and artists involved in the art movement. It also links to other feature articles on the website related to the art movement.</p>
 
-* Wee, C. J. Wan-ling. “[Shortlist : Singapore](https://aaa.org.hk/en/ideas/ideas/shortlist-singapore).” Asia Art Archive. Accessed December 9, 2021. <https://aaa.org.hk/en/ideas/ideas/shortlist-singapore>
+* Wee, C. J. Wan-ling. “[Shortlist : Singapore](https://aaa.org.hk).” Asia Art Archive. Accessed December 9, 2021. 
 
 <p style="margin-left: 32px">This introduces the major developments in Singapore arts from the 19th century to the present and includes a list of recommended readings under the different topics covered.</p>
 
@@ -165,5 +166,5 @@ All Rights Reserved. National Library Board Singapore 2021.
 #### References
 
 [^1]: Arnold, Dana, *Art History: A very short introduction* (New York: OUP Oxford, 2020), 91, OverDrive.
-[^2]: The Editors of Encyclopaedia Britannica, “List of art and design movements of the 20th century,” Encyclopaedia Britannica, accessed December 17, 2021, <https://www.britannica.com/topic/list-of-art-and-design-movements-of-the-20th-century-2004700>.
+[^2]: The Editors of Encyclopaedia Britannica, “List of art and design movements of the 20th century,” Encyclopaedia Britannica, accessed December 17, 2021, .
 [^3]: Cottington, David, [*Modern Art: A very short introduction*](https://nlb.overdrive.com/media/3714762) (New York: OUP Oxford, 2017), 44-46, OverDrive.
