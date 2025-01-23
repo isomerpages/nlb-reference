@@ -134,7 +134,7 @@ This report, produced and released biannually by MAS, gives up-to-date informati
 The World Bank Open Data website provides free and open access to global development data, including economic indicators like gross domestic product (GDP), forecasts of global economic prospects etc of various countries in the world, including Singapore.
 
 
-* Townsend, R. (2013). Development Economics: Macroeconomics. Retrieved March 30, 2017 from Massachusetts Institute of Technology (MIT) OpenCourseWare: [https://ocw.mit.edu/courses/economics/14-772-development-economics-macroeconomics-spring-2013/index.htm?utm_source=OCWDept&amp;utm_medium=CarouselSm&amp;utm_campaign=FeaturedCourse#](https://ocw.mit.edu/courses/economics/14-772-development-economics-macroeconomics-spring-2013/index.htm?utm_source=OCWDept&amp;utm_medium=CarouselSm&amp;utm_campaign=FeaturedCourse#)
+* Townsend, R. (2013). Development Economics: Macroeconomics. Retrieved March 30, 2017 from Massachusetts Institute of Technology (MIT) OpenCourseWare: [https://ocw.mit.edu](https://ocw.mit.edu/courses/economics/14-772-development-economics-macroeconomics-spring-2013/index.htm?utm_source=OCWDept&amp;utm_medium=CarouselSm&amp;utm_campaign=FeaturedCourse#)
 
 This online course, produced by MIT, covers various aspects of macroeconomics, including migration, modernisation, political economy, income distribution, and banks and credit market institutions in emerging markets. The website also hosts many other useful online e-learning courses on economics which are freely accessible for the public.
 
@@ -216,17 +216,17 @@ This report provides updated information on the investments and securities indus
 
 <b><u>Websites</u></b>
 
-* Capri, A. (2017, March 30). Three reasons why the TPP is still as good as gold. Retrieved March 30, 2017 from Forbes website: [https://www.forbes.com/sites/alexcapri/2017/03/30/three-reasons-tpp-good/](https://www.forbes.com/sites/alexcapri/2017/03/30/three-reasons-tpp-good/)
+* Capri, A. (2017, March 30). Three reasons why the TPP is still as good as gold. Retrieved March 30, 2017 from Forbes website: [https://www.forbes.com/](https://www.forbes.com/sites/alexcapri/2017/03/30/three-reasons-tpp-good/)
 
 This article examines the Trans-Pacific Partnership (TPP) agreement after America’s withdrawal, and provides 3 reasons why the TPP will still be useful and relevant even if the agreement does not go through eventually.
 
 
-* Economic Strategies Committee (ESC). Subcommittee on developing a vibrant SME landscape and globally competitive local enterprises. Retrieved June 16, 2024 from National Archives of Singapore: [https://www.nas.gov.sg/archivesonline/speeches/record-details/80947d06-115d-11e3-83d5-0050568939ad](https://www.nas.gov.sg/archivesonline/speeches/record-details/80947d06-115d-11e3-83d5-0050568939ad)
+* Economic Strategies Committee (ESC). Subcommittee on developing a vibrant SME landscape and globally competitive local enterprises. Retrieved June 16, 2024 from National Archives of Singapore: [https://www.nas.gov.sg/archivesonline/](https://www.nas.gov.sg/archivesonline/speeches/record-details/80947d06-115d-11e3-83d5-0050568939ad)
 
 This report contains the recommendations by the ESC to the Government to help local companies build their capabilities, establish their networks and nurture talent to become globally competitive.
 
 
-* MoneySense. (2016). Types of investments. Retrieved March 30, 2017 from MoneySense website: [http://www.moneysense.gov.sg/Understanding-Financial-Products/Investments/Types-of-Investments.aspx](http://www.moneysense.gov.sg/Understanding-Financial-Products/Investments/Types-of-Investments.aspx)
+* MoneySense. (2016). Types of investments. Retrieved March 30, 2017 from MoneySense website: [http://www.moneysense.gov.sg/](http://www.moneysense.gov.sg/Understanding-Financial-Products/Investments/Types-of-Investments.aspx)
 
 The website lists down some of the common types of investments available in the market, providing useful information for those who are unfamiliar with investment products and what each means for the investor.
 
@@ -361,7 +361,7 @@ How can incumbent firms sustain their businesses in the modern digital economy? 
 This article looks at the differences between a leader and a manager by looking at 9 areas, including the ability to lead change, be unique, take risks and build and cultivate relationships.
 
 
-* Kenny, B. (2016, September 22). Innovation under constraint: Constructing a turnaround at Lego. Retrieved 12 April 2017 from Harvard Business School Working Knowledge website: [http://hbswk.hbs.edu/item/innovation-under-constraint-constructing-a-turnaround-at-lego](http://hbswk.hbs.edu/item/innovation-under-constraint-constructing-a-turnaround-at-lego)
+* Kenny, B. (2016, September 22). Innovation under constraint: Constructing a turnaround at Lego. Retrieved 23 January 2025 from Harvard Business School website: [https://www.hbs.edu/](https://www.hbs.edu/about/video.aspx?v=1_zt7xz8xq)
 
 This website contains a podcast interview conducted with Professor Jan Rivkin, who discusses his case study of the Lego company and how it had responded and adapted to economic changes to avoid bankruptcy. The transcript of the interview is also available via the website.
 
