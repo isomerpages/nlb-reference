@@ -1,11 +1,12 @@
 ---
 title: Creating a strong team culture
 permalink: /launch/running-business/launch-stay-on-course/strong-team-culture/
-description: "Strong team culture can reduce conflict and encourage valuable
+description: Strong team culture can reduce conflict and encourage valuable
   contributions from all team members. It fosters efficient collaboration and
   open communication, resulting in a positive and engaging workplace, and in
-  turn drive performance.  "
+  turn drive performance.
 third_nav_title: Launch & Stay on Course
+variant: markdown
 ---
 # Creating a strong team culture 
 
@@ -52,6 +53,6 @@ Glassdoor. “Team Culture: Identifiers, Benefits, and How to Build One that Wor
 
 Heathfield, Susan M. “Build Teamwork into Your Company Culture”. Updated November 29, 2019. [https://www.thebalancecareers.com/how-to-build-a-teamwork-culture-1918509](https://www.thebalancecareers.com/how-to-build-a-teamwork-culture-1918509)  
 
-Jones, Scott. “Building a Strong Team Culture That Lasts – Even Through a Pandemic”. Posted February 8, 2021. [https://www.linkedin.com/pulse/building-strong-team-culture-lasts-even-through-scott-jones-fcim](https://www.linkedin.com/pulse/building-strong-team-culture-lasts-even-through-scott-jones-fcim)  
+Jones, Scott. “Building a Strong Team Culture That Lasts – Even Through a Pandemic”. Posted November 29, 2019. [https://www.liveabout.com/how-to-build-a-teamwork-culture-1918509](https://www.liveabout.com/how-to-build-a-teamwork-culture-1918509)  
 
 Rodriguez-Zaba, Diana. “How to Build a Strong Team Culture in Seven Steps”. Forbes. June 20, 2019. [https://www.forbes.com/sites/forbeschicagocouncil/2019/06/20/how-to-build-a-strong-team-culture-in-seven-steps/](https://www.forbes.com/sites/forbeschicagocouncil/2019/06/20/how-to-build-a-strong-team-culture-in-seven-steps/)
