@@ -47,14 +47,14 @@ For a business networking session to go well, you need to do a bit of homework f
 
 ## References 
 
-Caballero, Bianca. “29 Business Networking Statistics for New Opportunities (2024)”. Posted February 1, 2024. [https://fitsmallbusiness.com/business-networking-statistics/](https://fitsmallbusiness.com/business-networking-statistics/)  
+Caballero, Bianca. “29 Business Networking Statistics for New Opportunities (2024)”. Posted February 1, 2024. [https://fitsmallbusiness.com](https://fitsmallbusiness.com/business-networking-statistics/)  
 
-Forbes. “14 Professional Tips for Networking During a Pandemic”. Forbes. January 6, 2021. [https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/06/14-professional-tips-for-networking-during-a-pandemic/](https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/06/14-professional-tips-for-networking-during-a-pandemic/) 
+Forbes. “14 Professional Tips for Networking During a Pandemic”. Forbes. January 6, 2021. [https://www.forbes.com](https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/06/14-professional-tips-for-networking-during-a-pandemic/) 
 
-Indeed Career Guide. “What is Business Networking? With Tips to Succeed”. Posted July 23, 2021. [https://www.indeed.com/career-advice/career-development/business-networking](https://www.indeed.com/career-advice/career-development/business-networking) 
+Indeed Career Guide. “What is Business Networking? With Tips to Succeed”. Posted July 23, 2021. [https://www.indeed.com](https://www.indeed.com/career-advice/career-development/business-networking) 
 
-MyCareersFuture. “10 Tips for Effective Networking in Person, or Online”. Accessed September 27, 2021. [https://content.mycareersfuture.gov.sg/the-benefits-of-networking-in-person-and-online/](https://content.mycareersfuture.gov.sg/the-benefits-of-networking-in-person-and-online/) 
+MyCareersFuture. “10 Tips for Effective Networking in Person, or Online”. Accessed September 27, 2021. [https://content.mycareersfuture.gov.sg/](https://content.mycareersfuture.gov.sg/the-benefits-of-networking-in-person-and-online/) 
 
-Ward, Susan. “What is Business Networking?”. Updated January 18, 2021. [https://www.thebalancesmb.com/what-is-business-networking-and-what-are-the-benefits-2947183](https://www.thebalancesmb.com/what-is-business-networking-and-what-are-the-benefits-2947183) 
+Ward, Susan. “What is Business Networking?”. Posted October 26, 2017. [https://teamreferralnetwork.com](https://teamreferralnetwork.com/news/2017/10/what-is-business-networking-what-are-the-benefits/) 
 
-Janin, Alex. “How to Network and Meet the Right People”. The Wall Street Journal. Posted November 11, 2020. [https://www.wsj.com/articles/how-to-network-and-meet-the-right-people-11605108515](https://www.wsj.com/articles/how-to-network-and-meet-the-right-people-11605108515)
+Janin, Alex. “How to Network and Meet the Right People”. The Wall Street Journal. Posted November 11, 2020. [https://www.wsj.com](https://www.wsj.com/articles/how-to-network-and-meet-the-right-people-11605108515)
