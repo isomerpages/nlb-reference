@@ -95,7 +95,7 @@ Yap, Cara. (2020, October 28). "‘I was definitely not a good student’: Secre
 
 ### Articles 
 
-Stewart, Melissa. (2021, June 30). "Secretlab co-founder Ian Ang spends S$51m on two properties in Singapore". [https://cnaluxury.channelnewsasia.com/people/secretlab-co-founder-ian-ang-property-singapore-183496](https://cnaluxury.channelnewsasia.com/people/secretlab-co-founder-ian-ang-property-singapore-183496)  
+Stewart, Melissa. (2021, June 30). "Secretlab co-founder Ian Ang spends S$51m on two properties in Singapore". [https://cnaluxury.channelnewsasia.com](https://cnaluxury.channelnewsasia.com)  
 
 ### Videos 
 
