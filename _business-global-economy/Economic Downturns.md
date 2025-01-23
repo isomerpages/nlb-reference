@@ -32,7 +32,7 @@ To learn more about economic downturns and their impact as well as how Singapore
 
 [^5]: Rolf, J. (2009). Singapore in Its Worst Recession for Years. The Effects of the Current Economic Crisis on the City-States Economy. *Journal of Current Southeast Asian Affairs* 28, No. 4 (2009): 95–110. Retrieved 2024, May 30 from [https://doi.org/10.1177/186810340902800405](https://doi.org/10.1177/186810340902800405)
 
-[^6]: Asian Financial Crisis Erupts. *National Library Bpard.* Retrieved 2024, May 30 from [https://www.nlb.gov.sg/main/article-detail?cmsuuid=87709dd7-72ae-47e2-876c-60544bb25e00](https://www.nlb.gov.sg/main/article-detail?cmsuuid=87709dd7-72ae-47e2-876c-60544bb25e00)
+[^6]: Asian Financial Crisis Erupts. *National Library Board.* Retrieved 2024, May 30 from [https://www.nlb.gov.sg/main/article-detail?cmsuuid=87709dd7-72ae-47e2-876c-60544bb25e00](https://www.nlb.gov.sg/main/article-detail?cmsuuid=87709dd7-72ae-47e2-876c-60544bb25e00)
 
 [^7]: Woo, J. J. (2018). Singapore's Approach to Handling Economic Crisis. *Lee Kuan Yew School of Public Policy*, 1–20. Retrieved 2024, May 30 from [https://lkyspp.nus.edu.sg/docs/default-source/case-studies/singapores_approach_to_managing_economic_crises_22052018_lowres.pdf?sfvrsn=7387660a_0](https://lkyspp.nus.edu.sg/docs/default-source/case-studies/singapores_approach_to_managing_economic_crises_22052018_lowres.pdf?sfvrsn=7387660a_0)
 
@@ -122,8 +122,8 @@ Chia, S. Y. (1998). The Asian financial crisis: Singapore’s experience and res
 
 
 <h4>Chinese, Malay and Tamil Resources</h4>
-<h5>1. <a href="http://m.xinhuanet.com/2019-10/24/c_1125147684.htm" target="_blank">财经观察：九十年前大萧条 深刻教训当记取</a></h5>
-金旼旼、杜静、樊宇。（2019年10月24日）。财经观察：九十年前大萧条 深刻教训当记取。*新华网。* Retrieved 2024, May 3.
+<h5>1. <a href="https://finance.sina.com.cn/review/hgds/2019-10-24/doc-iicezuev4625347.shtml" target="_blank">财经观察：九十年前大萧条 深刻教训当记取</a></h5>
+金旼旼、杜静、樊宇。（2019年10月24日）。财经观察：九十年前大萧条 深刻教训当记取。*新华网。* Retrieved 2025, January 21.
 
 The article recommends looking into the factors that caused previous economic recessions to better plan and implement mitigating measures for future recessions. In particular, it focuses on the Great Depression and argues that the Tariff Act of 1930 played an integral role in bringing about a global depression.
 
