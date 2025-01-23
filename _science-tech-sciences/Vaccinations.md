@@ -28,13 +28,13 @@ While there are many vaccines available in Singapore, certain vaccinations, such
 To find out more about vaccinations, check out the resources below. 
 
 
-[^1]: Riedel, Stefan, (2005, January). Edward Jenner and the history of the smallpox and vaccination. *Proceedings (Baylor University, Medical Center) 18(1), 21-25*. Retrieved 2020, April 2 from [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1200696/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1200696/)
+[^1]: Riedel, Stefan, (2005, January). Edward Jenner and the history of the smallpox and vaccination. *Proceedings (Baylor University, Medical Center) 18(1), 21-25*. Retrieved 2020, April 2 from [https://www.ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1200696/)
 
-[^2]: ACIP Adverse Reactions Guidelines for Immunization. (2017, July 12). *Centers for Disease Control and Prevention (CDC)*. Retrieved 2020, April 2 from [https://www.cdc.gov/vaccines/hcp/acip-recs/general-recs/adverse-reactions.html](https://www.cdc.gov/vaccines/hcp/acip-recs/general-recs/adverse-reactions.html)
+[^2]: Kroger, Andrew, &amp; Freedman, Mark. (2024). Vaccination &amp; Immunoprophylaxis— General Principles. *U.S. Department of Health &amp; Human Services*. Retrieved 2025, January 23 from [https://wwwnc.cdc.gov](https://wwwnc.cdc.gov/travel/yellowbook/2024/preparing/vaccination-and-immunoprophylaxis-general-principles#allergies)
 
-[^3]: National Childhood Immunisation Schedule (2016, August 26). *National Immunisation Registry*. Retrieved 2020, April 2 from [https://www.nir.hpb.gov.sg/nirp/eservices/immunisationSchedule](https://www.nir.hpb.gov.sg/nirp/eservices/immunisationSchedule)
+[^3]: National Childhood Immunisation Schedule (2016, August 26). *National Immunisation Registry*. Retrieved 2020, April 2 from [https://www.nir.hpb.gov.sg](https://www.nir.hpb.gov.sg/nirp/eservices/immunisationSchedule)
 
-[^4]: 4 Reasons to Get Vaccinated—Adult Immunisation (2023, January 17). *HealthHub*. Retrieved 2024, May 20 from [https://www.healthhub.sg/live-healthy/get-vaccinated](https://www.healthhub.sg/live-healthy/get-vaccinated)
+[^4]: 4 Reasons to Get Vaccinated—Adult Immunisation (2023, January 17). *HealthHub*. Retrieved 2024, May 20 from [https://www.healthhub.sg](https://www.healthhub.sg/live-healthy/get-vaccinated)
 
 
 
