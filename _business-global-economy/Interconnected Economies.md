@@ -106,7 +106,7 @@ Singapura pangkas lagi target pertumbuhan ekonomi karena Corona. (2020, May 26).
 
 Singapore has cut down its economic growth projection due to the COVID-19 pandemic.
 
-<h5>5. <a href="https://www.tamilmurasu.com.sg/singapore/story20200212-40024.html" target="_blank">கொரோனா கிருமி பரவல் எதிரொலி: பயணத்துறை பெருமளவு பாதிக்கப்படலாம்</a></h5>
+<h5>5. <a href="https://www.tamilmurasu.com.sg/" target="_blank">கொரோனா கிருமி பரவல் எதிரொலி: பயணத்துறை பெருமளவு பாதிக்கப்படலாம்</a></h5>
 கொரோனா கிருமி பரவல் எதிரொலி: பயணத்துறை பெருமளவு பாதிக்கப்படலாம். (2020, February 12). <i>Tamil Murasu</i>. Retrieved 2020,  June 15.
 
 Due the disruptions caused by COVID-19, it is expected that tourism in Singapore will be heavily affected.
