@@ -83,10 +83,10 @@ Increase opportunities for interaction with your customers through in-person con
 
 ## References 
 
-Giles, Ericka. “7 Types of Branding Strategies and How to Select One (+ Examples)”. Posted June 2, 2020. [https://www.business2community.com/branding/7-types-of-branding-strategies-and-how-to-select-one-examples-02316182](https://www.business2community.com/branding/7-types-of-branding-strategies-and-how-to-select-one-examples-02316182) 
+Giles, Ericka. “7 Types of Branding Strategies and How to Select One (+ Examples)”. Posted June 1, 2020. [https://www.bluleadz.com](https://www.bluleadz.com/blog/types-of-branding-strategies) 
 
-Sellers, Tim. “How Brand Strategy Can Shape Your Corporate DNA”. Forbes. Posted October 26, 2020. [https://www.forbes.com/sites/forbesagencycouncil/2020/10/26/how-brand-strategy-can-shape-your-corporate-dna/](https://www.forbes.com/sites/forbesagencycouncil/2020/10/26/how-brand-strategy-can-shape-your-corporate-dna/) 
+Sellers, Tim. “How Brand Strategy Can Shape Your Corporate DNA”. Forbes. Posted October 26, 2020. [https://www.forbes.com](https://www.forbes.com/sites/forbesagencycouncil/2020/10/26/how-brand-strategy-can-shape-your-corporate-dna/) 
 
-IPOS International. “Building a Strong Brand”. Accessed September 24, 2021. [https://iposinternational.com/resources/business-guides/building-a-strong-brand_256](https://iposinternational.com/resources/business-guides/building-a-strong-brand_256) 
+IPOS International. “Building a Strong Brand”. Accessed September 24, 2021. [https://iposinternational.com](https://iposinternational.com/resources/business-guides/building-a-strong-brand_256) 
 
-Lehmann, Sascha, Nils Liedtke, Phyllis Rothschild and Eloy Trevino. “The Future of Brand Strategy: It’s Time to ‘Go Electric’”. Posted May 27, 2020. [https://www.mckinsey.com/business-functions/marketing-and-sales/our-insights/the-future-of-brand-strategy-its-time-to-go-electric](https://www.mckinsey.com/business-functions/marketing-and-sales/our-insights/the-future-of-brand-strategy-its-time-to-go-electric)
+Lehmann, Sascha, Nils Liedtke, Phyllis Rothschild and Eloy Trevino. “The Future of Brand Strategy: It’s Time to ‘Go Electric’”. Posted May 27, 2020. [https://www.mckinsey.com](https://www.mckinsey.com/business-functions/marketing-and-sales/our-insights/the-future-of-brand-strategy-its-time-to-go-electric)
