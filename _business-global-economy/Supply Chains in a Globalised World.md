@@ -97,8 +97,8 @@ Brent, M. (2020). Supply chain disruptions and COVID-19: What is different about
 <h5>3. Coronavirus is a wake-up call for supply chain management</h5>
 Choi, T., et al. (2020, March 27). Coronavirus is a wake-up call for supply chain management. *Harvard Business Review*. Retrieved 2020, June 24 from EBSCOHost database via <a href="https://eresources.nlb.gov.sg/main/browse/resource/1049/" target="_blank">NLB’s eResources</a>. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br> 
 
-<h5>4. <a href="http://m.xinhuanet.com/2020-06/03/c_1126070221.htm" target="_blank">全球供应链调整路在何方</a></h5>
-周小明：全球供应链调整路在何方。（2020-06-03）。*新华网。* Retrieved 2020, June 11.
+<h5>4. <a href="https://www.imsilkroad.com/news/p/414800.html" target="_blank">全球供应链调整路在何方</a></h5>
+周小明：全球供应链调整路在何方。（2020-06-03）。*新华丝路。* Retrieved 2025, January 23.
 
 Facing the threat of broken supply chains during the COVID-19 pandemic, companies have diversified their supply chains at a higher operating cost. The article highlights that a regional supply system would replace the current global model and that competition in emerging industries will become more intense. 
 

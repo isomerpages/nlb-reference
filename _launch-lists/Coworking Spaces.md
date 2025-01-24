@@ -30,13 +30,13 @@ URL: [https://www.multico.co/](https://www.multico.co/)
 
 ## Smart Space 
 
-URL: [https://smartspace.com.sg/](https://smartspace.com.sg/)
+URL: [https://smartspace.com.sg/](https://smartspace.com.sg/services/)
 
  
 
 ## The Great Room 
 
-URL: [https://thegreatroom.co/>](https://thegreatroom.co/)
+URL: [https://thegreatroom.co/](https://thegreatroom.co/)
 
  
 

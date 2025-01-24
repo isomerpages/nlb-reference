@@ -127,7 +127,7 @@ COVID-19: Saintis Singapura kaji genetik percepat vaksin. (2020, March 24). <i>B
 
 Singapore scientists have developed a method to track genetic changes that can speed up the testing of vaccines for COVID-19.  
 
-<h5>5. <a href="https://www.tamilmurasu.com.sg/coronavirus/story20200330-42062.html?fastjobs=4&amp;utm_expid=.ZtvmkqViRECVMA39qjddOQ.3&amp;utm_referrer=https%3A%2F%2Fwww.tamilmurasu.com.sg%2Fcoronavirus%3Ffastjobs%3D2%26page%3D7" target="_blank">கொரோனா கிருமி ஒழிய பல ஆண்டுகள் ஆகலாம்: அச்சந்தரும் புதிய ஆய்வு முடிவுகள். </a></h5>
+<h5>5. <a href="https://www.tamilmurasu.com.sg" target="_blank">கொரோனா கிருமி ஒழிய பல ஆண்டுகள் ஆகலாம்: அச்சந்தரும் புதிய ஆய்வு முடிவுகள். </a></h5>
 கொரோனா கிருமி ஒழிய பல ஆண்டுகள் ஆகலாம்: அச்சந்தரும் புதிய ஆய்வு முடிவுகள். (2020, March 30). <i>Tamil Murasu</i>. Retrieved 2020, April 4.
 
 Recent research findings have indicated that it may take a few years before the coronavirus is eradicated.
