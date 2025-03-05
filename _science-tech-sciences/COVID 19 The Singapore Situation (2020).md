@@ -31,7 +31,7 @@ Find out more about Singapore’s COVID-19 situation and its containment measure
 
 [^3]: Confirmed imported case of novel coronavirus infection in Singapore; multi-ministry taskforce ramps up precautionary measures. (2020, January 23). *Ministry of Health.* Retrieved 2020, March 30 from [https://www.moh.gov.sg/](https://www.moh.gov.sg/news-highlights/details/confirmed-imported-case-of-novel-coronavirus-infection-in-singapore-multi-ministry-taskforce-ramps-up-precautionary-measures)
 
-[^4]: Aqil, H.M. (2020, February 4). What we know about the locally transmitted coronavirus cases in Singapore. *CNA.* Retrieved 2020, March 30 [https://www.channelnewsasia.com](https://www.channelnewsasia.com/news/singapore/wuhan-coronavirus-singapore-virus-new-cases-local-transmission-12390118)
+[^4]: Ang, H.M., &amp; Mohan, M. (2020, February 22). One month of COVID-19: Concern, containment and collective effort. *CNA.* Retrieved 2025, March 5 [https://www.channelnewsasia.com](https://www.channelnewsasia.com/singapore/covid19-singapore-one-month-coronavirus-containment-778821)
 
 [^5]: Summary of confirmed cases. (2020, March 31). *Ministry of Health.*; 15 more cases discharged; 75 more cases of COVID-19 infection confirmed. (2020, April 4). *Ministry of Health.* Retrieved 2020, April 4, from [https://www.moh.gov.sg/news-highlights/details/passing-of-patient-with-covid-19-infection-4-april](https://www.moh.gov.sg/news-highlights/details/passing-of-patient-with-covid-19-infection-4-april)
 
