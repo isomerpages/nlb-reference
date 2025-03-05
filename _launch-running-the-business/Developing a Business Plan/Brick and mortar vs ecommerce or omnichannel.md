@@ -7,6 +7,7 @@ description: How and where you choose to retail your product or service would
   accompanying e-commerce platforms and the COVID-19 pandemic have changed the
   way we shop.
 third_nav_title: Developing a Business Plan
+variant: markdown
 ---
 # Brick-and-mortar vs. e-commerce/ omnichannel 
 
@@ -51,7 +52,7 @@ You should weigh the pros and cons of each mode of retail, consider your target 
 
 ## References 
 
-Ferguson, Lucy. “The Future of Shopping: 5 Consumer Trends Shaping the Retail Landscape”. Posted June 9, 2021. [https://brc.org.uk/news/the-retailer/the-future-of-shopping-5-consumer-trends-reshaping-the-retail-landscape/](https://brc.org.uk/news/the-retailer/the-future-of-shopping-5-consumer-trends-reshaping-the-retail-landscape/) 
+Ferguson, Lucy. “The Future of Shopping: 5 Consumer Trends Shaping the Retail Landscape”. Posted June 9, 2021. [https://brc.org.uk/news-and-events/news/associate-insight/2024/the-future-of-shopping-5-consumer-trends-reshaping-the-retail-landscape/](https://brc.org.uk/news-and-events/news/associate-insight/2024/the-future-of-shopping-5-consumer-trends-reshaping-the-retail-landscape/) 
 
 Aleksic, Marina. “Ecommerce vs Retail – Learn Who Wins the Shopping Battle {Detailed Comparison}”. Posted March 19, 2021. [https://ccbill.com/blog/ecommerce-vs-retail](https://ccbill.com/blog/ecommerce-vs-retail) 
 
