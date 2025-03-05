@@ -27,7 +27,7 @@ Find out more about Singapore’s COVID-19 situation and its containment measure
 
 [^1]: Precautionary measures in response to severe pneumonia cases in Wuhan, China. (2020, January 2). *Ministry of Health.* Retrieved 2020, March 30 from [https://www.moh.gov.sg](https://www.moh.gov.sg/news-highlights/details/precautionary-measures-in-response-to-severe-pneumonia-cases-in-wuhan-china)
 
-[^2]: Jalelah, A.B. (2020, January 23). Singapore forms Wuhan virus ministerial task force, imported cases ‘inevitable’: Gan Kim Yong. *CNA.* Retrieved 2020, March 30 from [https://www.channelnewsasia.com](https://www.channelnewsasia.com/news/singapore/wuhan-virus-singapore-ministerial-task-force-inevitable-12301610)
+[^2]: Lee, M. (2020, January 22). Wuhan virus: Multi-ministry task force set up; first imported case ‘inevitable’, says Gan Kim Yong. *Today Online.* Retrieved 2025, March 5 from [https://www.todayonline.com](https://www.todayonline.com/singapore/wuhan-virus-multi-ministerial-taskforce-set-first-imported-case-inevitable-says-gan-kim)
 
 [^3]: Confirmed imported case of novel coronavirus infection in Singapore; multi-ministry taskforce ramps up precautionary measures. (2020, January 23). *Ministry of Health.* Retrieved 2020, March 30 from [https://www.moh.gov.sg/](https://www.moh.gov.sg/news-highlights/details/confirmed-imported-case-of-novel-coronavirus-infection-in-singapore-multi-ministry-taskforce-ramps-up-precautionary-measures)
 
