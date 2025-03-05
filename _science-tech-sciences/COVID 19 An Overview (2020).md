@@ -6,11 +6,10 @@ variant: markdown
 ---
 This resource guide was created as part of a learning package on Pandemics. For other related resource guides, please head to this directory of [Learning Packages](/guides/learning-packages-directory).
 
+*Note: This learning package was created in 2020 and the information was up-to-date at the point of publication. Please check [gov.sg](www.gov.sg) for any latest updates on the COVID-19 situation in Singapore.*
+
 # COVID-19 : An Overview
 
-<table style="background-color:#ffe6e6; border:0;">
-<tbody><tr><td>This learning package was created in 2020 and the information was up-to-date at the point of publication. Please check <a href="https://www.gov.sg/features/covid-19" target="_blank">https://www.gov.sg/features/covid-19</a> for the latest updates on the COVID-19 situation in Singapore.</td></tr>
-</tbody></table>
 
 <img src="/images/sci-tech/P2-overview.jpg">
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://pixabay.com/illustrations/coronavirus-virus-spread-flu-4952102/" target="_blank">pixabay.com/illustrations/coronavirus-virus-spread-flu-4952102/</a></p>
