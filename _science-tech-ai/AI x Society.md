@@ -61,7 +61,7 @@ This resource guide was prepared in September 2022 by Kevin Seet, a Librarian at
 
 ### **Website**
 
-[**Global Future Council on Artificial Intelligence for Humanity**](https://www.weforum.org/communities/global-future-council-on-artificial-intelligence/)<br>
+[**Global Future Council on Artificial General Intelligence**](https://initiatives.weforum.org/global-future-council-on-artificial-general-intelligence/home)<br>
 “Global Future Council on Artificial Intelligence for Humanity”. World Economic Forum, 2022. Retrieved 2021, August 26, from  
 
 ### **Journal Article**

@@ -6,11 +6,10 @@ variant: markdown
 ---
 This resource guide was created as part of a learning package on Pandemics. For other related resource guides, please head to this directory of [Learning Packages](/guides/learning-packages-directory).
 
+*Note: This learning package was created in 2020 and the information was up-to-date at the point of publication. Please check [gov.sg](www.gov.sg) for any latest updates on the COVID-19 situation in Singapore.*
+
 # COVID-19 : An Overview
 
-<table style="background-color:#ffe6e6; border:0;">
-<tbody><tr><td>This learning package was created in 2020 and the information was up-to-date at the point of publication. Please check <a href="https://www.gov.sg/features/covid-19" target="_blank">https://www.gov.sg/features/covid-19</a> for the latest updates on the COVID-19 situation in Singapore.</td></tr>
-</tbody></table>
 
 <img src="/images/sci-tech/P2-overview.jpg">
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://pixabay.com/illustrations/coronavirus-virus-spread-flu-4952102/" target="_blank">pixabay.com/illustrations/coronavirus-virus-spread-flu-4952102/</a></p>
@@ -76,7 +75,7 @@ London School of Hygiene &amp; Tropical Medicine. (2020). COVID-19: Tackling the
 
 <h4>Journal Articles</h4>
 <h5>1. How COVID-19 is spread</h5>
-Offord, C. (2020, February). <a href="https://www.the-scientist.com/news-opinion/how-covid-19-is-spread-67143" target="_blank">How COVID-19 is spread</a>. <i>The Scientist</i>. Retrieved March 25, 2020.
+Offord, C. (2020, February 21). <a href="https://www.the-scientist.com/how-covid-19-is-spread-67143" target="_blank">How COVID-19 is spread</a>. <i>The Scientist</i>. Retrieved March 25, 2020.
 
 <h5>2. Flattening the COVID-19 peak: Containment and mitigation policies</h5>
 <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/03/flattening-the-covid-19-peak-containment-and-mitigation-policies_9aa05ea2/e96a4226-en.pdf" target="_blank">Flattening the COVID-19 peak: Containment and mitigation policies. (2020, March 24)</a>. <i>Organisation for Economic Co-operation and Development</i>. Retrieved March 31, 2020.

@@ -97,10 +97,7 @@ Gilliland, N. (2020, March 31). How the fitness industry is responding to corona
 <h5>4. <a href="https://www.vox.com/2020/3/26/21192593/coronavirus-gym-exercise-home-workouts" target="_blank">The gym used to be my therapy. Here’s how that’s changed during social distancing</a></h5>
 Abad-Santos, A. (2020, March 26). The gym used to be my therapy. Here’s how that’s changed during social distancing. <i>Vox</i>. Retrieved 2020, April 21. 
 
-<h5>5. <a href="https://www.acsm.org/blog-detail/acsm-blog/2020/03/30/exercise-immunity-covid-19-pandemic" target="_blank">Exercise, immunity and the COVID-19 pandemic</a></h5>
-Simpson, R. J. (2020, March 30). Exercise, immunity and the COVID-19 pandemic. <i>American College of Sports Medicine</i>. Retrieved 2020, April 22. 
-
-<h5>6. <a href="https://www.weforum.org/agenda/2020/04/sports-covid19-coronavirus-excersise-specators-media-coverage/" target="_blank">This is how COVID-19 is affecting the world of sports</a></h5>
+<h5>5. <a href="https://www.weforum.org/agenda/2020/04/sports-covid19-coronavirus-excersise-specators-media-coverage/" target="_blank">This is how COVID-19 is affecting the world of sports</a></h5>
 Hall, S. (2020, April 9). This is how COVID-19 is affecting the world of sports. <i>World Economic Forum</i>. Retrieved 2020, April 22. 
 
 

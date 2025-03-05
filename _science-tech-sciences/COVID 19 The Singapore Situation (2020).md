@@ -6,11 +6,10 @@ variant: markdown
 ---
 This resource guide was created as part of a learning package on Pandemics. For other related resource guides, please head to this directory of [Learning Packages](/guides/learning-packages-directory).
 
+*Note: This learning package was created in 2020 and the information was up-to-date at the point of publication. Please check [gov.sg](www.gov.sg) for any latest updates on the COVID-19 situation in Singapore.*
+
 # COVID-19 : The Singapore Situation
 
-<table style="background-color:#ffe6e6; border:0;">
-<tbody><tr><td>This learning package was created in 2020 and the information was up-to-date at the point of publication. Please check <a href="https://www.gov.sg/features/covid-19" target="_blank">https://www.gov.sg/features/covid-19</a> for the latest updates on the COVID-19 situation in Singapore.</td></tr>
-</tbody></table>
 
 <img src="/images/sci-tech/P3-coronavirus.png">
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://pixabay.com/illustrations/corona-coronavirus-virus-pandemic-4901878/" target="_blank">pixabay.com/illustrations/corona-coronavirus-virus-pandemic-4901878/</a></p>
@@ -28,11 +27,11 @@ Find out more about Singapore’s COVID-19 situation and its containment measure
 
 [^1]: Precautionary measures in response to severe pneumonia cases in Wuhan, China. (2020, January 2). *Ministry of Health.* Retrieved 2020, March 30 from [https://www.moh.gov.sg](https://www.moh.gov.sg/news-highlights/details/precautionary-measures-in-response-to-severe-pneumonia-cases-in-wuhan-china)
 
-[^2]: Jalelah, A.B. (2020, January 23). Singapore forms Wuhan virus ministerial task force, imported cases ‘inevitable’: Gan Kim Yong. *CNA.* Retrieved 2020, March 30 from [https://www.channelnewsasia.com](https://www.channelnewsasia.com/news/singapore/wuhan-virus-singapore-ministerial-task-force-inevitable-12301610)
+[^2]: Lee, M. (2020, January 22). Wuhan virus: Multi-ministry task force set up; first imported case ‘inevitable’, says Gan Kim Yong. *Today Online.* Retrieved 2025, March 5 from [https://www.todayonline.com](https://www.todayonline.com/singapore/wuhan-virus-multi-ministerial-taskforce-set-first-imported-case-inevitable-says-gan-kim)
 
 [^3]: Confirmed imported case of novel coronavirus infection in Singapore; multi-ministry taskforce ramps up precautionary measures. (2020, January 23). *Ministry of Health.* Retrieved 2020, March 30 from [https://www.moh.gov.sg/](https://www.moh.gov.sg/news-highlights/details/confirmed-imported-case-of-novel-coronavirus-infection-in-singapore-multi-ministry-taskforce-ramps-up-precautionary-measures)
 
-[^4]: Aqil, H.M. (2020, February 4). What we know about the locally transmitted coronavirus cases in Singapore. *CNA.* Retrieved 2020, March 30 [https://www.channelnewsasia.com](https://www.channelnewsasia.com/news/singapore/wuhan-coronavirus-singapore-virus-new-cases-local-transmission-12390118)
+[^4]: Ang, H.M., &amp; Mohan, M. (2020, February 22). One month of COVID-19: Concern, containment and collective effort. *CNA.* Retrieved 2025, March 5 [https://www.channelnewsasia.com](https://www.channelnewsasia.com/singapore/covid19-singapore-one-month-coronavirus-containment-778821)
 
 [^5]: Summary of confirmed cases. (2020, March 31). *Ministry of Health.*; 15 more cases discharged; 75 more cases of COVID-19 infection confirmed. (2020, April 4). *Ministry of Health.* Retrieved 2020, April 4, from [https://www.moh.gov.sg/news-highlights/details/passing-of-patient-with-covid-19-infection-4-april](https://www.moh.gov.sg/news-highlights/details/passing-of-patient-with-covid-19-infection-4-april)
 
@@ -47,8 +46,8 @@ Find out more about Singapore’s COVID-19 situation and its containment measure
 
 
 <h4>Websites</h4>
-<h5>1. <a href="https://www.gov.sg/article/covid-19-resources" target="_blank">COVID-19 resources: A collection of useful posters and videos on COVID-19 (Coronavirus disease 2019)</a></h5>
-COVID-19 resources: A collection of useful posters and videos on COVID-19 (Coronavirus disease 2019). (2020, March 27). <i>Gov.sg</i>. Retrieved March 31, 2020.
+<h5>1. <a href="https://www.gov.sg/article/covid-19-resources" target="_blank">White Paper on Singapore’s Response to COVID-19</a></h5>
+White Paper on Singapore’s Response to COVID-19. (2023, March 8). <i>Gov.sg</i>. Retrieved March 5, 2025.
 
 <h5>2. <a href="https://medicine.nus.edu.sg/news/the-covid-19-chronicles/" target="_blank">The COVID-19 chronicles</a></h5>
 The COVID-19 chronicles. (2023, February 16). <i>Yong Loo Lin School of Medicine, NUS</i>. Retrieved May 20, 2024.
