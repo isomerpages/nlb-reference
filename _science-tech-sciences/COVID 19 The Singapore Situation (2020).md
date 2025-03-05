@@ -46,8 +46,8 @@ Find out more about Singapore’s COVID-19 situation and its containment measure
 
 
 <h4>Websites</h4>
-<h5>1. <a href="https://www.gov.sg/article/covid-19-resources" target="_blank">COVID-19 resources: A collection of useful posters and videos on COVID-19 (Coronavirus disease 2019)</a></h5>
-COVID-19 resources: A collection of useful posters and videos on COVID-19 (Coronavirus disease 2019). (2020, March 27). <i>Gov.sg</i>. Retrieved March 31, 2020.
+<h5>1. <a href="https://www.gov.sg/article/covid-19-resources" target="_blank">White Paper on Singapore’s Response to COVID-19</a></h5>
+White Paper on Singapore’s Response to COVID-19. (2023, March 8). <i>Gov.sg</i>. Retrieved March 5, 2025.
 
 <h5>2. <a href="https://medicine.nus.edu.sg/news/the-covid-19-chronicles/" target="_blank">The COVID-19 chronicles</a></h5>
 The COVID-19 chronicles. (2023, February 16). <i>Yong Loo Lin School of Medicine, NUS</i>. Retrieved May 20, 2024.
