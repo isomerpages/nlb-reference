@@ -6,8 +6,8 @@ description: Entrepreneurship is the process of creating a new enterprise, or
   to customers for profit, while accepting and managing the risks that come with
   it. There are four main categories of entrepreneurship.
 third_nav_title: Intro To Entrepreneurship
+variant: markdown
 ---
-
 # Different Types of Entrepreneurships 
 
 Entrepreneurship is the process of creating a new enterprise, or building upon an existing one, with the aim of providing a product or service to customers for profit, while accepting and managing the risks that come with it. There are four main categories of entrepreneurship:  
@@ -44,4 +44,4 @@ Nalinee. “2020 Singapore SMEs Statistics”. Invoice Interchange. Published 28
 
 Needle, Flori. “The Eight Types of Entrepreneurship (& Companies That Exemplify Them)“. Hub Spot. Updated 1 February 2021, [https://blog.hubspot.com/sales/types-of-entrepreneurship](https://blog.hubspot.com/sales/types-of-entrepreneurship) 
 
-Rosoff, Matt. “Google’s Biggest Acquisitions So Far, and What They Became”. Gizmodo. Published 16 August 2011, [https://www.gizmodo.com.au/2011/08/googles-16-biggest-acquisitions-so-far-and-what-happened-to-them/](https://www.gizmodo.com.au/2011/08/googles-16-biggest-acquisitions-so-far-and-what-happened-to-them/)
+Rosoff, Matt. “Google’s Biggest Acquisitions So Far, and What They Became”. Gizmodo. Published 16 August 2011, [https://gizmodo.com/googles-16-biggest-acquisitions-so-far-and-what-happene-5831022](https://gizmodo.com/googles-16-biggest-acquisitions-so-far-and-what-happene-5831022)
