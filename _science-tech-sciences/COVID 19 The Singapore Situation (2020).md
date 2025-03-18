@@ -46,7 +46,7 @@ Find out more about Singapore’s COVID-19 situation and its containment measure
 
 
 <h4>Websites</h4>
-<h5>1. <a href="https://www.gov.sg/article/covid-19-resources" target="_blank">White Paper on Singapore’s Response to COVID-19</a></h5>
+<h5>1. <a href="https://www.gov.sg/explainers/covid-19-white-paper" target="_blank">White Paper on Singapore’s Response to COVID-19</a></h5>
 White Paper on Singapore’s Response to COVID-19. (2023, March 8). <i>Gov.sg</i>. Retrieved March 5, 2025.
 
 <h5>2. <a href="https://medicine.nus.edu.sg/news/the-covid-19-chronicles/" target="_blank">The COVID-19 chronicles</a></h5>
