@@ -13,18 +13,24 @@ newspapers, both archival and contemporary, to support research and learning
 needs. Dating from the 19th century to the present day, our archival newspaper
 collection can be accessed physically via Lee Kong Chian Reference Library’s
 microfilm collection, or digitally via NewspaperSG and Factiva database.
-Contemporary news is also available through SPH eNewspapers, Factiva and
-Press Reader databases.</p>
+Contemporary news is also available through SPH eNewspapers and PressReader
+databases.</p>
 <h2>Newspaper Coverage</h2>
 <p>With a few exceptions, newspapers published before 1989 can be accessed
 from home on our NewspaperSG platform. Patrons can access post-1989 newspaper
 publications through our on-site Library Multimedia Stations and microfilm
 collection. For newspapers published within the last 7 to 30 days, users
-can access Factiva or SPH Newspapers from home.</p>
+can access SPH Newspapers from home.</p>
 <p>A summary of all our available platforms and access restrictions can be
 found in the table below. Please refer to the respective links for a detailed
 step-by-step guide on how to access our newspaper collections.</p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -102,36 +108,6 @@ step-by-step guide on how to access our newspaper collections.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="#factiva" rel="noopener noreferrer nofollow" target="_blank">Factiva</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>On-site access only</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Available at all Library Multimedia Stations (MMS)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Within the last 30 days</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="#factiva" rel="noopener noreferrer nofollow" target="_blank">Factiva</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Limited remote access</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Viewable from home; does not include articles published by SPH</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Within the last 7 days</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -152,8 +128,8 @@ Standard) are restricted to our on-site Multimedia Stations (MMS) only.
 <br>** Not available at the library@esplanade and library@chinatown Public
 Libraries.</p>
 <h2><strong>NewspaperSG</strong></h2>
-<p><strong><a href="https://eresources.nlb.gov.sg/newspapers/" rel="noopener noreferrer nofollow" target="_blank">NewspaperSG</a></strong>{:target="blank"}
-is an online archive of Singapore newspapers that can be accessed remotely
+<p><strong><a href="https://eresources.nlb.gov.sg/newspapers/" rel="noopener noreferrer nofollow" target="_blank">NewspaperSG</a></strong> is
+an online archive of Singapore newspapers that can be accessed remotely
 from the convenience of your home or workplace. You can search our digital
 archive of newspapers published since 1827 or find information on over
 200 newspaper titles in the National Library's microfilm collection. More
@@ -312,7 +288,11 @@ note that we only offer greyscale printing (black &amp; white).</p>
 Alternatively, you can pay by NETS, CashCard, Ez-Link or QR code at the
 Print Release Station in the Photocopy room, also located on Level 11.
 Fees can be found in the table below.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -340,75 +320,15 @@ Fees can be found in the table below.</p>
 </tr>
 </tbody>
 </table>
-<h2>Factiva</h2>
-<p>The National Library Board subscribes to the Factiva news and information
-database. Produced by Dow Jones, Factiva contains 33,000 premium sources
-in up to 28 languages that include licensed publications, influential websites,
-trade magazines and international/regional newspapers from around the world.</p>
-<p>As a library user, you can access Factiva through the National Library’s
-e-Resource page using your digital library ID. You may choose to either
-use our libraries’ Multimedia Stations (MMS) at NLB libraries or access
-it remotely via your internet devices. However, note that the latter option
-is limited to 30 days archive access. In addition, SPH newspapers will
-not be available if Factiva is accessed remotely.</p>
-<p>Finally, articles recovered from Factiva are <strong>text-based</strong> and
-will not have the illustrations or photographs of the originals . This
-guide will focus on retrieving local newspapers from Factiva.</p>
-<h3>Navigating Factiva from Library MMS</h3>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/other-formats/newspapers-17.jpg">
-</div>
-<p><strong>Step 1:</strong> On the e-Resources homepage under the Quick Links
-tab, click By A-Z. This will arrange all of NLB’s e-databases in alphabetical
-order. There will be two entries for Factiva. Please select the first option,
-with the text **‘Available at all libraries. With unlimited archive access.’
-**</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/other-formats/newspapers-18.JPG">
-</div>
-<p><strong>Step 2</strong>: You will be redirected to the Factiva homepage.
-On the top of the webpage, click Search to initiate the Search Builder.
-This is not to be confused with the search bar on the main page.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/other-formats/newspapers-19.JPG">
-</div>
-<p>This should direct you to the Search Builder. Simply enter your keywords
-and <strong>remember to adjust the date range</strong>. Note that the oldest
-SPH articles available on this database will only go back to 1989.</p>
-<p>As an example, the search term ‘SARS’ is used and the date range is set
-to ‘all dates’.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/other-formats/newspapers-20.JPG">
-</div>
-<p>To limit your search to headlines from SPH Newspapers, you need to further
-narrow your search by Source. SPH newspapers available include <em>The Straits Times</em> and
-non-English titles like <em>Berita Harian</em> and <em>Lianhe Zaobao</em>.</p>
-<p>Here, the search is limited to articles from <em>The Straits Times</em>.</p>
-<p><strong>Step 3</strong>: On the Search Results page, you can use the dropdown
-menu on the left to arrange your results in chronological order by selecting
-Sort by: Oldest first, or vice versa. From here, simply click on the relevant
-headline to read the article.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/other-formats/newspapers-21.jpg">
-</div>
-<p>Articles recovered from Factiva are <strong>text-only</strong> and will
-not have the relevant illustrations or graphics of the originals. Users
-are advised to use either NewspaperSG or SPH Newspapers to see the articles
-in their full broadsheet layout.</p>
 <h2>SPH eNewspapers</h2>
-<p><strong><a href="https://eresources.nlb.gov.sg/main/sphnewspapers" rel="noopener noreferrer nofollow" target="_blank">SPH eNewspapers</a></strong>{:target="blank"}
-is a collection of Singapore Press Holdings (SPH) eNewspapers - including <em>The Straits Times</em>, <em>The Business Times</em>, <em>The New Paper</em>, <em>Lianhe Zaobao</em>, <em>Lianhe Wanbao</em>, <em>Shin Min Daily News</em>, <em>Berita Harian</em> and <em>Tamil Murasu</em>.</p>
+<p><strong><a href="https://eresources.nlb.gov.sg/main/sphnewspapers" rel="noopener noreferrer nofollow" target="_blank">SPH eNewspapers</a></strong> is
+a collection of Singapore Press Holdings (SPH) eNewspapers - including <em>The Straits Times</em>, <em>The Business Times</em>, <em>The New Paper</em>, <em>Lianhe Zaobao</em>, <em>Lianhe Wanbao</em>, <em>Shin Min Daily News</em>, <em>Berita Harian</em> and <em>Tamil Murasu</em>.</p>
 <p>This database is free for all NLB digital library members and can be accessed
 from home. Depending on the newspapers, access to previous issues varies
 from <strong>7 to 13 days</strong>.</p>
 <h3>Navigating SPH eNewspapers</h3>
-<p>Click <a href="https://eresources.nlb.gov.sg/main/sphnewspapers" rel="noopener noreferrer nofollow" target="_blank">here</a>{:target="blank"}
-to be directed to the SPH Newspapers homepage. Simply click on your newspaper
+<p>Click <a href="https://eresources.nlb.gov.sg/main/sphnewspapers" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+be directed to the SPH Newspapers homepage. Simply click on your newspaper
 of choice to begin reading.</p>
 <h3></h3>
 <div class="isomer-image-wrapper">
@@ -426,9 +346,9 @@ for you to choose from.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/other-formats/newspapers-24.jpg">
 </div>
 <h2><strong>PressReader</strong></h2>
-<p><strong><a href="https://www.pressreader.com/catalog" rel="noopener noreferrer nofollow" target="_blank">PressReader</a></strong>{:target="blank"}
-is an international digital newsstand that lets you read over 7,000 of
-the world’s leading newspapers and magazines from more than 100 countries.
+<p><strong><a href="https://www.pressreader.com/catalog" rel="noopener noreferrer nofollow" target="_blank">PressReader</a></strong> is
+an international digital newsstand that lets you read over 7,000 of the
+world’s leading newspapers and magazines from more than 100 countries.
 These include international newspapers such as The Washington Post, The
 Guardian, Bloomberg Businessweek (Asia), and local publications such as
 Female, Women’s Weekly, Singapore Tatler. Publications are presented as
