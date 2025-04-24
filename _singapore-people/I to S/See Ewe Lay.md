@@ -4,12 +4,10 @@ permalink: /guides/singapore/people/see-ewe-lay/
 breadcrumb: See Ewe Lay
 collection_name: singapore-people
 third_nav_title: I to S
-published: true
+published: "true"
 description: ""
+variant: markdown
 ---
-
-
-
 ### <u>Guide Index</u>
 
 * [Introduction](#introduction)
@@ -40,7 +38,7 @@ Call no.: RSING 959.570092 WHO-\[HIS\].
 This book contains the biographies of 1,175 Chinese personalities in Singapore, covering the period from 1819 to 1990. Each biography presents information on the birth and death dates, dialect group, occupation and affiliated organisations of the Chinese personality. A short biography of See Ewe Lay is also included.
 
 
-* 方百成 & 杜南发. (编委主任). [Fang, B. C. & Du, N. F. (Eds.).] (2012). [《世界福建名人录, 新加坡编》](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200125706) [Prominent figures of the world Fujian communities: Singapore]. 新加坡: 新加坡福建会馆, pp. 297–298.
+* 方百成 &amp; 杜南发. (编委主任). [Fang, B. C. &amp; Du, N. F. (Eds.).] (2012). [《世界福建名人录, 新加坡编》](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200125706) [Prominent figures of the world Fujian communities: Singapore]. 新加坡: 新加坡福建会馆, pp. 297–298.
 Call no.: RSING 920.05957 PRO
 This book presents the biographies of 155 Chinese Hokkien personalities in Singapore from 1819 to 2012. See Ewe Lay’s biography is also included and features his contributions to the Chinese community as the publisher of Lat Pau, as well as his sense of mission and patriotism in publishing it.
 
@@ -53,7 +51,7 @@ This book presents the biographies of 155 Chinese Hokkien personalities in Singa
 * 柯木林. [Ke, M. L.] (2013).“ 薛佛记家族对新华社会的贡献”[Web blog post]. Retrieved from Kua Bak Lim website: http://kuabaklim.blogspot.com/2013/07/blog-post_8031.html
 
 
-* 柯木林. [Ke, M. L.] (2017). [“‘青山一道同云雨’: 从古庙碑刻看新呷两地渊源”](http://xh.5156edu.com/html3/5484.html) [Web blog post]. Retrieved from Kua Bak Lim Sina blog website: http://xh.5156edu.com/html3/5484.html
+* 柯木林. [Ke, M. L.] (2017). “‘青山一道同云雨’: 从古庙碑刻看新呷两地渊源” [Web blog post]. Retrieved from Kua Bak Lim Sina blog website: http://xh.5156edu.com/html3/5484.html
 These are a series of articles written by Singapore historian Kwa Bak Lim (Ke Mu Lin) on See Ewe Lay’s founding of the Lat Pau, as well as the See clan.
 
 
@@ -68,5 +66,5 @@ See Ewe Lay was determined to publish Lat Pau, the first major Chinese language 
 Kwa Bak Lim’s detailed narrative provides insight into the will of See Hoot Kee, See Ewe Lay’s grandfather, as well as its significance to the Singapore Chinese community.
 
 
-* 游学华. [You, X. H.] [薛佛记一门数杰](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19970601-1.2.71.1?ST=1&AT=advanced&K=%E8%96%9B%E4%BD%9B%E8%AE%B0&KA=%E8%96%9B%E4%BD%9B%E8%AE%B0&DF=&DT=&NPT=&L=Chinese&CTA=Article&QT=%E8%96%9B,%E4%BD%9B,%E8%AE%B0&oref=article). (1997, June 1). 《联合早报》 [Lianhe Zaobao], p. 54. Retrieved from NewspaperSG.
+* 游学华. [You, X. H.] [薛佛记一门数杰](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19970601-1.2.71.1?ST=1&amp;AT=advanced&amp;K=%E8%96%9B%E4%BD%9B%E8%AE%B0&amp;KA=%E8%96%9B%E4%BD%9B%E8%AE%B0&amp;DF=&amp;DT=&amp;NPT=&amp;L=Chinese&amp;CTA=Article&amp;QT=%E8%96%9B,%E4%BD%9B,%E8%AE%B0&amp;oref=article). (1997, June 1). 《联合早报》 [Lianhe Zaobao], p. 54. Retrieved from NewspaperSG.
 This is a short account of various descendants of the See clan who made remarkable achievements, including See Ewe Lay.
