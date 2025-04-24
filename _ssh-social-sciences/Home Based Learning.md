@@ -50,10 +50,10 @@ A new normal? When we return to school, what can we expect? (2020, April 21). <i
 <h5>1. <a href="https://www.forbes.com/sites/enriquedans/2020/04/13/the-coronavirus-pandemic-has-unleashed-a-revolution-in-education-from-now-on-blended-learning-will-be-the-benchmark" target="_blank">The coronavirus pandemic has unleashed a revolution in education: From now on blended learning will be the benchmark</a></h5>
 Dans, E. (2020, April 13). The coronavirus pandemic has unleashed a revolution in education: From now on blended learning will be the benchmark. <i>Forbes</i>. Retrieved 2020, May 2.
 
-<h5>2. <a href="https://www.gse.harvard.edu/news/uk/20/04/learning-and-community-time-crisis" target="_blank">Learning and community in a time of crisis</a></h5>
+<h5>2. <a href="https://www.gse.harvard.edu/ideas/usable-knowledge/20/04/learning-and-community-time-crisis" target="_blank">Learning and community in a time of crisis</a></h5>
 Dryden-Peterson, S. (2020, April 16). Learning and community in a time of crisis. <i>Harvard Graduate School of Education</i>. Retrieved 2020, April 29.
 
-<h5>3. <a href="https://www.gse.harvard.edu/news/uk/20/03/shift-online-teaching" target="_blank">The shift to online teaching</a></h5>
+<h5>3. <a href="https://www.gse.harvard.edu/ideas/usable-knowledge/20/03/shift-online-teaching" target="_blank">The shift to online teaching</a></h5>
 Boudreau, E. (2020, March 20). The shift to online teaching. <i>Harvard Graduate School of Education</i>. Retrieved 2020, April 29.
 
 <h5>4. <a href="https://www.straitstimes.com/singapore/askst-how-will-teachers-monitor-students-home-based-learning-progress?utm_medium=Social&amp;utm_campaign=STFB&amp;utm_source=Facebook#Echobox=1587038746" target="_blank">askST: How will teachers monitor students' home-based learning progress?</a></h5>
