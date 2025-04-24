@@ -34,7 +34,11 @@ history of musical styles and forms, theory, and philosophy of music. This
 resource guide will help you to have a fundamental understanding and appreciation
 of the history of music and how it found its place in every known culture
 throughout the course of human history.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -257,7 +261,7 @@ website: <a href="http://alternatemusicpress.com/" rel="noopener noreferrer nofo
 </p>
 </li>
 <li>
-<p>About. (n.d.). Retrieved October 28, 2016 from the ECHO website: <a href="http://www.echo.ucla.edu/about/" rel="noopener noreferrer nofollow" target="_blank">http://www.echo.ucla.edu/about/</a> 
+<p>About. (n.d.). Retrieved October 28, 2016 from the ECHO website: <a href="http://www.echo.ucla.edu/" rel="noopener noreferrer nofollow" target="_blank">http://www.echo.ucla.edu/</a> 
 <br><em>ECHO : a Music-Centered Journal is an online journal created and edited by graduate students in the Department of Musicology at the University of California, Los Angeles.</em>
 </p>
 </li>
