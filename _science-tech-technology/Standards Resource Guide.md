@@ -500,7 +500,7 @@ in the validation of new designs and materials.</p>
 </li>
 <li>
 <p>Society of Automotive Engineers (SAE)
-<br><a href="http://www.sae.org/" rel="noopener noreferrer nofollow" target="_blank">http://www.sae.org/</a>
+<br><a href="http://www.sae.org/" rel="noopener noreferrer nofollow" target="_blank">https://www.sae.org/</a>
 </p>
 <p>Formed in 1905 in the United States as a one-stop portal providing resources
 on standards development, technical information and expertise in designing,
