@@ -2266,11 +2266,11 @@ Singapore: Graham Brash. Call No.: RSING 959.57 COO</p>
 Singapore: Times Editions. Call No.: RSING 940.54815957 LOW</p>
 </li>
 <li>
-<p>Foong, Choon Hon. (1997). <em><a href="http://eservice.nlb.gov.sg/det_8468498.aspx?mode=BR" rel="noopener noreferrer nofollow" target="_blank">The price of peace: True accounts of the Japanese occupation</a></em>.
+<p>Foong, Choon Hon. (1997). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=8468498" rel="noopener noreferrer nofollow" target="_blank">The price of peace: True accounts of the Japanese occupation</a></em>.
 Singapore: Asiapac. Call No.: RSING 959.57 PRI</p>
 </li>
 <li>
-<p>Tan, Stanley Tik Loong. (2009). <em><a href="http://eservice.nlb.gov.sg/det_13221326.aspx?mode=BR" rel="noopener noreferrer nofollow" target="_blank">Syonan years, 1942-1945: Living beneath the rising sun</a></em>.
+<p>Tan, Stanley Tik Loong. (2009). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13221326" rel="noopener noreferrer nofollow" target="_blank">Syonan years, 1942-1945: Living beneath the rising sun</a></em>.
 Singapore: National Archives of Singapore. Call No.: RSING 940.530745957</p>
 </li>
 </ul>
