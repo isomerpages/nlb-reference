@@ -472,7 +472,7 @@ Performed by Singapore Symphony Orchestra, conducted by Choo Hoey. The album was
 
 
 * Leong, Y. P. (1993). Temasekian. [Symphonic works of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6540142) \[CD\]. Singapore: National Arts Council.
-Call no.: RSING 784.2 LEO (Also available on [NL Online](http://eresources.nlb.gov.sg/music/music/track/4e0f5d82-3100-4039-802f-193003e303ad))
+Call no.: RSING 784.2 LEO (Also available on [NL Online](https://www.nlb.gov.sg/main/track-detail?cmsuuid=d6996673-0e95-44b1-8adf-4a511956a838))
 
 Composed in 1990, the Temasekian is a symphonic tribute to Singapore’s pioneering forefathers who sailed the high seas to arrive in the tropical lands of Malaya.
 Performed by Singapore Symphony Orchestra, conducted by Lim Yau. The album was produced as a documentation project of the National Arts Council.
