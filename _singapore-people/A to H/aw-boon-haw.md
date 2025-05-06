@@ -4,9 +4,9 @@ permalink: /guides/singapore/people/aw-boon-haw/
 breadcrumb: Aw Boon Haw
 collection_name: singapore-people
 third_nav_title: A to H
-published: true
+published: "true"
+variant: markdown
 ---
-
 ### <u>Guide Index</u>
 
 * [Introduction](#introduction)
@@ -27,7 +27,7 @@ Call no.: RSING 959.570092 WHO-\[HIS\].
 The book contains the biographies of 1,175 Chinese personalities, including Aw Boon Haw, in Singapore from the period 1819 to 1990. Each biography comprises the birth and death dates, dialect group, occupation and affiliated organisations of the Chinese personality.
 
 
-* 方百成, 杜南发. (编委主任). [Fang, B. C. & Du, N. F. (Eds.)]. (2012). [世界福建名人录, 新加坡编](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200125706). [Prominent figures of the world Fujian communities: Singapore]. 新加坡: 新加坡福建会馆, pp. 150 – 151.
+* 方百成, 杜南发. (编委主任). [Fang, B. C. &amp; Du, N. F. (Eds.)]. (2012). [世界福建名人录, 新加坡编](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200125706). [Prominent figures of the world Fujian communities: Singapore]. 新加坡: 新加坡福建会馆, pp. 150 – 151.
 Call no.: RSING 920.05957 PRO
 The book features the biographies of 155 Hokkien personalities, including Aw Boon Haw, in Singapore from the period 1819 to 2012.
 
@@ -37,7 +37,7 @@ Call no.: RCLOS 920.05957 SIM
 Published in 1950, this book presents the biographies of prominent Chinese in Singapore published, including Aw Boon Haw.
 
 
-* Mulliner, K., & The-Mulliner, L. (1991). [Tiger Balm king](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84559822). Singapore: Times Books International, p. 19.
+* Mulliner, K., &amp; The-Mulliner, L. (1991). [Tiger Balm king](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84559822). Singapore: Times Books International, p. 19.
 Call no.: RSING 338.04092 KIN
 One of the greatest philanthropists of his time, this book is a look into the life and times of pre-war tycoon, Aw Boon Haw.
 
@@ -54,7 +54,7 @@ This publication commemorates the 25th anniversary of Haw Par Brothers Internati
 
 ### <u>Selected articles on Aw Boon Haw</u>
 
-* National Library Board. (2005). [Aw Boon Haw](http://eresources.nlb.gov.sg/infopedia/articles/SIP_789_2004-12-23.html) written by Tan, Bonny. Retrieved from Infopedia.
+* National Library Board. (2005). [Aw Boon Haw](https://www.nlb.gov.sg/main/article-detail?cmsuuid=2acfa778-5944-496d-b4c1-ef652f49e05d) written by Tan, Bonny. Retrieved from Infopedia.
 The article describes Aw Boon Haw’s early life, accomplishments and family from 1882 to 1954.
 
 
