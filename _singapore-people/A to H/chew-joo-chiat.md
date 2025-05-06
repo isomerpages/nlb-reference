@@ -4,10 +4,9 @@ permalink: /guides/singapore/people/chew-joo-chiat/
 breadcrumb: Chew Joo Chiat
 collection_name: singapore-people
 third_nav_title: A to H
-published: true
+published: "true"
+variant: markdown
 ---
-
-
 ### <u>Guide Index</u>
 
 * [Introduction](#introduction)
@@ -51,7 +50,7 @@ This issue features a compilation of stele inscriptions found by the authors in 
 
 ### <u>Selected articles on Chew Joo Chiat</u>
 
-* Chua, A. (2012). [Joo Chiat](http://eresources.nlb.gov.sg/infopedia/articles/SIP_946__2008-11-13.html). Retrieved from Infopedia.
+* Chua, A. (2012). [Joo Chiat](https://www.nlb.gov.sg/main/article-detail?cmsuuid=e84d96e6-53d3-4cb6-a0fc-63d9e0f1dca5). Retrieved from Infopedia.
 From its pre-war days to its recent developments, this article describes the history of the Joo Chiat district with a section on Chew Joo Chiat.
 
 
