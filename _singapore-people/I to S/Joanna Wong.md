@@ -40,6 +40,6 @@ Introduction on Joanna Wong adapted from Chor, Poh Chin, “Joanna Wong Quee Hen
 * **Infusion. Episode 7.** (2005). Available at Lee Kong Chian Reference Library Level 11 and library@esplanade. (Call no.: 782.1 INF) <br>Duration: 30min
 
 ### Websites
-* Chor, P. C. (2014, February 6). ***Joanna Wong Quee Heng.*** Retrieved 2021, November 12 from *Infopedia* website: [https://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-02-10_162823.html](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-02-10_162823.html)
+* Chor, P. C. (2014, February 6). ***Joanna Wong Quee Heng.*** Retrieved 2021, November 12 from *Infopedia* website: [https://www.nlb.gov.sg/main/article-detail?cmsuuid=46012067-7c25-43e9-908d-ddabada62fd2](https://www.nlb.gov.sg/main/article-detail?cmsuuid=46012067-7c25-43e9-908d-ddabada62fd2)
 
 ### References
