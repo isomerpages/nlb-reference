@@ -494,7 +494,7 @@ The following websites contain useful information and resources on this topic.
 
   by Mazelan Anuar
 
-  URL: [http://eservice.nlb.gov.sg/opennlbcmscontent.aspx?id=e97525f6-e1e5-494c-b02e-92f0018aac74](http://eservice.nlb.gov.sg/opennlbcmscontent.aspx?id=e97525f6-e1e5-494c-b02e-92f0018aac74)
+  URL: [https://biblioasia.nlb.gov.sg/vol-4/issue4/jan-2009/prominent-people-street-name/](https://biblioasia.nlb.gov.sg/vol-4/issue4/jan-2009/prominent-people-street-name/)
 
   This article (from BibloAsia, Vol 4, Issue 4, pp. 31-35) gives the history of nine street names of Singapore which provides links to our recent past. It draws information from legal documents and maps which are part of the Koh Seow Chuan collection.
 
