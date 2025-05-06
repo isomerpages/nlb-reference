@@ -1473,7 +1473,7 @@ Singapore: B. de Sousa. Call No.: RCLOS 282.5957 GLI</p>
 (1996). Singapore: The Church. Call No.: RSING 282.5957 SAI</p>
 </li>
 <li>
-<p>Wijeysingha, Eugene &amp; Nicolas, René. (2006). <em><a href="http://eservice.nlb.gov.sg/det_12747544.aspx?mode=BR" rel="noopener noreferrer nofollow" target="_blank">Going forth: The Catholic Church in Singapore 1819-2004</a></em>.
+<p>Wijeysingha, Eugene &amp; Nicolas, René. (2006). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12747544" rel="noopener noreferrer nofollow" target="_blank">Going forth: The Catholic Church in Singapore 1819-2004</a></em>.
 Singapore: Nicholas Chia. Call No.: RSING 282.5957 WIJ</p>
 </li>
 </ul>
@@ -2150,7 +2150,7 @@ ODO</p>
 Singapore: Select Pub. Call No.: RSING 617.6092 OEH</p>
 </li>
 <li>
-<p>Shinozaki, Mamoru. (1992). <em><a href="http://eservice.nlb.gov.sg/det_6324392.aspx?mode=BR" rel="noopener noreferrer nofollow" target="_blank">Syonan, my story: The Japanese occupation of Singapore</a></em>.
+<p>Shinozaki, Mamoru. (1992). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6324392" rel="noopener noreferrer nofollow" target="_blank">Syonan, my story: The Japanese occupation of Singapore</a></em>.
 Singapore: Times Books International. Call No.: RSING 959.57023 SHI</p>
 </li>
 <li>
