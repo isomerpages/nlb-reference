@@ -4,10 +4,9 @@ permalink: /guides/singapore/people/chia-ann-siang/
 breadcrumb: Chia Ann Siang
 collection_name: singapore-people
 third_nav_title: A to H
-published: true
+published: "true"
+variant: markdown
 ---
-
-
 ### <u>Guide Index</u>
 
 * [Introduction](#introduction)
@@ -41,7 +40,7 @@ The book contains the biographies of 1,175 Chinese personalities in Singapore, c
 
 ### <u>Selected articles on Chia Ann Siang</u>
 
-Thulaja, N. R. (2016). [Ann Siang Road](http://eresources.nlb.gov.sg/infopedia/articles/SIP_329_2005-01-20.html). Retrieved from Infopedia.
+Thulaja, N. R. (2016). [Ann Siang Road](https://www.nlb.gov.sg/main/article-detail?cmsuuid=aa5c3ef9-b547-4718-9214-99296446f404). Retrieved from Infopedia.
 This short article shares the history of Ann Siang Hill and Ann Siang Road and how they came to be owned by and named after Chia Ann Siang.
 
 
