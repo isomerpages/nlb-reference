@@ -2026,11 +2026,11 @@ RSING 016.9405425 COR</p>
 London: Coronet. Call No.: RSING 940.5425 ELP</p>
 </li>
 <li>
-<p>Falk, Stanley L. (1975). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=187408" rel="noopener noreferrer nofollow" target="_blank">Seventy days to Singapore: The Malayan Campaign, 1941-1942</a></em>.
+<p>Falk, Stanley L. (1975). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=187408" rel="noopener noreferrer nofollow" target="_blank">Seventy days to Singapore: The Malayan Campaign, 1941-1942.</a></em>
 London: Hale. Call No.: RSING 940.5425 FAL</p>
 </li>
 <li>
-<p>Farrell, Brian P. (2005). <em><a href="http://eservice.nlb.gov.sg/det_12519274.aspx?mode=BR" rel="noopener noreferrer nofollow" target="_blank">The defence and fall of Singapore 1940-1942</a></em>.
+<p>Farrell, Brian P. (2005). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12519274" rel="noopener noreferrer nofollow" target="_blank">The defence and fall of Singapore 1940-1942</a></em>.
 Stroud, Gloucestershire: Tempus. Call No.: RSING 940.5425 FAR</p>
 </li>
 <li>
@@ -2054,7 +2054,7 @@ London; Portland, Or: Frank Cass. Call No.: RSING 940.5425 ALL</p>
 Stroud: Tempus. Call No.: RSING 940.5425 MOF</p>
 </li>
 <li>
-<p>Owen, Frank. (2001). <em><a href="http://eservice.nlb.gov.sg/det_10823519.aspx?mode=BR" rel="noopener noreferrer nofollow" target="_blank">The fall of Singapore</a></em>.
+<p>Owen, Frank. (2001). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10823519" rel="noopener noreferrer nofollow" target="_blank">The fall of Singapore</a></em>.
 London: Penguin Books. Call No.: RSING 940.5425 OWE</p>
 </li>
 <li>
@@ -2262,7 +2262,7 @@ Singapore: Federal Publications. Call No.: RCLOS 940.53595 CHI</p>
 Singapore: Graham Brash. Call No.: RSING 959.57 COO</p>
 </li>
 <li>
-<p>Low, Ngiong Ing. (2004). <em><a href="http://eservice.nlb.gov.sg/det_12236444.aspx?mode=BR" rel="noopener noreferrer nofollow" target="_blank">When Singapore was Syonan-to</a></em>.
+<p>Low, Ngiong Ing. (2004). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12236444" rel="noopener noreferrer nofollow" target="_blank">When Singapore was Syonan-to</a></em>.
 Singapore: Times Editions. Call No.: RSING 940.54815957 LOW</p>
 </li>
 <li>
