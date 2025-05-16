@@ -152,21 +152,21 @@ Alternatively, users may choose to search for maps from Singapore via the NLB [*
 
 **Step 1**: On the OneSearch homepage, click on Advanced Search. This is found at the bottom right corner of the search bar.
 
-<img src="\images\other-formats\maps-21.jpg" style="width:600px;">
+<img src="\images\other-formats\maps-21.JPG" style="width:600px;">
 
 **Step 2**: From here, conduct a keyword search and filter by ‘images’. This method is best if you know the exact title or content of the map you are searching for.
 
 For this example, we search for maps of Jurong using the keyword ‘Jurong’. Once done, click <u>Search</u>. This will return the following search results. 
 
-<img src="\images\other-formats\maps-22.jpg" style="width:600px;">
+<img src="\images\other-formats\maps-22.JPG" style="width:600px;">
 
 **Step 3:** Look to the left side of the screen to the refine search tab. Select ‘Map’ under the Type tab to narrow down our search results to maps of Jurong.
 
-<img src="\images\other-formats\maps-23.jpg" style="width:600px;">
+<img src="\images\other-formats\maps-23.JPG" style="width:600px;">
 
 Let’s take a closer look at some of our search results. 
 
-<img src="\images\other-formats\maps-24.jpg" style="width:500px;">
+<img src="\images\other-formats\maps-24.JPG" style="width:500px;">
 
 The above result directs us to [BookSG](https://eresources.nlb.gov.sg/printheritage/), an online collection of digitised books and printed materials, including rare and historical imprints related to Singapore and Southeast Asia from the National Library and our partner institutions. 
 
