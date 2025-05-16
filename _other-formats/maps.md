@@ -52,9 +52,7 @@ Most of the physical maps are not digitised. However, older, pre-colonial maps h
 
 [**NL Online**]([National Library Online (nlb.gov.sg)](https://www.nlb.gov.sg/main/nlonline)){:target="blank"} is an online collection of digitised books and printed materials, including rare and historical imprints related to Singapore and Southeast Asia from the National Library and our partner institutions.
 
-Several digitised maps from the National Library’s Rare Map Collection can be found on the NL Online platform, comprising of topographic maps and navigational charts that cover Singapore, Southeast Asia and Asia, as well as town plans and street maps of Singapore and Malaya. The oldest map in our collection is the [Vndecima Asiae Tabvla]([Vndecima Asiae Tabvla (nlb.gov.sg)](https://www.nlb.gov.sg/main/book-detail?cmsuuid=ecec93db-7cc8-493c-98f5-53e1d6034169)), which dates back to 1478. 
-
-<img src="\images\other-formats\maps-05.jpg" style="width:600px;">
+Several digitised maps from the National Library’s Rare Map Collection can be found on the NL Online platform, comprising of topographic maps and navigational charts that cover Singapore, Southeast Asia and Asia, as well as town plans and street maps of Singapore and Malaya. The oldest map in our collection is the [Vndecima Asiae Tabvla](https://www.nlb.gov.sg/main/book-detail?cmsuuid=ecec93db-7cc8-493c-98f5-53e1d6034169), which dates back to 1478. 
 
 You can choose to download a copy of the map (if the option is available), or view it from your browser. You can also check the map’s availability, which will direct you to the NLB Catalogue. This is useful if you need to access the item’s physical copy. The process retrieving an item’s physical copy will be covered in the ‘NLB Catalogue’ section of this guide. 
 
