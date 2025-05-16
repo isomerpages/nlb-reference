@@ -63,7 +63,7 @@ In order to gain a full understanding of a business environment, the market plac
 
 Kentowski, Lydia. (2023, November 21). “Qualitative vs. quantitative research: A simple guide.” Accessed January 23, 2025. [https://www.typeform.com](https://www.typeform.com/blog/qualitative-vs-quantitative-research) 
 
-British Library Business & IP Centre. (2021). “Four Basic Research Methods for Business Start-ups.” Accessed June 22, 2021. [https://www.bl.uk](https://www.bl.uk/business-and-ip-centre/articles/4-basic-research-methods-for-business-start-ups)
+British Library Business & IP Centre. (2021). “Four Basic Research Methods for Business Start-ups.” Accessed June 22, 2021. https://www.bl.uk
 
 Business Queensland. (2021, May 24). “Market Research Methods.” Accessed June 22, 2021. [https://www.business.qld.gov.au](https://www.business.qld.gov.au/starting-business/planning/market-customer-research/market-research/methods) 
 
