@@ -30,7 +30,7 @@ The physical maps in the National Library’s collection can only accessed throu
 
 **Step 2**: Using the Anywhere filter, type in ‘Singapore’ to limit your search to materials from Singapore. Under Material Type, scroll down and select **Map Collection**. 
 
-<img src="\images\other-formats\maps-02.jpg" style="width:600px;">
+<img src="\images\other-formats\maps-02.JPG" style="width:600px;">
 
 At this stage, you can click Search to browse all available maps on the NLB Catalogue. However, if you have a specific subject in mind, you can narrow down your search using the Title and Author filter. You may also narrow your search by year or by language. 
 
@@ -44,9 +44,9 @@ Otherwise, consider using different keywords and simplifying your search terms. 
 
 Should you run into any issues, please approach our library staff for further assistance.
 
-Most of the physical maps are not digitised. However, older, pre-colonial maps have been digitised and made accessible digitally via [NL Online]([National Library Online (nlb.gov.sg)](https://www.nlb.gov.sg/main/nlonline)). 
+Most of the physical maps are not digitised. However, older, pre-colonial maps have been digitised and made accessible digitally via [NL Online](https://www.nlb.gov.sg/main/nlonline). 
 
-<img src="\images\other-formats\maps-04.jpg" style="width:600px;">
+<img src="\images\other-formats\maps-04.JPG" style="width:600px;">
 
 ## NL Online
 
@@ -72,7 +72,7 @@ The National Archives of Singapore (NAS) is the keeper of records of national or
 
 Using the searchbar at the centre of the [Archives Online](https://www.nas.gov.sg/archivesonline/) homepage, you can perform a simple keyword search to locate archival maps. To only search for maps, click on the [Maps and Building Plans](https://www.nas.gov.sg/archivesonline/maps_building_plans/) category below.
 
-<img src="\images\other-formats\maps-10.jpg" style="width:500px;">
+<img src="\images\other-formats\maps-10.JPG" style="width:500px;">
 
 Doing so will direct you the [Maps and Building Plans](https://www.nas.gov.sg/archivesonline/maps_building_plans/) search engine. An advantage of using this specialised search engine is the item filter, where users can choose to display only maps or only building plans in their search results. 
 
@@ -102,13 +102,13 @@ A handy feature of the geo-referenced maps on this platform is the overlay featu
 
 This should redirect you to the map viewing page, where you can both view and add map overlays. Let’s take a closer look.
 
-<img src="\images\other-formats\maps-15.jpg" style="width:600px;">
+<img src="\images\other-formats\maps-15.JPG" style="width:600px;">
 
 The search bar is located on the top of the webpage. Here, input keywords to locate the map of your choice. 
 
 In the following example, let’s look for a wartime map of Singapore with the keyword ‘Syonan’. Our results will be displayed on the left side of the browser.
 
-<img src="\images\other-formats\maps-16.jpg" style="width:600px;">
+<img src="\images\other-formats\maps-16.JPG" style="width:600px;">
 
 On the right hand side of the browser, you can choose to further refine my search by collection type and date. 
 
@@ -118,11 +118,11 @@ Using Spatial Discovery, you can add maps as an overlay atop one another. As the
 
 Here’s how we use them.
 
-<img src="\images\other-formats\maps-17.jpg" style="width:600px;">
+<img src="\images\other-formats\maps-17.JPG" style="width:600px;">
 
 Click on the **[+]** icon to add a map layer. You can find this beside the map previews on the search results tab.
 
-<img src="\images\other-formats\maps-18.jpg" style="width:600px;">
+<img src="\images\other-formats\maps-18.JPG" style="width:600px;">
 
 Now that our map layer is added, use the magnifying tool to zoom in. If you have an optical/ laser mouse, you can simply scroll up/down to adjust the map magnification. 
 
