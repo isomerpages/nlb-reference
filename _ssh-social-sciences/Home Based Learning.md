@@ -19,13 +19,13 @@ Observations during this HBL period across the world include the impact of socio
 
 The lessons learnt from the current COVID-19 crisis may chart new directions for the education landscape in Singapore and the rest of world. To find out more about HBL and online learning, check out the resources below. 
 
-[^1]: UNESCO. (2020). *COVID-19 educational disruption and response.* Retrieved 2020, May 2 from 
+[^1]: UNESCO. (2020). *COVID-19 educational disruption and response.* Retrieved 2020, May 2 from [https://www.unesco.org/](https://www.unesco.org/en/articles/covid-19-educational-disruption-and-response)
 
-[^2]: Pappano. (2012, November 2). The year of the MOOC. *The New York Times*. Retrieved 2020, April 30 from ; Lim, S.S. (2020, October 21). Commentary: Laptops for every student – a lot could go wrong.*ChannelNewsAsia.* Retrieved 2020, April 29 from https://www.channelnewsasia.com/commentary/laptops-students-distraction-online-learning-965436 ; Trucano, M. (2014, September 16). Education &amp; technology in an age of pandemics (revisited). *World Bank Blogs*. Retrieved 2020, April 29 from 
+[^2]: Pappano. (2012, November 2). The year of the MOOC. *The New York Times*. Retrieved 2020, April 30 from ; Lim, S.S. (2020, October 21). Commentary: Laptops for every student – a lot could go wrong.*ChannelNewsAsia.* Retrieved 2020, April 29 from [from https://www.channelnewsasia.com/](https://www.channelnewsasia.com/commentary/laptops-students-distraction-online-learning-965436) ; Trucano, M. (2014, September 16). Education &amp; technology in an age of pandemics (revisited). *World Bank Blogs*. Retrieved 2020, April 29 from [https://blogs.worldbank.org/](https://blogs.worldbank.org/en/education/education-technology-age-pandemics-revisited)
 
-[^3]: Dodd, H. (2020, April 14). I can’t believe I am going to say this, but I would rather be at school. *The New York Times,* retrieved 2020, May 2 from ; Bromley, M. (2020, March 18). Coronavirus: Crisis management and school closure – issues to consider. *SecEd*. Retrieved 2020, April 30 from 
+[^3]: Dodd, H. (2020, April 14). I can’t believe I am going to say this, but I would rather be at school. *The New York Times,* retrieved 2020, May 2 from [https://www.nytimes.com/](https://www.nytimes.com/2020/04/14/us/school-at-home-students-coronavirus.html) ; Bromley, M. (2020, March 18). Coronavirus: Crisis management and school closure – issues to consider. *Headteacher Update*. Retrieved 2020, April 30 from [https://www.headteacher-update.com](https://www.headteacher-update.com/content/best-practice/coronavirus-crisis-management-and-school-closure-issues-to-consider/)
 
-[^4]: Robert, C. (2020, April 11). Commentary: Home-based learning is strange, new ground. But we can conquer that too. *ChannelNewsAsia.* Retrieved 2020, April 29 from ; Saavedra, J. (2020, March 3). Educational challenges and opportunities of the Coronavirus (COVID-19) pandemic. Retrieved 2020, April 29 from 
+[^4]: Robert, C. (2020, April 11). Commentary: Home-based learning is strange, new ground. But we can conquer that too. *ChannelNewsAsia.* Retrieved 2020, April 29 from [https://www.channelnewsasia.com/](https://www.channelnewsasia.com/commentary/covid-hbl-education-school-pri-sec-jc-moe-rule-close-curriculum-1381001); Saavedra, J. (2020, March 3). Educational challenges and opportunities of the Coronavirus (COVID-19) pandemic. Retrieved 2020, April 29 from [https://blogs.worldbank.org/](https://blogs.worldbank.org/en/education/educational-challenges-and-opportunities-covid-19-pandemic)
 
 
 
