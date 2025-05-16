@@ -50,7 +50,7 @@ Most of the physical maps are not digitised. However, older, pre-colonial maps h
 
 ## NL Online
 
-[**NL Online**]([National Library Online (nlb.gov.sg)](https://www.nlb.gov.sg/main/nlonline)){:target="blank"} is an online collection of digitised books and printed materials, including rare and historical imprints related to Singapore and Southeast Asia from the National Library and our partner institutions.
+[**NL Online**](https://www.nlb.gov.sg/main/nlonline) is an online collection of digitised books and printed materials, including rare and historical imprints related to Singapore and Southeast Asia from the National Library and our partner institutions.
 
 Several digitised maps from the National Library’s Rare Map Collection can be found on the NL Online platform, comprising of topographic maps and navigational charts that cover Singapore, Southeast Asia and Asia, as well as town plans and street maps of Singapore and Malaya. The oldest map in our collection is the [Vndecima Asiae Tabvla](https://www.nlb.gov.sg/main/book-detail?cmsuuid=ecec93db-7cc8-493c-98f5-53e1d6034169), which dates back to 1478. 
 
@@ -168,7 +168,7 @@ Let’s take a closer look at some of our search results.
 
 <img src="\images\other-formats\maps-24.JPG" style="width:500px;">
 
-The above result directs us to [BookSG](https://eresources.nlb.gov.sg/printheritage/), an online collection of digitised books and printed materials, including rare and historical imprints related to Singapore and Southeast Asia from the National Library and our partner institutions. 
+The above result directs us to [**NL Online**](https://www.nlb.gov.sg/main/nlonline).
 
 <img src="\images\other-formats\maps-25.jpg" style="width:600px;">
 
