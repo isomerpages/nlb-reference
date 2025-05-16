@@ -104,7 +104,7 @@ Quentin Jadoul, André Nascimento, Olli Salo &amp; Renato Willi, “Agility in t
 <b><font style="color:#4372d6;">How to Get Your Agile Transformation on Target</font></b><br>
 The keys to a successful agile transformation comprise a targeted approach, sequenced implementation, and investment in culture. Embracing agile includes developing the right skills, cultures and behaviours, supported by solid leadership for the change. This article provides four significant lessons to learn from early adopters.
 
-Matt Watt, “How to Get Your Agile Transformation on Target,” *EY*, 22 April 2020. [https://www.ey.com/en_gl/workforce/how-to-get-your-agile-transformation-on-target](https://www.ey.com/en_gl/workforce/how-to-get-your-agile-transformation-on-target)
+Matt Watt, “How to Get Your Agile Transformation on Target,” *EY*, 22 April 2020. [https://www.ey.com/en_sg/insights/workforce/how-to-get-your-agile-transformation-on-target](https://www.ey.com/en_sg/insights/workforce/how-to-get-your-agile-transformation-on-target)
 
 ### Journal Articles
 

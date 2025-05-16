@@ -97,7 +97,7 @@ Source: <a href="https://www.youtube.com/embed/DZD95Lp7ikU" target="_blank">The 
 <h5>5. <a href="https://www.theguardian.com/news/audio/2020/mar/31/lessons-from-the-1918-spanish-flu-pandemic-podcast" target="_blank">Lessons from the 1918 Spanish flu pandemic</a></h5>
 Humphreys, R. &amp; Spinney, L. (2020, March 31). Lessons from the 1918 Spanish flu pandemic. <i>The Guardian</i>. Retrieved 2020, April 1.
 
-<h5>6. <a href="https://goingviralthepod.libsyn.com/2-resurrecting-the-killer" target="_blank">Resurrecting the killer</a></h5>
+<h5>6. <a href="https://podtail.com/en/podcast/going-viral-the-mother-of-all-pandemics/resurrecting-the-killer/" target="_blank">Resurrecting the killer</a></h5>
 Resurrecting the killer. (2018, June 28). <i>Going Viral: The mother of all pandemics</i>. Retrieved 2020, April 1.
 
 

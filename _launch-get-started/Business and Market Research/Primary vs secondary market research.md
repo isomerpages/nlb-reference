@@ -48,8 +48,8 @@ Business & IP Centre, British Library. “Primary Market Research vs Secondary M
 
 Business Queensland. “Market Research Methods”. Last updated May 24, 2021. [https://www.business.qld.gov.au/starting-business/planning/market-customer-research/market-research/methods](https://www.business.qld.gov.au/starting-business/planning/market-customer-research/market-research/methods) 
 
+Murray, Jean. “Market Research for Your Business”. Last updated March 2, 2019. [https://www.thebalancemoney.com/market-research-for-your-business-398068](https://www.thebalancemoney.com/market-research-for-your-business-398068)
+
 Poldosky, Matthew. “Understanding Market Research for Your Business Plan”. Forbes. February 28, 2020. [https://www.forbes.com/sites/theyec/2020/02/28/understanding-market-research-for-your-business-plan/](https://www.forbes.com/sites/theyec/2020/02/28/understanding-market-research-for-your-business-plan/)  
 
 Small Business Development Corporation. “Market Research”. Accessed September 29, 2021. [https://www.smallbusiness.wa.gov.au/business-advice/marketing/marketing-research](https://www.smallbusiness.wa.gov.au/business-advice/marketing/marketing-research) 
-
-Ward, Susan. “How Do Businesses Use Market Research?”. Last updated September 20, 2019. [https://www.thebalancesmb.com/market-research-2948350](https://www.thebalancesmb.com/market-research-2948350)

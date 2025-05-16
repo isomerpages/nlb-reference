@@ -1,13 +1,13 @@
 ---
 title: Building and retaining customer loyalty
 permalink: /launch/getting-started/branding/customer-loyalty/
-description: "Customer loyalty describes an ongoing positive relationship
-  between a business and a customer. Customer loyalty is a measure of how likely
-  a customer will remain with a company’s products or services even when there
-  are competing alternatives."
+description: Customer loyalty describes an ongoing positive relationship between
+  a business and a customer. Customer loyalty is a measure of how likely a
+  customer will remain with a company’s products or services even when there are
+  competing alternatives.
 third_nav_title: Branding and Marketing
+variant: markdown
 ---
-
 # Building and Retaining Customer Loyalty 
 
 Customer loyalty describes an ongoing positive relationship between a business and a customer. Customer loyalty is a measure of how likely a customer will remain with a company’s products or services even when there are competing alternatives.  
@@ -62,7 +62,7 @@ Customer feedback is crucial in growing and improving business. Asking your cust
 
 ## References 
 
-[Bernazzani](https://blog.hubspot.com/service/author/sophia-bernazzani), Sophia. “Customer Loyalty: The Ultimate Guide”. Hubspot. Last updated 25 July 2022, [https://blog.hubspot.com/service/customer-loyalty](https://blog.hubspot.com/service/customer-loyalty) 
+Bernazzani, Sophia. “Customer Loyalty: The Ultimate Guide”. Hubspot. Last updated 25 July 2022, [https://blog.hubspot.com/service/customer-loyalty](https://blog.hubspot.com/service/customer-loyalty) 
 
 Forbes. “How to Grow Your Agency's Remote Work Culture.” Published 30 November 2021, [https://www.forbes.com/sites/square/2021/11/30/how-to-grow-your-agencys-remote-work-culture/](https://www.forbes.com/sites/square/2021/11/30/how-to-grow-your-agencys-remote-work-culture/)  
 

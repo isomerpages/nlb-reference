@@ -3,12 +3,13 @@ title: Negotiation
 permalink: /launch/resource-guides/negotiation/
 description: ""
 third_nav_title: Resource Guides
+variant: markdown
 ---
 # Negotiation
 
-Negotiation is a discussion between two or more parties over an issue, where all parties want to reach a beneficial outcome or agreeable end goal. Negotiation may seem like a difficult business process, but it is an interaction that is very present in our everyday lives. You might be trying to get a better price on a car, or you might be trying to get someone else to take out the trash. Either way, negotiation is an important skill to learn for building relationships and getting what you want. To become a successful negotiator, it is crucial to find out what strategies and negotiation styles work best for you. It is also essential to enter a discussion prepared, knowing what your position and and what the other party wants including the strengths and weaknesses of their position.  
+Negotiation is a discussion between two or more parties over an issue, where all parties want to reach a beneficial outcome or agreeable end goal. Negotiation may seem like a difficult business process, but it is an interaction that is very present in our everyday lives. You might be trying to get a better price on a car, or you might be trying to get someone else to take out the trash. Either way, negotiation is an important skill to learn for building relationships and getting what you want. To become a successful negotiator, it is crucial to find out what strategies and negotiation styles work best for you. It is also essential to enter a discussion prepared, knowing what your position and and what the other party wants including the strengths and weaknesses of their position.&nbsp;&nbsp;
 
-The objective behind a successful negotiation is for both parties to believe that they have attained a win-win situation. 
+The objective behind a successful negotiation is for both parties to believe that they have attained a win-win situation.&nbsp;
 
 This resource guide lists some resources on negotiation which are available in NLB and on the Internet. Interested readers are recommended to search the [NLB catalogue](https://catalogue.nlb.gov.sg/) for more resources. Academic journal and research articles can be found from NLB’s [subscribed databases](https://eresources.nlb.gov.sg/main/).
 
@@ -43,9 +44,9 @@ This resource guide lists some resources on negotiation which are available in N
 
 | Title | Description |
 | --- | --- |
-| ![Ask for more: 10 Questions to negotiate anything](/images/launch-book-covers/Ask-for-more-10-questions.jpg) | [**Ask for more: 10 Questions to negotiate anything**](https://nlb.overdrive.com/media/5042287)<br>This book offers an accessible approach to negotiation by suggesting the right questions to ask. Carter includes a 10-question framework for successful, win-win negotiations, proposing that by asking better questions, you get better answers, and hence better results from any negotiation.<br>All rights reserved, New York: Simon & Schuster, 2020<br><br>Alexandra Carter, *Ask for more: 10 Questions to negotiate anything.* New York: Simon & Schuster, 2020) |
+| ![Ask for more: 10 Questions to negotiate anything](/images/launch-book-covers/Ask-for-more-10-questions.jpg) | [**Ask for more: 10 Questions to negotiate anything**](https://nlb.overdrive.com/media/5042287)<br>This book offers an accessible approach to negotiation by suggesting the right questions to ask. Carter includes a 10-question framework for successful, win-win negotiations, proposing that by asking better questions, you get better answers, and hence better results from any negotiation.<br>All rights reserved, New York: Simon &amp; Schuster, 2020<br><br>Alexandra Carter, *Ask for more: 10 Questions to negotiate anything.* New York: Simon &amp; Schuster, 2020) |
 | ![Better, not perfect: A realist's guide to maximum sustainable goodness](/images/launch-book-covers/Better-not-perfect.jpg) | [**Better, not perfect: A realist's guide to maximum sustainable goodness**](https://nlb.overdrive.com/media/5152841)<br>Negotiation and decision-making expert Max Bazerman argues that we do not have to seek perfection to make a real difference. Instead, Bazerman shares a framework to maximise what we want and to minimise pain to attain the most “sustainable goodness”. The author also identifies four training grounds to practice your new decision-making and negotiation skills for outsized impact.<br>All rights reserved, New York: Harper Business, 2020<br><br>Max H. Bazerman, *Better, not perfect: A realist's guide to maximum sustainable goodness.* New York: Harper Business, 2020) |
-| ![Dealmaking: The new strategy of negotiauctions ](/images/launch-book-covers/Dealmaking-the-new-strategy.jpg) | [**Dealmaking: The new strategy of negotiauctions**](https://nlb.overdrive.com/media/5342777)<br>Deal making scholar and Harvard Business School professor Guhan Subramanian provides advice on negotiation based on his experiences in teaching negotiation theory and auction theory. By bringing both fields together in a new and original way, the author offers various negotiation scenarios and clearly identifies the specific moves that ensure success.<br>All rights reserved, New York: W. W. Norton & Company, 2020<br><br>Guhan Subramanian, *Dealmaking: The new strategy of negotiauctions .* New York: W. W. Norton & Company, 2020) |
+| ![Dealmaking: The new strategy of negotiauctions ](/images/launch-book-covers/Dealmaking-the-new-strategy.jpg) | [**Dealmaking: The new strategy of negotiauctions**](https://nlb.overdrive.com/media/5342777)<br>Deal making scholar and Harvard Business School professor Guhan Subramanian provides advice on negotiation based on his experiences in teaching negotiation theory and auction theory. By bringing both fields together in a new and original way, the author offers various negotiation scenarios and clearly identifies the specific moves that ensure success.<br>All rights reserved, New York: W. W. Norton &amp; Company, 2020<br><br>Guhan Subramanian, *Dealmaking: The new strategy of negotiauctions .* New York: W. W. Norton &amp; Company, 2020) |
 | ![Entrepreneurial negotiation: Understanding and managing the relationships that determine your entrepreneurial success](/images/launch-book-covers/Entrepreneurial-negotiation-understanding-and-managing.jpg) | [**Entrepreneurial negotiation: Understanding and managing the relationships that determine your entrepreneurial success**](https://nlb.overdrive.com/media/4425068)<br>Entrepreneurship is often a series of interactions between founders, partners, potential partners and more. Through these interactions, the authors explore how to handle emotions, manage uncertainty, cope with technical complexity, and build long-term relationships to become a successful negotiator.<br>All rights reserved, Dordrecht: Palgrave Macmillan, 2018<br><br>Samuel Dinnar, and Lawrence Susskind, *Entrepreneurial negotiation: Understanding and managing the relationships that determine your entrepreneurial success.* Dordrecht: Palgrave Macmillan, 2018) |
 | ![Mediation: Negotiation by other moves](/images/launch-book-covers/Mediation-negotiation-by-other-moves.jpg) | [**Mediation: Negotiation by other moves**](https://nlb.overdrive.com/media/6193126)<br>What happens when both parties are unable to come to an agreement? Sometimes negotiations may fail, and hence mediation allows for amicable resolutions. Lempereur provides a mediation framework for resolving conflict and addresses concepts such as resetting the negotiation, rebuilding relationships, and developing a flexible mindset.<br>All rights reserved, Hoboken: Wiley, 2021<br><br>Alain Lempereur, Jacques Salzer, Aurelien Colson, Michele Pekar, and Eugene B. Kogan., *Mediation: Negotiation by other moves.* Hoboken: Wiley, 2021) |
 | ![Negotiation booster: The ultimate self-empowerment guide to high impact negotiations](/images/launch-book-covers/Negotiation-booster-the-ultimate-self-empowerment.jpg) | [**Negotiation booster: The ultimate self-empowerment guide to high impact negotiations**](https://nlb.overdrive.com/media/6004846)<br>This book focuses on self-empowerment as an important factor in business negotiations. Author Kasia Jagodzinska argues that a negotiation cannot be won if one enters with fear or self-doubt. Instead, the author proposes that strategy must be combined with self-empowerment for one to thrive in all aspects of negotiation.<br>All rights reserved, LaVergne: Business Expert Press, 2020<br><br>Kasia Jagodzinska, *Negotiation booster: The ultimate self-empowerment guide to high impact negotiations.* LaVergne: Business Expert Press, 2020) |
@@ -58,70 +59,70 @@ This resource guide lists some resources on negotiation which are available in N
 
 - **12 Important negotiation skills: Definition and examples**
 	
-	Indeed. (2021, June 11).“12 Important Negotiation Skills: Definition and Examples.” Accessed August 19, 2021. <https://www.indeed.com/career-advice/career-development/negotiation-skills>  
+	Indeed. (2021, June 11).“12 Important Negotiation Skills: Definition and Examples.” Accessed August 19, 2021.   
 
 	Provides an overview of the top negotiation skills to have and includes tips on how to start preparing for negotiations in the workplace. Negotiation skills include communication, patience, adaptability, and more. 
 
 - **Bad negotiation: 9 Mistakes to avoid at the bargaining table** 
 
-	Gavin, Matt. (2018, November 20). “Bad Negotiation: 9 Mistakes to Avoid at the Bargaining Table.” Accessed August 19, 2021. <https://online.hbs.edu/blog/post/negotiation-strategies-what-not-to-do>   
+	Gavin, Matt. (2018, November 20). “Bad Negotiation: 9 Mistakes to Avoid at the Bargaining Table.” Accessed August 19, 2021.    
 
 	Identifies common mistakes that often lead to failed negotiations, such as neglecting the other side’s perspective, using aggressive language, and losing sight of your values. Includes tips and explanations regarding such mistakes to avoid. 
 
 - **Distributive Negotiation – Explained** 
 
-	Gordon, Jason. (2021, July 11). “Distributive Negotiation – Explained.” Accessed August 25, 2021. <https://thebusinessprofessor.com/en_US/communications-negotiations/distributive-negotiation>  
+	Gordon, Jason. (2021, July 11). “Distributive Negotiation – Explained.” Accessed August 25, 2021.   
 
 	Briefly introduces the concept of distributive negotiation, where all negotiating parties have the same interests or objectives and are hence in conflict with each other. This article explores the competitive nature of distributive negotiation and its effectiveness in negotiation processes. 
 
 - **Emotion and the art of negotiation** 
 
-	Brooks, Alison Wood. (2020, September 10). “Emotion and the Art of Negotiation.” Accessed August 19, 2021. <https://hbr.org/2015/12/emotion-and-the-art-of-negotiation>  
+	Brooks, Alison Wood. (2020, September 10). “Emotion and the Art of Negotiation.” Accessed August 19, 2021.   
 
 	Harvard Business School professor Alison Wood Brooks addresses the role of emotion in negotiation processes. The author shares some key findings from recent research in this area and shares critical emotions to look out for when negotiating. 
 
 - **Negotiation types** 
 
-	Negotiation Experts. (2020, December 14). “Negotiation Types.” Accessed August 19, 2021. <https://www.negotiations.com/articles/negotiation-types/>  
+	Negotiation Experts. (2020, December 14). “Negotiation Types.” Accessed August 19, 2021.   
 
 	There are two main schools of thought when it comes to negotiation: integrative and distributive. Take a closer look at different negotiation styles and theories, complete with guiding steps on how to achieve them. 
 
 - **Win-win negotiation: Finding solutions that work for everyone** 
 
-	Mind Tools. “Win-Win Negotiation: Finding Solutions That Work for Everyone.” Accessed August 19, 2021. <https://www.mindtools.com/CommSkll/NegotiationSkills.htm>  
+	Mind Tools. “Win-Win Negotiation: Finding Solutions That Work for Everyone.” Accessed August 19, 2021.   
 
 	This article introduces the concept of win-win negotiation, where all negotiating parties reach a mutually acceptable outcome. Learn how to put win-win negotiation into practice with the step-by-step guide, which includes separating people from the problem, focusing on interests, and knowing the best alternative to a negotiated agreement. 
 	
 
-### Videos & Podcasts 
+### Videos &amp; Podcasts&nbsp;
 
 - **The art of negotiation: Six must-have strategies \| London Business School**
 
-	Ku, Gillian. “The art of negotiation: Six must-have strategies \| London Business School.” London Business School. February 8, 2019. Lecture series, 56:54. [https://www.youtube.com/watch?v=uKbcmlKb81c](https://www.youtube.com/watch?v=uKbcmlKb81c)  
+	Ku, Gillian. “The art of negotiation: Six must-have strategies \| London Business School.” London Business School. February 8, 2019. Lecture series, 56:54.&nbsp;[https://www.youtube.com/watch?v=uKbcmlKb81c](https://www.youtube.com/watch?v=uKbcmlKb81c)&nbsp;&nbsp;
 
-	Gillian Ku, a professor of organisational behaviour at London Business School, shares six interpersonal principles regarding how we interact with people, and how that affects one’s ability to influence and persuade others.  
+	Gillian Ku, a professor of organisational behaviour at London Business School, shares six interpersonal principles regarding how we interact with people, and how that affects one’s ability to influence and persuade others.&nbsp;&nbsp;
 
-- **The negotiations between Disney and Lucasfilm - A negotiation case study** 
+- **The negotiations between Disney and Lucasfilm - A negotiation case study**&nbsp;
 
-	365 Careers. “The negotiations between Disney and Lucasfilm - A negotiation case study.” July 3, 2017. Educational video, 13:57. [https://www.youtube.com/watch?v=qgyQWOM2mV4](https://www.youtube.com/watch?v=qgyQWOM2mV4)  
+	365 Careers. “The negotiations between Disney and Lucasfilm - A negotiation case study.” July 3, 2017. Educational video, 13:57. [https://www.youtube.com/watch?v=qgyQWOM2mV4](https://www.youtube.com/watch?v=qgyQWOM2mV4)&nbsp;&nbsp;
 
-	This case study follows the negotiation processes between Disney CEO Robert Iger and former Lucasfilm head George Lucas, which led to Disney’s acquisition of Lucasfilm in 2012. Learn about the negotiation tactics used by both parties through a detailed look at their thought processes and conversations. 
+	This case study follows the negotiation processes between Disney CEO Robert Iger and former Lucasfilm head George Lucas, which led to Disney’s acquisition of Lucasfilm in 2012. Learn about the negotiation tactics used by both parties through a detailed look at their thought processes and conversations.&nbsp;
 
-- **The Negotiate Anything Podcast** 
+- **The Negotiate Anything Podcast**&nbsp;
 
-	American Negotiation Institute. “The Negotiate Anything Podcast.” 2021. [https://americannegotiationinstitute.com/the-negotiate-anything-podcast/](https://americannegotiationinstitute.com/the-negotiate-anything-podcast/)  
+Kwame Christian. “The Negotiate Anything Podcast.” 2024. [https://americannegotiationinstitute.com/the-negotiate-anything-podcast/](https://podcasts.apple.com/us/podcast/negotiate-anything/id1101679010)
 
-	This podcast offers fresh insights on negotiation tactics, mistakes, and fears in business through discussions with professors, entrepreneurs, CEOs, and finance experts. Each podcast episode is released daily from Monday to Friday. 
+	This podcast offers fresh insights on negotiation tactics, mistakes, and fears in business through discussions with professors, entrepreneurs, CEOs, and finance experts.
 
-- **Greg Williams The Master Negotiator and Body Language Expert Podcast** 
+- **Greg Williams The Master Negotiator and Body Language Expert Podcast**&nbsp;
 
-	C-Suite Radio. “Greg Williams The Master Negotiator and Body Language Expert Podcast.” 2021. [https://www.themasternegotiator.com/news-and-media/](https://www.themasternegotiator.com/news-and-media/)  
+	C-Suite Radio. “Greg Williams The Master Negotiator and Body Language Expert Podcast.” 2021. [https://www.themasternegotiator.com/news-and-media/](https://www.themasternegotiator.com/news-and-media/)&nbsp;&nbsp;
 
-	This podcast highlights how you can use body language to your advantage to enhance your negotiation skills. Greg Williams shares his expertise on body language cues to show how you can read people, emit unspoken signals, and manage emotions. Each podcast episode is released on Tuesdays and Fridays. 
+	This podcast highlights how you can use body language to your advantage to enhance your negotiation skills. Greg Williams shares his expertise on body language cues to show how you can read people, emit unspoken signals, and manage emotions. Each podcast episode is released on Tuesdays and Fridays.&nbsp;
 
-- **Negotiations Ninja Podcast** 
+- **Negotiations Ninja Podcast**&nbsp;
 
-	Negotiations Ninja. “Negotiations Ninja Podcast.” 2021. [http://www.negotiations.ninja/podcast/](http://www.negotiations.ninja/podcast/) 
+	Negotiations Ninja. “Negotiations Ninja Podcast.” 2021. [http://www.negotiations.ninja/podcast/](http://www.negotiations.ninja/podcast/)&nbsp;
 
 	Explore negotiation strategy and tactics through stories of negotiation failures and success with negotiation experts, business people, and entrepreneurs from all walks of life. Every podcast episode is delivered with detail and great insight, offering a deep dive on many aspects of negotiation. Each podcast episode is released on Mondays and Thursdays.
 	
@@ -153,7 +154,7 @@ This resource guide lists some resources on negotiation which are available in N
 
 - **The power of lost alternatives in negotiations**
 
-	Brady, Garrett L., M. Ena Inesi, and Thomas Mussweller, “The power of lost alternatives in negotiations,” Organizational Behavior & Human Decision Processes 162, (January 2021): 59-80. Retrieved 2021, August 31, from [EBSCOHost Business Source Complete](https://eresources.nlb.gov.sg/main/browse/resource/1049/) via NLB’s eResources website.
+	Brady, Garrett L., M. Ena Inesi, and Thomas Mussweller, “The power of lost alternatives in negotiations,” Organizational Behavior &amp; Human Decision Processes 162, (January 2021): 59-80. Retrieved 2021, August 31, from [EBSCOHost Business Source Complete](https://eresources.nlb.gov.sg/main/browse/resource/1049/) via NLB’s eResources website.
 	
 	Having attractive alternatives is often viewed as essential for negotiation success. However, such alternatives are never guaranteed and are sometimes lost. This study demonstrates that losing an attractive alternative is still advantageous, compared to not having an alternative at all, and shows how negotiators can use that to their benefit.  
 

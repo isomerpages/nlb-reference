@@ -436,7 +436,7 @@ ELT Journal is published quarterly and is targeted at teachers who teach English
 
 
 * The Journal of English as an International Language. (2017). The journal of English as an international language. Retrieved March 15, 2017, from Journal of English as an 
-International Language website: [http://www.eilj.com/](http://www.eilj.com/)
+International Language website: http://www.eilj.com/
 
 This journal is published twice a year and covers the structure and development of English and its relationship to different cultures and languages.
 

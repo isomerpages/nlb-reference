@@ -1473,7 +1473,7 @@ Singapore: B. de Sousa. Call No.: RCLOS 282.5957 GLI</p>
 (1996). Singapore: The Church. Call No.: RSING 282.5957 SAI</p>
 </li>
 <li>
-<p>Wijeysingha, Eugene &amp; Nicolas, René. (2006). <em><a href="http://eservice.nlb.gov.sg/det_12747544.aspx?mode=BR" rel="noopener noreferrer nofollow" target="_blank">Going forth: The Catholic Church in Singapore 1819-2004</a></em>.
+<p>Wijeysingha, Eugene &amp; Nicolas, René. (2006). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12747544" rel="noopener noreferrer nofollow" target="_blank">Going forth: The Catholic Church in Singapore 1819-2004</a></em>.
 Singapore: Nicholas Chia. Call No.: RSING 282.5957 WIJ</p>
 </li>
 </ul>
@@ -2026,11 +2026,11 @@ RSING 016.9405425 COR</p>
 London: Coronet. Call No.: RSING 940.5425 ELP</p>
 </li>
 <li>
-<p>Falk, Stanley L. (1975). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=187408" rel="noopener noreferrer nofollow" target="_blank">Seventy days to Singapore: The Malayan Campaign, 1941-1942</a></em>.
+<p>Falk, Stanley L. (1975). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=187408" rel="noopener noreferrer nofollow" target="_blank">Seventy days to Singapore: The Malayan Campaign, 1941-1942.</a></em>
 London: Hale. Call No.: RSING 940.5425 FAL</p>
 </li>
 <li>
-<p>Farrell, Brian P. (2005). <em><a href="http://eservice.nlb.gov.sg/det_12519274.aspx?mode=BR" rel="noopener noreferrer nofollow" target="_blank">The defence and fall of Singapore 1940-1942</a></em>.
+<p>Farrell, Brian P. (2005). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12519274" rel="noopener noreferrer nofollow" target="_blank">The defence and fall of Singapore 1940-1942</a></em>.
 Stroud, Gloucestershire: Tempus. Call No.: RSING 940.5425 FAR</p>
 </li>
 <li>
@@ -2054,7 +2054,7 @@ London; Portland, Or: Frank Cass. Call No.: RSING 940.5425 ALL</p>
 Stroud: Tempus. Call No.: RSING 940.5425 MOF</p>
 </li>
 <li>
-<p>Owen, Frank. (2001). <em><a href="http://eservice.nlb.gov.sg/det_10823519.aspx?mode=BR" rel="noopener noreferrer nofollow" target="_blank">The fall of Singapore</a></em>.
+<p>Owen, Frank. (2001). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10823519" rel="noopener noreferrer nofollow" target="_blank">The fall of Singapore</a></em>.
 London: Penguin Books. Call No.: RSING 940.5425 OWE</p>
 </li>
 <li>
@@ -2150,7 +2150,7 @@ ODO</p>
 Singapore: Select Pub. Call No.: RSING 617.6092 OEH</p>
 </li>
 <li>
-<p>Shinozaki, Mamoru. (1992). <em><a href="http://eservice.nlb.gov.sg/det_6324392.aspx?mode=BR" rel="noopener noreferrer nofollow" target="_blank">Syonan, my story: The Japanese occupation of Singapore</a></em>.
+<p>Shinozaki, Mamoru. (1992). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6324392" rel="noopener noreferrer nofollow" target="_blank">Syonan, my story: The Japanese occupation of Singapore</a></em>.
 Singapore: Times Books International. Call No.: RSING 959.57023 SHI</p>
 </li>
 <li>
@@ -2262,15 +2262,15 @@ Singapore: Federal Publications. Call No.: RCLOS 940.53595 CHI</p>
 Singapore: Graham Brash. Call No.: RSING 959.57 COO</p>
 </li>
 <li>
-<p>Low, Ngiong Ing. (2004). <em><a href="http://eservice.nlb.gov.sg/det_12236444.aspx?mode=BR" rel="noopener noreferrer nofollow" target="_blank">When Singapore was Syonan-to</a></em>.
+<p>Low, Ngiong Ing. (2004). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12236444" rel="noopener noreferrer nofollow" target="_blank">When Singapore was Syonan-to</a></em>.
 Singapore: Times Editions. Call No.: RSING 940.54815957 LOW</p>
 </li>
 <li>
-<p>Foong, Choon Hon. (1997). <em><a href="http://eservice.nlb.gov.sg/det_8468498.aspx?mode=BR" rel="noopener noreferrer nofollow" target="_blank">The price of peace: True accounts of the Japanese occupation</a></em>.
+<p>Foong, Choon Hon. (1997). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=8468498" rel="noopener noreferrer nofollow" target="_blank">The price of peace: True accounts of the Japanese occupation</a></em>.
 Singapore: Asiapac. Call No.: RSING 959.57 PRI</p>
 </li>
 <li>
-<p>Tan, Stanley Tik Loong. (2009). <em><a href="http://eservice.nlb.gov.sg/det_13221326.aspx?mode=BR" rel="noopener noreferrer nofollow" target="_blank">Syonan years, 1942-1945: Living beneath the rising sun</a></em>.
+<p>Tan, Stanley Tik Loong. (2009). <em><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13221326" rel="noopener noreferrer nofollow" target="_blank">Syonan years, 1942-1945: Living beneath the rising sun</a></em>.
 Singapore: National Archives of Singapore. Call No.: RSING 940.530745957</p>
 </li>
 </ul>
