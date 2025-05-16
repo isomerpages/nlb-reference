@@ -143,4 +143,4 @@ Project Management Institute. “Maximizing the Benefits of Disruptive Technolog
 
  
 
-Thunderbird School of Global Management and Arizona State University. “Disruptive Innovation and the Business Models That Make Them Successful.”Accessed 19 September 2022,
+Thunderbird School of Global Management and Arizona State University. “Disruptive Innovation and the Business Models That Make Them Successful.” Accessed 19 September 2022,
