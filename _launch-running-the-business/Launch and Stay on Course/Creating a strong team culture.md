@@ -51,7 +51,7 @@ Berkeley People & Culture. “Steps to Building an Effective Team”. Accessed A
 
 Glassdoor. “Team Culture: Identifiers, Benefits, and How to Build One that Works”. Accessed August 13, 2021. [https://www.glassdoor.com/blog/guide/team-culture/](https://www.glassdoor.com/blog/guide/team-culture/)  
 
-Heathfield, Susan M. “Build Teamwork into Your Company Culture”. Updated November 29, 2019. [https://www.thebalancecareers.com/how-to-build-a-teamwork-culture-1918509](https://www.thebalancecareers.com/how-to-build-a-teamwork-culture-1918509)  
+Heathfield, Susan M. “Build Teamwork into Your Company Culture”. Updated November 29, 2019. [https://www.liveabout.com/how-to-build-a-teamwork-culture-1918509](https://www.liveabout.com/how-to-build-a-teamwork-culture-1918509)  
 
 Jones, Scott. “Building a Strong Team Culture That Lasts – Even Through a Pandemic”. Posted November 29, 2019. [https://www.liveabout.com/how-to-build-a-teamwork-culture-1918509](https://www.liveabout.com/how-to-build-a-teamwork-culture-1918509)  
 

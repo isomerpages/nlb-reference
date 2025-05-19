@@ -24,6 +24,7 @@ The history of Singapore is indelibly imprinted on the streets and places we pas
 This guide provides a list of resources where you can find information about the streets and places in Singapore. It serves as a starting point for anyone interested to find out more about the history and heritage of the place in which we live. As this list is not intended to be exhaustive, please search the NLB catalogue or the Internet for more resources using the suggested search terms provided below.
 
 | **Search Terms** | **Call Numbers** |
+| --- | --- |
 | Street names Singapore | 959.57 |
 | Historic sites Singapore | 959.57 |
 | Historic buildings Singapore | 720.95957 |
@@ -494,7 +495,7 @@ The following websites contain useful information and resources on this topic.
 
   by Mazelan Anuar
 
-  URL: [http://eservice.nlb.gov.sg/opennlbcmscontent.aspx?id=e97525f6-e1e5-494c-b02e-92f0018aac74](http://eservice.nlb.gov.sg/opennlbcmscontent.aspx?id=e97525f6-e1e5-494c-b02e-92f0018aac74)
+  URL: [https://biblioasia.nlb.gov.sg/vol-4/issue4/jan-2009/prominent-people-street-name/](https://biblioasia.nlb.gov.sg/vol-4/issue4/jan-2009/prominent-people-street-name/)
 
   This article (from BibloAsia, Vol 4, Issue 4, pp. 31-35) gives the history of nine street names of Singapore which provides links to our recent past. It draws information from legal documents and maps which are part of the Koh Seow Chuan collection.
 
@@ -508,7 +509,7 @@ The following websites contain useful information and resources on this topic.
 
 <b><u>Accessing the Print Materials</u></b>
 
-You can search the library catalogue (for physical materials) in the library and from home [http://catalogue.nlb.gov.sg](http://catalogue.nlb.gov.sg. The easy search function allows you to search/browse by author, title, keyword, subject and ISBN/ISSN whereas the advanced search allows you to narrow your searches to specific media types or language holdings. In both instances, you will also be able to limit your search to specific libraries by clicking on the “limit by branch” option.
+You can search the library catalogue (for physical materials) in the library and from home [http://catalogue.nlb.gov.sg](http://catalogue.nlb.gov.sg). The easy search function allows you to search/browse by author, title, keyword, subject and ISBN/ISSN whereas the advanced search allows you to narrow your searches to specific media types or language holdings. In both instances, you will also be able to limit your search to specific libraries by clicking on the “limit by branch” option.
 
 **To search Lee Kong Chian Reference Library’s Holdings**
 

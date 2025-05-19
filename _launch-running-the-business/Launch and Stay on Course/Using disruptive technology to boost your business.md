@@ -7,8 +7,8 @@ description: Disruptive technology refers to a new advanced technology that
   come from start-ups, allowing them to establish themselves as thought leaders
   in new markets or gain a significant foothold in existing industries.
 third_nav_title: Launch & Stay on Course
+variant: markdown
 ---
-
 # Using Disruptive Technology to Boost Your Business 
 
  
@@ -115,34 +115,32 @@ Before adopting a disruptive technology, businesses must prepare their employees
 
  
 
-Anderson, Cindy W. “How Project Managers Can Harness the Power of Disruptive Technologies.” European CEO. Published 2 January 2019, <https://www.europeanceo.com/business-and-management/how-project-managers-can-harness-the-power-of-disruptive-technologies/>
+Anderson, Cindy W. “How Project Managers Can Harness the Power of Disruptive Technologies.” European CEO. Published 2 January 2019, 
 
  
 
-Ashcroft, Sean. “Top 10 Most Disruptive Technologies Across Business in 2022.” Technology. Published 11 March 2022, <https://technologymagazine.com/digital-transformation/top-10-most-disruptive-technologies-across-business-in-2022>
+Ashcroft, Sean. “Top 10 Most Disruptive Technologies Across Business in 2022.” Technology. Published 11 March 2022, 
 
  
 
-Cook, Chris and Billings, Vincent. “6 Ways to Introduce Disruptive Technology into Your Growth Business.” Growth Business. Published 5 August 2019, <https://www.growthbusiness.co.uk/6-ways-to-introduce-disruptive-technology-into-your-growth-business-2556765/>
+Cook, Chris and Billings, Vincent. “6 Ways to Introduce Disruptive Technology into Your Growth Business.” Growth Business. Published 5 August 2019, 
 
  
 
-Corporate Finance Institute, “Disruptive Technology.” Updated 14 January 2022, <https://corporatefinanceinstitute.com/resources/knowledge/other/disruptive-technology/> 
+Corporate Finance Institute, “Disruptive Technology.” Updated 14 January 2022,  
 
  
 
-Deloitte. “Disruptive and Sustaining Innovation.” Accessed 13 September 2022, <https://www2.deloitte.com/il/en/pages/innovation/article/disruptive_vs_sustaining.html>  
+Deloitte. “Disruptive and Sustaining Innovation.” Accessed 13 September 2022,   
 
  
 
-Grynol, Benjamin. ”Disruptive Manufacturing: The Effects of 3D Printing.” Deloitte. Accessed 13 September 2022, <https://www2.deloitte.com/content/dam/Deloitte/ca/Documents/insights-and-issues/ca-en-insights-issues-disruptive-manufacturing.pdf> 
+Grynol, Benjamin. ”Disruptive Manufacturing: The Effects of 3D Printing.” Deloitte. Accessed 13 September 2022,  
 
  
 
-Project Management Institute. “Maximizing the Benefits of Disruptive Technologies on Projects.” Published 2018, <https://www.pmi.org/-/media/pmi/documents/public/pdf/learning/thought-leadership/pulse/maximize-benefits-disruptive-technologies-projects.pdf>  
+Project Management Institute. “Maximizing the Benefits of Disruptive Technologies on Projects.” Published 2018,   
 
  
 
-Thunderbird School of Global Management and Arizona State University. “Disruptive Innovation and the Business Models That Make Them Successful.”Accessed 19 September 2022, <https://thunderbird.asu.edu/thought-leadership/insights/disruptive-innovation-and-business-models-make-them-successful>  
-
- 
+Thunderbird School of Global Management and Arizona State University. “Disruptive Innovation and the Business Models That Make Them Successful.” Accessed 19 September 2022,

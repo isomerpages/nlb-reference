@@ -3,6 +3,7 @@ title: Online Selling Platforms
 permalink: /launch/lists/online-selling-platforms/
 description: ""
 third_nav_title: Useful Lists
+variant: markdown
 ---
 # Selective Listing of Online-selling Platforms in Singapore 
 
@@ -30,17 +31,13 @@ URL: [https://www.ebay.com.sg/](https://www.ebay.com.sg/)  
 
 URL: [https://www.lazada.sg/](https://www.lazada.sg/)  
 
-## 5.  Qoo10 
 
-
-URL: [https://www.qoo10.com/](https://www.qoo10.com/)  
-
-## 6.  Shopee  
+## 5.  Shopee  
 
 
 URL: [https://shopee.sg/](https://shopee.sg/)  
 
-## 7.  Zalora 
+## 6.  Zalora 
 
 
 URL: [https://www.zalora.sg/](https://www.zalora.sg/)  

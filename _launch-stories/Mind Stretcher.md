@@ -71,44 +71,24 @@ Lim believes that what makes Mind Stretcher different from others in the market 
 
  
 
-Chia, Sue-Ann. (2014, November 20). "Growing Pains". [http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20141120-1.2.43.18](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20141120-1.2.43.18)
+Chia, Sue-Ann. (2014, November 20). "Growing Pains". *The Business Times* [http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20141120-1.2.43.18](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20141120-1.2.43.18)
 
  
 
-Chong, Claudia. (2017, January 24). "Head of the class with technology". 
+Chong, Claudia. (2017, January 24). "Head of the class with technology". *The Business Times* [https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes20170124-1.2.32.1](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes20170124-1.2.32.1)
 
  
 
-Hio, Lester. (2014, November 3). "New book celebrates successes of unique heartland businesses". 
+Hio, Lester. (2014, November 4). "Taking a page from heartland firms’ success". *The Straits Times* [https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes20141104-1](https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes20141104-1)
 
- 
+Jaya. "How this single mum of four became a super successful businesswoman in Singapore". *AsiaOne*. Accessed April 27, 2022. [https://www.asiaone.com/lifestyle/how-single-mum-4-became-super-successful-businesswoman-singapore](https://www.asiaone.com/lifestyle/how-single-mum-4-became-super-successful-businesswoman-singapore)
 
-Jaya. "How this single mum of four became a super successful businesswoman in Singapore". Accessed April 27, 2022. 
+Linkedin. (2022). "Kristie Lim". [https://www.linkedin.com/in/kristie-lim-61628740/](https://www.linkedin.com/in/kristie-lim-61628740/)
 
- 
+Linkedin. (2022). "Moses Soh". [https://www.linkedin.com/in/mosessoh/](https://www.linkedin.com/in/mosessoh/)
 
-Life. (2017, March 27). "A class act". [https://www.straitstimes.com/lifestyle/a-class-act](https://www.straitstimes.com/lifestyle/a-class-act)
+Rasid, Hafiz. (2017, December). "Excellent results". *The Straits Times* [https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20170311-1.2.107.1](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20170311-1.2.107.1)
 
- 
+Soh, Moses. (2020, May 11). "My mum ran a bomb shelter tuition centre to raise 4 kids by herself. Here's what she taught me". *Mothership.* [https://mothership.sg/2020/05/mother-reflection-president-scholar/](https://mothership.sg/2020/05/mother-reflection-president-scholar/)
 
-Linkedin. (2022). "Kristie Lim". 
-
- 
-
-Linkedin. (2022). "Moses Soh". 
-
- 
-
-Mind Stretcher Education Pte Ltd. (2019). "Our Story". 
-
- 
-
-Rasid, Hafiz. (2017, December). "Excellent results". 
-
- 
-
-Hio, Lester. (2014, November 3). "New book celebrates successes of unique heartland businesses". [https://www.straitstimes.com/singapore/new-book-celebrates-successes-of-unique-heartland-businesses](https://www.straitstimes.com/singapore/new-book-celebrates-successes-of-unique-heartland-businesses)
-
- 
-
-Soh, Moses. (2020, May 11). "My mum ran a bomb shelter tuition centre to raise 4 kids by herself. Here's what she taught me". [https://mothership.sg/2020/05/mother-reflection-president-scholar/](https://mothership.sg/2020/05/mother-reflection-president-scholar/)
+Varma, Ankita. (2017, March 27). "A class act". *The Straits Times* [https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20170327-1.2.51.1.1](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20170327-1.2.51.1.1)

@@ -63,7 +63,7 @@ A detailed framework is needed for this stage to run smoothly and have maximum i
 
 ## References 
 
-British Library Business & IP Centre. (2021). “Defining a New Product Development Process”. [https://www.bl.uk](https://www.bl.uk/business-and-ip-centre/articles/how-to-define-a-new-product-development-process)
+British Library Business & IP Centre. (2021). “Defining a New Product Development Process”. https://www.bl.uk
 
 Duval, James. (July 22, 2013). “Eight Simple Steps for New Product Development”. Accessed January 23, 2025 from [https://www.scribd.com/document/338480131/Eight-Simple-Steps-for-New-Product-Development](https://www.scribd.com/document/338480131/Eight-Simple-Steps-for-New-Product-Development) 
 

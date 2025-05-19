@@ -4,12 +4,10 @@ permalink: /guides/singapore/people/seah-song-seah/
 breadcrumb: Seah Song Seah
 collection_name: singapore-people
 third_nav_title: I to S
-published: true
+published: "true"
 description: ""
+variant: markdown
 ---
-
-
-
 ### <u>Guide Index</u>
 
 * [Introduction](#introduction)
@@ -43,7 +41,7 @@ Call no.: RSING 338.092 SEA
 A brief biography is included in this title.
 
 
-* Wright, A., & Cartwright, H. A. (Eds.). (1908). Twentieth century impressions of British Malaya: Its history, people, commerce, industries and resources. London: Lloyd’s Greater Britain Publishing Co., Ltd., pp. 635–636.
+* Wright, A., &amp; Cartwright, H. A. (Eds.). (1908). Twentieth century impressions of British Malaya: Its history, people, commerce, industries and resources. London: Lloyd’s Greater Britain Publishing Co., Ltd., pp. 635–636.
 Microfilm: NL16084
 There is a brief biography of Seah in this title, which includes his  membership in various organisations and a portrait of Seah, as well as photographs of his two homes.
 
@@ -80,5 +78,5 @@ This is a report of Seah winning the tender for operating the revenue-farming sy
 
 ### <u>Selected photographs on Seah Song Seah</u>
 
-* Lee, K. L. (1972). [[Various]](http://eresources.nlb.gov.sg/pictures/Results?q=Nanyang+Sacred+Union&qt=tag). Retrieved from PictureSG.
+* Lee, K. L. (1972). [[Various]](https://www.nlb.gov.sg/main/onesearch/result?q=Nanyang+Sacred+Union&amp;type=image&amp;page=1&amp;formatType=Photograph&amp;nlonline=true). Retrieved from PictureSG.
 Included are photographs of Seah’s former house on River Valley Road, now housing the Nanyang Sacred Union.

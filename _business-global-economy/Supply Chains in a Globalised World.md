@@ -63,7 +63,7 @@ Steinberg, G. (2020, May 27). What do you need to help you build a more resilien
 <h5>4. <a href="https://www.ft.com/content/d7a12d18-8313-11ea-b6e9-a94cffd1d9bf" target="_blank">Covid-19 crisis highlights supply chain vulnerability</a></h5>
 Evans, J. (2020, May 28). Covid-19 crisis highlights supply chain vulnerability. *Financial Times*. Retrieved 2020, June 25.
 
-<h5>5. <a href="https://www2.deloitte.com/global/en/pages/risk/articles/covid-19-managing-supply-chain-risk-and-disruption.html" target="_blank">COVID-19: Managing supply chain risk and disruption</a></h5>
+<h5>5. <a href="https://www.deloitte.com/global/en/services/risk-advisory/analysis/covid-19-managing-supply-chain-risk-and-disruption.html" target="_blank">COVID-19: Managing supply chain risk and disruption</a></h5>
 Kilpatrick, J. (2020). COVID-19: Managing supply chain risk and disruption. 
 *Deloitte*. Retrieved 2020, June 25.
 
