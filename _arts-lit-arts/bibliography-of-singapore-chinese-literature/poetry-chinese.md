@@ -4,11 +4,9 @@ permalink: /guides/arts/lit-arts/biblio-sg-chinese/poetry/
 breadcrumb: Bibliography of Singapore Chinese Literature - Poetry
 collection_name: arts-lit-arts
 third_nav_title: Bibliography Of Singapore Chinese Literature
-published: true
+published: "true"
+variant: markdown
 ---
-
-
-
 ## **新加坡华文文学书目：诗歌 / Bibliography of Singapore Chinese Literature: Poetry**
 
 <h3><u>Guide Index</u></h3>
@@ -1640,6 +1638,10 @@ NLB索书号：RSING C811.5 FR
 中外现代诗名家集萃；新华诗丛系列。
 新加坡国立大学中文图书馆藏有此书。
 
+关明。（2002）。其实，底下的城市。新加坡：玲子传媒，2002。心诗。NLB索书号：RSING C811.5 GM
+
+关明。（2002）。西班牙斗牛。新加坡：玲子传媒，2002。心诗。NLB索书号：RSING C811.5 GM
+
 贺兰宁。（2002）。花调：贺兰宁诗集。新加坡：玲子传媒。
 心书。
 NLB索书号：RSING C811.5 HLN
@@ -1741,10 +1743,6 @@ NLB索书号：RSING C810.08 GY
 锡山文艺；已故作家丛书。
 NLB索书号：RSING C810.08 LK
 （也列入散文与杂文书目）
-
-刘瑞金主编；陈晞哲、周德成编。（2004）。新加坡的99幅文学风景：新华新生代作品选。新加坡：新加坡作家协会。
-新加坡作家协会当代文丛。
-NLB索书号：RSING C810.08 SIN
 
 刘思。（2003）。双星集。新加坡：新华文化事业。
 NLB索书号：RSING C811 LS
