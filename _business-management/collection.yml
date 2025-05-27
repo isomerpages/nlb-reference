@@ -1,0 +1,15 @@
+collections:
+  business-management:
+    output: true
+    order:
+      - Artificial Intelligence and the Future of Work.md
+      - Continuous Learning.md
+      - Gig Economy.md
+      - Agile Workforce.md
+      - Digital Workplaces.md
+      - Digital Transformation in Businesses.md
+      - economic-productivity-growth.md
+      - internationalisation-scaling-up.md
+      - business-resource-guide.md
+      - role-of-boards-in-managing-risks.md
+      - strategic-planning-for-non-profit-organizations.md

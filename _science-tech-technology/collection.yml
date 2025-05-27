@@ -1,0 +1,9 @@
+collections:
+  science-tech-technology:
+    output: true
+    order:
+      - Cryptocurrencies and NFTs.md
+      - cybersecurity-trends.md
+      - the-digital-frontier.md
+      - occupational-safety-and-health-resource-guide.md
+      - Standards Resource Guide.md

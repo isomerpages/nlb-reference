@@ -1,0 +1,11 @@
+collections:
+  other-formats:
+    output: true
+    order:
+      - other-formats.md
+      - ephemera.md
+      - maps.md
+      - Newspapers.md
+      - photographs.md
+      - posters.md
+      - archived-websites.md

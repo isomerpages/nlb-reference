@@ -1,0 +1,63 @@
+title: Reference@NLB
+url: https://reference.nlb.gov.sg
+favicon: /images/favicon_NLB_2025.png
+google_analytics: UA-50449401-34
+colors:
+  primary-color: "#6031b6"
+  secondary-color: "#4372d6"
+  media-colors:
+    - title: media-color-one
+      color: "#49759a"
+    - title: media-color-two
+      color: "#744d9f"
+    - title: media-color-three
+      color: "#00838f"
+    - title: media-color-four
+      color: "#00838f"
+    - title: media-color-five
+      color: "#00838f"
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+description: Reference@NLB is an information repository containing resource
+  guides, research guides and how-to guides to provide you with the necessary
+  details to kickstart your research journey. Guides covering both print and
+  online materials deal with general topics on Singapore & Southeast Asia, Arts,
+  Business, Science & Technology, and Social Science & Humanities.
+is_government: true
+staging: https://staging.d158tppe5us2.amplifyapp.com/
+prod: https://master.d158tppe5us2.amplifyapp.com/
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+shareicon: /images/isomer-logo.svg
+facebook-pixel: ""
+google_analytics_ga4: G-RRBJSVPW8M
+linkedin-insights: ""

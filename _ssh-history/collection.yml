@@ -1,0 +1,10 @@
+collections:
+  ssh-history:
+    output: true
+    order:
+      - Major Pandemics from the 20th Century.md
+      - The Korean War.md
+      - Indian National Army (INA).md
+      - The Cuban Missile Crisis.md
+      - Cold War.md
+      - Angkor Wat.md

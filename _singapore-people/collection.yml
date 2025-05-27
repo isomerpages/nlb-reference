@@ -1,0 +1,64 @@
+collections:
+  singapore-people:
+    output: true
+    order:
+      - A to H/.keep
+      - A to H/aw-boon-haw.md
+      - A to H/cheang-hong-lim.md
+      - A to H/chen-jen-hao.md
+      - A to H/chew-joo-chiat.md
+      - A to H/chia-ann-siang.md
+      - A to H/chou-sing-chu.md
+      - A to H/chua-ek-kay.md
+      - A to H/Chua Mia Tee.md
+      - A to H/chuang-chu-lin.md
+      - A to H/georgette-chen.md
+      - A to H/goh-siew-tin.md
+      - A to H/han-wai-toon.md
+      - A to H/huang-man-shi.md
+      - I to S/.keep
+      - I to S/Joanna Wong.md
+      - I to S/Koh Soh Goh.md
+      - I to S/Law Wai Lun.md
+      - I to S/Lee Choon Seng.md
+      - I to S/Lee Dai Sor.md
+      - I to S/Lee Kuan Yew.md
+      - I to S/Lee Siow Mong.md
+      - I to S/Leong Yoon Pin.md
+      - I to S/Lew Poo Chan.md
+      - I to S/Lien Shih Sheng.md
+      - I to S/Lien Ying Chow.md
+      - I to S/Lim Fei Shen.md
+      - I to S/Lim Loh.md
+      - I to S/Lim Tze Peng.md
+      - I to S/Lin Hengnan.md
+      - I to S/Low Ing Sing.md
+      - I to S/Neo Tiew.md
+      - I to S/Pan Shou.md
+      - I to S/Sarkasi Said.md
+      - I to S/Seah Song Seah.md
+      - I to S/See Ewe Lay.md
+      - I to S/See Hiang To.md
+      - I to S/See Hoot Kee.md
+      - I to S/Seow Poh Leng.md
+      - T to Z/.keep
+      - T to Z/tan-boo-liat.md
+      - T to Z/tan-chay-yan.md
+      - T to Z/tan-chor-lam.md
+      - T to Z/tan-kheam-hock.md
+      - T to Z/tan-kim-ching.md
+      - T to Z/tan-siak-kew.md
+      - T to Z/tan-yeok-seong.md
+      - T to Z/tay-koh-yat.md
+      - T to Z/tchang-ju-chi.md
+      - T to Z/teng-mah-seng.md
+      - T to Z/teo-eng-hock.md
+      - T to Z/tso-ping-lung.md
+      - T to Z/wee-bin.md
+      - T to Z/wong-lin-ken.md
+      - T to Z/wong-nai-siong.md
+      - T to Z/Wong Yoon Wah.md
+      - T to Z/wu-lien-teh.md
+      - T to Z/yeh-chih-yun.md
+      - T to Z/yin-suat-chuan.md
+      - T to Z/zhang-liqian.md

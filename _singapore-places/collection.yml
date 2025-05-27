@@ -1,0 +1,13 @@
+collections:
+  singapore-places:
+    output: true
+    order:
+      - Curiocity Showcase 2022/.keep
+      - Curiocity Showcase 2022/Places of Entertainment in the Bras Basah Bugis
+        and Civic District Areas.md
+      - Curiocity Showcase 2022/Notable Landmarks in the Bras Basah Bugis and
+        Civic District Areas.md
+      - Curiocity Showcase 2022/Bridges along Singapore River.md
+      - Curiocity Showcase 2022/Sports in the Civic District.md
+      - Garden Smart.md
+      - Streets and Places in Singapore.md
