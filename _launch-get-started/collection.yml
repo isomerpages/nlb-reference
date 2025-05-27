@@ -2,6 +2,8 @@ collections:
   launch-get-started:
     output: true
     order:
+      - Protect Your Ideas/What is Copyright and How to Avoid Copyright
+        Infringement.md
       - Protect Your Ideas/What is Intellectual Property and How to Protect it.md
       - Protect Your Ideas/How do I Protect My Idea for a Product.md
       - Protect Your Ideas/A Beginners Guide to Trademarks.md
