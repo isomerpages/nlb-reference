@@ -9,7 +9,7 @@ third_nav_title: Protect Your Ideas
 
 You’ve just come up with a great idea for a product, one the market’s never seen before. To realise your idea, you will need the help of experts, investors, manufacturers, and more. Before your idea can even become a reality, a whole group of people will have to know about your idea, making it vulnerable to intellectual theft. To ensure your product’s success, it is imperative to protect your idea.&nbsp;
 
-## Here are four elements to consider:&nbsp;
+## Here are four elements to consider:
 
 ### 1.  File a patent
 
@@ -37,7 +37,7 @@ Trademark applications can also be filed with IPOS. Before registering your trad
 
 Even with all the legalities in place, it is still important to do your own due diligence when it comes to your employees or business partners. Before working with anyone new, do a quick background check online to see if there is any cause for concern. When sharing your ideas with potential hires or investors, give out only essential information.
 
-## References&nbsp;
+## References
 
 Intellectual Property Office of Singapore. “Acceleration Programmes”. Accessed 14 October 14, 2022., [https://www.ipos.gov.sg/about-ip/patents/how-to-register/acceleration-programmes](https://www.ipos.gov.sg/about-ip/patents/how-to-register/acceleration-programmes)
 
