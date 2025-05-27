@@ -2,6 +2,7 @@ collections:
   launch-get-started:
     output: true
     order:
+      - Protect Your Ideas/.keep
       - Intro To Entrepreneurship/.keep
       - Intro To Entrepreneurship/What is an Entrepreneur.md
       - Intro To Entrepreneurship/Developing Your Entrepreneurial Skills.md
