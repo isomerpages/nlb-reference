@@ -2,6 +2,7 @@ collections:
   launch-get-started:
     output: true
     order:
+      - Protecting Your Ideas 2/A Beginner’s Guide to Trademarks.md
       - Protecting Your Ideas 2/.keep
       - Intro To Entrepreneurship/.keep
       - Intro To Entrepreneurship/What is an Entrepreneur.md
