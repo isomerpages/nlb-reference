@@ -20,27 +20,27 @@ IP is one of the most important and valuable intangible assets for your business
 
 There are different types of IP such as patents, trademarks, trade secrets, copyright and design and some countries recognize more than others. IP rights give creators exclusive rights over the use of their creations.  
 
-**The three most common types of IP rights are:**
+### **The three most common types of IP rights are:**
 
-### 1. Patent 
+## 1. Patent 
 
 A patent grants you exclusive rights to your new, original and useful invention. It prevents others from using, making or selling your invention without your permission. A patent is protected for 20 years from the date of filing and needs to be maintained annually from the fifth year onwards. 
 
 Apply for a patent here: [https://www.ipos.gov.sg/about-ip/patents/how-to-register-overview/how-to-register](https://www.ipos.gov.sg/about-ip/patents/how-to-register-overview/how-to-register)
 
-### Trademark  
+## Trademark  
 
 A trademark identifies the origins of goods or services and distinguishes them from other traders. Trademarks can be in the form of letters, words, names, signatures, labels, devices, tickets, shapes and colour, or any combination of these elements. A registered trademark is protected for 10 years. 
 
 Apply to register a trademark here: [https://www.ipos.gov.sg/about-ip/trade-marks/how-to-register](https://www.ipos.gov.sg/about-ip/trade-marks/how-to-register)
 
-### Copyright 
+## Copyright 
 
 A copyright protects the original creative expression of ideas in tangible forms. It protects works such as music, films, plays, books, art, videos, computer programmes, photographs and paintings. Owning the copyright to these works grants you control over their use and distribution. It prevents others from reproducing, publishing, performing, communicating to the public or adapting your work. 
 
-Find out more on copyright here: 
+Find out more on copyright here: [https://www.ipos.gov.sg/about-ip/copyright/introduction-copyright/](https://www.ipos.gov.sg/about-ip/copyright/introduction-copyright/)
 
-## References 
+### References 
 
 Intellectual Property Office of Singapore. “Introduction to IP.” Accessed May 27, 2025. [https://www.ipos.gov.sg/about-ip/about-ip-overview/](https://www.ipos.gov.sg/about-ip/about-ip-overview/)
 
