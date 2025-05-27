@@ -59,7 +59,7 @@ It is best to seek legal counsel for any queries on copyright matters, to ensure
 
 Intellectual Property Office of Singapore. "Copyright". Accessed 22 February 2022, [https://www.ipos.gov.sg/about-ip/copyright](https://www.ipos.gov.sg/about-ip/copyright)  
 
-Intellectual Property Office of Singapore. "Factsheet on Copyright Act 2021". Published 19 November 2021, [https://www.ipos.gov.sg](https://isomer-user-content.by.gov.sg/61/d4e26213-5701-4870-b216-d185ff37a80d/copyright-act-factsheet.pdf)  
+Intellectual Property Office of Singapore. "Factsheet on Copyright Act 2021". Published 24 November 2022, [https://www.ipos.gov.sg](https://isomer-user-content.by.gov.sg/61/d4e26213-5701-4870-b216-d185ff37a80d/copyright-act-factsheet.pdf)  
 
 Intellectual Property Office of Singapore. "Infringement and enforcement". Accessed 31 July 2021, [https://www.ipos.gov.sg/about-ip/copyright/infringement-enforcement](https://www.ipos.gov.sg/about-ip/copyright/infringement-enforcement)  
 
