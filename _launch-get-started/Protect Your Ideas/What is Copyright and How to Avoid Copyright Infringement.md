@@ -11,7 +11,7 @@ Copyright protects the expression of ideas in tangible forms. In Singapore, copy
 
 Generally, for the work which is created by an employee during the course of his or her employment, the copyright belongs to the employer. In the case of an employee who writes for a publication such as a newspaper or magazine however, the employer would have a limited copyright ownership and the employee retains the right to publish the work elsewhere.  
 
-The duration of copyright protection varies according to the type of work. In Singapore, the copyright for literary, dramatic, musical or artistic works generally lasts for 70 years after the author's death. After copyright ends, the work passes into public domain. This means that anyone can use and adapt the work without requiring permission from the copyright owner.1 
+The duration of copyright protection varies according to the type of work. In Singapore, the copyright for literary, dramatic, musical or artistic works generally lasts for 70 years after the author's death. After copyright ends, the work passes into public domain. This means that anyone can use and adapt the work without requiring permission from the copyright owner.
 
 Copyright protects the following types of materials: 
 
