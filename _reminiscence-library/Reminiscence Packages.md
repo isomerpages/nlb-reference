@@ -4,3 +4,29 @@ permalink: /reminiscence-packages/
 variant: tiptap
 description: ""
 ---
+<p><strong>National Library Board Reminiscence Library Package</strong>
+</p>
+<p>Download National Library Board (NLB) Reminiscence Library Package, a
+new resource prepared by the National Archives of Singapore, an institution
+under the NLB. It aims to engage and encourage your clients to reminisce
+through conversations and activities. It consists of facilitation guides
+and presentation slides on six different themes – “All Kinds of Everything”,
+“Kampong Days”, “Places &amp; Events”, “Music 50s Through the 90s”, “Customs
+and Traditions: Birth Rites”, and “National Campaigns”.</p>
+<p>View the “Come, Let’s Chat about Last Time! – NLB Reminiscence Library”
+video developed by Singapore University of Social Sciences to learn how
+to use the NLB Reminiscence Library Package.</p>
+<p><strong>Target Audience:</strong>&nbsp;Public and Community Care Organisations
+<br><strong>Minimum Mobility Status:</strong>&nbsp;Seniors who are wheelchair
+users (i.e. not able to walk/minimal walking)
+<br><strong>Language:</strong>&nbsp;English</p>
+<p>Find the resources below:</p>
+<p><a href="/files/Reminiscence_Session_1___All_Kinds_of_Everything.pdf" rel="noopener nofollow" target="_blank">Reminiscence Session 1 - All Kinds of Everything</a>
+</p>
+<p>Reminiscence Session 2</p>
+<p>Reminiscence Session 3</p>
+<p><a href="/files/Reminiscence_Session_4___Music_thru_the_50s_and_60s.pdf" rel="noopener nofollow" target="_blank">Reminiscence Session 4 - Music through the 50s and 60s</a>
+</p>
+<p><a href="/files/Reminiscence_Session_5___Customs_and_Traditions.pdf" rel="noopener nofollow" target="_blank">Reminiscence Session 5 - Customs and Traditions</a>
+</p>
+<p>Reminiscence Session 6</p>
