@@ -2,6 +2,7 @@
 title: Reminiscence Package 1
 permalink: /reminiscence-library/p1/
 description: ""
+variant: markdown
 ---
 ![Alt text for image on Isomer site](/images/reminiscence-library/package-1/s5.jpg)
 
@@ -48,8 +49,6 @@ description: ""
 ![Alt text for image on Isomer site](/images/s23.png)
 
 ![Alt text for image on Isomer site](/images/s25.png)
-
-[SAF Training – Berita Singapura ](https://nlb.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=a03371e1-76ba-4b08-8452-ae4d00abe82e)
 
 ![Alt text for image on Isomer site](/images/s26.png)
 
