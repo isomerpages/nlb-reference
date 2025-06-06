@@ -1,4 +1,4 @@
-title: Reference@NLB
+title: National Library Reference Guides
 url: https://reference.nlb.gov.sg
 favicon: /images/favicon_NLB_2025.png
 google_analytics: UA-50449401-34
@@ -43,11 +43,12 @@ custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-description: Reference@NLB is an information repository containing resource
-  guides, research guides and how-to guides to provide you with the necessary
-  details to kickstart your research journey. Guides covering both print and
-  online materials deal with general topics on Singapore & Southeast Asia, Arts,
-  Business, Science & Technology, and Social Science & Humanities.
+description: National Library Reference Guidesis an information repository
+  containing reference guides, research guides and how-to guides to provide you
+  with the necessary details to kickstart your research journey. Guides covering
+  both print and online materials deal with general topics on Singapore &
+  Southeast Asia, Arts, Business, Science & Technology, and Social Science &
+  Humanities.
 is_government: true
 staging: https://staging.d158tppe5us2.amplifyapp.com/
 prod: https://master.d158tppe5us2.amplifyapp.com/
