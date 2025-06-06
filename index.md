@@ -11,7 +11,7 @@ image: /images/isomer-logo.svg
 permalink: /
 sections:
   - hero:
-      title: Reference@NLB
+      title: National Library Reference Guides
       subtitle: Looking for resources for your research and reference? Need help
         navigating our catalogues and subscribed databases? Curious to know what
         the National Library has to offer?<br><br>From recommended resources on
