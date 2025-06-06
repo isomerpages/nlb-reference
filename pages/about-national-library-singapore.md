@@ -4,7 +4,7 @@ permalink: /about-us/national-library/
 breadcrumb: About National Library Singapore
 variant: markdown
 ---
-<img align="left" width="100" src="/images/about-us/National_Library_logo.png">
+<img align="left" width="30%" src="/images/about-us/National_Library_logo.png">
 
 ![National Library](/images/about-us/National-Collection-v2.jpg)
 
