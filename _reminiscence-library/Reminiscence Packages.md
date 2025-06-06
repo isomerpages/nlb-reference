@@ -6,13 +6,13 @@ description: ""
 ---
 <p><strong>National Library Board Reminiscence Library Package</strong>
 </p>
-<p>Download National Library Board (NLB) Reminiscence Library Package, a
-new resource prepared by the National Archives of Singapore, an institution
-under the NLB. It aims to engage and encourage your clients to reminisce
-through conversations and activities. It consists of facilitation guides
-and presentation slides on six different themes – “All Kinds of Everything”,
-“Kampong Days”, “Places &amp; Events”, “Music 50s Through the 90s”, “Customs
-and Traditions: Birth Rites”, and “National Campaigns”.</p>
+<p>The National Library Board (NLB) Reminiscence Library resource package
+is prepared by the National Archives of Singapore, an institution under
+the NLB. It aims to engage and encourage reminiscence through conversations
+and activities. It consists of facilitation guides and presentation slides
+on six different themes – “All Kinds of Everything”, “Kampong Days”, “Places
+&amp; Events”, “Music 50s Through the 90s”, “Customs and Traditions: Birth
+Rites”, and “National Campaigns”.</p>
 <p></p>
 <p><strong>Target Audience:</strong>&nbsp;Public and Community Care Organisations
 <br><strong>Minimum Mobility Status:</strong>&nbsp;Seniors who are wheelchair
