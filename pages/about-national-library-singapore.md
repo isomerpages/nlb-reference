@@ -2,7 +2,10 @@
 title: About National Library Singapore
 permalink: /about-us/national-library/
 breadcrumb: About National Library Singapore
+variant: markdown
 ---
+<img height="165" width="400" src="/images/about-us/national_library_logo_banner.png">
+
 ![National Library](/images/about-us/National-Collection-v2.jpg)
 
 **[The National Library](https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/national-library-singapore?tab=2)** is a national knowledge institution empowering individuals and businesses with knowledge and information as it continuously expands its vast array of reference collections and services. It preserves and makes accessible Singapore's literary and publishing heritage, and intellectual memory through the Lee Kong Chian Reference Library occupying seven floors (from Level 7 to 13) with a floor area of 60,000 square metres. 
