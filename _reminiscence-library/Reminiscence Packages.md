@@ -55,5 +55,5 @@ users (i.e. not able to walk/minimal walking)
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/RL6.jpg">
 </div>
 <p>For full access to the six reminiscence packages and printed/video facilitation
-guide, please visit: <a rel="noopener noreferrer nofollow" target="_blank">https://www.aic.sg/community/repository-arts-culture-heritage/</a>.&nbsp;
+guide, please visit: <a href="https://www.aic.sg/community/repository-arts-culture-heritage/" rel="noopener nofollow" target="_blank">AIC Activity Repository</a>.&nbsp;
 &nbsp;&nbsp;</p>
