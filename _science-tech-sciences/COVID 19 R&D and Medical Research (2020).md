@@ -22,7 +22,7 @@ scientific and medically sound manner.[^2]
 
 Other studies, such as the social and psychological impact of the virus, its effects on scientific research and policy studies surrounding public health, are also ongoing. As a result, published research is growing week by week.[^3]
 
-[^1]: Wellcome Trust. (2020, January 31). Sharing research data and findings relevant to the novel coronavirus (COVID-19) outbreak. Retrieved 2020, April 1 from [https://wellcome.ac.uk/press-release/sharing-research-data-and-findings-relevant-novel-coronavirus-covid-19-outbreak](https://wellcome.ac.uk/press-release/sharing-research-data-and-findings-relevant-novel-coronavirus-covid-19-outbreak)
+[^1]: Wellcome Trust. (2020, January 31). Sharing research data and findings relevant to the novel coronavirus (COVID-19) outbreak. Retrieved 2020, April 1 from [https://wellcome.org/node/1912](https://wellcome.org/node/1912)
 
 [^2]: Golding, J. (2020, February 19). COVID-19: how researchers around the world are racing to understand the virus and prevent future outbreaks. Retrieved 2020, April 1 from [https://wellcome.ac.uk/news/covid-19-how-researchers-around-world-are-racing-understand-virus-and-prevent-future-outbreaks-coronavirus](https://wellcome.ac.uk/news/covid-19-how-researchers-around-world-are-racing-understand-virus-and-prevent-future-outbreaks-coronavirus)
 
