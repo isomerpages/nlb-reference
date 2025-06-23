@@ -237,9 +237,9 @@ issue.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/other-formats/newspapers-13.jpg">
 </div>
-<h3>Printing Newsapers from NewspaperSG</h3>
+<h3>Printing Newspapers from NewspaperSG</h3>
 <p>You can get an un-watermarked copy of the newspaper article from the multimedia
-stations at selected NLB libraries. Prints are charged at $0.20 per A4
+stations at selected NLB libraries. Prints are charged at $0.21 per A4
 page. Please collect your prints from the Print Console located at the
 Photocopying Room or next to the multimedia stations.</p>
 <h2><strong>Newspapers on Microfilm</strong></h2>
@@ -286,7 +286,7 @@ microfilm printing service is available at the Microform Room. However,
 note that we only offer greyscale printing (black &amp; white).</p>
 <p>You can pay using your Credit/Debit Card or PayPal via Microfilm Station.
 Alternatively, you can pay by NETS, CashCard, Ez-Link or QR code at the
-Print Release Station in the Photocopy room, also located on Level 11.
+Print Release Station in the Microform Room, also located on Level 11.
 Fees can be found in the table below.</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -304,18 +304,10 @@ Fees can be found in the table below.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>A3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S$0.90 per page</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>A4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S$0.35 per page</p>
+<p>S$0.36 per page</p>
 </td>
 </tr>
 </tbody>
