@@ -10,7 +10,7 @@ Law Wai Lun (罗伟伦; b. 1944, Shanghai, China–) is a composer known for his
 
 [^1]: Ho, O. (2017, October 25). [Chinese composer helped develop Nanyang music style](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20171025-1.2.55.3). *The Straits Times*, p. 2. Retrieved from NewspaperSG; Chow, Y. P. (2017). *Law Wai Lun: An exquisite journey*. Retrieved 2021, November 1 from National Arts Council website: [https://www.nac.gov.sg/singapore-arts-scene/cultural-medallion-and-young-artist-award/cultural-medallion-page/about-the-cultural-medallion](https://www.nac.gov.sg/singapore-arts-scene/cultural-medallion-and-young-artist-award/cultural-medallion-page/about-the-cultural-medallion)
 
-[^2]: Singapore Chinese Orchestra Company. (2021). *Financial Information*. Retrieved 2021, November 1 from Singapore Chinese Orchestra website: [https://sco.com.sg/en/about/financial-information.html](https://sco.com.sg/en/about/financial-information.html)
+[^2]: Singapore Chinese Orchestra Company Ltd. (2020). *Annual Report FY 2019/2022*. Retrieved 2025, June 2 from Singapore Chinese Orchestra website: [https://sco.com.sg/corporate/about-the-company/annual-reports/](https://sco.com.sg/corporate/about-the-company/annual-reports/)
 
 This guide provides supplementary resource for those who are keen to find information and works related to Law Wai Lun.
 
