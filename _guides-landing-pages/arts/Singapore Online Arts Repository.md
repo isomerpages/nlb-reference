@@ -2,6 +2,7 @@
 title: Singapore Online Arts Repository
 permalink: /guides/arts/soar/
 third_nav_title: Arts
+variant: markdown
 ---
 ## SOAR - The Singapore Online Arts Repository
 
@@ -11,9 +12,9 @@ The **Singapore Online Arts Repository (SOAR)** is a collaboration between Natio
 
 The collection will encompass Singapore’s performing arts, visual arts and literary arts and feature Singapore’s leading artists such as Cultural Medallion and Young Artist Award recipients, as well as long-standing arts groups.
 
-SOAR adds on to NLB’s ongoing efforts to collect, document and preserve Singapore arts heritage. A selection has been digitised and is accessible on our digital platform, National Online Repository of the Arts (NORA). New content will be added progressively. 
+SOAR adds on to NLB’s ongoing efforts to collect, document and preserve Singapore arts heritage. A selection has been digitised and is accessible on [National Library Online](https://www.nlb.gov.sg/main/nlonline). New content will be added progressively. 
 
-The first phase of SOAR honours our Cultural Medallion recipients who now have a dedicated showcase at the Arts House, [Our Cultural Medallion Story](https://artshouselimited.sg/ourcmstory/).   More information on the Cultural Medallion Recipients can be found in the [Cultural Medallion Gallery](https://eresources.nlb.gov.sg/arts/website/Contents/ArtistList.aspx?type=cmr)  and in our specially curated resource guides below.
+SOAR honours our Cultural Medallion recipients who now have a dedicated showcase at the Arts House, [Our Cultural Medallion Story](https://artshouselimited.sg/ourcmstory/). More information on the Cultural Medallion Recipients can be found in our specially curated resource guides below.
 
 ### List of Resource Guides 
 
