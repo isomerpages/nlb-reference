@@ -34,5 +34,8 @@ that Singapore’s Tamil literary legacy continues to thrive in the digital
 age. This archive serves as an educational resource, a reference resource
 for scholars, a teaching tool in the classroom, a historical account for
 posterity and a contribution to national arts resources.</p>
+<p>Download the full list in PDF here:
+<br><a href="/files/TDH_listing_May2025.pdf" rel="noopener nofollow" target="_blank">Digital Archives of Singapore Tamil Literature: 1965-2015</a>
+</p>
 <p></p>
 <p></p>
