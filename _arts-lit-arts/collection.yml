@@ -2,7 +2,6 @@ collections:
   arts-lit-arts:
     output: true
     order:
-      - Digital Archives of Singapore Tamil Literature.md
       - bibliografi-sastera-melayu-singapura/.keep
       - bibliografi-sastera-melayu-singapura/novel.md
       - bibliografi-sastera-melayu-singapura/esei.md
@@ -31,3 +30,4 @@ collections:
       - bibliography-of-singapore-tamil-literature/Poems (Tamil).md
       - bibliography-of-singapore-tamil-literature/Articles and Research
         (Tamil).md
+      - Digital Archives of Singapore Tamil Literature.md
