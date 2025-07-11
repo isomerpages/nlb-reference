@@ -195,5 +195,10 @@ variant: tiptap
 </details>
 </div>
 <p></p>
+<ul data-tight="true" class="tight">
+<li>
 <p><strong><a href="/guides/arts/lit-arts/digital-archives-singapore-tamil-literature/" rel="noopener nofollow" target="_blank">Digital Archives of Singapore Tamil Literature: 1965-2015</a></strong>
 </p>
+</li>
+</ul>
+<p></p>
