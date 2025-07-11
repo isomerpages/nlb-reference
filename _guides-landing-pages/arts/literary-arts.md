@@ -9,6 +9,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:800px;" height="auto" width="100%" alt="literary arts banner" src="/images/category/literary-arts.jpg">
 </div>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Sastera Melayu Singapura</strong>
 </summary>
@@ -52,7 +53,6 @@ variant: tiptap
 </table>
 </div>
 </details>
-<p></p>
 <details class="isomer-details">
 <summary><strong>新加坡华文文学书目</strong>
 </summary>
@@ -96,7 +96,6 @@ variant: tiptap
 </table>
 </div>
 </details>
-<p></p>
 <details class="isomer-details">
 <summary><strong>Singapore Literature in English</strong>
 </summary>
@@ -151,7 +150,6 @@ variant: tiptap
 </table>
 </div>
 </details>
-<p></p>
 <details class="isomer-details">
 <summary><strong>சிங்கப்பூர்த் தமிழ் இலக்கியம்</strong>
 </summary>
@@ -195,6 +193,7 @@ variant: tiptap
 </table>
 </div>
 </details>
+</div>
 <p></p>
 <p><strong><a href="/guides/arts/lit-arts/digital-archives-singapore-tamil-literature/" rel="noopener nofollow" target="_blank">Digital Archives of Singapore Tamil Literature: 1965-2015</a></strong>
 </p>
