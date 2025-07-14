@@ -85,19 +85,17 @@ Cononavirus &amp; youth sports. (2020). <i>The Aspen Institute</i>. Retrieved 20
 
 
 <h4>Online articles</h4>
-<h5>1. <a href="https://www.norwalkhospital.org/newsroom/article-listing/adults-exercise-and-covid19" target="_blank">Exercise is essential for well-being during COVID-19 pandemic</a></h5>
-Exercise is essential for well-being during COVID-19 pandemic. (2020, April 22). <i>Norwalk Hospital</i>. Retrieved 2020, April 22. 
 
-<h5>2. <a href="https://time.com/5804073/home-workout/" target="_blank">Influential fitness instructors are flexing new muscles as gyms shutter amid coronavirus</a></h5>
+<h5>1. <a href="https://time.com/5804073/home-workout/" target="_blank">Influential fitness instructors are flexing new muscles as gyms shutter amid coronavirus</a></h5>
 Bruner, R. (2020, March 20). Influential fitness instructors are flexing new muscles as gyms shutter amid coronavirus. <i>Time</i>. Retrieved 2020, April 21. 
 
-<h5>3. <a href="https://econsultancy.com/how-the-fitness-industry-is-responding-to-coronavirus-with-digital-push/" target="_blank">How the fitness industry is responding to coronavirus with digital push</a></h5>
+<h5>2. <a href="https://econsultancy.com/how-the-fitness-industry-is-responding-to-coronavirus-with-digital-push/" target="_blank">How the fitness industry is responding to coronavirus with digital push</a></h5>
 Gilliland, N. (2020, March 31). How the fitness industry is responding to coronavirus with digital push. <i>Econsultancy</i>. Retrieved 2020, April 21. 
 
-<h5>4. <a href="https://www.vox.com/2020/3/26/21192593/coronavirus-gym-exercise-home-workouts" target="_blank">The gym used to be my therapy. Here’s how that’s changed during social distancing</a></h5>
+<h5>3. <a href="https://www.vox.com/2020/3/26/21192593/coronavirus-gym-exercise-home-workouts" target="_blank">The gym used to be my therapy. Here’s how that’s changed during social distancing</a></h5>
 Abad-Santos, A. (2020, March 26). The gym used to be my therapy. Here’s how that’s changed during social distancing. <i>Vox</i>. Retrieved 2020, April 21. 
 
-<h5>5. <a href="https://www.weforum.org/agenda/2020/04/sports-covid19-coronavirus-excersise-specators-media-coverage/" target="_blank">This is how COVID-19 is affecting the world of sports</a></h5>
+<h5>4. <a href="https://www.weforum.org/agenda/2020/04/sports-covid19-coronavirus-excersise-specators-media-coverage/" target="_blank">This is how COVID-19 is affecting the world of sports</a></h5>
 Hall, S. (2020, April 9). This is how COVID-19 is affecting the world of sports. <i>World Economic Forum</i>. Retrieved 2020, April 22. 
 
 
