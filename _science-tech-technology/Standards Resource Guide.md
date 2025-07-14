@@ -549,7 +549,7 @@ helps to perform product safety tests and certifications.</p>
 <ul>
 <li>
 <p>Building &amp; Construction Authority (BCA)
-<br><a href="http://www.bca.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">http://www.bca.gov.sg/</a>
+<br><a href="https://www.bca.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.bca.gov.sg/</a>
 </p>
 <p>Champions the development of an excellent “built environment” (buildings,
 structures and infrastructure in our surroundings that provide the setting
@@ -585,7 +585,7 @@ Singapore.</p>
 </li>
 <li>
 <p>Professional Engineers Board (PEB)
-<br><a href="http://www.peb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">http://www.peb.gov.sg</a>
+<br><a href="https://www.peb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.peb.gov.sg</a>
 </p>
 <p>Regulates and advances the practice of professional engineering.</p>
 </li>
