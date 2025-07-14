@@ -278,7 +278,7 @@ National Gallery Singapore. (n.d.). *Between Declarations and Dreams: Art of Sou
 
 * Dive into the National Gallery’s collection of Southeast Asian art through this online resource, which includes photographs of artworks, curatorial notes, and more.
 
-Gwee, S. (2021, October 13). *“As We Were”: Reflections on Loss in Contemporary Southeast Asian Art.* Plural Art Mag. [https://pluralartmag.com/2021/10/13/as-we-were-reflections-on-loss-in-contemporary-southeast-asian-art/](https://pluralartmag.com/2021/10/13/as-we-were-reflections-on-loss-in-contemporary-southeast-asian-art/)
+Gwee, S. (2021, October 13). *“As We Were”: Reflections on Loss in Contemporary Southeast Asian Art.* Plural Art Mag. [https://pluralartmag.com/as-we-were-reflections-on-loss-in-contemporary-southeast-asian-art/](https://pluralartmag.com/as-we-were-reflections-on-loss-in-contemporary-southeast-asian-art/)
 
 * This article offers a review on the exhibition As We Were, held in Singapore in 2021 and curated by SEED the art space, featuring 46 artworks from eight Southeast Asian countries.
 
