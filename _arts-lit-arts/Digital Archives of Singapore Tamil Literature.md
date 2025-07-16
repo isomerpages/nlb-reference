@@ -36,7 +36,7 @@ for scholars, a teaching tool in the classroom, a historical account for
 posterity and a contribution to national arts resources.</p>
 <hr>
 <blockquote>
-<p><strong>Download the full list in PDF here: <br><a href="/files/TDH_listing_May2025.pdf" rel="noopener nofollow" target="_blank">Digital Archives of Singapore Tamil Literature: 1965-2010.</a></strong>
+<p><strong>Download the full list in PDF here: <br><a href="/files/TDH_listing_May2025.pdf" rel="noopener nofollow" target="_blank">Digital Archives of Singapore Tamil Literature: 1965-2015.</a></strong>
 </p>
 </blockquote>
 <p><em>You may wish to consider using your web browser's search function for key words, names and genres.</em>
