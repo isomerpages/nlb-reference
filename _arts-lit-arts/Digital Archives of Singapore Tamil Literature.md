@@ -9,34 +9,36 @@ description: Launched to celebrate Singapore’s 50th birthday in 2015, the
   valuable and readily available resource of local Tamil literature, preserving
   the rich cultural heritage for future generations.
 ---
-<h1>Digital Archives of Singapore Tamil Literature: 1965-2015</h1>
+<h1>Digital Archives of Singapore Tamil Literature (DASTL): 1965-2015</h1>
 <p>[Launched on 22 August 2015]</p>
-<p>&nbsp;</p>
-<h2><strong>Synopsis</strong></h2>
-<p>This initiative marked the first of four community-driven collaborations
-between the National Library Board (NLB) and the Tamil Digital Heritage
-Group, which later became part of the Centre for Singapore Tamil Culture
-in February 2019. Launched to celebrate Singapore’s 50th birthday in 2015,
-the project set out to digitise five decades of Singapore Tamil literary
-treasures—including novels, short stories, poems, and plays.</p>
-<p>By converting physical books into accessible digital formats, the project
-has created a valuable and readily available resource of local Tamil literature,
-preserving the rich cultural heritage for future generations.</p>
-<p>The Tamil Digital Heritage (TDH) working group, made up of dedicated authors,
-teachers, and literary enthusiasts, was supported by a team of advisors
-who provided guidance throughout the process. Their collective efforts
-sparked strong community involvement, rallying over 200 volunteers—including
-Tamil language educators, writers (many being the original authors), community
-groups, and NLB staff—to carefully annotate, proofread, and test the digital
-collection in schools.</p>
-<p>This collaboration not only brought the community together but also ensured
-that Singapore’s Tamil literary legacy continues to thrive in the digital
-age. This archive serves as an educational resource, a reference resource
-for scholars, a teaching tool in the classroom, a historical account for
-posterity and a contribution to national arts resources.</p>
+<h2><strong>Background</strong></h2>
+<p>The <strong>Digital Archive of Singapore Tamil Literature (DASTL)</strong>,
+which was also referred to as the Singapore Tamil Literature – Digital
+Collection (1965 – 2015) or the Tamil Digital Heritage (TDH) Project, was
+the first of four community-driven projects which started in 2013, between
+the National Library Board (NLB) and the Centre for Singapore Tamil Culture
+(CSTC), previously known as the Tamil Digital Heritage Group.</p>
+<p>Launched in August 2015, DASTL was created to celebrate Singapore’s 50th
+birthday and contains Singapore Tamil literary works such as novels, short
+stories, poems, and plays published between 1965 to 2015. This was a ground-breaking
+initiative where Tamil content was not just digitised but made searchable
+online through optical character recognition (OCR). Over 80 authors granted
+permission for their books to be digitised and as a result, these 350 books
+can be read online or downloaded. More than 250 volunteers - including
+Tamil authors and teachers, and NLB staff - helped in annotating these
+books and proofreading more than 50,000 pages.&nbsp; This collaboration
+has contributed to Singapore’s Tamil literary legacy and ensures that it
+continues to thrive in the digital age. DASTL serves as an educational
+and reference resource for students and scholars, a teaching tool in the
+classroom, a historical account for posterity, and a contribution to Singapore’s
+national arts collection.</p>
+<p>These titles in DASTL are also available onsite for browsing at the National
+Library. For a more comprehensive listing of other Tamil literary works
+available at the National Library, you can refer to this online <a href="/files/TDH_listing_May2025.pdf" rel="noopener noreferrer nofollow" target="_blank">bibliography</a> or
+check the <a href="https://catalogue.nlb.gov.sg" rel="noopener nofollow" target="_blank">NLB catalogue</a>.</p>
 <hr>
 <blockquote>
-<p><strong>Download the full list in PDF here: <br><a href="/files/TDH_listing_May2025.pdf" rel="noopener nofollow" target="_blank">Digital Archives of Singapore Tamil Literature: 1965-2010.</a></strong>
+<p><strong>Download the full list in PDF here: <br><a href="/files/TDH_listing_May2025.pdf" rel="noopener nofollow" target="_blank">Digital Archives of Singapore Tamil Literature: 1965-2015.</a></strong>
 </p>
 </blockquote>
 <p><em>You may wish to consider using your web browser's search function for key words, names and genres.</em>
