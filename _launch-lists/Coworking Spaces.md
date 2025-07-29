@@ -57,6 +57,9 @@ URL: [https://theworkingcapitol.com/](https://theworkingcapitol.com/)
 URL: [https://www.wework.com/l/office-space/singapore>](https://www.wework.com/l/office-space/singapore)
 
  
+## CoWorkSpace 
+
+URL: [https://www.coworkspace.com.sg/](https://www.coworkspace.com.sg/)
 
 **Compiled by:** 
 
