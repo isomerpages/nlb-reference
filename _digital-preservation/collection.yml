@@ -2,7 +2,6 @@ collections:
   digital-preservation:
     output: true
     order:
-      - Example Title.md
       - Caring for your digital collections.md
       - resources.md
       - dear-future-2021.md
