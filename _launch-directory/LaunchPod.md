@@ -16,8 +16,9 @@ and Spunky Pixel.</p>
 <p></p>
 <p></p>
 <p></p>
-<p>Check out <a href="https://reference.nlb.gov.sg/launch/" rel="noopener noreferrer nofollow" target="_blank">Launch, NLB’s Business Resource Centre</a> which
-connects you to the right resources, spaces, and networks.</p>
+<p>Check out <a href="https://reference.nlb.gov.sg/launch/" rel="noopener noreferrer nofollow" target="_blank">Launch</a>,
+NLB's Business Resource Centre which connects you to the right resources,
+spaces, and networks.</p>
 <p></p>
 <p>Check out <strong><a href="https://www.ntuc.org.sg/freelance/" rel="noopener noreferrer nofollow" target="_blank">NTUC Freelancer</a> </strong>for
 resources tailored to freelancers and self-employed persons. NTUC Freelancer
