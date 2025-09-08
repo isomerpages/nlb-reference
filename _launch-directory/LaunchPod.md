@@ -4,6 +4,9 @@ permalink: /launch/launchpod/
 variant: tiptap
 description: ""
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="LaunchPod" src="/images/launch-misc/LaunchPod_Thumbnail.png">
+</div>
 <p><strong>LaunchPod </strong>is a podcast series where we explore pertinent
 topics on entrepreneurship in Singapore. LaunchPod is an initiative under
 Launch, the National Library Board’s (NLB) business information and advisory
