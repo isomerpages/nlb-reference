@@ -4,10 +4,9 @@ permalink: /guides/singapore/people/han-wai-toon/
 breadcrumb: Han Wai Toon
 collection_name: singapore-people
 third_nav_title: A to H
-published: true
+published: "true"
+variant: markdown
 ---
-
-
 ### <u>Guide Index</u>
 
 * [Introduction](#introduction)
@@ -40,11 +39,11 @@ Call no.: RSING 9959.57 REF
 
 ### <u>Selected newspaper articles on Han Wai Toon</u>
 
-* [神农药房股东韩槐准一生贡献大](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19950625-1.2.73.2?ST=1&AT=search&k=%22%E9%9F%A9%E6%A7%90%E5%87%86%E2%80%9C&QT=%22???%22&oref=article). (1995, June 25), 联合早报， p. 47. Retrieved from NewspaperSG.
+* [神农药房股东韩槐准一生贡献大](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19950625-1.2.73.2?ST=1&amp;AT=search&amp;k=%22%E9%9F%A9%E6%A7%90%E5%87%86%E2%80%9C&amp;QT=%22???%22&amp;oref=article). (1995, June 25), 联合早报， p. 47. Retrieved from NewspaperSG.
 This is a write-up and biography of Han Wai Toon. He passed away in Beijing on October 2, 1970.
 
 
-* [COLLECTING CERAMICS](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500112-1.2.120?ST=1&AT=search&k=%22Han%20Wai%20Toon%22&QT=%22hanwaitoon%22&oref=article). (1950, January 12). The Straits Times, p. 8. Retrieved from NewspaperSG.
+* [COLLECTING CERAMICS](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500112-1.2.120?ST=1&amp;AT=search&amp;k=%22Han%20Wai%20Toon%22&amp;QT=%22hanwaitoon%22&amp;oref=article). (1950, January 12). The Straits Times, p. 8. Retrieved from NewspaperSG.
 This article shared Han Wai Toon’s interest in archaeology and ancient Chinese ceramics.
 
 
@@ -66,5 +65,6 @@ This newspaper article reports that Mr Lee Siow Mong, then Permanent Secretary o
 
 ### <u>Selected Websites on Han Wai Toon</u>
 
-* [E-Bulletin – The Pharmaceutical Society of Singapore](https://www.pss.org.sg/whats-happening/e-bulletin/issue-no-27/medical-office-and-dispenser#.W0Qz2kknbIU). Retrieved from The Pharmaceutical Society of Singapore website: https://www.pss.org.sg/whats-happening/e-bulletin/issue-no-27/medical-office-and-dispenser#.W0Qz2kknbIU
-Han Wai Toon first became interested in archaeology as a young man, but later ceramics bore a more fascinating interest for him. He believes that the study of ceramography enables one to have a better insight into the culture and art of China.
+* [E-Bulletin – The Pharmaceutical Society of Singapore](https://eresources.nlb.gov.sg/webarchives/search-result/pharmaceutical%20society%20of%20singapore%20e-bulletin%20issue%20no.27). Retrieved from The Pharmaceutical Society of Singapore website via Web Archives Singapore.
+ 
+  Han Wai Toon first became interested in archaeology as a young man, but later ceramics bore a more fascinating interest for him. He believes that the study of ceramography enables one to have a better insight into the culture and art of China.
