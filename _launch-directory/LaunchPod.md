@@ -19,7 +19,7 @@ and Spunky Pixel.</p>
 <div class="iframe-wrapper">
 <iframe height="360" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/videoseries?si=6KDjj24qBNoUUkjS&amp;amp;list=PLJlLW0qKYHTMoxQLRcXffZeYRJDleBiFe"></iframe>
 </div>
-<p>Check out <a href="https://reference.nlb.gov.sg/launch/" rel="noopener noreferrer nofollow" target="_blank">Launch</a>,
+<p>Check out <strong><a href="https://reference.nlb.gov.sg/launch/" rel="noopener noreferrer nofollow" target="_blank">Launch</a></strong>,
 NLB's Business Resource Centre which connects you to the right resources,
 spaces, and networks.</p>
 <p></p>
