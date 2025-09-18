@@ -53,7 +53,7 @@ Forbes. “14 Professional Tips for Networking During a Pandemic”. Forbes. Jan
 
 Indeed Career Guide. “What is Business Networking? With Tips to Succeed”. Posted July 23, 2021. [https://www.indeed.com](https://www.indeed.com/career-advice/career-development/business-networking) 
 
-MyCareersFuture. “10 Tips for Effective Networking in Person, or Online”. Accessed September 27, 2021. [https://content.mycareersfuture.gov.sg/](https://content.mycareersfuture.gov.sg/the-benefits-of-networking-in-person-and-online/) 
+MyCareersFuture. “Professional Networking: A Guide on What to Do Before, During and After”. Accessed September 18, 2025. [https://content.mycareersfuture.gov.sg/](https://content.mycareersfuture.gov.sg/professional-networking-a-guide-on-what-to-do-before-during-and-after/) 
 
 Ward, Susan. “What is Business Networking?”. Posted October 26, 2017. [https://teamreferralnetwork.com](https://teamreferralnetwork.com/news/2017/10/what-is-business-networking-what-are-the-benefits/) 
 
