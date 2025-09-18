@@ -3,6 +3,7 @@ title: Spa Esprit Group
 permalink: /launch/stories/spa-esprit-group/
 description: ""
 third_nav_title: Success Stories
+variant: markdown
 ---
 # Company Profile - Spa Esprit Group 
 
@@ -56,10 +57,10 @@ Chua and her team keep a lookout for customer feedback and what people are sayin
 
 ## References 
 
-“Cynthia Chua”. Accessed May 2, 2022. <https://www.tatlerasia.com/people/cynthia-chua> 
+“Cynthia Chua”. Accessed May 2, 2022. [https://www.tatlerasia.com/people/cynthia-chua](https://www.tatlerasia.com/people/cynthia-chua)
 
-“Pride of SG: 5 Singaporean Companies Celebrated Everywhere”. Accessed May 2, 2022. <https://content.mycareersfuture.gov.sg/pride-sg-5-singaporean-companies-celebrated-everywhere>  
+“Pride of SG: 5 Singaporean Companies Celebrated Everywhere”. Accessed May 2, 2022 from [MyCareersFuture website](https://content.mycareersfuture.gov.sg/)
 
  
 
-Tan, Theresa. (2020, April-June). “The Journey of a Lifestyle Maverick”. <https://nus.edu.sg/alumnet/thealumnus/issue-121/people/pursuit-of-excellence/the-journey-of-a-lifestyle-maverick>
+Tan, Theresa. (2020, April-June). “The Journey of a Lifestyle Maverick”. [https://nus.edu.sg/alumnet/thealumnus/issue-121/people/pursuit-of-excellence/the-journey-of-a-lifestyle-maverick](https://nus.edu.sg/alumnet/thealumnus/issue-121/people/pursuit-of-excellence/the-journey-of-a-lifestyle-maverick)
