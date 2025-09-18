@@ -3,6 +3,7 @@ title: 8 Tips for a positive work culture
 permalink: /launch/running-business/launch-stay-on-course/tips-positive-work-culture/
 description: ""
 third_nav_title: Launch and Stay on Course
+variant: markdown
 ---
 # 8 Tips for a Positive Workplace Culture 
 
@@ -92,7 +93,7 @@ Carmichael, Alistair, Coe, Ercia Hutchins, & Dewhurst, Martin. “Employee menta
 
 Chetan, Theodora. “How to Create a Company Culture that Encourages and Withstands Failure”. Endava. Published 14 January 2020, [https://www.endava.com/en/blog/Business/2020/How-to-create-a-culture-that-encourages-and-withstands-failure](https://www.endava.com/en/blog/Business/2020/How-to-create-a-culture-that-encourages-and-withstands-failure) 
 
-Deloitte Development LLC. “Core Beliefs and Culture: Chairman’s survey findings”. Published 2021, [https://www2.deloitte.com/content/dam/Deloitte/global/Documents/About-Deloitte/gx-core-beliefs-and-culture.pdf](https://www2.deloitte.com/content/dam/Deloitte/global/Documents/About-Deloitte/gx-core-beliefs-and-culture.pdf) 
+Deloitte Development LLC. “[Core Beliefs and Culture: Chairman’s survey findings](/files/Launch/Deloitte_Core_Beliefs_and_Culture_Chairman_s_survey_findings.pdf)”. Published 2021. 
 
 Evans, Ellie. “Cracking the Hybrid Work Culture Conundrum: How to Create a Strong Culture across a Workforce You May Never Even See.” Strategic HR Review 21, no. 2 (2022): 46–49. [https://doi.org/10.1108/shr-12-2021-0065](https://doi.org/10.1108/shr-12-2021-0065).  
 
