@@ -528,5 +528,396 @@ of Warwick, 2008), 116, <a rel="noopener noreferrer nofollow" target="_blank">ht
 </ul>
 <p><strong>Websites</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Atkinson, Michael. “Goona Goona: An Authentic Melodrama of the Isle of
+Bali.” <em>San Francisco Silent Film Festival</em>. Accessed 8 August 2025.
+<a rel="noopener noreferrer nofollow" target="_blank">https://silentfilm.org/goona-goona-an-authentic-melodrama-of-the-isle-of-bali/</a>
+</p>
+</li>
+<li>
+<p>Bloom, Peter J., and Katherine J. Hagedorn. “Legong: Dance of the&nbsp;Virgins.”
+San Francisco Silent Film Festival. Published [date unspecified]. Accessed
+8 August 2025. <a rel="noopener noreferrer nofollow" target="_blank">https://silentfilm.org/legong-dance-of-the-virgins/</a>
+</p>
+</li>
+<li>
+<p>Herbst, Edward. “Bali 1928 – Repatriating Bali’s Earliest Music Recordings,
+1930s Films and Photographs.” <em><a rel="noopener noreferrer nofollow" target="_blank">EdwardHerbst.net</a></em>.
+Accessed 8 August 2025. <a rel="noopener noreferrer nofollow" target="_blank">https://edwardherbst.net/</a>.</p>
+</li>
+<li>
+<p>Seed, John. “The Last Orientalists: European Artists in Colonial Bali.” <em>Sotheby’s</em>,
+26 February 2020. <a rel="noopener noreferrer nofollow" target="_blank">https://www.sothebys.com/en/articles/the-last-orientalists-european-artists-in-colonial-bali</a>.</p>
+</li>
+<li>
+<p>Sjarief, Ayu B. “A Brief History of Sanur: The Birthplace of Bali’s Tourism.” <em>NOW! Bali</em>,
+30 September 2020. <a rel="noopener noreferrer nofollow" target="_blank">https://www.nowbali.co.id/history-sanur-birthplace-bali-tourism/</a>.</p>
+</li>
+<li>
+<p>Speirs, Eric. “Darkness Is White: A Multimedia Exhibition of Balinese
+Maestro I Gusti Nyoman Lempad.” <em>NOW! Bali</em>, 22 July 2023. <a rel="noopener noreferrer nofollow" target="_blank">https://www.nowbali.co.id/darkness-is-white-exhibition-lempad-bali/</a>.</p>
+</li>
+</ul>
+<p><strong>Audio-visual Materials</strong>
+</p>
+<p><em>Bali&nbsp;1928, vol.&nbsp;V – Jangér Kedaton.</em> Silent film, featuring
+Ni Wayan Pempen, Ni Gusti Putu Rengkeg, and I Wayan Marek. YouTube video.
+Uploaded on July 30 2015, accessed 8&nbsp;August&nbsp;2025. <a rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/oeorZbDwA30?si=lWP925rqqpwXZPKd</a>
+</p>
+<p><em>Bali&nbsp;1928, vol.&nbsp;V – Rosa Covarrubias, Ni Made Gubreg &amp; I Gusti Alit Oka</em>.
+Silent film featuring Rosa Covarrubias, Ni Made Gubreg and I Gusti Alit
+Oka. YouTube video. Uploaded 30 July 2015. Accessed 8 August 2025. <a rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/B1C‑PUDDbL4?si=E0Cm6gSja0c7B3Uf</a>
+</p>
+<p><a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/e0c68c78-115d-11e3-83d5-0050568939ad" rel="noopener noreferrer nofollow" target="_blank">Liu Kang</a>,
+oral history interview by Tan Beng Luan, 13 Jan 1983. Transcript and MP3
+audio, reel 39. National Archives of Singapore (accession no. 000171),
+364.</p>
+<p>Mead, Margaret, Film Producer, Screenwriter, Narrator, Josef Bohmer, Colin
+McPhee, Contributor Committee For Research In Dementia Praecox, and Foerstel,
+Bateson, Gregory, Film Producer, and Jane Belo, photographer. <em>Trance and dance in Bali</em>.
+United States: New York University Film Library, 1951. Video. <a rel="noopener noreferrer nofollow" target="_blank">https://www.loc.gov/item/2001646000/</a>
+</p>
+<h4>Chapter 2</h4>
+<p>It is not surprising that the four artists were yearning for a new source
+of creative inspiration in the early 1950s and Bali, where art and life
+are inextricably enmeshed, had long been seductively in the background.
+The story of the seven-week trip emerges as an adventure shaped by serendipity,
+spontaneity and the kindness of strangers. While the ultimate destination
+of Bali was fixed, travel arrangements were improvised as they went along.
+In Java, where they visited Jakarta, Bandung and Surabaya, they tapped
+into a network of old friends, clansmen, relatives and acquaintances who
+arranged accommodation, advised on practical arrangements, provided transport
+and organised sightseeing activities.&nbsp;</p>
+<p><strong>Books</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Phua, Chay Long 潘醒农. <em>Dongnanya mingsheng </em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=84509297" rel="noopener noreferrer nofollow" target="_blank">东南亚名胜</a> [Celebrated
+Places of S. E. Asia.] Singapore 新加坡: Nandao Chubanshe 南岛出版社, 1954. (Call
+no. RCLOS 959 PCL-[LK])</p>
+</li>
+</ul>
+<p><strong>Newspaper Articles</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Nanyang Siang Pau </em>南洋商报. “Liu kang chen wenxi zhong sibin chen
+zongrui sihuajia mingri fei bali xiesheng <a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19520607-1.2.21.14" rel="noopener noreferrer nofollow" target="_blank">刘抗陈文希锺泗滨陈宗瑞四画家明日飞峇里写生</a> [Four
+Artists–Liu Kang, Chen Wen Hsi, Cheong Soo Pieng, Chen Chong Swee – Will
+Embark on a Sketching Trip to Bali Tomorrow].” 7 June 1952, 5. (From NewspaperSG)</p>
+</li>
+<li>
+<p><em>Nanyang Siang Pau </em>南洋商报. “Xinjiapo sihuajia changyou bali guilai
+<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19520729-1.2.22.19" rel="noopener noreferrer nofollow" target="_blank">新加坡四画家畅游峇厘归来</a>[Four Singapore Artists Returned after a Fulfiling Trip
+to Bali].” 29 July 1952, 5. (From NewspaperSG)</p>
+</li>
+<li>
+<p>Sabapathy, T. K. “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19810414-1.2.131.10.1" rel="noopener noreferrer nofollow" target="_blank">Romance of Art</a>.” <em>The Straits Times</em>,
+14 April 1981, 5. (From NewspaperSG)</p>
+</li>
+<li>
+<p>Sabapathy, T. K. “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19810724-1.2.142.8.2" rel="noopener noreferrer nofollow" target="_blank">A Resolute Artist</a>.” <em>The Straits Times</em>,
+24 July 1981, 3. (From NewspaperSG)</p>
+</li>
+<li>
+<p>Poh Lay Hoon 傅丽云. “Qingxi bali, yizhen shicheng <a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/lhzb19940303-1.2.8.10.1" rel="noopener noreferrer nofollow" target="_blank">情系峇厘，艺震狮城</a> [Emotionally
+Attached to Bali, Art Rocks the Lion City].” <em>Lianhe Zaobao </em>联合早报,
+3 March 1994, 5. (From NewspaperSG)</p>
+</li>
+<li>
+<p>Chia, Yen Yen 谢燕燕. “Liu Kang dao balidao xunzhao ‘taohuayuan’ <a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/shinmin19940310-1.2.16.1" rel="noopener noreferrer nofollow" target="_blank">刘抗到峇厘岛 寻找‘桃花源’</a> [Liu
+Kang Goes to Bali in Search of ‘Peach Blossom Spring’].” &nbsp;<em>Shin Min Daily News </em>新明日报,
+10 March 1994, 8. (From NewspaperSG)</p>
+</li>
+<li>
+<p>Toh, Lam Huat 杜南发.&nbsp;”Tazhe nanfang de wubu woguo sidaxianquhuajia
+52nian bali lishi zhi lü <a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/shinmin19940604-1.2.23.1" rel="noopener noreferrer nofollow" target="_blank">踏着南方的舞步 我国四大先驱画家 52年峇厘历史之旅</a> [Tracing
+the Dance Steps of the South: The Historic Trip to Bali in 1952 Embarked
+by Four Singapore Pioneering Artists].” <em>Shin Min Daily News </em>新明日报,
+4 June 1994, 12. (From NewspaperSG)</p>
+</li>
+</ul>
+<p><strong>Journal and Periodical Articles</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>“Cheong Soo Pieng.” <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=5042746" rel="noopener noreferrer nofollow" target="_blank">The Singapore Artist</a></em>,
+1, no. 1 (September 1954), 26 – 28. (Call no. RCLOS 705 SA)</p>
+</li>
+</ul>
+<p><strong>Other Print Formats</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=203901333" rel="noopener noreferrer nofollow" target="_blank">Bali</a></em> [Map].
+Bandung: Hovic, 1949. (Call no. RCLOS 912.59862 UIT -[LK])</p>
+</li>
+<li>
+<p><em>Museum Djakarta: Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen: Lembaga Kenudajaan Indonesia </em>[Jakarta
+Museum: Royal Batavian Society of Arts and Sciences: Indonesian Cultural
+Institute]. In <a href="https://catalogue.nlb.gov.sg/search/card?recordId=204060465" rel="noopener noreferrer nofollow" target="_blank">Liu Kang: Malaysia and Indonesia postcards</a>.
+(Call no. RCLOS 959.505 LIU -[LK])</p>
+</li>
+</ul>
+<p><strong>Audio-visual Materials</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/ed2b8eb0-115d-11e3-83d5-0050568939ad" rel="noopener noreferrer nofollow" target="_blank">Chen Wen Hsi</a>,
+oral history interview by Pitt Kuan Wah, 9 Feb 1983. Transcript and MP3
+audio, reel 13. National Archives of Singapore (accession no. 000369),
+96 – 100. An English translation of the transcript can be found in <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=12829865" rel="noopener noreferrer nofollow" target="_blank">Convergences: Chen Wen Hsi Centennial Exhibition</a> </em>(Vol.
+2), Singapore: Singapore Art Museum, 2006. (Call no.: RSING 759.95957 CHE)</p>
+</li>
+<li>
+<p><a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000171" rel="noopener noreferrer nofollow" target="_blank">Liu Kang</a>,
+oral history interview by Tan Beng Luan, 7 Dec 1982 – 13 Jan 1983. Transcript
+and MP3 audio, reels 21, 39, 40. National Archives of Singapore (accession
+no. 000171), 191 – 193, 364 – 375.</p>
+</li>
+</ul>
+<h4>Chapter 3</h4>
+<p>Leaving behind the familiar and embarking on a journey opens up new avenues
+of artistic expression. The culmination of their seven-week journey through
+Java and Bali was an art exhibition held in Singapore in November 1953
+at the British Council. From the drawings and sketches amassed during the
+trip, the artists spent 15 months to produce paintings for the exhibition.
+Each artist interpreted the landscapes, people, daily activities and cultural
+practices in his own preferred medium and unique style. The exhibition
+attracted many visitors and received critical acclaim. Art collectors responded
+enthusiastically, acquiring the artists’ works for their collections. The
+idea of an exhibition based on a sketching trip abroad inspired others
+in the artistic community to organise such ventures. As the study of Singapore’s
+postwar art history deepened from the 1980s onwards, the 1953 exhibition
+came to be regarded as a major milestone.</p>
+<p><strong>Books</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Bali Lüxing Huaji </em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=84540395" rel="noopener noreferrer nofollow" target="_blank">峇厘旅行画集</a> [Bali].
+Singapore 新加坡：Liu Kang, Chen Wen Hsi, Chen Chong Swee, Cheong Soo Pieng
+刘抗、陈文希、陈宗瑞、钟泗滨, 1953. (Call no. RCLOS 759.95957 BAL)</p>
+</li>
+<li>
+<p>Hsü, Marco 玛戈. <em>Malaiya Yishu Jianshi</em>  <a href="https://catalogue.nlb.gov.sg/search/card?recordId=84547974" rel="noopener noreferrer nofollow" target="_blank">马来亚艺术简史</a> [A
+Brief History of Malayan Art]. Singapore 新加坡: Nanyang Chuban Youxian Gongsi
+南洋出版有限公司,1963. (Call no.: RCLOS 709.595 MG). English translation of the
+book is Hsü, Marco C. F.; Lai Chee Kien, trans. <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=9606089" rel="noopener noreferrer nofollow" target="_blank">A Brief History of Malayan Art</a></em>.
+Singapore: Millennium Books, 1999. (Call no. RSING 709.595 HSU)</p>
+</li>
+<li>
+<p>Kwok, Kian Chow. <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=7628104" rel="noopener noreferrer nofollow" target="_blank">Channels &amp; Confluences: A History of Singapore Art</a></em>
+<a href="https://catalogue.nlb.gov.sg/search/card?recordId=7628104" rel="noopener noreferrer nofollow" target="_blank">.</a>Singapore: Singapore Art Museum, 1996. (Call no. RSING 709.5957 KWO)</p>
+</li>
+<li>
+<p><em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=4125450" rel="noopener noreferrer nofollow" target="_blank">Pameran Retrospektif Pelukis-pelukis Nanyang</a></em> [Retrospective
+Exhibition of Nanyang Artists]. Kuala Lumpur: Muzium Seni Negara,1979.
+(Call no.: RCLOS 759.959 PAM)</p>
+</li>
+<li>
+<p>Sabapathy, T. K. “From Years and After: The Nanyang Artists. Remarks on
+Art and History.” In <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=5490645" rel="noopener noreferrer nofollow" target="_blank">New Directions 1980–1987: Modern Paintings in Singapore,</a></em> not
+paginated. Singapore: Horizon Pub., 1987. (Call no. RSING 759.95957 NEW)</p>
+</li>
+<li>
+<p>Siew, Sara, ed. <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=202092789" rel="noopener noreferrer nofollow" target="_blank">Siapa Nama Kamu?: Art in Singapore since the 19th Century: Selections from the Exhibition</a>.</em> Singapore:
+National Gallery Singapore, 2015. (Call no. RSING 709.5957074 SIA)</p>
+</li>
+<li>
+<p><em>Yinni Lüxing Huaji</em>  <a href="https://catalogue.nlb.gov.sg/search/card?recordId=4412578" rel="noopener noreferrer nofollow" target="_blank">印尼旅行画集</a> [Ten
+Men Art Exhibition]. Singapore: Ten Men Art Group, 1962. (Call no. RCLOS
+759.9595 TEN -[LK])</p>
+</li>
+</ul>
+<p><strong>Newspaper Articles</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Nanyang Siang Pau </em>南洋商报. “Yishu xiehui zhuban sihuajia bali huazhan
+ding liuri xiawu zai yingwenxie kaimu <a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19531103-1.2.21.5" rel="noopener noreferrer nofollow" target="_blank">艺术协会主办四画家峇厘画展订六日下午在英文协开幕</a> [Organised
+by Singapore Art Society, The <em>Bali</em> Exhibition by Four Artists will
+be Launched in the Afternoon on the Sixth at the British Council]. 3 November
+1953, 5. (From NewspaperSG)</p>
+</li>
+<li>
+<p><em>Nanyang Siang Pau </em>南洋商报. “Liu kang, chen wenxi, chen zongrui,
+zhong sibin bali huazhan zuori kaimu youcai, labi, fenhua, maobi gong yibaiyuzhen
+<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19531107-1.2.28.1" rel="noopener noreferrer nofollow" target="_blank">刘抗、陈文希、陈宗瑞、锺泗滨 峇厘画展昨日开幕 油彩、蜡笔、粉画、毛笔画 共一百余帧</a>[<em>Bali</em> Exhibition
+by Liu Kang, Chen Wen Hsi, Chen Chong Swee, and Cheong Soo Pieng Opened
+Yesterday. More than 100 works in Oil, Conte Crayon, Pastel, and Ink]”.
+7 November 1953, 6. (From NewspaperSG)</p>
+</li>
+<li>
+<p><em>Sin Chew Jit Poh </em>星洲日报. “Liu kang chen zongrui chen wenxi zhong
+sibin bali huazhan kaimu <a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19531107-1.2.30" rel="noopener noreferrer nofollow" target="_blank">刘抗 陈宗瑞 陈文希 锺泗滨 峇厘画展开幕</a> [<em>Bali</em> Exhibition
+by Liu Kang, Chen Chong Swee, Chen Wen Hsi and Cheong Soo Pieng Launched].
+7 November 1953, 5. (From NewspaperSG)</p>
+</li>
+<li>
+<p><em>Nanyang Siang Pau </em>南洋商报. “Benpo sihuajia bali huazhan canguanzhe
+zhong maitangnashi dinggou shufu <a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19531108-1.2.25.1" rel="noopener noreferrer nofollow" target="_blank">本坡四画家峇厘画展 参观者众 麦唐纳氏订购数幅</a> [<em>Bali</em> Exhibition
+by Four Local Artists Attracted Many Visitors. Mr MacDonald Has Ordered
+Several Works]. 8 November 1953, 6. (From NewspaperSG)</p>
+</li>
+<li>
+<p><em>Sin Chew Jit Poh </em>星洲日报. “Sihuajia bali huazhan <a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19531108-1.2.52" rel="noopener noreferrer nofollow" target="_blank">四画家峇厘画展</a> [Bali
+Exhibition by Four Artists]. 8 November 1953, 5. (From NewspaperSG)</p>
+</li>
+<li>
+<p><em>Sin Chew Jit Poh </em>星洲日报. “Xingsihuajia bali huazhan <a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19531108-1.2.75.2" rel="noopener noreferrer nofollow" target="_blank">星四画家峇厘画展</a> [Bali
+Exhibition by Four Singapore Artists]”. 8 November 1953, 12. (From NewspaperSG)</p>
+</li>
+<li>
+<p><em>Nanyang Siang Pau </em>南洋商报. “Maitangna zhuanyuan re’ai dangdi yishu
+guli huajia fu shalayue zuohua zuori zaidu xinshang sihuajia bali huazhan
+ziji xuangou liuzhen hai ni jiao mada goucang <a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19531109-1.2.29.8" rel="noopener noreferrer nofollow" target="_blank">麦唐纳专员热爱当地艺术 鼓励画家赴砂拉越作画 昨日再度欣赏四画家峇厘画展 自己选购六帧还拟呌马大购藏</a> [High
+Commissioner MacDonald Loves Local Art. He Encourages Artists to Visit
+Sarawak to Paint. He Visited the Four Artists’ Bali Exhibition Again Yesterday,
+Bought Six Artworks and Intended to Ask University of Malaya to Acquire].
+9 November 1953, 5. (From NewspaperSG)</p>
+</li>
+<li>
+<p><em>Sin Chew Jit Poh </em>星洲日报. “Sijia bali huazhan <a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19531109-1.2.50.1" rel="noopener noreferrer nofollow" target="_blank">四家峇厘画展</a> [Bali
+Exhibition by Four Artists]“. 9 November 1953, 5. (From NewspaperSG)</p>
+</li>
+<li>
+<p><em>Nanyang Siang Pau </em>南洋商报. “Hua shamo wei lüzhou <a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19531110-1.2.11.1" rel="noopener noreferrer nofollow" target="_blank">化沙漠为绿洲</a> [Turing
+Desert into Oasis]”. 10 November 1953, 1. (From NewspaperSG)</p>
+</li>
+<li>
+<p><em>The Singapore Free Press</em>. “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19531110-1.2.28" rel="noopener noreferrer nofollow" target="_blank">Four Went to Paint Bali</a>.”
+10 November 1953, 5. (From NewspaperSG)</p>
+</li>
+<li>
+<p><em>Nanyang Siang Pau </em>南洋商报 Nanyang Siang Pau. “Sihuajia bali huihua
+zhanlanhui canguanzhe xiren zuiduo jinri wei zuihou yitian <a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19531115-1.2.24.20" rel="noopener noreferrer nofollow" target="_blank">四画家 峇厘绘画展览会 参观者西人最多 今日为最后一天</a> [Bali
+Exhibition by Four Artists. Most of the Visitors were Caucasians. Today
+is the Last Day]. 15 November 1953, 5. (From NewspaperSG)</p>
+</li>
+<li>
+<p><em>Sin Chew Jit Poh </em>星洲日报. “Bali huihua zhanhui jinri zuihou yitian
+<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19531115-1.2.43" rel="noopener noreferrer nofollow" target="_blank">峇厘绘画展会 今日最后一天</a>[Bali Painting Exhibition. Today is the Last Day]. 15
+November 1953, 5. (From NewspaperSG)</p>
+</li>
+<li>
+<p>De Cruz, Peter. “<a href="•	Nanyang Siang Pau 南洋商报. “Yishu xiehui zhuban sihuajia bali huazhan ding liuri xiawu zai yingwenxie kaimu 艺术协会主办四画家峇厘画展订六日下午在英文协开幕 [Organised by Singapore Art Society, The Bali Exhibition by Four Artists will be Launched in the Afternoon on the Sixth at the British Council]. 3 November 1953, 5. (From NewspaperSG) •	Nanyang Siang Pau 南洋商报. “Liu kang, chen wenxi, chen zongrui, zhong sibin bali huazhan zuori kaimu youcai, labi, fenhua, maobi gong yibaiyuzhen 刘抗、陈文希、陈宗瑞、锺泗滨 峇厘画展昨日开幕 油彩、蜡笔、粉画、毛笔画 共一百余帧 [Bali Exhibition by Liu Kang, Chen Wen Hsi, Chen Chong Swee, and Cheong Soo Pieng Opened Yesterday. More than 100 works in Oil, Conte Crayon, Pastel, and Ink]”. 7 November 1953, 6. (From NewspaperSG) •	Sin Chew Jit Poh 星洲日报. “Liu kang chen zongrui chen wenxi zhong sibin bali huazhan kaimu 刘抗 陈宗瑞 陈文希 锺泗滨 峇厘画展开幕 [Bali Exhibition by Liu Kang, Chen Chong Swee, Chen Wen Hsi and Cheong Soo Pieng Launched]. 7 November 1953, 5. (From NewspaperSG) •	Nanyang Siang Pau 南洋商报. “Benpo sihuajia bali huazhan canguanzhe zhong maitangnashi dinggou shufu 本坡四画家峇厘画展 参观者众 麦唐纳氏订购数幅 [Bali Exhibition by Four Local Artists Attracted Many Visitors. Mr MacDonald Has Ordered Several Works]. 8 November 1953, 6. (From NewspaperSG) •	Sin Chew Jit Poh 星洲日报. “Sihuajia bali huazhan 四画家峇厘画展 [Bali Exhibition by Four Artists]. 8 November 1953, 5. (From NewspaperSG) •	Sin Chew Jit Poh 星洲日报. “Xingsihuajia bali huazhan 星四画家峇厘画展 [Bali Exhibition by Four Singapore Artists]”. 8 November 1953, 12. (From NewspaperSG) •	Nanyang Siang Pau 南洋商报. “Maitangna zhuanyuan re’ai dangdi yishu guli huajia fu shalayue zuohua zuori zaidu xinshang sihuajia bali huazhan ziji xuangou liuzhen hai ni jiao mada goucang 麦唐纳专员热爱当地艺术 鼓励画家赴砂拉越作画 昨日再度欣赏四画家峇厘画展 自己选购六帧还拟呌马大购藏 [High Commissioner MacDonald Loves Local Art. He Encourages Artists to Visit Sarawak to Paint. He Visited the Four Artists’ Bali Exhibition Again Yesterday, Bought Six Artworks and Intended to Ask University of Malaya to Acquire]. 9 November 1953, 5. (From NewspaperSG) •	Sin Chew Jit Poh 星洲日报. “Sijia bali huazhan 四家峇厘画展 [Bali Exhibition by Four Artists]“. 9 November 1953, 5. (From NewspaperSG) •	Nanyang Siang Pau 南洋商报. “Hua shamo wei lüzhou 化沙漠为绿洲 [Turing Desert into Oasis]”. 10 November 1953, 1. (From NewspaperSG) •	The Singapore Free Press. “Four Went to Paint Bali.” 10 November 1953, 5. (From NewspaperSG) •	Nanyang Siang Pau 南洋商报 Nanyang Siang Pau. “Sihuajia bali huihua zhanlanhui canguanzhe xiren zuiduo jinri wei zuihou yitian 四画家 峇厘绘画展览会 参观者西人最多 今日为最后一天 [Bali Exhibition by Four Artists. Most of the Visitors were Caucasians. Today is the Last Day]. 15 November 1953, 5. (From NewspaperSG) •	Sin Chew Jit Poh 星洲日报. “Bali huihua zhanhui jinri zuihou yitian 峇厘绘画展会 今日最后一天 [Bali Painting Exhibition. Today is the Last Day]. 15 November 1953, 5. (From NewspaperSG) •	De Cruz, Peter. “Local Artists at Work.” The Singapore Free Press, 16 November 1953, 8. (From NewspaperSG)" rel="noopener nofollow" target="_blank">Local Artists at Work</a>.” <em>The Singapore Free Press</em>,
+16 November 1953, 8. (From NewspaperSG)</p>
+</li>
+</ul>
+<p><strong>Journal and Periodical Articles</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sabapathy, T. K. “Bali Revisited.” <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=7448591" rel="noopener noreferrer nofollow" target="_blank">The Arts</a> </em>1,
+no. 1 (April 1995): 12 – 18. (Call no. RSING 700.5 A)</p>
+</li>
+</ul>
+<p><strong>Audio-visual Materials</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/ed2b8eb0-115d-11e3-83d5-0050568939ad" rel="noopener noreferrer nofollow" target="_blank">Chen Wen Hsi</a>,
+oral history interview by Pitt Kuan Wah, 9 Feb 1983. Transcript and MP3
+audio, reel 13. National Archives of Singapore (accession no. 000369),
+96 – 100. An English translation of the transcript can be found in <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=12829865" rel="noopener noreferrer nofollow" target="_blank">Convergences: Chen Wen Hsi Centennial Exhibition</a> </em>(Vol.
+2), Singapore: Singapore Art Museum, 2006. (Call no.: RSING 759.95957 CHE)</p>
+</li>
+<li>
+<p><a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000171" rel="noopener noreferrer nofollow" target="_blank">Liu Kang</a>,
+oral history interview by Tan Beng Luan, 7 Dec 1982. Transcript and MP3
+audio, reels 21, 40. National Archives of Singapore (accession no. 000171),
+193, 370 - 371.</p>
+</li>
+</ul>
+<p><strong>Selected Publications Featuring Artworks Inspired by the Trip to Bali in 1952</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chen Wen Hsi. <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=4078242" rel="noopener noreferrer nofollow" target="_blank">The Art of Chen Wen Hsi</a></em>.
+Singapore: Straits Commercial Art, 1956. (Call no. RCLOS</p>
+</li>
+<li>
+<p>Cheong Soo Pieng 锺泗滨. <em>Zhong sibin huaji </em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=84467162" rel="noopener noreferrer nofollow" target="_blank">锺泗滨画集</a> [Cheong
+Soo Pieng]. Singapore 新加坡: Publisher not stated 出版社缺, 1956. (Call no. RCLOS
+759.95957 SOO)</p>
+</li>
+<li>
+<p><em>Nanyang qingnian meishu </em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=204240147" rel="noopener noreferrer nofollow" target="_blank">南洋青年美术</a> [The
+Art of Young Malayans]. Singapore 新加坡: Nanyang Academy of Fine Arts 南洋美专,
+1955. (Call no. RCLOS 759.95957 ART -[LK])</p>
+</li>
+<li>
+<p><em>Jiaofeng: Chun malaiyahua wenyi banyuekan </em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=200109819" rel="noopener noreferrer nofollow" target="_blank">蕉风：纯马来亚化文艺半月刊</a> [Chao
+Foon], Issue 3, 10 December 1955. (Call no. RCLOS C810.05 JF -[HYT])</p>
+</li>
+<li>
+<p><em>Jiaofeng: Chun malaiyahua wenyi banyuekan </em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=200109819" rel="noopener noreferrer nofollow" target="_blank">蕉风：纯马来亚化文艺半月刊</a> [Chao
+Foon], Issue 4, 25 December 1955. (Call no. RCLOS C810.05 JF -[HYT])</p>
+</li>
+<li>
+<p><em>Jiaofeng: Chun malaiyahua wenyi banyuekan </em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=200109819" rel="noopener noreferrer nofollow" target="_blank">蕉风：纯马来亚化文艺半月刊</a> [Chao
+Foon], Issue 15, 10 June 1956. (Call no. RCLOS C810.05 JF -[HYT])</p>
+</li>
+<li>
+<p><em>Jiaofeng: Chun malaiyahua wenyi banyuekan </em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=200109819" rel="noopener noreferrer nofollow" target="_blank">蕉风：纯马来亚化文艺半月刊</a> [Chao
+Foon], Issue 17, 10 July 1956. (Call no. RCLOS C810.05 JF -[HYT])</p>
+</li>
+<li>
+<p><em>Jiaofeng: Chun malaiyahua wenyi banyuekan </em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=200109819" rel="noopener noreferrer nofollow" target="_blank">蕉风：纯马来亚化文艺半月刊</a> [Chao
+Foon], Issue 29, 10 January 1957. (Call no. RCLOS C810.05 JF -[HYT])</p>
+</li>
+<li>
+<p><em>Xingqiliu </em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=12416131" rel="noopener noreferrer nofollow" target="_blank">星期六</a> [Saturday
+Review], Issue 153 (9 August 1952). (Call no. RCLOS 059.951 SR -[HYT])</p>
+</li>
+<li>
+<p><em>Xingqiliu </em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=12416131" rel="noopener noreferrer nofollow" target="_blank">星期六</a> [Saturday
+Review], Issue 156 (30 August 1952). (Call no. RCLOS 059.951 SR -[HYT])</p>
+</li>
+<li>
+<p><em>Xingqiliu </em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=12416131" rel="noopener noreferrer nofollow" target="_blank">星期六</a> [Saturday
+Review], Issue 166 (8 November 1952). (Call no. RCLOS 059.951 SR -[LK])</p>
+</li>
+<li>
+<p><em>Xingqiliu </em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=12416131" rel="noopener noreferrer nofollow" target="_blank">星期六</a> [Saturday
+Review], Issue 218 (7 November 1953). (Call no. RCLOS 059.951 SR)</p>
+</li>
+<li>
+<p><em>Xingqiliu </em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=12416131" rel="noopener noreferrer nofollow" target="_blank">星期六</a> [Saturday
+Review], Issue 262 (11 September 1954). (Call no. RCLOS 059.951 SR - [HYT])</p>
+</li>
+<li>
+<p><em>Xingzhou Zhoukan </em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=84512999" rel="noopener noreferrer nofollow" target="_blank">星洲周刊</a> [Sin
+Chew Weekly], Issue 109 (14 May 1953). (Call no. RCLOS 059.951 SCW)</p>
+</li>
+<li>
+<p><em>Xingzhou Zhoukan </em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=84512999" rel="noopener noreferrer nofollow" target="_blank">星洲周刊</a> [Sin
+Chew Weekly], Issue 135 (12 November 1953). (Call no. RCLOS 059.951 SCW)</p>
+</li>
+<li>
+<p><em>Xingzhou Zhoukan </em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=84512999" rel="noopener noreferrer nofollow" target="_blank">星洲周刊</a> [Sin
+Chew Weekly], Issue 182 (7 October 1954). (Call no. RCLOS 059.951 SCW -[HYT])</p>
+</li>
+<li>
+<p><em>Xingzhou Zhoukan </em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=84512999" rel="noopener noreferrer nofollow" target="_blank">星洲周刊</a> [Sin
+Chew Weekly], Issue 184 (21 October 1954). (Call no. RCLOS 059.951 SCW
+-[HYT])</p>
+</li>
+<li>
+<p><em>Xingzhou Zhoukan </em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=84512999" rel="noopener noreferrer nofollow" target="_blank">星洲周刊</a> [Sin
+Chew Weekly], Issue 186 (4 November 1954). (Call no. RCLOS 059.951 SCW
+-[HYT])</p>
+</li>
+<li>
+<p><em>Xingzhou Zhoukan </em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=84512999" rel="noopener noreferrer nofollow" target="_blank">星洲周刊</a> [Sin
+Chew Weekly], Issue 292 (15 November 1956). (Call no. RCLOS 059.951 SCW
+-[HYT])</p>
+</li>
+<li>
+<p><em>Xingzhou Zhoukan </em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=84512999" rel="noopener noreferrer nofollow" target="_blank">星洲周刊</a> [Sin
+Chew Weekly], Issue 294 (29 November 1956). (Call no. RCLOS 059.951 SCW
+-[HYT])</p>
+</li>
+</ul>
 <p></p>
-<p>Audio-visual Materials</p>
