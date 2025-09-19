@@ -263,5 +263,80 @@ efforts continued, highlighting Bali’s Hindu identity within a Muslim-majority
 nation. These layered portrayals—exotic, spiritual, and picturesque—fascinated
 artists in Singapore, who were drawn to Bali’s cultural richness and visual
 beauty, adding to its allure as an artistic destination.</p>
-<p></p>
+<p><strong>Books</strong>
+</p>
+<p>Adnyana, Wayan Kun. <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=204079885" rel="noopener noreferrer nofollow" target="_blank">Pita Maha: Gerakan Sosial Seni Lukis Bali 1930-an</a></em>.
+Jakarta: Kepustakaan Populer Gramedia, 2018. (Call no. RSEA 759.95986 ADN)</p>
+<p>Baum, Vicki. <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=13007674" rel="noopener noreferrer nofollow" target="_blank">Tale of Bali</a></em>.
+New York: Literary Guild of America, 1938. (Call no. RCLOS 833.91 BAU-[GH])</p>
+<p><em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=4500227" rel="noopener noreferrer nofollow" target="_blank">Bali: Isle of Temples and Dances</a></em>.
+Djakarta: Ministry of Information of the Republic of Indonesia, 1967. (Call
+no. RU 992.3 IND)</p>
+<p><em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=5024281" rel="noopener noreferrer nofollow" target="_blank">Bali: The Isle of Gods</a></em>.
+Djakarta: Ministry of Information of the Republic of Indonesia, [195-].
+(Call no. RU 959.86 IND)</p>
+<p>Bristol, Horace. <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=7227474" rel="noopener noreferrer nofollow" target="_blank">Bali in Pictures</a></em>.
+Tokyo: East-West at Toppan Press, 1949. (Call no. RCLOS 915.986 BRI-[LK])</p>
+<p>Cotterell, Arthur. <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=202476805" rel="noopener noreferrer nofollow" target="_blank">Bali: A Cultural History</a></em>.
+Interlink Cultural Histories. Northampton, MA: Interlink Books, an imprint
+of Interlink Publishing Group, 2015. (Call no. RSEA 959.862 COT)</p>
+<p>Covarrubias, Miguel. <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=4321044" rel="noopener noreferrer nofollow" target="_blank">Island of Bali</a></em>.
+London: Cassell, 1937. (Call no. RCLOS 959.864 GOV-[LK])</p>
+<p>De Zoete, Beryl, and Walter Spies. <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=4154148" rel="noopener noreferrer nofollow" target="_blank">Dance and Drama in Bali</a></em>.
+London: Faber &amp; Faber, 1938. (Call no. RCLOS 793.3195986 DEZ-[LK])</p>
+<p>Goris, Roelof. <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=13048343" rel="noopener noreferrer nofollow" target="_blank">Bali: Atlas Kebudajaan / Bali: Cults and Customs / Bali: Cultuurgeschiedenis in Beeld</a></em>.
+Djakarta: The Government of the Republic of Indonesia, [195-]. (Call no.
+RU 959.86 GOR)</p>
+<p>Hanna, Willard A. <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=12409141" rel="noopener noreferrer nofollow" target="_blank">Bali Chronicles: A Lively Account of the Island’s History from Early Times to the 1970s</a></em>.
+Singapore: Periplus, 2004. (Call no. RSEA 959.86 HAN)</p>
+<p>Hitchcock, Michael. <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=7591335" rel="noopener noreferrer nofollow" target="_blank">Bali, the Imaginary Museum: The Photographs of Walter Spies and Beryl de Zoete</a></em>.
+Kuala Lumpur; New York: Oxford University Press, 1995. (Call no. RSEA 959.86
+HIT)</p>
+<p>Krause, Gregor. <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=4194249" rel="noopener noreferrer nofollow" target="_blank">Bali</a></em>.
+Hagen: Folkwang, 1922. (Call no. RU 959.86 KRA)</p>
+<p>Krause, Gregor. <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=4194083" rel="noopener noreferrer nofollow" target="_blank">Bali: Volk, Land, Tänze, Feste, Tempel</a></em> [Bali:
+People, Country, Dances, Festivals, Temples]. München: Georg Müller, 1926.
+(Call no. RU RSEA 959.86 KRA)</p>
+<p>Krause, Gregor. <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=4194085" rel="noopener noreferrer nofollow" target="_blank">Bali: A Population, le Pays, les Danses, les Fêtes, les Temples, l’Art</a></em> [Bali:
+A Population, the Country, the Dances, the Festivals, the Temples, the
+Art]. Paris: Editions Dunchartre et Van Buggenhoudt, 1930. (Call no. RU
+RSEA 992.3 KRA)</p>
+<p>Krause, Gregor and With, Karl. <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=10332145" rel="noopener noreferrer nofollow" target="_blank">Bali: People and Art</a></em>.
+Translated by Karl With. Bangkok: White Lotus Press, 2000. (Call no. RU
+q306.095986 KRA)</p>
+<p>Merrillees, Scott. <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=14676783" rel="noopener noreferrer nofollow" target="_blank">Greetings from Jakarta: Postcards of a Capital, 1900–1950</a></em>.
+Jakarta: Equinox Pub, 2012. (Call no. RSEA 959.802 MER)</p>
+<p>Orient Touring Company. <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=11941657" rel="noopener noreferrer nofollow" target="_blank">Travel through the Mystic Isles of Java, Sumatra and Bali</a></em>.
+[Place of publication unknown]: Orient Touring Company, [1926]. (Call no.
+RCLOS 915.980422 ORI-[SEA])</p>
+<p>Picard, Michel. <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=8133552" rel="noopener noreferrer nofollow" target="_blank">Bali: Cultural Tourism and Touristic Culture</a></em>.
+Singapore: Archipelago Press, 1996. (Call no. RSING 959.86 PIC)</p>
+<p>Powell, Harry. <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=200162128" rel="noopener noreferrer nofollow" target="_blank">The Last Paradise</a></em>.
+New York: Cape and Smith, 1930. (Call no. RCLOS 959.86 POW-[RFL])</p>
+<p>Rama Rau, Santha. <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=205993983" rel="noopener noreferrer nofollow" target="_blank">East of Home</a></em>.
+London: Victor Gollancz Ltd., 1951. (Call no. RCLOS 950 RAM-[LK])</p>
+<p>Robinson, Geoffrey. <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=7538883" rel="noopener noreferrer nofollow" target="_blank">The Dark Side of Paradise: Political Violence in Bali</a></em>.
+Ithaca, NY: Cornell University Press, 1995. (Call no. RSEA 959.86 ROB)</p>
+<p>Shavit, David. <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=12331418" rel="noopener noreferrer nofollow" target="_blank">Bali and the Tourist Industry: A History, 1906–1942</a></em>.
+Jefferson, NC: McFarland &amp; Co., 2003. (Call no. RSEA 338.47915986 SHA)</p>
+<p><em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=4754554" rel="noopener noreferrer nofollow" target="_blank">Tours, Walks and Sights of Bali: Practical Glimpses of Bali for the Tourist</a></em>.
+Denpasar: Bali Drukkerij, [194-]. (Call no. RCLOS 915.986 TOU-[LK])</p>
+<p>Vickers, Adrian. <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=14318701" rel="noopener noreferrer nofollow" target="_blank">Bali: A Paradise Created</a></em>.
+2nd ed. Tokyo: Tuttle Publishing, 2012. (Call no. RSEA 959.862 VIC)</p>
+<p>Vickers, Adrian, ed. <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=7065681" rel="noopener noreferrer nofollow" target="_blank">Travelling to Bali: Four Hundred Years of Journeys</a></em>.Kuala
+Lumpur; New York: Oxford University Press, 1994. (Call no. RSEA 959.86
+TRA)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wadia, A. S. N. <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=5024023" rel="noopener noreferrer nofollow" target="_blank">The Belle of Bali: Being Impressions of a Pleasure Cruise to the Dutch East Indies via Cochin, Colombo, Penang, and Singapore</a></em>.
+London: J. M. Dent and Sons Ltd., 1936. (Call no. RCLOS 992.3 WAD-[LK])</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Williams, Adrian. <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=12615665" rel="noopener noreferrer nofollow" target="_blank">Covarrubias in Bali</a></em>
+<a href="https://catalogue.nlb.gov.sg/search/card?recordId=12615665" rel="noopener noreferrer nofollow" target="_blank">.</a>Singapore: Editions Didier Millet, 2005. (Call no. RART q709.59860904
+WIL)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Williams, Adrian. <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=202737360" rel="noopener noreferrer nofollow" target="_blank">Miguel Covarrubias: Sketches: Bali–Shanghai</a></em>.
+Indonesia: Red &amp; White Publishing with Island Arts, 2012. (Call no.
+RSEA 741.97253 WIL)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yates, Helen Eya. <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=202999999" rel="noopener noreferrer nofollow" target="_blank">Bali: Enchanted Isle. A Travel Book</a></em>.
+London: G. Allen &amp; Unwin, 1933. (Call no. RCLOS 992.3 YAT-[LK])</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Liu Huanran 刘焕然. <em>Heshu dongyindu gailan</em> 
+<a href="https://catalogue.nlb.gov.sg/search/card?recordId=84564832" rel="noopener noreferrer nofollow" target="_blank">荷属东印度概览</a>[Netherlands East Indian Sketch]. Singapore 新加坡: Nanyang Baoshe
+南洋报社, 1939. (Call no. RDTYS 959.8 LHJ)</p>
 <p></p>
