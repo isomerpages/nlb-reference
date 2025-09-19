@@ -402,8 +402,131 @@ London: G. Allen &amp; Unwin, 1933. (Call no. RCLOS 992.3 YAT-[LK])</p>
 </ul>
 <p><strong>Newspaper Articles and Magazines</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Foran, W. R. “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19250320-1.2.40.2" rel="noopener noreferrer nofollow" target="_blank">Through the Dutch East Indies</a>.” <em>Straits Budget</em>,
+20 March 1925, 12. (From NewspaperSG)</p>
+</li>
+<li>
+<p><em>Singapore Free Press and Mercantile Advertiser</em>. “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19370226-1.2.43" rel="noopener noreferrer nofollow" target="_blank">Bali Will Never Be ‘Spoiled’</a>.”
+26 February 1937, 6. (From NewspaperSG)</p>
+</li>
+<li>
+<p><em>Morning Tribune</em>. “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19410521-1.2.28" rel="noopener noreferrer nofollow" target="_blank">Lady Thomas Opens Le Mayeur’s Exhibition at the YWCA</a>.”
+21 May 1941, 4. (From NewspaperSG)</p>
+</li>
+<li>
+<p><em>Singapore Free Press and Mercantile Advertiser</em>. “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19410521-1.2.41" rel="noopener noreferrer nofollow" target="_blank">Le Mayeur’s Exhibition: Polok amid Paintings of Her Native Bali</a>.”
+21 May 1941, 5. (From NewspaperSG)</p>
+</li>
+<li>
+<p><em>Straits Times</em>. “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/page/straitstimes19470705-1.1.9" rel="noopener noreferrer nofollow" target="_blank">Hands Tell Story in Bali Dances</a>.”
+5 July 1947, 9. (From NewspaperSG)</p>
+</li>
+<li>
+<p><em>Straits Times</em>. “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19471018-1.2.63" rel="noopener noreferrer nofollow" target="_blank">A Russian Artist Dreams of Bali</a>.”
+18 October 1947, 9. (From NewspaperSG)</p>
+</li>
+<li>
+<p><em>Straits Times</em>. “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19490224-1.2.101.1" rel="noopener noreferrer nofollow" target="_blank">A Timeless Existence in New Bali</a>.”
+24 February 1949, 8. (From NewspaperSG)</p>
+</li>
+<li>
+<p>Halpern, F. H. “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19491118-1.2.66" rel="noopener noreferrer nofollow" target="_blank">The Dance Goes On in Bali</a>.” <em>Malaya Tribune</em>,
+18 November 1949, 5. (From NewspaperSG)</p>
+</li>
+<li>
+<p>Marcos, E. E. “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19500223-1.2.135" rel="noopener noreferrer nofollow" target="_blank">This Is Bali</a>.” <em>Straits Times</em>,
+23 February 1950, 11. (From NewspaperSG)</p>
+</li>
+<li>
+<p>Schimanov, A. “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaytribune19500910-1.2.44" rel="noopener noreferrer nofollow" target="_blank">Bali—Isle of Half-Nude Beauties Draws Tourists</a>.” <em>Sunday Tribune</em>,
+10 September 1950, 4. (From NewspaperSG)</p>
+</li>
+<li>
+<p><em>Straits Times Annual</em>. “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/page/stannual19510101-1.1.64" rel="noopener noreferrer nofollow" target="_blank">Modern Dance in Old Bali Scene</a>.”
+January 1951, 112–13. Singapore: <em>Straits Times</em>, 1951. (From NewspaperSG)</p>
+</li>
+<li>
+<p><em>Singapore Standard</em>. “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19520324-1.2.77.1" rel="noopener noreferrer nofollow" target="_blank">Advertisement of the Indonesian Fine Art Movement Troupe Performing in Singapore</a>.”
+24 March 1952, 5. (From NewspaperSG)</p>
+</li>
+<li>
+<p><em>Singapore Standard</em>. “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19520327-1.2.159" rel="noopener noreferrer nofollow" target="_blank">Bali—In Song and Dance</a>.”
+27 March 1952, 10. (From NewspaperSG)</p>
+</li>
+<li>
+<p>Travellers Official Information Bureau of Netherland Indies. <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=203890506" rel="noopener noreferrer nofollow" target="_blank">Tourism in the Netherlands East India.</a></em> Java:
+Travellers Official Information Bureau of Netherland India, [193-?–194-?].
+(Call no. RCLOS 915.98 TINI-[LK])</p>
+</li>
+<li>
+<p>"Pengdao zhenmianmu: baili shaonü jinshe zhi ying 蓬岛真面目：百丽少女近摄之影 [The
+Island Bali and Balinese]." Originally published in <em>Liang You</em> 良友
+[The Young Companion], issue 105 (May 1935), 40 – 41. In <em>Liang You</em> 
+<a href="https://catalogue.nlb.gov.sg/search/card?recordId=14315957" rel="noopener noreferrer nofollow" target="_blank">良友</a>[The Young Companion], <em>Fuke hedingban di 14 ce</em> 复刻合订版第14册
+[Reprinted Bound Volume 14]. Hong Kong 香港: Liangyou Huabao Gongsi 良友画报公司,
+1980s. (Call no. RSING 059.951 YC)</p>
+</li>
+<li>
+<p>“Pengdao liying 蓬岛丽影 [Bali Beauty].” Originally published in <em>Liang You </em>良友
+[The Young Companion], issue 149 (December 1939), 36 – 37. In <em>Liang You</em> 
+<a href="https://catalogue.nlb.gov.sg/search/card?recordId=14315957" rel="noopener noreferrer nofollow" target="_blank">良友</a>[The Young Companion], <em>Fuke hedingban di 22 ce</em> 复刻合订版第22册
+[Reprinted Bound Volume 22]. Hong Kong 香港: Liangyou Huabao Gongsi 良友画报公司,
+1980s. (Call no. RSING 059.951 YC)</p>
+</li>
+<li>
+<p>"Dadongya gongrongquan zhi bali qi wudao geju ji qita 大东亚共荣圈之峇里 其舞蹈歌剧及其他
+[Bali of Greater East Asia Prosperity Sphere: Its Dance, Opera and Others]." <em><a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=3c526a83-03fc-45b7-93f2-9bd4e0adaf92" rel="noopener noreferrer nofollow" target="_blank">Zhaonan Huabao </a></em>
+<a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=3c526a83-03fc-45b7-93f2-9bd4e0adaf92" rel="noopener noreferrer nofollow" target="_blank">昭南画报 [Syonan Gaho]</a><em><a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=3c526a83-03fc-45b7-93f2-9bd4e0adaf92" rel="noopener noreferrer nofollow" target="_blank">,</a></em>
+<a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=3c526a83-03fc-45b7-93f2-9bd4e0adaf92" rel="noopener noreferrer nofollow" target="_blank">vol. 1, no. 2 (July 1942)</a>, not paginated. (Call no. RRARE 940.54259
+SG)</p>
+</li>
+<li>
+<p><em>“</em>Huozang 火葬 [Cremation] / Pembakaran Majit di Bali [Cremation
+in Bali]<em>.”</em>  <em>Nanyang </em>南洋 [Nanyang Post], Issue 47 (1949),
+not paginated. Retrieved from <a href="https://eresources.nlb.gov.sg/main/Browse?startsWith=others" rel="noopener noreferrer nofollow" target="_blank">Chinese Periodical Full-Text Database (1911–1949), Shanghai Library</a>.</p>
+</li>
+<li>
+<p>“Houwu 猴舞 [Monkey Dance] / Tari Monjet [Monkey Dance]<em>.” Nanyang</em> 南洋
+[Nanyang Post], Issue 47 (1949), not paginated. Retrieved from <a href="https://eresources.nlb.gov.sg/main/Browse?startsWith=others" rel="noopener noreferrer nofollow" target="_blank">Chinese Periodical Full-Text Database (1911–1949), Shanghai Library</a>.</p>
+</li>
+<li>
+<p>“Malaiya de jige jingtou—huang jiefu xiansheng jizi xingzhou 马来亚的几个镜头——黄杰夫先生寄自星洲<em> </em>[Focus
+on Malaya—Sent from Singapore by Mr Wong Ken Foo (K. F. Wong).] <em>Zhongguo yingyi</em> 中国影艺
+[Chinese Photography], Vol. 1, No. 9 (c. 1950), 26. Retrieved from <a href="https://eresources.nlb.gov.sg/main/Browse?startsWith=others" rel="noopener noreferrer nofollow" target="_blank">Chinese Periodical Full-Text Database (1911–1949), Shanghai Library</a>.</p>
+</li>
+<li>
+<p>“Bali fengqing 峇厘风情 [Balinese Culture].” <em>Xingzhou zhoukan </em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=84512999" rel="noopener noreferrer nofollow" target="_blank">星洲周刊</a> [Sin
+Chew Weekly], Issue 1 (19 April 1951), not paginated. (Call no. RCLOS 059.951
+SCW -[HYT])</p>
+</li>
+</ul>
+<p><strong>Ephemeral Materials</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>[John Koh collection]. <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=203100278" rel="noopener noreferrer nofollow" target="_blank">Indonesia Travel Ephemera</a></em>
+<a href="https://catalogue.nlb.gov.sg/search/card?recordId=203100278" rel="noopener noreferrer nofollow" target="_blank">,</a>1930–1941. (Call no. RCLOS 915.9804 JOH-[JK])</p>
+</li>
+</ul>
+<p><strong>Journal and Periodical Articles</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Anak Agung Ayu Wulandari, “The Role of Pitamaha in Balinese Artistic Transformation:
+A Comparison Between Kamasan and Gusti Nyoman Lempad Artistic Style,” Humaniora
+7, no. 4 (October 2016): 463-72 <a rel="noopener noreferrer nofollow" target="_blank">https://journal.binus.ac.id/index.php/Humaniora/article/download/3599/2979/0</a>
+</p>
+</li>
+<li>
+<p>Jojor Ria Sitompul, “Visual and Textual Images of Women: 1930s Representation
+of Colonial Bali as Produced by Men and Women Travellers” (PhD diss., University
+of Warwick, 2008), 116, <a rel="noopener noreferrer nofollow" target="_blank">http://go.warwick.ac.uk/wrap/4107</a>
+</p>
+</li>
+</ul>
+<p><strong>Websites</strong>
+</p>
 <p></p>
-<p>Ephemeral Materials</p>
-<p>Journal and Periodical Articles</p>
-<p>Websites</p>
 <p>Audio-visual Materials</p>
