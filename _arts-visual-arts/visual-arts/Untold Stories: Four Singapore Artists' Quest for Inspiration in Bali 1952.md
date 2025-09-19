@@ -19,8 +19,7 @@ historical context surrounding it. In conjunction with the exhibition,
 NLB and World Scientific have published the book <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=300094843" rel="noopener nofollow" target="_blank">Bali 1952: Through the Lens of Liu Kang</a></em> by
 Gretchen Liu, one of the curators of this exhibition.</p>
 <h4>Guide Index</h4>
-<p><strong>&lt;a href="#Prologue"&gt; Prologue &lt;/a&gt;</strong>
-</p>
+<p>&lt;a href="#Prologue"&gt;<strong> Prologue </strong>&lt;/a&gt;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Books</p>
