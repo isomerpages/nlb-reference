@@ -19,7 +19,7 @@ historical context surrounding it. In conjunction with the exhibition,
 NLB and World Scientific have published the book <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=300094843" rel="noopener nofollow" target="_blank">Bali 1952: Through the Lens of Liu Kang</a></em> by
 Gretchen Liu, one of the curators of this exhibition.</p>
 <h4>Guide Index</h4>
-<p><strong><a href="#Prologue" rel="noopener noreferrer nofollow" target="_blank">Prologue</a></strong>
+<p><strong>Prologue</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -180,43 +180,88 @@ Singapore Artists Joint Exhibition Organised by Singapore Art Society].”
 </li>
 <li>
 <p><em>Nanyang Siang Pau</em> 南洋商报. “Yingguo wenhua xiehui yu zhongguo yishu
-英国文化协会与中国艺术 [The British Council and Chinese Art]." 27 November 1951, 1.
-(From NewspaperSG)</p>
+<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19511127-1.2.9.1" rel="noopener nofollow" target="_blank">英国文化协会与中国艺术</a>[The British Council and Chinese Art]." 27 November 1951,
+1. (From NewspaperSG)</p>
 </li>
 <li>
-<p>Nanyang Siang Pau 南洋商报. “Liu kang deng sihuajia meizhan zhongwairenshi
-canguanzhe yongyue chen zhichu li guangqian deng gouyou duofu刘抗等四画家美展 中外人士参观者踊跃
-陈之初李光前等购有多幅 [Both Chinese and Non-Chinese Visitors Responded Enthusiastically
-to the Four Men Art Exhibition by Liu Kang et. al. Tan Tsze Chor, Lee Kong
-Chian and others Purchased Many Works]” 29 November 1951, 6. (From NewspaperSG)</p>
+<p><em>Nanyang Siang Pau</em> 南洋商报. “Liu kang deng sihuajia meizhan zhongwairenshi
+canguanzhe yongyue chen zhichu li guangqian deng gouyou duofu <a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19511129-1.2.32.7" rel="noopener nofollow" target="_blank">刘抗等四画家美展 中外人士参观者踊跃 陈之初李光前等购有多幅</a> [Both
+Chinese and Non-Chinese Visitors Responded Enthusiastically to the Four
+Men Art Exhibition by Liu Kang et. al. Tan Tsze Chor, Lee Kong Chian and
+others Purchased Many Works].” 29 November 1951, 6. (From NewspaperSG)</p>
 </li>
 <li>
-<p>Straits Times. “Art Show Sales a Record.” 29 November 1951, 8. (From NewspaperSG)</p>
+<p><em>Straits Times</em>. “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19511129-1.2.123" rel="noopener nofollow" target="_blank">Art Show Sales a Record</a>.”
+29 November 1951, 8. (From NewspaperSG)</p>
 </li>
 <li>
-<p>Singapore Free Press. “One Man Show by Indian Painter.” 9 February 1952,
-3. (From NewspaperSG)</p>
+<p><em>Singapore Free Press</em>. “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19520209-1.2.94.14" rel="noopener nofollow" target="_blank">One Man Show by Indian Painter</a>.”
+9 February 1952, 3. (From NewspaperSG)</p>
 </li>
 <li>
-<p>Straits Times. “Singapore Art Society Show.” 11 February 1952, 9. (From
-NewspaperSG)</p>
+<p><em>Straits Times</em>. “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19520211-1.2.136" rel="noopener nofollow" target="_blank">Singapore Art Society Show</a>.”
+11 February 1952, 9. (From NewspaperSG)</p>
 </li>
 <li>
-<p>Singapore Standard. “Indian Artist Opens One-Man Show in S’pore.” 12 February
-1952, 2. (From NewspaperSG)</p>
+<p><em>Singapore Standard</em>. “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19520212-1.2.26" rel="noopener nofollow" target="_blank">Indian Artist Opens One-Man Show in S’pore</a>.”
+12 February 1952, 2. (From NewspaperSG)</p>
 </li>
 <li>
 <p>Toh, Lam Huat 杜南发. ”Tazhe nanfang de wubu woguo sidaxianquhuajia 52nian
-bali lishi zhi lü 踏着南方的舞步 我国四大先驱画家 52年峇厘历史之旅 [Tracing the Dance Steps of
-the South: The Historic Trip to Bali in 1952 Embarked by Four Singapore
-Pioneering Artists].” Shin Min Daily News 新明日报, 4 June 1994, 12. (From
-NewspaperSG)</p>
+bali lishi zhi lü <a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/shinmin19940604-1.2.23.1" rel="noopener nofollow" target="_blank">踏着南方的舞步 我国四大先驱画家 52年峇厘历史之旅</a> [Tracing
+the Dance Steps of the South: The Historic Trip to Bali in 1952 Embarked
+by Four Singapore Pioneering Artists].” S<em>hin Min Daily News</em> 新明日报,
+4 June 1994, 12. (From NewspaperSG)</p>
 </li>
 </ul>
-<p>Ephemeral Materials</p>
+<p><strong>Ephemeral Materials</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singapore Art Society. <a href="https://catalogue.nlb.gov.sg/search/card?recordId=204061684" rel="noopener nofollow" target="_blank">Paintings by Liu Kang, Chen Chong Swee, Chen Wen Hsi, Cheong Soo Pieng [Exhibition poster]</a>.
+Singapore: Singapore Art Society, 1951. (Call no. RCLOS 759.95957 PAI-[LK])</p>
+</li>
+<li>
+<p>Singapore Art Society. <a href="https://catalogue.nlb.gov.sg/search/card?recordId=204390162" rel="noopener nofollow" target="_blank">Catalogue of Singapore Art Society Exhibition of Works by Liu Kang, Chen Chong Swee, Chen Wen Hsi &amp; Cheong Soo Pieng</a>.
+Singapore: Singapore Art Society, 1951. (From PublicationSG)</p>
+</li>
+</ul>
+<p><strong>Journal and Periodical Articles</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Low, Yoke Wah. “Becoming Professional Artists in Postwar Singapore and
+Malaya: Developments in Art during a Time of Political Transition.” <em>Journal of Southeast Asian Studies</em> 46,
+no. 3 (2015): 463–84. <a rel="noopener noreferrer nofollow" target="_blank">http://www.jstor.org/stable/43863203</a>.</p>
+</li>
+<li>
+<p>Wang, Rui. “The Quest for a Regional Culture: The Artistic Adventure of
+Two Bali Trips, 1952 and 2001.” <em>Yishu: Journal of Contemporary Chinese Art</em> 12,
+no. 5 (2013): 77–87. <a rel="noopener noreferrer nofollow" target="_blank">http://yishu-online.com/wp-content/uploads/mm-products/uploads/2013_v12_05_wang_r_p077.pdf</a>
+</p>
+</li>
+</ul>
+<p><strong>Websites</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Kwok, Kian Chow. “The Bali Field Trip, Liu Kang, Chen Chong Swee, Chen
+Wen Hsi and Cheong Soo Pieng.” <em>Postcolonial Web</em>. Accessed 8 August
+2025. <a rel="noopener noreferrer nofollow" target="_blank">https://www.postcolonialweb.org/singapore/arts/painters/channel/12.html</a>.</p>
+</li>
+</ul>
 <p></p>
-<p>Journal and Periodical Articles</p>
-<p></p>
-<p>Websites</p>
+<h4>Chapter 1</h4>
+<p>Bali’s image as a paradise was shaped by colonial narratives, tourism
+promotion, and the Western gaze. In the early 20th century, new travel
+technologies made Bali more accessible, prompting the Dutch to invest in
+infrastructure and market the island as exotic and unspoiled. Artists,
+writers, and filmmakers in the 1930s further romanticised Bali through
+idealised portrayals. In Singapore, European artworks featuring Balinese
+scenes drew public acclaim. After Indonesia’s independence in 1949, tourism
+efforts continued, highlighting Bali’s Hindu identity within a Muslim-majority
+nation. These layered portrayals—exotic, spiritual, and picturesque—fascinated
+artists in Singapore, who were drawn to Bali’s cultural richness and visual
+beauty, adding to its allure as an artistic destination.</p>
 <p></p>
 <p></p>
