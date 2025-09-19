@@ -128,28 +128,31 @@ Vols. 1–2. Singapore: Singapore Art Museum, 2006. (Call no. RSING 759.95957
 CHE [v.1]; RSING 759.95957 CHE [v.2])</p>
 </li>
 <li>
-<p>Chia, Wai Hon. Liu Kang at 87. Singapore: National Arts Council and National
-Heritage Board, 1997. (Call no. RSING 759.95957 LIU)</p>
+<p>Chia, Wai Hon. <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=8726393" rel="noopener nofollow" target="_blank">Liu Kang at 87</a></em>.
+Singapore: National Arts Council and National Heritage Board, 1997. (Call
+no. RSING 759.95957 LIU)</p>
 </li>
 <li>
-<p>Liu, Kang. Journeys: Liu Kang and His Art. Singapore: National Arts Council
-and Singapore Art Museum, 2000. (Call no. RSING 759.95957 LIU)</p>
+<p>Liu, Kang. <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=10354330" rel="noopener nofollow" target="_blank">Journeys: Liu Kang and His Art</a></em>.
+Singapore: National Arts Council and Singapore Art Museum, 2000. (Call
+no. RSING 759.95957 LIU)</p>
 </li>
 <li>
-<p>Low, Zheng Wei, ed. Strokes of Life: The Art of Chen Chong Swee. Singapore:
-National Gallery Singapore, 2017. (Call no. RSING 759.95957 CHE)</p>
+<p>Low, Zheng Wei, ed. <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=202740734" rel="noopener nofollow" target="_blank">Strokes of Life: The Art of Chen Chong Swee</a></em>.
+Singapore: National Gallery Singapore, 2017. (Call no. RSING 759.95957
+CHE)</p>
 </li>
 <li>
-<p>Yeo, Wei Wei, ed. Liu Kang: Colourful Modernist. Singapore: National Art
-Gallery, 2011. (Call no. RSING 759.95957 LIU)</p>
+<p>Yeo, Wei Wei, ed. <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=13919955" rel="noopener nofollow" target="_blank">Liu Kang: Colourful Modernist</a></em>.
+Singapore: National Art Gallery, 2011. (Call no. RSING 759.95957 LIU)</p>
 </li>
 <li>
-<p>Yeo, Wei Wei, ed. Cheong Soo Pieng: Visions of Southeast Asia. Singapore:
-National Art Gallery, 2010. (Call no. RSING 759.95957 SOO)</p>
+<p>Yeo, Wei Wei, ed. <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=13677635" rel="noopener nofollow" target="_blank">Cheong Soo Pieng: Visions of Southeast Asia</a></em>.
+Singapore: National Art Gallery, 2010. (Call no. RSING 759.95957 SOO)</p>
 </li>
 </ul>
-<p></p>
-<p>Newspaper Articles</p>
+<p><strong>Newspaper Articles</strong>
+</p>
 <p></p>
 <p>Ephemeral Materials</p>
 <p></p>
