@@ -19,7 +19,7 @@ historical context surrounding it. In conjunction with the exhibition,
 NLB and World Scientific have published the book <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=300094843" rel="noopener nofollow" target="_blank">Bali 1952: Through the Lens of Liu Kang</a></em> by
 Gretchen Liu, one of the curators of this exhibition.</p>
 <h4>Guide Index</h4>
-<p>&lt;a href="#Prologue"&gt;<strong> Prologue </strong>&lt;/a&gt;</p>
+<p><a href="#Prologue"><strong> Prologue </strong></a></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Books</p>
@@ -99,6 +99,7 @@ in 1952</p>
 </li>
 </ul>
 <p></p>
+<a name="Prologue"></a>
 <h4>Prologue</h4>
 <p>Many recognise Liu Kang’s <em><a href="https://www.roots.gov.sg/Collection-Landing/listing/1032028" rel="noopener nofollow" target="_blank">Artist and Model</a></em> (1954)
 as depicting a Balinese scene from the 1952 artists’ trip to Bali, Indonesia.
