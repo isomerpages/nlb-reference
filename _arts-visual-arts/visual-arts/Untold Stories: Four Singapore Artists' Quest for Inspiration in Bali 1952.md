@@ -267,8 +267,9 @@ beauty, adding to its allure as an artistic destination.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Adnyana, Wayan Kun. <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=204079885" rel="noopener noreferrer nofollow" target="_blank">Pita Maha: Gerakan Sosial Seni Lukis Bali 1930-an</a></em>.
-Jakarta: Kepustakaan Populer Gramedia, 2018. (Call no. RSEA 759.95986 ADN)</p>
+<p>Adnyana, Wayan Kun. <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=204079885" rel="noopener noreferrer nofollow" target="_blank">Pita Maha: Gerakan Sosial Seni Lukis Bali 1930-an</a></em> [Pita
+Maha: A Social Movement of Balinese Paintings in the 1930s]. Jakarta: Kepustakaan
+Populer Gramedia, 2018. (Call no. RSEA 759.95986 ADN)</p>
 </li>
 <li>
 <p>Baum, Vicki. <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=13007674" rel="noopener noreferrer nofollow" target="_blank">Tale of Bali</a></em>.
@@ -336,7 +337,7 @@ Translated by Karl With. Bangkok: White Lotus Press, 2000. (Call no. RU
 q306.095986 KRA)</p>
 </li>
 <li>
-<p>Liu Huanran 刘焕然. <em>Heshu dongyindu gailan</em>  <a href="https://catalogue.nlb.gov.sg/search/card?recordId=84564832" rel="noopener noreferrer nofollow" target="_blank">荷属东印度概览</a>[Netherlands
+<p>Liu Huanran 刘焕然. <em>Heshu dongyindu gailan</em>  <a href="https://catalogue.nlb.gov.sg/search/card?recordId=84564832" rel="noopener noreferrer nofollow" target="_blank">荷属东印度概览</a> [Netherlands
 East Indian Sketch]. Singapore 新加坡: Nanyang Baoshe 南洋报社, 1939. (Call no.
 RDTYS 959.8 LHJ)</p>
 </li>
@@ -378,8 +379,8 @@ Denpasar: Bali Drukkerij, [194-]. (Call no. RCLOS 915.986 TOU-[LK])</p>
 2nd ed. Tokyo: Tuttle Publishing, 2012. (Call no. RSEA 959.862 VIC)</p>
 </li>
 <li>
-<p>Vickers, Adrian, ed. <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=7065681" rel="noopener noreferrer nofollow" target="_blank">Travelling to Bali: Four Hundred Years of Journeys</a></em>.Kuala
-Lumpur; New York: Oxford University Press, 1994. (Call no. RSEA 959.86
+<p>Vickers, Adrian, ed. <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=7065681" rel="noopener noreferrer nofollow" target="_blank">Travelling to Bali: Four Hundred Years of Journeys</a></em>.
+Kuala Lumpur; New York: Oxford University Press, 1994. (Call no. RSEA 959.86
 TRA)</p>
 </li>
 <li>
