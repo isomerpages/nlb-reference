@@ -10,3 +10,4 @@ description: "This resource guide brings together the references, research
   context surrounding it."
 third_nav_title: Visual Arts
 ---
+<p></p>
