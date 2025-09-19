@@ -98,7 +98,7 @@ Gretchen Liu, one of the curators of this exhibition.</p>
 in 1952</p>
 </li>
 </ul>
-<p>&lt;a name="Prologue"&gt;&lt;/a&gt;</p>
+<p></p>
 <h4>Prologue</h4>
 <p>Many recognise Liu Kang’s <em><a href="https://www.roots.gov.sg/Collection-Landing/listing/1032028" rel="noopener nofollow" target="_blank">Artist and Model</a></em> (1954)
 as depicting a Balinese scene from the 1952 artists’ trip to Bali, Indonesia.
