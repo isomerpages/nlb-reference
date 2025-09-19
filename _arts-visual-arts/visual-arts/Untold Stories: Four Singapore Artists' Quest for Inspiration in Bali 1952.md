@@ -109,7 +109,7 @@ undertaken by four pioneering artists <a href="https://www.nlb.gov.sg/main/artic
 and <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=7fdd5af9-2143-4874-84d4-70b2c55c0f3c" rel="noopener nofollow" target="_blank">Cheong Soo Pieng</a>,
 spanned Jakarta to Bali and culminated in a landmark 1953 exhibition in
 Singapore. Despite the trip’s significance in Singapore’s art history,
-few details were known about it —until Liu Kang’s family uncovered over
+few details were known about it—until Liu Kang’s family uncovered over
 1,000 photographs from the trip.</p>
 <p>Though differing in temperament and artistic style, the artists shared
 a formative education at Shanghai’s Xinhua Art Academy. Their bond deepened
