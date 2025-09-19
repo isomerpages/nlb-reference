@@ -19,7 +19,8 @@ historical context surrounding it. In conjunction with the exhibition,
 NLB and World Scientific have published the book <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=300094843" rel="noopener nofollow" target="_blank">Bali 1952: Through the Lens of Liu Kang</a></em> by
 Gretchen Liu, one of the curators of this exhibition.</p>
 <h3>Guide Index</h3>
-<p>Prologue</p>
+<p><strong>Prologue</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Books</p>
@@ -37,7 +38,8 @@ Gretchen Liu, one of the curators of this exhibition.</p>
 <p>Websites</p>
 </li>
 </ul>
-<p>Chapter 1</p>
+<p><strong>Chapter 1</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Books</p>
@@ -58,7 +60,8 @@ Gretchen Liu, one of the curators of this exhibition.</p>
 <p>Audio-visual Materials</p>
 </li>
 </ul>
-<p>Chapter 2</p>
+<p><strong>Chapter 2</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Books</p>
@@ -76,7 +79,8 @@ Gretchen Liu, one of the curators of this exhibition.</p>
 <p>Audio-visual Materials</p>
 </li>
 </ul>
-<p>Chapter 3</p>
+<p><strong>Chapter 3</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Books</p>
@@ -115,5 +119,42 @@ local art scene. Their first joint exhibition drew strong public interest
 and record sales. Hailed as a milestone for Singapore art, it showcased
 Chinese artists' high standards and their role in shaping a distinct Malayan
 art through bold experimentation and new stylistic approaches.</p>
+<p><strong>Books</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chen, Wen Hsi. <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=12829865" rel="noopener nofollow" target="_blank">Convergences: Chen Wen Hsi Centennial Exhibition</a></em>.
+Vols. 1–2. Singapore: Singapore Art Museum, 2006. (Call no. RSING 759.95957
+CHE [v.1]; RSING 759.95957 CHE [v.2])</p>
+</li>
+<li>
+<p>Chia, Wai Hon. Liu Kang at 87. Singapore: National Arts Council and National
+Heritage Board, 1997. (Call no. RSING 759.95957 LIU)</p>
+</li>
+<li>
+<p>Liu, Kang. Journeys: Liu Kang and His Art. Singapore: National Arts Council
+and Singapore Art Museum, 2000. (Call no. RSING 759.95957 LIU)</p>
+</li>
+<li>
+<p>Low, Zheng Wei, ed. Strokes of Life: The Art of Chen Chong Swee. Singapore:
+National Gallery Singapore, 2017. (Call no. RSING 759.95957 CHE)</p>
+</li>
+<li>
+<p>Yeo, Wei Wei, ed. Liu Kang: Colourful Modernist. Singapore: National Art
+Gallery, 2011. (Call no. RSING 759.95957 LIU)</p>
+</li>
+<li>
+<p>Yeo, Wei Wei, ed. Cheong Soo Pieng: Visions of Southeast Asia. Singapore:
+National Art Gallery, 2010. (Call no. RSING 759.95957 SOO)</p>
+</li>
+</ul>
+<p></p>
+<p>Newspaper Articles</p>
+<p></p>
+<p>Ephemeral Materials</p>
+<p></p>
+<p>Journal and Periodical Articles</p>
+<p></p>
+<p>Websites</p>
 <p></p>
 <p></p>
