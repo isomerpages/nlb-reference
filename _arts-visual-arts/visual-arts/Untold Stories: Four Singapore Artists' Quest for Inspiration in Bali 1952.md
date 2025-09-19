@@ -736,8 +736,8 @@ Men Art Exhibition]. Singapore: Ten Men Art Group, 1962. (Call no. RCLOS
 <li>
 <p><em>Nanyang Siang Pau </em>南洋商报. “Yishu xiehui zhuban sihuajia bali huazhan
 ding liuri xiawu zai yingwenxie kaimu <a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19531103-1.2.21.5" rel="noopener noreferrer nofollow" target="_blank">艺术协会主办四画家峇厘画展订六日下午在英文协开幕</a> [Organised
-by Singapore Art Society, The <em>Bali</em> Exhibition by Four Artists will
-be Launched in the Afternoon on the Sixth at the British Council]. 3 November
+by Singapore Art Society, The <em>Bali</em> Exhibition by Four Artists Will
+be Launched in the Afternoon on the Sixth at the British Council]." 3 November
 1953, 5. (From NewspaperSG)</p>
 </li>
 <li>
@@ -745,28 +745,28 @@ be Launched in the Afternoon on the Sixth at the British Council]. 3 November
 zhong sibin bali huazhan zuori kaimu youcai, labi, fenhua, maobi gong yibaiyuzhen
 <a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19531107-1.2.28.1" rel="noopener noreferrer nofollow" target="_blank">刘抗、陈文希、陈宗瑞、锺泗滨 峇厘画展昨日开幕 油彩、蜡笔、粉画、毛笔画 共一百余帧</a>[<em>Bali</em> Exhibition
 by Liu Kang, Chen Wen Hsi, Chen Chong Swee, and Cheong Soo Pieng Opened
-Yesterday. More than 100 works in Oil, Conte Crayon, Pastel, and Ink]”.
+Yesterday. More than 100 works in Oil, Conte Crayon, Pastel, and Ink].”
 7 November 1953, 6. (From NewspaperSG)</p>
 </li>
 <li>
 <p><em>Sin Chew Jit Poh </em>星洲日报. “Liu kang chen zongrui chen wenxi zhong
 sibin bali huazhan kaimu <a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19531107-1.2.30" rel="noopener noreferrer nofollow" target="_blank">刘抗 陈宗瑞 陈文希 锺泗滨 峇厘画展开幕</a> [<em>Bali</em> Exhibition
-by Liu Kang, Chen Chong Swee, Chen Wen Hsi and Cheong Soo Pieng Launched].
+by Liu Kang, Chen Chong Swee, Chen Wen Hsi and Cheong Soo Pieng Launched]."
 7 November 1953, 5. (From NewspaperSG)</p>
 </li>
 <li>
 <p><em>Nanyang Siang Pau </em>南洋商报. “Benpo sihuajia bali huazhan canguanzhe
 zhong maitangnashi dinggou shufu <a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19531108-1.2.25.1" rel="noopener noreferrer nofollow" target="_blank">本坡四画家峇厘画展 参观者众 麦唐纳氏订购数幅</a> [<em>Bali</em> Exhibition
 by Four Local Artists Attracted Many Visitors. Mr MacDonald Has Ordered
-Several Works]. 8 November 1953, 6. (From NewspaperSG)</p>
+Several Works]." 8 November 1953, 6. (From NewspaperSG)</p>
 </li>
 <li>
 <p><em>Sin Chew Jit Poh </em>星洲日报. “Sihuajia bali huazhan <a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19531108-1.2.52" rel="noopener noreferrer nofollow" target="_blank">四画家峇厘画展</a> [Bali
-Exhibition by Four Artists]. 8 November 1953, 5. (From NewspaperSG)</p>
+Exhibition by Four Artists]." 8 November 1953, 5. (From NewspaperSG)</p>
 </li>
 <li>
 <p><em>Sin Chew Jit Poh </em>星洲日报. “Xingsihuajia bali huazhan <a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19531108-1.2.75.2" rel="noopener noreferrer nofollow" target="_blank">星四画家峇厘画展</a> [Bali
-Exhibition by Four Singapore Artists]”. 8 November 1953, 12. (From NewspaperSG)</p>
+Exhibition by Four Singapore Artists].” 8 November 1953, 12. (From NewspaperSG)</p>
 </li>
 <li>
 <p><em>Nanyang Siang Pau </em>南洋商报. “Maitangna zhuanyuan re’ai dangdi yishu
@@ -774,16 +774,16 @@ guli huajia fu shalayue zuohua zuori zaidu xinshang sihuajia bali huazhan
 ziji xuangou liuzhen hai ni jiao mada goucang <a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19531109-1.2.29.8" rel="noopener noreferrer nofollow" target="_blank">麦唐纳专员热爱当地艺术 鼓励画家赴砂拉越作画 昨日再度欣赏四画家峇厘画展 自己选购六帧还拟呌马大购藏</a> [High
 Commissioner MacDonald Loves Local Art. He Encourages Artists to Visit
 Sarawak to Paint. He Visited the Four Artists’ Bali Exhibition Again Yesterday,
-Bought Six Artworks and Intended to Ask University of Malaya to Acquire].
+Bought Six Artworks and Intended to Ask University of Malaya to Acquire]."
 9 November 1953, 5. (From NewspaperSG)</p>
 </li>
 <li>
 <p><em>Sin Chew Jit Poh </em>星洲日报. “Sijia bali huazhan <a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19531109-1.2.50.1" rel="noopener noreferrer nofollow" target="_blank">四家峇厘画展</a> [Bali
-Exhibition by Four Artists]“. 9 November 1953, 5. (From NewspaperSG)</p>
+Exhibition by Four Artists].“ 9 November 1953, 5. (From NewspaperSG)</p>
 </li>
 <li>
 <p><em>Nanyang Siang Pau </em>南洋商报. “Hua shamo wei lüzhou <a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19531110-1.2.11.1" rel="noopener noreferrer nofollow" target="_blank">化沙漠为绿洲</a> [Turing
-Desert into Oasis]”. 10 November 1953, 1. (From NewspaperSG)</p>
+Desert into Oasis].” 10 November 1953, 1. (From NewspaperSG)</p>
 </li>
 <li>
 <p><em>The Singapore Free Press</em>. “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19531110-1.2.28" rel="noopener noreferrer nofollow" target="_blank">Four Went to Paint Bali</a>.”
@@ -793,11 +793,11 @@ Desert into Oasis]”. 10 November 1953, 1. (From NewspaperSG)</p>
 <p><em>Nanyang Siang Pau </em>南洋商报 Nanyang Siang Pau. “Sihuajia bali huihua
 zhanlanhui canguanzhe xiren zuiduo jinri wei zuihou yitian <a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19531115-1.2.24.20" rel="noopener noreferrer nofollow" target="_blank">四画家 峇厘绘画展览会 参观者西人最多 今日为最后一天</a> [Bali
 Exhibition by Four Artists. Most of the Visitors were Caucasians. Today
-is the Last Day]. 15 November 1953, 5. (From NewspaperSG)</p>
+is the Last Day]." 15 November 1953, 5. (From NewspaperSG)</p>
 </li>
 <li>
 <p><em>Sin Chew Jit Poh </em>星洲日报. “Bali huihua zhanhui jinri zuihou yitian
-<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19531115-1.2.43" rel="noopener noreferrer nofollow" target="_blank">峇厘绘画展会 今日最后一天</a>[Bali Painting Exhibition. Today is the Last Day]. 15
+<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19531115-1.2.43" rel="noopener noreferrer nofollow" target="_blank">峇厘绘画展会 今日最后一天</a>[Bali Painting Exhibition. Today is the Last Day]." 15
 November 1953, 5. (From NewspaperSG)</p>
 </li>
 <li>
