@@ -13,13 +13,10 @@ third_nav_title: Visual Arts
 <h4>Introduction</h4>
 <p>This resource guide brings together the references, research materials,
 and archival sources used in developing the exhibition, <em><a href="https://exhibitions.nlb.gov.sg/untoldstories/about/" rel="noopener nofollow" target="_blank">Untold Stories: Four Singapore Artists’ Quest for Inspiration in Bali 1952</a></em>.
-The materials featured offer a deeper look into the artists’ journey that
-led to a landmark exhibition in 1953 in Singapore’s art history and the
-historical context surrounding it. In conjunction with the exhibition,
-NLB and World Scientific have published the book <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=300094843" rel="noopener nofollow" target="_blank">Bali 1952: Through the Lens of Liu Kang</a></em> by
+The materials featured offer a deeper look into the artists’ journey that led to a landmark exhibition in 1953 in Singapore’s art history and the historical context surrounding it. In conjunction with the exhibition, NLB and World Scientific have published the book <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=300094843" rel="noopener nofollow" target="_blank">Bali 1952: Through the Lens of Liu Kang</a></em> by
 Gretchen Liu, one of the curators of this exhibition.</p>
 <h4>Guide Index</h4>
-<p><strong>Prologue</strong>
+<p><a href="#Prologue"><strong>Prologue</strong></a>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -38,7 +35,7 @@ Gretchen Liu, one of the curators of this exhibition.</p>
 <p>Websites</p>
 </li>
 </ul>
-<p><strong>Chapter 1</strong>
+<p><a href="#Chapter1"><strong>Chapter 1</strong></a>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -60,7 +57,7 @@ Gretchen Liu, one of the curators of this exhibition.</p>
 <p>Audio-visual Materials</p>
 </li>
 </ul>
-<p><strong>Chapter 2</strong>
+<p><a href="#Chapter2"><strong>Chapter 2</strong></a>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -79,7 +76,7 @@ Gretchen Liu, one of the curators of this exhibition.</p>
 <p>Audio-visual Materials</p>
 </li>
 </ul>
-<p><strong>Chapter 3</strong>
+<p><a href="#Chapter3"><strong>Chapter 3</strong></a>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -100,12 +97,10 @@ in 1952</p>
 </li>
 </ul>
 <p></p>
+<a name="Prologue"></a>
 <h4>Prologue</h4>
 <p>Many recognise Liu Kang’s <em><a href="https://www.roots.gov.sg/Collection-Landing/listing/1032028" rel="noopener nofollow" target="_blank">Artist and Model</a></em> (1954)
-as depicting a Balinese scene from the 1952 artists’ trip to Bali, Indonesia.
-However, later research reveals that it was based on sketches of Chen Wen
-Hsi in Tretes, Java, just before reaching Bali. The seven-week journey,
-undertaken by four pioneering artists <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=5ffd9a55-8078-4df8-9652-ffc63a0ea2fe" rel="noopener nofollow" target="_blank">Liu Kang</a>,
+as depicting a Balinese scene from the 1952 artists’ trip to Bali, Indonesia. However, later research reveals that it was based on sketches of Chen Wen Hsi in Tretes, Java, just before reaching Bali. The seven-week journey, undertaken by four pioneering artists <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=5ffd9a55-8078-4df8-9652-ffc63a0ea2fe" rel="noopener nofollow" target="_blank">Liu Kang</a>,
 <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=16b5ac02-1b38-4f9a-af00-788859dda380" rel="noopener nofollow" target="_blank">Chen Chong Swee</a>, <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=3ad34665-6a27-4338-b315-5ff52fbd26a7" rel="noopener nofollow" target="_blank">Chen Wen Hsi</a>,
 and <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=7fdd5af9-2143-4874-84d4-70b2c55c0f3c" rel="noopener nofollow" target="_blank">Cheong Soo Pieng</a>,
 spanned Jakarta to Bali and culminated in a landmark 1953 exhibition in
@@ -251,6 +246,7 @@ Wen Hsi and Cheong Soo Pieng.” <em>Postcolonial Web</em>. Accessed 8 August
 </li>
 </ul>
 <p></p>
+<a name="Chapter1"></a>
 <h4>Chapter 1</h4>
 <p>Bali’s image as a paradise was shaped by colonial narratives, tourism
 promotion, and the Western gaze. In the early 20th century, new travel
@@ -589,6 +585,7 @@ United States: New York University Film Library, 1951. Video. <a rel="noopener n
 </p>
 </li>
 </ul>
+<a name="Chapter2"></a>
 <h4>Chapter 2</h4>
 <p>It is not surprising that the four artists were yearning for a new source
 of creative inspiration in the early 1950s and Bali, where art and life
@@ -688,6 +685,7 @@ and MP3 audio, reels 21, 39, 40. National Archives of Singapore (accession
 no. 000171), 191 – 193, 364 – 375.</p>
 </li>
 </ul>
+<a name="Chapter3"></a>
 <h4>Chapter 3</h4>
 <p>Leaving behind the familiar and embarking on a journey opens up new avenues
 of artistic expression. The culmination of their seven-week journey through
