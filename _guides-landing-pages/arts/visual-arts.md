@@ -83,7 +83,7 @@ variant: tiptap
 </ul>
 </li>
 <li>
-<p><strong><a href="https://reference.nlb.gov.sg/guides/arts/visual-arts/untold-stories/" rel="noopener nofollow" target="_blank">Untold Stories: Four Singapore Artists' Quest for Inspiration in Bali 1952</a></strong>
+<p><strong><a href="guides/arts/visual-arts/untold-stories/" rel="noopener nofollow" target="_blank">Untold Stories: Four Singapore Artists' Quest for Inspiration in Bali 1952</a></strong>
 </p>
 </li>
 </ul>
