@@ -507,8 +507,8 @@ SCW -[HYT])</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>[John Koh collection]. <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=203100278" rel="noopener noreferrer nofollow" target="_blank">Indonesia Travel Ephemera</a></em>
-<a href="https://catalogue.nlb.gov.sg/search/card?recordId=203100278" rel="noopener noreferrer nofollow" target="_blank">,</a>1930–1941. (Call no. RCLOS 915.9804 JOH-[JK])</p>
+<p>[John Koh collection]. <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=203100278" rel="noopener noreferrer nofollow" target="_blank">Indonesia Travel Ephemera</a></em>,
+1930–1941. (Call no. RCLOS 915.9804 JOH-[JK])</p>
 </li>
 </ul>
 <p><strong>Journal and Periodical Articles</strong>
@@ -562,23 +562,33 @@ Maestro I Gusti Nyoman Lempad.” <em>NOW! Bali</em>, 22 July 2023. <a rel="noop
 </ul>
 <p><strong>Audio-visual Materials</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p><em>Bali&nbsp;1928, vol.&nbsp;V – Jangér Kedaton.</em> Silent film, featuring
 Ni Wayan Pempen, Ni Gusti Putu Rengkeg, and I Wayan Marek. YouTube video.
 Uploaded on July 30 2015, accessed 8&nbsp;August&nbsp;2025. <a rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/oeorZbDwA30?si=lWP925rqqpwXZPKd</a>
 </p>
+</li>
+<li>
 <p><em>Bali&nbsp;1928, vol.&nbsp;V – Rosa Covarrubias, Ni Made Gubreg &amp; I Gusti Alit Oka</em>.
 Silent film featuring Rosa Covarrubias, Ni Made Gubreg and I Gusti Alit
 Oka. YouTube video. Uploaded 30 July 2015. Accessed 8 August 2025. <a rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/B1C‑PUDDbL4?si=E0Cm6gSja0c7B3Uf</a>
 </p>
+</li>
+<li>
 <p><a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/e0c68c78-115d-11e3-83d5-0050568939ad" rel="noopener noreferrer nofollow" target="_blank">Liu Kang</a>,
 oral history interview by Tan Beng Luan, 13 Jan 1983. Transcript and MP3
 audio, reel 39. National Archives of Singapore (accession no. 000171),
 364.</p>
+</li>
+<li>
 <p>Mead, Margaret, Film Producer, Screenwriter, Narrator, Josef Bohmer, Colin
 McPhee, Contributor Committee For Research In Dementia Praecox, and Foerstel,
 Bateson, Gregory, Film Producer, and Jane Belo, photographer. <em>Trance and dance in Bali</em>.
 United States: New York University Film Library, 1951. Video. <a rel="noopener noreferrer nofollow" target="_blank">https://www.loc.gov/item/2001646000/</a>
 </p>
+</li>
+</ul>
 <h4>Chapter 2</h4>
 <p>It is not surprising that the four artists were yearning for a new source
 of creative inspiration in the early 1950s and Bali, where art and life
@@ -704,22 +714,24 @@ Singapore 新加坡：Liu Kang, Chen Wen Hsi, Chen Chong Swee, Cheong Soo Pieng
 <p>Hsü, Marco 玛戈. <em>Malaiya Yishu Jianshi</em>  <a href="https://catalogue.nlb.gov.sg/search/card?recordId=84547974" rel="noopener noreferrer nofollow" target="_blank">马来亚艺术简史</a> [A
 Brief History of Malayan Art]. Singapore 新加坡: Nanyang Chuban Youxian Gongsi
 南洋出版有限公司,1963. (Call no.: RCLOS 709.595 MG). English translation of the
-book is Hsü, Marco C. F.; Lai Chee Kien, trans. <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=9606089" rel="noopener noreferrer nofollow" target="_blank">A Brief History of Malayan Art</a></em>.
-Singapore: Millennium Books, 1999. (Call no. RSING 709.595 HSU)</p>
+book: Hsü, Marco C. F. <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=9606089" rel="noopener noreferrer nofollow" target="_blank">A Brief History of Malayan Art</a></em>.
+Translated by Lai Chee Kien. Singapore: Millennium Books, 1999. (Call no.
+RSING 709.595 HSU)</p>
 </li>
 <li>
-<p>Kwok, Kian Chow. <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=7628104" rel="noopener noreferrer nofollow" target="_blank">Channels &amp; Confluences: A History of Singapore Art</a></em>
-<a href="https://catalogue.nlb.gov.sg/search/card?recordId=7628104" rel="noopener noreferrer nofollow" target="_blank">.</a>Singapore: Singapore Art Museum, 1996. (Call no. RSING 709.5957 KWO)</p>
+<p>Kwok, Kian Chow. <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=7628104" rel="noopener noreferrer nofollow" target="_blank">Channels &amp; Confluences: A History of Singapore Art</a></em>.
+Singapore: Singapore Art Museum, 1996. (Call no. RSING 709.5957 KWO)</p>
 </li>
 <li>
 <p><em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=4125450" rel="noopener noreferrer nofollow" target="_blank">Pameran Retrospektif Pelukis-pelukis Nanyang</a></em> [Retrospective
-Exhibition of Nanyang Artists]. Kuala Lumpur: Muzium Seni Negara,1979.
+Exhibition of Nanyang Artists]. Kuala Lumpur: Muzium Seni Negara, 1979.
 (Call no.: RCLOS 759.959 PAM)</p>
 </li>
 <li>
 <p>Sabapathy, T. K. “From Years and After: The Nanyang Artists. Remarks on
-Art and History.” In <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=5490645" rel="noopener noreferrer nofollow" target="_blank">New Directions 1980–1987: Modern Paintings in Singapore,</a></em> not
-paginated. Singapore: Horizon Pub., 1987. (Call no. RSING 759.95957 NEW)</p>
+Art and History.” In <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=5490645" rel="noopener noreferrer nofollow" target="_blank">New Directions 1980–1987: Modern Paintings in Singapore</a></em>,
+not paginated. Singapore: Horizon Pub., 1987. (Call no. RSING 759.95957
+NEW)</p>
 </li>
 <li>
 <p>Siew, Sara, ed. <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=202092789" rel="noopener noreferrer nofollow" target="_blank">Siapa Nama Kamu?: Art in Singapore since the 19th Century: Selections from the Exhibition</a>.</em> Singapore:
