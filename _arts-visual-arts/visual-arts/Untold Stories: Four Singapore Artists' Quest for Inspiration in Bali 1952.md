@@ -400,5 +400,10 @@ RSEA 741.97253 WIL)</p>
 London: G. Allen &amp; Unwin, 1933. (Call no. RCLOS 992.3 YAT-[LK])</p>
 </li>
 </ul>
+<p><strong>Newspaper Articles and Magazines</strong>
+</p>
 <p></p>
-<p></p>
+<p>Ephemeral Materials</p>
+<p>Journal and Periodical Articles</p>
+<p>Websites</p>
+<p>Audio-visual Materials</p>
