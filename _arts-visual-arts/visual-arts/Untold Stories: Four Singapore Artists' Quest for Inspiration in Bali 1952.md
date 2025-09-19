@@ -19,7 +19,8 @@ historical context surrounding it. In conjunction with the exhibition,
 NLB and World Scientific have published the book <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=300094843" rel="noopener nofollow" target="_blank">Bali 1952: Through the Lens of Liu Kang</a></em> by
 Gretchen Liu, one of the curators of this exhibition.</p>
 <h4>Guide Index</h4>
-<p><a href="#Prologue"><strong> Prologue </strong></a></p>
+<p><strong><a href="#Prologue" rel="noopener noreferrer nofollow" target="_blank">Prologue</a></strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Books</p>
@@ -99,7 +100,6 @@ in 1952</p>
 </li>
 </ul>
 <p></p>
-<a name="Prologue"></a>
 <h4>Prologue</h4>
 <p>Many recognise Liu Kang’s <em><a href="https://www.roots.gov.sg/Collection-Landing/listing/1032028" rel="noopener nofollow" target="_blank">Artist and Model</a></em> (1954)
 as depicting a Balinese scene from the 1952 artists’ trip to Bali, Indonesia.
@@ -154,7 +154,65 @@ Singapore: National Art Gallery, 2010. (Call no. RSING 759.95957 SOO)</p>
 </ul>
 <p><strong>Newspaper Articles</strong>
 </p>
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Nanyang Siang Pau</em> 南洋商报. “Liu kang chen zongrui chen wenxi zhong
+sibin siyishujia huazhan niansanri jia yingguo wenhua xiehui kaimu you
+guohua youhua shuicaihua baiyuzhen <a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19511118-1.2.12.10" rel="noopener nofollow" target="_blank">刘抗·陈宗瑞·陈文希·锺泗滨四艺术家画展廿三日假英国文化协会开幕 有国画油画水彩画百余帧</a> [Four
+Men Art Exhibition by Liu Kang, Chen Chong Swee, Chen Wen Hsi and Cheong
+Soo Pieng will be Launched at British Council on the 23rd. There will be
+more than 100 Works in Ink, Oil, Watercolour and Pastel].” 18 November
+1951, 6. (From NewspaperSG)</p>
+</li>
+<li>
+<p><em>Nanyang Siang Pau</em> 南洋商报. “Sihuajia huazhan kaimu <a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19511124-1.2.29.2" rel="noopener nofollow" target="_blank">四画家画展开幕</a> [Four
+Men Art Exhibition Launched]." 24 November 1951, 5. (From NewspaperSG)</p>
+</li>
+<li>
+<p><em>Nanyang Siang Pau</em> 南洋商报. “Xinjiapo yishu xiehui zhuban xinjiapo
+sihuajia lianhe huazhan <a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19511125-1.2.2" rel="noopener nofollow" target="_blank">新加坡艺术协会主办新加坡四画家联合画展</a> [Four
+Singapore Artists Joint Exhibition Organised by Singapore Art Society].”
+25 November 1951, 1. (From NewspaperSG)</p>
+</li>
+<li>
+<p><em>Straits Times</em>. “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19511125-1.2.65" rel="noopener nofollow" target="_blank">S’pore Paintings Fetch $4,000</a>.”
+25 November 1951, 9. (From NewspaperSG)</p>
+</li>
+<li>
+<p><em>Nanyang Siang Pau</em> 南洋商报. “Yingguo wenhua xiehui yu zhongguo yishu
+英国文化协会与中国艺术 [The British Council and Chinese Art]." 27 November 1951, 1.
+(From NewspaperSG)</p>
+</li>
+<li>
+<p>Nanyang Siang Pau 南洋商报. “Liu kang deng sihuajia meizhan zhongwairenshi
+canguanzhe yongyue chen zhichu li guangqian deng gouyou duofu刘抗等四画家美展 中外人士参观者踊跃
+陈之初李光前等购有多幅 [Both Chinese and Non-Chinese Visitors Responded Enthusiastically
+to the Four Men Art Exhibition by Liu Kang et. al. Tan Tsze Chor, Lee Kong
+Chian and others Purchased Many Works]” 29 November 1951, 6. (From NewspaperSG)</p>
+</li>
+<li>
+<p>Straits Times. “Art Show Sales a Record.” 29 November 1951, 8. (From NewspaperSG)</p>
+</li>
+<li>
+<p>Singapore Free Press. “One Man Show by Indian Painter.” 9 February 1952,
+3. (From NewspaperSG)</p>
+</li>
+<li>
+<p>Straits Times. “Singapore Art Society Show.” 11 February 1952, 9. (From
+NewspaperSG)</p>
+</li>
+<li>
+<p>Singapore Standard. “Indian Artist Opens One-Man Show in S’pore.” 12 February
+1952, 2. (From NewspaperSG)</p>
+</li>
+<li>
+<p>Toh, Lam Huat 杜南发. ”Tazhe nanfang de wubu woguo sidaxianquhuajia 52nian
+bali lishi zhi lü 踏着南方的舞步 我国四大先驱画家 52年峇厘历史之旅 [Tracing the Dance Steps of
+the South: The Historic Trip to Bali in 1952 Embarked by Four Singapore
+Pioneering Artists].” Shin Min Daily News 新明日报, 4 June 1994, 12. (From
+NewspaperSG)</p>
+</li>
+</ul>
 <p>Ephemeral Materials</p>
 <p></p>
 <p>Journal and Periodical Articles</p>
