@@ -131,7 +131,7 @@ filters:</summary>
 we searched for the phrase “National Library Board” and applied the following
 filters as pictured below.</p>
 <div class="isomer-image-wrapper">
-<img style="width:600px;" height="auto" width="100%" src="/images/other-formats/archivedwebsites_02_a.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/other-formats/archivedwebsites_08.png">
 </div>
 </div>
 </details>
@@ -152,7 +152,7 @@ we searched for the keywords ‘“web archive Singapore” BiblioAsia’ and ap
 the following filters as pictured below.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/other-formats/archivedwebsites_03_a.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/other-formats/archivedwebsites_07.png">
 </div>
 </div>
 </details>
