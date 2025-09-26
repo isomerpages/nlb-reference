@@ -176,7 +176,7 @@ filters on the left or clicking the grey boxes under the search bar.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/other-formats/archivedwebsites_04.png">
 </div>
-<p>This is what the NLB website looked like on 28 Apr 2006. To view other
+<p>This is what the NLB website looked like on 16 Nov 2007. To view other
 archived versions of the NLB website, you can either select the dates shown
 in the timeline bar or ‘View Other Versions’ for the complete list of dates.</p>
 <p>You can explore the archived website by clicking on the available links
