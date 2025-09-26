@@ -47,8 +47,9 @@ check out the videos below.</p>
 <p>This guide will explain how to search, browse, and access the library’s
 archived websites collection on WAS.</p>
 <h2><strong>Searching on WebArchiveSG</strong></h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/other-formats/archivedwebsites-01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/other-formats/archivedwebsites_01.png">
 </div>
 <p>WAS employs full-text search capabilities and will display search results
 that contain the keywords in the archived website’s title, content, documents,
