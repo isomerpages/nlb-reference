@@ -19,7 +19,7 @@ archived versions (snapshots of the same website over time). The collection
 includes all publicly available .sg websites which the library has a mandate
 to collect under the National Library Board Act since 2019, and a selection
 of non .sg websites that are owned by Singaporeans or Singapore organisations/institutions
-via permission seeking. The collection is accessible though the <a href="https://eresources.nlb.gov.sg/webarchives/" rel="noopener noreferrer nofollow" target="_blank">WebArchiveSG</a>(WAS)
+via permission seeking. The collection is accessible though the <a href="https://eresources.nlb.gov.sg/webarchives/" rel="noopener noreferrer nofollow" target="_blank">WebArchiveSG</a> (WAS)
 portal.</p>
 <p>Due to copyright laws, the archived websites can only be accessed from
 a designated computer terminal on Level 11 of the <a href="https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/national-library-singapore/lee-kong-chian-reference-library" rel="noopener noreferrer nofollow" target="_blank">Lee Kong Chian Reference Library</a>,
