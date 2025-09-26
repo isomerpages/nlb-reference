@@ -165,16 +165,16 @@ filters on the left or clicking the grey boxes under the search bar.</p>
 </li>
 </ol>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/other-formats/archivedwebsites-04.PNG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/other-formats/archivedwebsites_02.png">
 </div>
 <h2><strong>Viewing the Archived Website</strong></h2>
 <p>Click on the record title to view the archived website.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/other-formats/archivedwebsites-05.PNG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/other-formats/archivedwebsites_03.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/other-formats/archivedwebsites-06.PNG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/other-formats/archivedwebsites_04.png">
 </div>
 <p>This is what the NLB website looked like on 28 Apr 2006. To view other
 archived versions of the NLB website, you can either select the dates shown
@@ -224,12 +224,14 @@ website’s title and abstract.</p>
 <h2><strong>Citations</strong></h2>
 <p>The citation feature enables you to save a list of archived websites which
 you can revisit later and/or email the list to yourself.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/other-formats/archivedwebsites-09.PNG">
-</div>
 <p>Click on ‘Add to Citation’, found under each website record, to save it.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/other-formats/archivedwebsites-10.PNG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/other-formats/archivedwebsites_05.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/other-formats/archivedwebsites_06.png">
 </div>
 <p>You can access your list of citations by clicking on “Citation” at the
 top of the page. Here you can make further edition to your citations list
