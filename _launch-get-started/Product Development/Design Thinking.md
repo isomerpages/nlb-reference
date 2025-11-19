@@ -3,6 +3,7 @@ title: Design Thinking
 permalink: /launch/getting-started/product-dev/design-thinking/
 description: ""
 third_nav_title: Product Development
+variant: markdown
 ---
 # What is Design Thinking? 
 
@@ -34,6 +35,6 @@ IDEO U. “What is Design Thinking?”. Accessed September 22, 2021. [https://ww
 
 Seow, Joanna. “New National Framework for Design Skills to Drive Innovation in Singapore”. Last updated July 24, 2019. [https://www.straitstimes.com/singapore/new-national-framework-for-design-skills-to-drive-innovation-in-singapore](https://www.straitstimes.com/singapore/new-national-framework-for-design-skills-to-drive-innovation-in-singapore) 
 
-See, Bridgette. “Library@Orchard: Deliberately Designed with Users in Mind”. Challenge. Posted March 17, 2015. [https://www.psd.gov.sg/challenge/ideas/deep-dive/deliberately-designed-with-users-in-mind](https://www.psd.gov.sg/challenge/ideas/deep-dive/deliberately-designed-with-users-in-mind) 
+See, Bridgette. “Library@Orchard: Deliberately Designed with Users in Mind”. Challenge. Posted March 17, 2015. [https://psdchallenge.psd.gov.sg/ideas/deep-dive/deliberately-designed-with-users-in-mind](https://psdchallenge.psd.gov.sg/ideas/deep-dive/deliberately-designed-with-users-in-mind)
 
 Plattner, Hasso. “An Introduction to Design Thinking: Process Guide”. Accessed September 2, 2021. [https://web.stanford.edu/~mshanks/MichaelShanks/files/509554.pdf](https://web.stanford.edu/~mshanks/MichaelShanks/files/509554.pdf)
