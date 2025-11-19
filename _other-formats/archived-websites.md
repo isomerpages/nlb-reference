@@ -14,12 +14,12 @@ which may no longer exist or observe changes in specific websites over
 time. Together, these websites reflect various aspects of Singaporean life,
 culture, and heritage in the 21st century.</p>
 <p>The library’s archived websites collection dates from 2006 and contains
-over 90,000 unique archived websites and webpages and more than 360,000
+over 100,000 unique archived websites and webpages and more than 380,000
 archived versions (snapshots of the same website over time). The collection
 includes all publicly available .sg websites which the library has a mandate
 to collect under the National Library Board Act since 2019, and a selection
 of non .sg websites that are owned by Singaporeans or Singapore organisations/institutions
-via permission seeking. The collection is accessible though the <a href="https://eresources.nlb.gov.sg/webarchives/" rel="noopener noreferrer nofollow" target="_blank">Web Archive Singapore</a> (WAS)
+via permission seeking. The collection is accessible though the <a href="https://eresources.nlb.gov.sg/webarchives/" rel="noopener noreferrer nofollow" target="_blank">WebArchiveSG</a> (WAS)
 portal.</p>
 <p>Due to copyright laws, the archived websites can only be accessed from
 a designated computer terminal on Level 11 of the <a href="https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/national-library-singapore/lee-kong-chian-reference-library" rel="noopener noreferrer nofollow" target="_blank">Lee Kong Chian Reference Library</a>,
@@ -46,9 +46,10 @@ check out the videos below.</p>
 </ul>
 <p>This guide will explain how to search, browse, and access the library’s
 archived websites collection on WAS.</p>
-<h2><strong>Searching on Web Archive Singapore</strong></h2>
+<h2><strong>Searching on WebArchiveSG</strong></h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/other-formats/archivedwebsites-01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/other-formats/archivedwebsites_01.png">
 </div>
 <p>WAS employs full-text search capabilities and will display search results
 that contain the keywords in the archived website’s title, content, documents,
@@ -130,7 +131,7 @@ filters:</summary>
 we searched for the phrase “National Library Board” and applied the following
 filters as pictured below.</p>
 <div class="isomer-image-wrapper">
-<img style="width:600px;" height="auto" width="100%" src="/images/other-formats/archivedwebsites_02_a.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/other-formats/archivedwebsites_08.png">
 </div>
 </div>
 </details>
@@ -146,12 +147,12 @@ filters:</summary>
 <p>URL: <em>Select the website URL where necessary</em>
 </p>
 <p></p>
-<p>In this example of searching for the BiblioAsia blog article on the Web
-Archive Singapore, we searched for the keywords ‘“web archive Singapore”
-BiblioAsia’ and applied the following filters as pictured below.</p>
+<p>In this example of searching for the BiblioAsia blog article on the WebArchiveSG,
+we searched for the keywords ‘“web archive Singapore” BiblioAsia’ and applied
+the following filters as pictured below.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/other-formats/archivedwebsites_03_a.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/other-formats/archivedwebsites_07.png">
 </div>
 </div>
 </details>
@@ -164,18 +165,18 @@ filters on the left or clicking the grey boxes under the search bar.</p>
 </li>
 </ol>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/other-formats/archivedwebsites-04.PNG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/other-formats/archivedwebsites_02.png">
 </div>
 <h2><strong>Viewing the Archived Website</strong></h2>
 <p>Click on the record title to view the archived website.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/other-formats/archivedwebsites-05.PNG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/other-formats/archivedwebsites_03.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/other-formats/archivedwebsites-06.PNG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/other-formats/archivedwebsites_04.png">
 </div>
-<p>This is what the NLB website looked like on 28 Apr 2006. To view other
+<p>This is what the NLB website looked like on 16 Nov 2007. To view other
 archived versions of the NLB website, you can either select the dates shown
 in the timeline bar or ‘View Other Versions’ for the complete list of dates.</p>
 <p>You can explore the archived website by clicking on the available links
@@ -203,7 +204,7 @@ such errors, we suggest that you explore the archived website via its sitemap
 if it is available.</p>
 </li>
 </ol>
-<h2><strong>Browsing Web Archive Singapore</strong></h2>
+<h2><strong>Browsing WebArchiveSG</strong></h2>
 <p>You can also explore WAS through the <strong>Special Collections</strong> and <strong>Browse by Category</strong>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/other-formats/archivedwebsites-07.PNG">
@@ -223,12 +224,14 @@ website’s title and abstract.</p>
 <h2><strong>Citations</strong></h2>
 <p>The citation feature enables you to save a list of archived websites which
 you can revisit later and/or email the list to yourself.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/other-formats/archivedwebsites-09.PNG">
-</div>
 <p>Click on ‘Add to Citation’, found under each website record, to save it.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/other-formats/archivedwebsites-10.PNG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/other-formats/archivedwebsites_05.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/other-formats/archivedwebsites_06.png">
 </div>
 <p>You can access your list of citations by clicking on “Citation” at the
 top of the page. Here you can make further edition to your citations list

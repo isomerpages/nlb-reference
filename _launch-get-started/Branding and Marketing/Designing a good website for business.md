@@ -3,6 +3,7 @@ title: Designing a good website for business
 permalink: /launch/getting-started/branding/design-good-website/
 description: ""
 third_nav_title: Branding and Marketing
+variant: markdown
 ---
 # Designing a Good Website for Business  
 
@@ -28,7 +29,7 @@ As more and more of our lives go online, it is important for businesses to prope
 
 ## References 
 
-MediaOne. “Tips to Create a Great Website for Your Singapore Business”. MediaOne. Last updated March 27, 2019. [https://mediaonemarketing.com.sg/tips-create-great-website-singapore-business/](https://mediaonemarketing.com.sg/tips-create-great-website-singapore-business/) 
+Carlo Angelo Suñga. “How To Design A Quality Website For Your Business?”. OOm. Last updated May 14, 2020. [https://www.oom.com.sg/how-to-design-a-quality-website-for-your-business/](https://www.oom.com.sg/how-to-design-a-quality-website-for-your-business/) 
 
 Appy Pie. “How to Make a Website and Earn Money in 2021”. Last updated March 13, 2021. [https://www.appypie.com/website/how-to-make-a-website-earn-money](https://www.appypie.com/website/how-to-make-a-website-earn-money) 
 
