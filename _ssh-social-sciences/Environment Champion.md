@@ -3,10 +3,9 @@ title: Environment Champion
 permalink: /guides/socscihum/soc-sci/environment-champion/
 breadcrumb: Environment Champion
 collection_name: social-sciences-humanities-social-sciences
-published: true
+published: "true"
+variant: markdown
 ---
-
-
 ### <u>Guide Index</u>
 
 * [Introduction](#introduction)
@@ -178,7 +177,7 @@ Covers the whole story about plastic and is filled with information to empower c
 
 (listed in alphabetical order)
 
-* 15 Creative Crafts Made from Recycled Household Items. (2020, July 8). Retrieved May 17, 2021, from *Better Homes & Gardens* website: [https://www.bhg.com/crafts/easy/1-hour-projects/recycled-material-crafts/](https://www.bhg.com/crafts/easy/1-hour-projects/recycled-material-crafts/)
+* Thomas, Mariah. 30 Recycled Crafts for Kids That Are Easy and Fun. (2022, April 1). Retrieved November 19, 2025, from *Good Housekeeping* website: [https://www.goodhousekeeping.com/home/craft-ideas/g39561047/recycled-crafts-for-kids/](https://www.goodhousekeeping.com/home/craft-ideas/g39561047/recycled-crafts-for-kids/)
 
 Offers kids some ideas for making creative crafts from recycled materials.
 
@@ -277,7 +276,7 @@ A consumer education initiative by Singapore Packaging Agreement on 3R practices
 
 * What to do with. (n.d.) Retrieved May 17, 2021, from WRAP website: [https://www.recyclenow.com/what-to-do-with](https://www.recyclenow.com/what-to-do-with)
 
-Guide to recycle of Clothing & textiles, Electrical items, Furniture, Medicines, Plastic bottles, Plastic films, and more.
+Guide to recycle of Clothing &amp; textiles, Electrical items, Furniture, Medicines, Plastic bottles, Plastic films, and more.
 
 
 **Videos**
@@ -296,13 +295,13 @@ A collection of videos on recycling process of papers, plastics, food waste, fur
 
   This animation video highlights just a few items all around the home for recycling materials such as can, plastic, electrical, waste, and garden.
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/sLktjtlXCNo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/sLktjtlXCNo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 * The Story of Stuff Project. (2015, September 4). Loop Scoops – Garbage [Video File]. Retrieved May 17, 2021, from website: [https://youtu.be/N9LfPq-H72g](https://youtu.be/N9LfPq-H72g)
 
   This is a PBS Kids production on garbage and saving the environment by recycling and composting.
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/N9LfPq-H72g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/N9LfPq-H72g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
   PBS Kids production on garbage and saving the environment by recycling and composting.
 
@@ -317,25 +316,25 @@ There are quite a number of online videos on crafts from recycled materials. Ple
 
   Fernandez, an experienced art educator provides tips on how to make a variety of different crafts such as Christmas cards.
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/z_RKmEhdzqs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/z_RKmEhdzqs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 DisneyJuniorUK. (2014, November 22). Art Attack – Travel Bag – Disney Junior UK HD. [Video File]. Retrieved May 17, 2021, from website: [https://youtu.be/kvImAjsERY4](https://youtu.be/kvImAjsERY4)
 
   Lloyd provides a step by step guide to make a super useful travel bag.
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/kvImAjsERY4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/kvImAjsERY4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 * Make:. (2012, August 13). Maker Camp: Recycled Paper Baskets with Tiffany Threadgould [Video File]. Retrieved May 17, 2021, from website: [https://youtu.be/vIl3brhueyg](https://youtu.be/vIl3brhueyg)
 
   Threadgould demonstrates weaving paper baskets from old maps.
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/vIl3brhueyg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/vIl3brhueyg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 * Simplekidscraft.com. (2017, March 8). DIY Corrugated Cardboard Desk Organizer: Easy Cardboard Crafts [Video File]. Retrieved May 17, 2021, from website: [https://youtu.be/rdL5ETTF690](https://youtu.be/rdL5ETTF690)
 
   This video provides a step by step guide to craft a cute desk organizer.
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/rdL5ETTF690" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/rdL5ETTF690" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ### <u>Lesson Plans</u>
 
