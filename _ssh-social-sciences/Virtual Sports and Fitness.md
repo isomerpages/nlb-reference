@@ -73,8 +73,8 @@ Stay physically active during self-quarantine. (n.d.). <i>World Health Organisat
 <h5>3. <a href="https://circle.myactivesg.com/circuit-breaker" target="_blank">Unsure of what to do during the #CircuitBreaker? </a></h5>
 Unsure of what to do during the #CircuitBreaker? (2020).<i> Sport Singapore</i>. Retrieved 2020, April 22.
 
-<h5>4. <a href="https://www.healthhub.sg/programmes/170/StayWell" target="_blank">Stay well to stay strong</a></h5>
-Stay well to stay strong. (2020). <i>HealthHub</i>. Retrieved 2020, April 22. 
+<h5>4. <a href="https://www.healthhub.sg/well-being-and-lifestyle/exercise-and-fitness/no_gym_membership_1" target="_blank">4 Ways to Stay Fit Without a Gym Membership</a></h5>
+4 Ways to Stay Fit Without a Gym Membership. (2025, June 26). <i>HealthHub</i>. Retrieved 2025, November 19. 
 
 <h5>5. <a href="https://ais.gov.au/health-wellbeing/covid-19" target="_blank">COVID-19 and sporting activity</a></h5>
 COVID-19 and sporting activity. (2020, April 13). <i>Australian Sports Commission</i>. Retrieved 2020, April 22 .
