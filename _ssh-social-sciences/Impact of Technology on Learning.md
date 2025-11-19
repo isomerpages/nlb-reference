@@ -120,7 +120,7 @@ Pembelajaran di rumah bermula; pelajar sesuaikan diri ikuti kelas maya. (2020, A
 
 Since the implementation of home-based learning, students have had to attend virtual lessons and adapt themselves to the use of applications such as Zoom.
 
-<h5>4. <a href="https://semnas.univpgri-palembang.ac.id/index.php/prosidingpps/article/download/309/213" target="_blank">Peranan teknologi dalam dunia pendidikan.</a></h5>
+<h5>4. Peranan teknologi dalam dunia pendidikan.</h5>
 Peranan teknologi dalam dunia pendidikan. (2022, November 17). <i>Prosiding Seminar Nasional Pendidikan</i>. Retrieved 2024, April 6. 
 
 This article discusses the role and impact of technology in our lives.
@@ -130,4 +130,5 @@ This article discusses the role and impact of technology in our lives.
 The information in this resource guide is valid as at May 2020 and correct as far as we are able to ascertain from our sources. It is not intended to be an exhaustive or complete history on the subject. Please contact the Library for further reading materials on the topic.<br>
 All Rights Reserved. National Library Board Singapore 2020.<br></p>
 ---
+
 #### **References**
