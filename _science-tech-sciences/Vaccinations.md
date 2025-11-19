@@ -87,8 +87,8 @@ Riedel, S. (2005, January). Edward Jenner and the history of the smallpox and va
 <h5>4. <a href="https://www.cdc.gov/vaccines-children/reasons/" target="_blank">Reasons to Vaccinate</a></h5>
 Reasons to Vaccinate | Childhood Vaccines | CDC. (2019, August 5). <i>Centers for Disease Control and Prevention (CDC)</i>. Retrieved 2024, September 20.
 
-<h5>5. <a href="https://www.healthhub.sg/a-z/diseases-and-conditions/658/vaccinations-for-adults" target="_blank">Vaccinations: Immunisation boosters for adults</a></h5>
-Vaccinations: Immunisation boosters for adults. (2019, October 11). <i>HealthHub</i>. Retrieved 2020, April 2.
+<h5>5. <a href="https://www.healthhub.sg/well-being-and-lifestyle/personal-care/get-vaccinated" target="_blank">4 Reasons Why Adults Should Get Vaccinated</a></h5>
+4 Reasons Why Adults Should Get Vaccinated. (2025, July 25). <i>HealthHub</i>. Retrieved 2025, November 19.
 
 
 <img src="/images/sci-tech/P7-immunisation.jpg" style="width:700px;">
