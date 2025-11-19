@@ -41,8 +41,8 @@ Emerging technology and systemic risk – maintaining a secure and resilient dig
 
 #### Journal Articles
 
-**Cybersecurity professionals stand up to a pandemic**<br>
-Cybersecurity professionals stand up to a pandemic. (2020, November 11). *International Information System Security Certification Consortium*. Retrieved 2021, September 20 from [https://www.isc2.org/-/media/ISC2/Research/2020/Workforce-Study/ISC2ResearchDrivenWhitepaperFINAL.ashx?la=en&amp;hash=2879EE167ACBA7100C330429C7EBC623BAF4E07B](https://www.isc2.org/-/media/ISC2/Research/2020/Workforce-Study/ISC2ResearchDrivenWhitepaperFINAL.ashx?la=en&amp;hash=2879EE167ACBA7100C330429C7EBC623BAF4E07B)
+**ISC2 Study Reveals the Cybersecurity Workforce Has Grown Globally**<br>
+ISC2 Study Reveals the Cybersecurity Workforce Has Grown Globally. (2020, November 11). *International Information System Security Certification Consortium*. Retrieved 2025, November 19 from [https://www.isc2.org/Insights/2020/11/ISC2-Study-Reveals-the-Cybersecurity-Workforce-Has-Grown-Globally](https://www.isc2.org/Insights/2020/11/ISC2-Study-Reveals-the-Cybersecurity-Workforce-Has-Grown-Globally)
 
 **The life and times of cybersecurity professionals 2021**<br>
 Oltsik, J., &amp; Lundell, B. (2021, July 21). The life and times of cybersecurity professionals 2021. *Information Systems Security Association*. Retrieved 2021, September 20 from<br> [https://www.issa.org/wp-content/uploads/2021/07/ESG-ISSA-Research-Report-Life-of-Cybersecurity-Professionals-Jul-2021.pdf](https://www.issa.org/wp-content/uploads/2021/07/ESG-ISSA-Research-Report-Life-of-Cybersecurity-Professionals-Jul-2021.pdf)
