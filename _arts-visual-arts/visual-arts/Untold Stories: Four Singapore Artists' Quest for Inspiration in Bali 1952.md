@@ -13,10 +13,13 @@ third_nav_title: Visual Arts
 <h4>Introduction</h4>
 <p>This resource guide brings together the references, research materials,
 and archival sources used in developing the exhibition, <em><a href="https://exhibitions.nlb.gov.sg/untoldstories/about/" rel="noopener nofollow" target="_blank">Untold Stories: Four Singapore Artists’ Quest for Inspiration in Bali 1952</a></em>.
-The materials featured offer a deeper look into the artists’ journey that led to a landmark exhibition in 1953 in Singapore’s art history and the historical context surrounding it. In conjunction with the exhibition, NLB and World Scientific have published the book <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=300094843" rel="noopener nofollow" target="_blank">Bali 1952: Through the Lens of Liu Kang</a></em> by
+The materials featured offer a deeper look into the artists’ journey that
+led to a landmark exhibition in 1953 in Singapore’s art history and the
+historical context surrounding it. In conjunction with the exhibition,
+NLB and World Scientific have published the book <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=300094843" rel="noopener nofollow" target="_blank">Bali 1952: Through the Lens of Liu Kang</a></em> by
 Gretchen Liu, one of the curators of this exhibition.</p>
 <h4>Guide Index</h4>
-<p><a href="#Prologue"><strong>Prologue</strong></a>
+<p><strong><a href="#Prologue" rel="noopener noreferrer nofollow" target="_blank">Prologue</a></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -35,7 +38,7 @@ Gretchen Liu, one of the curators of this exhibition.</p>
 <p>Websites</p>
 </li>
 </ul>
-<p><a href="#Chapter1"><strong>Chapter 1</strong></a>
+<p><strong><a href="#Chapter1" rel="noopener noreferrer nofollow" target="_blank">Chapter 1</a></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -57,7 +60,7 @@ Gretchen Liu, one of the curators of this exhibition.</p>
 <p>Audio-visual Materials</p>
 </li>
 </ul>
-<p><a href="#Chapter2"><strong>Chapter 2</strong></a>
+<p><strong><a href="#Chapter2" rel="noopener noreferrer nofollow" target="_blank">Chapter 2</a></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -76,7 +79,7 @@ Gretchen Liu, one of the curators of this exhibition.</p>
 <p>Audio-visual Materials</p>
 </li>
 </ul>
-<p><a href="#Chapter3"><strong>Chapter 3</strong></a>
+<p><strong><a href="#Chapter3" rel="noopener noreferrer nofollow" target="_blank">Chapter 3</a></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -97,10 +100,12 @@ in 1952</p>
 </li>
 </ul>
 <p></p>
-<a name="Prologue"></a>
 <h4>Prologue</h4>
 <p>Many recognise Liu Kang’s <em><a href="https://www.roots.gov.sg/Collection-Landing/listing/1032028" rel="noopener nofollow" target="_blank">Artist and Model</a></em> (1954)
-as depicting a Balinese scene from the 1952 artists’ trip to Bali, Indonesia. However, later research reveals that it was based on sketches of Chen Wen Hsi in Tretes, Java, just before reaching Bali. The seven-week journey, undertaken by four pioneering artists <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=5ffd9a55-8078-4df8-9652-ffc63a0ea2fe" rel="noopener nofollow" target="_blank">Liu Kang</a>,
+as depicting a Balinese scene from the 1952 artists’ trip to Bali, Indonesia.
+However, later research reveals that it was based on sketches of Chen Wen
+Hsi in Tretes, Java, just before reaching Bali. The seven-week journey,
+undertaken by four pioneering artists <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=5ffd9a55-8078-4df8-9652-ffc63a0ea2fe" rel="noopener nofollow" target="_blank">Liu Kang</a>,
 <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=16b5ac02-1b38-4f9a-af00-788859dda380" rel="noopener nofollow" target="_blank">Chen Chong Swee</a>, <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=3ad34665-6a27-4338-b315-5ff52fbd26a7" rel="noopener nofollow" target="_blank">Chen Wen Hsi</a>,
 and <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=7fdd5af9-2143-4874-84d4-70b2c55c0f3c" rel="noopener nofollow" target="_blank">Cheong Soo Pieng</a>,
 spanned Jakarta to Bali and culminated in a landmark 1953 exhibition in
@@ -246,7 +251,6 @@ Wen Hsi and Cheong Soo Pieng.” <em>Postcolonial Web</em>. Accessed 8 August
 </li>
 </ul>
 <p></p>
-<a name="Chapter1"></a>
 <h4>Chapter 1</h4>
 <p>Bali’s image as a paradise was shaped by colonial narratives, tourism
 promotion, and the Western gaze. In the early 20th century, new travel
@@ -585,7 +589,6 @@ United States: New York University Film Library, 1951. Video. <a rel="noopener n
 </p>
 </li>
 </ul>
-<a name="Chapter2"></a>
 <h4>Chapter 2</h4>
 <p>It is not surprising that the four artists were yearning for a new source
 of creative inspiration in the early 1950s and Bali, where art and life
@@ -685,7 +688,6 @@ and MP3 audio, reels 21, 39, 40. National Archives of Singapore (accession
 no. 000171), 191 – 193, 364 – 375.</p>
 </li>
 </ul>
-<a name="Chapter3"></a>
 <h4>Chapter 3</h4>
 <p>Leaving behind the familiar and embarking on a journey opens up new avenues
 of artistic expression. The culmination of their seven-week journey through
@@ -812,7 +814,7 @@ is the Last Day]." 15 November 1953, 5. (From NewspaperSG)</p>
 November 1953, 5. (From NewspaperSG)</p>
 </li>
 <li>
-<p>De Cruz, Peter. “<a href="•	Nanyang Siang Pau 南洋商报. “Yishu xiehui zhuban sihuajia bali huazhan ding liuri xiawu zai yingwenxie kaimu 艺术协会主办四画家峇厘画展订六日下午在英文协开幕 [Organised by Singapore Art Society, The Bali Exhibition by Four Artists will be Launched in the Afternoon on the Sixth at the British Council]. 3 November 1953, 5. (From NewspaperSG) •	Nanyang Siang Pau 南洋商报. “Liu kang, chen wenxi, chen zongrui, zhong sibin bali huazhan zuori kaimu youcai, labi, fenhua, maobi gong yibaiyuzhen 刘抗、陈文希、陈宗瑞、锺泗滨 峇厘画展昨日开幕 油彩、蜡笔、粉画、毛笔画 共一百余帧 [Bali Exhibition by Liu Kang, Chen Wen Hsi, Chen Chong Swee, and Cheong Soo Pieng Opened Yesterday. More than 100 works in Oil, Conte Crayon, Pastel, and Ink]”. 7 November 1953, 6. (From NewspaperSG) •	Sin Chew Jit Poh 星洲日报. “Liu kang chen zongrui chen wenxi zhong sibin bali huazhan kaimu 刘抗 陈宗瑞 陈文希 锺泗滨 峇厘画展开幕 [Bali Exhibition by Liu Kang, Chen Chong Swee, Chen Wen Hsi and Cheong Soo Pieng Launched]. 7 November 1953, 5. (From NewspaperSG) •	Nanyang Siang Pau 南洋商报. “Benpo sihuajia bali huazhan canguanzhe zhong maitangnashi dinggou shufu 本坡四画家峇厘画展 参观者众 麦唐纳氏订购数幅 [Bali Exhibition by Four Local Artists Attracted Many Visitors. Mr MacDonald Has Ordered Several Works]. 8 November 1953, 6. (From NewspaperSG) •	Sin Chew Jit Poh 星洲日报. “Sihuajia bali huazhan 四画家峇厘画展 [Bali Exhibition by Four Artists]. 8 November 1953, 5. (From NewspaperSG) •	Sin Chew Jit Poh 星洲日报. “Xingsihuajia bali huazhan 星四画家峇厘画展 [Bali Exhibition by Four Singapore Artists]”. 8 November 1953, 12. (From NewspaperSG) •	Nanyang Siang Pau 南洋商报. “Maitangna zhuanyuan re’ai dangdi yishu guli huajia fu shalayue zuohua zuori zaidu xinshang sihuajia bali huazhan ziji xuangou liuzhen hai ni jiao mada goucang 麦唐纳专员热爱当地艺术 鼓励画家赴砂拉越作画 昨日再度欣赏四画家峇厘画展 自己选购六帧还拟呌马大购藏 [High Commissioner MacDonald Loves Local Art. He Encourages Artists to Visit Sarawak to Paint. He Visited the Four Artists’ Bali Exhibition Again Yesterday, Bought Six Artworks and Intended to Ask University of Malaya to Acquire]. 9 November 1953, 5. (From NewspaperSG) •	Sin Chew Jit Poh 星洲日报. “Sijia bali huazhan 四家峇厘画展 [Bali Exhibition by Four Artists]“. 9 November 1953, 5. (From NewspaperSG) •	Nanyang Siang Pau 南洋商报. “Hua shamo wei lüzhou 化沙漠为绿洲 [Turing Desert into Oasis]”. 10 November 1953, 1. (From NewspaperSG) •	The Singapore Free Press. “Four Went to Paint Bali.” 10 November 1953, 5. (From NewspaperSG) •	Nanyang Siang Pau 南洋商报 Nanyang Siang Pau. “Sihuajia bali huihua zhanlanhui canguanzhe xiren zuiduo jinri wei zuihou yitian 四画家 峇厘绘画展览会 参观者西人最多 今日为最后一天 [Bali Exhibition by Four Artists. Most of the Visitors were Caucasians. Today is the Last Day]. 15 November 1953, 5. (From NewspaperSG) •	Sin Chew Jit Poh 星洲日报. “Bali huihua zhanhui jinri zuihou yitian 峇厘绘画展会 今日最后一天 [Bali Painting Exhibition. Today is the Last Day]. 15 November 1953, 5. (From NewspaperSG) •	De Cruz, Peter. “Local Artists at Work.” The Singapore Free Press, 16 November 1953, 8. (From NewspaperSG)" rel="noopener nofollow" target="_blank">Local Artists at Work</a>.” <em>The Singapore Free Press</em>,
+<p>De Cruz, Peter. “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19531116-1.2.31" rel="noopener nofollow" target="_blank">Local Artists at Work</a>.” <em>The Singapore Free Press</em>,
 16 November 1953, 8. (From NewspaperSG)</p>
 </li>
 </ul>
