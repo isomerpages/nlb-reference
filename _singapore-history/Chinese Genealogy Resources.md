@@ -1183,35 +1183,55 @@ information.</p>
 </li>
 </ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 海口市 by 海口市编委会编
+<ul data-tight="true" class="tight">
+<li>
+<p>海口市 by 海口市编委会编
 <br>Call Number: R 951.29 HKS
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84577107</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84577107" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84577107</a>
 </p>
-<p>北京: 中国城市出版社. (1995).(2册)</p>
+<p>出版：北京: 中国城市出版社. (1995).(2册)</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 海澄县志 24卷
+<ul data-tight="true" class="tight">
+<li>
+<p>海澄县志 24卷
 <br>Call Number: RDTYS 951.27 HCH
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84515949</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84515949" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84515949</a>
 </p>
-<p>[出版地缺]: 铜.(1762).</p>
+<p>出版：[出版地缺]: 铜.(1762).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 潮州三阳志辑稿. 潮州三阳图志辑稿 by 陈香白辑校
+<ul data-tight="true" class="tight">
+<li>
+<p>潮州三阳志辑稿. 潮州三阳图志辑稿 by 陈香白辑校
 <br>Call Number: R 951.27 CZS
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12506584</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12506584" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12506584</a>
 </p>
 <p>出版：广东: 中山大学出版社.(1989).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 琼州府志 by 明谊修 、张岳松纂
+<ul data-tight="true" class="tight">
+<li>
+<p>琼州府志 by 明谊修 、张岳松纂
 <br>Call Number: R 951.27 MI
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84496500</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84496500" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84496500</a>
 </p>
-<p>台北:成文出版社.(2册).(1967).</p>
+<p>出版：台北:成文出版社.(2册).(1967).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 琼州志 by 佚名,王国宪编,许崇灏编著
+<ul data-tight="true" class="tight">
+<li>
+<p>琼州志 by 佚名,王国宪编,许崇灏编著
 <br>Call Number: R 951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907399</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907399" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907399</a>
 </p>
-<p>海口:海南出版社.(2006).</p>
+<p>出版：海口:海南出版社.(2006).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 番禺县志 by 禺市地方志编纂委员会[编]
 <br>Call Number: R q951.27 FYX
