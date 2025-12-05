@@ -1393,40 +1393,63 @@ information.</p>
 </li>
 </ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 万历儋州志 by [明]曾邦泰等纂修、[林冠群点校].
+<ul data-tight="true" class="tight">
+<li>
+<p>万历儋州志 by [明]曾邦泰等纂修、[林冠群点校].
 <br>Call Number: R 951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907421</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907421" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907421</a>
 </p>
-<p>海口:海南出版社.(2004).</p>
+<p>出版：海口:海南出版社.(2004).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 一统志琼州府 by 李贤修,蒋廷锡等纂修,和珅等纂修,穆彰阿等纂修.
+<ul data-tight="true" class="tight">
+<li>
+<p>一统志琼州府 by 李贤修,蒋廷锡等纂修,和珅等纂修,穆彰阿等纂修.
 <br>Call Number: R 951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907395</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907395" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907395</a>
 </p>
-<p>海口:海南出版社.(四种).(2006).《大明一统志•琼州府》；《雍正初修大淸一统志•琼州府》；《乾隆续修大淸一统志•琼州府》；《嘉庆重修大淸一统志•琼州府》.</p>
+<p>出版：海口:海南出版社.(四种).(2006).《大明一统志•琼州府》；《雍正初修大淸一统志•琼州府》；《乾隆续修大淸一统志•琼州府》；《嘉庆重修大淸一统志•琼州府》.</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 雍正广东通志 by 郝玉麟等总裁 ; 鲁曾煜总辑
+<ul data-tight="true" class="tight">
+<li>
+<p>雍正广东通志 by 郝玉麟等总裁 ; 鲁曾煜总辑
 <br>Call Number: R 951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907411</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907411" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907411</a>
 </p>
-<p>琼州府,海口: 海南出版社.(2006).</p>
+<p>出版：琼州府,海口: 海南出版社.(2006).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 鹭江春秋: 厦门文史资料选萃 by 厦门市政协文史和学习宣传委员会编
+<ul data-tight="true" class="tight">
+<li>
+<p>鹭江春秋: 厦门文史资料选萃 by 厦门市政协文史和学习宣传委员会编
 <br>Call Number: R 951.245 LJC
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12614997</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12614997" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12614997</a>
 </p>
-<p>北京:中央文献出版社.(2003).</p>
+<p>出版：北京:中央文献出版社.(2003).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 中国地方志辞典 by 黄苇主编
+<ul data-tight="true" class="tight">
+<li>
+<p>中国地方志辞典 by 黄苇主编
 <br>Call Number: R 915.1003 ZGD
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84496604</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84496604" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84496604</a>
 </p>
-<p>合肥: 黄山书社.(1986).</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 中国地方志集成
+<p>出版：合肥: 黄山书社.(1986).</p>
+<p></p>
+</li>
+<li>
+<p>中国地方志集成
 <br>Call Number: R Chinese q951.245 ZGD
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12490612</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12490612" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12490612</a>
 </p>
-<p>福建府县志辑. (2000). 上海:上海书店出版社. (40册)</p>
+<p>出版：福建府县志辑. (2000). 上海:上海书店出版社. (40册)</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 中国地名辞源 by 贾文毓, 李引主编
 <br>Call Number: R 915.10014 ZGD
