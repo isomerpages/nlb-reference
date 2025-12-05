@@ -267,51 +267,81 @@ areas for deeper research on the family's <em>zupu</em> or <em>zongpu</em>.</p>
 <br>
 </p>
 </li>
-</ul>
-<p>·&nbsp; 新加坡社会与华侨华人研究 by 黄松赞
+<li>
+<p>新加坡社会与华侨华人研究 by 黄松赞
 <br>Call Number: R CO 306.095957 HSZ
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12771448</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12771448" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12771448</a>
 </p>
 <p><strong>简介</strong>:</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 本书是作者长期从事新加坡社会及华侨华人研究的一部论文集。内容涉及新加坡政治、经济、社会、文化和教育等方面以及华侨华人问题。较有影响的篇章有：〈试论新马华侨社会的形成和历史分期〉、〈关于新加坡干部政策的研究〉、〈论新加坡独特的民族同化道路〉、〈论新加坡教育配合经济发展的改革及其经验教训〉、〈论华人文化对海外华人经济发展的作用〉和〈论新形势下我国侨务工作的新任务和新对策〉等。</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 读者不容错过的〈代前言〉，值得细读，发人深思。</p>
-<p>&nbsp;</p>
-<p>·&nbsp; 新加坡宗乡会馆出版书刊目录 by 编者黄美萍, 钟伟耀, 林永美
+<ol data-tight="true" class="tight">
+<li>
+<p>本书是作者长期从事新加坡社会及华侨华人研究的一部论文集。内容涉及新加坡政治、经济、社会、文化和教育等方面以及华侨华人问题。较有影响的篇章有：〈试论新马华侨社会的形成和历史分期〉、〈关于新加坡干部政策的研究〉、〈论新加坡独特的民族同化道路〉、〈论新加坡教育配合经济发展的改革及其经验教训〉、〈论华人文化对海外华人经济发展的作用〉和〈论新形势下我国侨务工作的新任务和新对策〉等。</p>
+</li>
+<li>
+<p>读者不容错过的〈代前言〉，值得细读，发人深思。</p>
+</li>
+</ol>
+<p></p>
+</li>
+<li>
+<p>新加坡宗乡会馆出版书刊目录 by 编者黄美萍, 钟伟耀, 林永美
 <br>Call Number: RSING Chinese 016.95957 BIB -[LIB]
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12922844</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12922844" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12922844</a>
 </p>
-<p>新加坡 : 新加坡国家图书馆管理局, 2007
+<p>出版：新加坡 : 新加坡国家图书馆管理局, 2007
 <br><strong>简介</strong>：此目录罗列了收藏在新加坡主要图书馆和资料室的会馆刊物。刊物总类包括：会馆章程、会员名录、纪念特刊、征信录、期刊、族谱、文艺著作与学术论文、宣传会馆的手册、海报、纪念活动光碟、会馆会务报告等。</p>
-<p>&nbsp;</p>
-<p>·&nbsp; 新甲华人史史料考释 by 庄钦永
+<p></p>
+</li>
+<li>
+<p>新甲华人史史料考释 by 庄钦永
 <br>Call Number: R SEA 959.5004951 CDK
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12918041</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12918041" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12918041</a>
 </p>
 <p><strong>简介</strong>:</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 本书为南洋大学学术论丛之10。</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 本书封底介绍说：庄钦永在研究新马华人史方面，另辟蹊径，重视王国维所倡导的“二重据法”，利用地下的新材料，以补正文献材料之不足与错误，或印证纸面材料；特别在史料工作上，庄钦永博士孜孜不倦，寻求实物论据，详如考证。……收录本书中，分碑铭、教育、人物、及出版等编，旁征博引，以丰富、确实的史料佐证，并对有关史实详为考释，有别于一般的历史考据，是为本书的独到之处。</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>本书为南洋大学学术论丛之10。</p>
+</li>
+<li>
+<p>本书封底介绍说：庄钦永在研究新马华人史方面，另辟蹊径，重视王国维所倡导的“二重据法”，利用地下的新材料，以补正文献材料之不足与错误，或印证纸面材料；特别在史料工作上，庄钦永博士孜孜不倦，寻求实物论据，详如考证。……收录本书中，分碑铭、教育、人物、及出版等编，旁征博引，以丰富、确实的史料佐证，并对有关史实详为考释，有别于一般的历史考据，是为本书的独到之处。</p>
+</li>
+</ol>
+</li>
+</ul>
 <p><strong>&nbsp;</strong>
 </p>
-<p>·&nbsp; 新呷华人史新考 by 庄钦永
+<ul data-tight="true" class="tight">
+<li>
+<p>新呷华人史新考 by 庄钦永
 <br>Call Number: R CO 305.895105957 CDK
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84447091</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84447091" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84447091</a>
 </p>
 <p><strong>简介</strong>：</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 本书取资，上自古代史籍，下至里巷传说，荒山孤冢；近取新马印的官方档案，远采中、英、法……国家图书馆的孤本手稿，真是所谓“上穷碧落下黄泉”了。而辨析真伪，取去严谨，不浮夸，不矫枉，不妄论断，不苟阿私。此则章氏（章实斋）所谓“史德”—识、才、德三者本书虽尚未登峰造极，实已具体而微，万里跬步，殆亦庶几。—录自陈铁凡教授序。</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 陈教授序对本书的评论，读者不容错过，可资参考。</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>本书取资，上自古代史籍，下至里巷传说，荒山孤冢；近取新马印的官方档案，远采中、英、法……国家图书馆的孤本手稿，真是所谓“上穷碧落下黄泉”了。而辨析真伪，取去严谨，不浮夸，不矫枉，不妄论断，不苟阿私。此则章氏（章实斋）所谓“史德”—识、才、德三者本书虽尚未登峰造极，实已具体而微，万里跬步，殆亦庶几。—录自陈铁凡教授序。</p>
+</li>
+<li>
+<p>陈教授序对本书的评论，读者不容错过，可资参考。</p>
+</li>
+</ol>
 <p><strong>&nbsp;</strong>
 </p>
-<p>·&nbsp; 新马华人传统与现代的对话 by 李元瑾
+</li>
+<li>
+<p>新马华人传统与现代的对话 by 李元瑾
 <br>Call Number: R CO 305.8951 ETH
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11670590</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11670590" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11670590</a>
 </p>
 <p><strong>简介</strong>:本书各学者对各课题论述了自己的看法，让读者对新马华人的生活和思想观念有更深广的认识和理解。
 <br>
 <br>
 </p>
-<p>·&nbsp; 新马华人国家认同的转向1945-1959 by 崔贵强
+</li>
+<li>
+<p>新马华人国家认同的转向1945-1959 by 崔贵强
 <br>Call Number: R CO 305.895105957 CGQ
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84452353</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84452353" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84452353</a>
 </p>
 <p><strong>简介：</strong>战后的新马华人，在战后经过了不同的发展，处境不同，于是产生了不少历史问题，特别是新加坡脱离大马，建立了新加坡共和国之后，新马华人的遭遇显然不同。本书作者“广泛地应用战后新马出版的华文报章和英国殖民部档案，详述战后新马华人对政治变革的反应，从而解释新马华人对国家认同的转变
 <a rel="noopener noreferrer nofollow" target="_blank">
@@ -319,142 +349,203 @@ areas for deeper research on the family's <em>zupu</em> or <em>zongpu</em>.</p>
 <br>
 </a>
 </p>
-<p>·&nbsp; 新马华人社会与文化 by 黄坚强
+</li>
+<li>
+<p>新马华人社会与文化 by 黄坚强
 <br>Call Number: R SING 959.5004951 XMH
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12677900</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12677900" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12677900</a>
 </p>
 <p><strong>简介</strong>:</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 本书为新马华人专题研究系列（一）。</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 编者在〈序〉中说：这十二篇研究文章，分别由研究生在短短的二、三个月内，从选题和构思，收集材料、整理和分析、到下笔论述，完成整个研究历程。由于时间有限，这十二篇作品不一定是成熟的学术论著。但从另外一个角度而言，它们代表这些研究生的阶段性研究成果。学术研究是点滴累积的，他们的贡献在于对这些研究课题作出初步的研究和论析，供后来者在这些研究基础上更上一层楼。</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>·&nbsp; 新马华人社会史 by 颜清湟
+<ol data-tight="true" class="tight">
+<li>
+<p>本书为新马华人专题研究系列（一）。</p>
+</li>
+<li>
+<p>编者在〈序〉中说：这十二篇研究文章，分别由研究生在短短的二、三个月内，从选题和构思，收集材料、整理和分析、到下笔论述，完成整个研究历程。由于时间有限，这十二篇作品不一定是成熟的学术论著。但从另外一个角度而言，它们代表这些研究生的阶段性研究成果。学术研究是点滴累积的，他们的贡献在于对这些研究课题作出初步的研究和论析，供后来者在这些研究基础上更上一层楼。</p>
+</li>
+</ol>
+<p></p>
+</li>
+<li>
+<p>新马华人社会史 by 颜清湟
 <br>Call Number: R CO 306.095957 YQH
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12614968</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12614968" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12614968</a>
 </p>
 <p><strong>简介</strong>：本书探讨了20世纪以前新加坡、马来西亚华人社会的社会结构及其职能。由于大量史料因战火散失殆尽，作者查阅欧、美、亚、澳几大洲的著名大学藏书并奔颠抄录了寺庙义冢的大量碑铭，就海外华人社会的形成、宗教习俗、宗亲组织、秘密会社、变动冲突、文化认同以及吸鸦片与禁烟、赌博与禁赌、卖淫及控制等多方面问题进行了深入剖析。（摘录自封底）
 <br>
 <br>
 </p>
-<p>·&nbsp; 新马华人史译丛 by 张清江
+</li>
+<li>
+<p>新马华人史译丛 by 张清江
 <br>Call Number: R CO 959.5004951 XMH
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12913079</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12913079" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12913079</a>
 </p>
 <p><strong>简介</strong>:</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 收集本卷中的是作者历年劳动的部分心血结晶。作者细心选择有关著述，所译论文从西方入侵东南亚对华人的影响到地方华人史；华侨华人与中国政治的关联至新马华人在当地的长足发展；以及华侨华人所面对的问题和发展母语文化的艰辛历程等等，其所包含的范围至为宽广，亦十分注重论述的精深度。这是张清江在学术翻译工作上的非凡成就与贡献，在促进新马华侨华人历史研究与交流方面，发挥了学术桥梁的重大作用。—录自原书封底的说明。</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 这是南洋大学学术论丛之3。</p>
-<p>
-<br>
-</p>
-<p>·&nbsp; 新马华族领导层的探索 by 杨进发
+<ol data-tight="true" class="tight">
+<li>
+<p>收集本卷中的是作者历年劳动的部分心血结晶。作者细心选择有关著述，所译论文从西方入侵东南亚对华人的影响到地方华人史；华侨华人与中国政治的关联至新马华人在当地的长足发展；以及华侨华人所面对的问题和发展母语文化的艰辛历程等等，其所包含的范围至为宽广，亦十分注重论述的精深度。这是张清江在学术翻译工作上的非凡成就与贡献，在促进新马华侨华人历史研究与交流方面，发挥了学术桥梁的重大作用。—录自原书封底的说明。</p>
+</li>
+<li>
+<p>这是南洋大学学术论丛之3。</p>
+</li>
+</ol>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>新马华族领导层的探索 by 杨进发
 <br>Call Number: R CO 959.5004951 YCF
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12922778</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12922778" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12922778</a>
 </p>
 <p><strong>简介</strong>:</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 本书是南洋大学学术论丛之6。</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 本书为“杨进发博士细致而深入的挖掘，以丰实的档案资料，以庖丁解牛之技，从十九世纪初起至二十世纪中，条理分明地为新马华社发轫至殖民地时代一百五十年来的华社领导层，脉络分明地作系统性的阐释。”（相关的著作，可参考《战前星华社会结构与领导层初探》和《新加坡殖民地时期的华社领导层》。）</p>
-<p>
-<br>
-</p>
-<p>·&nbsp; 新马华族史料文献汇目 by 郑良树
+<ol data-tight="true" class="tight">
+<li>
+<p>本书是南洋大学学术论丛之6。</p>
+</li>
+<li>
+<p>本书为“杨进发博士细致而深入的挖掘，以丰实的档案资料，以庖丁解牛之技，从十九世纪初起至二十世纪中，条理分明地为新马华社发轫至殖民地时代一百五十年来的华社领导层，脉络分明地作系统性的阐释。”（相关的著作，可参考《战前星华社会结构与领导层初探》和《新加坡殖民地时期的华社领导层》。）</p>
+</li>
+</ol>
+<p></p>
+</li>
+<li>
+<p>新马华族史料文献汇目 by 郑良树
 <br>Call Number: R CO 016.95957 TLS-[LIB]
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84555455</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84555455" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84555455</a>
 </p>
 <p><strong>简介</strong>:本书为编者将收集到新马两地华族的史料和文献，经整理，归纳和编辑而成。共收约一千两百目，按内容分五大类：社团特刊（为数最多）/家谱族谱/个人传记/埋葬记录及其他文献。部分汇目除件名外，也有“典藏”一项，说明该文献的典藏处。
 <br>
 <br>
 </p>
-<p>·&nbsp; 新马华族文史论丛 by 陈荣照
+</li>
+<li>
+<p>新马华族文史论丛 by 陈荣照
 <br>Call Number: R SING 959.5004951 ESS
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84579929</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84579929" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84579929</a>
 </p>
-<p><strong>简介</strong>陈荣照〈导言〉说：本论文集的编纂与出版出于双重目的—在深化对新马华族本土化研究的同时，加强本地学者与海外同仁的对话，并试图通过这种对话来加深我们对东南亚华族整体的文化与历史发展道路的理解和认识。又说：本论集共收入十一篇文章。从学科上讲，它们大致可以分为三类：其一是文学史，其二是社会经济史，其三是文化（尤其是报业）史。
+<p><strong>简介: </strong>陈荣照〈导言〉说：本论文集的编纂与出版出于双重目的—在深化对新马华族本土化研究的同时，加强本地学者与海外同仁的对话，并试图通过这种对话来加深我们对东南亚华族整体的文化与历史发展道路的理解和认识。又说：本论集共收入十一篇文章。从学科上讲，它们大致可以分为三类：其一是文学史，其二是社会经济史，其三是文化（尤其是报业）史。
 <br>
 <br>
 </p>
-<p>·&nbsp; 星马的开发与华族移民 by 南洋大学历史系
+</li>
+<li>
+<p>星马的开发与华族移民 by 南洋大学历史系
 <br>Call Number: R CLOS 959.57 NAN
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84552129</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84552129" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84552129</a>
 </p>
 <p><strong>简介</strong>：本书以闽粤移民为调查对象，探讨他们从中国南来的背景和侨乡的情况，也对他们南来的原因和南来后的生活进行了分析。另外，书中也对新加坡和泰国华族移民进行了比较。
 <br>
 <br>
 </p>
-<p>·&nbsp; 星马华人民族意识探讨 by 钟锡金
+</li>
+<li>
+<p>星马华人民族意识探讨 by 钟锡金
 <br>Call Number: R SING 959.57 ZXJ-[HIS]
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84512682</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84512682" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84512682</a>
 </p>
 <p><strong>简介</strong>：本书以华人民族意识为出发点，探讨几个与此有关的课题，有助了解新马两地华族历史过程和精神面貌。
 <br>
 </p>
-<p></p>
-<p>·&nbsp; 星马华人与辛亥革命 by 颜清湟著，李恩涵
+</li>
+<li>
+<p>星马华人与辛亥革命 by 颜清湟著，李恩涵
 <br>Call Number: R SING 301.451951095957 YCH
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84473276</a><strong><a rel="noopener noreferrer nofollow" target="_blank">简介</a></strong>:</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 本书主要讨论1900年至1911年间新加坡与马来西亚各地华侨所参与的反清革命运动之渊源及其发展，并论述这股力量如何发展成外海外华侨革命运动的主流。此外，本书也对新加坡和马来西亚各地华侨对国内的反满运动的反应加以分析，并讨论两地华侨对推翻满清政府所作出的贡献。</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 附有珍贵图片多帧。</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 读者不容错过各篇序文和前言，很有参考价值。</p>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84473276" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84473276</a>
+</p>
+<p><strong>简介:</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>本书主要讨论1900年至1911年间新加坡与马来西亚各地华侨所参与的反清革命运动之渊源及其发展，并论述这股力量如何发展成外海外华侨革命运动的主流。此外，本书也对新加坡和马来西亚各地华侨对国内的反满运动的反应加以分析，并讨论两地华侨对推翻满清政府所作出的贡献。</p>
+</li>
+<li>
+<p>附有珍贵图片多帧。</p>
+</li>
+<li>
+<p>读者不容错过各篇序文和前言，很有参考价值。</p>
+</li>
+</ol>
 <p></p>
-<p>·&nbsp; 宣尼浮海到南洲：儒家思想与早期新加坡华人社会史料汇编 by 梁元生
+</li>
+<li>
+<p>宣尼浮海到南洲：儒家思想与早期新加坡华人社会史料汇编 by 梁元生
 <br>Call Number: R SING 306.4095957 LYS
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12575651</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12575651" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12575651</a>
 </p>
 <p><strong>简介</strong>：本书是通过历史资料，说明中国传统文化（尤其是儒家思想）在早期新加坡的传播情况，以及儒家思想与华人社会发展之关系。（节录自封底）
 <br>
 </p>
-<p>·&nbsp; 战前星华社会结构与领导层初探 by 杨进发
+</li>
+<li>
+<p>战前星华社会结构与领导层初探 by 杨进发
 <br>Call Number: R SING 301.45195105957 YCF
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84474002</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84474002" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84474002</a>
 </p>
 <p><strong>简介</strong>：本书共收录十九篇有关战前星华社会结构（如社团、政党等）与领导层问题之文章。此外，本书也探讨华族社会组织的控制对领导人物所领导的社团和活动的影响。
 <br>
 <br>
 </p>
-<p>·&nbsp; A social history of the Chinese in Singapore and Malaya 1800-1911
-by Yen Ching-hwang
+</li>
+<li>
+<p>A social history of the Chinese in Singapore and Malaya 1800-1911 by Yen
+Ching-hwang
 <br>Call Number: RSING 301.45195105957 YEN</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">eservice.nlb.gov.sg/item_holding_s.aspx?bid=4182822<br></a>Singapore:
+<p><a href="eservice.nlb.gov.sg/item_holding_s.aspx?bid=4182822" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4182822<br></a>Singapore:
 Oxford University Press 1986</p>
 <p>Provides information on ninetheenth century Chinese community in Singapore
 and Malaysia, especially on the social institutions and structure. This
 includes clan associations, secret societies, temple committees, and class
 relations. Large amount of primary resources used.</p>
-<p>&nbsp;</p>
-<p>·&nbsp; Chinatown: an album of a Singapore community by Archives and Oral
-History Department
+<p></p>
+</li>
+<li>
+<p>Chinatown: an album of a Singapore community by Archives and Oral History
+Department
 <br>Call Number: RSING 779.995957 CHI</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">eservice.nlb.gov.sg/item_holding_s.aspx?bid=3213762<br></a>Singapore:
-Times Books International: Archives and Oral History Department 1983
-<br>A pictorial publication with detailed information about Chinatown in Singapore,
+<p><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=3213762" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=3213762<br></a>Singapore:
+Times Books International: Archives and Oral History Department 1983</p>
+<p>A pictorial publication with detailed information about Chinatown in Singapore,
 down to the street-level. The book shares photographs, blue prints of well-known
 buildings, town plans, giving clear historical information on the characteristics
 of each street in the Chinatown area.</p>
-<p>&nbsp;</p>
-<p>·&nbsp; History of the Chinese clan associations in Singapore
+<p></p>
+</li>
+<li>
+<p>History of the Chinese clan associations in Singapore
 <br>Call Number: RSING 959.57 HIS - [HIS]</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">eservice.nlb.gov.sg/item_holding_s.aspx?bid=</a> 4758114
+<p><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4758114" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4758114 </a>
 <br>Publication Date: Singapore: Singapore News &amp; Publications 1986</p>
 <p>A pictorial book about the history and evolution of the clan associations
 in Singapore.</p>
-<p>&nbsp;</p>
-<p>·&nbsp; Rickshaw coolie: a people's history of Singapore 1880 - 1940 by
-James Frabcis Warren
+<p></p>
+</li>
+<li>
+<p>Rickshaw coolie: a people's history of Singapore 1880 - 1940 by James
+Frabcis Warren
 <br>Call Number: RSING 388.341 WAR</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">eservice.nlb.gov.sg/item_holding_s.aspx?bid=</a> 204357917
-<br>Singapore: Singapore University Press 2003
-<br>The book chronicles the vast movement of coolies between China and the
+<p><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=204357917" rel="noopener nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=204357917 </a>
+<br>Singapore: Singapore University Press 2003</p>
+<p>The book chronicles the vast movement of coolies between China and the
 Nanyang, and their struggles to survive in colonial Singapore. It focuses
 on the particular occupation of rickshaw coolies, unveiling the disjunctions
 betwwen colonial order and the reality. Coroner's records were used for
 the research in this book.</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp; The encyclopedia of the Chinese overseas by Lynn Pan
+<ul data-tight="true" class="tight">
+<li>
+<p>The encyclopedia of the Chinese overseas by Lynn Pan
 <br>Call Number: RSING 304.80951 ENC</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">eservice.nlb.gov.sg/item_holding_s.aspx?bid=</a> 12793280
-<br>Singapore: Editions Didier Millet 2006
-<br>A quick reference source on the history of the Chinese overseas. Provides
+<p><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12793280" rel="noopener nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12793280</a> 
+<br>Singapore: Editions Didier Millet 2006</p>
+<p>A quick reference source on the history of the Chinese overseas. Provides
 a general overview.</p>
-<h3><strong>本馆馆藏内的家谱书目</strong></h3>
+</li>
+</ul>
+<h2><strong>本馆馆藏内的家谱书目</strong></h2>
 <p><strong>目录书籍</strong>
 </p>
 <p>中国境内收藏南方家族的主要图书目录</p>
