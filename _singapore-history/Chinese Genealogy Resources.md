@@ -1940,46 +1940,69 @@ background, achievements and official appointments if they are in the bureaucrac
 </li>
 </ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 宁乡南塘刘氏四修族谱 by 责任编辑, 陈湛绮
+<ul data-tight="true" class="tight">
+<li>
+<p>宁乡南塘刘氏四修族谱 by 责任编辑, 陈湛绮
 <br>Call Number: R Chinese q929.20951 NXN
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11926437</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11926437" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11926437</a>
 </p>
 <p>出版：北京 : 全国图书馆文献缩微复制中心, 2002
 <br>丛书: 湖南名人家谱丛刊</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 台湾文献汇刊(第3辑. 闽台民间关系族谱专辑(20册)) by
-主编陈支平
+<ul data-tight="true" class="tight">
+<li>
+<p>台湾文献汇刊(第3辑. 闽台民间关系族谱专辑(20册)) by 主编陈支平
 <br>Call Number: R Chinese q951.249 TWW
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12534800</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12534800" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12534800</a>
 </p>
 <p>出版：北京 : 厦门 : 九州出版社 ; 厦门大学出版社, 2004.</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 世界李氏宗谱
+<ul data-tight="true" class="tight">
+<li>
+<p>世界李氏宗谱
 <br>Call Number: R Chinese 929.1 SJL
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84559699</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84559699" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84559699</a>
 </p>
 <p>出版：台北：世界李氏宗亲总会宗谱纂修委员会，1979</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 陈埭丁氏回族宗谱 by 庄景辉编校
+<ul data-tight="true" class="tight">
+<li>
+<p>陈埭丁氏回族宗谱 by 庄景辉编校
 <br>Call Number: R Chinese q929.20951 ZJH
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12440598</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12440598" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12440598</a>
 </p>
 <p>出版：香港 : 绿叶教育出版社, 1996.
 <br>页数：600</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 海南陈氏谱 by 主编陈开岩 ; 总编辑陈传汉
+<ul data-tight="true" class="tight">
+<li>
+<p>海南陈氏谱 by 主编陈开岩 ; 总编辑陈传汉
 <br>Call Number: R Chinese 929.20951 HNC
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13167045</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13167045" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13167045</a>
 </p>
 <p>出版：海口 : 海南颖川实业公司, 1998.
 <br>页数：308</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 百奇郭氏回族宗谱 by 《百奇郭氏回族宗谱》编委会重修.
+<ul data-tight="true" class="tight">
+<li>
+<p>百奇郭氏回族宗谱 by 《百奇郭氏回族宗谱》编委会重修.
 <br>Call Number: R Chinese q929.20951 BQG
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12539219</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12539219" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12539219</a>
 </p>
 <p>出版：百奇郭氏回族宗谱编委会， 200-
 <br>册数：3</p>
+</li>
+</ul>
 <h3><strong>族谱, 家谱 (新加坡)</strong></h3>
 <p>·邝氏族谱 by 邝氏公会族谱委员会编
 <br>Call Number: RSING Chinese 929.1 KWO
