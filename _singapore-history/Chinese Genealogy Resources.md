@@ -1383,11 +1383,15 @@ information.</p>
 </li>
 </ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 万历琼州府志 by 戴熺、欧阳灿总裁、蔡光前等纂修
+<ul data-tight="true" class="tight">
+<li>
+<p>万历琼州府志 by 戴熺、欧阳灿总裁、蔡光前等纂修
 <br>Call Number: R 951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907375</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907375" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907375</a>
 </p>
-<p>海口: 海南出版社. (2册) (2003)</p>
+<p>出版：海口: 海南出版社. (2册) (2003)</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 万历儋州志 by [明]曾邦泰等纂修、[林冠群点校].
 <br>Call Number: R 951.29 HND
