@@ -1795,109 +1795,150 @@ background, achievements and official appointments if they are in the bureaucrac
 <br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84447085" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84447085</a>
 </p>
 <p>出版: 台北: 中华文化出版事业委员会.(1955).</p>
+<p></p>
 </li>
 </ul>
-<p><strong>族谱、家谱（中港台）</strong>
-</p>
-<p>· 西河九龙族谱 by 孙中乔
+<h4><strong>族谱、家谱（中港台）</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>西河九龙族谱 by 孙中乔
 <br>Call Number: RDTYS Chinese 929.20951 SCC
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84504505</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84504505" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84504505</a>
 </p>
 <p>出版：无版地 : 吧双留真印务, 1931.
 <br>页数：182</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·广东河婆刘氏族谱新编 by 刘伯奎编
+<ul data-tight="true" class="tight">
+<li>
+<p>广东河婆刘氏族谱新编 by 刘伯奎编
 <br>Call Number: RCLOS Chinese 929.1 GEN issue Oct1980
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84552362</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84552362" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84552362</a>
 </p>
 <p>出版：古晋 : 刘伯奎, 1980.
 <br>
 </p>
-<p>·福建晋江石龟瑶林许氏族谱 by 许氏族谱资料珍藏室重修 ; 许嘉立书.
+</li>
+<li>
+<p>福建晋江石龟瑶林许氏族谱 by 许氏族谱资料珍藏室重修 ; 许嘉立书.
 <br>Call Number: R Chinese 929.1 FJJ
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84528396</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84528396" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84528396</a>
 </p>
 <p>出版：板桥 : 许氏族谱资料珍藏室, 1987.
 <br>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 中华族谱集成 by 《中华族谱集成》编委会
+</li>
+<li>
+<p>中华族谱集成 by 《中华族谱集成》编委会
 <br>Call Number: R Chinese q929.351 ZHZ
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9717066</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9717066" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9717066</a>
 </p>
 <p>出版：成都 : 巴蜀书社, 1995.
 <br>内容：万姓统谱(2册) -- 李氏谱卷(20册) -- 王氏谱卷(20册) -- 张氏谱卷(20册) -- 刘氏谱卷(18册) - 陈氏谱卷(20册).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 福建族谱 by 陈支平
+<ul data-tight="true" class="tight">
+<li>
+<p>福建族谱 by 陈支平
 <br>Call Number: R Chinese 929.20951245 CZP
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84592823</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84592823" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84592823</a>
 </p>
 <p>出版：福州 : 福建人民出版社, 1996
 <br>丛书：福建文化丛书
 <br>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 广西容县岑溪成氏宗族源流谱 by 广西容县成氏族谱编辑委员会
+</li>
+<li>
+<p>广西容县岑溪成氏宗族源流谱 by 广西容县成氏族谱编辑委员会
 <br>Call Number: R Chinese 959.20951 GXR
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12858581</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12858581" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12858581</a>
 </p>
 <p>出版：1997
 <br>
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 西螺埔心程氏族谱 by 程大学编
+</p>
+</li>
+<li>
+<p>螺埔心程氏族谱 by 程大学编
 <br>Call Number: R Chinese 929.20951 XLP
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12103217</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12103217" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12103217</a>
 </p>
 <p>出版：台北 : 国立中央图书馆, 1998
 <br>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 泉州桃源庄氏族谱汇编 by 《泉州桃源庄氏族谱汇编》编篡委员会编
+</li>
+<li>
+<p>泉州桃源庄氏族谱汇编 by 《泉州桃源庄氏族谱汇编》编篡委员会编
 <br>Call Number: R Chinese q929.20951 QZT
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12276602</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12276602" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12276602</a>
 </p>
 <p>出版：厦门 : 厦门大学出版社, 1999
 <br>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 族谱 : 华南汉族的宗族、风水、移居 by 濑川昌久 ; 钱杭译
+</li>
+<li>
+<p>族谱 : 华南汉族的宗族、风水、移居 by 濑川昌久 ; 钱杭译
 <br>Call Number: R Chinese 929.3512072 SEG
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9653339</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9653339" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9653339</a>
 </p>
 <p>出版：上海 : 上海书店, 1999
 <br>
 </p>
-<p>· 韶山毛氏族谱 by 责任编辑, 姜亚沙
+</li>
+<li>
+<p>韶山毛氏族谱 by 责任编辑, 姜亚沙
 <br>Call Number: R Chinese q929.20951 SSM
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11926442</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11926442" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11926442</a>
 </p>
 <p>出版：北京 : 全国图书馆文献缩微复制中心, 2002
 <br>丛书：湖南名人家谱丛刊
 <br>
 <br>
 </p>
-<p>·醴陵何氏五修族谱
+</li>
+<li>
+<p>醴陵何氏五修族谱
 <br>Call Number: R Chinese q929.20951 LLH
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11926441</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11926441" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11926441</a>
 </p>
 <p>出版：北京 : 全国图书馆文献缩微复制中心, 2002
 <br>丛书：湖南名人家谱丛刊</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 资江陶氏七续族谱提本 by 责任编辑, 陈湛绮
+<ul data-tight="true" class="tight">
+<li>
+<p>资江陶氏七续族谱提本 by 责任编辑, 陈湛绮
 <br>Call Number: R Chinese q929.20951 ZJT
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11926444</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11926444" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11926444</a>
 </p>
 <p>出版：北京 : 全国图书馆文献缩微复制中心, 2002
 <br>丛书：湖南名人家谱丛刊</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 湘乡九溪彭氏族谱
+<ul data-tight="true" class="tight">
+<li>
+<p>湘乡九溪彭氏族谱
 <br>Call Number: R Chinese q929.20951 XXJ
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11926436</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11926436" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11926436</a>
 </p>
 <p>出版：北京 : 全国图书馆文献缩微复制中心, 2002
 <br>册数：8
 <br>丛书：湖南名人家谱丛刊</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 李报本堂族谱 by 责任编辑, 经莉
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11548029</a>
+<ul data-tight="true" class="tight">
+<li>
+<p>李报本堂族谱 by 责任编辑, 经莉
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11548029" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11548029</a>
 </p>
 <p>出版：北京 : 全国图书馆文献缩微复制中心, 2002
 <br>册数：8
 <br>丛书：湖南名人家谱丛刊</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 宁乡南塘刘氏四修族谱 by 责任编辑, 陈湛绮
 <br>Call Number: R Chinese q929.20951 NXN
