@@ -587,14 +587,21 @@ a general overview.</p>
 <li>
 <p>中国家谱综合目录 by 国家档案局二处、南开大学历史系、中国社会科学院历史所图书馆编.
 <br>Call Number: R Chinese q929.10951 ZGJ
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84594236</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84594236" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84594236</a>
 </p>
+<p>出版：北京 : 中华书局, 1997
+<br><strong>简介： </strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>本书收录了中国大陆图书馆、文化馆、文管会、博物馆、纪念馆、档案馆等单位所藏家谱目录，另外还转录了《全国古籍善本书目》、《台湾地区家谱目录》、《宗谱之研究》（日本）、《美国家谱协会收藏中国家谱目录》等家谱目录所收条目。</p>
+</li>
+<li>
+<p>本书共收录1949年以前的中国家谱目录14719条。该书所收条目按姓氏笔划编排，著录书名与卷数、纂修朝代与纂修人、纂修时间、出版时间、版本、册数、藏书单位以及备注等项目。书后附“地区索引”和“报送目录单位名单。”这是迄今反映中国家谱收藏状况最重要的一部书目。</p>
+</li>
+</ol>
 </li>
 </ul>
-<p>出版：北京 : 中华书局, 1997
-<br>简介：
-<br>1.本书收录了中国大陆图书馆、文化馆、文管会、博物馆、纪念馆、档案馆等单位所藏家谱目录，另外还转录了《全国古籍善本书目》、《台湾地区家谱目录》、《宗谱之研究》（日本）、《美国家谱协会收藏中国家谱目录》等家谱目录所收条目。
-<br>2.本书共收录1949年以前的中国家谱目录14719条。该书所收条目按姓氏笔划编排，著录书名与卷数、纂修朝代与纂修人、纂修时间、出版时间、版本、册数、藏书单位以及备注等项目。书后附“地区索引”和“报送目录单位名单。”这是迄今反映中国家谱收藏状况最重要的一部书目。</p>
 <h3><strong>各地区, 籍贯史料, 姓氏史料</strong></h3>
 <p>华人姓氏达上百种，起源各异。下列所选书籍包括姓氏辞典和个别阐释某个姓氏的渊源、改姓氏族群最早的栖居处、迁徙的历史沿革及各别姓氏的名人事迹。</p>
 <p>The origins of each Chinese surname are unique to that respective surname.
@@ -603,30 +610,47 @@ places of origin, their migratory paths over the ages and famous ancestors
 of that surname. Quick reference materials such as dictionaries of Chinese
 surnames, also provide the same information in a succinct way, are also
 listed below.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 华侨陈氏先贤列传 by 陈说义
+<ul data-tight="true" class="tight">
+<li>
+<p>华侨陈氏先贤列传 by 陈说义
 <br>Call Number: RDTYS 920.051 CSI
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84446365</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84446365" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84446365</a>
 </p>
-<p>台北: 海外文库出版社.(1959).</p>
+<p>出版：台北: 海外文库出版社.(1959).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 客家史料汇篇 by 罗香林
+<ul data-tight="true" class="tight">
+<li>
+<p>客家史料汇篇 by 罗香林
 <br>Call Number: R Chinese 929.30951 LXL
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9767192</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9767192" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9767192</a>
 </p>
 <p>出版：台北 : 南天书局, 1992</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 泉州谱牒华侨史料与研究 by 主编庄为玑, 郑山玉 ; 副主编李天锡,
-林少川, 白晓东.
+<ul data-tight="true" class="tight">
+<li>
+<p>泉州谱牒华侨史料与研究 by 主编庄为玑, 郑山玉 ; 副主编李天锡, 林少川, 白晓东.
 <br>Call Number: RCO Chinese 909.04951 QZP
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12311485</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12311485" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12311485</a>
 </p>
 <p>出版：北京 : 中国华侨出版社, 1998</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 王氏族姓史料类编 by 鲍国强、杜海华、王佩瑶主编
+<ul data-tight="true" class="tight">
+<li>
+<p>王氏族姓史料类编 by 鲍国强、杜海华、王佩瑶主编
 <br>Call Number: R q929.20951 WSZ
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11897094</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11897094" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11897094</a>
 </p>
-<p>北京: 中华全国图书馆文献缩微复制中心.(2000)</p>
+</li>
+<li>
+<p>出版：北京: 中华全国图书馆文献缩微复制中心.(2000)</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 中华姓氏谱. 高姓卷 by 陈国灿、范平、刘学峰著
 <br>Call Number: R 929.42 CGC
