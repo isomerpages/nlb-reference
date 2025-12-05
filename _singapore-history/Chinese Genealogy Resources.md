@@ -786,90 +786,145 @@ information.</p>
 </li>
 </ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 嘉善县志 by 嘉善县志编纂委员会编
+<ul data-tight="true" class="tight">
+<li>
+<p>嘉善县志 by 嘉善县志编纂委员会编
 <br>Call Number: R 951.242 JSX
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84577511</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84577511" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84577511</a>
 </p>
-<p>[上海]: 生活。读书。新知三联书店上海分店.(1995).</p>
+<p>出版：[上海]: 生活。读书。新知三联书店上海分店.(1995).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 嘉庆澄迈县志 by 谢济韶修、李光先纂
+<ul data-tight="true" class="tight">
+<li>
+<p>嘉庆澄迈县志 by 谢济韶修、李光先纂
 <br>Call Number: R 951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907418</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907418" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907418</a>
 </p>
-<p>海口:海南出版社.(2004)</p>
+<p>出版：海口:海南出版社.(2004)</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 嘉靖广东通志琼州府
+<ul data-tight="true" class="tight">
+<li>
+<p>嘉靖广东通志琼州府
 <br>Call Number: R 951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907419</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907419" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907419</a>
 </p>
 <p>(二种).戴璟修、 张岳等纂. (2006).《嘉靖广东通志初稿•琼州府》、黃佐纂修. (2006). 《嘉靖广东通志•琼州府》. 海口:
 海南出版社.</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 地理志海南:(六种) by 乐史等编著
+<ul data-tight="true" class="tight">
+<li>
+<p>地理志海南:(六种) by 乐史等编著
 <br>Call Number: R 951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907397</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907397" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907397</a>
 </p>
 <p>《太平寰宇集记•海南》、《元丰九域志•海南》、《方舆胜览•海外四州》、《舆地几胜•海南》、《古今图书集成•琼洲府部》、《古今图书集成•广东黎人岐人部》.
 海口: 海南出版社.(2006)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 客都梅州 by 叶小华、谭元亨、管雅编著
+<p></p>
+</li>
+<li>
+<p>客都梅州 by 叶小华、谭元亨、管雅编著
 <br>Call Number: R 951.275 YXH
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12793934</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12793934" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12793934</a>
 </p>
-<p>广州:华南理工大学出版社.(2006).</p>
+<p>出版：广州:华南理工大学出版社.(2006).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 宣统定安乡土志 by 宋席珍纂
+<ul data-tight="true" class="tight">
+<li>
+<p>宣统定安乡土志 by 宋席珍纂
 <br>Call Number: R 951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907374</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907374" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907374</a>
 </p>
-<p>海口:海南出版社.</p>
+<p>出版：海口:海南出版社.</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 广东通史. 古代 by 方志钦, 蒋祖缘主编
+<ul data-tight="true" class="tight">
+<li>
+<p>广东通史. 古代 by 方志钦, 蒋祖缘主编
 <br>Call Number: R 951.27 GDT
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84576582</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84576582" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84576582</a>
 </p>
-<p>[广州]: 广东高等教育出版社.(1996)</p>
+<p>出版：[广州]: 广东高等教育出版社.(1996)</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 广东通志
+<ul data-tight="true" class="tight">
+<li>
+<p>广东通志
 <br>Call Number: RDTYS 951.27 KTT
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84487139</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84487139" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84487139</a>
 </p>
-<p>上海 : 商务印书馆. (5册) (1934)</p>
+<p>出版：上海 : 商务印书馆. (5册) (1934)</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 广东通志稿 by 清•朱庆澜、梁鼎芬、邹鲁等编
+<ul data-tight="true" class="tight">
+<li>
+<p>广东通志稿 by 清•朱庆澜、梁鼎芬、邹鲁等编
 <br>Call Number: R q951.27 GDT
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10905326</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10905326" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10905326</a>
 </p>
-<p>北京:中华全国图书馆文献缩微复制中.(2001).(5册).</p>
+<p>出版：北京:中华全国图书馆文献缩微复制中.(2001).(5册).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 广州市志 by 广州市地方志编纂委员会编
+<ul data-tight="true" class="tight">
+<li>
+<p>州市志 by 广州市地方志编纂委员会编
 <br>Call Number: R q951.27 GZS
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12099261</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12099261" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12099261</a>
 </p>
-<p>广州: 广州出版社. (23册) (1995-2000)</p>
+<p>出版：广州: 广州出版社. (23册) (1995-2000)</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 广州百科全书 by 广州百科全书编纂委员会编
+<ul data-tight="true" class="tight">
+<li>
+<p>广州百科全书 by 广州百科全书编纂委员会编
 <br>Call Number: R 951.2 GZB
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84467953</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84467953" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84467953</a>
 </p>
-<p>北京: 中国大百科全书出版社.(1994)</p>
+<p>出版：北京: 中国大百科全书出版社.(1994)</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 康熙万州志 by 李琰纂修,胡端书总修,杨士锦,吴鸣淸纂
+<ul data-tight="true" class="tight">
+<li>
+<p>康熙万州志 by 李琰纂修,胡端书总修,杨士锦,吴鸣淸纂
 <br>Call Number: R 951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907451</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907451" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907451</a>
 </p>
-<p>《道光万州志》.海口:海南出版社.(2004).</p>
+<p>出版：《道光万州志》.海口:海南出版社.(2004).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 康熙临高县志 by 樊庶纂修,许朝瑞采辑
+<ul data-tight="true" class="tight">
+<li>
+<p>康熙临高县志 by 樊庶纂修,许朝瑞采辑
 <br>Call Number: R 951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907454</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907454" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907454</a>
 </p>
-<p>民国临高采访冊. 海口: 海南出版社. (2004)</p>
+<p>出版：民国临高采访冊. 海口: 海南出版社. (2004)</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 康熙乐会县志: 康熙八年本
+<ul data-tight="true" class="tight">
+<li>
+<p>康熙乐会县志: 康熙八年本
 <br>Call Number: R 951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907449</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907449" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907449</a>
 </p>
-<p>林子兰总辑、陈宗琛等纂.《康熙乐会县志: 康熙二十六年本》；程秉慥纂修《宣统乐会县志》.林大华等纂修.海口:海南出版社.(2006)</p>
+<p>出版：林子兰总辑、陈宗琛等纂.《康熙乐会县志: 康熙二十六年本》；程秉慥纂修《宣统乐会县志》.林大华等纂修.海口:海南出版社.(2006)</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 康熙儋州志 by [淸]韩祐重修; [林冠群点校]
 <br>Call Number: R 951.29 HND
