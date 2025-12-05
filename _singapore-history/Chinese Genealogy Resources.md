@@ -2101,40 +2101,59 @@ background, achievements and official appointments if they are in the bureaucrac
 </li>
 </ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 海南鲤跳陈氏族谱 by 主编陈业雄
+<ul data-tight="true" class="tight">
+<li>
+<p>海南鲤跳陈氏族谱 by 主编陈业雄
 <br>Call Number: RSING Chinese q929.20951 HNL
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12239051</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12239051" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12239051</a>
 </p>
 <p>出版：新加坡：鲤跳陈氏宗祠, 2003
 <br>页数：335</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 黄氏家谱 by 新加坡广东黄氏互助社
+<ul data-tight="true" class="tight">
+<li>
+<p>黄氏家谱 by 新加坡广东黄氏互助社
 <br>Call Number: RCLOS Chinese 929.20951 HSJ
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12840571</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12840571" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12840571</a>
 </p>
 <p>出版：新加坡 : 新加坡广东黄氏互助社, 1950
 <br>页数：350</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 王氏开宗百世录 by 王秀南主撰，新加坡开闽王氏总会
+<ul data-tight="true" class="tight">
+<li>
+<p>王氏开宗百世录 by 王秀南主撰，新加坡开闽王氏总会
 <br>Call Number: RSING Chinese 369.25957 SIN
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84484131</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84484131" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84484131</a>
 </p>
 <p>出版：Singapore : Hokkien Ong Clansmen General Association, 1971</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 王氏立姓开族百世谱 : 暨海内外王氏宗亲会联谊录 by 海内外王氏宗亲会联合编修
-; 王秀南主纂
+<ul data-tight="true" class="tight">
+<li>
+<p>王氏立姓开族百世谱 : 暨海内外王氏宗亲会联谊录 by 海内外王氏宗亲会联合编修 ; 王秀南主纂
 <br>Call Number: RSING Chinese 929.1 GEN
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84552278</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84552278" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84552278</a>
 </p>
 <p>出版：新加坡 : 新加坡开闽王氏总会, 1982</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 嵋山田内吕氏家谱
+<ul data-tight="true" class="tight">
+<li>
+<p>嵋山田内吕氏家谱
 <br>Call Number: R Chinese 929.20951 MST
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84450507</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84450507" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84450507</a>
 </p>
 <p>出版：新加坡 : 新加坡吕氏公会, 1994.
 <br>页数：478
 <br>丛书：吕氏史料丛书</p>
+</li>
+</ul>
 <h3><strong>族谱, 家谱 (马来西亚)</strong></h3>
 <p>·马来西亚槟城北马六槁林氏公会庆祝成立第十五周年紀念暨上街林氏宗亲族谱特刊, 公元一九六四年至一九七八年
 <br>Call Number: RSEA Chinese q369.25951 MLX
