@@ -546,25 +546,42 @@ a general overview.</p>
 </li>
 </ul>
 <h2><strong>本馆馆藏内的家谱书目</strong></h2>
-<p><strong>目录书籍</strong>
-</p>
+<h3><strong>目录书籍</strong></h3>
 <p>中国境内收藏南方家族的主要图书目录</p>
 <p>Select catalogues showing the genealogies of Southern Chinese</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 馆藏广东族谱目录 by 张世泰, 冯伟勋, 倪俊明编
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>馆藏广东族谱目录 by 张世泰, 冯伟勋, 倪俊明编
 <br>Call Number: R Chinese 016.92920951 GCG -[LIB]
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12555993</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12555993" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12555993</a>
 </p>
 <p>出版：广东省中山图书馆历史文献部, 1986.
 <br>页数：151</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 上海图书馆馆藏家谱提要 by 上海图书馆编、王鹤鸣等主编
+<ul data-tight="true" class="tight">
+<li>
+<p>上海图书馆馆藏家谱提要 by 上海图书馆编、王鹤鸣等主编
 <br>Call Number: R Chinese q929.1072051 SHT
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding.aspx?bid=9846624</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding.aspx?bid=9846624" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding.aspx?bid=9846624</a>
 </p>
 <p>出版：上海 : 上海古籍出版社, 2000.
-<br>简介：
-<br>1.上海图书馆是收藏中国家谱原件最多的单位。但由于1984年国家档案局向全国各地发出协助编纂《中国家谱综合目录》时，上海所收家谱分藏几处、尚未编目整理，因而所藏家谱未入《中国家谱综合目录》。1995年上海图书馆与上海科技情报研究所合并，加大了历史文献的整理开发力度。1997年底，专门成立谱牒研究中心，专事家谱的整理研究工作。上海图书馆聘请复旦大学历史系、华东师大古籍研究所、安徽省社科院历史研究所等单位专家，按统一体例，费时两年编纂完成馆藏家谱提要。
-<br>2.本书共计收录1949年以前修订的家谱11700种。本书不仅是一部家谱书目，且有内容提要。著录项目不仅包括姓氏、书名、编纂者、出版时代、始祖等项目，而且就名人题跋、名人事迹等内容逐一加以提要说明。书后附有“名人”、“地名”、“堂号”等索引，便于读者检索。本书的编纂是中国家谱研究领域中的一项主要成果。</p>
+<br><strong>简介：</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>上海图书馆是收藏中国家谱原件最多的单位。但由于1984年国家档案局向全国各地发出协助编纂《中国家谱综合目录》时，上海所收家谱分藏几处、尚未编目整理，因而所藏家谱未入《中国家谱综合目录》。1995年上海图书馆与上海科技情报研究所合并，加大了历史文献的整理开发力度。1997年底，专门成立谱牒研究中心，专事家谱的整理研究工作。上海图书馆聘请复旦大学历史系、华东师大古籍研究所、安徽省社科院历史研究所等单位专家，按统一体例，费时两年编纂完成馆藏家谱提要。</p>
+</li>
+</ol>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>本书共计收录1949年以前修订的家谱11700种。本书不仅是一部家谱书目，且有内容提要。著录项目不仅包括姓氏、书名、编纂者、出版时代、始祖等项目，而且就名人题跋、名人事迹等内容逐一加以提要说明。书后附有“名人”、“地名”、“堂号”等索引，便于读者检索。本书的编纂是中国家谱研究领域中的一项主要成果。</p>
+</li>
+</ol>
+</li>
+</ul>
 <p>&nbsp;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 中国家谱综合目录 by 国家档案局二处、南开大学历史系、中国社会科学院历史所图书馆编.
 <br>Call Number: R Chinese q929.10951 ZGJ
