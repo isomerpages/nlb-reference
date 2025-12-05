@@ -1233,94 +1233,155 @@ information.</p>
 </li>
 </ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 番禺县志 by 禺市地方志编纂委员会[编]
+<ul data-tight="true" class="tight">
+<li>
+<p>番禺县志 by 禺市地方志编纂委员会[编]
 <br>Call Number: R q951.27 FYX
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9918702</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9918702" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9918702</a>
 </p>
-<p>[广州] : 广东人民出版社.(1995)</p>
+<p>出版：[广州] : 广东人民出版社.(1995)</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 番禺县志 by 陈璞等纂
+<ul data-tight="true" class="tight">
+<li>
+<p>番禺县志 by 陈璞等纂
 <br>Call Number: RDTYS 951 FYH
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84507517</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84507517" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84507517</a>
 </p>
 <p>[出版地缺] : [出版社缺], [无版期]</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 番禺县续志(44卷)
+<ul data-tight="true" class="tight">
+<li>
+<p>番禺县续志(44卷)
 <br>Call Number: RDTYS 951.27 FYH
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84516602</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84516602" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84516602</a>
 </p>
 <p>[无版期]. [出版地缺]: [出版社缺].(16册)</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 近500年来福建的家族社会与文化 by 陈支平著
+<ul data-tight="true" class="tight">
+<li>
+<p>近500年来福建的家族社会与文化 by 陈支平著
 <br>Call Number: R 951.245 CZP
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84518798</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84518798" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84518798</a>
 </p>
-<p>上海: 生活。读书。新知三联书店上海分店. (1991)</p>
+<p>出版：上海: 生活。读书。新知三联书店上海分店. (1991)</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 道光广东通志•琼州府 by 阮元总裁、 陈昌其总纂、蒋志华等点校
+<ul data-tight="true" class="tight">
+<li>
+<p>道光广东通志•琼州府 by 阮元总裁、 陈昌其总纂、蒋志华等点校
 <br>Call Number: R 951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907353</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907353" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907353</a>
 </p>
-<p>海口:海南出版社.(2006).</p>
+<p>出版：海口:海南出版社.(2006).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 道光琼州府志 by 明谊修;张岳崧纂
+<ul data-tight="true" class="tight">
+<li>
+<p>道光琼州府志 by 明谊修;张岳崧纂
 <br>Call Number: R 951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907372</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907372" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907372</a>
 </p>
-<p>海口:海南出版社.(4册).(2006)</p>
+<p>出版：海口:海南出版社.(4册).(2006)</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 闽书 by 何乔远编撰
+<ul data-tight="true" class="tight">
+<li>
+<p>闽书 by 何乔远编撰
 <br>Call Number: R 951.245 HQY
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84468327</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84468327" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84468327</a>
 </p>
-<p>福州: 福建人民出版社.(5册) (1994-).</p>
+<p>出版：福州: 福建人民出版社.(5册) (1994-).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 南海诸岛三种 by 陈天锡, 郑资约, 杨秀靖编著
+<ul data-tight="true" class="tight">
+<li>
+<p>南海诸岛三种 by 陈天锡, 郑资约, 杨秀靖编著
 <br>Call Number: R 951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907388</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907388" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907388</a>
 </p>
 <p>出版：海口: 海南出版社(2004)</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 乾隆会同县志 by 于煌等纂修；陈述芹纂修
+<ul data-tight="true" class="tight">
+<li>
+<p>乾隆会同县志 by 于煌等纂修；陈述芹纂修
 <br>Call Number: R 951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907406</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907406" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907406</a>
 </p>
-<p>海口:海南出版社.(2006).</p>
+<p>出版：海口:海南出版社.(2006).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 乾隆琼州府志 by 萧应植修、陈景埙纂
+<ul data-tight="true" class="tight">
+<li>
+<p>乾隆琼州府志 by 萧应植修、陈景埙纂
 <br>Call Number: R 951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907380</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907380" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907380</a>
 </p>
-<p>海口:海南出版社.(2006).</p>
+<p>出版：海口:海南出版社.(2006).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 乾隆琼山县志 by 杨宗秉纂修
+<ul data-tight="true" class="tight">
+<li>
+<p>乾隆琼山县志 by 杨宗秉纂修
 <br>Call Number: R 951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907409</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907409" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907409</a>
 </p>
-<p>海口:海南出版社.(2006).</p>
+<p>出版：海口:海南出版社.(2006).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 三山志 by 梁克家修纂
+<ul data-tight="true" class="tight">
+<li>
+<p>三山志 by 梁克家修纂
 <br>Call Number: R 951.245 LKJ
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12727724</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12727724" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12727724</a>
 </p>
-<p>福州市地方志编纂委员会整理.福州:海风出版社(2000).</p>
+<p>出版：福州市地方志编纂委员会整理.福州:海风出版社(2000).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 乡土志抄稿本选编 by 国家图书馆分馆编
+<ul data-tight="true" class="tight">
+<li>
+<p>乡土志抄稿本选编 by 国家图书馆分馆编
 <br>Call Number: R q920.051 XTZ
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12436165</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12436165" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12436165</a>
 </p>
-<p>北京: 线装书局. (16 册) (2002)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 万历广东通志•琼州府 by 郭棐纂修
+<p>出版：北京: 线装书局. (16 册) (2002)</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>万历广东通志•琼州府 by 郭棐纂修
 <br>Call Number: R 951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907420</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907420" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907420</a>
 </p>
-<p>海口: 海南出版社.(2006)</p>
+<p>出版：海口: 海南出版社.(2006)</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (万历)琼州府志 by 欧阳璨等修, 陈于宸等纂
+<ul data-tight="true" class="tight">
+<li>
+<p>(万历)琼州府志 by 欧阳璨等修, 陈于宸等纂
 <br>Call Number: R q951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11113083</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11113083" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11113083</a>
 </p>
-<p>北京: 书目文献出版社.(1990)</p>
+<p>出版：北京: 书目文献出版社.(1990)</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 万历琼州府志 by 戴熺、欧阳灿总裁、蔡光前等纂修
 <br>Call Number: R 951.29 HND
