@@ -2155,15 +2155,24 @@ background, achievements and official appointments if they are in the bureaucrac
 </li>
 </ul>
 <h3><strong>族谱, 家谱 (马来西亚)</strong></h3>
-<p>·马来西亚槟城北马六槁林氏公会庆祝成立第十五周年紀念暨上街林氏宗亲族谱特刊, 公元一九六四年至一九七八年
+<ul data-tight="true" class="tight">
+<li>
+<p>马来西亚槟城北马六槁林氏公会庆祝成立第十五周年紀念暨上街林氏宗亲族谱特刊, 公元一九六四年至一九七八年
 <br>Call Number: RSEA Chinese q369.25951 MLX
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12747747</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12747747" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12747747</a>
 </p>
 <p>出版：马来西亚 : 该会, 1981
 <br>页数：524</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 叶氏宗谱 by 主编叶金良
+<ul data-tight="true" class="tight">
+<li>
+<p>叶氏宗谱 by 主编叶金良
 <br>Call Number: RCLOS Chinese q929.351 YSZ
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12748577</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12748577" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12748577</a>
 </p>
 <p>出版：Kuala Lumpur : 叶金良, 1967.</p>
+</li>
+</ul>
+<p></p>
