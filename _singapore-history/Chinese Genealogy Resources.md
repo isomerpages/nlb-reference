@@ -2004,12 +2004,16 @@ background, achievements and official appointments if they are in the bureaucrac
 </li>
 </ul>
 <h3><strong>族谱, 家谱 (新加坡)</strong></h3>
-<p>·邝氏族谱 by 邝氏公会族谱委员会编
+<ul data-tight="true" class="tight">
+<li>
+<p>邝氏族谱 by 邝氏公会族谱委员会编
 <br>Call Number: RSING Chinese 929.1 KWO
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84542468</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84542468" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84542468</a>
 </p>
 <p>出版：新加坡 : 邝氏公会, 1977.
 <br>页数：220</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 陆氏族谱 by 陆氏族谱委员会编
 <br>Call Number: RCLOS Chinese 929.1 LSZ year 1979
