@@ -583,10 +583,14 @@ a general overview.</p>
 </li>
 </ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 中国家谱综合目录 by 国家档案局二处、南开大学历史系、中国社会科学院历史所图书馆编.
+<ul data-tight="true" class="tight">
+<li>
+<p>中国家谱综合目录 by 国家档案局二处、南开大学历史系、中国社会科学院历史所图书馆编.
 <br>Call Number: R Chinese q929.10951 ZGJ
 <br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84594236</a>
 </p>
+</li>
+</ul>
 <p>出版：北京 : 中华书局, 1997
 <br>简介：
 <br>1.本书收录了中国大陆图书馆、文化馆、文管会、博物馆、纪念馆、档案馆等单位所藏家谱目录，另外还转录了《全国古籍善本书目》、《台湾地区家谱目录》、《宗谱之研究》（日本）、《美国家谱协会收藏中国家谱目录》等家谱目录所收条目。
