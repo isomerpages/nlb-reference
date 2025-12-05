@@ -2015,58 +2015,91 @@ background, achievements and official appointments if they are in the bureaucrac
 </li>
 </ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 陆氏族谱 by 陆氏族谱委员会编
+<ul data-tight="true" class="tight">
+<li>
+<p>陆氏族谱 by 陆氏族谱委员会编
 <br>Call Number: RCLOS Chinese 929.1 LSZ year 1979
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84534001</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84534001" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84534001</a>
 </p>
 <p>出版：新加坡 : 陆氏宗祠, 1979.
 <br>页数：394</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 赖氏渊源考 by 新加坡南洋赖氏公会, 赖氏族谱编辑委员会编
+<ul data-tight="true" class="tight">
+<li>
+<p>赖氏渊源考 by 新加坡南洋赖氏公会, 赖氏族谱编辑委员会编
 <br>Call Number: RCLOS Chinese 929.1 LSY issue Mar1980
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84542403</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84542403" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84542403</a>
 </p>
 <p>出版：新加坡 :赖氏族谱编辑委员会, 1980</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 符氏族谱 by 义阳堂编纂
+<ul data-tight="true" class="tight">
+<li>
+<p>符氏族谱 by 义阳堂编纂
 <br>Call Number: R Chinese q929.20951 FSZ
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12666553</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12666553" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12666553</a>
 </p>
 <p>出版：新加坡 : 符氏社, 1982
 <br>册数：3</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 新加坡符氏社重印符氏族谱纪念特刊
+<ul data-tight="true" class="tight">
+<li>
+<p>新加坡符氏社重印符氏族谱纪念特刊
 <br>Call Number: RCLOS Chinese 362.2095957 XJP
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84482679</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84482679" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84482679</a>
 </p>
 <p>出版：新加坡 : 新加坡符氏社(祖祠), 1982
 <br>页数：142</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 漳州开闽王氏族谱
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding.aspx?bid=84495960</a>
+<ul data-tight="true" class="tight">
+<li>
+<p>漳州开闽王氏族谱
+<br><a href="http://eservice.nlb.gov.sg/item_holding.aspx?bid=84495960" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding.aspx?bid=84495960</a>
 </p>
 <p>出版：新加坡 : 普照禅寺文物出版部, 1988.
 <br>页数：68</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 福建省安溪县榜头白氏族谱 by 新加坡白氏公会
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>福建省安溪县榜头白氏族谱 by 新加坡白氏公会
 <br>Call Number: RSING Chinese 929.30951 GEN
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84485616</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84485616" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84485616</a>
 </p>
 <p>出版：新加坡白氏公会，1989
 <br>页数：1013</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 闽粤吕氏族谱 by 吕日清编
+<ul data-tight="true" class="tight">
+<li>
+<p>闽粤吕氏族谱 by 吕日清编
 <br>Call Number: RSING Chinese 929.209512 MYL
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84507047</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84507047" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84507047</a>
 </p>
 <p>出版：新加坡 : 新加坡吕氏公会, 1992
 <br>丛书：吕氏史料丛书
 <br>页数：84</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 凌村陈氏族谱 by 陈兆永编修
+<ul data-tight="true" class="tight">
+<li>
+<p>凌村陈氏族谱 by 陈兆永编修
 <br>Call Number: RSING Chinese 929.0951 LCC
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84556716</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84556716" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84556716</a>
 </p>
 <p>出版：新加坡 : 光远堂陈氏公会, 1996</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 海南鲤跳陈氏族谱 by 主编陈业雄
 <br>Call Number: RSING Chinese q929.20951 HNL
