@@ -1023,99 +1023,165 @@ information.</p>
 </li>
 </ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 康熙陵水县志 by 潘廷侯纂修
+<ul data-tight="true" class="tight">
+<li>
+<p>康熙陵水县志 by 潘廷侯纂修
 <br>Call Number: R 951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907448</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907448" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907448</a>
 </p>
-<p>海口:海南出版社.(2004).</p>
+<p>出版：海口:海南出版社.(2004).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 惠安历史文献续编 by 新加坡惠安公会编辑委员会
+<ul data-tight="true" class="tight">
+<li>
+<p>惠安历史文献续编 by 新加坡惠安公会编辑委员会
 <br>Call Number: R q951.245 HAL
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12527474</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12527474" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12527474</a>
 </p>
-<p>新加坡:新加坡惠安公会.(1984).</p>
+<p>出版：新加坡:新加坡惠安公会.(1984).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 揭西县志 by 吴育林、张国栋主编
+<ul data-tight="true" class="tight">
+<li>
+<p>揭西县志 by 吴育林、张国栋主编
 <br>Call Number: R q951.27 JXX
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9918705</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9918705" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9918705</a>
 </p>
-<p>[广州]:广东人民出版社.(1994).</p>
+<p>出版：[广州]:广东人民出版社.(1994).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 明淸《实录》中的海南 by 唐启翠辑录点校
+<ul data-tight="true" class="tight">
+<li>
+<p>明淸《实录》中的海南 by 唐启翠辑录点校
 <br>Call Number: R 951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907391</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907391" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907391</a>
 </p>
-<p>海口:海南出版社.(2006).</p>
+<p>出版：海口:海南出版社.(2006).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 晋江县志 by 周学曾等纂修、晋江县地方志编纂委员会整理
+<ul data-tight="true" class="tight">
+<li>
+<p>晋江县志 by 周学曾等纂修、晋江县地方志编纂委员会整理
 <br>Call Number: R 951.245 JJX
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12491429</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12491429" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12491429</a>
 </p>
-<p>福州 福建人民出版社.(1990).(2册).</p>
+<p>出版：福州 福建人民出版社.(1990).(2册).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 梅州市志 by 杨增培主编、梅州市地方志编纂委员会编
+<ul data-tight="true" class="tight">
+<li>
+<p>梅州市志 by 杨增培主编、梅州市地方志编纂委员会编
 <br>Call Number: R q951.27 MZS
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9918719</a>[</p>
-<p>广州]:广东人民出版社.(3册).(1999).</p>
-<p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 正德琼台志 by 唐冑纂
-<br>Call Number: R 951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907370</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9918719" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9918719</a>
 </p>
-<p>海口:海南出版社.</p>
+<p>出版：[广州]:广东人民出版社.(3册).(1999).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 民国儋县志 by 彭元藻、曾友文修、王国宪总纂
+<ul data-tight="true" class="tight">
+<li>
+<p>正德琼台志 by 唐冑纂
 <br>Call Number: R 951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907381</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907370" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907370</a>
 </p>
-<p>海口:海南出版社.</p>
+<p>出版：海口:海南出版社.</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 民国感恩县志 by 周文海重修 ; 卢宗棠, 唐之莹纂修
+<ul data-tight="true" class="tight">
+<li>
+<p>民国儋县志 by 彭元藻、曾友文修、王国宪总纂
 <br>Call Number: R 951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907393</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907381" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907381</a>
 </p>
-<p>海口:海南出版社.(2004).</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 民国文昌县志 by 李钟岳等监修、林带英等纂修
-<br>Call Number: R 951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907379</a>
-</p>
-<p>海口: 海南出版社.(2册).(2003).</p>
+<p>出版：海口:海南出版社.</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 民国琼山县志 by 朱为潮、徐淦等主修、李熙, 王国宪总纂
+<ul data-tight="true" class="tight">
+<li>
+<p>民国感恩县志 by 周文海重修 ; 卢宗棠, 唐之莹纂修
 <br>Call Number: R 951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907384</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907393" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907393</a>
 </p>
-<p>海口:海南出版社.(2004).(4册).</p>
-<p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 民国续修广东通志未成稿•海南 by 朱庆澜等监修、梁鼎芬等总纂
+<p>出版：海口:海南出版社.(2004).</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>民国文昌县志 by 李钟岳等监修、林带英等纂修
 <br>Call Number: R 951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907392</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907379" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907379</a>
 </p>
-<p>邹鲁修、温廷敬等纂.《民国广东通志未成稿•海南》. 海口:海南出版社.(2006).</p>
+<p>出版：海口: 海南出版社.(2册).(2003).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 泉州港考古与海外交通史硏究 by 庄景辉[等]著
+<ul data-tight="true" class="tight">
+<li>
+<p>民国琼山县志 by 朱为潮、徐淦等主修、李熙, 王国宪总纂
+<br>Call Number: R 951.29 HND
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907384" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907384</a>
+</p>
+<p>出版：海口:海南出版社.(2004).(4册).</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>民国续修广东通志未成稿•海南 by 朱庆澜等监修、梁鼎芬等总纂
+<br>Call Number: R 951.29 HND
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907392" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907392</a>
+</p>
+<p>出版：邹鲁修、温廷敬等纂.《民国广东通志未成稿•海南》. 海口:海南出版社.(2006).</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>泉州港考古与海外交通史硏究 by 庄景辉[等]著
 <br>Call Number: R 951.245 ARC
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12794097</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12794097" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12794097</a>
 </p>
-<p>长沙:岳麓书社.(2006).</p>
+<p>出版：长沙:岳麓书社.(2006).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 海南岛史 by 小叶田淳著、 张迅齐译
+<ul data-tight="true" class="tight">
+<li>
+<p>海南岛史 by 小叶田淳著、 张迅齐译
 <br>Call Number: R 951.27 KOB
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84564977</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84564977" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84564977</a>
 </p>
-<p>台北:学海出版社.(1979).</p>
+<p>出版：台北:学海出版社.(1979).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 海南岛志 by 陈銘枢总纂; 曾蹇主编.
+<ul data-tight="true" class="tight">
+<li>
+<p>海南岛志 by 陈銘枢总纂; 曾蹇主编.
 <br>Call Number: R 951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907400</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907400" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907400</a>
 </p>
 <p>出版：海口: 海南出版社 (2004)</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 海南岛新志 by 陈植编著,陈献荣编著
+<ul data-tight="true" class="tight">
+<li>
+<p>海南岛新志 by 陈植编著,陈献荣编著
 <br>Call Number: R 951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907401</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907401" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907401</a>
 </p>
-<p>琼崖. 海口: 海南出版社. 2006</p>
+<p>出版：琼崖. 海口: 海南出版社. 2006</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 海口市 by 海口市编委会编
 <br>Call Number: R 951.29 HKS
