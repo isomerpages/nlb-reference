@@ -1,21 +1,41 @@
 ---
 title: Chinese Genealogy Resources
 permalink: /guides/singapore/history/chinese-genealogy-resources/
-variant: markdown
+variant: tiptap
 description: ""
 ---
-## **Chinese Genealogy Research**
-
-**目录**
-
-* [新加坡华社概况](#新加坡华社概况)
-* [本馆馆藏内的家谱书目](#本馆馆藏内的家谱书目)
-* [各地区, 籍贯史料, 姓氏史料](#各地区-籍贯史料-姓氏史料)
-* [中国地方志](#中国地方志)
-* [人物志, 传记](#人物志-传记)
-* [族谱, 家谱 (新加坡)](#族谱-家谱-新加坡)
-* [族谱, 家谱 (马来西亚)](#族谱-家谱-马来西亚)
-
+<h1><strong>Chinese Genealogy Research</strong></h1>
+<h2><strong>目录</strong></h2>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="#%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%8D%8E%E7%A4%BE%E6%A6%82%E5%86%B5" rel="noopener noreferrer nofollow" target="_blank">新加坡华社概况</a>
+</p>
+</li>
+<li>
+<p><a href="#%E6%9C%AC%E9%A6%86%E9%A6%86%E8%97%8F%E5%86%85%E7%9A%84%E5%AE%B6%E8%B0%B1%E4%B9%A6%E7%9B%AE" rel="noopener noreferrer nofollow" target="_blank">本馆馆藏内的家谱书目</a>
+</p>
+</li>
+<li>
+<p><a href="#%E5%90%84%E5%9C%B0%E5%8C%BA-%E7%B1%8D%E8%B4%AF%E5%8F%B2%E6%96%99-%E5%A7%93%E6%B0%8F%E5%8F%B2%E6%96%99" rel="noopener noreferrer nofollow" target="_blank">各地区, 籍贯史料, 姓氏史料</a>
+</p>
+</li>
+<li>
+<p><a href="#%E4%B8%AD%E5%9B%BD%E5%9C%B0%E6%96%B9%E5%BF%97" rel="noopener noreferrer nofollow" target="_blank">中国地方志</a>
+</p>
+</li>
+<li>
+<p><a href="#%E4%BA%BA%E7%89%A9%E5%BF%97-%E4%BC%A0%E8%AE%B0" rel="noopener noreferrer nofollow" target="_blank">人物志, 传记</a>
+</p>
+</li>
+<li>
+<p><a href="#%E6%97%8F%E8%B0%B1-%E5%AE%B6%E8%B0%B1-%E6%96%B0%E5%8A%A0%E5%9D%A1" rel="noopener noreferrer nofollow" target="_blank">族谱, 家谱 (新加坡)</a>
+</p>
+</li>
+<li>
+<p><a href="#%E6%97%8F%E8%B0%B1-%E5%AE%B6%E8%B0%B1-%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A" rel="noopener noreferrer nofollow" target="_blank">族谱, 家谱 (马来西亚)</a>
+</p>
+</li>
+</ul>
 <p>家谱是记载本宗族和事迹历史的图籍，它与正史、方志一起，构成中华民族历史学的三大支柱。
 <br>李光前参考图书馆收藏了一些家谱。这些家谱多数是民间个人出版物 （即非卖品）。主要通过公众人士的捐赠。“<em>本馆馆藏内的家谱书目</em>"选列了一些馆藏内的家谱、族谱和人物传记。此外，馆藏也收集了中国主要图书馆汇集的家谱目录。
 <br>
@@ -36,9 +56,7 @@ came from the southern part of China - the Fujian and Guangdong provinces.
 More information can be found under An overview of the Chinese society
 in Singapore section.</p>
 <p></p>
-
-### **新加坡华社概况**
-
+<h2><strong>新加坡华社概况</strong></h2>
 <p>根据新加坡统计局在2000年所做的户口调查，新加坡华人依次以福建、潮州、广东、客家、海南、福州、兴化、上海、福清为主。 家里没有清楚自己家族来源的长辈可通过自己的籍贯和姓氏来找寻相关的资料。需要知道的是，有许多族谱、宗谱还是保留在各民间组织或个人的手上的，而并非在国家机构内。这一类的资料大部分也在中国，而其中虽然有不少已经数码化，但那也只是一部分的资料。
 本馆可尽量帮忙查找背景资料，但是有兴趣查找自己族谱、家谱的人们还是有可能需要自己亲自到中国或其他相关地区跑一趟。</p>
 <p>According to the household survey done by the Department of Statistics
@@ -54,8 +72,7 @@ digitised for access. The library can provide basic background information,
 however, it is advisable to pay a personal visit to China or related geographical
 areas for deeper research on the family's <em>zupu</em> or <em>zongpu</em>.</p>
 <p></p>
-<p><strong>相关组织</strong>
-</p>
+<h3><strong>相关组织</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>新加坡宗乡会馆联合总会</p>
@@ -65,153 +82,192 @@ areas for deeper research on the family's <em>zupu</em> or <em>zongpu</em>.</p>
 </li>
 </ul>
 <p></p>
-<p><strong>相关馆藏</strong>
-</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 从历史角度看海外华人社会变革 by 颜清湟
+<h4><strong>相关馆藏</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>从历史角度看海外华人社会变革 by 颜清湟
 <br>Call Number: R CO 959.004951 YQH
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12918025</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12918025" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12918025</a>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>简介</strong>:</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 本书为南洋大学学术论丛之5。</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 收集于本卷中为其（作者）许多论述中之经典部分，论述自十九世纪初以来，东南亚及新马华人华社的阶级结构、秘密会社、行业组织、中国革命与南洋民族主义运动、传统文化延续与变化、资本主义与工商拓展及现代化等课题，为研究东南亚以及新马华人华社必备之经典。（摘自原书封底）。</p>
-<p>
-<br>
-<br>
-</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 从一份名录看十九世纪后期新加坡华人社会中的“士”阶层 by 梁元生
+<p><strong>简介</strong>:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>本书为南洋大学学术论丛之5。</p>
+</li>
+<li>
+<p>收集于本卷中为其（作者）许多论述中之经典部分，论述自十九世纪初以来，东南亚及新马华人华社的阶级结构、秘密会社、行业组织、中国革命与南洋民族主义运动、传统文化延续与变化、资本主义与工商拓展及现代化等课题，为研究东南亚以及新马华人华社必备之经典。（摘自原书封底）。</p>
+</li>
+</ol>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>从一份名录看十九世纪后期新加坡华人社会中的“士”阶层 by 梁元生
 <br>Call Number: R SING 305.895105957 LYS
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84468070</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84468070" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84468070</a>
 </p>
-<p><strong>简介</strong>:作者以《叻报》中的一份会贤社名录为研究对象，介绍这份名录背后的几个关键人物。作者也通过对这份会贤社名录的分析，总结出：十九世纪八十年代的新加坡华人社会已经出现了一个人数颇众的“士人集团”，他们不但能诗善文，也和官府有着密切的关系。作者最后也把会贤社名录和其他名录作了比较分析，由此对当时的“士人”和商人在社会上的地位提出他的看法。
-<br>
-<br>
-</p>
-<p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 两次世界大战期间在亚洲之海外华人 by 吴伦霓霞， 郑赤琰
+<p><strong>简介</strong>: 作者以《叻报》中的一份会贤社名录为研究对象，介绍这份名录背后的几个关键人物。作者也通过对这份会贤社名录的分析，总结出：十九世纪八十年代的新加坡华人社会已经出现了一个人数颇众的“士人集团”，他们不但能诗善文，也和官府有着密切的关系。作者最后也把会贤社名录和其他名录作了比较分析，由此对当时的“士人”和商人在社会上的地位提出他的看法。</p>
+<p></p>
+</li>
+<li>
+<p>两次世界大战期间在亚洲之海外华人 by 吴伦霓霞， 郑赤琰
 <br>Call Number: R CO 909.04951082 OVE
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84543351</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84543351" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84543351</a>
 </p>
 <p><strong>简介</strong>: 本书的论文，来自一九八七年九月的一项国际会议，由香港中文大学当代亚洲研究中心属下的海外华人资料研究室和新加坡南洋学会联合主办，主题即：《两次世界大战期间在亚洲之海外华人》。</p>
-<p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 方言群认同：早期星马华人的分类法则 by 麦留芳
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>&nbsp;方言群认同：早期星马华人的分类法则 by 麦留芳
 <br>Call Number: R SING 305.89510595 MLF
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84462286</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84462286" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84462286</a>
 </p>
-<p><strong>简介</strong>:早期星马华人社群间的社会认同曾随着政治体系的改变经历了一些变化，本书着重探讨星马华人对自己的方言群的认同问题及有关课题。
-<br>
-<br>
-</p>
-<p>·&nbsp; 马来西亚华人史 by 宋哲美
+<p><strong>简介</strong>:早期星马华人社群间的社会认同曾随着政治体系的改变经历了一些变化，本书着重探讨星马华人对自己的方言群的认同问题及有关课题。</p>
+<p></p>
+</li>
+<li>
+<p>马来西亚华人史 by 宋哲美
 <br>Call Number: R CO 325.2510959 SCM
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84461187</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84461187" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84461187</a>
 </p>
 <p><strong>简介</strong>:本书第二篇为新加坡华人史，作者从不同的角度探寻新加坡华人的发展过程，行文浅显，并引据史实补充说明。
 <br>
-<br>
 </p>
-<p>·&nbsp; 新加坡华人百年史 by 宋旺相著，叶书德
+<p></p>
+</li>
+<li>
+<p>新加坡华人百年史 by 宋旺相著，叶书德
 <br>Call Number: R SING 959.57004951 SOS-[HIS]
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84519484</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84519484" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84519484</a>
 </p>
 <p><strong>简介</strong>：本书是一部编年通史，涵盖范围从一八一九年新加坡开埠至一九一九年庆祝开埠百年纪念为止。作者从经济、社会、教育、宗教与政治等不同角度，对当时的华人的各项活动加以记述，同时也对当时的华人社群中一些重要人物作了介绍。</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp; 新加坡华人 : 从开埠到建国 by 崔贵强
+<ul data-tight="true" class="tight">
+<li>
+<p>新加坡华人 : 从开埠到建国 by 崔贵强
 <br>Call Number: R SING 959.57004951 CGQ-[HIS]
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84452427</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84452427" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84452427</a>
 </p>
 <p><strong>内容</strong>:这是一本比较全面论述新加坡华人的著作。从1819年莱佛士登陆前的新加坡华人开始，一直谈论到20世纪90年代初期的华人现状。其内容概括了华人人口的增长、华社的形成与发展、华人的生活习俗、华人的经济与政治活动、华文教育的萌芽、茁壮与衰微、国家意识的嬗变与新加坡文化的建设。本书一方面总结了前人研究的成果，另一方面也提出了作者新颖的见解。它既可作为一般读者的理想读物，也足以提供学者作研究参考。（摘录自封底）
 <br>
 <br>
 </p>
-<p>·&nbsp; 新加坡华人的家庭与婚姻 by 郭振羽，罗伊菲译述 傅利曼（Maurice Freedman）
+</li>
+<li>
+<p>新加坡华人的家庭与婚姻 by 郭振羽，罗伊菲译述 傅利曼（Maurice Freedman）
 <br>Call Number: R CO 301.42095957 FRE
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84468232</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84468232" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84468232</a>
 </p>
 <p><strong>简介</strong>:根据〈译序〉说：这是一本讨论华人家庭组织传统的书。又说：社会科学研究者可以由本书的材料与分析，得到启发，而进一步开拓研究的一些方向。译者还提供几篇论文和几本重要著作，供读者参阅和探讨。从中可以对傅利曼教授在华人社会研究方面，有更深广的认识。
 <br>
 <br>
 </p>
-<p>·&nbsp; 新加坡华人的祖先崇拜与宗乡社群整合—以战后三十年广惠肇碧山亭为例 by 曾玲，庄英章
+</li>
+<li>
+<p>新加坡华人的祖先崇拜与宗乡社群整合—以战后三十年广惠肇碧山亭为例 by 曾玲，庄英章
 <br>Call Number: R CO 305.895105957 ZL
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10902514</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10902514" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10902514</a>
 </p>
 <p><strong>简介</strong>:本书透过新加坡华人坟山组织—广惠肇碧山亭的个案研究，以金石资料与大量的文献档案为研究的切入点，考察新加坡华人移民宗乡社群如何在不同于祖籍地的社会政治环境下，运用传统中国组织原则之一的“祖先崇拜”，整合来自中国广惠肇三府的移民。本书的研究与分析表明，海外华人社会“祖先崇拜”整合范围较之中国本土有所扩展。它不仅具有整合血缘性宗族的功能，也涉及虚拟血缘的姓氏宗亲组织、地缘性的乡亲会馆、业缘性行业公会等社群组织的凝聚和认同。—节录自书中的〈摘要〉。
 <br>
 <br>
 </p>
-<p>·&nbsp; 新加坡华人社会史论 by 梁元生
+</li>
+<li>
+<p>新加坡华人社会史论 by 梁元生
 <br>Call Number: R CO 305.8951 LYS
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12522397</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12522397" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12522397</a>
 </p>
 <p><strong>简介</strong>:根据〈自序〉所说，作者的兴趣，一是华人历史的研究，二是儒家思想和文化。他在新加坡期间，对本地华人社会的历史产生了浓厚的兴趣。于是，在教学之余，“为了考察早期华人社区和生活的历史，走访了不少古迹名胜”，并都用在档案和文献研究上，特别是阅读早期新加坡出版的各种华文报刊。从美国回到香港后，重拾旧欢，成果累累，于是集稿成书。
 <br>
 <br>
 </p>
-<p>·&nbsp; 新加坡华人会馆沿革史 by 新加坡宗乡会馆联合总会, 国家档案馆, 口述历史馆
+</li>
+<li>
+<p>新加坡华人会馆沿革史 by 新加坡宗乡会馆联合总会, 国家档案馆, 口述历史馆
 <br>Call Number: RSING Chinese q369.25957 HIS
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84488556</a><strong><a rel="noopener noreferrer nofollow" target="_blank">出版</a></strong>
-<a rel="noopener noreferrer nofollow" target="_blank">：新加坡：新加坡新闻与出版公司</a>, 1986.
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84488556" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84488556</a>
+</p>
+<p>出版：新加坡：新加坡新闻与出版公司1986.
 <br><strong>简洁</strong>：本书通过图片介绍新加坡华人会馆的沿革。
 <br>
 <br>
 </p>
-<p>·&nbsp; 新加坡华人社会之研究 by 赖美惠
+</li>
+<li>
+<p>新加坡华人社会之研究 by 赖美惠
 <br>Call Number: R CLOS 301.45195105957 LMH
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84517928</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84517928" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84517928</a>
 </p>
 <p><strong>简介</strong>:本书首先概述新加坡的历史背景，进而分析新加坡的华人社会，再从社会学的角度，由华人的文化、经济、政治等各种社会行为和现象来研究新加坡的华人社会。
 <br>
 <br>
 </p>
-<p>·&nbsp; 新加坡华侨会党对辛亥革命影响之研究 by 黄建淳
+</li>
+<li>
+<p>新加坡华侨会党对辛亥革命影响之研究 by 黄建淳
 <br>Call Number: R SING 366.095957 HCC
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84527847</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84527847" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84527847</a>
 </p>
 <p><strong>简介</strong>:本书主要研究新加坡华侨会党在辛亥革命中所扮演的角色，作者先概述辛亥革命前新加坡华侨会党参与革命运动的渊源及其发展，并对他们后来形成革命主流的原因加以分析，最后对他们在革命运动中所作出的贡献予以评估。
 <br>
 <br>
 </p>
-<p>·&nbsp; 新加坡华人史论丛 by 庄钦永
+</li>
+<li>
+<p>新加坡华人史论丛 by 庄钦永
 <br>Call Number: R SING 959.57 CDK-[HIS]
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84514963</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84514963" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84514963</a>
 </p>
 <p><strong>简介</strong>：本书收集二十一篇新加坡华人史论文。
 <br>
-<br>
 </p>
-<p>&nbsp;</p>
-<p>·&nbsp; 新加坡华人游移变异的我群观—语群、国家社群与族群 by 李威宜
+</li>
+<li>
+<p>新加坡华人游移变异的我群观—语群、国家社群与族群 by 李威宜
 <br>Call Number: R CO 305.895105957 LWY
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10902508</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10902508" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10902508</a>
 </p>
 <p><strong>简介</strong>:论文采取人类学族群论述的研究取向，根据新加坡的历史发展，提出一条以“语群”、“国家社群”、“族群”为论述主体的观看轴线。一方面，从宏观历史的文化政治脉络，探究新加坡的社群结构，如何建立边界、构筑网络、实践与再现；另一方面，从微观调查的民族志素材，理解族群组织的运作，以及存在其中的个体的生命历程。—录自〈摘要〉。
 <br>书中附有〈论文架构参考图〉，清楚、明晰、简洁、扼要，可供读者阅读参考。
 <br>
 <br>
 </p>
-<p>·&nbsp; 新加坡华族史论集 by 柯木林，吴振强
+</li>
+<li>
+<p>新加坡华族史论集 by 柯木林，吴振强
 <br>Call Number: R SING 325.251095957 KML
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84526868</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84526868" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84526868</a>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>·&nbsp; 新加坡会馆史略 by 总编辑林文丹, 冯清莲
+<p></p>
+</li>
+<li>
+<p>新加坡会馆史略 by 总编辑林文丹, 冯清莲
 <br>Call Number: RSING Chinese q369.25957 HIS
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12665149</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12665149" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12665149</a>
 </p>
-<p>新加坡 : 新加坡宗乡会馆联合总会, 2005.
+<p>出版：新加坡 : 新加坡宗乡会馆联合总会, 2005.
 <br><strong>简介</strong>: 本书以中英文介绍新加坡的宗乡会馆组织。共收录203间方言群及姓氏的宗乡会馆 （分地缘性及血缘性会馆），还包括39种世界恳亲大会资料、会馆所办的学校、义山及修建庙宇的参考资料。
 <br>
 <br>
 </p>
-<p>·&nbsp; 新加坡马来西亚华侨史 by 林远辉, 张应龙
+</li>
+<li>
+<p>新加坡马来西亚华侨史 by 林远辉, 张应龙
 <br>Call Number: R SING 959.5004951 LYH
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84453011</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84453011" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84453011</a>
 </p>
 <p><strong>内容</strong>:新加坡和马来西亚和中国有着悠久的历史关系，本书先概述自汉唐时期以至明代中国与新马两国的关系，再从不同角度看新加坡和马来西亚华侨的发展，为研究新马华侨史者提供了系统且全面的介绍。
 <br>
 <br>
 </p>
+</li>
+</ul>
 <p>·&nbsp; 新加坡社会与华侨华人研究 by 黄松赞
 <br>Call Number: R CO 306.095957 HSZ
 <br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12771448</a>
@@ -398,9 +454,7 @@ the research in this book.</p>
 <br>Singapore: Editions Didier Millet 2006
 <br>A quick reference source on the history of the Chinese overseas. Provides
 a general overview.</p>
-
-### **本馆馆藏内的家谱书目**
-
+<h3><strong>本馆馆藏内的家谱书目</strong></h3>
 <p><strong>目录书籍</strong>
 </p>
 <p>中国境内收藏南方家族的主要图书目录</p>
@@ -429,9 +483,7 @@ a general overview.</p>
 <br>简介：
 <br>1.本书收录了中国大陆图书馆、文化馆、文管会、博物馆、纪念馆、档案馆等单位所藏家谱目录，另外还转录了《全国古籍善本书目》、《台湾地区家谱目录》、《宗谱之研究》（日本）、《美国家谱协会收藏中国家谱目录》等家谱目录所收条目。
 <br>2.本书共收录1949年以前的中国家谱目录14719条。该书所收条目按姓氏笔划编排，著录书名与卷数、纂修朝代与纂修人、纂修时间、出版时间、版本、册数、藏书单位以及备注等项目。书后附“地区索引”和“报送目录单位名单。”这是迄今反映中国家谱收藏状况最重要的一部书目。</p>
-
-### **各地区, 籍贯史料, 姓氏史料**
-
+<h3><strong>各地区, 籍贯史料, 姓氏史料</strong></h3>
 <p>华人姓氏达上百种，起源各异。下列所选书籍包括姓氏辞典和个别阐释某个姓氏的渊源、改姓氏族群最早的栖居处、迁徙的历史沿革及各别姓氏的名人事迹。</p>
 <p>The origins of each Chinese surname are unique to that respective surname.
 The books selected below introduce how a group was given the surname, their
@@ -469,9 +521,7 @@ listed below.</p>
 <br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10103730</a>
 </p>
 <p>[北京]: 现代出版社 ; 华艺出版社.(2000)</p>
-
-### **中国地方志**
-
+<h3><strong>中国地方志</strong></h3>
 <p>方志记载某个地理环境的自然景观和人文历史。多数也收录该地区的风俗习惯、祠庙宗祠、杰出人士的事迹等。本区域华人多数来自中国长江以南的南部省份如
 广东省 (包括海南岛)、福建省等地。</p>
 <p>For many of the Chinese in this region, their ancestors came from the
@@ -953,9 +1003,7 @@ information.</p>
 <br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12815094</a>
 </p>
 <p>北京: 华夏出版社.(2005).</p>
-
-### **人物志, 传记**
-
+<h3><strong>人物志, 传记</strong></h3>
 <p>以下书目介绍人物的生卒年份、身平、教育背景和事迹等。下列书目包括当代人物如:《扭转生命的方向: 20位成功者的故事》、不同区域的人物传如:《新加坡华人百年史》、《厦门人物•海外篇》、《世界华侨名人传》等。</p>
 <p>The biographies listed below cover past and present, local and regional
 Chinese personalities. Information usually available in these sources are
@@ -1145,9 +1193,8 @@ background, achievements and official appointments if they are in the bureaucrac
 <br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84447085</a>
 </p>
 <p>台北: 中华文化出版事业委员会.(1955).</p>
-
-<p><strong>族谱、家谱（中港台）</strong></p>
-
+<p><strong>族谱、家谱（中港台）</strong>
+</p>
 <p>· 西河九龙族谱 by 孙中乔
 <br>Call Number: RDTYS Chinese 929.20951 SCC
 <br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84504505</a>
@@ -1288,9 +1335,7 @@ background, achievements and official appointments if they are in the bureaucrac
 </p>
 <p>出版：百奇郭氏回族宗谱编委会， 200-
 <br>册数：3</p>
-
-### **族谱, 家谱 (新加坡)**
-
+<h3><strong>族谱, 家谱 (新加坡)</strong></h3>
 <p>·邝氏族谱 by 邝氏公会族谱委员会编
 <br>Call Number: RSING Chinese 929.1 KWO
 <br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84542468</a>
@@ -1385,11 +1430,8 @@ background, achievements and official appointments if they are in the bureaucrac
 <p>出版：新加坡 : 新加坡吕氏公会, 1994.
 <br>页数：478
 <br>丛书：吕氏史料丛书</p>
-
-### **族谱, 家谱 (马来西亚)**
-
-<p>·马来西亚槟城北马六槁林氏公会庆祝成立第十五周年紀念暨上街林氏宗亲族谱特刊,
-公元一九六四年至一九七八年
+<h3><strong>族谱, 家谱 (马来西亚)</strong></h3>
+<p>·马来西亚槟城北马六槁林氏公会庆祝成立第十五周年紀念暨上街林氏宗亲族谱特刊, 公元一九六四年至一九七八年
 <br>Call Number: RSEA Chinese q369.25951 MLX
 <br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12747747</a>
 </p>
