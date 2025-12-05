@@ -923,66 +923,105 @@ information.</p>
 <br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907449" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907449</a>
 </p>
 <p>出版：林子兰总辑、陈宗琛等纂.《康熙乐会县志: 康熙二十六年本》；程秉慥纂修《宣统乐会县志》.林大华等纂修.海口:海南出版社.(2006)</p>
+<p></p>
+</li>
+<li>
+<p>康熙儋州志 by [淸]韩祐重修; [林冠群点校]
+<br>Call Number: R 951.29 HND
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907459" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907459</a>
+</p>
+<p>出版：海口：海南出版社.(2004).</p>
 </li>
 </ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 康熙儋州志 by [淸]韩祐重修; [林冠群点校]
+<ul data-tight="true" class="tight">
+<li>
+<p>康熙定安县志 by 张文豹纂修、梁廷佐同修
 <br>Call Number: R 951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907459</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907455" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907455</a>
 </p>
-<p>海口：海南出版社.(2004).</p>
+<p>出版：海口:海南出版社.(2006).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 康熙定安县志 by 张文豹纂修、梁廷佐同修
+<ul data-tight="true" class="tight">
+<li>
+<p>康熙崖州志 by 张擢士, 李如柏纂修
 <br>Call Number: R 951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907455</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907452" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907452</a>
 </p>
-<p>海口:海南出版社.(2006).</p>
+<p>出版：宋锦增辑、黄德厚分修.(2006).《乾隆崖州志》. 海口:海南出版社.</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 康熙崖州志 by 张擢士, 李如柏纂修
+<ul data-tight="true" class="tight">
+<li>
+<p>康熙广东通志•琼州府 by 金光祖纂修
 <br>Call Number: R 951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907452</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907405" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907405</a>
 </p>
-<p>宋锦增辑、黄德厚分修.(2006).《乾隆崖州志》. 海口:海南出版社.</p>
+<p>出版：海口:海南出版社.(2006).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 康熙广东通志•琼州府 by 金光祖纂修
+<ul data-tight="true" class="tight">
+<li>
+<p>康熙文昌县志 by 马日炳纂修
 <br>Call Number: R 951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907405</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12912646" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12912646</a>
 </p>
-<p>海口:海南出版社.(2006).</p>
+<p>出版：海口:海南出版社.(2003).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 康熙文昌县志 by 马日炳纂修
+<ul data-tight="true" class="tight">
+<li>
+<p>康熙昌化县志 by 方岱修、璩之璨校正,李有益纂修
 <br>Call Number: R 951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12912646</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907432" rel="noopener nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907432</a>
 </p>
-<p>海口:海南出版社.(2003).</p>
+<p>出版：《光绪昌化县志》. 海口: 海南出版社.(2004)</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 康熙昌化县志 by 方岱修、璩之璨校正,李有益纂修
-<br>Call Number: R 951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907432</a>
-</p>
-<p>《光绪昌化县志》. 海口: 海南出版社.(2004)</p>
-<p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 康熙澄迈县志:(二种).
+<ul data-tight="true" class="tight">
+<li>
+<p>康熙澄迈县志:(二种).
 <br>Call Number: R　951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907490</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907490" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907490</a>
 </p>
-<p>《康熙十一年本》丁斗柄修；曾典学修.《康熙四十九年本》高魁标纂纂.海口: 海南出版社.(2006)</p>
+<p>出版：《康熙十一年本》丁斗柄修；曾典学修.《康熙四十九年本》高魁标纂纂.海口: 海南出版社.(2006)</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 康熙琼山县志:(二种)
+<ul data-tight="true" class="tight">
+<li>
+<p>康熙琼山县志:(二种)
 <br>Call Number: R 951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907367潘廷侯、</a> 佟世南修、
-吴南杰纂. (2006).《康熙二十六年本》(上冊)、王贽修 、关必登纂. (2006).《康熙二十六年本》(下冊). 海口: 海南出版社.(2册)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 康熙琼州府志
-<br>Call Number: R 951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907366</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907367" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907367</a>
 </p>
-<p>焦映汉修、贾棠纂 [颜艳红, 赖青寿点校].(2006).海口: 海南出版社.(2册)</p>
+<p>出版：潘廷侯、 佟世南修、 吴南杰纂. (2006).《康熙二十六年本》(上冊)、王贽修 、关必登纂. (2006).《康熙二十六年本》(下冊).
+海口: 海南出版社.(2册)</p>
+<p></p>
+</li>
+<li>
+<p>康熙琼州府志
+<br>Call Number: R 951.29 HND
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907366" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907366</a>
+</p>
+<p>出版： 焦映汉修、贾棠纂 [颜艳红, 赖青寿点校].(2006).海口: 海南出版社.(2册)</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 康熙琼郡志 by 牛天宿修、朱子虛纂
+<ul data-tight="true" class="tight">
+<li>
+<p>康熙琼郡志 by 牛天宿修、朱子虛纂
 <br>Call Number: R 951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907458</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907458" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907458</a>
 </p>
-<p>海口:海南出版社.(2006).</p>
+<p>出版：海口:海南出版社.(2006).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 康熙陵水县志 by 潘廷侯纂修
 <br>Call Number: R 951.29 HND
