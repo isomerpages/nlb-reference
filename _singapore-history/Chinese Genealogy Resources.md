@@ -6,7 +6,11 @@ description: ""
 ---
 <h1><strong>Chinese Genealogy Research</strong></h1>
 <h2><strong>目录</strong></h2>
-<ul data-tight="true" class="tight">
+
+- [新加坡华社概况](#新加坡华社概况)
+- 
+
+
 <li>
 <p><a href="#%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%8D%8E%E7%A4%BE%E6%A6%82%E5%86%B5" rel="noopener noreferrer nofollow" target="_blank">新加坡华社概况</a>
 </p>
@@ -35,7 +39,7 @@ description: ""
 <p><a href="#%E6%97%8F%E8%B0%B1-%E5%AE%B6%E8%B0%B1-%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A" rel="noopener noreferrer nofollow" target="_blank">族谱, 家谱 (马来西亚)</a>
 </p>
 </li>
-</ul>
+
 <p>家谱是记载本宗族和事迹历史的图籍，它与正史、方志一起，构成中华民族历史学的三大支柱。
 <br>李光前参考图书馆收藏了一些家谱。这些家谱多数是民间个人出版物 （即非卖品）。主要通过公众人士的捐赠。“<em>本馆馆藏内的家谱书目</em>"选列了一些馆藏内的家谱、族谱和人物传记。此外，馆藏也收集了中国主要图书馆汇集的家谱目录。
 <br>
