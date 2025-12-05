@@ -6,11 +6,6 @@ description: ""
 ---
 <h1><strong>Chinese Genealogy Research</strong></h1>
 <h2><strong>目录</strong></h2>
-
-- [新加坡华社概况](#新加坡华社概况)
-- 
-
-
 <li>
 <p><a href="#%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%8D%8E%E7%A4%BE%E6%A6%82%E5%86%B5" rel="noopener noreferrer nofollow" target="_blank">新加坡华社概况</a>
 </p>
