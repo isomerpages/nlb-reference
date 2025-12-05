@@ -6,35 +6,36 @@ description: ""
 ---
 <h1><strong>Chinese Genealogy Research</strong></h1>
 <h2><strong>目录</strong></h2>
+<ul data-tight="true" class="tight">
 <li>
-<p><a href="#%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%8D%8E%E7%A4%BE%E6%A6%82%E5%86%B5" rel="noopener noreferrer nofollow" target="_blank">新加坡华社概况</a>
+<p><a href="#新加坡华社概况" rel="noopener noreferrer nofollow" target="_blank">新加坡华社概况</a>
 </p>
 </li>
 <li>
-<p><a href="#%E6%9C%AC%E9%A6%86%E9%A6%86%E8%97%8F%E5%86%85%E7%9A%84%E5%AE%B6%E8%B0%B1%E4%B9%A6%E7%9B%AE" rel="noopener noreferrer nofollow" target="_blank">本馆馆藏内的家谱书目</a>
+<p><a href="#本馆馆藏内的家谱书目" rel="noopener noreferrer nofollow" target="_blank">本馆馆藏内的家谱书目</a>
 </p>
 </li>
 <li>
-<p><a href="#%E5%90%84%E5%9C%B0%E5%8C%BA-%E7%B1%8D%E8%B4%AF%E5%8F%B2%E6%96%99-%E5%A7%93%E6%B0%8F%E5%8F%B2%E6%96%99" rel="noopener noreferrer nofollow" target="_blank">各地区, 籍贯史料, 姓氏史料</a>
+<p><a href="#各地区,籍贯史料,姓氏史料" rel="noopener noreferrer nofollow" target="_blank">各地区, 籍贯史料, 姓氏史料</a>
 </p>
 </li>
 <li>
-<p><a href="#%E4%B8%AD%E5%9B%BD%E5%9C%B0%E6%96%B9%E5%BF%97" rel="noopener noreferrer nofollow" target="_blank">中国地方志</a>
+<p><a href="#中国地方志" rel="noopener noreferrer nofollow" target="_blank">中国地方志</a>
 </p>
 </li>
 <li>
-<p><a href="#%E4%BA%BA%E7%89%A9%E5%BF%97-%E4%BC%A0%E8%AE%B0" rel="noopener noreferrer nofollow" target="_blank">人物志, 传记</a>
+<p><a href="#人物志,传记" rel="noopener noreferrer nofollow" target="_blank">人物志, 传记</a>
 </p>
 </li>
 <li>
-<p><a href="#%E6%97%8F%E8%B0%B1-%E5%AE%B6%E8%B0%B1-%E6%96%B0%E5%8A%A0%E5%9D%A1" rel="noopener noreferrer nofollow" target="_blank">族谱, 家谱 (新加坡)</a>
+<p><a href="#族谱,家谱(新加坡)" rel="noopener noreferrer nofollow" target="_blank">族谱, 家谱 (新加坡)</a>
 </p>
 </li>
 <li>
-<p><a href="#%E6%97%8F%E8%B0%B1-%E5%AE%B6%E8%B0%B1-%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A" rel="noopener noreferrer nofollow" target="_blank">族谱, 家谱 (马来西亚)</a>
+<p><a href="#族谱,家谱(马来西亚)" rel="noopener noreferrer nofollow" target="_blank">族谱, 家谱 (马来西亚)</a>
 </p>
 </li>
-
+</ul>
 <p>家谱是记载本宗族和事迹历史的图籍，它与正史、方志一起，构成中华民族历史学的三大支柱。
 <br>李光前参考图书馆收藏了一些家谱。这些家谱多数是民间个人出版物 （即非卖品）。主要通过公众人士的捐赠。“<em>本馆馆藏内的家谱书目</em>"选列了一些馆藏内的家谱、族谱和人物传记。此外，馆藏也收集了中国主要图书馆汇集的家谱目录。
 <br>
@@ -601,7 +602,7 @@ a general overview.</p>
 </ol>
 </li>
 </ul>
-<h3><strong>各地区, 籍贯史料, 姓氏史料</strong></h3>
+<h3><strong>各地区,籍贯史料,姓氏史料</strong></h3>
 <p>华人姓氏达上百种，起源各异。下列所选书籍包括姓氏辞典和个别阐释某个姓氏的渊源、改姓氏族群最早的栖居处、迁徙的历史沿革及各别姓氏的名人事迹。</p>
 <p>The origins of each Chinese surname are unique to that respective surname.
 The books selected below introduce how a group was given the surname, their
@@ -1459,7 +1460,7 @@ information.</p>
 <p>出版：北京: 华夏出版社.(2005).</p>
 </li>
 </ul>
-<h3><strong>人物志, 传记</strong></h3>
+<h3><strong>人物志,传记</strong></h3>
 <p>以下书目介绍人物的生卒年份、身平、教育背景和事迹等。下列书目包括当代人物如:《扭转生命的方向: 20位成功者的故事》、不同区域的人物传如:《新加坡华人百年史》、《厦门人物•海外篇》、《世界华侨名人传》等。</p>
 <p>The biographies listed below cover past and present, local and regional
 Chinese personalities. Information usually available in these sources are
@@ -2002,7 +2003,7 @@ background, achievements and official appointments if they are in the bureaucrac
 <br>册数：3</p>
 </li>
 </ul>
-<h3><strong>族谱, 家谱 (新加坡)</strong></h3>
+<h3><strong>族谱,家谱(新加坡)</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>邝氏族谱 by 邝氏公会族谱委员会编
@@ -2153,7 +2154,7 @@ background, achievements and official appointments if they are in the bureaucrac
 <br>丛书：吕氏史料丛书</p>
 </li>
 </ul>
-<h3><strong>族谱, 家谱 (马来西亚)</strong></h3>
+<h3><strong>族谱,家谱(马来西亚)</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>马来西亚槟城北马六槁林氏公会庆祝成立第十五周年紀念暨上街林氏宗亲族谱特刊, 公元一九六四年至一九七八年
