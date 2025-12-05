@@ -590,7 +590,7 @@ a general overview.</p>
 <br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84594236" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84594236</a>
 </p>
 <p>出版：北京 : 中华书局, 1997
-<br><strong>简介： </strong>
+<br><strong>简介：</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -646,17 +646,19 @@ listed below.</p>
 <br>Call Number: R q929.20951 WSZ
 <br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11897094" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11897094</a>
 </p>
-</li>
-<li>
 <p>出版：北京: 中华全国图书馆文献缩微复制中心.(2000)</p>
 </li>
 </ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 中华姓氏谱. 高姓卷 by 陈国灿、范平、刘学峰著
+<ul data-tight="true" class="tight">
+<li>
+<p>中华姓氏谱. 高姓卷 by 陈国灿、范平、刘学峰著
 <br>Call Number: R 929.42 CGC
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10103730</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10103730" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10103730</a>
 </p>
-<p>[北京]: 现代出版社 ; 华艺出版社.(2000)</p>
+<p>出版：[北京]: 现代出版社 ; 华艺出版社.(2000)</p>
+</li>
+</ul>
 <h3><strong>中国地方志</strong></h3>
 <p>方志记载某个地理环境的自然景观和人文历史。多数也收录该地区的风俗习惯、祠庙宗祠、杰出人士的事迹等。本区域华人多数来自中国长江以南的南部省份如
 广东省 (包括海南岛)、福建省等地。</p>
@@ -666,76 +668,123 @@ as Guangdong (including Hainan Island) and Fujian provinces. Information
 recorded in local chronicles comprise of writings on the environs, the
 social structure, prominent personalities of the milieu and other historical
 information.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 八闽通志 by 黄仲昭修纂,福建省地方志编纂委员会主编
+<ul data-tight="true" class="tight">
+<li>
+<p>八闽通志 by 黄仲昭修纂,福建省地方志编纂委员会主编
 <br>Call Number: R 951.245 HZZ
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84469183</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84469183" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84469183</a>
 </p>
-<p>福州: 福建人民出版社. (1990-1991),(2册)</p>
+<p>出版：福州: 福建人民出版社. (1990-1991),(2册)</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 东莞志"崇祯" by 张二果 、曾起莘重修
+<ul data-tight="true" class="tight">
+<li>
+<p>东莞志"崇祯" by 张二果 、曾起莘重修
 <br>Call Number: R q951.27 ZEG
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12004492</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12004492" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12004492</a>
 </p>
-<p>北京:中华全国图书馆文献缩微复制中心.(2001).(2册).</p>
+<p>出版：北京:中华全国图书馆文献缩微复制中心.(2001).(2册).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 二十五史中的海南 by 周小华辑录
+<ul data-tight="true" class="tight">
+<li>
+<p>二十五史中的海南 by 周小华辑录
 <br>Call Number: R 951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907390</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907390" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907390</a>
 </p>
-<p>海口:海南出版社.(2006).</p>
+<p>出版：海口:海南出版社.(2006).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 光緖澄迈县志 by 龙朝翊主修、陈所能纂修
+<ul data-tight="true" class="tight">
+<li>
+<p>光緖澄迈县志 by 龙朝翊主修、陈所能纂修
 <br>Call Number: R 951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907416</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907416" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907416</a>
 </p>
-<p>海口:海南出版社.(2004).</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 光绪定安县志 by 吴应廉创修 ; 王映斗总纂
+<p>出版：海口:海南出版社.(2004).</p>
+<p></p>
+</li>
+<li>
+<p>光绪定安县志 by 吴应廉创修 ; 王映斗总纂
 <br>Call Number: R 951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907382</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907382" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907382</a>
 </p>
-<p>海口:海南出版社.(2004).</p>
+<p>出版：海口:海南出版社.(2004).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 光绪临高县志 by 聂缉庆, 张延主修 ; 桂文炽, 汪瑔纂修
+<ul data-tight="true" class="tight">
+<li>
+<p>光绪临高县志 by 聂缉庆, 张延主修 ; 桂文炽, 汪瑔纂修
 <br>Call Number: R 951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907413</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907413" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907413</a>
 </p>
-<p>海口:海南出版社.(2004).</p>
+<p>出版：海口:海南出版社.(2004).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 光绪崖州志 by 钟元棣创修 、张雟等纂修
+<ul data-tight="true" class="tight">
+<li>
+<p>光绪崖州志 by 钟元棣创修 、张雟等纂修
 <br>Call Number: R 951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907373</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907373" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907373</a>
 </p>
-<p>《崖州直隶州乡土志》. 海口:海南出版社.(2006).(2册).</p>
+<p>出版：《崖州直隶州乡土志》. 海口:海南出版社.(2006).(2册).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 历代文人笔记中的海南 by 周伟民、唐玲玲辑纂点校、责任编辑袁大川
+<ul data-tight="true" class="tight">
+<li>
+<p>历代文人笔记中的海南 by 周伟民、唐玲玲辑纂点校、责任编辑袁大川
 <br>Call Number: R 951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907349</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907349" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907349</a>
 </p>
-<p>海口:海南出版社.(2006).</p>
+<p>出版：海口:海南出版社.(2006).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 厦门市志: 民国 by 厦门市地方志编纂委员会
+<ul data-tight="true" class="tight">
+<li>
+<p>厦门市志: 民国 by 厦门市地方志编纂委员会
 <br>Call Number: R 951.245 XMS
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12599499</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12599499" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12599499</a>
 </p>
-<p>北京:方志出版社.(1999).</p>
+<p>出版：北京:方志出版社.(1999).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 厦门志: 清•道光十九年镌 by 厦门市地方志编纂委员会办公室整理
+<ul data-tight="true" class="tight">
+<li>
+<p>厦门志: 清•道光十九年镌 by 厦门市地方志编纂委员会办公室整理
 <br>Call Number: R 951.245 XMZ
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12523494</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12523494" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12523494</a>
 </p>
-<p>厦门:鹭江出版社.(1996).</p>
+<p>出版：厦门:鹭江出版社.(1996).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 咸丰文昌县志 by 张霈等监修、林燕典纂辑
+<ul data-tight="true" class="tight">
+<li>
+<p>咸丰文昌县志 by 张霈等监修、林燕典纂辑
 <br>Call Number: R 951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907368</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907368" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907368</a>
 </p>
-<p>海口:海南出版社.(2003).(2册).</p>
+<p>出版：海口:海南出版社.(2003).(2册).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 咸丰琼山县志 by 李文烜修、郑文彩纂
+<ul data-tight="true" class="tight">
+<li>
+<p>咸丰琼山县志 by 李文烜修、郑文彩纂
 <br>Call Number: R 951.29 HND
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907386</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907386" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907386</a>
 </p>
-<p>张廷标编辑.《光绪琼山乡土志》.海口:海南出版社.(3册)(2004)</p>
+<p>出版：张廷标编辑.《光绪琼山乡土志》.海口:海南出版社.(3册)(2004)</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 嘉善县志 by 嘉善县志编纂委员会编
 <br>Call Number: R 951.242 JSX
