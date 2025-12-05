@@ -1451,201 +1451,352 @@ information.</p>
 </li>
 </ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 中国地名辞源 by 贾文毓, 李引主编
+<ul data-tight="true" class="tight">
+<li>
+<p>中国地名辞源 by 贾文毓, 李引主编
 <br>Call Number: R 915.10014 ZGD
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12815094</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12815094" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12815094</a>
 </p>
-<p>北京: 华夏出版社.(2005).</p>
+<p>出版：北京: 华夏出版社.(2005).</p>
+</li>
+</ul>
 <h3><strong>人物志, 传记</strong></h3>
 <p>以下书目介绍人物的生卒年份、身平、教育背景和事迹等。下列书目包括当代人物如:《扭转生命的方向: 20位成功者的故事》、不同区域的人物传如:《新加坡华人百年史》、《厦门人物•海外篇》、《世界华侨名人传》等。</p>
 <p>The biographies listed below cover past and present, local and regional
 Chinese personalities. Information usually available in these sources are
 their birth and death dates (if the person has passed on), their education
 background, achievements and official appointments if they are in the bureaucracy.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 地方志人物传记资料丛刊. 东北卷 by 北京图书馆编
+<ul data-tight="true" class="tight">
+<li>
+<p>地方志人物传记资料丛刊. 东北卷 by 北京图书馆编
 <br>Call Number: R q920.051 DFZ
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10981817</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10981817" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10981817</a>
 </p>
-<p>北京:北京图书馆出版社.索书号:(12册),(2001).</p>
+<p>出版: 北京:北京图书馆出版社.索书号:(12册),(2001).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 地方志人物传记资料丛刊. 华北卷 by 北京图书馆编
+<ul data-tight="true" class="tight">
+<li>
+<p>地方志人物传记资料丛刊. 华北卷 by 北京图书馆编
 <br>Call Number: R q920.051 DFZ
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12585378</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12585378" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12585378</a>
 </p>
-<p>北京:北京图书馆出版社.(66册),(2002).</p>
+<p>出版: 北京:北京图书馆出版社.(66册),(2002).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 地方志人物传记资料丛刊. 西北卷 by 北京图书馆编.
+<ul data-tight="true" class="tight">
+<li>
+<p>地方志人物传记资料丛刊. 西北卷 by 北京图书馆编.
 <br>Call Number: R q920.051 DFZ
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10903074</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10903074" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10903074</a>
 </p>
-<p>北京:北京图书馆出版社.(2001).(20册)</p>
+<p>出版: 北京:北京图书馆出版社.(2001).(20册)</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 中国历史人物辞典 by 朝阳出版社编辑部编
+<ul data-tight="true" class="tight">
+<li>
+<p>中国历史人物辞典 by 朝阳出版社编辑部编
 <br>Call Number: R 920.051 ZGL
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84469877</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84469877" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84469877</a>
 </p>
-<p>香港: 朝阳出版社,(1979).</p>
+<p>出版: 香港: 朝阳出版社,(1979).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 中国名人志 by 澹泊 、中国名人志编纂委员会编主编
+<ul data-tight="true" class="tight">
+<li>
+<p>中国名人志 by 澹泊 、中国名人志编纂委员会编主编
 <br>Call Number: R 920.051 REC
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12270818</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12270818" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12270818</a>
 </p>
-<p>北京: 中国档案出版社.(2001).(12卷)</p>
+<p>出版: 北京: 中国档案出版社.(2001).(12卷)</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 新马人物志 by 东南亚研究所编
+<ul data-tight="true" class="tight">
+<li>
+<p>新马人物志 by 东南亚研究所编
 <br>Call Number: RCO 920.0595 WHO
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84565553</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84565553" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84565553</a>
 </p>
-<p>香港: 东南亚研究所.(1969).(第四册)</p>
+<p>出版: 香港: 东南亚研究所.(1969).(第四册)</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 广东历史人物辞典 by 管林、 副主编, 邓光礼、熊福林主编
+<ul data-tight="true" class="tight">
+<li>
+<p>广东历史人物辞典 by 管林、 副主编, 邓光礼、熊福林主编
 <br>Call Number: R 951.270099 GDL
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11058196</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11058196" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11058196</a>
 </p>
-<p>广州: 广东高等教育出版社. (2001).</p>
+<p>出版: 广州: 广东高等教育出版社. (2001).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 厦门人物 by 郭瑞明编撰
+<ul data-tight="true" class="tight">
+<li>
+<p>厦门人物 by 郭瑞明编撰
 <br>Call Number: RSING 920.0092951 GRM
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12280101</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12280101" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12280101</a>
 </p>
-<p>海外篇.厦门: 鹭江出版社.(1996).</p>
+<p>出版: 海外篇.厦门: 鹭江出版社.(1996).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 华侨名人传 by 华侨协会总会编撰
+<ul data-tight="true" class="tight">
+<li>
+<p>华侨名人传 by 华侨协会总会编撰
 <br>Call Number: RCO Chinese 959.004951 HQM
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84444095</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84444095" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84444095</a>
 </p>
-<p>台北: 黎明文化事业.(1984).</p>
+<p>出版: 台北: 黎明文化事业.(1984).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 添华纪实 by 黄小坚编著
+<ul data-tight="true" class="tight">
+<li>
+<p>添华纪实 by 黄小坚编著
 <br>Call Number: RSING 920.05957 HXJ
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12793268</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12793268" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12793268</a>
 </p>
-<p>香港: 香港社会科学出版社.(2006).</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 历代名人年里碑传总表 by 姜亮夫撰
+<p>出版: 香港: 香港社会科学出版社.(2006).</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>历代名人年里碑传总表 by 姜亮夫撰
 <br>Call Number: R 920.051 JLF
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9818919</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9818919" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9818919</a>
 </p>
-<p>[台北]:台湾商务.(1965).</p>
+<p>出版: [台北]:台湾商务.(1965).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>· 历代名人生卒年表 ; 历代名人生卒年表补 by 梁廷灿、陶容、于士雄编
+<ul data-tight="true" class="tight">
+<li>
+<p>历代名人生卒年表 ; 历代名人生卒年表补 by 梁廷灿、陶容、于士雄编
 <br>Call Number: R q920.051 LDM
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12270674</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12270674" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12270674</a>
 </p>
-<p>北京: 北京图书馆出版社.(2002).</p>
+<p>出版: 北京: 北京图书馆出版社.(2002).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 怀故集 by 刘子政编著
+<ul data-tight="true" class="tight">
+<li>
+<p>怀故集 by 刘子政编著
 <br>Call Number: RSING 920.059 LTC
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84565487</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84565487" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84565487</a>
 </p>
-<p>(1980).新加坡: 南海编译所.</p>
+<p>出版: 新加坡: 南海编译所.(1980).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·扭转生命的方向: 20位成功者的故事 by 龙丽娴作者 、吴君译者
+<ul data-tight="true" class="tight">
+<li>
+<p>扭转生命的方向: 20位成功者的故事 by 龙丽娴作者 、吴君译者
 <br>Call Number: RSING 920.02 LS
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12666603</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12666603" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12666603</a>
 </p>
-<p>新加坡: 八方文艺创作室.(2005).</p>
+<p>出版: 新加坡: 八方文艺创作室.(2005).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·历代名人生卒录 by 钱保塘编
+<ul data-tight="true" class="tight">
+<li>
+<p>历代名人生卒录 by 钱保塘编
 <br>Call Number: R q920.051 LDM
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12270033</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12270033" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12270033</a>
 </p>
-<p>北京: 北京图书馆出版社.(2002)</p>
+<p>出版: 北京: 北京图书馆出版社.(2002)</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 清代粤人传 by 全国公共图书馆古籍文献编委会,清•佚名辑
+<ul data-tight="true" class="tight">
+<li>
+<p>清代粤人传 by 全国公共图书馆古籍文献编委会,清•佚名辑
 <br>Call Number: R q920.05107 QDY
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10983545</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10983545" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10983545</a>
 </p>
-<p>北京:全国图书馆文献缩微复制中心.(2001).(3册)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 远东人物志 by 宋鲁生
+<p>出版: 北京:全国图书馆文献缩微复制中心.(2001).(3册)</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>远东人物志 by 宋鲁生
 <br>Call Number: RSEA/RCLOS/RDTYS 920.059
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84552920</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84552920" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84552920</a>
 </p>
-<p>新加坡: 远东民史纂修所.(1934).(2册)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 新加坡华人百年史 by 宋旺相著；叶书德译
+<p>出版: 新加坡: 远东民史纂修所.(1934).(2册)</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>新加坡华人百年史 by 宋旺相著；叶书德译
 <br>Call Number: RSING 959.57004951 SOS
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84519484</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84519484" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84519484</a>
 </p>
-<p>新加坡:新加坡中华总商会.(1993).</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 现代东南亚成功人物志 by 宋卓英
+<p>出版: 新加坡:新加坡中华总商会.(1993).</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>现代东南亚成功人物志 by 宋卓英
 <br>Call Number: RSING 920.059 SCY
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84482999</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84482999" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84482999</a>
 </p>
-<p>新加坡:现代东南亚成功人物志编辑室.(1968).(第3册)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 中国历代名人年谱总目 by 王德毅编
+<p>出版: 新加坡:现代东南亚成功人物志编辑室.(1968).(第3册)</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>中国历代名人年谱总目 by 王德毅编
 <br>Call Number: R 920.051 ZGL
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84569643</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84569643" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84569643</a>
 </p>
-<p>台北:华世出版社.(1979).</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 中国历史人物辞典 by 吴海林, 李延沛编
+<p>出版: 台北:华世出版社.(1979).</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>中国历史人物辞典 by 吴海林, 李延沛编
 <br>Call Number: R 951.00992 ZGL
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84553523</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84553523" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84553523</a>
 </p>
-<p>哈尔滨:黑龙江人民出版社.(1983)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 新加坡海南人物录 by 吴华著
+<p>出版: 哈尔滨:黑龙江人民出版社.(1983)</p>
+<p></p>
+</li>
+<li>
+<p>新加坡海南人物录 by 吴华著
 <br>Call Number: RSING 920.05957 WH
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12378597</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12378597" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12378597</a>
 </p>
-<p>[新加坡]:武吉智马琼崖联谊会海南作家作品研究室.(2004)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 厦门人物辞典 by 厦门市图书馆编
+<p>出版: [新加坡]:武吉智马琼崖联谊会海南作家作品研究室.(2004)</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>厦门人物辞典 by 厦门市图书馆编
 <br>Call Number: R 951.2450099 XMR
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12276523</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12276523" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12276523</a>
 </p>
-<p>厦门: 鹭江出版社.(2003).</p>
-<p>·现代华侨人物志
+<p>出版: 厦门: 鹭江出版社.(2003).</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>现代华侨人物志
 <br>Call Number: RDTYS 920.59 HTH
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84447072</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84447072" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84447072</a>
 </p>
-<p>(1963). 台北 : 大中华出版社.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 东南亚、南亚名人录 by 现代国际关系研究所世界人物研究室编
+<p>出版: 台北 : 大中华出版社.(1963).</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>东南亚、南亚名人录 by 现代国际关系研究所世界人物研究室编
 <br>Call Number: RSING 920.059 DNY
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84454261</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84454261" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84454261</a>
 </p>
-<p>北京:时事出版社.(1990)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 中国百年传记经典 by 萧关鸿编
+<p>出版: 北京:时事出版社.(1990)</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>中国百年传记经典 by 萧关鸿编
 <br>Call Number: R 920.051 XGH
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11806255</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11806255" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11806255</a>
 </p>
-<p>上海:东方出版中心.(2002).(4册)</p>
-<p>·星洲琼崖翁氏公会人物志 by 星洲琼崖翁氏公会
+<p>出版: 上海:东方出版中心.(2002).(4册)</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>星洲琼崖翁氏公会人物志 by 星洲琼崖翁氏公会
 <br>Call Number: RSING q929.1 XZQ
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84541703</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84541703" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84541703</a>
 </p>
-<p>新加坡:星洲琼崖翁氏公会.(1981).</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 狮城村童故事 by 徐帆著
+<p>出版: 新加坡:星洲琼崖翁氏公会.(1981).</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>狮城村童故事 by 徐帆著
 <br>Call Number: RSING 920.05957 XF
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12400122</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12400122" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12400122</a>
 </p>
-<p>新加坡:玲子传媒.(2004).</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 民国人物大辞典 by 徐友春; 副主编, 蔡鸿源, 周光培主编
+<p>出版: 新加坡:玲子传媒.(2004).</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>民国人物大辞典 by 徐友春; 副主编, 蔡鸿源, 周光培主编
 <br>Call Number: R 920.051 MGR
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84494449</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84494449" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84494449</a>
 </p>
-<p>石家庄:河北人民出版.(1991)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 华侨华人百科全书. 人物卷 by 杨保筠主编
+<p>出版: 石家庄:河北人民出版.(1991)</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>华侨华人百科全书. 人物卷 by 杨保筠主编
 <br>Call Number: RSING q920.0092951 ENC
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10293630</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10293630" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10293630</a>
 </p>
-<p>北京: 中国华侨出版社.(2001)</p>
-<p>· 世界华侨名人传 by 杨庆南编著
+<p>出版: 北京: 中国华侨出版社.(2001)</p>
+<p></p>
+</li>
+<li>
+<p>世界华侨名人传 by 杨庆南编著
 <br>Call Number: RSING 920.0092951 YQN
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84549900</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84549900" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84549900</a>
 </p>
-<p>[台北]: 华侨工商职业学校基金会.(1984)</p>
-<p>· 世界华侨名人传 by 杨庆南编著
+<p>出版: [台北]: 华侨工商职业学校基金会.(1984)</p>
+<p></p>
+</li>
+<li>
+<p>世界华侨名人传 by 杨庆南编著
 <br>Call Number: RSING q909.4951 YQN
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84465119</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84465119" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84465119</a>
 </p>
-<p>古晋: 马华企业.(第四、五、六、七册).(19--).</p>
-<p>· 稿本清代人物史料三编. 外一种 by 朱彭寿编纂
+<p>出版: 古晋: 马华企业.(第四、五、六、七册).(19--).</p>
+<p></p>
+</li>
+<li>
+<p>稿本清代人物史料三编. 外一种 by 朱彭寿编纂
 <br>Call Number: R q920.051 GBQ
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11547815</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11547815" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11547815</a>
 </p>
-<p>北京: 北京图书馆出版社.(2002).(10册)</p>
-<p>· 华侨名人传 by 祝秀侠主编
+<p>出版: 北京: 北京图书馆出版社.(2002).(10册)</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>华侨名人传 by 祝秀侠主编
 <br>Call Number: RCLOS 920.051 CHH-[SEA]
-<br><a rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84447085</a>
+<br><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84447085" rel="noopener noreferrer nofollow" target="_blank">http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84447085</a>
 </p>
-<p>台北: 中华文化出版事业委员会.(1955).</p>
+<p>出版: 台北: 中华文化出版事业委员会.(1955).</p>
+</li>
+</ul>
 <p><strong>族谱、家谱（中港台）</strong>
 </p>
 <p>· 西河九龙族谱 by 孙中乔
