@@ -28,6 +28,10 @@ description: ""
 </p>
 </li>
 <li>
+<p><strong>族谱, 家谱 (中港台)</strong>
+</p>
+</li>
+<li>
 <p><strong>族谱, 家谱 (新加坡)</strong>
 </p>
 </li>
@@ -603,7 +607,7 @@ a general overview.</p>
 </ol>
 </li>
 </ul>
-<h3><strong>各地区,籍贯史料,姓氏史料</strong></h3>
+<h3><strong>各地区, 籍贯史料, 姓氏史料</strong></h3>
 <p>华人姓氏达上百种，起源各异。下列所选书籍包括姓氏辞典和个别阐释某个姓氏的渊源、改姓氏族群最早的栖居处、迁徙的历史沿革及各别姓氏的名人事迹。</p>
 <p>The origins of each Chinese surname are unique to that respective surname.
 The books selected below introduce how a group was given the surname, their
@@ -1461,7 +1465,7 @@ information.</p>
 <p>出版：北京: 华夏出版社.(2005).</p>
 </li>
 </ul>
-<h3><strong>人物志,传记</strong></h3>
+<h3><strong>人物志, 传记</strong></h3>
 <p>以下书目介绍人物的生卒年份、身平、教育背景和事迹等。下列书目包括当代人物如:《扭转生命的方向: 20位成功者的故事》、不同区域的人物传如:《新加坡华人百年史》、《厦门人物•海外篇》、《世界华侨名人传》等。</p>
 <p>The biographies listed below cover past and present, local and regional
 Chinese personalities. Information usually available in these sources are
@@ -1799,7 +1803,7 @@ background, achievements and official appointments if they are in the bureaucrac
 <p></p>
 </li>
 </ul>
-<h4><strong>族谱、家谱（中港台）</strong></h4>
+<h4><strong>族谱, 家谱 (中港台)</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>西河九龙族谱 by 孙中乔
@@ -2004,7 +2008,7 @@ background, achievements and official appointments if they are in the bureaucrac
 <br>册数：3</p>
 </li>
 </ul>
-<h3><strong>族谱,家谱(新加坡)</strong></h3>
+<h3><strong>族谱, 家谱 (新加坡)</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>邝氏族谱 by 邝氏公会族谱委员会编
@@ -2155,7 +2159,7 @@ background, achievements and official appointments if they are in the bureaucrac
 <br>丛书：吕氏史料丛书</p>
 </li>
 </ul>
-<h3><strong>族谱,家谱(马来西亚)</strong></h3>
+<h3><strong>族谱, 家谱 (马来西亚)</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>马来西亚槟城北马六槁林氏公会庆祝成立第十五周年紀念暨上街林氏宗亲族谱特刊, 公元一九六四年至一九七八年
