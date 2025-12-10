@@ -8,34 +8,35 @@ description: ""
 <h2><strong>目录</strong></h2>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="#新加坡华社概况" rel="noopener noreferrer nofollow" target="_blank">新加坡华社概况</a>
+<p><strong>新加坡华社概况</strong>
 </p>
 </li>
 <li>
-<p><a href="#本馆馆藏内的家谱书目" rel="noopener noreferrer nofollow" target="_blank">本馆馆藏内的家谱书目</a>
+<p><strong>本馆馆藏内的家谱书目</strong>
 </p>
 </li>
 <li>
-<p><a href="#各地区,籍贯史料,姓氏史料" rel="noopener noreferrer nofollow" target="_blank">各地区, 籍贯史料, 姓氏史料</a>
+<p><strong>各地区, 籍贯史料, 姓氏史料</strong>
 </p>
 </li>
 <li>
-<p><a href="#中国地方志" rel="noopener noreferrer nofollow" target="_blank">中国地方志</a>
+<p><strong>中国地方志</strong>
 </p>
 </li>
 <li>
-<p><a href="#人物志,传记" rel="noopener noreferrer nofollow" target="_blank">人物志, 传记</a>
+<p><strong>人物志, 传记</strong>
 </p>
 </li>
 <li>
-<p><a href="#族谱,家谱(新加坡)" rel="noopener noreferrer nofollow" target="_blank">族谱, 家谱 (新加坡)</a>
+<p><strong>族谱, 家谱 (新加坡)</strong>
 </p>
 </li>
 <li>
-<p><a href="#族谱,家谱(马来西亚)" rel="noopener noreferrer nofollow" target="_blank">族谱, 家谱 (马来西亚)</a>
+<p><strong>族谱, 家谱 (马来西亚)</strong>
 </p>
 </li>
 </ul>
+<p></p>
 <p>家谱是记载本宗族和事迹历史的图籍，它与正史、方志一起，构成中华民族历史学的三大支柱。
 <br>李光前参考图书馆收藏了一些家谱。这些家谱多数是民间个人出版物 （即非卖品）。主要通过公众人士的捐赠。“<em>本馆馆藏内的家谱书目</em>"选列了一些馆藏内的家谱、族谱和人物传记。此外，馆藏也收集了中国主要图书馆汇集的家谱目录。
 <br>
