@@ -2,6 +2,7 @@ collections:
   other-formats:
     output: true
     order:
+      - Archived Social Media.md
       - other-formats.md
       - ephemera.md
       - maps.md
