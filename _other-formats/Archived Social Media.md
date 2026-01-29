@@ -1,6 +1,6 @@
 ---
 title: Archived Social Media
-permalink: /archived-social-media/
+permalink: /other-formats/archived-social-media/
 variant: tiptap
 description: ""
 ---
