@@ -342,9 +342,9 @@ Learn through these interactive e-game and multimedia quiz suitable for children
 
 (listed in alphabetical order)
 
-* Energy lessons for middle schoolers. (2021). Retrieved May 17, 2021, from Alliant Energy Kids website: [https://www.alliantenergykids.com/ForEducators/TeachingUnits](https://www.alliantenergykids.com/ForEducators/TeachingUnits)
+* Grades 9-12. (2026). Retrieved Mar 20, 2026, from Alliant Energy Kids website: [https://www.alliantenergykids.com/foreducators/9-12](https://www.alliantenergykids.com/foreducators/9-12)
 
-Take middle schoolers through renewable energy, energy efficiency, home conservation and safety through standards-aligned teaching units.
+Take grade schoolers through renewable energy, energy efficiency, home conservation and safety through standards-aligned teaching units.
 
 * Lesson Plans, Teacher Guides and Online Environmental Resources for Educators. (2021, March 26). Retrieved May 17, 2021, from United States Environmental Protection Agency website: [https://www.epa.gov/students/lesson-plans-teacher-guides-and-online-environmental-resources-educators](https://www.epa.gov/students/lesson-plans-teacher-guides-and-online-environmental-resources-educators)
 
