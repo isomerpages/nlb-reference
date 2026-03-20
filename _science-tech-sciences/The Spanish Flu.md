@@ -140,10 +140,6 @@ MOxford, J. S. &amp; Gill, D. (2019, May 23). A possible European origin of the 
 
 This article explores how the Spanish Flu (1918-1919) infected a third of the global population and changed the world.
 
-<h5>2. <a href="https://www.dushu.com/news/12343/" target="_blank">1918年西班牙流感，最致命的流行病</a></h5>
-冯洁音。（2020年2月18日）。1918年西班牙流感，最致命的流行病。<i>读书网。</i> Retrieved 2020, March 30.
-
-This article describes the research on the virus that caused the Spanish Flu, from scientists trying to recover genetic information of the virus to experimenting with the reconstructed virus to understand its pathogenesis.
 
 <h5>3. <a href="https://www.bbc.com/indonesia/vert-fut-45987713" target="_blank">Penyakit flu yang mengubah abad ke-20: Menghilangkan satu generasi dan memperbaiki layanan kesehatan</a></h5>
 Spinney, L. (2018, October 30). Penyakit flu yang mengubah abad ke-20: Menghilangkan satu generasi dan memperbaiki layanan kesehatan. <i>BBC News Indonesia.</i> Retrieved 2020, March 31.

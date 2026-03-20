@@ -393,15 +393,10 @@ Ministry of Manpower. (2017). Workplace safety and health. Retrieved April 5, 20
 This website by the Ministry of Manpower provides links to various OSH-related webpages in Singapore, such as information on the requirements for pressure equipment, requirements and resources for Major Hazard Installations, and best practices in OSH etc.
 
 
-Workplace Safety and Health Council. iWSH Newsletter. Retrieved April 5, 2017, from Workplace Safety and Health Council website:
-[https://www.wshc.sg/wps/portal/wshc/newsletter?action=publicViewAllNewsletter&amp;newsletterType=I](https://www.wshc.sg/wps/portal/wshc/newsletter?action=publicViewAllNewsletter&amp;newsletterType=I)
+Resources. Retrieved Mar 3, 2026, from Workplace Safety and Health Council website:
+[https://www.tal.sg/wshc/resources](https://www.tal.sg/wshc/resources)
 
-This WSH website provides access to the iWSH Newsletter published by the Workplace Safety and Health Council. The newsletter, published in various languages like English, Chinese, Tamil and Bengali, contains information to educate workers on OSH issues.
-
-
-Workplace Safety and Health Council. WSH statistics reports. Retrieved April 5, 2017, from Workplace Safety and Health Council website: [https://www.wshc.sg/wps/portal/wshc/cms?action=cmsPublicView&amp;cmsId=C-2014091001131&amp;tabId=C-2014091001132](https://www.wshc.sg/wps/portal/wshc/cms?action=cmsPublicView&amp;cmsId=C-2014091001131&amp;tabId=C-2014091001132)
-
-The WSH Council releases workplace safety and health statistics biannually during mid-year and year end, providing the latest findings on workplace safety and health performance in Singapore.
+This WSH website provides access to the resources published by the Workplace Safety and Health Council. WSH Bulletins, Insights and Advisories contain information to educate workers on OSH issues.
 
 
 ### <u>Websites of OSH organisations</u>
