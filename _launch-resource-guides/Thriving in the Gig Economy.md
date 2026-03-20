@@ -93,11 +93,6 @@ Briggs, Laura. (2019, April 13). "The future is freelancing". [https://youtu.be/
 
 A former school teacher in the USA, Briggs shares her experience of leaving the education industry to become a freelance writer. She also shares that the landscape of traditional work has evolved and how the desire for flexible work is driving the changes in the global workforce. 
 
-#### Freelance Creative Exchange 
-
-Freelance Creative Exchange. "A podcast for freelancers by freelancers". Accessed March 2, 2022. [https://www.freelancecreativeexchange.com/](https://www.freelancecreativeexchange.com/)
-
-Hosted by CreativesAtWork co-founders, listen to the 30 to 40-minute podcasts or watch Youtube episodes featuring creative professionals who share their personal experiences with freelancing and their candid opinions on the gig economy landscape in Singapore and overseas. 
 
 #### The Singapore gig economy 
 
