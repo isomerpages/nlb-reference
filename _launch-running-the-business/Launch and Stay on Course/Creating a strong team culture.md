@@ -53,6 +53,6 @@ Glassdoor. “Team Culture: Identifiers, Benefits, and How to Build One that Wor
 
 Heathfield, Susan M. “Build Teamwork into Your Company Culture”. Updated November 29, 2019. [https://www.liveabout.com/how-to-build-a-teamwork-culture-1918509](https://www.liveabout.com/how-to-build-a-teamwork-culture-1918509)  
 
-Jones, Scott. “Building a Strong Team Culture That Lasts – Even Through a Pandemic”. Posted November 29, 2019. [https://www.liveabout.com/how-to-build-a-teamwork-culture-1918509](https://www.liveabout.com/how-to-build-a-teamwork-culture-1918509)  
+
 
 Rodriguez-Zaba, Diana. “How to Build a Strong Team Culture in Seven Steps”. Forbes. June 20, 2019. [https://www.forbes.com/sites/forbeschicagocouncil/2019/06/20/how-to-build-a-strong-team-culture-in-seven-steps/](https://www.forbes.com/sites/forbeschicagocouncil/2019/06/20/how-to-build-a-strong-team-culture-in-seven-steps/)
