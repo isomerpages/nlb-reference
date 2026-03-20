@@ -14,7 +14,7 @@ The collection will encompass Singapore’s performing arts, visual arts and lit
 
 SOAR adds on to NLB’s ongoing efforts to collect, document and preserve Singapore arts heritage. A selection has been digitised and is accessible on [National Library Online](https://www.nlb.gov.sg/main/nlonline). New content will be added progressively. 
 
-SOAR honours our Cultural Medallion recipients who now have a dedicated showcase at the Arts House, [Our Cultural Medallion Story](https://artshouselimited.sg/ourcmstory/). More information on the Cultural Medallion Recipients can be found in our specially curated resource guides below.
+SOAR honours our Cultural Medallion recipients who now have a dedicated showcase at the Arts House, [Our Cultural Medallion Story](https://www.artshousegroup.sg/ourcmstory). More information on the Cultural Medallion Recipients can be found in our specially curated resource guides below.
 
 ### List of Resource Guides 
 
