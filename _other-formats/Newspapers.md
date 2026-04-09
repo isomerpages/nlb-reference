@@ -12,9 +12,8 @@ description: ""
 newspapers, both archival and contemporary, to support research and learning
 needs. Dating from the 19th century to the present day, our archival newspaper
 collection can be accessed physically via Lee Kong Chian Reference Library’s
-microfilm collection, or digitally via NewspaperSG and Factiva database.
-Contemporary news is also available through SPH eNewspapers and PressReader
-databases.</p>
+microfilm collection, or digitally via NewspaperSG. Contemporary news is
+also available through SPH eNewspapers and PressReader databases.</p>
 <h2>Newspaper Coverage</h2>
 <p>With a few exceptions, newspapers published before 1989 can be accessed
 from home on our NewspaperSG platform. Patrons can access post-1989 newspaper
