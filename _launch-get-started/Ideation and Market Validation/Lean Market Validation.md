@@ -6,6 +6,7 @@ description: Lean market validation refers to deciding on what product or
   possible. It involves finding out if the product you intend to build is suited
   to the target market and if there will be a demand for it.
 third_nav_title: Ideation & Market Validation
+variant: markdown
 ---
 # Lean Market Validation 
 
@@ -70,7 +71,7 @@ EB Pearls. "Idea Validation." Accessed 22 March 2022, [https://ebpearls.com.au/l
 
 Jon Lay and Zsolt Kocsmarszky. "A Lean Approach to Product Validation." Accessed 13 October 2022, [https://www.smashingmagazine.com/2016/07/a-lean-approach-to-product-validation/](https://www.smashingmagazine.com/2016/07/a-lean-approach-to-product-validation/)  
 
-Product Plan. "Minimum Viable Product (MVP)." Accessed 22 March 2022, [https://www.productplan.com/glossary/minimum-viable-product/](https://www.productplan.com/glossary/minimum-viable-product/#:~:text=A%20minimum%20viable%20product%2C%20or,iterate%20and%20improve%20the%20product)  
+Product Plan. "Minimum Viable Product (MVP)." Accessed 22 March 2022, [https://productplan.com/glossary/minimum-viable-product-mvp](https://productplan.com/glossary/minimum-viable-product-mvp)  
 
 Reynolds, Stuart. "Lean Market Validation." Full Stack. Published 16 May 2019, [https://www.fullstack.com.au/lean-market-validation/](https://www.fullstack.com.au/lean-market-validation/)  
 
