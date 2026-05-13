@@ -149,7 +149,7 @@ Lim, Kay Tong. <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=609568
 ### The Capitol
 **BiblioAsia - articles**
 *  
-Tan, Bonny. "[Living it up at The Capitol](https://biblioasia.nlb.gov.sg/files/pdf/vol-13/v13-issue4_Capitol.pdf).” *BiblioAsia* 13, issue 4 (2018): 16-21. 
+Tan, Bonny. "[Living it up at The Capitol](https://biblioasia.nlb.gov.sg/all-sections/vol-13-issue-4-jan-mar-2018-living-up-at-capitol/).” *BiblioAsia* 13, issue 4 (2018): 16-21. 
 
 **Newspaper articles**
 * “[Today's Opening of The Capitol Theatre](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19300522-1.2.110).” *Straits Times*, 22 May 1930, 16. (From NewspaperSG)
