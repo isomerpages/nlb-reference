@@ -26,7 +26,7 @@ To learn more about food logistics/supply and safety, check out the resources li
 
 [^2]: AVA’s Food Security Roadmap for Singapore (2020, February 27). *Singapore Food Agency.* Retrieved 2020, June 16 from [https://www.sfa.gov.sg/food-for-thought/article/detail/ava%27s-food-security-roadmap-for-singapore](https://www.sfa.gov.sg/food-for-thought/article/detail/ava%27s-food-security-roadmap-for-singapore)
 
-[^3]: Tan, H.Y. (2020, April 26). Coronavirus and our new relationship with food. *The Straits Times.* Retrieved 2020, June 16  from [https://www.straitstimes.com/lifestyle/food/coronavirus-and-our-new-relationship-with-food](https://www.straitstimes.com/lifestyle/food/coronavirus-and-our-new-relationship-with-food)
+[^3]: Tan, H.Y. (2020, April 26). Coronavirus and our new relationship with food. *The Straits Times.* Retrieved 2020, June 16  from www.straitstimes.com
 
 [^5]: Food safety and the different types of food contamination. (2019, October 30). *Australian Institute of Food Safety.* Retrieved 2020, June 17 from [https://blog.foodsafety.com.au/different-types-of-food-contamination](https://blog.foodsafety.com.au/different-types-of-food-contamination)
 
