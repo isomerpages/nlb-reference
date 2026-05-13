@@ -96,7 +96,7 @@ Seet, K. K. <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=408232
 * Balamurugan, Anasuya. “[National Library Building (Stamford Road)]([National Library Building (Stamford Road) (nlb.gov.sg)](https://www.nlb.gov.sg/main/article-detail?cmsuuid=62e46445-56be-4ea1-917d-f0b0fb5220eb)).” Singapore Infopedia. Published 2018.
 
 **BiblioAsia - article**
-* Boey, Kim Cheng. “[The Library of Memory](https://biblioasia.nlb.gov.sg/files/pdf/Bibliosia%20Apr-Jun%202014.pdf).” *BiblioAsia* 10, issue 1 (2014): 2–7.  
+* Boey, Kim Cheng. “[The Library of Memory](https://biblioasia.nlb.gov.sg/all-sections/vol-10-issue-1-apr-jun-2014-boey-kim-cheng-opinion/).” *BiblioAsia* 10, issue 1 (2014): 2–7.  
 
 **Newspaper articles**
 * Anuar, Hedwig. “[Singapore’s National Library](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stannual19620101-1.2.45).” *Straits Times Annual*, 1 January 1962, 58/59. (From NewspaperSG)
