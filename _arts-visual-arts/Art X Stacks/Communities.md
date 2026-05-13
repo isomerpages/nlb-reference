@@ -43,7 +43,7 @@ The artworks on Level 9 of the library give us a glimpse of life in the past, wh
 
 * [Meeting with the Sea](https://biblioasia.nlb.gov.sg/vol-13/issue-1/apr-jun-2017/meetingwiththesea): Author Melissa De Silva mulls over what it means to be Eurasian in this evocative short story that takes her back to the Portuguese Settlement in Malacca.
 
-* [Multi-ethnic Enclaves around Middle Road: An Examination of Early Urban Settlement in Singapore](https://biblioasia.nlb.gov.sg/files/pdf/vol-2/issue-2/v2-issue2_MultiEthnic.pdf): Researcher Lai Chee Kien focuses on two ethnic groups, namely the Hainanese community and the Japanese community, that settled near Middle Road in Singapore. He examines the history of these communities and how the uses of buildings in the area differed from other parts of town to suit their needs.
+* [Multi-ethnic Enclaves around Middle Road: An Examination of Early Urban Settlement in Singapore](https://biblioasia.nlb.gov.sg/all-sections/vol-2-issue2-jul-2006-ethnic-enclave-urban-settlement/): Researcher Lai Chee Kien focuses on two ethnic groups, namely the Hainanese community and the Japanese community, that settled near Middle Road in Singapore. He examines the history of these communities and how the uses of buildings in the area differed from other parts of town to suit their needs.
 
 * [Give Me Shelter: The Five-footway Story](https://biblioasia.nlb.gov.sg/vol-15/issue-3/oct-dec-2019/give-me-shelter-stry/): The five-footway – the equivalent of the modern-day pavement or sidewalk – was a hotly contested space in colonial Singapore. Researcher Fiona Lim relives its colourful history.
 

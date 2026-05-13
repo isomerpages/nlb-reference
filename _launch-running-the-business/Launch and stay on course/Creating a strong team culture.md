@@ -5,7 +5,7 @@ description: Strong team culture can reduce conflict and encourage valuable
   contributions from all team members. It fosters efficient collaboration and
   open communication, resulting in a positive and engaging workplace, and in
   turn drive performance.
-third_nav_title: Launch & Stay on Course
+third_nav_title: Launch and stay on course
 variant: markdown
 ---
 # Creating a strong team culture 

@@ -6,7 +6,7 @@ description: Hard skills such as experience, product knowledge and industry
   experience alone is not sufficient. A right balance of hard and soft skills
   makes a team truly thrive. Knowledge, skills, passion and team diversity are
   equally important for the success of a start-up.
-third_nav_title: Launch & Stay on Course
+third_nav_title: Launch and stay on course
 variant: markdown
 ---
 # Building a Successful Start-Up Team

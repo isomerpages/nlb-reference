@@ -6,7 +6,7 @@ description: Organisations are in competition for top talent. Talented people
   values different perspectives. Workplace diversity comprising different
   genders, races, and nationalities is key to improving a company’s innovation
   potential.
-third_nav_title: Launch & Stay on Course
+third_nav_title: Launch and stay on course
 variant: markdown
 ---
 # How to Recruit More Diverse Talent 
@@ -47,10 +47,7 @@ Unconscious bias can also occur during the resumé review process. One way to mi
 
 People are likely to align with others similar to themselves, thereby falling prey to affinity bias. Some recruiters hire people whom they are comfortable with and who look like them. When recruiting for “culture fit” is disproportionally emphasised, it can lead to a less diverse workforce. Instead, recruiters should assess candidates objectively based on an impartial list of specific skills and competencies required for the role.  
 
-## References 
+## Further Resources 
 
-Carnahan, Becca. “6 Best Practices to Creating Inclusive and Equitable Interview Processes.” Harvard Business School. Published 16 August 2021, [https://www.hbs.edu/recruiting/insights-and-advice/blog/post/6-best-practices-to-creating-inclusive-and-equitable-interview-processes](https://www.hbs.edu/recruiting/insights-and-advice/blog/post/6-best-practices-to-creating-inclusive-and-equitable-interview-processes) 
-
-Dewar, Jen. “How to Recruit Diverse Talent: 15 Ways to Build a More Diverse Talent Pipeline.” Lever. Last updated 4 July 2021, [https://www.lever.co/blog/diverse-talent-pipeline/](https://www.lever.co/blog/diverse-talent-pipeline/)  
 
 Rock, David, and Grant, Heidi. “Why Diverse Teams Are Smarter.” Harvard Business Review. Published 4 November 2016, [https://hbr.org/2016/11/why-diverse-teams-are-smarter](https://hbr.org/2016/11/why-diverse-teams-are-smarter)

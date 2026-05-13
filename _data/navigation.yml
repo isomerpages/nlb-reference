@@ -13,8 +13,6 @@ links:
         url: /guides/sci-tech/ai
       - title: Social Sciences and Humanities
         url: /guides/socscihum/soc-sci
-      - title: Digital Preservation
-        url: /guides/digital-preservation/main
   - title: Launch
     url: /launch
     sublinks:

@@ -1,13 +1,13 @@
 ---
 title: How to keep your employees motivated
-permalink: /articles/running-business/launch-stay-on-course/keep-employees-focused-motivated/
-description: "Employee motivation is about the enthusiasm, commitment, and
+permalink: /launch/running-business/launch-stay-on-course/keep-employees-focused-motivated/
+description: Employee motivation is about the enthusiasm, commitment, and
   creativity that employees bring to their jobs. A team driven to accomplish
   tasks results in high productivity and helps the organisation attain its
-  goals.  "
-third_nav_title: Launch & Stay on Course
+  goals.
+third_nav_title: Launch and stay on course
+variant: tiptap
 ---
-
 # How to Keep Your Employees Motivated 
 
 Employee motivation is about the enthusiasm, commitment, and creativity that employees bring to their jobs. A team driven to accomplish tasks results in high productivity and helps the organisation attain its goals.  

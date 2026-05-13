@@ -6,7 +6,7 @@ description: Disruptive technology refers to a new advanced technology that
   replacing and transforming age-old practices. Disruptive technologies often
   come from start-ups, allowing them to establish themselves as thought leaders
   in new markets or gain a significant foothold in existing industries.
-third_nav_title: Launch & Stay on Course
+third_nav_title: Launch and stay on course
 variant: markdown
 ---
 # Using Disruptive Technology to Boost Your Business 

@@ -1,11 +1,12 @@
 ---
 title: Leadership skills for team success
 permalink: /launch/running-business/launch-stay-on-course/leadership-skills-team-success/
-description: "Strong leadership is essential for any team’s success. An
-  effective leader will be able to galvanise and motivate their team, and work
-  together with them to achieve common goals. Developing these management skills
-  will help you guide your team to success. "
-third_nav_title: Launch & Stay on Course
+description: Strong leadership is essential for any team’s success. An effective
+  leader will be able to galvanise and motivate their team, and work together
+  with them to achieve common goals. Developing these management skills will
+  help you guide your team to success.
+third_nav_title: Launch and stay on course
+variant: tiptap
 ---
 # Leadership Skills for Team Success 
 

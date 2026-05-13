@@ -2,7 +2,7 @@
 title: 8 Tips for a positive work culture
 permalink: /launch/running-business/launch-stay-on-course/tips-positive-work-culture/
 description: ""
-third_nav_title: Launch and Stay on Course
+third_nav_title: Launch and stay on course
 variant: markdown
 ---
 # 8 Tips for a Positive Workplace Culture 

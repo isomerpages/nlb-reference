@@ -33,7 +33,7 @@ IDEO. “Design Thinking Defined”. Accessed September 2, 2021. [https://design
 
 IDEO U. “What is Design Thinking?”. Accessed September 22, 2021. [https://www.ideou.com/blogs/inspiration/what-is-design-thinking](https://www.ideou.com/blogs/inspiration/what-is-design-thinking) 
 
-Seow, Joanna. “New National Framework for Design Skills to Drive Innovation in Singapore”. Last updated July 24, 2019. [https://www.straitstimes.com/singapore/new-national-framework-for-design-skills-to-drive-innovation-in-singapore](https://www.straitstimes.com/singapore/new-national-framework-for-design-skills-to-drive-innovation-in-singapore) 
+Alimon, Sufyan & Ang, Eunice "Designed for Use: library@orchard Makes a Comeback". *BiblioAsia*. Accessed September 2, 2021. [https://biblioasia.nlb.gov.sg/all-sections/vol-10-issue-3-oct-dec-2014-singapore-orchard-library/](https://biblioasia.nlb.gov.sg/all-sections/vol-10-issue-3-oct-dec-2014-singapore-orchard-library/) 
 
 See, Bridgette. “Library@Orchard: Deliberately Designed with Users in Mind”. Challenge. Posted March 17, 2015. [https://psdchallenge.psd.gov.sg/ideas/deep-dive/deliberately-designed-with-users-in-mind](https://psdchallenge.psd.gov.sg/ideas/deep-dive/deliberately-designed-with-users-in-mind)
 
