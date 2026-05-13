@@ -54,7 +54,7 @@ In 2019, Lim was awarded Businessman of the Year, the highest accolade at the Si
 
 Chua, Alvin. (2010, n.d.). “Sheng Siong”. (https://www.nlb.gov.sg/main/article-detail?cmsuuid=034bf670-569d-46f5-9813-2c0289ffee3e)
 
-Unscrambled.sg. (2016, November 16). “The Sheng Siong story: From selling pork in Ang Mo Kio to a millionaire” [https://ntucusme.weebly.com/feature-stories/the-sheng-shiong-story-from-selling-pork-in-ang-mo-kio-to-a-millionaire](https://ntucusme.weebly.com/feature-stories/the-sheng-shiong-story-from-selling-pork-in-ang-mo-kio-to-a-millionaire/)  
+
 
 Sheng Siong. (2020, n.d.). “Our Story”. [https://corporate.shengsiong.com.sg/about/](https://corporate.shengsiong.com.sg/about/)  
 
@@ -63,5 +63,7 @@ Superbrands Singapore. [*Superbrands: An Insight into Many of Singapore’s Stro
 Tan, Sumiko. (2019, May 5). “Lunch with Sumiko: Sheng Siong boss Lim Hock Chee walks the talk”. [https://www.straitstimes.com/singapore/a-boss-who-walks-the-talk](https://www.straitstimes.com/singapore/a-boss-who-walks-the-talk)  
 
 Tay, Peck Gek. (2019, March 29). “Big dreams for the long road”. [https://www.businesstimes.com.sg/hub/singapore-business-awards-2019/big-dreams-for-the-long-road](https://www.businesstimes.com.sg/hub/singapore-business-awards-2019/big-dreams-for-the-long-road)  
+
+Unscrambled.sg. (2016, November 16). “The Sheng Siong story: From selling pork in Ang Mo Kio to a millionaire” [https://ntucusme.weebly.com/feature-stories/the-sheng-shiong-story-from-selling-pork-in-ang-mo-kio-to-a-millionaire](https://ntucusme.weebly.com/feature-stories/the-sheng-shiong-story-from-selling-pork-in-ang-mo-kio-to-a-millionaire/)  
 
 Yang, Royston. (2022, January 6). “5 things you should know about Sheng Siong”. [https://sg.finance.yahoo.com/news/5-things-know-sheng-siong-040000301.html](https://sg.finance.yahoo.com/news/5-things-know-sheng-siong-040000301.html)
