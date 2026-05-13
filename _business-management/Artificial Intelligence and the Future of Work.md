@@ -80,7 +80,7 @@ Minevich, Mark. “The Future of Jobs in the Era of AI.” _Fast Company,_ Octob
 
 <b><font style="color:#4372d6;"> How is Artificial Intelligence Shaping the Future of Work?</font></b><br>The four ways that artificial intelligence (AI) will influence the future of work are AI could help understand humans’ unconscious bias during the hiring process; automating routine tasks could free up human time; humans and AI will work together; and AI will create new jobs. Research shows that automation and augmentation are not necessarily resulting in fewer jobs.
 
-Cariou, Lili. “How is Artificial Intelligence Shaping the Future of Work?” _BusinessBecause,_ March 21, 2022. [https://www.businessbecause.com/news/insights/8097/ai-future-of-work?sponsored](https://www.businessbecause.com/news/insights/8097/ai-future-of-work?sponsored)
+Cariou, Lili. “How is Artificial Intelligence Shaping the Future of Work?” _BusinessBecause,_ March 21, 2022. www.businessbecause.com/news/insights/8097/ai-future-of-work
 
 <b><font style="color:#4372d6;"> The Robots Are Coming. Is Your Firm Ready?</font></b><br> This paper argues that the robot revolution is unavoidable given the advances in artificial intelligence and other technologies that are rapidly changing the workplace. It explains how automation is changing the workplace in unexpected ways. Robots can boost efficiency and even create more jobs for their human counterparts. But more robots may also render some managers obsolete.
 
