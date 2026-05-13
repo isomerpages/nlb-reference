@@ -141,7 +141,7 @@ An introduction to the National Musuem centenary art exhibition, this article hi
 <p style="margin-left: 32px">This article examines the early development of abstract expressionism and the key concerns of the artists to discuss the difference between abstract expressionism and surrealism.</p>
 
 * Say, Jeffrey. “Groundbreaking: The Beginnings of contemporary art in Singapore.” [*Biblioasia*](https://www.nlb.gov.sg/biblio/12585942), Volume 15 Issue 2 (July – September 2019): 30-35. 
-Call no.: RSING 027.495957 SNBBA -[LIB] (Also available [here](https://biblioasia.nlb.gov.sg/files/pdf/vol-15/v15-issue2_Groundbreaking.pdf).)
+Call no.: RSING 027.495957 SNBBA -[LIB] (Also available [here](https://biblioasia.nlb.gov.sg/all-sections/vol-15-issue-2-jul-sep-2019-contemporary-art/).)
 
 <p style="margin-left: 32px">This article narrates the development of contemporary art in Singapore and sets the beginning of this movement to at least two to three years before the formation of The Artists Village. This differed from the viewpoint that the formation of The Artists Village marked the start of contemporary art in Singapore, which was widely accepted by researchers and critics of art in Singapore.</p>
 
