@@ -54,7 +54,7 @@ In 2019, Lim was awarded Businessman of the Year, the highest accolade at the Si
 
 Chua, Alvin. (2010, n.d.). “Sheng Siong”. (https://www.nlb.gov.sg/main/article-detail?cmsuuid=034bf670-569d-46f5-9813-2c0289ffee3e)
 
-CRC. (2016, November 3). “The Sheng Siong story: From selling pork in Ang Mo Kio to a millionaire” [https://unscrambled.sg/2016/11/03/the-sheng-shiong-story-from-one-stall-selling-pork-to-a-millionaire/](https://unscrambled.sg/2016/11/03/the-sheng-shiong-story-from-one-stall-selling-pork-to-a-millionaire/)  
+Unscrambled.sg. (2016, November 16). “The Sheng Siong story: From selling pork in Ang Mo Kio to a millionaire” [https://ntucusme.weebly.com/feature-stories/the-sheng-shiong-story-from-selling-pork-in-ang-mo-kio-to-a-millionaire](https://ntucusme.weebly.com/feature-stories/the-sheng-shiong-story-from-selling-pork-in-ang-mo-kio-to-a-millionaire/)  
 
 Sheng Siong. (2020, n.d.). “Our Story”. [https://corporate.shengsiong.com.sg/about/](https://corporate.shengsiong.com.sg/about/)  
 
