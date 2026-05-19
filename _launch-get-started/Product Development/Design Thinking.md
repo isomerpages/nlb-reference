@@ -35,6 +35,4 @@ IDEO U. “What is Design Thinking?”. Accessed September 22, 2021. [https://ww
 
 Alimon, Sufyan & Ang, Eunice "Designed for Use: library@orchard Makes a Comeback". *BiblioAsia*. Accessed September 2, 2021. [https://biblioasia.nlb.gov.sg/all-sections/vol-10-issue-3-oct-dec-2014-singapore-orchard-library/](https://biblioasia.nlb.gov.sg/all-sections/vol-10-issue-3-oct-dec-2014-singapore-orchard-library/) 
 
-See, Bridgette. “Library@Orchard: Deliberately Designed with Users in Mind”. Challenge. Posted March 17, 2015. [https://psdchallenge.psd.gov.sg/ideas/deep-dive/deliberately-designed-with-users-in-mind](https://psdchallenge.psd.gov.sg/ideas/deep-dive/deliberately-designed-with-users-in-mind)
-
 Plattner, Hasso. “An Introduction to Design Thinking: Process Guide”. Accessed September 2, 2021. [https://web.stanford.edu/~mshanks/MichaelShanks/files/509554.pdf](https://web.stanford.edu/~mshanks/MichaelShanks/files/509554.pdf)
