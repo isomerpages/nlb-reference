@@ -591,16 +591,7 @@ Climate One Podcast. (2021). *Climate One*. Retrieved 2021, January 8, from [htt
 
 The podcasts offer fresh insights on energy, the economy, resilience, transportation, water, food, technology and the environment, via frank discussions by climate scientists, policymakers, activists and concerned citizens. Each podcast episode is released weekly.
 
- 
 
-**Shaping the future - From pandemic to climate change**
-
-Shaping the future - From pandemic to climate change. Cambridge Climate Lecture Series. (2020). *University of Cambridge*. Retrieved 2021, January 8, from [https://climateseries.com/climate-change-podcast](https://climateseries.com/climate-change-podcast){:target="blank"}
-
-
-The podcasts feature interviews with environmental and climate change experts on how human actions are impacting the lived environment for current and future generations and what governments and ordinary citizens around the world can do to mitigate the fallout from climate catastrophes. Six podcast episodes are released each month.
-
- 
 
 **Three solutions that can slow or stop climate change**
 
