@@ -71,7 +71,7 @@ EB Pearls. "Idea Validation." Accessed 22 March 2022, [https://ebpearls.com.au/l
 
 Jon Lay and Zsolt Kocsmarszky. "A Lean Approach to Product Validation." Accessed 13 October 2022, [https://www.smashingmagazine.com/2016/07/a-lean-approach-to-product-validation/](https://www.smashingmagazine.com/2016/07/a-lean-approach-to-product-validation/)  
 
-Product Plan. "Minimum Viable Product (MVP)." Accessed 22 March 2022, [https://productplan.com/glossary/minimum-viable-product-mvp](https://productplan.com/glossary/minimum-viable-product-mvp)  
+Product Plan. "Your MVP is Not the Minimum Product." Accessed 22 March 2022, [https://www.productplan.com/blog/mvp-not-minimum-product](https://www.productplan.com/blog/mvp-not-minimum-product)  
 
 Reynolds, Stuart. "Lean Market Validation." Full Stack. Published 16 May 2019, [https://www.fullstack.com.au/lean-market-validation/](https://www.fullstack.com.au/lean-market-validation/)  
 
