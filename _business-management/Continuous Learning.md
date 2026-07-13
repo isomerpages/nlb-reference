@@ -2,6 +2,7 @@
 title: Continuous Learning
 permalink: /guides/business/management/continuous-learning/
 description: Continuous Learning
+variant: markdown
 ---
 # Continuous Learning
 
@@ -58,8 +59,6 @@ Step 5: Surround yourself with passionate learners
 
 3. Sword, Rosalyn. “Why is Continous Learning Important?”. *High Speed Training*, August 11, 2021. [https://www.highspeedtraining.co.uk/hub/why-is-continuous-learning-important/](https://www.highspeedtraining.co.uk/hub/why-is-continuous-learning-important/)
 
-4. “5 Steps to Developing a Lifelong Habit of Learning”. *Cornerstone University*, July 28, 2018. [https://www.cornerstone.edu/blog-post/5-steps-to-developing-a-lifelong-habit-of-learning/ ](https://www.cornerstone.edu/blog-post/5-steps-to-developing-a-lifelong-habit-of-learning/ ) 
-
 
 ## Further Reading
 Learn more about continuous learning and find out how you can develop a habit of learning. 
@@ -100,12 +99,12 @@ Dietsch, Stacey, Bonnie Dowling &amp; Nicolai Nielsen. “Is your Organization H
 <br>
 Personal Learning Environment (PLE) disrupts educational character in connecting formal, non-formal and informal learning experiences. By integrating those experiences, PLEs make lifelong learning or continuous learning an achievable goal. This paper explores the concept of PLE, its cognitive and theoretical underpinnings, and its implications for the design of pedagogical processes and learning ecosystems.
 
-Dabbagh, Nada, & Linda Castaneda. “The PLE as a Framework for Developing Agency in Lifelong Learning”. _Educational Technology Research & Development_, 68, no. 6 (2020): 3041-3055. (From EBSCOhost Academic Search Complete via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+Dabbagh, Nada, &amp; Linda Castaneda. “The PLE as a Framework for Developing Agency in Lifelong Learning”. _Educational Technology Research &amp; Development_, 68, no. 6 (2020): 3041-3055. (From EBSCOhost Academic Search Complete via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
 <b><font style="color:#4372d6;">Lifelong Learning through Cultural Learning, Citizenship Learning, and Community Engagement in Grassroots Communities in South Korea</font></b><br>
 A master plan for promoting lifelong education was formulated in Korea in 2003. This article looks at how the current Korean lifelong learning, led by citizens, is connected with cultural learning, citizenship learning, and community engagement, rooted in the community and a combination of active community-building projects. It also examines recent trends of community building projects through three cases of grassroots community building centring on local village schools, called "Maeul Hakkyos".
 
-Cho, Sung Ran. “Lifelong Learning through Cultural Learning, Citizenship Learning, and Community Engagement in Grassroots Communities in South Korea”. _New Directions for Adult & Continuing Education,_ 2019, no. 162 (Summer 2019): 61-72. (From EBSCOhost Academic Search Complete via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+Cho, Sung Ran. “Lifelong Learning through Cultural Learning, Citizenship Learning, and Community Engagement in Grassroots Communities in South Korea”. _New Directions for Adult &amp; Continuing Education,_ 2019, no. 162 (Summer 2019): 61-72. (From EBSCOhost Academic Search Complete via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
 <h3><font style="color:#4372d6;">E-Books</font></h3>
 Retrieved from [OverDrive](https://nlb.overdrive.com/). (myLibrary ID is required to access the eBook)
@@ -126,7 +125,7 @@ Becoming a lifelong learner is one of the great unlocks of life. You are capable
 
 The Art of Improvement. (2020, August 17). *How to Embrace Being a Lifelong Learner*. [https://www.youtube.com/watch?v=cqRoGpSGFwk ](https://www.youtube.com/watch?v=cqRoGpSGFwk )
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cqRoGpSGFwk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cqRoGpSGFwk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 <b><font style="color:#4372d6;">Continuous, Lifelong Learning is the Future of Work</font></b>
 <br>
@@ -134,19 +133,19 @@ In a rapidly changing world, continuous learning is very important. For companie
 
 Growth Tribe. (2021, September 30). Continuous, Lifelong Learning is the Future of Work. [https://www.youtube.com/watch?v=yHSL3mGM-4A](https://www.youtube.com/watch?v=yHSL3mGM-4A)
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yHSL3mGM-4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yHSL3mGM-4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 <h3><font style="color:#4372d6;">Podcasts</font></h3>
 <b><font style="color:#4372d6;">Building a Learning Culture that Drives Business Forward</font></b>
 <br>
 Learning itself is a fundamental skill. It can even happen through social interactions and conversations. The building blocks of learning include setting goals, enlisting others in the process, discussing what you are learning and obtaining feedback. This podcast discusses how individuals and organisations can build skills and create a learning culture.
 
-Smith, Matthew, & Elizabeth Young McNally. (2021, April 16). Building a Learning Culture that Drives Business Forward. Retrieved 2022, October 6. [https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/building-a-learning-culture-that-drives-business-forward](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/building-a-learning-culture-that-drives-business-forward) 
+Smith, Matthew, &amp; Elizabeth Young McNally. (2021, April 16). Building a Learning Culture that Drives Business Forward. Retrieved 2022, October 6. [https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/building-a-learning-culture-that-drives-business-forward](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/building-a-learning-culture-that-drives-business-forward) 
 
 <b><font style="color:#4372d6;">Curiosity and the Case for Lifelong Learning</font></b><br>
 The journey is more important than the destination when it comes to upskilling. The focus should not be on the job you are doing now but on the job you will do in the future. In this podcast, Professor Sameer Hasija, Dean of INSEAD’s Executive Education, shares his thoughts on the importance of lifelong learning and why having a curious mindset is key.
 
-INSEAD Executive Podcasts. (2022, September 8). Curiosity and the Case for Lifelong Learning. Retrieved 2022, October 6. [https://open.spotify.com/episode/5aFGfGvQZdkw3tRcC0IXR8?si=9EAXpfVeQeSDN26h5tMHFw&nd=1 ](https://open.spotify.com/episode/5aFGfGvQZdkw3tRcC0IXR8?si=9EAXpfVeQeSDN26h5tMHFw&nd=1 )
+INSEAD Executive Podcasts. (2022, September 8). Curiosity and the Case for Lifelong Learning. Retrieved 2022, October 6. [https://open.spotify.com/episode/5aFGfGvQZdkw3tRcC0IXR8?si=9EAXpfVeQeSDN26h5tMHFw&amp;nd=1 ](https://open.spotify.com/episode/5aFGfGvQZdkw3tRcC0IXR8?si=9EAXpfVeQeSDN26h5tMHFw&amp;nd=1 )
 <br>
 <br>
 <br>
