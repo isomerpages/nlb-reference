@@ -57,7 +57,7 @@ Kurczy, S. (2018). Have we learned the lessons of the great recession? Ideas and
 <h5>6. <a href="https://www.straitstimes.com/opinion/st-editorial/preparing-for-a-deeper-downturn" target="_blank">Preparing for a deeper downturn</a></h5>
 Straits Times (2020, May 1) Preparing for a deeper downturn. *Straits Times.* Retrieved 2020, May 30.
 
-<h5>7. <a href="https://lkyspp.nus.edu.sg/docs/default-source/case-studies/singapores_approach_to_managing_economic_crises_22052018_lowres.pdf?sfvrsn=7387660a_0" target="_blank">Singapore’s approach to managing economic crises</a></h5>
+<h5>7. <a href="https://scholarbank.nus.edu.sg/entities/publication/83cdc411-a0c9-4c2d-9256-00a94721a05e" target="_blank">Singapore’s approach to managing economic crises</a></h5>
 Woo. J. J. (2018). Singapore’s approach to managing economic crises. *Lee Kwan Yew School of Public Policy.* 1–20. Retrieved 2020, May 30.
 
 
