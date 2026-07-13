@@ -3,12 +3,13 @@ title: Subscription based Business
 permalink: /launch/resource-guides/subscription-based-business/
 description: ""
 third_nav_title: Resource Guides
+variant: markdown
 ---
-# Subscription-based Business 
+# Subscription-based Business&nbsp;
 
-The concept of a subscription-based business is not new, as we have seen with magazines, newspapers and membership programmes. For a business, a subscription ensures a stable customer base and longer\-term revenue. 
+The concept of a subscription-based business is not new, as we have seen with magazines, newspapers and membership programmes. For a business, a subscription ensures a stable customer base and longer\-term revenue.&nbsp;
 
-The rise of digital and online services has afforded enterprising individuals the ability to provide subscriptions to several new types of products. Subscribed products can now include curated physical goods (e.g. meal kits, men’s razors, beauty products, car rentals), digital products (e.g. digital games, videos, art, meditation guides) or other services, i.e. the X-as-a-Service (XaaS) concept. This gives creative entrepreneurs the potential to sell a broad range of new products and services to a new base of customers. 
+The rise of digital and online services has afforded enterprising individuals the ability to provide subscriptions to several new types of products. Subscribed products can now include curated physical goods (e.g. meal kits, men’s razors, beauty products, car rentals), digital products (e.g. digital games, videos, art, meditation guides) or other services, i.e. the X-as-a-Service (XaaS) concept. This gives creative entrepreneurs the potential to sell a broad range of new products and services to a new base of customers.&nbsp;
 
 The challenge for new subscription-based businesses is to figure out how to continually engage subscribed customers with interesting and relevant content, to reduce the likelihood of them terminating the subscription. Being able to innovate, while maintaining production costs and avoiding creative or administrative burnout, requires good planning and management. Ultimately, an entrepreneur who is able to maintain a subscription-based business with a sustainable long-term plan is in a comparatively better position for lasting success.
 
@@ -39,24 +40,24 @@ This guide provides supplementary resources for those who are keen to further ex
 
 ### Websites
 
-Subscription Trade Association. **“SUBTA: The World’s Largest DTC Subscription Community.”** 2022. <https://subta.com>   
+Subscription Trade Association. **“SUBTA: The World’s Largest DTC Subscription Community.”** 2022.    
 
-Fontanella, Clint. **“What’s a Subscription Business Model & How Does It Work?”** February 25, 2022. <https://blog.hubspot.com/service/subscription-business-model>  
+Fontanella, Clint. **“What’s a Subscription Business Model &amp; How Does It Work?”** February 25, 2022.   
 
-Zuora Content Team. **“9 Keys to Building Successful Subscription Business Models.”** 2022. <https://www.zuora.com/guides/nine-keys-building-successful-subscription-business/>  
+Zuora Content Team. **“9 Keys to Building Successful Subscription Business Models.”** 2022.   
 
-Marr, Bernard. **“The Best Examples of Subscription Models.”** March 9, 2022. <https://bernardmarr.com/the-best-examples-of-subscription-business-models/>  
+Marr, Bernard. **“The Best Examples of Subscription Models.”** March 9, 2022.   
 
 ### Videos
 
 
-Uscreen. **“Subscription Business Models – 6 Types You Should Know.”** August 21, 2019. Video, 13:06. <https://youtu.be/hYG0tuYuzKU>  
+Uscreen. **“Subscription Business Models – 6 Types You Should Know.”** August 21, 2019. Video, 13:06.   
 
-SUBTA Studios. **“Gary Vee and the Subscription Business Model with Christopher George.”** May 6, 2020. Video, 16:38. <https://youtu.be/_Es46L1ayNg>  
+SUBTA Studios. **“Gary Vee and the Subscription Business Model with Christopher George.”** May 6, 2020. Video, 16:38.   
 
-Learn With Shopify. **“Build Recurring Revenue: How to Start a Subscription Box Business.”** February 24, 2021. Video, 11:10. <https://youtu.be/b_1QM4Dyy7w>   
+Learn With Shopify. **“Build Recurring Revenue: How to Start a Subscription Box Business.”** February 24, 2021. Video, 11:10.    
 
-PolyMatter. **“Subscription Affliction – Everything is $10/month.”** 2018, June 8. Video, 11:05. <https://youtu.be/lTKuQQegNTs>     
+PolyMatter. **“Subscription Affliction – Everything is $10/month.”** 2018, June 8. Video, 11:05.      
 
 ### Journal Articles
 
@@ -77,6 +78,6 @@ Singh, Mahendra, Jiao Jiao, Marian Klobasa, and Rainer Frietsch. **"Servitizatio
 
 ## Author
 
-This resource guide was prepared in April 2022 by Kevin Seet, Librarian at the National Library, Singapore. The information in this resource guide is valid as of April 2022 and correct as far as we are able to ascertain from our sources. It is not intended to be an exhaustive or complete history on the subject. Please contact the Library for further reading materials on the topic. 
+This resource guide was prepared in April 2022 by Kevin Seet, Librarian at the National Library, Singapore. The information in this resource guide is valid as of April 2022 and correct as far as we are able to ascertain from our sources. It is not intended to be an exhaustive or complete history on the subject. Please contact the Library for further reading materials on the topic.&nbsp;
 
 All Rights Reserved. National Library Board Singapore 2022.

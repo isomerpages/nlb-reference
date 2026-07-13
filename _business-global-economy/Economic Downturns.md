@@ -34,7 +34,7 @@ To learn more about economic downturns and their impact as well as how Singapore
 
 [^6]: Asian Financial Crisis Erupts. *National Library Board.* Retrieved 2024, May 30 from [https://www.nlb.gov.sg/main/article-detail?cmsuuid=87709dd7-72ae-47e2-876c-60544bb25e00](https://www.nlb.gov.sg/main/article-detail?cmsuuid=87709dd7-72ae-47e2-876c-60544bb25e00)
 
-[^7]: Woo, J. J. (2018). Singapore's Approach to Handling Economic Crisis. *Lee Kuan Yew School of Public Policy*, 1–20. Retrieved 2024, May 30 from [https://lkyspp.nus.edu.sg/docs/default-source/case-studies/singapores_approach_to_managing_economic_crises_22052018_lowres.pdf?sfvrsn=7387660a_0](https://lkyspp.nus.edu.sg/docs/default-source/case-studies/singapores_approach_to_managing_economic_crises_22052018_lowres.pdf?sfvrsn=7387660a_0)
+[^7]: Woo, J. J. (2018). Singapore's Approach to Handling Economic Crisis. *Lee Kuan Yew School of Public Policy*, 1–20. Retrieved 2024, May 30 from [https://scholarbank.nus.edu.sg/entities/publication/83cdc411-a0c9-4c2d-9256-00a94721a05e](https://scholarbank.nus.edu.sg/entities/publication/83cdc411-a0c9-4c2d-9256-00a94721a05e)
 
 
 

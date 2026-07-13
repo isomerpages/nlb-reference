@@ -3,11 +3,8 @@ title: Climate Change
 permalink: /guides/sci-tech/sciences/climate-change/
 breadcrumb: Climate Change
 description: ""
+variant: markdown
 ---
-
-
-
-
 ![Climate Change](/images/sci-tech/climate change main pic.jpg)
 
 ### Guide Index
@@ -38,11 +35,11 @@ This guide consists of a general list of Internet resources, books and Ebooks ab
 
 (listed in alphabetical order)
 
-<img src="/images/sci-tech/A Bright Future.jpg" style="width:150px;"/>
+<img src="/images/sci-tech/A Bright Future.jpg" style="width:150px;">
 
 **A bright future: How some countries have solved climate change and the rest can follow**
 
-Goldstein, J. S. & Qvist, S. A. (2019). *[A bright future: How some countries have solved climate change and the rest can follow](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203813762){:target="blank"}*. New York: PublicAffairs.
+Goldstein, J. S. &amp; Qvist, S. A. (2019). *[A bright future: How some countries have solved climate change and the rest can follow](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203813762){:target="blank"}*. New York: PublicAffairs.
 
 Call no.: R 363.738746 GOL
 
@@ -50,11 +47,11 @@ This book holds up countries such as Sweden, France, South Korea and Canada as r
 
 
 
-<img src="/images/sci-tech/Climate Change and Spore.jpg" style="width:150px;"/>
+<img src="/images/sci-tech/Climate Change and Spore.jpg" style="width:150px;">
 
-**Climate change & Singapore: Challenges, opportunities, partnerships: National Climate Change Strategy 2012: Creating a climate for sustainable growth, securing a liveable environment for our future**
+**Climate change &amp; Singapore: Challenges, opportunities, partnerships: National Climate Change Strategy 2012: Creating a climate for sustainable growth, securing a liveable environment for our future**
 
-*[Climate change & Singapore: Challenges, opportunities, partnerships: National Climate Change Strategy 2012: Creating a climate for sustainable growth, securing a liveable environment for our future](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14512079){:target="blank"}*. (2012). Singapore: National Climate Change Secretariat.
+*[Climate change &amp; Singapore: Challenges, opportunities, partnerships: National Climate Change Strategy 2012: Creating a climate for sustainable growth, securing a liveable environment for our future](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14512079){:target="blank"}*. (2012). Singapore: National Climate Change Secretariat.
 
 Call no.: RSING 363.7376095957 CLI
 
@@ -62,11 +59,11 @@ Details Singapore's plans to prepare for climate change and to support Singapore
 
 
 
-<img src="/images/sci-tech/Climate Change and Global Devt.jpg" style="width:150px;"/>
+<img src="/images/sci-tech/Climate Change and Global Devt.jpg" style="width:150px;">
 
 **Climate change and global development: Market, global players and empirical evidence**
 
-Sequeira, T. & Reis, T. (Eds.). (2019). [Climate change and global development: Market, global players and empirical evidence](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204390081){:target="blank"}. Cham, Switzerland: Springer Nature.
+Sequeira, T. &amp; Reis, T. (Eds.). (2019). [Climate change and global development: Market, global players and empirical evidence](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204390081){:target="blank"}. Cham, Switzerland: Springer Nature.
 
 Call no.: R 363.73874 CLI
 
@@ -74,7 +71,7 @@ The authors examine the impact of climate change on economic growth, social deve
 
 
 
-<img src="/images/sci-tech/Climate Change Observed.jpg" style="width:150px;"/>
+<img src="/images/sci-tech/Climate Change Observed.jpg" style="width:150px;">
 
 **Climate change: Observed impacts on planet earth**
 
@@ -86,7 +83,7 @@ This volume contains 33 chapters on modelling climate change, geological history
 
 
 
-<img src="/images/sci-tech/Decarbonisation.jpg" style="width:150px;"/>
+<img src="/images/sci-tech/Decarbonisation.jpg" style="width:150px;">
 
 **Decarbonisation and the energy industry: Law, policy, and regulation in low-carbon energy markets**
 
@@ -98,7 +95,7 @@ Written by energy law and policy experts, the essays in this volume delve into t
 
 
 
-<img src="/images/sci-tech/For a Sustainable Future.jpg" style="width:150px;"/>
+<img src="/images/sci-tech/For a Sustainable Future.jpg" style="width:150px;">
 
 **For a sustainable future: A climate-resilient Singapore**
 
@@ -110,11 +107,11 @@ Provides an overview of the possible impacts of climate change on Singapore, off
 
 
 
-<img src="/images/sci-tech/Global Climate Policy.jpg" style="width:150px;"/>
+<img src="/images/sci-tech/Global Climate Policy.jpg" style="width:150px;">
 
 **Global climate policy: Actors, concepts, and enduring challenges**
 
-Luterbacher, U. & Sprinz, D. F. (2018). *[Global climate policy: Actors, concepts, and enduring challenges](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203222163){:target="blank"}*. Cambridge, Massachusetts: The MIT Press.
+Luterbacher, U. &amp; Sprinz, D. F. (2018). *[Global climate policy: Actors, concepts, and enduring challenges](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203222163){:target="blank"}*. Cambridge, Massachusetts: The MIT Press.
 
 Call no.: R 363.73874 GLO
 
@@ -122,7 +119,7 @@ Contains essays from leading experts which examine the political context of the 
 
 
 
-<img src="/images/sci-tech/National Pathways.jpg" style="width:150px;"/>
+<img src="/images/sci-tech/National Pathways.jpg" style="width:150px;">
 
 **National pathways to low carbon emission economies: Innovation policies for decarbonizing and unlocking**
 
@@ -134,7 +131,7 @@ This book examines why policy responses to climate change differ among different
 
 
 
-<img src="/images/sci-tech/No One Is Too Small.jpg" style="width:150px;"/>
+<img src="/images/sci-tech/No One Is Too Small.jpg" style="width:150px;">
 
 **No one is too small to make a difference**
 
@@ -146,7 +143,7 @@ Read about Swedish teenage environmental activist and a nominee for the Nobel Pe
 
 
 
-<img src="/images/sci-tech/One Final Warning.jpg" style="width:150px;"/>
+<img src="/images/sci-tech/One Final Warning.jpg" style="width:150px;">
 
 **Our final warning: Six degrees of climate emergency**
 
@@ -158,7 +155,7 @@ Lynas paints vivid and scary scenarios (based on research and interviews with ex
 
 
 
-<img src="/images/sci-tech/Renewable Energy Management.jpg" style="width:150px;"/>
+<img src="/images/sci-tech/Renewable Energy Management.jpg" style="width:150px;">
 
 **Renewable energy management in emerging economies: Strategies for growth**
 
@@ -170,7 +167,7 @@ Emerging economies undergoing rapid economic development with increased use of f
 
 
 
-<img src="/images/sci-tech/Surviving Global Warming.jpg" style="width:150px;"/>
+<img src="/images/sci-tech/Surviving Global Warming.jpg" style="width:150px;">
 
 **Surviving global warming: Why eliminating greenhouse gases isn't enough**
 
@@ -182,11 +179,11 @@ According to climate expert, Roger A. Sedjo, the measures delineated in the Pari
 
 
 
-<img src="/images/sci-tech/The Clean Energy Age.jpg" style="width:150px;"/>
+<img src="/images/sci-tech/The Clean Energy Age.jpg" style="width:150px;">
 
 **The clean energy age: A guide to beating climate change**
 
-Nagy, B. F. (2018). *[The clean energy age: A guide to beating climate change](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203810225){:target="blank"}*. Lanham, Maryland: Rowman & Littlefield.
+Nagy, B. F. (2018). *[The clean energy age: A guide to beating climate change](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203810225){:target="blank"}*. Lanham, Maryland: Rowman &amp; Littlefield.
 
 Call no.: R 333.79 NAG
 
@@ -194,7 +191,7 @@ To tackle carbon emissions, Nagy provides a Top Ten list of practical solutions 
 
 
 
-<img src="/images/sci-tech/The Great Derangement.jpg" style="width:150px;"/>
+<img src="/images/sci-tech/The Great Derangement.jpg" style="width:150px;">
 
 **The great derangement: Climate change and the unthinkable**
 
@@ -206,7 +203,7 @@ Ghosh looks at literature, history and politics and examines climate change fail
 
 
 
-<img src="/images/sci-tech/The Stockholm Paradigm.jpg" style="width:150px;"/>
+<img src="/images/sci-tech/The Stockholm Paradigm.jpg" style="width:150px;">
 
 **The Stockholm paradigm: Climate change and emerging disease**
 
@@ -218,7 +215,7 @@ Climate change disrupts the natural ecosystem and enables pathogens to move to n
 
 
 
-<img src="/images/sci-tech/Thinking Persons Guide.jpg" style="width:150px;"/>
+<img src="/images/sci-tech/Thinking Persons Guide.jpg" style="width:150px;">
 
 **The thinking person's guide to climate change**
 
@@ -230,7 +227,7 @@ Written for the layperson in mind, this book published by the American Meteorolo
 
 
 
-<img src="/images/sci-tech/Weather and Climate of Spore.jpg" style="width:150px;"/>
+<img src="/images/sci-tech/Weather and Climate of Spore.jpg" style="width:150px;">
 
 **The weather and climate of Singapore** 
 
@@ -249,7 +246,7 @@ Provides a good overview of Singapore's general climate and explains how weather
 
 (*myLibrary ID* is required to access the ebooks from NLB’s eresources website [https://eresources.nlb.gov.sg/main/](https://eresources.nlb.gov.sg/main/){:target="blank"})
 
-<img src="/images/sci-tech/Coping with climate Crisis.jpg" style="width:150px;"/>
+<img src="/images/sci-tech/Coping with climate Crisis.jpg" style="width:150px;">
 
 **Coping with the climate crisis**
 
@@ -259,17 +256,17 @@ The essays from leading academic economists and industry practitioners in this v
 
 
 
-<img src="/images/sci-tech/Building a Resilient Tomorrow.jpg" style="width:150px;"/>
+<img src="/images/sci-tech/Building a Resilient Tomorrow.jpg" style="width:150px;">
 
 **Building a resilient tomorrow: How to prepare for the coming climate disruption** 
 
-Hill, A. C. & Martinez-Diaz, L. (2019). *[Building a resilient tomorrow: How to prepare for the coming climate disruption](https://nlb.overdrive.com/media/5027448){:target="blank"}*. Oxford, UK: Oxford University Press. Available from NLB Overdrive.
+Hill, A. C. &amp; Martinez-Diaz, L. (2019). *[Building a resilient tomorrow: How to prepare for the coming climate disruption](https://nlb.overdrive.com/media/5027448){:target="blank"}*. Oxford, UK: Oxford University Press. Available from NLB Overdrive.
 
 This book focuses on solutions which can help to tackle the inevitable impact of climate change and the authors propose pragmatic recommendations to strengthen climate resilience, ranging from relocations from danger hotspots along the coast to using biotechnology to deal with climate-related diseases.
 
 
 
-<img src="/images/sci-tech/Heat Advisory.jpg" style="width:150px;"/>
+<img src="/images/sci-tech/Heat Advisory.jpg" style="width:150px;">
 
 **Heat advisory: Protecting health on a warming planet** 
 
@@ -279,17 +276,17 @@ Lockwood describes the impact of global warming on human health. Drawing on peer
 
 
 
-<img src="/images/sci-tech/How to Talk.jpg" style="width:150px;"/>
+<img src="/images/sci-tech/How to Talk.jpg" style="width:150px;">
 
 **How to talk about climate change in a way that makes a difference** 
 
-Huntley, R. (2020). *[How to talk about climate change in a way that makes a difference](https://nlb.overdrive.com/media/5564439){:target="blank"}*. Australia: Allen & Unwin. Available from NLB OverDrive.
+Huntley, R. (2020). *[How to talk about climate change in a way that makes a difference](https://nlb.overdrive.com/media/5564439){:target="blank"}*. Australia: Allen &amp; Unwin. Available from NLB OverDrive.
 
 Huntley's book provides a guide for understanding people's emotional responses to climate change and how meaningful exchanges on climate change can be conducted among groups with different opinions about the topic.
 
 
 
-<img src="/images/sci-tech/Net Zero.jpg" style="width:150px;"/>
+<img src="/images/sci-tech/Net Zero.jpg" style="width:150px;">
 
 **Net zero: How we stop causing climate change**
 
@@ -299,7 +296,7 @@ Economist professor Helm offers a rational assessment of how climate change can 
 
 
 
-<img src="/images/sci-tech/Our Livable World.jpg" style="width:150px;"/>
+<img src="/images/sci-tech/Our Livable World.jpg" style="width:150px;">
 
 **Our livable world: Creating the clean earth of tomorrow**
 
@@ -309,27 +306,27 @@ Schaus explores green technology innovations which can help the world to deal wi
 
 
 
-<img src="/images/sci-tech/Retreat from Rising Sea.jpg" style="width:150px;"/>
+<img src="/images/sci-tech/Retreat from Rising Sea.jpg" style="width:150px;">
 
 **Retreat from a rising sea: Hard choices in an age of climate change**
 
-Pilkey, O. H., Pilkey-Jarvis, L., & Pilkey, K. C. (2016). *[Retreat from a rising sea: Hard choices in an age of climate change](https://nlb.overdrive.com/media/2570869){:target="blank"}*. New York: Columbia University Press. Available from NLB Overdrive.
+Pilkey, O. H., Pilkey-Jarvis, L., &amp; Pilkey, K. C. (2016). *[Retreat from a rising sea: Hard choices in an age of climate change](https://nlb.overdrive.com/media/2570869){:target="blank"}*. New York: Columbia University Press. Available from NLB Overdrive.
 
 The book offers deep analysis and case histories which highlight the vulnerabilities of many cities and communities in the United States and around the world pertaining to climate change. It offers visions and solutions of how coastal cities and communities have dealt with climate changes in the past and how they will need to cope with arising coastal risks in the future.
 
 
 
-<img src="/images/sci-tech/Rising Tides.jpg" style="width:150px;"/>
+<img src="/images/sci-tech/Rising Tides.jpg" style="width:150px;">
 
 **Rising tides: Climate refugees in the twenty-first century**
 
-Wennersten, J. R. & Robbins, D. (2020). *[Rising tides: Climate refugees in the twenty-first century](https://nlb.overdrive.com/media/3314735){:target="blank"}*. Indiana: Indiana University Press. Available from NLB Overdrive.
+Wennersten, J. R. &amp; Robbins, D. (2020). *[Rising tides: Climate refugees in the twenty-first century](https://nlb.overdrive.com/media/3314735){:target="blank"}*. Indiana: Indiana University Press. Available from NLB Overdrive.
 
 Due to rising sea levels, millions of people living along the coastlines will be displaced from their homes. This book addresses issues such as the relocation and resettlement of environmental or climate refugees, the legal rights of the refugees to their new homes and costs involved during the resettlement process. 
 
 
 
-<img src="/images/sci-tech/State of the World.jpg" style="width:150px;"/>
+<img src="/images/sci-tech/State of the World.jpg" style="width:150px;">
 
 **State of the world: Can a city be sustainable?** 
 
@@ -339,7 +336,7 @@ The book examines cross-cutting issues that affect the success of all cities. To
 
 
 
-<img src="/images/sci-tech/100 Percent Solution.jpg" style="width:150px;"/>
+<img src="/images/sci-tech/100 Percent Solution.jpg" style="width:150px;">
 
 **The 100% solution: A plan for solving climate change**
 
@@ -349,17 +346,17 @@ The author, a prominent millennial climate activist, emphasises that the world n
 
 
 
-<img src="/images/sci-tech/Fragile Earth.jpg" style="width:150px;"/>
+<img src="/images/sci-tech/Fragile Earth.jpg" style="width:150px;">
 
 **The fragile earth: Writing from The New Yorker on climate change**
 
-Remnick, D. & Finder, H. (2020). *[The fragile earth: Writing from The New Yorker on climate change](https://nlb.overdrive.com/media/5207432){:target="blank"}*. New York: Ecco Press. Available from NLB OverDrive.
+Remnick, D. &amp; Finder, H. (2020). *[The fragile earth: Writing from The New Yorker on climate change](https://nlb.overdrive.com/media/5207432){:target="blank"}*. New York: Ecco Press. Available from NLB OverDrive.
 
 Contains quality pieces written by The New Yorker's journalists over the last three decades on climate change and global warming, covering the political and ecological environment and potential scenarios confronting the world in the future.
 
 
 
-<img src="/images/sci-tech/Vanishing Ice.jpg" style="width:150px;"/>
+<img src="/images/sci-tech/Vanishing Ice.jpg" style="width:150px;">
 
 **Vanishing ice: Glaciers, ice sheets and rising seas** 
 
@@ -369,7 +366,7 @@ Ice sheets in the Arctic and the Antarctic are melting, mountain glaciers are re
 
 
 
-<img src="/images/sci-tech/What We Need To Do Now.jpg" style="width:150px;"/>
+<img src="/images/sci-tech/What We Need To Do Now.jpg" style="width:150px;">
 
 **What we need to do now: For a zero carbon future**
 
@@ -387,7 +384,7 @@ Goodall proposes significant economic and societal changes in order for UK to ac
 
 **Climate change and the legal, ethical and health issues facing healthcare and public health systems**
 
-Ganesh, C., Schmeltz, M. & Smith, J. (2020, December). Climate change and the legal, ethical and health issues facing healthcare and public health systems. In *Journal of Law, Medicine & Ethics*, 48(4), 636-642. Retrieved 2021, January 29, from EBSCOhost Academic Search Complete via NLB’s eResources website [http://eresources.nlb.gov.sg/main/browse/resource/1329/](http://eresources.nlb.gov.sg/main/browse/resource/1329/){:target="blank"} (*myLibrary ID* is required to access this article)
+Ganesh, C., Schmeltz, M. &amp; Smith, J. (2020, December). Climate change and the legal, ethical and health issues facing healthcare and public health systems. In *Journal of Law, Medicine &amp; Ethics*, 48(4), 636-642. Retrieved 2021, January 29, from EBSCOhost Academic Search Complete via NLB’s eResources website [http://eresources.nlb.gov.sg/main/browse/resource/1329/](http://eresources.nlb.gov.sg/main/browse/resource/1329/){:target="blank"} (*myLibrary ID* is required to access this article)
 
 This article provides an overview of how the frequency and intensity of extreme weather events caused by the increase in global temperatures affects human health, public health care systems and the environment. Health impacts are further categorised into direct impacts, environmental system mediated impacts and socially mediated impacts and among those most affected are minorities, the low-income sector, children, older adults and people with disabilities.
 
@@ -443,7 +440,7 @@ A three-prong strategy is needed to tackle climate change - conventional mitigat
 
 **The role of climate change education on individual lifetime carbon emissions**
 
-Cordero, E., Centeno, D. & Todd, A. M. (2020, February). The role of climate change education on individual lifetime carbon emissions. In *PLoS One*, 15(2), 1-23. Retrieved 2021, January 28, from ProQuest Central via NLB’s eResources website [http://eresources.nlb.gov.sg/main/browse/resource/1111/](http://eresources.nlb.gov.sg/main/browse/resource/1111/){:target="blank"} (*myLibrary ID* is required to access this article)
+Cordero, E., Centeno, D. &amp; Todd, A. M. (2020, February). The role of climate change education on individual lifetime carbon emissions. In *PLoS One*, 15(2), 1-23. Retrieved 2021, January 28, from ProQuest Central via NLB’s eResources website [http://eresources.nlb.gov.sg/main/browse/resource/1111/](http://eresources.nlb.gov.sg/main/browse/resource/1111/){:target="blank"} (*myLibrary ID* is required to access this article)
 
 This paper examines the impact which an intensive one-year university course on individual carbon emissions had on graduates from the course. A survey done five years after the end of the course revealed that graduates made more pro-environmental decisions, resulting in a reduction of individual carbon emissions by 2.86 tons of CO2 per year. The authors conclude that similar education programmes conducted on a wide scale would be equally of not more effective then mitigation strategies such as using solar rooftops or electric vehicles.
 
@@ -485,7 +482,7 @@ Read about how climate change can impact Singapore's water resources, biodiversi
 
 **McKinsey on climate change**
 
-McKinsey on climate change. (2020, September). *McKinsey & Company*. Retrieved 2021, January 26, from [https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/Sustainability/Our%20Insights/McKinsey%20on%20Climate%20Change/McKinsey-on-Climate%20Change-Report.pdf](https://www.mckinsey.com/~/media/McKinsey/Business Functions/Sustainability/Our Insights/McKinsey on Climate Change/McKinsey-on-Climate Change-Report.pdf){:target="blank"} 
+McKinsey on climate change. (2020, September). *McKinsey &amp; Company*. Retrieved 2021, January 26, from [https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/Sustainability/Our%20Insights/McKinsey%20on%20Climate%20Change/McKinsey-on-Climate%20Change-Report.pdf](https://www.mckinsey.com/~/media/McKinsey/Business Functions/Sustainability/Our Insights/McKinsey on Climate Change/McKinsey-on-Climate Change-Report.pdf){:target="blank"} 
 
 
 
@@ -535,7 +532,7 @@ Provides an overview of the global climate with the use of seven indicators (suc
 
  **United in science 2020** 
 
-United in science 2020. (2020). *World Meteorological Organization*. Retrieved 2021, January 25, from [https://public.wmo.int/en/resources/united_in_science](https://public.wmo.int/en/resources/united_in_science){:target="blank"}
+United in science 2020. (2020). *World Meteorological Organization*. Retrieved 2026, January 25, from [https://wmo.int/media/news/united-science-report-climate-change-has-not-stopped-covid19](https://wmo.int/media/news/united-science-report-climate-change-has-not-stopped-covid19){:target="blank"}
 
 
 
@@ -571,7 +568,7 @@ WMO is a UN agency made up of inter-governments of 193 member states. WMO’s co
 
 Sutter, J. (2020, April 14). BASELINE 2020: Climate change beyond a human lifetime. *TEDx Talks*. Retrieved 2020, 6 January 2021, from [https://youtu.be/InWEC4oxBW0](https://youtu.be/InWEC4oxBW0){:target="blank"}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/InWEC4oxBW0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/InWEC4oxBW0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 Emmy-nominated documentary filmmaker and CNN climate analyst, John D. Sutter, talks about his longitudinal film series -- BASELINE, which helps to document climate changes in four different locations at every five-year interval until 2050. This documentary aims to address the "shifting baseline syndrome", which refers to the human perception that environmental change happens too glacially to raise the alarm among the general human population.
 
@@ -581,7 +578,7 @@ Emmy-nominated documentary filmmaker and CNN climate analyst, John D. Sutter, ta
 
 Causes and effects of climate change. (2017, August 28). *National Geographic*. Retrieved 2021, January 6, from [https://youtu.be/G4H1N_yXBiA](https://youtu.be/G4H1N_yXBiA){:target="blank"}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G4H1N_yXBiA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G4H1N_yXBiA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 Learn how human activities such as the burning of fossil fuels have contributed to the greenhouse effect, where greenhouse gases such as carbon dioxide and methane are trapped in the earth's atmosphere, causing an increase in the earth's temperature, which then wreaks havoc with the climate.
 
@@ -594,22 +591,13 @@ Climate One Podcast. (2021). *Climate One*. Retrieved 2021, January 8, from [htt
 
 The podcasts offer fresh insights on energy, the economy, resilience, transportation, water, food, technology and the environment, via frank discussions by climate scientists, policymakers, activists and concerned citizens. Each podcast episode is released weekly.
 
- 
 
-**Shaping the future - From pandemic to climate change**
-
-Shaping the future - From pandemic to climate change. Cambridge Climate Lecture Series. (2020). *University of Cambridge*. Retrieved 2021, January 8, from [https://climateseries.com/climate-change-podcast](https://climateseries.com/climate-change-podcast){:target="blank"}
-
-
-The podcasts feature interviews with environmental and climate change experts on how human actions are impacting the lived environment for current and future generations and what governments and ordinary citizens around the world can do to mitigate the fallout from climate catastrophes. Six podcast episodes are released each month.
-
- 
 
 **Three solutions that can slow or stop climate change**
 
 Three solutions that can slow or stop climate change. (2020, June 15). *NOVA PBS Official*. Retrieved 2021, January 7, from [https://youtu.be/YoZF16PZYoU](https://youtu.be/YoZF16PZYoU){:target="blank"}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YoZF16PZYoU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YoZF16PZYoU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 Three solutions to be developed in tandem are proposed to tackle climate change, divided into acts of "prevention" to stop the release of greenhouse gases into the atmosphere, "undoing" the amount of carbon dioxide already present with the use of negative emissions technologies and "adapting" to living on a warmer planet.
 
@@ -619,7 +607,7 @@ Three solutions to be developed in tandem are proposed to tackle climate change,
 
 Shellenberger, M. (2019, January 4). Why renewables can’t save the planet. *TEDx Talks*. Retrieved 2021, January 7, from [https://youtu.be/N-yALPEpV4w](https://youtu.be/N-yALPEpV4w){:target="blank"}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N-yALPEpV4w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N-yALPEpV4w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 Time Magazine “Hero of the Environment” and energy expert, Michael Shellenberger, shares why the challenges of employing renewable energy sources such as solar panels and wind farms coupled with the negative environmental impact they had on the environment led him down the path towards nuclear energy, despite the controversy surrounding this alternative form of energy.
 
@@ -629,7 +617,7 @@ Time Magazine “Hero of the Environment” and energy expert, Michael Shellenbe
 
 World leaders fail to curb climate change in 2020. (2020, December 3). *DW News*. Retrieved 2020, 6 January 2021, from [https://youtu.be/GGGTUSXeahk](https://youtu.be/GGGTUSXeahk){:target="blank"}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GGGTUSXeahk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GGGTUSXeahk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 António Guterres, Secretary-General of the UN, urgently calls upon world leaders to unite in the battle against climate change. According to a climate scientist from Stanford University, climate change is a side effect of fossil fuel energy consumption and the challenge is to ensure that people all over the world have access to energy necessary for their well-being, while trying to achieve net-zero carbon emissions.
 
