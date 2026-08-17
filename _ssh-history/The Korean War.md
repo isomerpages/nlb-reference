@@ -196,7 +196,7 @@ This website traces the history of how General MacArthur, once the Commander-in-
 Contains an extensive digital archive of declassified US documents pertaining to the Cold War, the Cuban Missile Crisis and the Korean War as well as on issues related to the US national security, foreign policy, diplomatic and military history and intelligence policy.
 
 
-* Naval History and Heritage Command (2016, June 22). Korean War. Retrieved March 21, 2017, from Naval History and Heritage Command website: [http://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/korean-war.html](http://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/korean-war.html)
+* Naval History and Heritage Command (2016, June 22). Korean War. Retrieved March 21, 2017, from Naval History and Heritage Command website: [https://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/korean-war.html](https://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/korean-war.html)
 
 This website gives an overview of the involvement of the US naval forces in the Korean War, including some naval photographs of the military in action.
 
