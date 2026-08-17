@@ -1,13 +1,13 @@
 ---
 title: How to Become a Successful Entrepreneur
 permalink: /launch/getting-started/entrepreneurship/successful-entrepreneur/
-description: "Entrepreneurs should ask themselves if they have what it takes to
+description: Entrepreneurs should ask themselves if they have what it takes to
   succeed and thrive, as well as how they can prepare for the challenges ahead.
   Here are some characteristics and qualities successful entrepreneurs have in
-  common.  "
+  common.
 third_nav_title: Intro To Entrepreneurship
+variant: markdown
 ---
-
 # How to Become a Successful Entrepreneur 
 
 All entrepreneurs hope to achieve great success with their companies. Besides a viable business idea, an entrepreneur should possess certain skills and characteristics to turn their ideas into reality.  
@@ -65,16 +65,12 @@ Entrepreneurs should periodically put their strategies to the test and ask thems
 
  
 
-Bhide, Amar. “The Questions Every Entrepreneur Must Answer”. Harvard Business Review. Accessed 18 August 2022, <https://hbr.org/1996/11/the-questions-every-entrepreneur-must-answer<
+Bhide, Amar. “The Questions Every Entrepreneur Must Answer”. Harvard Business Review. Accessed 18 August 2022
 
  
 
-Bocken, Nancy, and Snihur, Yuliya. “Lean Startup and the Business Model: Experimenting for Novelty and Impact”. Long Range Planning, 53, 4 (August 2020). Accessed 18 August 2022, <https://www.sciencedirect.com/science/article/pii/S0024630119303887> 
+Haddad, Lahcen. (2018, February 15). “Seeing Failure as an Opportunity to Learn From (And Leapfrog Into Success)”. Entrepreneur. Published 15 February 2018
 
  
 
-Haddad, Lahcen. (2018, February 15). “Seeing Failure as an Opportunity to Learn From (And Leapfrog Into Success)”. Entrepreneur. Published 15 February 2018, <https://www.entrepreneur.com/article/308943>   
-
- 
-
-Miller, Kelsey. “10 Characteristics of Successful Entrepreneurs”. Harvard Business School Online. Published 7 Jul 2020, <https://online.hbs.edu/blog/post/characteristics-of-successful-entrepreneurs> 
+Miller, Kelsey. “10 Characteristics of Successful Entrepreneurs”. Harvard Business School Online. Published 7 Jul 2020
