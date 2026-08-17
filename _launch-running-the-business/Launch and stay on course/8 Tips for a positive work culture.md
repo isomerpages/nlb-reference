@@ -103,7 +103,7 @@ Kralova, Ursula. “Millenial Managers can Change Company Culture for the Better
 
 Ramlall, Sunil J. “Enhancing Employee Performance through Positive Organizational Behavior.” Journal of Applied Social Psychology 38, no. 6 (2008): 1580–1600. [https://doi.org/10.1111/j.1559-1816.2008.00360.x](https://doi.org/10.1111/j.1559-1816.2008.00360.x).  
 
-RMIT Online. “Establishing a positive workplace culture: definition, tips & why it’s important”. Published 5 August 2020, [https://studyonline.rmit.edu.au/blog/positive-workplace-culture](https://studyonline.rmit.edu.au/blog/positive-workplace-culture) 
+RMIT Online. “Establishing a positive workplace culture: definition, tips & why it’s important”. Published 5 August 2020, [https://www.rmit.edu.au/online/blog/2020/positive-workplace-culture](https://www.rmit.edu.au/online/blog/2020/positive-workplace-culture) 
 
 Tarver, Evan. “Corporate Culture Definition: Characteristics and Importance Explained”. Investopedia. Updated 2 September 2021, [https://www.investopedia.com/terms/c/corporate-culture.asp](https://www.investopedia.com/terms/c/corporate-culture.asp) 
 
