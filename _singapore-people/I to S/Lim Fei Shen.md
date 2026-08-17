@@ -40,7 +40,7 @@ To access the ebooks listed, you must log in to [**NLB eResources**](https://ere
 ### Websites
 
 * Chor, Poh Chin. “[Lim Fei Shen](https://www.nlb.gov.sg/main/article-detail?cmsuuid=494c9f23-a27b-4f18-a91d-3c5c78b8615e).” Singapore Infopedia, National Library Board. Last modified February 18, 2014. https://www.nlb.gov.sg/main/article-detail?cmsuuid=494c9f23-a27b-4f18-a91d-3c5c78b8615e. 
-* “[Lim Fei Shen](https://www.esplanade.com/tributesg/performing-arts/lim-fei-shen).” TributeSG, Esplanade. Accessed November 1, 2021. https://www.esplanade.com/tributesg/performing-arts/lim-fei-shen. 
+* “[Lim Fei Shen](https://www.esplanade.com/offstage/series/tributesg/dance/lim-fei-shen).” TributeSG, Esplanade. Accessed November 1, 2021. https://www.esplanade.com/offstage/series/tributesg/dance/lim-fei-shen. 
 * “[Performing artiste – Lim Fei Shen](https://tfcsea.nafa.edu.sg/artist_biography.aspx?id=47).” Tanoto Foundation Centre for Southeast Asian Arts at NAFA. Accessed November 3, 2021. https://tfcsea.nafa.edu.sg/artist_biography.aspx?id=47.
 
 ### Newspaper articles
