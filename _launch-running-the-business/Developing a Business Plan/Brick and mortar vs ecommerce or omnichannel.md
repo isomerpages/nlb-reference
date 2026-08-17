@@ -56,7 +56,7 @@ Ferguson, Lucy. “The Future of Shopping: 5 Consumer Trends Shaping the Retail 
 
 Aleksic, Marina. “Ecommerce vs Retail – Learn Who Wins the Shopping Battle {Detailed Comparison}”. Posted March 19, 2021. [https://ccbill.com/blog/ecommerce-vs-retail](https://ccbill.com/blog/ecommerce-vs-retail) 
 
-Kumar, Amit. “Future of Retail is Omnichannel”. Entrepreneur. February 18, 2021. [https://www.entrepreneur.com/article/365678](https://www.entrepreneur.com/article/365678) 
+Kumar, Amit. “Future of Retail is Omnichannel”. Entrepreneur. February 18, 2021. [https://india.entrepreneur.com/technology/future-of-retail-is-omnichannel/365678](https://india.entrepreneur.com/technology/future-of-retail-is-omnichannel/365678) 
 
 Marr, Bernard. “The 5 Biggest Retail Trends in 2021”. Forbes. November 16, 2020. [https://www.forbes.com/sites/bernardmarr/2020/11/16/the-5-biggest-retail-trends-in-2021/](https://www.forbes.com/sites/bernardmarr/2020/11/16/the-5-biggest-retail-trends-in-2021/) 
 
