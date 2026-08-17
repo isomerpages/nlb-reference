@@ -3,9 +3,8 @@ title: Five Steps to Validate Your Business Idea
 permalink: /launch/get-started/ideation-validation/validate-idea/
 description: ""
 third_nav_title: Ideation & Market Validation
+variant: markdown
 ---
-
-
 # Five Steps to Validate Your Business Idea
 
 ## What is idea validation?
@@ -40,14 +39,14 @@ Idea validation ascertains if there is a market demand for the product or servic
 
 ## References
 
-Alcock, M. (2020, March 28). Business idea validation: Why you need to do it. Medium. Retrieved June 15, 2021, from <https://medium.com/@mattalcock/business-idea-validation-why-you-need-to-do-it-1581aea256d1>
+Alcock, M. (2020, March 28). Business idea validation: Why you need to do it. Medium. Retrieved June 15, 2021 
 
-Business Tasmania. (n.d.). Idea validation. Tasmanian Government. Retrieved June 15, 2021, from <https://www.business.tas.gov.au/starting/idea_validation>
+Business Tasmania. (n.d.). Idea validation. Tasmanian Government. Retrieved June 15, 2021 
 
-Cote, C. (2020, August 18). 5 steps to validate your business idea. Harvard Business School Online. Retrieved June 15, 2021, from <https://online.hbs.edu/blog/post/market-validation>
+Cote, C. (2020, August 18). 5 steps to validate your business idea. Harvard Business School Online. Retrieved June 15, 2021 
 
-Gill, P. (2017, October 9). How to validate your idea before starting an enterprise. Entrepreneur. Retrieved June 15, 2021, from <https://www.entrepreneur.com/article/302375>
+Gill, P. (2017, October 9). How to validate your idea before starting an enterprise. Entrepreneur. Retrieved June 15, 2021
 
-Hughes, D. (2020, February 12). 7 essential steps to validate your business idea. GoDaddy Singapore. Retrieved June 15, 2021, from <https://www.godaddy.com/garage/how-to-validate-new-business-idea/>
+Hughes, D. (2020, February 12). 7 essential steps to validate your business idea. GoDaddy Singapore. Retrieved June 15, 2021 
 
-Tjellesen, M. J. (2018, March 26). The power of prototypes – from initial idea to final product. LinkedIn. Retrieved June 15, 2021, from <https://www.linkedin.com/pulse/power-prototypes-from-initial-idea-final-product-just-jakobsen>
+Tjellesen, M. J. (2018, March 26). The power of prototypes – from initial idea to final product. LinkedIn. Retrieved June 15, 2021
